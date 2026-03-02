@@ -600,6 +600,34 @@ body {
   margin-bottom: var(--space-md);
 }
 
+.new-badge {
+  display: inline-block;
+  background: var(--accent-blue);
+  color: white;
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 6px;
+  vertical-align: middle;
+  box-shadow: 0 0 8px rgba(9, 132, 227, 0.4);
+  animation: pulseNew 2s infinite;
+}
+
+@keyframes pulseNew {
+  0% {
+    box-shadow: 0 0 0 0 rgba(9, 132, 227, 0.4);
+  }
+
+  70% {
+    box-shadow: 0 0 0 6px rgba(9, 132, 227, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(9, 132, 227, 0);
+  }
+}
+
 .card-tags {
   display: flex;
   flex-wrap: wrap;

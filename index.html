@@ -123,7 +123,16 @@
         <button class="pill" data-cat="Tech">⚙️ Tech</button>
         <button class="pill" data-cat="Community">🧠 Community</button>
       </div>
-      <div class="strength-filter" id="strength-filter">
+      <div class="sort-filter" id="sort-filter" style="display:flex;align-items:center;gap:8px;margin-left:auto;">
+        <span class="strength-label">Sort By</span>
+        <select class="form-select" id="sort-select"
+          style="padding:4px 8px;font-size:0.75rem;border-radius:var(--radius-sm);background:var(--bg-glass);color:var(--text-secondary);border:1px solid var(--border-subtle);outline:none;cursor:pointer;">
+          <option value="importance">⭐ Importance</option>
+          <option value="date-new">📅 Newest First</option>
+          <option value="date-old">📅 Oldest First</option>
+        </select>
+      </div>
+      <div class="strength-filter" id="strength-filter" style="margin-left:var(--space-md);">
         <span class="strength-label">Min Strength</span>
         <div class="strength-dots">
           <button class="strength-dot active" data-str="1">1</button>
