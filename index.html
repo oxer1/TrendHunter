@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VisualTrendHub v2.5 — Visual Trend Intelligence</title>
+  <meta name="description"
+    content="Visual-first trend intelligence dashboard: AI, iGaming, slot art, PixiJS, visual styles.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header class="app-header" id="app-header">
+    <div class="header-content">
+      <div class="header-left">
+        <div class="logo">
+          <span class="logo-icon">◈</span>
+          <h1 class="logo-text">VisualTrendHub</h1>
+        </div>
+        <span class="scan-badge" id="scan-badge">Live Scan</span>
+        <span class="version-badge">v2.5</span>
+      </div>
+      <div class="header-right">
+        <div class="scan-meta" id="scan-meta">
+          <span class="meta-label">Last Scan</span>
+          <span class="meta-value" id="scan-date">—</span>
+        </div>
+        <div class="scan-meta">
+          <span class="meta-label">Trends</span>
+          <span class="meta-value" id="trend-count">—</span>
+        </div>
+        <!-- RESEARCH BUTTON -->
+        <button class="btn-research" id="btn-research" title="Scan sources for new trends">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 12a9 9 0 11-6.22-8.56" />
+            <path d="M21 3v5h-5" />
+          </svg>
+          <span>Research</span>
+        </button>
+        <!-- WATCHLIST BUTTON -->
+        <button class="btn-icon" id="btn-watchlist" title="Watchlist">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- VIEW NAV -->
+  <nav class="view-nav" id="view-nav">
+    <button class="view-btn active" data-view="trends" id="nav-trends">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="3" y="3" width="7" height="7" />
+        <rect x="14" y="3" width="7" height="7" />
+        <rect x="3" y="14" width="7" height="7" />
+        <rect x="14" y="14" width="7" height="7" />
+      </svg>
+      Trends
+    </button>
+    <button class="view-btn" data-view="clusters" id="nav-clusters">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="12" cy="12" r="3" />
+        <circle cx="4" cy="6" r="2" />
+        <circle cx="20" cy="6" r="2" />
+        <circle cx="4" cy="18" r="2" />
+        <circle cx="20" cy="18" r="2" />
+        <line x1="6" y1="7" x2="10" y2="10" />
+        <line x1="18" y1="7" x2="14" y2="10" />
+        <line x1="6" y1="17" x2="10" y2="14" />
+        <line x1="18" y1="17" x2="14" y2="14" />
+      </svg>
+      Clusters
+    </button>
+    <button class="view-btn" data-view="companies" id="nav-companies">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M3 21h18" />
+        <path d="M5 21V7l8-4v18" />
+        <path d="M19 21V11l-6-4" />
+        <path d="M9 9h1" />
+        <path d="M9 13h1" />
+        <path d="M9 17h1" />
+      </svg>
+      Studios
+    </button>
+    <button class="view-btn" data-view="gallery" id="nav-gallery">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 3H3v18h18V3zM3 9h18M3 15h18M9 3v18M15 3v18" />
+      </svg>
+      Visual Gallery
+    </button>
+    <button class="view-btn" data-view="sources" id="nav-sources">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M12 5v14M5 12h14" />
+      </svg>
+      Sources
+    </button>
+  </nav>
+
+  <!-- FILTERS -->
+  <section class="filter-bar" id="filter-bar">
+    <div class="filter-bar-inner">
+      <div class="search-wrap">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+          stroke-width="2">
+          <circle cx="11" cy="11" r="8" />
+          <path d="M21 21l-4.35-4.35" />
+        </svg>
+        <input type="text" class="search-input" id="search-input" placeholder="Search trends, tags, companies…">
+      </div>
+      <div class="filter-pills" id="category-filters">
+        <button class="pill active" data-cat="All">All</button>
+        <button class="pill" data-cat="iGaming">🎰 iGaming</button>
+        <button class="pill" data-cat="AI">🤖 AI</button>
+        <button class="pill" data-cat="Art">🎨 Art</button>
+        <button class="pill" data-cat="Tech">⚙️ Tech</button>
+        <button class="pill" data-cat="Community">🧠 Community</button>
+      </div>
+      <div class="strength-filter" id="strength-filter">
+        <span class="strength-label">Min Strength</span>
+        <div class="strength-dots">
+          <button class="strength-dot active" data-str="1">1</button>
+          <button class="strength-dot" data-str="2">2</button>
+          <button class="strength-dot" data-str="3">3</button>
+          <button class="strength-dot" data-str="4">4</button>
+          <button class="strength-dot" data-str="5">5</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="main-content">
+    <div class="trends-view active" id="trends-view">
+      <div class="masonry-grid" id="masonry-grid"></div>
+      <div class="empty-state hidden" id="empty-state">
+        <div class="empty-icon">◇</div>
+        <p>No trends match your filters</p>
+      </div>
+    </div>
+    <div class="clusters-view" id="clusters-view"></div>
+    <div class="companies-view" id="companies-view"></div>
+    <div class="gallery-view" id="gallery-view"></div>
+    <div class="sources-view" id="sources-view"></div>
+    <div class="watchlist-view" id="watchlist-view"></div>
+  </main>
+
+  <!-- DETAIL MODAL -->
+  <div class="modal-overlay hidden" id="modal-overlay">
+    <div class="modal" id="detail-modal">
+      <button class="modal-close" id="modal-close">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M18 6L6 18" />
+          <path d="M6 6l12 12" />
+        </svg>
+      </button>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- RESEARCH PANEL (slide-over) -->
+  <div class="research-panel hidden" id="research-panel">
+    <div class="research-panel-inner">
+      <div class="research-header">
+        <h3>🔍 Research Scanner</h3>
+        <button class="modal-close" id="research-close">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 6L6 18" />
+            <path d="M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <div class="research-body" id="research-body">
+        <p class="research-status" id="research-status">Click "Start Scan" to scan all sources for new developments.</p>
+        <div class="research-log" id="research-log"></div>
+      </div>
+      <div class="research-footer">
+        <button class="btn-scan" id="btn-scan">Start Scan</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+
+</html>

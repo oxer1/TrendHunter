@@ -1,0 +1,2362 @@
+{
+    "meta": {
+        "scanDate": "2026-02-27T15:56:53+03:00",
+        "version": "2.5.0",
+        "totalTrends": 38,
+        "categories": [
+            "iGaming",
+            "AI",
+            "Art",
+            "Tech",
+            "Community"
+        ],
+        "filters": [
+            "Slot Art",
+            "PixiJS",
+            "Visual Style",
+            "Workflow",
+            "VFX",
+            "Mechanics"
+        ]
+    },
+    "trends": [
+        {
+            "id": "t-001",
+            "title": "Agentic AI Bookie Movement",
+            "subtitle": "ChatBet deploys multi-agent AI inside WhatsApp & Telegram",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "UX",
+                "Messaging",
+                "Retention",
+                "Disruption"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://igamingbusiness.com/sports-betting/online-sports-betting/ux-messaging-app-betting-chatbet/",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "Multi-agent AI architecture in WhatsApp & Telegram. Intent engine, bet builder, risk optimizer, compliance layer, engagement agent. Ecuador pilot: 281 daily sign-ups vs 42, transactions up 3,700%.",
+            "whyItMatters": "3rd wave of betting UX. Lower avg bet but higher frequency — sustainable model.",
+            "howToUse": "Pilot messaging-app betting channels. Explore conversational AI for casino engagement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "UX Designers",
+                "Retention Teams"
+            ],
+            "companies": [
+                "ChatBet"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming"
+        },
+        {
+            "id": "t-002",
+            "title": "Evolution vs Netflix Strategy",
+            "subtitle": "40% moonshots, Hasbro MONOPOLY licensing, competing with TikTok",
+            "category": "iGaming",
+            "tags": [
+                "Strategy",
+                "Branded Content",
+                "Hasbro",
+                "Live Casino"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://igamingbusiness.com/igb-ice/evolution-gaming-malta-ice-2026-barcelona-interview",
+                "date": "2026-02-24"
+            },
+            "whatsNew": "60/40 safe/moonshot roadmap. Hasbro MONOPOLY across Evolution, NetEnt, Red Tiger, BTG. 100+ games/year. Benchmarks against Netflix/Instagram.",
+            "whyItMatters": "Biggest casino supplier now competes with mainstream entertainment.",
+            "howToUse": "Benchmark against entertainment apps. Evaluate branded IP licensing.",
+            "beneficiaries": [
+                "Game Designers",
+                "Animation Teams",
+                "UX/UI Designers"
+            ],
+            "companies": [
+                "Evolution",
+                "NetEnt",
+                "Big Time Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation"
+        },
+        {
+            "id": "t-003",
+            "title": "Slot-Crash Mechanic Hybrids",
+            "subtitle": "Mancala's Rocket Run merges slot symbols with crash multipliers",
+            "category": "iGaming",
+            "tags": [
+                "Game Math",
+                "Mechanics",
+                "Crash Games",
+                "Hybrid"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Mancala Gaming",
+                "url": "https://mancalagaming.com/news/rocket-run-hybrid",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Rocket Run: slot + crash hybrid. Collect Fuel symbols → 10-stage Crash game. 20,000x max.",
+            "whyItMatters": "First major hybrid of two game math models.",
+            "howToUse": "Explore hybrid volatility models. Design dual-phase visual languages.",
+            "beneficiaries": [
+                "Game Designers",
+                "Math Modelers",
+                "Animators"
+            ],
+            "companies": [
+                "Mancala"
+            ],
+            "visualStyle": {
+                "theme": "Sci-Fi / Aliens",
+                "motifs": [
+                    "Rockets",
+                    "Neon",
+                    "Space"
+                ],
+                "palette": [
+                    "#0a0a2e",
+                    "#00f0ff",
+                    "#ff00c8",
+                    "#1a1a3e"
+                ]
+            },
+            "cluster": "igaming-innovation"
+        },
+        {
+            "id": "t-004",
+            "title": "AI-Driven Bonus Abuse Detection",
+            "subtitle": "EveryMatrix Bonus Guardian uses behavioral ML",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Fraud",
+                "Security",
+                "ML"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://igamingbusiness.com/tech-innovation/fraud/protect-against-bonus-abuse-everymatrix-bonus-guardian/",
+                "date": "2026-02-26"
+            },
+            "whatsNew": "ML-based behavioral detection outpaces rule-based systems.",
+            "whyItMatters": "AI weaponized by both sides.",
+            "howToUse": "Deploy ML fraud detection.",
+            "beneficiaries": [
+                "Operators",
+                "Anti-Fraud Teams"
+            ],
+            "companies": [
+                "EveryMatrix"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming"
+        },
+        {
+            "id": "t-005",
+            "title": "NY AG Sues Valve — Loot Box Reclassification",
+            "subtitle": "Loot boxes called 'illegal gambling'",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Legal",
+                "Loot Boxes"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/114563/new-york-ag-sues-valve-loot-box-illegal-gambling",
+                "date": "2026-02-26"
+            },
+            "whatsNew": "NY AG sues Valve. Most aggressive US regulatory action on game monetization.",
+            "whyItMatters": "Could reclassify randomized reward systems industry-wide.",
+            "howToUse": "Audit reward systems for regulatory exposure.",
+            "beneficiaries": [
+                "Compliance Teams",
+                "Game Designers"
+            ],
+            "companies": [
+                "Valve"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation"
+        },
+        {
+            "id": "t-006",
+            "title": "Pragmatic Play ICE 2026 Roadmap",
+            "subtitle": "150+ live tables, progressive tumbling multipliers, Brazil studio",
+            "category": "iGaming",
+            "tags": [
+                "Slots",
+                "Live Casino",
+                "Localization"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Pragmatic Play",
+                "url": "https://pragmaticplay.com/en/news/pragmatic-play-ice-2026-roadmap",
+                "date": "2026-02-22"
+            },
+            "whatsNew": "Zeus vs Hades GoW 250, Sugar Rush Super Scatter, 150+ live tables, Brazil/Serbia/Colombia studios.",
+            "whyItMatters": "Market-specific localization at unprecedented scale.",
+            "howToUse": "Study localization strategies.",
+            "beneficiaries": [
+                "Game Designers",
+                "Animators"
+            ],
+            "companies": [
+                "Pragmatic Play"
+            ],
+            "visualStyle": {
+                "theme": "Greek Mythology",
+                "motifs": [
+                    "Lightning",
+                    "Gold",
+                    "Gods",
+                    "Temples"
+                ],
+                "palette": [
+                    "#1a0a3e",
+                    "#ffd700",
+                    "#4169e1",
+                    "#2d1b69"
+                ]
+            },
+            "cluster": "studio-releases"
+        },
+        {
+            "id": "t-007",
+            "title": "Nolimit City Franchise Sequel Wave",
+            "subtitle": "Dead or Alive 3, Crypt 2, MONOPOLY Rent Rush",
+            "category": "iGaming",
+            "tags": [
+                "Slots",
+                "Sequels",
+                "High Volatility",
+                "Branded"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Nolimit City",
+                "url": "https://nolimitcity.com/news/franchise-sequel-wave-2026",
+                "date": "2026-02-26"
+            },
+            "whatsNew": "DoA3, Crypt 2, Punk Rocker 3, MONOPOLY branded slots, Godbreaker.",
+            "whyItMatters": "Sequel-franchise dominance.",
+            "howToUse": "Analyze franchise visual evolution.",
+            "beneficiaries": [
+                "Game Designers",
+                "Animators"
+            ],
+            "companies": [
+                "Nolimit City"
+            ],
+            "visualStyle": {
+                "theme": "Western / Dark / Dystopian",
+                "motifs": [
+                    "Skulls",
+                    "Guns",
+                    "Punk",
+                    "Neon"
+                ],
+                "palette": [
+                    "#1a0000",
+                    "#ff2222",
+                    "#000000",
+                    "#ff6600"
+                ]
+            },
+            "cluster": "studio-releases"
+        },
+        {
+            "id": "t-008",
+            "title": "BGaming TRUEWAYS™ 262K Ways",
+            "subtitle": "262,144 ways + Aviamasters 2 crash sequel",
+            "category": "iGaming",
+            "tags": [
+                "Mechanics",
+                "Megaways",
+                "Crash Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "BGaming",
+                "url": "https://bgaming.com/news/trueways-262k-aviamasters-2",
+                "date": "2026-02-28"
+            },
+            "whatsNew": "TRUEWAYS™ 262K ways. Aviamasters 2 with Booster symbols, Safe Landing mode.",
+            "whyItMatters": "Proprietary escalation of Megaways formula.",
+            "howToUse": "Study ways-based math innovation.",
+            "beneficiaries": [
+                "Game Designers",
+                "Math Modelers"
+            ],
+            "companies": [
+                "BGaming"
+            ],
+            "visualStyle": {
+                "theme": "Aviation / Candy",
+                "motifs": [
+                    "Planes",
+                    "Gems",
+                    "Explosions"
+                ],
+                "palette": [
+                    "#ff6b35",
+                    "#ffd700",
+                    "#00bfff",
+                    "#ff1493"
+                ]
+            },
+            "cluster": "studio-releases"
+        },
+        {
+            "id": "t-009",
+            "title": "Play'n GO Cluster Pays Evolution",
+            "subtitle": "7x7 grids, GO Collect mechanic, non-standard layouts",
+            "category": "iGaming",
+            "tags": [
+                "Mechanics",
+                "Cluster Pays",
+                "Grid Slots"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Play'n GO",
+                "url": "https://playngo.com/news/cluster-pays-evolution-go-collect",
+                "date": "2026-02-26"
+            },
+            "whatsNew": "Book of Dead GO Collect, Gargantoonz 7x7, Agent of Hearts (7-7-5-5-5-7-7 grid).",
+            "whyItMatters": "Non-standard grids push UI innovation.",
+            "howToUse": "Explore non-standard grid formats.",
+            "beneficiaries": [
+                "Game Designers",
+                "UI/UX Designers"
+            ],
+            "companies": [
+                "Play'n GO"
+            ],
+            "visualStyle": {
+                "theme": "Fantasy / Mythology",
+                "motifs": [
+                    "Cards",
+                    "Monsters",
+                    "Greek Gods"
+                ],
+                "palette": [
+                    "#4a0080",
+                    "#ffd700",
+                    "#8b00ff",
+                    "#00ffcc"
+                ]
+            },
+            "cluster": "studio-releases"
+        },
+        {
+            "id": "t-010",
+            "title": "Thunderkick Gamification Focus",
+            "subtitle": "Story-based rewards, Inwinity Spin, 14,000x progression",
+            "category": "iGaming",
+            "tags": [
+                "Gamification",
+                "Storytelling",
+                "Progression"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Thunderkick",
+                "url": "https://thunderkick.com/news/gamification-focus-inwinity-spin",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "Story-based reward arcs, Inwinity Spin guaranteed final win, 14,000x target.",
+            "whyItMatters": "Narrative-driven progression rare in slots.",
+            "howToUse": "Study story-based reward arcs.",
+            "beneficiaries": [
+                "Game Designers",
+                "Narrative Designers"
+            ],
+            "companies": [
+                "Thunderkick"
+            ],
+            "visualStyle": {
+                "theme": "Whimsical / Dark Fantasy",
+                "motifs": [
+                    "Skulls",
+                    "Music",
+                    "Organic Forms"
+                ],
+                "palette": [
+                    "#2d1f0e",
+                    "#c8a25c",
+                    "#8b4513",
+                    "#daa520"
+                ]
+            },
+            "cluster": "studio-releases"
+        },
+        {
+            "id": "t-011",
+            "title": "Tokenized Cross-Platform Loyalty",
+            "subtitle": "Portable digital identities across casino, sports, and beyond",
+            "category": "iGaming",
+            "tags": [
+                "Loyalty",
+                "Tokens",
+                "UX",
+                "Cross-Vertical"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "r/iGaming",
+                "url": "https://reddit.com/r/iGaming",
+                "date": "2026-02-22"
+            },
+            "whatsNew": "Loyalty as portable digital identity. Social gaming elements in real-money platforms.",
+            "whyItMatters": "Breaks walled-garden model.",
+            "howToUse": "Explore token-based loyalty systems.",
+            "beneficiaries": [
+                "Platform Developers",
+                "UX Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation"
+        },
+        {
+            "id": "t-012",
+            "title": "GGML & llama.cpp Join Hugging Face",
+            "subtitle": "Local AI inference consolidates under HF umbrella",
+            "category": "AI",
+            "tags": [
+                "Local AI",
+                "Infrastructure",
+                "Open Source",
+                "Landmark"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/ggml-joins-hf",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "GGML officially joins HF. Dominant local inference engine under one ecosystem.",
+            "whyItMatters": "Landmark infrastructure consolidation.",
+            "howToUse": "Standardize on HF for local deployment.",
+            "beneficiaries": [
+                "Tool Builders",
+                "Game Developers"
+            ],
+            "companies": [
+                "Hugging Face",
+                "GGML"
+            ],
+            "visualStyle": null,
+            "cluster": "local-ai"
+        },
+        {
+            "id": "t-013",
+            "title": "Qwen3.5 Dominates Local AI",
+            "subtitle": "122B on 3x3090s, 35B MoE generates games from prompts",
+            "category": "AI",
+            "tags": [
+                "LLM",
+                "Open Source",
+                "Coding",
+                "MoE"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "r/LocalLLaMA",
+                "url": "https://reddit.com/r/LocalLLaMA",
+                "date": "2026-02-26"
+            },
+            "whatsNew": "122B on consumer GPUs. 35B MoE creates FlappyBird from prompt. 48.5 on HLE.",
+            "whyItMatters": "Open-source matches closed APIs.",
+            "howToUse": "Use for code gen, asset scripting, QA.",
+            "beneficiaries": [
+                "Game Developers",
+                "Tool Builders"
+            ],
+            "companies": [
+                "Alibaba/Qwen"
+            ],
+            "visualStyle": null,
+            "cluster": "local-ai"
+        },
+        {
+            "id": "t-014",
+            "title": "Custom CUDA Kernels from AI Agents",
+            "subtitle": "Codex & Claude generate GPU-level code",
+            "category": "AI",
+            "tags": [
+                "GPU",
+                "CUDA",
+                "Rendering",
+                "Automation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+                "date": "2026-02-13"
+            },
+            "whatsNew": "AI agents write custom CUDA kernels — previously rare expertise.",
+            "whyItMatters": "Democratizes GPU optimization.",
+            "howToUse": "Use AI to write custom GPU kernels.",
+            "beneficiaries": [
+                "Tech Artists",
+                "Engine Programmers"
+            ],
+            "companies": [
+                "OpenAI",
+                "Anthropic"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation"
+        },
+        {
+            "id": "t-015",
+            "title": "Synthesia 3.0 — Gen-4 Avatars",
+            "subtitle": "Contextual emotion, interactive HTML5 overlays",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Avatars",
+                "Localization",
+                "Interactive"
+            ],
+            "trendStrength": 5,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://synthesia.io/blog/synthesia-3-0-gen-4-avatars",
+                "date": "2026-02-15"
+            },
+            "whatsNew": "EXPRESS-1 diffusion. Contextual emotion. 140+ language lip-sync. HTML5 overlays. GPT-5 script assistant.",
+            "whyItMatters": "AI video = studio quality. Interactive elements blur video/web.",
+            "howToUse": "Produce localized game trailers at scale.",
+            "beneficiaries": [
+                "Marketing Teams",
+                "Game Studios"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video"
+        },
+        {
+            "id": "t-016",
+            "title": "HeyGen Avatar IV & Video Agent 2.0",
+            "subtitle": "4K multimodal avatars, Amazon-to-Video, 24/7 streaming",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Avatars",
+                "E-Commerce",
+                "4K"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://heygen.com/blog/avatar-4-and-video-agent-2",
+                "date": "2026-02-05"
+            },
+            "whatsNew": "Avatar IV multimodal. 15-sec avatar creation. Amazon-to-Video. Live streaming avatars.",
+            "whyItMatters": "24/7 AI-hosted streams = obvious iGaming application.",
+            "howToUse": "Prototype AI-hosted game streams.",
+            "beneficiaries": [
+                "Marketing",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video"
+        },
+        {
+            "id": "t-017",
+            "title": "Transformers.js v4 — Browser-Native AI",
+            "subtitle": "Run transformers in the browser via JS/WASM",
+            "category": "AI",
+            "tags": [
+                "Browser AI",
+                "WASM",
+                "JavaScript",
+                "Privacy"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/transformersjs-v4",
+                "date": "2026-02-09"
+            },
+            "whatsNew": "v4 preview on NPM. Browser-native transformer inference.",
+            "whyItMatters": "On-device AI for web games and iGaming clients.",
+            "howToUse": "Add client-side AI features.",
+            "beneficiaries": [
+                "Web Developers",
+                "iGaming Platform Teams"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "local-ai"
+        },
+        {
+            "id": "t-018",
+            "title": "Photoshop 2026 Multi-Model Gen Fill",
+            "subtitle": "Firefly + Gemini Nano-Banana + FLUX Kontext Pro",
+            "category": "AI",
+            "tags": [
+                "Photoshop",
+                "Generative Fill",
+                "Workflow",
+                "Adobe"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe / X",
+                "url": "https://blog.adobe.com/en/publish/2026/02/20/photoshop-2026-multi-model",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Generative Fill now offers choice of AI models: Firefly (commercially safe), Gemini 2.5 Flash 'Nano Banana' (stylized), FLUX.1 Kontext Pro (text-in-image). Workflow-first approach.",
+            "whyItMatters": "Multi-model choice in professional tools is unprecedented. Artists pick the right model per task.",
+            "howToUse": "Use Nano-Banana for stylized fills, FLUX for text, Firefly for commercial-safe output.",
+            "beneficiaries": [
+                "Illustrators",
+                "Concept Artists",
+                "Slot Art Teams"
+            ],
+            "companies": [
+                "Adobe",
+                "Google",
+                "Black Forest Labs"
+            ],
+            "visualStyle": {
+                "theme": null,
+                "motifs": [
+                    "AI-Assisted Editing",
+                    "Multi-Model"
+                ],
+                "palette": null
+            },
+            "cluster": "ai-art-pipeline"
+        },
+        {
+            "id": "t-019",
+            "title": "X/Twitter AI Image Edit Controversy",
+            "subtitle": "Any user can AI-edit any posted image — artists outraged",
+            "category": "Community",
+            "tags": [
+                "Controversy",
+                "AI Ethics",
+                "Artists Rights",
+                "X/Twitter"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "X / CreativeBloq",
+                "url": "https://creativebloq.com",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "X enables AI editing of ANY image by ANY user with one click. No opt-out. Glaze/Nightshade ineffective. Artists considering leaving platform.",
+            "whyItMatters": "Fundamental shift in image ownership on social platforms. Could accelerate artist migration to alternative platforms.",
+            "howToUse": "Monitor artist platform migration. Consider alternative channels for art community engagement.",
+            "beneficiaries": [
+                "Artists",
+                "Platform Strategists"
+            ],
+            "companies": [
+                "X/Twitter"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics"
+        },
+        {
+            "id": "t-021",
+            "title": "ComfyUI + Flux/WAN AI Art Stack",
+            "subtitle": "Community-validated: image gen, editing, video — all local",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "ComfyUI",
+                "Flux",
+                "WAN",
+                "Local AI"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "r/StableDiffusion",
+                "url": "https://reddit.com/r/StableDiffusion",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "Stack: ComfyUI + Z-image Turbo + Flux2-Klein + Qwen Edit + WAN 2.2 + LTX2.",
+            "whyItMatters": "AI art matured into standardized pro pipelines.",
+            "howToUse": "Adopt for concept art, textures, marketing, slot themes.",
+            "beneficiaries": [
+                "Concept Artists",
+                "Texture Artists"
+            ],
+            "companies": [
+                "Comfy.org"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline"
+        },
+        {
+            "id": "t-022",
+            "title": "UE5.5 MegaLights & Path Tracer",
+            "subtitle": "Hundreds of dynamic lights, Nanite skeletal mesh, mobile Substrate",
+            "category": "Tech",
+            "tags": [
+                "Rendering",
+                "Unreal Engine",
+                "Lighting",
+                "Mobile"
+            ],
+            "trendStrength": 5,
+            "velocity": "stable",
+            "source": {
+                "name": "Unreal Engine",
+                "url": "https://unrealengine.com/en-US/blog/unreal-engine-5-5-released",
+                "date": "2026-02-10"
+            },
+            "whatsNew": "MegaLights, Lumen 60Hz, production path tracer, Nanite skeletal mesh, mobile Substrate.",
+            "whyItMatters": "Transformative for real-time vis. Path tracer replaces offline renderers.",
+            "howToUse": "Evaluate UE5.5 mobile rendering for 3D iGaming.",
+            "beneficiaries": [
+                "Game Developers",
+                "Tech Artists"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": {
+                "theme": null,
+                "motifs": [
+                    "Dynamic Lighting",
+                    "Volumetric Shadows"
+                ],
+                "palette": null
+            },
+            "cluster": "rendering-tech"
+        },
+        {
+            "id": "t-023",
+            "title": "Vite v8 Beta & Cloudflare Vinext",
+            "subtitle": "Universal build tool, Next.js API re-implemented",
+            "category": "Tech",
+            "tags": [
+                "Build Tools",
+                "Frontend",
+                "Vite",
+                "Cloudflare"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "GitHub",
+                "url": "https://github.com/vitejs/vite",
+                "date": "2026-02-26"
+            },
+            "whatsNew": "v8.0.0-beta.16. Vinext decouples Next.js from Vercel.",
+            "whyItMatters": "Vite becoming universal build tool.",
+            "howToUse": "Adopt for iGaming web clients.",
+            "beneficiaries": [
+                "Frontend Developers"
+            ],
+            "companies": [
+                "Vite",
+                "Cloudflare"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools"
+        },
+        {
+            "id": "t-024",
+            "title": "WASM Beyond Browser",
+            "subtitle": "WASI 0.3, Component Model, edge/IoT execution",
+            "category": "Tech",
+            "tags": [
+                "WebAssembly",
+                "WASI",
+                "Edge",
+                "Cross-Platform"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "GitHub",
+                "url": "https://github.com",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "5.5% Chrome adoption. WASI 0.3 + Component Model. Branch Hinting landing.",
+            "whyItMatters": "WASM-based game engines target web/mobile/server from one codebase.",
+            "howToUse": "Evaluate WASM for cross-platform game logic.",
+            "beneficiaries": [
+                "Engine Developers",
+                "Platform Architects"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "frontend-tools"
+        },
+        {
+            "id": "t-025",
+            "title": "PixiJS v8.16.0 — Canvas Fallback & Tagged Text",
+            "subtitle": "Experimental canvas renderer, CubeTexture, SplitText stability",
+            "category": "Tech",
+            "tags": [
+                "PixiJS",
+                "WebGL",
+                "Canvas",
+                "Text",
+                "Slot Engine"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "PixiJS Blog",
+                "url": "https://pixijs.com",
+                "date": "2026-02-04"
+            },
+            "whatsNew": "v8.16.0: Canvas renderer for non-WebGL/WebGPU environments. Tagged text for inline styling. CubeTexture environment maps. External GPU textures. Mip level rendering. parseSync for Spritesheets.",
+            "whyItMatters": "Canvas fallback ensures universal compatibility — critical for regulated iGaming markets where WebGL may be restricted. Tagged text eliminates multi-object text overhead in UI-heavy slots.",
+            "howToUse": "Use Canvas fallback for feature phones/tablets. Adopt tagged text for slot UI elements (pay tables, info screens).",
+            "beneficiaries": [
+                "Slot Developers",
+                "PixiJS Users",
+                "iGaming Tech Teams"
+            ],
+            "companies": [
+                "PixiJS"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech"
+        },
+        {
+            "id": "t-026",
+            "title": "spine-pixi-v8 Runtime — Official Spine + PixiJS v8",
+            "subtitle": "pixijs/spine-v8 archived; Esoteric's runtime now canonical",
+            "category": "Tech",
+            "tags": [
+                "PixiJS",
+                "Spine",
+                "Animation",
+                "Slot Engine",
+                "pixi-spine"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "GitHub / Esoteric Software",
+                "url": "https://esotericsoftware.com",
+                "date": "2026-02-04"
+            },
+            "whatsNew": "pixijs/spine-v8 repo archived Feb 4, 2026. Esoteric's spine-pixi-v8 is now the only supported runtime. Full Spine feature support with WebGL/WebGPU.",
+            "whyItMatters": "Critical for slot studios: the community fork is dead. Must migrate to Esoteric's official runtime. Version matching (editor ↔ runtime) now strictly enforced.",
+            "howToUse": "Migrate from pixijs/spine-v8 to @esotericsoftware/spine-pixi-v8. Ensure Spine editor version matches runtime.",
+            "beneficiaries": [
+                "Slot Developers",
+                "Animators",
+                "PixiJS Users"
+            ],
+            "companies": [
+                "Esoteric Software",
+                "PixiJS"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech"
+        },
+        {
+            "id": "t-027",
+            "title": "PixiJS SplitText + Render Layers",
+            "subtitle": "Fine-grained text animation + z-order independence",
+            "category": "Tech",
+            "tags": [
+                "PixiJS",
+                "Text Animation",
+                "Rendering",
+                "Performance"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "PixiJS Blog",
+                "url": "https://pixijs.com",
+                "date": "2025-07-03"
+            },
+            "whatsNew": "SplitText/SplitBitmapText for per-character animation. Render Layers decouple rendering order from scene graph. Native GIF support. Three.js integration for 2D+3D mixing.",
+            "whyItMatters": "SplitText enables slot win counter animations, cascading text effects, and dynamic pay tables. Render Layers solve z-ordering issues in complex slot UIs.",
+            "howToUse": "Use SplitText for win amount animations. Use Render Layers for popup overlays that don't disrupt reel hierarchy.",
+            "beneficiaries": [
+                "Slot Developers",
+                "UI Engineers"
+            ],
+            "companies": [
+                "PixiJS"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech"
+        },
+        {
+            "id": "t-028",
+            "title": "WASM RNG & Certified Slot Math Engines",
+            "subtitle": "WebAssembly for near-native probability computation",
+            "category": "Tech",
+            "tags": [
+                "WASM",
+                "RNG",
+                "Game Math",
+                "Certification"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "GitHub",
+                "url": "https://github.com",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "WASM math libraries (gmath, multimath) for GPU-accelerated computation. Certified RNG repos (gamblingtec-rng) passing die-hard testing. Provably fair blockchain RNG via Chainlink VRF.",
+            "whyItMatters": "WASM enables certified RNG to run client-side while maintaining audit trail. Near-native perf for complex probability math without server round-trips.",
+            "howToUse": "Evaluate WASM for client-side math engines. Test certified RNG libraries against regulatory requirements.",
+            "beneficiaries": [
+                "Slot Developers",
+                "Compliance Teams",
+                "Math Engineers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech"
+        },
+        {
+            "id": "t-029",
+            "title": "Y3K Hyperfuturism Visual Style",
+            "subtitle": "Iridescent neons, ultra-sleek type, surreal materials",
+            "category": "Art",
+            "tags": [
+                "Visual Style",
+                "Futurism",
+                "Iridescent",
+                "Neon",
+                "Slot Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Medium / CreativeBloq",
+                "url": "https://medium.com",
+                "date": "2026-02-18"
+            },
+            "whatsNew": "Amplified Y2K aesthetics with advanced materials, surreal concepts, ultra-sleek typography. Iridescent neon hues on dark surfaces. Chrome and holographic reflections.",
+            "whyItMatters": "Directly applicable to Cyberpunk-themed slot games. Growing in popularity across gaming and web design.",
+            "howToUse": "Apply to slot themes targeting younger demographics. Use iridescent shaders in PixiJS WebGL.",
+            "beneficiaries": [
+                "Concept Artists",
+                "Slot Art Teams",
+                "UI Designers"
+            ],
+            "companies": [],
+            "visualStyle": {
+                "theme": "Y3K Hyperfuturism",
+                "motifs": [
+                    "Chrome",
+                    "Holographic",
+                    "Neon Glass",
+                    "Iridescent"
+                ],
+                "palette": [
+                    "#0d0d1a",
+                    "#00ffcc",
+                    "#ff00ff",
+                    "#7b2dff",
+                    "#00e5ff"
+                ]
+            },
+            "cluster": "visual-style-trends"
+        },
+        {
+            "id": "t-030",
+            "title": "Post-AI Authenticity Movement",
+            "subtitle": "Handcrafted textures, imperfect lines, organic warmth",
+            "category": "Art",
+            "tags": [
+                "Visual Style",
+                "Handcrafted",
+                "Anti-AI",
+                "Texture"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "CreativeBoom / Unite.AI",
+                "url": "https://creativeboom.com",
+                "date": "2026-02-15"
+            },
+            "whatsNew": "Backlash against polished AI imagery. Return to hand-drawing, visible brushstrokes, film grain, organic forms. 'Post-AI authenticity' as aesthetic movement.",
+            "whyItMatters": "Studios that use handcrafted aesthetics will stand out. Thunderkick, Yggdrasil already lean into this.",
+            "howToUse": "Blend AI-generated base art with hand-painted overlays. Add grain/texture post-processing in slot renders.",
+            "beneficiaries": [
+                "Illustrators",
+                "Slot Art Directors"
+            ],
+            "companies": [
+                "Thunderkick",
+                "Yggdrasil"
+            ],
+            "visualStyle": {
+                "theme": "Post-AI Authenticity",
+                "motifs": [
+                    "Brushstrokes",
+                    "Film Grain",
+                    "Imperfect Lines",
+                    "Organic"
+                ],
+                "palette": [
+                    "#f5f0e1",
+                    "#8b7355",
+                    "#556b2f",
+                    "#daa520",
+                    "#cd853f"
+                ]
+            },
+            "cluster": "visual-style-trends"
+        },
+        {
+            "id": "t-031",
+            "title": "Code Brutalism & Technical Mono",
+            "subtitle": "Monospaced type, command-line aesthetics, raw data displays",
+            "category": "Art",
+            "tags": [
+                "Visual Style",
+                "Brutalism",
+                "Typography",
+                "Developer"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Medium",
+                "url": "https://medium.com",
+                "date": "2026-02-18"
+            },
+            "whatsNew": "Monospaced typography, command-line aesthetics, high-contrast layouts reflecting developer culture. Raw data as decoration.",
+            "whyItMatters": "Growing niche for tech-themed slots and iGaming dashboards.",
+            "howToUse": "Apply to hacker/tech themed slot UI. Use for analytics dashboards.",
+            "beneficiaries": [
+                "UI Designers",
+                "Slot Art Teams"
+            ],
+            "companies": [],
+            "visualStyle": {
+                "theme": "Code Brutalism",
+                "motifs": [
+                    "Monospace",
+                    "Terminal",
+                    "Grid Lines",
+                    "Raw Data"
+                ],
+                "palette": [
+                    "#0a0a0a",
+                    "#00ff41",
+                    "#ffffff",
+                    "#333333"
+                ]
+            },
+            "cluster": "visual-style-trends"
+        },
+        {
+            "id": "t-032",
+            "title": "Cyberpunk Slot Art Dominance",
+            "subtitle": "Neon glow, rain-slicked streets, cybernetic symbols",
+            "category": "Art",
+            "tags": [
+                "Slot Art",
+                "Cyberpunk",
+                "Neon",
+                "VFX",
+                "Glow"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "pippit.ai / Industry Analysis",
+                "url": "https://pippit.ai",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Cyberpunk projected to dominate visual culture in 2026. Electric blue, hot pink, acid green on dark urban backdrops. Transparent displays, floating ads, AR overlays. Cybernetic implant symbols.",
+            "whyItMatters": "Direct blueprint for next-gen slot themes. High visual impact with proven player engagement.",
+            "howToUse": "Design cyberpunk slot theme with neon glow particles, rain effects, holographic symbols. Use PixiJS WebGL glow filters.",
+            "beneficiaries": [
+                "Slot Art Teams",
+                "VFX Artists",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": {
+                "theme": "Cyberpunk",
+                "motifs": [
+                    "Neon Signs",
+                    "Rain",
+                    "Holograms",
+                    "Cybernetic Parts",
+                    "Glitch"
+                ],
+                "palette": [
+                    "#0a0a1a",
+                    "#00f0ff",
+                    "#ff0066",
+                    "#39ff14",
+                    "#7b2dff"
+                ]
+            },
+            "cluster": "slot-art-themes"
+        },
+        {
+            "id": "t-033",
+            "title": "Egyptian Theme Evolution — Gold & Blue",
+            "subtitle": "Pharaohs, scarabs, pyramids — now with cinematic 3D quality",
+            "category": "Art",
+            "tags": [
+                "Slot Art",
+                "Egyptian",
+                "Gold",
+                "Symbols",
+                "Classic Theme"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Industry Analysis",
+                "url": "https://fruityslots.com",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Egyptian slots evolving with cinematic 3D assets. Gold and blue contrast palette. Pharaoh, Ra, Cleopatra, ankh, scarab symbols. Tomb/pyramid environments with atmospheric audio.",
+            "whyItMatters": "Evergreen theme with proven retention. Quality bar rising dramatically.",
+            "howToUse": "Use gold metallic shaders + deep blue backgrounds. Model symbols in 3D for premium feel.",
+            "beneficiaries": [
+                "Slot Art Teams",
+                "3D Artists"
+            ],
+            "companies": [
+                "Play'n GO",
+                "Pragmatic Play"
+            ],
+            "visualStyle": {
+                "theme": "Egyptian",
+                "motifs": [
+                    "Pyramids",
+                    "Scarabs",
+                    "Ankh",
+                    "Pharaoh",
+                    "Gold Coins"
+                ],
+                "palette": [
+                    "#1a0a00",
+                    "#ffd700",
+                    "#00008b",
+                    "#8b6914",
+                    "#2f1f0a"
+                ]
+            },
+            "cluster": "slot-art-themes"
+        },
+        {
+            "id": "t-034",
+            "title": "Irish Theme — Lucky Aesthetic Refresh",
+            "subtitle": "Shamrocks, leprechauns, rainbows — now with Megaways",
+            "category": "Art",
+            "tags": [
+                "Slot Art",
+                "Irish",
+                "Luck",
+                "Green",
+                "Classic Theme"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Industry Analysis",
+                "url": "https://fruityslots.com",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Classic Irish symbols (shamrock, horseshoe, pot of gold, Celtic knots) refreshed with modern graphics and Megaways mechanics. Lush green landscapes, vibrant rainbows.",
+            "whyItMatters": "Enduring popularity. Association with luck drives engagement.",
+            "howToUse": "Update classic Irish assets with modern rendering. Pair with Megaways or cluster mechanics.",
+            "beneficiaries": [
+                "Slot Art Teams",
+                "Game Designers"
+            ],
+            "companies": [
+                "Pragmatic Play"
+            ],
+            "visualStyle": {
+                "theme": "Irish / Celtic",
+                "motifs": [
+                    "Shamrock",
+                    "Leprechaun",
+                    "Rainbow",
+                    "Horseshoe",
+                    "Celtic Knots"
+                ],
+                "palette": [
+                    "#006400",
+                    "#ffd700",
+                    "#228b22",
+                    "#ff6347",
+                    "#4169e1"
+                ]
+            },
+            "cluster": "slot-art-themes"
+        },
+        {
+            "id": "t-035",
+            "title": "Softer Palette Trend in Slot UI",
+            "subtitle": "Reduced visual fatigue, customizable intensity, balanced flow",
+            "category": "Art",
+            "tags": [
+                "Slot Art",
+                "UX",
+                "Color",
+                "Accessibility",
+                "Mobile"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "gambling911.com",
+                "url": "https://gambling911.com",
+                "date": "2026-02-15"
+            },
+            "whatsNew": "Shift toward softer color palettes for longer play sessions. Visual balance, smooth UI flow, restrained audio. Customization options for visual intensity and interface size.",
+            "whyItMatters": "Player comfort = longer sessions = better metrics. Accessibility becoming competitive advantage.",
+            "howToUse": "Implement theme-switching (vibrant ↔ soft). Add intensity sliders. Test with extended play sessions.",
+            "beneficiaries": [
+                "Slot UX Designers",
+                "Product Managers"
+            ],
+            "companies": [],
+            "visualStyle": {
+                "theme": "Soft UI",
+                "motifs": [
+                    "Muted Gradients",
+                    "Rounded Elements",
+                    "Breathing Animations"
+                ],
+                "palette": [
+                    "#f0ebe3",
+                    "#c8b6a6",
+                    "#a4907c",
+                    "#8d7b68",
+                    "#dcd2c9"
+                ]
+            },
+            "cluster": "slot-art-themes"
+        },
+        {
+            "id": "t-036",
+            "title": "Nano-Banana Prompting Methodology",
+            "subtitle": "Structured AI art prompts: Style + Subject + Environment + Lighting + Mood",
+            "category": "AI",
+            "tags": [
+                "Prompting",
+                "AI Art",
+                "Workflow",
+                "Nano-Banana"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "nanobanana.im / Reddit",
+                "url": "https://nanobanana.im",
+                "date": "2026-02-22"
+            },
+            "whatsNew": "Comprehensive prompting framework: [Style] + [Subject] + [Action/Pose] + [Environment] + [Lighting] + [Mood]. Style transfer, logo generation, character design, moodboard curation.",
+            "whyItMatters": "Standardized prompting = reproducible results. Integrated into Photoshop 2026 Gen Fill.",
+            "howToUse": "Use structured prompts for slot symbol concepting. Generate style-consistent asset libraries.",
+            "beneficiaries": [
+                "Concept Artists",
+                "Art Directors",
+                "Slot Designers"
+            ],
+            "companies": [
+                "Google"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline"
+        },
+        {
+            "id": "t-037",
+            "title": "Glow + Particle VFX in Slot Rendering",
+            "subtitle": "WebGL shaders for magic, gold shimmer, rune effects",
+            "category": "Art",
+            "tags": [
+                "VFX",
+                "Glow",
+                "Particles",
+                "WebGL",
+                "Slot Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Community / Reddit / Midjourney",
+                "url": "https://reddit.com",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Cinematic VFX aesthetic in slot rendering: glowing particles, magic gold shimmer, rune activation effects, volumetric light rays. PixiJS ParticleContainer optimized for 100K+ particles.",
+            "whyItMatters": "VFX quality directly correlates with perceived game value. Particle systems are GPU-efficient with PixiJS v8.",
+            "howToUse": "Use PixiJS ParticleContainer + WebGL blend modes for glow effects. Implement rune activation particle bursts.",
+            "beneficiaries": [
+                "VFX Artists",
+                "Slot Developers"
+            ],
+            "companies": [
+                "PixiJS"
+            ],
+            "visualStyle": {
+                "theme": "Magic VFX",
+                "motifs": [
+                    "Glow Particles",
+                    "Gold Shimmer",
+                    "Rune Circles",
+                    "Light Rays"
+                ],
+                "palette": [
+                    "#0a0a1a",
+                    "#ffd700",
+                    "#ff6600",
+                    "#00ffcc",
+                    "#ffffff"
+                ]
+            },
+            "cluster": "slot-art-themes"
+        },
+        {
+            "id": "t-039",
+            "title": "Techno-Natural Fusion Style",
+            "subtitle": "Flora meets circuitry, wood grain + futuristic UI",
+            "category": "Art",
+            "tags": [
+                "Visual Style",
+                "Nature",
+                "Tech",
+                "Hybrid",
+                "Slot Art"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Medium / Trend Analysis",
+                "url": "https://medium.com",
+                "date": "2026-02-18"
+            },
+            "whatsNew": "Natural elements (flora, fauna, wood grain) integrated with high-tech visuals. Generative graphics mimicking organic patterns alongside futuristic UI components.",
+            "whyItMatters": "Untapped slot theme territory. Unique aesthetic that combines nature and technology.",
+            "howToUse": "Design eco-tech slot themes. Blend organic textures with digital overlays.",
+            "beneficiaries": [
+                "Concept Artists",
+                "Slot Art Directors"
+            ],
+            "companies": [],
+            "visualStyle": {
+                "theme": "Techno-Natural Fusion",
+                "motifs": [
+                    "Vines + Circuits",
+                    "Wood + Metal",
+                    "Flowers + Neon",
+                    "Organic Code"
+                ],
+                "palette": [
+                    "#1a2f1a",
+                    "#00cc66",
+                    "#8b4513",
+                    "#c0c0c0",
+                    "#2f4f2f"
+                ]
+            },
+            "cluster": "visual-style-trends"
+        },
+        {
+            "id": "t-040",
+            "title": "Micro-Animation & Dynamic Art Trend",
+            "subtitle": "Subtle loops, breathing effects, living illustrations",
+            "category": "Art",
+            "tags": [
+                "Animation",
+                "Micro-Animation",
+                "VFX",
+                "Motion Design"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "CreativeBloq / Reddit",
+                "url": "https://creativebloq.com",
+                "date": "2026-02-20"
+            },
+            "whatsNew": "Shift from static to dynamic art. Subtle loops (blinking eyes, drifting smoke), breathing idle animations, living button states. Micro-animations for win celebrations, loading states.",
+            "whyItMatters": "Micro-animations significantly improve perceived quality and player engagement in slot games.",
+            "howToUse": "Add idle breathing to slot symbols. Use SplitText for cascading win text. Animate UI state transitions.",
+            "beneficiaries": [
+                "Animators",
+                "Slot Developers",
+                "UI Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "animation-pipeline"
+        }
+    ],
+    "clusters": [
+        {
+            "id": "ai-in-igaming",
+            "label": "AI in iGaming",
+            "icon": "🤖🎰",
+            "color": "#6C5CE7",
+            "evidence": 3
+        },
+        {
+            "id": "igaming-innovation",
+            "label": "iGaming Innovation",
+            "icon": "🎰",
+            "color": "#E17055",
+            "evidence": 4
+        },
+        {
+            "id": "studio-releases",
+            "label": "Studio Releases",
+            "icon": "🏢",
+            "color": "#00B894",
+            "evidence": 5
+        },
+        {
+            "id": "regulation",
+            "label": "Regulation & Legal",
+            "icon": "⚖️",
+            "color": "#FDCB6E",
+            "evidence": 1
+        },
+        {
+            "id": "local-ai",
+            "label": "Local AI & Open Source",
+            "icon": "🧠",
+            "color": "#0984E3",
+            "evidence": 4
+        },
+        {
+            "id": "ai-automation",
+            "label": "AI Automation",
+            "icon": "⚡",
+            "color": "#E84393",
+            "evidence": 1
+        },
+        {
+            "id": "ai-video",
+            "label": "AI Video Production",
+            "icon": "🎬",
+            "color": "#A29BFE",
+            "evidence": 2
+        },
+        {
+            "id": "ai-art-pipeline",
+            "label": "AI Art Pipeline",
+            "icon": "🎨",
+            "color": "#FD79A8",
+            "evidence": 3
+        },
+        {
+            "id": "animation-pipeline",
+            "label": "Animation Pipeline",
+            "icon": "✨",
+            "color": "#55EFC4",
+            "evidence": 3
+        },
+        {
+            "id": "rendering-tech",
+            "label": "Rendering Tech",
+            "icon": "💡",
+            "color": "#FAB1A0",
+            "evidence": 1
+        },
+        {
+            "id": "frontend-tools",
+            "label": "Frontend & Build Tools",
+            "icon": "⚙️",
+            "color": "#74B9FF",
+            "evidence": 2
+        },
+        {
+            "id": "pixi-slot-tech",
+            "label": "PixiJS & Slot Tech",
+            "icon": "🎮",
+            "color": "#ff6b81",
+            "evidence": 4
+        },
+        {
+            "id": "visual-style-trends",
+            "label": "Visual Style Trends",
+            "icon": "🖌️",
+            "color": "#ff9ff3",
+            "evidence": 4
+        },
+        {
+            "id": "slot-art-themes",
+            "label": "Slot Art & Themes",
+            "icon": "🎨🎰",
+            "color": "#feca57",
+            "evidence": 5
+        },
+        {
+            "id": "community-ai-ethics",
+            "label": "AI Ethics & Community",
+            "icon": "🛡️",
+            "color": "#ff6348",
+            "evidence": 2
+        }
+    ],
+    "sourceHealth": [
+        {
+            "name": "iGB",
+            "url": "https://igamingbusiness.com",
+            "category": "iGaming",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "Gambling Insider",
+            "url": "https://gamblinginsider.com",
+            "category": "iGaming",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "SBC News",
+            "url": "https://sbcnews.co.uk",
+            "category": "iGaming",
+            "status": "error",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "errorReason": "HTTP 403 Forbidden",
+            "fallbackUsed": "search-summary"
+        },
+        {
+            "name": "EGR Global",
+            "url": "https://egr.global",
+            "category": "iGaming",
+            "status": "partial",
+            "method": "metadata-only",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "errorReason": "Paywall — no bypass",
+            "fallbackUsed": "metadata-only"
+        },
+        {
+            "name": "IAGR",
+            "url": "https://iagr.org",
+            "category": "iGaming",
+            "status": "error",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "errorReason": "HTTP 406 — Accept header adjusted",
+            "fallbackUsed": "search-summary"
+        },
+        {
+            "name": "UK Gambling Commission",
+            "url": "https://gamblingcommission.gov.uk",
+            "category": "iGaming",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Regulatory updates"
+        },
+        {
+            "name": "Malta Gaming Authority (MGA)",
+            "url": "https://mga.org.mt",
+            "category": "iGaming",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Regulatory updates"
+        },
+        {
+            "name": "EGBA",
+            "url": "https://egba.eu",
+            "category": "iGaming",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "EU regulatory insights"
+        },
+        {
+            "name": "NJ DGE",
+            "url": "https://nj.gov/oag/ge",
+            "category": "iGaming",
+            "status": "partial",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "PDF-based reports",
+            "fallbackUsed": "manual_link_drop"
+        },
+        {
+            "name": "X / Twitter",
+            "url": "https://x.com",
+            "category": "Art",
+            "status": "partial",
+            "method": "api",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Lists + Filtered Stream + search fallback",
+            "fallbackUsed": "search-summary"
+        },
+        {
+            "name": "Civitai",
+            "url": "https://civitai.com",
+            "category": "Art",
+            "status": "healthy",
+            "method": "api",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
+        },
+        {
+            "name": "r/StableDiffusion",
+            "url": "https://reddit.com/r/StableDiffusion",
+            "category": "Community",
+            "status": "healthy",
+            "method": "api",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Reddit Data API with OAuth; cache/backoff"
+        },
+        {
+            "name": "r/LocalLLaMA",
+            "url": "https://reddit.com/r/LocalLLaMA",
+            "category": "Community",
+            "status": "healthy",
+            "method": "api",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Reddit Data API with OAuth; cache/backoff"
+        },
+        {
+            "name": "r/Spine2D",
+            "url": "https://reddit.com/r/Spine2D",
+            "category": "Community",
+            "status": "partial",
+            "method": "api",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Low-activity; web fallback if rate-limited"
+        },
+        {
+            "name": "Stable Diffusion Discord",
+            "url": "https://discord.gg/stablediffusion",
+            "category": "Community",
+            "status": "partial",
+            "method": "community-only",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Community signal only — no scraping"
+        },
+        {
+            "name": "PromptHero",
+            "url": "https://prompthero.com",
+            "category": "Art",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Prompt gallery signal — style/trend detection"
+        },
+        {
+            "name": "OpenArt",
+            "url": "https://openart.ai",
+            "category": "Art",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Promptbook — style/prompt signal"
+        },
+        {
+            "name": "Lexica",
+            "url": "https://lexica.art",
+            "category": "Art",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Style browsing signal"
+        },
+        {
+            "name": "Adobe Photoshop + Firefly",
+            "url": "https://helpx.adobe.com/photoshop",
+            "category": "Art",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Photoshop workflows, model picker, generative fill updates"
+        },
+        {
+            "name": "Adobe Creative Trends",
+            "url": "https://adobe.com/express/learn/blog/design-trends",
+            "category": "Art",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Macro style + palette + color trends"
+        },
+        {
+            "name": "Hugging Face Blog",
+            "url": "https://huggingface.co/blog",
+            "category": "AI",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "Futurepedia",
+            "url": "https://futurepedia.io",
+            "category": "AI",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "Synthesia",
+            "url": "https://synthesia.io",
+            "category": "AI",
+            "status": "healthy",
+            "method": "search-summary",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "HeyGen",
+            "url": "https://heygen.com",
+            "category": "AI",
+            "status": "healthy",
+            "method": "search-summary",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "Nano-banana",
+            "url": "https://nanobanana.im",
+            "category": "AI",
+            "status": "healthy",
+            "method": "search-summary",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "GitHub Trending",
+            "url": "https://github.com/trending",
+            "category": "Tech",
+            "status": "healthy",
+            "method": "search-summary",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "pixijs/pixijs, pixijs/spine-v8, EsotericSoftware, WebGL/WebGPU/WASM repos, Vite ecosystem"
+        },
+        {
+            "name": "PixiJS Blog",
+            "url": "https://pixijs.com/blog",
+            "category": "Tech",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Release notes, migrations"
+        },
+        {
+            "name": "PixiJS Discord",
+            "url": "https://discord.gg/pixijs",
+            "category": "Tech",
+            "status": "partial",
+            "method": "community-only",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Community signal only"
+        },
+        {
+            "name": "Esoteric Software (Spine)",
+            "url": "https://esotericsoftware.com",
+            "category": "Tech",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "SteamDB",
+            "url": "https://steamdb.info",
+            "category": "Tech",
+            "status": "partial",
+            "method": "search-summary",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Player charts + patchnotes for tool-like signals"
+        },
+        {
+            "name": "GameDeveloper.com",
+            "url": "https://gamedeveloper.com",
+            "category": "Tech",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Engine/tooling/game-tech trends"
+        },
+        {
+            "name": "Unity Blog",
+            "url": "https://blog.unity.com",
+            "category": "Tech",
+            "status": "healthy",
+            "method": "direct",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": null
+        },
+        {
+            "name": "r/iGaming",
+            "url": "https://reddit.com/r/iGaming",
+            "category": "Community",
+            "status": "healthy",
+            "method": "api",
+            "lastScan": "2026-02-27T15:56:53+03:00",
+            "note": "Reddit Data API with OAuth"
+        }
+    ],
+    "companyTracker": [
+        {
+            "name": "Pragmatic Play",
+            "tier": "Giant",
+            "recentActivity": "ICE 2026: Zeus vs Hades GoW 250, Sugar Rush Super Scatter, 150+ live tables, Brazil studio",
+            "signalStrength": 5,
+            "description": "Dünyanın en büyük iGaming içerik sağlayıcılarından biri. Slot, canlı casino ve bingo ürünleri sunar. 250+ slot oyunuyla pazar lideri.",
+            "website": "https://www.pragmaticplay.com",
+            "newGames": [
+                {
+                    "title": "Zeus vs Hades: Gods of War 250",
+                    "type": "Slot",
+                    "url": "https://www.pragmaticplay.com/en/games/zeus-vs-hades-gods-of-war/",
+                    "releaseDate": "2026-02",
+                    "description": "Orijinal hit oyunun devamı. 250 payline ile genişletilmiş grid, tanrılar arası savaş teması. ICE 2026'da tanıtıldı.",
+                    "features": [
+                        "250 Paylines",
+                        "Expanding Wilds",
+                        "Zeus & Hades Free Spins",
+                        "Max Win 15,000x"
+                    ]
+                },
+                {
+                    "title": "Sugar Rush Super Scatter",
+                    "type": "Slot",
+                    "url": "https://www.pragmaticplay.com/en/games/sugar-rush/",
+                    "releaseDate": "2026-02",
+                    "description": "Popüler Sugar Rush serisinin yeni versiyonu. Cluster pays mekaniği ile şeker temalı ultra yüksek volatilite slot.",
+                    "features": [
+                        "Cluster Pays",
+                        "Super Scatter Multiplier",
+                        "Tumble Feature",
+                        "Max Win 25,000x"
+                    ]
+                },
+                {
+                    "title": "Gates of Olympus 1000 Xmas",
+                    "type": "Slot",
+                    "url": "https://www.pragmaticplay.com/en/games/gates-of-olympus-1000/",
+                    "releaseDate": "2026-01",
+                    "description": "Gates of Olympus serisinin 1000x çarpan versiyonu. Tumble mekaniği ve devasa çarpanlar.",
+                    "features": [
+                        "1000x Max Multiplier",
+                        "Tumble",
+                        "Ante Bet",
+                        "Buy Feature"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Evolution",
+            "tier": "Giant",
+            "recentActivity": "40/60 moonshot strategy, Hasbro MONOPOLY, 100+ games/year, Netflix competition",
+            "signalStrength": 5,
+            "description": "Canlı casino ve slot alanında dünya lideri. NetEnt, Red Tiger, Big Time Gaming markalarının sahibi. Yılda 100+ oyun çıkarır.",
+            "website": "https://www.evolution.com",
+            "newGames": [
+                {
+                    "title": "MONOPOLY Big Baller Live",
+                    "type": "Live Game Show",
+                    "url": "https://www.evolution.com/games/monopoly-big-baller",
+                    "releaseDate": "2026-02",
+                    "description": "Hasbro lisanslı canlı game show. MONOPOLY board mekaniği ile canlı bingo karışımı. 40/60 moonshot stratejisinin parçası.",
+                    "features": [
+                        "Live Dealer",
+                        "MONOPOLY Board",
+                        "Bingo Mechanics",
+                        "Multiplier Bonus"
+                    ]
+                },
+                {
+                    "title": "Crazy Time 2",
+                    "type": "Live Game Show",
+                    "url": "https://www.evolution.com/games/crazy-time",
+                    "releaseDate": "2026-Q1",
+                    "description": "En popüler live game show'un devamı. Yeni bonus turları ve geliştirilmiş AR efektleri.",
+                    "features": [
+                        "4 Bonus Games",
+                        "AR Effects",
+                        "Live Host",
+                        "Max Win 25,000x"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Playtech",
+            "tier": "Giant",
+            "recentActivity": "US expansion (WV), bet365 live studios, LottoStar SA partnership",
+            "signalStrength": 4,
+            "description": "Londra borsasında işlem gören global iGaming yazılım devi. Live casino, slots, poker ve spor bahisleri platformu.",
+            "website": "https://www.playtech.com",
+            "newGames": [
+                {
+                    "title": "Age of the Gods: Mighty Midas",
+                    "type": "Slot",
+                    "url": "https://www.playtech.com/games/age-of-the-gods",
+                    "releaseDate": "2026-02",
+                    "description": "Age of the Gods serisinin yeni üyesi. Kral Midas teması, altın dönüşüm mekaniği.",
+                    "features": [
+                        "Progressive Jackpot",
+                        "Golden Touch Feature",
+                        "Free Spins",
+                        "4-Tier Jackpot"
+                    ]
+                },
+                {
+                    "title": "Quantum Roulette Live",
+                    "type": "Live Casino",
+                    "url": "https://www.playtech.com/games/live-casino",
+                    "releaseDate": "2026-01",
+                    "description": "bet365 stüdyosundan yeni nesil canlı rulet. Quantum çarpanları ile 500x kazanım potansiyeli.",
+                    "features": [
+                        "Quantum Multipliers",
+                        "Live Dealer",
+                        "500x Max",
+                        "Multi-Camera"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "NetEnt",
+            "tier": "Giant",
+            "recentActivity": "Hasbro MONOPOLY content slate via Evolution",
+            "signalStrength": 3,
+            "description": "Evolution bünyesindeki premium slot markası. Starburst, Gonzo's Quest gibi ikonik oyunların yaratıcısı.",
+            "website": "https://www.netent.com",
+            "newGames": [
+                {
+                    "title": "Starburst PowerPots",
+                    "type": "Slot",
+                    "url": "https://www.netent.com/en/games/starburst/",
+                    "releaseDate": "2026-02",
+                    "description": "Efsanevi Starburst'un jackpot versiyonu. Orijinal oyunun basitliğini koruyarak PowerPots ağ jackpot sistemi ekler.",
+                    "features": [
+                        "PowerPots Jackpot",
+                        "Expanding Wilds",
+                        "Both Ways Pay",
+                        "Classic Feel"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Microgaming",
+            "tier": "Giant",
+            "recentActivity": "Limited public signals in Feb 2026",
+            "signalStrength": 2,
+            "description": "iGaming'in en eski markalarından biri. Mega Moolah jackpot ağı ile ünlü. Şu anda daha çok platform sağlayıcı rolünde.",
+            "website": "https://www.microgaming.co.uk",
+            "newGames": []
+        },
+        {
+            "name": "Hacksaw Gaming",
+            "tier": "Innovative",
+            "recentActivity": "Hot Ross, Mortal Oath, Zeus Ze Zecond — high release cadence",
+            "signalStrength": 4,
+            "description": "İsveç merkezli yenilikçi stüdyo. Yüksek volatilite ve benzersiz mekaniklerle tanınır. Hızlı release döngüsü.",
+            "website": "https://www.hacksawgaming.com",
+            "newGames": [
+                {
+                    "title": "Hot Ross",
+                    "type": "Slot",
+                    "url": "https://www.hacksawgaming.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "Hacksaw'ın yüksek volatiliteli yeni slotu. Sıcak tema, cascading reels ve devasa çarpanlar.",
+                    "features": [
+                        "Cascading Reels",
+                        "xWays",
+                        "xBet",
+                        "Max Win 10,000x"
+                    ]
+                },
+                {
+                    "title": "Mortal Oath",
+                    "type": "Slot",
+                    "url": "https://www.hacksawgaming.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "Karanlık fantezi temalı slot. Ölüm yemini mekaniği ile risk/ödül dengesi. Hacksaw'ın hikaye odaklı yaklaşımı.",
+                    "features": [
+                        "Oath Mechanic",
+                        "xNudge Wilds",
+                        "Free Spins",
+                        "Max Win 12,500x"
+                    ]
+                },
+                {
+                    "title": "Zeus Ze Zecond",
+                    "type": "Slot",
+                    "url": "https://www.hacksawgaming.com/games",
+                    "releaseDate": "2026-01",
+                    "description": "Zeus temalı serinin ikinci oyunu. Mitolojik tema, yıldırım çarpanları ve bonus satın alma seçeneği.",
+                    "features": [
+                        "Lightning Multipliers",
+                        "Bonus Buy",
+                        "High Volatility",
+                        "Max Win 15,000x"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nolimit City",
+            "tier": "Innovative",
+            "recentActivity": "DoA3, Crypt 2, Godbreaker, MONOPOLY Rent Rush — franchise wave",
+            "signalStrength": 5,
+            "description": "Sektörün en cesur ve yaratıcı stüdyosu. xMechanics serisi ile devrimci oyun mekaniği. Ultra yüksek volatilite uzmanı.",
+            "website": "https://www.nolimitcity.com",
+            "newGames": [
+                {
+                    "title": "Dead or Alive 3",
+                    "type": "Slot",
+                    "url": "https://www.nolimitcity.com/games/dead-or-alive-3",
+                    "releaseDate": "2026-02",
+                    "description": "Efsanevi DoA serisinin üçüncü oyunu. Western teması, xWays ve Sticky Wilds ile ultra yüksek volatilite. Franchise'ın en iddialı oyunu.",
+                    "features": [
+                        "xWays",
+                        "xNudge",
+                        "Sticky Wilds",
+                        "Max Win 100,000x",
+                        "Ultra High Volatility"
+                    ]
+                },
+                {
+                    "title": "Crypt 2",
+                    "type": "Slot",
+                    "url": "https://www.nolimitcity.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "Yeraltı mezar temalı korku slotu. Orijinal Crypt'in karanlık atmosferini genişletir. xSplit mekaniği ile yeni oynanış.",
+                    "features": [
+                        "xSplit",
+                        "Infectious xWays",
+                        "3 Bonus Levels",
+                        "Max Win 75,000x"
+                    ]
+                },
+                {
+                    "title": "Godbreaker",
+                    "type": "Slot",
+                    "url": "https://www.nolimitcity.com/games",
+                    "releaseDate": "2026-01",
+                    "description": "Tanrıları yok etme temalı epik slot. Nolimit City'nin en büyük potansiyel kazanım sunan oyunlarından biri.",
+                    "features": [
+                        "God Slayer Bonus",
+                        "xBomb Wilds",
+                        "Free Spins",
+                        "Max Win 88,888x"
+                    ]
+                },
+                {
+                    "title": "MONOPOLY Rent Rush",
+                    "type": "Slot",
+                    "url": "https://www.nolimitcity.com/games",
+                    "releaseDate": "2026-01",
+                    "description": "Hasbro lisanslı MONOPOLY slot. Nolimit City mekaniği ile emlak toplama ve kira alma. xWays sistemi entegre.",
+                    "features": [
+                        "MONOPOLY License",
+                        "Rent Collection",
+                        "xWays",
+                        "Board Game Bonus"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Push Gaming",
+            "tier": "Innovative",
+            "recentActivity": "Big Bamboo 2, Wild Swarm 3 — sequel dominance",
+            "signalStrength": 4,
+            "description": "Londra merkezli yaratıcı stüdyo. Big Bamboo ve Jammin' Jars gibi hit oyunlarla tanınır. Devam oyunlarıyla franchise stratejisi.",
+            "website": "https://www.pushgaming.com",
+            "newGames": [
+                {
+                    "title": "Big Bamboo 2",
+                    "type": "Slot",
+                    "url": "https://www.pushgaming.com/games/big-bamboo-2",
+                    "releaseDate": "2026-02",
+                    "description": "Push Gaming'in en popüler oyununun devamı. Bambu ormanı teması genişletildi, yeni Golden Bamboo mekaniği eklendi.",
+                    "features": [
+                        "Golden Bamboo Feature",
+                        "Mystery Symbols",
+                        "Free Spins",
+                        "Max Win 50,000x"
+                    ]
+                },
+                {
+                    "title": "Wild Swarm 3",
+                    "type": "Slot",
+                    "url": "https://www.pushgaming.com/games/wild-swarm-3",
+                    "releaseDate": "2026-01",
+                    "description": "Arı temalı serinin üçüncü oyunu. Evolving hive mekaniği ve queen bee süper bonus turu.",
+                    "features": [
+                        "Evolving Hive",
+                        "Queen Bee Super Bonus",
+                        "Cluster Pays",
+                        "Max Win 40,000x"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Relax Gaming",
+            "tier": "Innovative",
+            "recentActivity": "Limited signals in scan window",
+            "signalStrength": 2,
+            "description": "B2B iGaming platformu ve içerik sağlayıcısı. Dream Drop Jackpot ağı ile tanınır. Money Train serisi hit.",
+            "website": "https://www.relax-gaming.com",
+            "newGames": []
+        },
+        {
+            "name": "Yggdrasil",
+            "tier": "Innovative",
+            "recentActivity": "Limited signals in scan window",
+            "signalStrength": 2,
+            "description": "İskandinav mitolojisinden ilham alan stüdyo. GATI platformu ile 3. parti stüdyolara altyapı sunar. GigaBlox, Splitz mekaniği.",
+            "website": "https://www.yggdrasilgaming.com",
+            "newGames": []
+        },
+        {
+            "name": "Thunderkick",
+            "tier": "Boutique",
+            "recentActivity": "Second Thunder, gamification focus, story-based rewards, 14,000x",
+            "signalStrength": 3,
+            "description": "Stockholm merkezli butik stüdyo. Benzersiz sanat stili ve hikaye anlatımıyla tanınır. Post-AI authenticity akımının öncüsü.",
+            "website": "https://www.thunderkick.com",
+            "newGames": [
+                {
+                    "title": "Second Thunder",
+                    "type": "Slot",
+                    "url": "https://www.thunderkick.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "Thunderkick'in gamification odaklı yeni slotu. Hikaye bazlı ödül sistemi, seviye atlama ve karakter gelişimi. 14,000x max kazanım.",
+                    "features": [
+                        "Story-Based Rewards",
+                        "Level Up System",
+                        "Character Progression",
+                        "Max Win 14,000x"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Play'n GO",
+            "tier": "Boutique",
+            "recentActivity": "Book of Dead GO Collect, Gargantoonz 7x7, cluster pays evolution",
+            "signalStrength": 4,
+            "description": "İsveç merkezli slot uzmanı. Book of Dead, Reactoonz gibi ikonik serilerin sahibi. Cluster pays ve grid oyunlarında lider.",
+            "website": "https://www.playngo.com",
+            "newGames": [
+                {
+                    "title": "Book of Dead: GO Collect",
+                    "type": "Slot",
+                    "url": "https://www.playngo.com/games/book-of-dead",
+                    "releaseDate": "2026-02",
+                    "description": "Efsanevi Book of Dead'in yeni mekaniği. GO Collect özelliği ile sembolleri toplama ve dönüştürme. Mısır teması korunarak yeni oynanış katmanı.",
+                    "features": [
+                        "GO Collect Mechanic",
+                        "Expanding Symbols",
+                        "Free Spins",
+                        "Book Feature"
+                    ]
+                },
+                {
+                    "title": "Gargantoonz",
+                    "type": "Slot",
+                    "url": "https://www.playngo.com/games/gargantoonz",
+                    "releaseDate": "2026-01",
+                    "description": "Reactoonz evreninin devamı. 7x7 grid ile cluster pays. Dev canavarlar ve devasa çarpanlar.",
+                    "features": [
+                        "7x7 Grid",
+                        "Cluster Pays",
+                        "Gargantoon Feature",
+                        "Cascading Wins"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Big Time Gaming",
+            "tier": "Boutique",
+            "recentActivity": "Hasbro MONOPOLY content via Evolution",
+            "signalStrength": 3,
+            "description": "Megaways mekaniğinin yaratıcısı. Avustralya merkezli. Evolution bünyesinde. MONOPOLY ve Hasbro lisanslı oyunlar.",
+            "website": "https://www.bigtimegaming.com",
+            "newGames": [
+                {
+                    "title": "MONOPOLY Megaways",
+                    "type": "Slot",
+                    "url": "https://www.bigtimegaming.com/games",
+                    "releaseDate": "2026-01",
+                    "description": "Megaways mekaniği ile MONOPOLY slot. 117,649 yol ve board game bonus turu. BTG'nin imza mekaniği ile lisanslı IP birleşimi.",
+                    "features": [
+                        "Megaways 117,649 Ways",
+                        "MONOPOLY Board Bonus",
+                        "Free Spins",
+                        "Reactions"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BGaming",
+            "tier": "Boutique",
+            "recentActivity": "TRUEWAYS 262K ways, Aviamasters 2, Bonanza Billion Xtreme",
+            "signalStrength": 4,
+            "description": "Hızla büyüyen iGaming stüdyosu. Yenilikçi mekanikler ve provably fair teknolojisi. Kripto dostu yaklaşım.",
+            "website": "https://www.bgaming.com",
+            "newGames": [
+                {
+                    "title": "TRUEWAYS Slot",
+                    "type": "Slot",
+                    "url": "https://www.bgaming.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "262,144 yol sunan devasa grid slot. BGaming'in TRUEWAYS mekaniği ile sektörde rekor kıran kazanım yolları.",
+                    "features": [
+                        "262,144 Ways",
+                        "TRUEWAYS Mechanic",
+                        "Expanding Grid",
+                        "High Volatility"
+                    ]
+                },
+                {
+                    "title": "Aviamasters 2",
+                    "type": "Crash Game",
+                    "url": "https://www.bgaming.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "Popüler crash game'in devamı. Uçuş simülasyonu teması ile geliştirilmiş multiplayer ve sosyal özellikler.",
+                    "features": [
+                        "Multiplayer",
+                        "Social Features",
+                        "Crash Mechanic",
+                        "Auto Cashout"
+                    ]
+                },
+                {
+                    "title": "Bonanza Billion Xtreme",
+                    "type": "Slot",
+                    "url": "https://www.bgaming.com/games",
+                    "releaseDate": "2026-01",
+                    "description": "Bonanza Billion serisinin en uç versiyonu. Şeker temalı cluster pays ile ultra yüksek volatilite ve xtreme çarpanlar.",
+                    "features": [
+                        "Cluster Pays",
+                        "Xtreme Multipliers",
+                        "Buy Feature",
+                        "Max Win 50,000x"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mancala",
+            "tier": "Boutique",
+            "recentActivity": "Rocket Run slot-crash hybrid, 50 games for 2026",
+            "signalStrength": 4,
+            "description": "B2B iGaming stüdyosu. Slot-crash hybrid oyunlarla tanınır. 2026'da 50 oyun hedefi ile agresif büyüme.",
+            "website": "https://www.mancalagaming.com",
+            "newGames": [
+                {
+                    "title": "Rocket Run",
+                    "type": "Hybrid (Slot-Crash)",
+                    "url": "https://www.mancalagaming.com/games",
+                    "releaseDate": "2026-02",
+                    "description": "Slot ve crash game'i birleştiren yenilikçi hybrid. Roket fırlatma teması, slot spinleri ile crash çarpanı birleştirir.",
+                    "features": [
+                        "Slot-Crash Hybrid",
+                        "Rocket Launch Theme",
+                        "Multiplier Crash",
+                        "Unique Mechanic"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Evoplay",
+            "tier": "Boutique",
+            "recentActivity": "Uncrossable Rush arcade, Adrenaline Scratch, DC Lottery",
+            "signalStrength": 3,
+            "description": "Ukrayna merkezli yenilikçi stüdyo. Arcade, instant games ve slot karışımı ürünler. ABD pazarına giriş (DC Lottery).",
+            "website": "https://www.evoplay.games",
+            "newGames": [
+                {
+                    "title": "Uncrossable Rush",
+                    "type": "Arcade",
+                    "url": "https://www.evoplay.games/games",
+                    "releaseDate": "2026-02",
+                    "description": "Arcade tarzı iGaming oyunu. Frogger benzeri geçiş mekaniği ile beceri bazlı gambling. Genç demografiye hitap eder.",
+                    "features": [
+                        "Arcade Mechanic",
+                        "Skill-Based",
+                        "Instant Win",
+                        "Mobile-First"
+                    ]
+                },
+                {
+                    "title": "Adrenaline Scratch",
+                    "type": "Instant Game",
+                    "url": "https://www.evoplay.games/games",
+                    "releaseDate": "2026-01",
+                    "description": "Dijital kazı kazan oyunu. Adrenalin teması ile hızlı sonuç ve yüksek RTP. DC Lottery ile ABD'de lisanslı.",
+                    "features": [
+                        "Instant Win",
+                        "Scratch Card",
+                        "High RTP",
+                        "Licensed in US"
+                    ]
+                }
+            ]
+        }
+    ]
+}
