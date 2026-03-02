@@ -1,0 +1,17 @@
+{
+    "name": "visualtrendhub-scraper",
+    "version": "1.0.0",
+    "description": "Automated trend scraper for VisualTrendHub",
+    "main": "scripts/scraper.js",
+    "scripts": {
+        "start": "node scripts/scraper.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.7",
+        "cheerio": "^1.0.0-rc.12",
+        "rss-parser": "^3.13.0",
+        "openai": "^4.28.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
