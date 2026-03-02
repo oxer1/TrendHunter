@@ -136,6 +136,11 @@
 
     // Sorting logic
     filtered.sort((a, b) => {
+      // For all sorting, if one is 'new' and the other isn't, put 'new' on top
+      const isNewA = a.isNew ? 1 : 0;
+      const isNewB = b.isNew ? 1 : 0;
+      if (isNewA !== isNewB) return isNewB - isNewA;
+
       if (sortOrder === 'importance') {
         if (b.trendStrength !== a.trendStrength) return b.trendStrength - a.trendStrength;
         // fallback to date if strength is equal
@@ -649,10 +654,6 @@
         const newCount = Math.floor(Math.random() * 2) + 2; // 2 or 3 new trends
         for (let i = 0; i < newCount; i++) {
           shuffled[i].isNew = true;
-          // bump to top of date logic by spoofing date
-          if (shuffled[i].source) {
-            shuffled[i].source.date = new Date().toISOString();
-          }
         }
 
         // Reset sort to newest to show the newly discovered trends at the top
