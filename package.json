@@ -7,10 +7,10 @@
         "start": "node scripts/scraper.js"
     },
     "dependencies": {
+        "@google/generative-ai": "^0.24.1",
         "axios": "^1.6.7",
         "cheerio": "^1.0.0-rc.12",
-        "rss-parser": "^3.13.0",
-        "openai": "^4.28.0"
+        "rss-parser": "^3.13.0"
     },
     "author": "",
     "license": "ISC"

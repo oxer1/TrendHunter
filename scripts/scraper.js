@@ -1,15 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
-const OpenAI = require('openai');
+const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 const DATA_FILE = path.join(__dirname, '../data/trends.json');
 const parser = new Parser();
 
-// Configure OpenAI. Expects process.env.OPENAI_API_KEY
-const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY,
-});
+// Configure Gemini. Expects process.env.GEMINI_API_KEY
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 // A mapping of source URLs to their RSS feeds, matching the domains in active sources
 const RSS_FEEDS = {
@@ -46,51 +44,53 @@ Title: ${article.title}
 Date: ${article.pubDate}
 Source Name: ${sourceName}
 Content: ${article.contentSnippet}
+
+CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \`\`\`json.
 `;
 
     try {
-        const response = await openai.chat.completions.create({
-            model: "gpt-4o-mini",
-            messages: [{ role: "user", content: prompt }],
-            response_format: { type: "json_object" }
-        });
+        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash", generationConfig: { responseMimeType: "application/json" } });
+        const result = await model.generateContent(prompt);
+        const responseText = result.response.text();
 
-        let result = JSON.parse(response.choices[0].message.content);
+        // Strip markdown if present just in case
+        let cleanJson = responseText.replace(/```json\n?|\n?```/g, "").trim();
+        let parsedResult = JSON.parse(cleanJson);
 
         // Build the final trend object
         return {
             id: 't-' + Math.random().toString(36).substr(2, 9),
-            title: result.title,
-            subtitle: result.subtitle,
-            category: result.category,
-            tags: result.tags || [],
-            trendStrength: result.trendStrength || 3,
-            velocity: result.velocity || "stable",
+            title: parsedResult.title,
+            subtitle: parsedResult.subtitle,
+            category: parsedResult.category,
+            tags: parsedResult.tags || [],
+            trendStrength: parsedResult.trendStrength || 3,
+            velocity: parsedResult.velocity || "stable",
             source: {
                 name: sourceName,
                 url: article.link,
                 date: new Date(article.pubDate).toISOString() // USE EXACT ORIGINAL DATE
             },
-            whatsNew: result.whatsNew,
-            whyItMatters: result.whyItMatters,
-            howToUse: result.howToUse,
-            beneficiaries: result.beneficiaries || [],
-            companies: result.companies || [],
+            whatsNew: parsedResult.whatsNew,
+            whyItMatters: parsedResult.whyItMatters,
+            howToUse: parsedResult.howToUse,
+            beneficiaries: parsedResult.beneficiaries || [],
+            companies: parsedResult.companies || [],
             visualStyle: null,
-            cluster: result.cluster || "igaming-innovation",
+            cluster: parsedResult.cluster || "igaming-innovation",
             isNew: true // Flag to highlight this as brand new in UI
         };
 
     } catch (err) {
-        console.error("OpenAI mapping failed for:", article.title, err);
+        console.error("Gemini mapping failed for:", article.title, err.message);
         return null;
     }
 }
 
 async function run() {
     console.log("Starting VisualTrendHub Automated Scraper...");
-    if (!process.env.OPENAI_API_KEY) {
-        console.warn("⚠️ OPENAI_API_KEY is not set. The scraper cannot generate content. Exiting.");
+    if (!process.env.GEMINI_API_KEY) {
+        console.warn("⚠️ GEMINI_API_KEY is not set. The scraper cannot generate content. Exiting.");
         process.exit(0); // Exit gracefully so CI doesn't fail if we just want to skip
     }
 
