@@ -35,6 +35,8 @@ const REDDIT_SOURCES = {
     "https://reddit.com/r/iGaming": "https://www.reddit.com/r/iGaming/top.json?t=month&limit=10"
 };
 
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
 async function generateTrendFromArticle(article, sourceName) {
     console.log(`Analyzing: ${article.title}`);
     const prompt = `
@@ -64,6 +66,9 @@ Content: ${article.contentSnippet}
 
 CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \`\`\`json.
 `;
+
+    // Respect Gemini free tier limits (15 RPM -> wait ~4-5 seconds between requests)
+    await delay(4200);
 
     try {
         const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash", generationConfig: { responseMimeType: "application/json" } });
