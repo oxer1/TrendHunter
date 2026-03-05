@@ -123,9 +123,17 @@ async function run() {
     data.trends.forEach(t => t.isNew = false);
 
     let activeSources = data.sourceHealth.filter(s => s.status !== 'error');
-    let newlyFoundTrends = [];
+    // Hardcap: Gemini free tier limit is 20 RPD (Requests Per Day).
+    // We limit processing to 15 new articles per run so we never hit the quota.
+    let processedThisRun = 0;
+    const MAX_REQUESTS_PER_RUN = 15;
 
     for (let source of activeSources) {
+        if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
+            console.log("\nReached the maximum 15 API requests for this run to respect Gemini free tier limits. Halting further API calls.");
+            break;
+        }
+
         // Find RSS feed
         let feedUrl = RSS_FEEDS[source.url.replace(/\/$/, '')]; // strip trailing slash
         if (!feedUrl) continue;
@@ -147,10 +155,15 @@ async function run() {
 
                 console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${item.title}`);
                 let trend = await generateTrendFromArticle(item, source.name);
+                processedThisRun++;
 
                 if (trend) {
                     newlyFoundTrends.push(trend);
                     existingUrls.add(item.link); // Add to set locally to prevent duplicates
+                }
+
+                if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
+                    break;
                 }
             }
         } catch (err) {
@@ -160,6 +173,10 @@ async function run() {
 
     // Process Reddit Sources
     for (let source of activeSources) {
+        if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
+            break;
+        }
+
         let apiUrl = REDDIT_SOURCES[source.url.replace(/\/$/, '')];
         if (!apiUrl) continue;
 
@@ -192,10 +209,15 @@ async function run() {
 
                 console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${article.title}`);
                 let trend = await generateTrendFromArticle(article, source.name);
+                processedThisRun++;
 
                 if (trend) {
                     newlyFoundTrends.push(trend);
                     existingUrls.add(article.link);
+                }
+
+                if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
+                    break;
                 }
             }
         } catch (err) {
