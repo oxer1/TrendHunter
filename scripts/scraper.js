@@ -19,7 +19,10 @@ const RSS_FEEDS = {
     "https://sbcnews.co.uk": "https://sbcnews.co.uk/feed/",
     "https://gamblinginsider.com": "https://www.gamblinginsider.com/feed",
     "https://blog.unity.com": "https://blog.unity.com/feed",
-    "https://huggingface.co/blog": "https://huggingface.co/blog/feed.xml"
+    "https://huggingface.co/blog": "https://huggingface.co/blog/feed.xml",
+    "https://www.gamedeveloper.com": "https://www.gamedeveloper.com/rss.xml",
+    "https://next.io": "https://next.io/feed/",
+    "https://venturebeat.com/category/ai": "https://venturebeat.com/category/ai/feed/"
 };
 
 async function generateTrendFromArticle(article, sourceName) {
@@ -116,16 +119,16 @@ async function run() {
         try {
             let feed = await parser.parseURL(feedUrl);
 
-            // Limit to top 15 safest recent items per feed to avoid massive API bursts
-            let recentItems = feed.items.slice(0, 15);
+            // Limit to top 30 safest recent items per feed to avoid massive API bursts
+            let recentItems = feed.items.slice(0, 30);
 
             for (let item of recentItems) {
                 if (existingUrls.has(item.link)) continue; // Already processed
 
-                // Only process if published within the last 7 days
+                // Only process if published within the last 14 days
                 let pubDate = new Date(item.pubDate);
                 let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
-                if (daysOld > 7) continue;
+                if (daysOld > 14) continue;
 
                 console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${item.title}`);
                 let trend = await generateTrendFromArticle(item, source.name);
