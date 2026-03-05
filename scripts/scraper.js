@@ -4,7 +4,11 @@ const Parser = require('rss-parser');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 const DATA_FILE = path.join(__dirname, '../data/trends.json');
-const parser = new Parser();
+const parser = new Parser({
+    headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+});
 
 // Configure Gemini. Expects process.env.GEMINI_API_KEY
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
@@ -13,7 +17,7 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const RSS_FEEDS = {
     "https://igamingbusiness.com": "https://igamingbusiness.com/feed/",
     "https://sbcnews.co.uk": "https://sbcnews.co.uk/feed/",
-    "https://gamblinginsider.com": "https://www.gamblinginsider.com/rss/news.xml",
+    "https://gamblinginsider.com": "https://www.gamblinginsider.com/feed",
     "https://blog.unity.com": "https://blog.unity.com/feed",
     "https://huggingface.co/blog": "https://huggingface.co/blog/feed.xml"
 };
@@ -112,16 +116,16 @@ async function run() {
         try {
             let feed = await parser.parseURL(feedUrl);
 
-            // Limit to top 3 safest recent items per feed to avoid massive API bursts
-            let recentItems = feed.items.slice(0, 3);
+            // Limit to top 15 safest recent items per feed to avoid massive API bursts
+            let recentItems = feed.items.slice(0, 15);
 
             for (let item of recentItems) {
                 if (existingUrls.has(item.link)) continue; // Already processed
 
-                // Only process if published within the last 3 days
+                // Only process if published within the last 7 days
                 let pubDate = new Date(item.pubDate);
                 let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
-                if (daysOld > 3) continue;
+                if (daysOld > 7) continue;
 
                 console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${item.title}`);
                 let trend = await generateTrendFromArticle(item, source.name);
