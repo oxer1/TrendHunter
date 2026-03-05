@@ -1775,6 +1775,15 @@
             "note": "Low-activity; web fallback if rate-limited"
         },
         {
+            "name": "r/iGaming",
+            "url": "https://reddit.com/r/iGaming",
+            "category": "Community",
+            "status": "healthy",
+            "method": "api",
+            "lastScan": "2026-03-05T00:00:00+03:00",
+            "note": "Reddit Data API"
+        },
+        {
             "name": "Stable Diffusion Discord",
             "url": "https://discord.gg/stablediffusion",
             "category": "Community",

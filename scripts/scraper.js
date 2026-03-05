@@ -22,7 +22,17 @@ const RSS_FEEDS = {
     "https://huggingface.co/blog": "https://huggingface.co/blog/feed.xml",
     "https://www.gamedeveloper.com": "https://www.gamedeveloper.com/rss.xml",
     "https://next.io": "https://next.io/feed/",
-    "https://venturebeat.com/category/ai": "https://venturebeat.com/category/ai/feed/"
+    "https://venturebeat.com/category/ai": "https://venturebeat.com/category/ai/feed/",
+    "https://esotericsoftware.com/forum": "https://esotericsoftware.com/forum/tags/releases/feed",
+    "https://steamdb.info/blog": "https://steamdb.info/blog/feed/"
+};
+
+// Reddit APIs (fetch top posts from the week)
+const REDDIT_SOURCES = {
+    "https://reddit.com/r/StableDiffusion": "https://www.reddit.com/r/StableDiffusion/top.json?t=week&limit=15",
+    "https://reddit.com/r/LocalLLaMA": "https://www.reddit.com/r/LocalLLaMA/top.json?t=week&limit=15",
+    "https://reddit.com/r/Spine2D": "https://www.reddit.com/r/Spine2D/top.json?t=week&limit=15",
+    "https://reddit.com/r/iGaming": "https://www.reddit.com/r/iGaming/top.json?t=month&limit=10"
 };
 
 async function generateTrendFromArticle(article, sourceName) {
@@ -136,6 +146,51 @@ async function run() {
                 if (trend) {
                     newlyFoundTrends.push(trend);
                     existingUrls.add(item.link); // Add to set locally to prevent duplicates
+                }
+            }
+        } catch (err) {
+            console.error(`Failed to fetch ${source.name}: ${err.message}`);
+        }
+    }
+
+    // Process Reddit Sources
+    for (let source of activeSources) {
+        let apiUrl = REDDIT_SOURCES[source.url.replace(/\/$/, '')];
+        if (!apiUrl) continue;
+
+        console.log(`\nFetching Reddit API for ${source.name}: ${apiUrl}`);
+        try {
+            const response = await fetch(apiUrl, {
+                headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0' }
+            });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const json = await response.json();
+
+            const posts = json.data.children || [];
+
+            for (let post of posts) {
+                let item = post.data;
+                let postUrl = `https://reddit.com${item.permalink}`;
+                if (existingUrls.has(postUrl)) continue;
+
+                // Create a simulated article object for Gemini
+                let article = {
+                    title: item.title,
+                    pubDate: new Date(item.created_utc * 1000).toISOString(),
+                    link: postUrl,
+                    contentSnippet: item.selftext ? item.selftext.substring(0, 500) : "Image/Link post"
+                };
+
+                let pubDate = new Date(article.pubDate);
+                let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
+                if (daysOld > 14) continue;
+
+                console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${article.title}`);
+                let trend = await generateTrendFromArticle(article, source.name);
+
+                if (trend) {
+                    newlyFoundTrends.push(trend);
+                    existingUrls.add(article.link);
                 }
             }
         } catch (err) {
