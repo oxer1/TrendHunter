@@ -127,46 +127,61 @@ Content: ${article.contentSnippet}
 CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \`\`\`json.
 `;
 
-    // Respect Gemini free tier limits (gemini-2.0-flash: 15 RPM -> wait ~6s between requests)
-    await delay(6000);
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash", generationConfig: { responseMimeType: "application/json" } });
+    const MAX_RETRIES = 3;
+    const RETRY_DELAYS = [15000, 30000, 60000]; // 15s, 30s, 60s fallback delays
 
-    try {
-        const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash", generationConfig: { responseMimeType: "application/json" } });
-        const result = await model.generateContent(prompt);
-        const responseText = result.response.text();
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+        // Respect Gemini free tier limits (gemini-2.0-flash: 15 RPM -> wait ~6s between requests)
+        await delay(6000);
 
-        // Strip markdown if present just in case
-        let cleanJson = responseText.replace(/```json\n?|\n?```/g, "").trim();
-        let parsedResult = JSON.parse(cleanJson);
+        try {
+            const result = await model.generateContent(prompt);
+            const responseText = result.response.text();
 
-        // Build the final trend object
-        return {
-            id: 't-' + Math.random().toString(36).substr(2, 9),
-            title: parsedResult.title,
-            subtitle: parsedResult.subtitle,
-            category: parsedResult.category,
-            tags: parsedResult.tags || [],
-            trendStrength: parsedResult.trendStrength || 3,
-            velocity: parsedResult.velocity || "stable",
-            source: {
-                name: sourceName,
-                url: article.link,
-                date: new Date(article.pubDate).toISOString() // USE EXACT ORIGINAL DATE
-            },
-            whatsNew: parsedResult.whatsNew,
-            whyItMatters: parsedResult.whyItMatters,
-            howToUse: parsedResult.howToUse,
-            beneficiaries: parsedResult.beneficiaries || [],
-            companies: parsedResult.companies || [],
-            visualStyle: null,
-            cluster: parsedResult.cluster || "igaming-innovation",
-            isNew: true // Flag to highlight this as brand new in UI
-        };
+            // Strip markdown if present just in case
+            let cleanJson = responseText.replace(/```json\n?|\n?```/g, "").trim();
+            let parsedResult = JSON.parse(cleanJson);
 
-    } catch (err) {
-        console.error("Gemini mapping failed for:", article.title, err.message);
-        return null;
+            // Build the final trend object
+            return {
+                id: 't-' + Math.random().toString(36).substr(2, 9),
+                title: parsedResult.title,
+                subtitle: parsedResult.subtitle,
+                category: parsedResult.category,
+                tags: parsedResult.tags || [],
+                trendStrength: parsedResult.trendStrength || 3,
+                velocity: parsedResult.velocity || "stable",
+                source: {
+                    name: sourceName,
+                    url: article.link,
+                    date: new Date(article.pubDate).toISOString() // USE EXACT ORIGINAL DATE
+                },
+                whatsNew: parsedResult.whatsNew,
+                whyItMatters: parsedResult.whyItMatters,
+                howToUse: parsedResult.howToUse,
+                beneficiaries: parsedResult.beneficiaries || [],
+                companies: parsedResult.companies || [],
+                visualStyle: null,
+                cluster: parsedResult.cluster || "igaming-innovation",
+                isNew: true // Flag to highlight this as brand new in UI
+            };
+
+        } catch (err) {
+            const is429 = err.message && err.message.includes('429');
+            if (is429 && attempt < MAX_RETRIES) {
+                // Extract retry delay from error message if available
+                const retryMatch = err.message.match(/retryDelay":"(\d+)s/);
+                const waitSec = retryMatch ? parseInt(retryMatch[1]) + 2 : RETRY_DELAYS[attempt - 1] / 1000;
+                console.warn(`  ⏳ Rate limited (attempt ${attempt}/${MAX_RETRIES}), waiting ${waitSec}s before retry...`);
+                await delay(waitSec * 1000);
+            } else {
+                console.error("Gemini mapping failed for:", article.title, err.message);
+                return null;
+            }
+        }
     }
+    return null;
 }
 
 async function run() {
