@@ -234,7 +234,7 @@ async function run() {
 
     for (let source of activeSources) {
         if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
-            console.log("\nReached the maximum 15 API requests for this run to respect Gemini free tier limits. Halting further API calls.");
+            console.log(`\nReached the maximum ${MAX_REQUESTS_PER_RUN} API requests for this run. Halting further API calls.`);
             break;
         }
 
