@@ -146,9 +146,32 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function generateTrendFromArticle(article, sourceName) {
     console.log(`Analyzing: ${article.title}`);
-    const systemPrompt = `You are an expert iGaming and Tech analyst for "VisualTrendHub".
-Read article snippets and extract trend objects in pure JSON matching this exact schema:
+    const systemPrompt = `You are a strict relevance filter AND trend analyst for "VisualTrendHub".
+Your job is to evaluate if an article is RELEVANT to our focus areas and only extract trends for relevant ones.
+
+OUR FOCUS AREAS (articles must relate to at least one):
+- iGaming industry: online gambling, sports betting, casino tech, regulation changes, licensing, new platforms
+- Game development: game engines (Unity, PixiJS, Spine), slot game development, new game releases
+- AI for creative work: AI art generation, AI video tools, Stable Diffusion, image generation, AI pipelines for gaming
+- Visual design trends: slot art, game UI/UX, animation techniques, visual effects
+
+NOT RELEVANT (reject these):
+- Generic tech news unrelated to gaming/art/AI creative tools
+- General business news without iGaming/gaming connection
+- Celebrity gossip, sports results, pure entertainment news
+- Minor product updates, bug fixes, routine press releases
+- Articles about companies not connected to our focus areas
+
+FIRST, evaluate relevance on a scale of 1-10:
+- 1-3: Not relevant at all
+- 4-6: Loosely related but not important
+- 7-8: Relevant and noteworthy
+- 9-10: Highly impactful, must-include
+
+Return JSON with this schema:
 {
+  "relevanceScore": number 1-10,
+  "relevant": true/false (true ONLY if relevanceScore >= 7),
   "title": "Short catchy title (max 5 words)",
   "subtitle": "One sentence summary",
   "category": "Choose ONE of: iGaming, AI, Art, Tech, Community",
@@ -162,6 +185,10 @@ Read article snippets and extract trend objects in pure JSON matching this exact
   "companies": ["Company name if mentioned"],
   "cluster": "Choose ONE of: ai-in-igaming, igaming-innovation, studio-releases, regulation, local-ai, ai-automation, ai-video, ai-art-pipeline, animation-pipeline, rendering-tech, frontend-tools, pixi-slot-tech, visual-style-trends, slot-art-themes, community-ai-ethics"
 }
+
+If NOT relevant (relevanceScore < 7), you can skip filling most fields — just return:
+{ "relevanceScore": <score>, "relevant": false, "title": "", "subtitle": "Not relevant" }
+
 Return ONLY the JSON object. No markdown, no explanation.`;
 
     const userPrompt = `Article Details:
@@ -219,6 +246,15 @@ Content: ${article.contentSnippet || ''}`;
 
             let cleanJson = content.replace(/```json\n?|\n?```/g, "").trim();
             let parsedResult = JSON.parse(cleanJson);
+
+            // QUALITY GATE: Only accept articles with relevance score >= 7
+            const score = parsedResult.relevanceScore || 0;
+            if (!parsedResult.relevant || score < 7) {
+                console.log(`  ⊘ Skipped (relevance: ${score}/10)`);
+                return null;
+            }
+
+            console.log(`  ✓ Accepted (relevance: ${score}/10)`);
 
             return {
                 id: 't-' + Math.random().toString(36).substr(2, 9),
@@ -455,8 +491,8 @@ async function run() {
         console.log("\nNo new trends discovered in this run.");
     }
 
-    // A1: Archive trends older than 30 days
-    const ARCHIVE_DAYS = 30;
+    // A1: Archive trends older than 14 days
+    const ARCHIVE_DAYS = 14;
     const archiveCutoff = Date.now() - (ARCHIVE_DAYS * 24 * 3600 * 1000);
     const activeTrends = [];
     const archivedTrends = data.archived || [];
