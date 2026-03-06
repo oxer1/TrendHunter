@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T16:38:07.670Z",
+        "scanDate": "2026-03-06T17:33:04.570Z",
         "version": "2.5.0",
-        "totalTrends": 147,
+        "totalTrends": 148,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-d53lr0o7b",
+            "title": "ACMA Warning",
+            "subtitle": "Winners Bookmaking receives warning for self-exclusion contraventions from ACMA",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Self-exclusion",
+                "ACMA"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXR4VXk4QXpvd180UzdnZ3gyYVFnT3lPRkg4WTlpWV9kSlJJZW1kZnpJTU5FUEQ0cUVnM1EzSG5SZFZaakRxWkJWVE4yX2xYdXBBUklmaFRMaUlyZGpySmtoelMwem5BQmxoVXRDcnh3NjMxaEpZbUg1azhseHRXMVcxSFVkVER5bWp1NW1NSGtNN04wTGxYSW5ndnZTMlZLWEFiZUp1UDhVdw?oc=5",
+                "date": "2026-03-05T13:42:14.000Z"
+            },
+            "whatsNew": "The Australian Communications and Media Authority (ACMA) has issued a warning to Winners Bookmaking for failing to comply with self-exclusion regulations. This action highlights the importance of responsible gambling practices in the iGaming industry.",
+            "whyItMatters": "The warning emphasizes the need for operators to adhere to regulatory requirements, ensuring a safe and responsible gambling environment for consumers. Non-compliance can result in penalties and damage to an operator's reputation.",
+            "howToUse": "Operators should review and strengthen their self-exclusion policies to avoid similar contraventions, ensuring compliance with regulatory bodies like ACMA.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Winners Bookmaking"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-g8xt2ih2t",
             "title": "Greece Cracks Down",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8m5jj7cqs",
@@ -76,7 +107,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ja6mnxlqk",
@@ -107,7 +138,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fyzegpef1",
@@ -4748,7 +4779,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -4757,7 +4788,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -4766,7 +4797,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -4775,7 +4806,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -4784,7 +4815,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -4803,7 +4834,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4812,7 +4843,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4821,7 +4852,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "Regulatory updates"
         },
         {
@@ -4839,7 +4870,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4848,7 +4879,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4868,7 +4899,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4926,7 +4957,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4935,7 +4966,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4944,7 +4975,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": "Style browsing signal"
         },
         {
@@ -4971,7 +5002,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -4980,7 +5011,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
@@ -5070,7 +5101,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T16:38:07.670Z",
+            "lastScan": "2026-03-06T17:33:04.570Z",
             "note": null
         },
         {
