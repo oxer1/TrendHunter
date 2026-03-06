@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T13:53:58.437Z",
+        "scanDate": "2026-03-06T14:36:02.129Z",
         "version": "2.5.0",
-        "totalTrends": 139,
+        "totalTrends": 141,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-duc99cb3t",
+            "title": "Flutter Stock Dips",
+            "subtitle": "Flutter's CEO downplays prediction market effects despite stock dips",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Stock Market",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUlpc2N5Zzlra0g0NHNPX2JJZllFSTBlMjdXLWxqd3Y0M1JXUzg1QzRERTJERFhTbGRWMFZ1UUxJSEQwR05hRlRQWk1QWlFhd0lHTWtMR2dvSlQ0Y3poRFhoaHc5R3VDdndiQ2hyeEN6SGNTUHNEVXZxNjduZmRLOWg4eVZuYVNIeVVlaEZnbTdPaUp6MnJpYmZqd2FCaklILV81Slh6OWRlaGN4U1FWSzNwQ0xnaHM?oc=5",
+                "date": "2026-03-02T14:03:50.000Z"
+            },
+            "whatsNew": "Flutter's CEO Jackson has downplayed the effects of prediction markets on their business, despite recent stock dips. The company's stock has been affected, raising questions about the impact of prediction markets.",
+            "whyItMatters": "The development has significant implications for the iGaming industry, as it may indicate a shift in market trends and investor confidence. It also highlights the potential risks and challenges associated with prediction markets.",
+            "howToUse": "iGaming operators and investors should closely monitor market trends and adjust their strategies accordingly, taking into account the potential impact of prediction markets on their business.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-0p4l0y7t2",
+            "title": "NCAA Betting Reform",
+            "subtitle": "NCAA introduces player availability reports to curb betting risks in March Madness",
+            "category": "iGaming",
+            "tags": [
+                "NCAA",
+                "March Madness",
+                "Betting Integrity",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116467/ncaa-march-madness-player-availability-reports-betting-integrity",
+                "date": "2026-03-06T13:56:00.000Z"
+            },
+            "whatsNew": "The NCAA is introducing public player availability reports for March Madness to reduce betting-related risks. Teams must submit reports with formal deadlines and face penalties for non-compliance.",
+            "whyItMatters": "This move aims to protect the integrity of college sports and prevent betting-related corruption. It reflects growing concerns about the impact of sports betting on collegiate athletics.",
+            "howToUse": "Operators can use this information to improve their betting products and mitigate risks, while teams must comply with the new reporting requirements to avoid penalties.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "NCAA Teams"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-jgir5mpd7",
+            "title": "AI Detail Enhancer",
+            "subtitle": "Elusarca releases Detail Enhancer using Flux Klein 9B and LoRA technology on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Detail Enhancer",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa2syYU8tUVBEWVFFTFNSY0paMUh1eHZTUmVydldHSnY2SFkwOFMyMHo4eTFiOV83c0RJVDNZbmdldVM0NzNqR09uZy1ndmFySWpHNjgtNzBvTkxvT19kd1dEbGdEanVYYllUQzhXbW1OSi05TUxTRGhQcW15Y2ZFSDZyOA?oc=5",
+                "date": "2026-03-05T15:42:52.000Z"
+            },
+            "whatsNew": "Elusarca's Detail Enhancer utilizes Flux Klein 9B and LoRA for enhanced image generation. This tool is now available on Civitai. The technology aims to improve the quality and detail of AI-generated images.",
+            "whyItMatters": "This development can significantly impact the field of AI art generation, offering more sophisticated and detailed outputs. It may also influence the broader creative industry, including gaming and visual design.",
+            "howToUse": "Artists and developers can utilize Elusarca's Detail Enhancer by accessing it through Civitai, integrating it into their workflows to enhance the quality of their AI-generated art and designs.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-kqxrqh6rh",
             "title": "Sportsbook Hold Impact",
@@ -47,7 +139,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gvwu1q2gq",
@@ -76,7 +168,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o5zyr392s",
@@ -107,7 +199,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fj48rsf5t",
@@ -3565,37 +3657,6 @@
             "isNew": false
         },
         {
-            "id": "t-varfb8o32",
-            "title": "Michigan iGaming Revenue Up",
-            "subtitle": "Michigan's online gambling revenue increased in January, counteracting a dip in sports betting.",
-            "category": "iGaming",
-            "tags": [
-                "Michigan",
-                "Online Gambling",
-                "Revenue",
-                "Sports Betting"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnBrU1RCRWpLOC12NUJ3eXZvT1RtcURvVndwaVAzV0NzOXJsUU1rbUQ4Q3U2UVZ4SWRhYWxpY1JfdGpZVEpxUzJOUnpSci1HZ1dIdzU3R1lzVDVzMDBSUzBtR1BMVW9rbzRhME5wVDRsTUZiRHlxOUJtaURIOGlzQzN3U21sOFNaSFlQSmNHaw?oc=5",
-                "date": "2026-02-20T14:20:58.000Z"
-            },
-            "whatsNew": "Michigan's online gambling revenue demonstrated resilience in January by increasing, effectively compensating for a decline in sports betting figures. This indicates a robust and growing iGaming market.",
-            "whyItMatters": "This trend is significant for market analysis and investment decisions in the US iGaming sector, demonstrating growth potential even with fluctuating sports betting figures.",
-            "howToUse": "iGaming operators should analyze the market dynamics in Michigan, potentially rebalancing their focus towards online casino products to capitalize on this growth.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "State Regulators",
-                "Investors"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-3krjs4gwt",
             "title": "Ireland iGaming: New Regulatory Framework",
             "subtitle": "Ireland is poised for a significant transformation in its iGaming market with the introduction of a new regulatory framework.",
@@ -4510,7 +4571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -4519,7 +4580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -4528,7 +4589,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -4537,7 +4598,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -4546,7 +4607,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -4565,7 +4626,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4574,7 +4635,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4583,7 +4644,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": "Regulatory updates"
         },
         {
@@ -4601,7 +4662,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4610,7 +4671,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4630,7 +4691,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4688,7 +4749,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4697,7 +4758,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4733,7 +4794,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -4832,7 +4893,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T13:53:58.437Z",
+            "lastScan": "2026-03-06T14:36:02.129Z",
             "note": null
         },
         {
@@ -6202,6 +6263,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-varfb8o32",
+            "title": "Michigan iGaming Revenue Up",
+            "subtitle": "Michigan's online gambling revenue increased in January, counteracting a dip in sports betting.",
+            "category": "iGaming",
+            "tags": [
+                "Michigan",
+                "Online Gambling",
+                "Revenue",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnBrU1RCRWpLOC12NUJ3eXZvT1RtcURvVndwaVAzV0NzOXJsUU1rbUQ4Q3U2UVZ4SWRhYWxpY1JfdGpZVEpxUzJOUnpSci1HZ1dIdzU3R1lzVDVzMDBSUzBtR1BMVW9rbzRhME5wVDRsTUZiRHlxOUJtaURIOGlzQzN3U21sOFNaSFlQSmNHaw?oc=5",
+                "date": "2026-02-20T14:20:58.000Z"
+            },
+            "whatsNew": "Michigan's online gambling revenue demonstrated resilience in January by increasing, effectively compensating for a decline in sports betting figures. This indicates a robust and growing iGaming market.",
+            "whyItMatters": "This trend is significant for market analysis and investment decisions in the US iGaming sector, demonstrating growth potential even with fluctuating sports betting figures.",
+            "howToUse": "iGaming operators should analyze the market dynamics in Michigan, potentially rebalancing their focus towards online casino products to capitalize on this growth.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "State Regulators",
+                "Investors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
