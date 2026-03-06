@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 const DATA_FILE = path.join(__dirname, '../data/trends.json');
 const parser = new Parser();
@@ -70,8 +69,9 @@ async function fetchFeedResilient(feedUrl, sourceName) {
     }
 }
 
-// Configure Gemini. Expects process.env.GEMINI_API_KEY
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+// Groq API configuration (replaces Gemini — 30 RPM / 14,400 RPD free tier)
+const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
+const GROQ_MODEL = 'llama-3.3-70b-versatile';
 
 // A mapping of source URLs to their RSS feeds, matching the domains in active sources
 const RSS_FEEDS = {
@@ -99,51 +99,80 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function generateTrendFromArticle(article, sourceName) {
     console.log(`Analyzing: ${article.title}`);
-    const prompt = `
-You are an expert iGaming and Tech analyst for "VisualTrendHub".
-Read the following article snippet and extract a trend object in pure JSON.
-The JSON must strictly match this schema:
+    const systemPrompt = `You are an expert iGaming and Tech analyst for "VisualTrendHub".
+Read article snippets and extract trend objects in pure JSON matching this exact schema:
 {
   "title": "Short catchy title (max 5 words)",
   "subtitle": "One sentence summary",
   "category": "Choose ONE of: iGaming, AI, Art, Tech, Community",
-  "tags": ["Tag1", "Tag2", "Tag3"], // max 4 tags
+  "tags": ["Tag1", "Tag2", "Tag3"],
   "trendStrength": number between 1 and 5,
   "velocity": "rising" or "stable" or "cooling",
   "whatsNew": "2-3 sentences max summarizing the novel part.",
   "whyItMatters": "1-2 sentences on impact.",
   "howToUse": "Actionable advice, 1-2 sentences.",
-  "beneficiaries": ["Role 1", "Role 2"], // max 3 roles
-  "companies": ["Company name if mentioned"], // max 3
+  "beneficiaries": ["Role 1", "Role 2"],
+  "companies": ["Company name if mentioned"],
   "cluster": "Choose ONE of: ai-in-igaming, igaming-innovation, studio-releases, regulation, local-ai, ai-automation, ai-video, ai-art-pipeline, animation-pipeline, rendering-tech, frontend-tools, pixi-slot-tech, visual-style-trends, slot-art-themes, community-ai-ethics"
 }
+Return ONLY the JSON object. No markdown, no explanation.`;
 
-Article Details:
+    const userPrompt = `Article Details:
 Title: ${article.title}
 Date: ${article.pubDate}
-Source Name: ${sourceName}
-Content: ${article.contentSnippet}
+Source: ${sourceName}
+Content: ${article.contentSnippet || ''}`;
 
-CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \`\`\`json.
-`;
-
-    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash", generationConfig: { responseMimeType: "application/json" } });
     const MAX_RETRIES = 3;
-    const RETRY_DELAYS = [15000, 30000, 60000]; // 15s, 30s, 60s fallback delays
+    const RETRY_DELAYS = [5000, 15000, 30000];
 
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
-        // Respect Gemini free tier limits (gemini-2.0-flash: 15 RPM -> wait ~6s between requests)
-        await delay(6000);
+        // Groq allows 30 RPM -> wait ~2s between requests
+        await delay(2000);
 
         try {
-            const result = await model.generateContent(prompt);
-            const responseText = result.response.text();
+            const response = await fetch(GROQ_API_URL, {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${process.env.GROQ_API_KEY}`,
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    model: GROQ_MODEL,
+                    messages: [
+                        { role: 'system', content: systemPrompt },
+                        { role: 'user', content: userPrompt }
+                    ],
+                    temperature: 0.3,
+                    max_tokens: 800,
+                    response_format: { type: 'json_object' }
+                })
+            });
 
-            // Strip markdown if present just in case
-            let cleanJson = responseText.replace(/```json\n?|\n?```/g, "").trim();
+            if (response.status === 429) {
+                const body = await response.text();
+                const isQuotaExhausted = body.includes('limit') && body.includes('exceeded');
+                if (isQuotaExhausted && attempt >= 2) {
+                    console.error(`  ❌ Groq quota exhausted — stopping API calls.`);
+                    return '__QUOTA_EXHAUSTED__';
+                }
+                const waitSec = RETRY_DELAYS[attempt - 1] / 1000;
+                console.warn(`  ⏳ Rate limited (attempt ${attempt}/${MAX_RETRIES}), waiting ${waitSec}s...`);
+                await delay(RETRY_DELAYS[attempt - 1]);
+                continue;
+            }
+
+            if (!response.ok) {
+                throw new Error(`Groq API error: HTTP ${response.status} - ${await response.text()}`);
+            }
+
+            const data = await response.json();
+            const content = data.choices?.[0]?.message?.content;
+            if (!content) throw new Error('Empty response from Groq');
+
+            let cleanJson = content.replace(/```json\n?|\n?```/g, "").trim();
             let parsedResult = JSON.parse(cleanJson);
 
-            // Build the final trend object
             return {
                 id: 't-' + Math.random().toString(36).substr(2, 9),
                 title: parsedResult.title,
@@ -155,7 +184,7 @@ CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \
                 source: {
                     name: sourceName,
                     url: article.link,
-                    date: new Date(article.pubDate).toISOString() // USE EXACT ORIGINAL DATE
+                    date: new Date(article.pubDate).toISOString()
                 },
                 whatsNew: parsedResult.whatsNew,
                 whyItMatters: parsedResult.whyItMatters,
@@ -164,29 +193,16 @@ CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \
                 companies: parsedResult.companies || [],
                 visualStyle: null,
                 cluster: parsedResult.cluster || "igaming-innovation",
-                isNew: true // Flag to highlight this as brand new in UI
+                isNew: true
             };
 
         } catch (err) {
-            const is429 = err.message && err.message.includes('429');
-            // Distinguish daily quota exhaustion (limit: 0) from temporary RPM limit
-            const isQuotaExhausted = err.message && err.message.includes('limit: 0');
-
-            if (isQuotaExhausted) {
-                console.error(`  ❌ Daily quota exhausted — stopping all API calls. Try again tomorrow.`);
-                // Signal to caller to stop processing further articles
-                return '__QUOTA_EXHAUSTED__';
-            }
-
-            if (is429 && attempt < MAX_RETRIES) {
-                const retryMatch = err.message.match(/retryDelay":"(\d+)s/);
-                const waitSec = retryMatch ? parseInt(retryMatch[1]) + 2 : RETRY_DELAYS[attempt - 1] / 1000;
-                console.warn(`  ⏳ Rate limited (attempt ${attempt}/${MAX_RETRIES}), waiting ${waitSec}s before retry...`);
-                await delay(waitSec * 1000);
-            } else {
-                console.error("Gemini mapping failed for:", article.title, err.message);
+            if (attempt >= MAX_RETRIES) {
+                console.error("Analysis failed for:", article.title, err.message);
                 return null;
             }
+            console.warn(`  ⚠️ Attempt ${attempt} failed: ${err.message}, retrying...`);
+            await delay(RETRY_DELAYS[attempt - 1]);
         }
     }
     return null;
@@ -194,8 +210,8 @@ CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \
 
 async function run() {
     console.log("Starting VisualTrendHub Automated Scraper...");
-    if (!process.env.GEMINI_API_KEY) {
-        console.warn("⚠️ GEMINI_API_KEY is not set. The scraper cannot generate content. Exiting.");
+    if (!process.env.GROQ_API_KEY) {
+        console.warn("⚠️ GROQ_API_KEY is not set. The scraper cannot generate content. Exiting.");
         process.exit(0); // Exit gracefully so CI doesn't fail if we just want to skip
     }
 
@@ -212,10 +228,9 @@ async function run() {
     let existingTitles = new Set(data.trends.map(t => t.title.toLowerCase()));
 
     let activeSources = data.sourceHealth.filter(s => s.status !== 'error');
-    // Hardcap: Gemini free tier limit is 20 RPD (Requests Per Day).
-    // We limit processing to 15 new articles per run so we never hit the quota.
+    // Groq allows 14,400 RPD - safe to process more per run
     let processedThisRun = 0;
-    const MAX_REQUESTS_PER_RUN = 10;
+    const MAX_REQUESTS_PER_RUN = 20;
 
     for (let source of activeSources) {
         if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
