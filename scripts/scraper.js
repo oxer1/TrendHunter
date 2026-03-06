@@ -127,11 +127,11 @@ Content: ${article.contentSnippet}
 CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \`\`\`json.
 `;
 
-    // Respect Gemini free tier limits (15 RPM -> wait ~4-5 seconds between requests)
-    await delay(4200);
+    // Respect Gemini free tier limits (gemini-2.0-flash: 15 RPM -> wait ~6s between requests)
+    await delay(6000);
 
     try {
-        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash", generationConfig: { responseMimeType: "application/json" } });
+        const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash", generationConfig: { responseMimeType: "application/json" } });
         const result = await model.generateContent(prompt);
         const responseText = result.response.text();
 
