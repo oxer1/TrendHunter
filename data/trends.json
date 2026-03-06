@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T10:09:29.668Z",
+        "scanDate": "2026-03-06T10:20:45.467Z",
         "version": "2.5.0",
-        "totalTrends": 87,
+        "totalTrends": 117,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,938 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dr9zfq03o",
+            "title": "Gaming Layoffs",
+            "subtitle": "Valve and Discord face issues, while Tencent closes Montreal studio and Krafton appoints AI officer",
+            "category": "iGaming",
+            "tags": [
+                "Layoffs",
+                "Gaming Industry",
+                "AI Appointment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/valve-in-hot-water-discord-seeks-forgiveness-and-more-game-media-layoffs-patch-notes-42",
+                "date": "2026-02-27T10:35:06.000Z"
+            },
+            "whatsNew": "Tencent closes Montreal studio, Krafton appoints chief AI officer, and Valve faces backlash. Discord apologizes for recent issues.",
+            "whyItMatters": "The layoffs and appointments indicate a shift in the gaming industry, with AI playing a larger role. This affects the job market and industry trends.",
+            "howToUse": "Keep an eye on industry developments and be prepared to adapt to changes in the gaming landscape. Consider AI integration in your own projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Specialists"
+            ],
+            "companies": [
+                "Valve",
+                "Discord",
+                "Tencent",
+                "Krafton"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-v59q98cvx",
+            "title": "Highguard Failure",
+            "subtitle": "Former Wildlight Entertainment developers share details on Highguard's failure",
+            "category": "iGaming",
+            "tags": [
+                "Highguard",
+                "Wildlight Entertainment",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-hubris-may-have-doomed-highguard",
+                "date": "2026-02-26T20:39:43.000Z"
+            },
+            "whatsNew": "Former Wildlight Entertainment developers have shared details on what went wrong with Highguard, highlighting potential issues with the game's development process. The discussion revolves around the lack of pre-launch open testing. This could have potentially saved the game from its current state.",
+            "whyItMatters": "Understanding the reasons behind Highguard's failure can provide valuable insights for game developers, helping them avoid similar mistakes in the future. This can lead to better game development and testing processes.",
+            "howToUse": "Game developers can use this information to prioritize pre-launch open testing and gather feedback from players to improve their games. This can be achieved by allocating sufficient time and resources for testing and incorporating player feedback into the development process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Testers"
+            ],
+            "companies": [
+                "Wildlight Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-e0vvdntmj",
+            "title": "Dev Support",
+            "subtitle": "Publishers can profit while treating devs fairly",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Publishing",
+                "Developer Support"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/how-publishers-can-do-better-by-devs-and-still-profit-game-developer-podcast-ep-65",
+                "date": "2026-02-26T16:30:39.000Z"
+            },
+            "whatsNew": "Hooded Horse CEO Tim Bender shares insights on his journey in video game publishing and the importance of treating developers fairly. He discusses what he's learned and why many publishers aren't doing right by developers.",
+            "whyItMatters": "Fair treatment of developers can lead to better game quality and more successful partnerships. This shift in approach can impact the entire gaming industry.",
+            "howToUse": "Publishers can prioritize developer support by offering fair revenue shares and providing necessary resources. Developers can research and choose publishers that align with their values.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Hooded Horse"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
+        {
+            "id": "t-o4jxt18ok",
+            "title": "Gaming Acquisition",
+            "subtitle": "Splash Damage acquires Gamepires from Jagex",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "Gaming",
+                "Investment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/splash-damage-acquires-scum-developer-gamepires-from-jagex",
+                "date": "2026-02-26T16:21:59.000Z"
+            },
+            "whatsNew": "Splash Damage has acquired Gamepires, the developer of Scum, from Jagex. The acquisition is backed by Emona Capital. This move forms the Splash Damage Group.",
+            "whyItMatters": "The acquisition indicates a growing trend of consolidation in the gaming industry, with companies seeking to expand their portfolios and capabilities.",
+            "howToUse": "Game developers and investors should monitor industry consolidation trends to identify potential opportunities and partnerships.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Splash Damage",
+                "Gamepires",
+                "Jagex",
+                "Emona Capital"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-og8xrhe4z",
+            "title": "Hades Success",
+            "subtitle": "Hades devs accidentally invent a subgenre, finding success surreal",
+            "category": "iGaming",
+            "tags": [
+                "Hades",
+                "Subgenre",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/hades-devs-say-accidentally-inventing-a-subgenre-was-surreal-",
+                "date": "2026-02-26T15:16:30.000Z"
+            },
+            "whatsNew": "The Hades series has led to the accidental invention of a new subgenre, with its unique blend of gameplay and narrative. The game's success has been described as surreal by its developers. This unexpected turn of events has opened up new possibilities for game development.",
+            "whyItMatters": "The creation of a new subgenre can have a significant impact on the gaming industry, influencing the development of future games and shaping player preferences. It also highlights the potential for innovation and experimentation in game design.",
+            "howToUse": "Game developers can learn from the Hades series by embracing experimentation and taking risks in their design choices. This can involve combining different genres or mechanics to create something unique and innovative.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Supergiant Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ruwiq0hx7",
+            "title": "iGaming Merge",
+            "subtitle": "ReelLink brings online slots to retail game cabinets",
+            "category": "iGaming",
+            "tags": [
+                "ReelLink",
+                "Online Slots",
+                "Land-based Casinos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/when-two-worlds-merge-to-one-real-experience/",
+                "date": "2026-03-06T10:19:30.000Z"
+            },
+            "whatsNew": "ReelLink platform delivers online slot games to retail game cabinets, bridging the gap between land-based and online worlds. This innovation allows for any online slot game to be played on any slot machine cabinet.",
+            "whyItMatters": "ReelLink's technology has the potential to revolutionize the gaming industry by providing a unified experience for players across online and land-based platforms. This can lead to increased player engagement and revenue for casinos.",
+            "howToUse": "Land-based casinos can leverage ReelLink to expand their game offerings and attract a wider audience, while online game providers can reach new players through retail cabinets.",
+            "beneficiaries": [
+                "Land-based Casinos",
+                "Online Game Providers"
+            ],
+            "companies": [
+                "ReelLink",
+                "Swiss Casinos"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-6ctz59w21",
+            "title": "Kendoo Blitz Hits",
+            "subtitle": "Kendoo launches 3 Blitz Hits, a high-voltage slot game with escalating payouts and Free Spins",
+            "category": "iGaming",
+            "tags": [
+                "Kendoo",
+                "Slot Game",
+                "Blitz Hits"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/kendoo-ignites-the-reels-with-high-voltage-3-blitz-hits/",
+                "date": "2026-03-06T09:34:36.000Z"
+            },
+            "whatsNew": "Kendoo's 3 Blitz Hits introduces a dynamic Blitz Hit Feature, where landing three or more Blitz symbols triggers escalating payouts. The game also features up to three stackable modifiers for Free Spins. The game is designed for speed and energy, with rapid reward cycles.",
+            "whyItMatters": "The launch of 3 Blitz Hits showcases Kendoo's ability to create engaging and rewarding slot games, which can help the company stand out in a competitive market. The game's unique features can attract new players and increase player retention.",
+            "howToUse": "Operators can integrate 3 Blitz Hits into their platforms to offer players a new and exciting gaming experience. Players can try the game to experience the thrilling Blitz Hit Feature and rapid reward cycles.",
+            "beneficiaries": [
+                "Slot Players",
+                "Operators"
+            ],
+            "companies": [
+                "Kendoo"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-mwi8gn90c",
+            "title": "Esports Betting Growth",
+            "subtitle": "Oddin.gg's 2025 review shows complex growth for operators despite increased betting volumes",
+            "category": "iGaming",
+            "tags": [
+                "Esports",
+                "Betting",
+                "Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/oddin-ggs-2025-esports-betting-review/",
+                "date": "2026-03-06T09:29:16.000Z"
+            },
+            "whatsNew": "Oddin.gg's 2025 Esports Betting Review reports double-digit growth in major titles, with varying drivers behind the growth. The review covers five leading titles, including Counter-Strike 2, Dota 2, and Mobile Legends: Bang Bang, all of which recorded between 18% and 62% year-over-year betting volume growth.",
+            "whyItMatters": "The growth in esports betting has significant implications for operators, who must adapt to changing trends and drivers to remain competitive. The complex story behind the growth highlights the need for operators to stay informed and agile.",
+            "howToUse": "Operators can use the insights from the review to inform their strategies and stay ahead of the competition. By understanding the drivers behind the growth, operators can optimize their offerings and improve their market position.",
+            "beneficiaries": [
+                "Esports Operators",
+                "Betting Platforms"
+            ],
+            "companies": [
+                "Oddin.gg"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-d84ax65r4",
+            "title": "Mobile Sports Betting",
+            "subtitle": "Minnesota Senate introduces mobile sports betting bill for tribal casino owners",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Mobile Gaming",
+                "Tribal Casino"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/minnesota-senate-introduces-mobile-betting-bill/",
+                "date": "2026-03-05T16:16:14.000Z"
+            },
+            "whatsNew": "The Minnesota Senate has introduced a bill to authorize statewide mobile sports betting, with operator licenses reserved for tribal casino owners. This move aims to expand the state's gaming industry. The legislation is currently under review.",
+            "whyItMatters": "The introduction of mobile sports betting in Minnesota could significantly boost the state's gaming revenue and create new opportunities for tribal casino owners. It may also set a precedent for other states to follow.",
+            "howToUse": "Tribal casino owners and gaming operators should prepare for potential licensing opportunities and develop strategies to capitalize on the emerging mobile sports betting market in Minnesota.",
+            "beneficiaries": [
+                "Tribal Casino Owners",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-d80g4m1ug",
+            "title": "Bet365 Ends Sponsorships",
+            "subtitle": "Bet365 ends UK racing sponsorships due to tax hikes",
+            "category": "iGaming",
+            "tags": [
+                "bet365",
+                "UK racing",
+                "tax hikes"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/bet365-ends-longstanding-racing-sponsorships-tax-hikes/",
+                "date": "2026-03-05T15:06:18.000Z"
+            },
+            "whatsNew": "Bet365 is ending its sponsorship of UK racing due to tax increases. This move marks a significant shift in the company's strategy. The decision is a result of the UK's tightening fiscal policies.",
+            "whyItMatters": "The end of bet365's sponsorship will impact the UK racing industry's revenue. It may also lead to a reevaluation of sponsorship deals in the iGaming sector.",
+            "howToUse": "Companies should reassess their sponsorship portfolios in light of changing tax laws. They should also explore alternative marketing strategies to maintain their brand presence.",
+            "beneficiaries": [
+                "iGaming companies",
+                "Marketing teams"
+            ],
+            "companies": [
+                "bet365"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-xgqkdvpaf",
+            "title": "UKGC Case Update",
+            "subtitle": "High Court withholds findings in Kenny Alexander case against UKGC pending criminal trial",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "GVC",
+                "Entain",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/high-court-refuses-suppress-full-kenny-alexander-ruling/",
+                "date": "2026-03-05T14:45:26.000Z"
+            },
+            "whatsNew": "A judge has ruled to suppress 10 findings in Kenny Alexander's case against the UKGC. The case is related to a criminal trial scheduled for 2028.",
+            "whyItMatters": "The outcome of this case may have significant implications for the iGaming industry, particularly regarding regulation and transparency.",
+            "howToUse": "Operators should closely monitor regulatory developments and ensure compliance with existing laws and guidelines.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "GVC",
+                "Entain"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-ssdleh1qk",
+            "title": "Star CEO Breached Duties",
+            "subtitle": "Australian court finds former Star Entertainment CEO partly to blame for company scandal",
+            "category": "iGaming",
+            "tags": [
+                "Star Entertainment",
+                "CEO",
+                "Scandal"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/australia-court-former-star-ceo-breached-director-duties/",
+                "date": "2026-03-05T14:39:13.000Z"
+            },
+            "whatsNew": "An Australian court has found former Star Entertainment CEO Matt Bekier partly to blame for the scandal that destabilised the company. The court's decision is a significant development in the case.",
+            "whyItMatters": "The court's finding has significant implications for the iGaming industry, highlighting the importance of director duties and accountability. It may lead to increased scrutiny of CEO actions in the industry.",
+            "howToUse": "iGaming companies should review their director duties and ensure CEOs are held accountable for their actions to avoid similar scandals.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Regulators"
+            ],
+            "companies": [
+                "Star Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-mhwn0g8o7",
+            "title": "BMM Testlabs Acquired",
+            "subtitle": "The Visualize Group completes acquisition of BMM Testlabs",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "BMM Testlabs",
+                "The Visualize Group"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/visualize-group-completes-bmm-testlabs-acquisition/",
+                "date": "2026-03-05T12:52:36.000Z"
+            },
+            "whatsNew": "The Visualize Group has completed its acquisition of BMM Testlabs, a certification business in the gambling industry. This move expands The Visualize Group's presence in the iGaming sector. The acquisition is expected to enhance the group's capabilities.",
+            "whyItMatters": "The acquisition is significant as it highlights the growing interest of private equity firms in the iGaming industry. It may lead to increased investment and consolidation in the sector.",
+            "howToUse": "Companies in the iGaming industry should monitor such acquisitions to identify potential opportunities for partnerships or investments. They should also be prepared for increased competition.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "The Visualize Group",
+                "BMM Testlabs"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-tdi635fiv",
+            "title": "UKGC CEO Moves",
+            "subtitle": "Andrew Rhodes joins commercial gambling sector after regulatory role",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Regulation",
+                "Gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ukgc-andrew-rhodes-commercial-gambling-role/",
+                "date": "2026-03-05T12:48:16.000Z"
+            },
+            "whatsNew": "UKGC CEO Andrew Rhodes is leaving to join a gambling law firm consultancy, marking a significant shift from regulation to commercial sector. This move may indicate a closer relationship between regulators and the industry. The change is expected to happen after his departure from the regulator.",
+            "whyItMatters": "This move may impact the dynamics between the regulatory body and the commercial gambling sector, potentially leading to more collaborative approaches to governance. It also reflects the evolving landscape of the gambling industry.",
+            "howToUse": "Operators should monitor regulatory changes and adjust their compliance strategies accordingly, while also considering the potential benefits of closer ties with regulatory bodies.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-p0x13g8xo",
+            "title": "Entain Growth",
+            "subtitle": "Entain reports stronger financial results despite regulatory pressure",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "Gaming",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-entain-sees-growth-analysts-warn-slower-expansion/",
+                "date": "2026-03-05T11:53:09.000Z"
+            },
+            "whatsNew": "Entain's financial results for 2025 exceeded expectations, with rising profitability. However, analysts warn of potential slower expansion due to regulatory pressure.",
+            "whyItMatters": "Entain's growth despite regulatory challenges is significant for the iGaming industry, indicating resilience and adaptability. Slower expansion could impact the company's future prospects.",
+            "howToUse": "Monitor regulatory developments and adjust business strategies to mitigate potential risks. Diversify offerings to maintain competitiveness.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Operators"
+            ],
+            "companies": [
+                "Entain"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-gl5eorbsu",
+            "title": "Athletes Betting Rise",
+            "subtitle": "KSA reports increase in athletes betting on their own sports in the Netherlands",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "KSA",
+                "Netherlands"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/ksa-reports-athletes-increasingly-betting-on-own-sports/",
+                "date": "2026-03-04T16:35:03.000Z"
+            },
+            "whatsNew": "The KSA has reported an increase in athletes betting on their own sports, although the numbers are still lower than in other countries. This trend is being monitored closely. The Netherlands is seeing a notable rise in this behavior.",
+            "whyItMatters": "This increase in athletes betting on their own sports raises concerns about the integrity of the games and the potential for insider information. It also highlights the need for stricter regulations and monitoring.",
+            "howToUse": "Operators should implement stricter monitoring and reporting systems to detect and prevent athletes from betting on their own sports. Athletes should be educated on the risks and consequences of such behavior.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Sports Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-4hujjt5zs",
+            "title": "Polymarket Investigation",
+            "subtitle": "Israeli police investigate Polymarket over accurate prediction of US strike on Iran",
+            "category": "iGaming",
+            "tags": [
+                "Polymarket",
+                "Investigation",
+                "Prediction Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/polymarket-targeted-investigation-strike-on-iran/",
+                "date": "2026-03-04T16:14:44.000Z"
+            },
+            "whatsNew": "A large bet on Polymarket accurately predicted a US strike on Iran, prompting an investigation by Israeli police. The investigation highlights concerns over the use of prediction markets for potentially illicit activities. This incident raises questions about the regulation of such markets.",
+            "whyItMatters": "The investigation into Polymarket has significant implications for the regulation of prediction markets and their potential use for illicit activities. It also highlights the need for greater oversight and transparency in these markets.",
+            "howToUse": "Operators of prediction markets should ensure they have robust compliance and regulatory frameworks in place to prevent illicit activities and maintain transparency.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliance Officers"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-k270txwby",
+            "title": "Genius Record Earnings",
+            "subtitle": "Genius Sports reports record 2025 results with revenue up 31% year-on-year",
+            "category": "iGaming",
+            "tags": [
+                "Genius Sports",
+                "M&A",
+                "Earnings Report"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-genius-posts-record-earnings-after-legend-deal/",
+                "date": "2026-03-04T16:04:25.000Z"
+            },
+            "whatsNew": "Genius Sports has posted record earnings for FY 2025, with revenue increasing by 31% to $669.5m and adjusted EBITDA rising by 59% to $136.2m. This growth follows the company's M&A activity, including the Legend deal.",
+            "whyItMatters": "The record earnings demonstrate the success of Genius Sports' strategic acquisitions and its strong position in the iGaming market. This growth is likely to have a positive impact on the company's future prospects and the broader iGaming industry.",
+            "howToUse": "Companies can learn from Genius Sports' M&A strategy and focus on strategic acquisitions to drive growth and increase revenue. Investors can consider Genius Sports as a strong player in the iGaming market.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "Genius Sports"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-4allhu4e0",
+            "title": "Lottomatica Growth",
+            "subtitle": "Lottomatica reports higher revenue and market share in 2025",
+            "category": "iGaming",
+            "tags": [
+                "Lottomatica",
+                "GGR",
+                "Market Share"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-lottomatica-ggr-eur4-74bn-growing-market-share/",
+                "date": "2026-03-04T14:49:06.000Z"
+            },
+            "whatsNew": "Lottomatica's GGR hit €4.74bn in 2025, driven by expansion across its gaming operations. The company saw increased revenue, profits, and market share. This growth indicates a strong performance in the gaming industry.",
+            "whyItMatters": "Lottomatica's growth reflects the company's successful strategies and the potential for further expansion in the iGaming market. This trend may influence other companies to adopt similar approaches.",
+            "howToUse": "Companies can analyze Lottomatica's strategies to identify opportunities for growth and expansion in the iGaming market. By adopting similar approaches, they may be able to increase their revenue and market share.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Lottomatica"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-tk86gnr2f",
+            "title": "CFTC Guidance",
+            "subtitle": "CFTC to publish prediction markets guidance soon",
+            "category": "Tech",
+            "tags": [
+                "CFTC",
+                "Guidance",
+                "Prediction Markets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/cftc-chief-signals-imminent-prediction-markets-guidance/",
+                "date": "2026-03-04T12:56:06.000Z"
+            },
+            "whatsNew": "The CFTC is set to release guidance on prediction markets. This move is expected to bring clarity to the industry. The guidance is anticipated to be published soon.",
+            "whyItMatters": "The guidance will impact the regulatory landscape for prediction markets, affecting businesses and investors. It will provide clarity on the rules and regulations governing these markets.",
+            "howToUse": "Businesses and investors should prepare for the upcoming guidance by reviewing current regulations and anticipating potential changes. They should also be ready to adapt to new rules and guidelines.",
+            "beneficiaries": [
+                "Investors",
+                "Businesses"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-5nc807elt",
+            "title": "Indiana Ban",
+            "subtitle": "Indiana lawmakers approve bill to ban online sweepstakes-style casino games",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Sweepstakes",
+                "Casino Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/indiana-sweepstakes-ban-heads-to-governor/",
+                "date": "2026-03-04T12:49:15.000Z"
+            },
+            "whatsNew": "Indiana lawmakers have approved a bill to ban online sweepstakes-style casino games, which will now be sent to the governor for approval. The bill targets online games that mimic casino experiences. This move is part of a broader effort to regulate online gaming.",
+            "whyItMatters": "The ban could significantly impact the online gaming industry in Indiana, affecting both operators and players. It reflects a growing trend of regulatory scrutiny over online gaming activities.",
+            "howToUse": "Operators should review their offerings to ensure compliance with the impending regulations, while players should be aware of the changing legal landscape for online gaming in Indiana.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-wgb7rymk3",
+            "title": "Bragg Gaming Update",
+            "subtitle": "Bragg Gaming Group appoints new executives",
+            "category": "iGaming",
+            "tags": [
+                "Bragg Gaming",
+                "Executive Appointments"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/bragg-gaming-group-appoints-coo-content-evp/",
+                "date": "2026-03-04T12:27:39.000Z"
+            },
+            "whatsNew": "Morten Tonnesen joins as COO and Garrick Morris is promoted to EVP of content. These appointments aim to strengthen the company's leadership.",
+            "whyItMatters": "The new appointments may impact Bragg Gaming's strategic direction and operations. This could lead to changes in the company's content offerings and market presence.",
+            "howToUse": "Monitor Bragg Gaming's future developments and announcements to understand the impact of these appointments on their business and industry.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Industry Investors"
+            ],
+            "companies": [
+                "Bragg Gaming Group"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-9j3k0znya",
+            "title": "Spribe Fined",
+            "subtitle": "Sweden fines Spribe for supplying unlicensed operators",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Spribe",
+                "SGA"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/sweden-issues-small-fine-spribe-unlicensed-operators/",
+                "date": "2026-03-04T11:48:53.000Z"
+            },
+            "whatsNew": "The Swedish Gambling Authority issued a warning to Aviator supplier Spribe for providing software to unlicensed companies. Spribe was fined for non-compliance.",
+            "whyItMatters": "This fine highlights the importance of regulatory compliance in the iGaming industry. It sets a precedent for suppliers to ensure they only work with licensed operators.",
+            "howToUse": "Suppliers should conduct thorough due diligence on operators to ensure they are licensed and compliant with local regulations.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Spribe"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-av2y8j94r",
+            "title": "Novibet Deal Cancelled",
+            "subtitle": "Allwyn cancels €217m Novibet acquisition due to competition concerns",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "Regulation",
+                "Competition"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/allwyn-spikes-novibet-deal-competition-concerns/",
+                "date": "2026-03-04T11:36:04.000Z"
+            },
+            "whatsNew": "Allwyn has cancelled its planned acquisition of Novibet due to concerns from the Greek competition regulator. The deal was valued at €217m.",
+            "whyItMatters": "The cancellation of the deal highlights the increasing scrutiny of mergers and acquisitions in the iGaming industry. It may impact the growth strategies of companies in the sector.",
+            "howToUse": "Companies should carefully assess regulatory risks when pursuing acquisitions in the iGaming industry.",
+            "beneficiaries": [
+                "Regulators",
+                "Competitors"
+            ],
+            "companies": [
+                "Allwyn",
+                "Novibet"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-bmxnn2wx7",
+            "title": "Luxury iGaming",
+            "subtitle": "FashionTV Gaming Group announces global expansion strategy",
+            "category": "iGaming",
+            "tags": [
+                "Luxury",
+                "Expansion",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/fashiontv-gaming-group-announces-2026-global-strategy/",
+                "date": "2026-03-04T11:18:47.000Z"
+            },
+            "whatsNew": "FashionTV Gaming Group launches FTV Games HUB, a plug-and-play infrastructure for operators to deploy the complete FashionTV Luxury Category. This enables a seamless integration of luxury gaming experiences.",
+            "whyItMatters": "The introduction of luxury as a new category in iGaming can attract high-end players and increase revenue for operators. It also sets a new standard for gaming experiences.",
+            "howToUse": "Operators can integrate the FTV Games HUB into their platforms to offer luxury gaming experiences to their users. This can be done through a single, seamless integration.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "High-end Players"
+            ],
+            "companies": [
+                "FashionTV Gaming Group"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ydktzksbx",
+            "title": "AI Robotics Advance",
+            "subtitle": "Bringing robotics AI to embedded platforms through dataset recording and on-device optimizations",
+            "category": "AI",
+            "tags": [
+                "Robotics",
+                "Embedded Platforms",
+                "AI Optimization"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+                "date": "2026-03-05T14:16:49.000Z"
+            },
+            "whatsNew": "Researchers are now focusing on bringing robotics AI to embedded platforms, enabling more efficient and localized processing. This involves dataset recording, VLA fine-tuning, and on-device optimizations. These advancements aim to improve performance and reduce latency in robotics applications.",
+            "whyItMatters": "The integration of AI in robotics on embedded platforms can significantly enhance autonomy, precision, and decision-making capabilities in various industries. This development has the potential to revolutionize sectors such as manufacturing, healthcare, and transportation.",
+            "howToUse": "Developers can leverage these advancements by integrating AI models into their robotics applications, focusing on optimizing performance for embedded platforms. This can be achieved by utilizing tools and frameworks that support on-device learning and optimization.",
+            "beneficiaries": [
+                "Robotics Engineers",
+                "AI Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-j3ae97chx",
+            "title": "Modular Diffusers",
+            "subtitle": "Introducing composable building blocks for diffusion pipelines",
+            "category": "AI",
+            "tags": [
+                "Diffusion Pipelines",
+                "Modular Diffusers",
+                "Hugging Face"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/modular-diffusers",
+                "date": "2026-03-05T00:00:00.000Z"
+            },
+            "whatsNew": "Modular Diffusers are composable building blocks for diffusion pipelines, allowing for more flexibility and customization. This innovation enables the creation of more complex and efficient diffusion models. The introduction of Modular Diffusers is expected to accelerate advancements in AI research and applications.",
+            "whyItMatters": "Modular Diffusers have the potential to revolutionize the field of AI by providing a more efficient and flexible way to build diffusion models. This can lead to significant improvements in areas such as image and video generation, and natural language processing.",
+            "howToUse": "Developers can utilize Modular Diffusers to create custom diffusion pipelines tailored to their specific needs, and researchers can leverage this technology to explore new applications and advancements in AI.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-8nxz1dadm",
+            "title": "MoEs in Transformers",
+            "subtitle": "Hugging Face explores Mixture of Experts in Transformers for improved performance",
+            "category": "AI",
+            "tags": [
+                "Transformers",
+                "Mixture of Experts",
+                "Hugging Face"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/moe-transformers",
+                "date": "2026-02-26T00:00:00.000Z"
+            },
+            "whatsNew": "The Hugging Face blog discusses the integration of Mixture of Experts (MoEs) into Transformers, enhancing their capabilities. MoEs allow for more efficient and scalable models. This approach enables better handling of complex tasks.",
+            "whyItMatters": "The incorporation of MoEs in Transformers can significantly improve model performance and efficiency, making it a crucial development in AI research. This advancement has the potential to impact various applications that rely on Transformer models.",
+            "howToUse": "Developers can leverage the Hugging Face library to implement MoEs in their Transformer-based projects, potentially leading to improved model accuracy and reduced computational costs.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-j0h2d2lwe",
+            "title": "VLM on Jetson",
+            "subtitle": "Hugging Face deploys open source Vision Language Models on Jetson",
+            "category": "AI",
+            "tags": [
+                "VLM",
+                "Jetson",
+                "Hugging Face"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+                "date": "2026-02-24T00:00:21.000Z"
+            },
+            "whatsNew": "Hugging Face has successfully deployed open source Vision Language Models on Jetson, enabling efficient and powerful AI processing. This deployment allows for the integration of VLMs into various applications. The use of open source models promotes community collaboration and development.",
+            "whyItMatters": "The deployment of VLMs on Jetson has significant implications for AI-powered applications, enabling more efficient and accurate processing. This development can lead to breakthroughs in fields such as computer vision and natural language processing.",
+            "howToUse": "Developers can utilize the Hugging Face platform to deploy VLMs on Jetson, leveraging the platform's resources and community support to integrate AI capabilities into their applications.",
+            "beneficiaries": [
+                "Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Hugging Face",
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-4mc3uxhae",
+            "title": "Indie Game Support",
+            "subtitle": "Kinetic Publishing helps indie devs with funding and guidance",
+            "category": "iGaming",
+            "tags": [
+                "Indie Games",
+                "Game Development",
+                "Publishing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/kinetic-publishing-indie-games",
+                "date": "2026-02-27T00:00:00.000Z"
+            },
+            "whatsNew": "Kinetic Games launches Kinetic Publishing to support indie game developers with funding, technical, and marketing support. The publishing imprint aims to empower indie devs and help them bring unique games to the market.",
+            "whyItMatters": "Kinetic Publishing provides a much-needed boost to the indie game development scene, offering guidance and resources to help small studios succeed. This initiative can lead to more innovative and creative games in the market.",
+            "howToUse": "Indie devs can submit their games to Kinetic Publishing for consideration, and those who are selected will receive funding, guidance, and support to help them bring their games to market.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Small Game Studios"
+            ],
+            "companies": [
+                "Kinetic Games",
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-81gxjl7p4",
             "title": "VR Layoffs",
@@ -49,7 +981,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-or77edjox",
@@ -80,7 +1012,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ic4mjcfn2",
@@ -112,7 +1044,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-82bms5wci",
@@ -141,7 +1073,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6m5xg4h01",
@@ -170,7 +1102,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "visual-style-trends",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1gyn1dq3k",
@@ -203,7 +1135,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8h5k2lzti",
@@ -234,7 +1166,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kiqcctsv1",
@@ -263,7 +1195,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-utjwyhkxa",
@@ -292,7 +1224,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-7t3i6ovcs",
@@ -323,7 +1255,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x7wnowqpz",
@@ -357,7 +1289,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wevpb6ti8",
@@ -388,7 +1320,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-atj5n8gvh",
@@ -420,7 +1352,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dbax02g4q",
@@ -449,7 +1381,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s9y9xvc4w",
@@ -481,7 +1413,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-v2dv184hx",
@@ -514,7 +1446,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tnslkwxvy",
@@ -545,7 +1477,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mqlu48lfd",
@@ -577,7 +1509,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-y8v5m55i1",
@@ -608,7 +1540,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-sxczwthbo",
@@ -641,7 +1573,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-84jrgwnsx",
@@ -3107,7 +4039,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T10:09:29.668Z",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
@@ -3116,7 +4048,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T10:09:29.668Z",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
@@ -3125,7 +4057,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T10:09:29.668Z",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
@@ -3134,7 +4066,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-05T00:00:00+03:00",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
@@ -3143,7 +4075,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-05T00:00:00+03:00",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
@@ -3328,7 +4260,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-02-27T15:56:53+03:00",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
@@ -3427,7 +4359,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-02-27T15:56:53+03:00",
+            "lastScan": "2026-03-06T10:20:45.467Z",
             "note": null
         },
         {
