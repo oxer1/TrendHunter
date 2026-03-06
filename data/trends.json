@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T10:03:50.029Z",
+        "scanDate": "2026-03-06T10:09:29.668Z",
         "version": "2.5.0",
-        "totalTrends": 67,
+        "totalTrends": 87,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,629 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-81gxjl7p4",
+            "title": "VR Layoffs",
+            "subtitle": "nDreams proposes significant layoffs and studio closures",
+            "category": "Tech",
+            "tags": [
+                "VR",
+                "Layoffs",
+                "nDreams"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/vr-specialist-ndreams-proposes-significant-layoffs-and-two-studio-closures",
+                "date": "2026-03-05T12:21:08.000Z"
+            },
+            "whatsNew": "nDreams is proposing significant layoffs and two studio closures, affecting 78 employees. The layoffs include some executive team members. This move indicates a shift in the company's strategy.",
+            "whyItMatters": "The layoffs and studio closures may impact the VR industry's growth and development. This could lead to a decrease in VR-related innovations and releases.",
+            "howToUse": "Companies in the VR industry should reassess their strategies and focus on sustainable growth. Developers should explore alternative opportunities and partnerships.",
+            "beneficiaries": [
+                "Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "nDreams"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-or77edjox",
+            "title": "MindsEye Layoffs",
+            "subtitle": "MindsEye developer announces layoffs amidst allegations of corporate sabotage",
+            "category": "iGaming",
+            "tags": [
+                "MindsEye",
+                "Layoffs",
+                "Corporate Sabotage"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/mindseye-developer-announces-more-job-cuts-while-alleging-corporate-sabotage-",
+                "date": "2026-03-05T10:31:45.000Z"
+            },
+            "whatsNew": "Build A Rocket Boy has announced more layoffs and alleged corporate sabotage as the reason for the troubled launch of MindsEye. The company claims criminal activity was involved. This development adds to the game's already problematic release.",
+            "whyItMatters": "The allegations of corporate sabotage and layoffs can impact the gaming industry's perception of MindsEye and Build A Rocket Boy. It may also lead to increased scrutiny of the company's operations and the game's development process.",
+            "howToUse": "Developers and publishers should be cautious of potential sabotage and take measures to protect their projects. They should also prioritize transparency and communication with their teams and audiences.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Build A Rocket Boy"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ic4mjcfn2",
+            "title": "Jackbox Publishing",
+            "subtitle": "Jackbox Games enters third-party publishing with new titles",
+            "category": "iGaming",
+            "tags": [
+                "Jackbox Games",
+                "Toot Games",
+                "Publishing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/jackbox-games-jumps-feet-first-into-publishing-biz",
+                "date": "2026-03-04T20:32:17.000Z"
+            },
+            "whatsNew": "Jackbox Games is expanding into third-party publishing, starting with Toot Games' My Arms Are Longer Now. This move marks a significant shift in their business strategy. The company will now support external game development.",
+            "whyItMatters": "This expansion allows Jackbox Games to diversify its portfolio and support innovative game development. It also opens up new opportunities for independent game studios to reach a broader audience.",
+            "howToUse": "Game developers can explore partnership opportunities with Jackbox Games for publishing and distribution. This can help them gain more visibility and reach a larger player base.",
+            "beneficiaries": [
+                "Game Developers",
+                "Independent Studios"
+            ],
+            "companies": [
+                "Jackbox Games",
+                "Toot Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-82bms5wci",
+            "title": "Fair Game Dev",
+            "subtitle": "Workers need more protections in game development",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Worker Rights",
+                "Fairness"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/ghost-of-yotei-star-workers-need-more-protections-",
+                "date": "2026-03-04T17:00:00.000Z"
+            },
+            "whatsNew": "The Ghost of Yotei star is speaking out about worker protections in the game development industry. Workers are demanding fair treatment and better working conditions.",
+            "whyItMatters": "Fair treatment of workers is crucial for the well-being of employees and the success of the industry as a whole. It can impact the quality of games and the reputation of game development companies.",
+            "howToUse": "Game development companies should prioritize worker well-being and implement fair labor practices to ensure a positive and productive work environment.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Workers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
+        {
+            "id": "t-6m5xg4h01",
+            "title": "Myst Inspires Game",
+            "subtitle": "Blue Prince's tone inspired by Myst",
+            "category": "Art",
+            "tags": [
+                "Myst",
+                "Game Development",
+                "Inspiration"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/blue-prince-s-somber-tone-was-inspired-by-myst",
+                "date": "2026-03-04T16:10:03.000Z"
+            },
+            "whatsNew": "The creator of Blue Prince reveals the game's somber tone was inspired by Myst. This influence is evident in the game's themes and atmosphere. The game's narrative explores the contrast between youthful dreams and the realities of death.",
+            "whyItMatters": "This inspiration showcases the lasting impact of classic games like Myst on modern game development. It highlights the importance of exploring mature themes in gaming.",
+            "howToUse": "Game developers can draw inspiration from classic games to create unique and thought-provoking experiences. By exploring different themes and atmospheres, developers can create games that resonate with players.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
+        {
+            "id": "t-1gyn1dq3k",
+            "title": "Balor Games Launch",
+            "subtitle": "Good Games Group acquires Ziff Davis' publishing business",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "Gaming",
+                "Publishing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/good-games-group-acquires-ziff-davis-publishing-business-to-launch-balor-games",
+                "date": "2026-03-04T16:02:25.000Z"
+            },
+            "whatsNew": "Good Games Group has acquired Ziff Davis' publishing business to launch Balor Games, overseeing indie titles like Slay the Spire and A Hat in Time. This move expands their portfolio and influence in the gaming industry. The acquisition brings new opportunities for indie game development and publishing.",
+            "whyItMatters": "This acquisition impacts the gaming industry by increasing competition and opportunities for indie game developers. It also expands Good Games Group's reach and influence in the market.",
+            "howToUse": "Game developers can explore Balor Games for potential publishing partnerships, while investors can consider the implications of this acquisition on the gaming market.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Good Games Group",
+                "Ziff Davis",
+                "Balor Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-8h5k2lzti",
+            "title": "Sony Shifts Focus",
+            "subtitle": "Sony rethinks bringing PlayStation titles to PC due to poor sales",
+            "category": "Tech",
+            "tags": [
+                "PlayStation",
+                "PC Gaming",
+                "Sony"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-sony-losing-interest-in-bringing-major-playstation-titles-to-pc",
+                "date": "2026-03-04T14:55:19.000Z"
+            },
+            "whatsNew": "Sony is reportedly reconsidering its strategy to bring major PlayStation titles to PC, citing unimpressive sales. This shift in focus may impact the company's future gaming releases. The decision could also influence the gaming industry's approach to cross-platform releases.",
+            "whyItMatters": "This change in strategy may limit the availability of popular PlayStation games on PC, affecting gamers and the gaming industry as a whole. It could also lead to a reevaluation of the PC gaming market's potential for console game ports.",
+            "howToUse": "Developers should consider the potential implications of this shift on their own cross-platform release strategies, and gamers should be aware of the possible limitations on accessing PlayStation titles on PC.",
+            "beneficiaries": [
+                "Console Gamers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Sony"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-kiqcctsv1",
+            "title": "Game Narrative",
+            "subtitle": "Book excerpt on game narrative design",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Narrative Design",
+                "Game Writing"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/book-excerpt-the-game-narrative-kaleidoscope",
+                "date": "2026-03-04T14:00:00.000Z"
+            },
+            "whatsNew": "A new book excerpt shares insights on game narrative design. The Game Narrative Kaleidoscope features over 100 essays on the craft of game writing. Narrative designer Jon Ingold shares the foreword.",
+            "whyItMatters": "The book provides valuable insights for game developers and writers. It highlights the importance of narrative design in game development.",
+            "howToUse": "Game developers can use the book as a resource to improve their narrative design skills. They can apply the insights from the book to create more engaging game stories.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-utjwyhkxa",
+            "title": "Talent Agency Launch",
+            "subtitle": "Veteran launches agency to support small game studios",
+            "category": "Tech",
+            "tags": [
+                "Gaming",
+                "Talent Agency",
+                "Indie Studios"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/playstation-and-xbox-veteran-launches-talent-agency-to-support-small-studios",
+                "date": "2026-03-04T11:52:46.000Z"
+            },
+            "whatsNew": "A PlayStation and Xbox veteran has launched a talent agency to support small studios, providing recruiting expertise at a lower cost. The agency aims to help Indies and small studios grow. This move marks a new approach to studio support.",
+            "whyItMatters": "The agency's launch matters because it can help small studios compete with larger ones by providing access to top talent. This can lead to more innovative and diverse games being developed.",
+            "howToUse": "Small studios can use this agency to find and recruit top talent without the high costs of a full-time hire, helping them to grow and compete in the market.",
+            "beneficiaries": [
+                "Indie Developers",
+                "Small Studios"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-7t3i6ovcs",
+            "title": "Resident Evil Soars",
+            "subtitle": "Resident Evil Requiem sells 5 million copies worldwide",
+            "category": "Tech",
+            "tags": [
+                "Resident Evil",
+                "Gaming Sales",
+                "Survival Horror"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/resident-evil-requiem-has-topped-5-million-sales-worldwide",
+                "date": "2026-03-04T10:46:43.000Z"
+            },
+            "whatsNew": "Resident Evil Requiem has achieved 5 million sales worldwide since its launch on February 27, 2026. This milestone indicates a strong start for the game. The survival horror genre continues to attract a large audience.",
+            "whyItMatters": "The game's success reflects the ongoing popularity of the survival horror genre and the Resident Evil series. It also highlights the potential for significant revenue in the gaming industry.",
+            "howToUse": "Game developers can take note of the successful elements in Resident Evil Requiem to inform their own game development. Fans of the series can look forward to potential future releases.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Enthusiasts"
+            ],
+            "companies": [
+                "Capcom"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-x7wnowqpz",
+            "title": "Tencent US Divest",
+            "subtitle": "Tencent may face pressure to divest from US companies",
+            "category": "iGaming",
+            "tags": [
+                "Tencent",
+                "US Studios",
+                "Divestment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-trump-administration-may-pressure-tencent-to-divest-from-us-studios",
+                "date": "2026-03-04T01:24:57.000Z"
+            },
+            "whatsNew": "The Trump administration may pressure Tencent to divest from US companies. This could impact Tencent's holdings in Epic Games, Riot Games, and Discord.",
+            "whyItMatters": "This move could significantly alter the gaming industry landscape and impact Tencent's global influence.",
+            "howToUse": "Monitor regulatory updates and assess potential investment opportunities in affected companies.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Companies"
+            ],
+            "companies": [
+                "Tencent",
+                "Epic Games",
+                "Riot Games",
+                "Discord"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-wevpb6ti8",
+            "title": "Highguard Shutting Down",
+            "subtitle": "Highguard live service shooter to go offline after March 12",
+            "category": "iGaming",
+            "tags": [
+                "Highguard",
+                "Live Service",
+                "Shooter Game"
+            ],
+            "trendStrength": 2,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/highguard-is-permanently-shutting-down-barely-a-month-after-debut",
+                "date": "2026-03-03T21:42:12.000Z"
+            },
+            "whatsNew": "Highguard is shutting down permanently after just a month of operation. The game will go offline on March 12. This sudden closure is unexpected given its recent debut.",
+            "whyItMatters": "The shutdown of Highguard reflects the challenges faced by live service games in maintaining player engagement and revenue. It also highlights the risks of investing in new game titles.",
+            "howToUse": "Developers should focus on creating engaging gameplay and building a strong community to ensure the longevity of their games. They should also be prepared to pivot or adjust their strategy if the game is not performing well.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Wildlight Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-atj5n8gvh",
+            "title": "Paramount Acquires Warner",
+            "subtitle": "Paramount briefly acknowledges Warner Bros. Games during investor event",
+            "category": "iGaming",
+            "tags": [
+                "Paramount",
+                "Warner Bros.",
+                "Acquisition"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/blink-and-you-ll-miss-it-paramount-acknowledged-the-existence-of-warner-bros-games",
+                "date": "2026-03-03T15:46:30.000Z"
+            },
+            "whatsNew": "Paramount's proposed acquisition of Warner Bros. Discovery was discussed in an investor event, with a brief mention of Warner Bros. Games. The acknowledgment is significant as it may indicate future plans for the gaming division. The acquisition could lead to changes in the gaming industry.",
+            "whyItMatters": "The acquisition could impact the gaming industry, potentially leading to new releases and collaborations. It may also affect the market share of other gaming companies.",
+            "howToUse": "Game developers and industry professionals should monitor the acquisition process and its potential impact on the market. They can also explore potential collaboration opportunities with the combined entity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Paramount",
+                "Warner Bros."
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-dbax02g4q",
+            "title": "Game Story Advice",
+            "subtitle": "Clair Obscur writer shares production advice for game story improvement",
+            "category": "iGaming",
+            "tags": [
+                "Game Development",
+                "Storytelling",
+                "Production Advice"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/clair-obscur-writer-shares-advice-that-could-improve-your-game-s-story",
+                "date": "2026-03-03T14:47:36.000Z"
+            },
+            "whatsNew": "A writer from Clair Obscur is sharing unique production advice that deviates from traditional storytelling methods like the hero's journey. The focus is on creating a journey within the studio itself.",
+            "whyItMatters": "This approach could lead to more innovative and engaging game stories. It emphasizes the importance of studio collaboration and creativity in game development.",
+            "howToUse": "Game developers can apply this advice by encouraging cross-studio collaboration and focusing on unique storytelling methods that diverge from traditional norms.",
+            "beneficiaries": [
+                "Game Developers",
+                "Writers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-s9y9xvc4w",
+            "title": "Tripwire Layoffs",
+            "subtitle": "Tripwire Interactive lays off 23 employees",
+            "category": "iGaming",
+            "tags": [
+                "Layoffs",
+                "Tripwire Interactive",
+                "Gaming Industry"
+            ],
+            "trendStrength": 2,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/embracer-subsidiary-tripwire-interactive-has-laid-off-23-employees",
+                "date": "2026-03-03T14:39:15.000Z"
+            },
+            "whatsNew": "Embracer subsidiary Tripwire Interactive has laid off 23 employees, citing unknown reasons. The company is known for the Killing Floor franchise. This move may impact their game development pipeline.",
+            "whyItMatters": "The layoffs may affect the development and publication of future games, including the Killing Floor series. This could have a significant impact on the gaming industry and Embracer's portfolio.",
+            "howToUse": "Game developers and publishers should monitor the situation and adjust their strategies accordingly. Embracer and Tripwire Interactive should focus on supporting affected employees and minimizing the impact on their operations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Tripwire Interactive",
+                "Embracer"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-v2dv184hx",
+            "title": "Vento Games Funding",
+            "subtitle": "Vento Games secures $4 million investment to expand puzzle portfolio",
+            "category": "iGaming",
+            "tags": [
+                "Venture Capital",
+                "Puzzle Games",
+                "Mobile Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/mobile-studio-vento-games-nets-4-million-to-support-expansion-plans",
+                "date": "2026-03-03T13:52:22.000Z"
+            },
+            "whatsNew": "Vento Games has secured $4 million in funding to expand its puzzle game portfolio. The investment round was co-led by Makers Fund and Arcadia Gaming Partners.",
+            "whyItMatters": "This investment will help Vento Games to further develop and publish new puzzle games, potentially disrupting the mobile gaming market.",
+            "howToUse": "Game developers can take note of the growing demand for puzzle games and consider developing their own titles to capitalize on this trend.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Vento Games",
+                "Makers Fund",
+                "Arcadia Gaming Partners"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-tnslkwxvy",
+            "title": "Unity Asset Delisting",
+            "subtitle": "Unity Asset Store delists Chinese publishers",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Asset Store",
+                "Delisting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/the-unity-asset-store-is-ditching-publishers-based-in-china-hong-kong-and-macau",
+                "date": "2026-03-03T11:20:07.000Z"
+            },
+            "whatsNew": "The Unity Asset Store will delist assets from creators based in China, Hong Kong, and Macau by March 31, 2026. This change affects publishers from these regions. The delisting is set to occur on a specific date.",
+            "whyItMatters": "This delisting may impact the availability of certain assets for game developers. It could also affect the revenue of creators from the affected regions.",
+            "howToUse": "Developers should review their asset dependencies and plan for potential replacements. Creators from the affected regions should explore alternative platforms for their assets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Alternative Platforms"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-mqlu48lfd",
+            "title": "Bluepoint Shuttered",
+            "subtitle": "Bluepoint studio shut down after pitching PlayStation spinoffs",
+            "category": "iGaming",
+            "tags": [
+                "Bluepoint",
+                "PlayStation",
+                "Bloodborne"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-bluepoint-shuttered-after-failing-to-secure-bloodborne-remake-and-other-playstation-spinoffs",
+                "date": "2026-03-02T12:04:23.000Z"
+            },
+            "whatsNew": "Bluepoint studio spent over a year trying to secure work for a Bloodborne remake and other PlayStation spinoffs but failed. The studio has been shut down as a result.",
+            "whyItMatters": "The shutdown of Bluepoint studio highlights the challenges of securing work in the gaming industry, even for experienced studios. This can have a significant impact on the gaming community and the development of new games.",
+            "howToUse": "Studios can learn from Bluepoint's experience by diversifying their portfolio and being more proactive in securing new projects. They should also be prepared to adapt to changes in the industry.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Studios"
+            ],
+            "companies": [
+                "Bluepoint",
+                "PlayStation"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-y8v5m55i1",
+            "title": "Halfbrick Layoffs",
+            "subtitle": "Halfbrick Studios cuts jobs in Australia due to challenges",
+            "category": "iGaming",
+            "tags": [
+                "Halfbrick Studios",
+                "Layoffs",
+                "Australia"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/halfbrick-studios-is-cutting-jobs-in-australia",
+                "date": "2026-03-02T10:54:36.000Z"
+            },
+            "whatsNew": "Halfbrick Studios is reducing its workforce in Australia. The company cited a challenging period as the reason for the layoffs.",
+            "whyItMatters": "The layoffs reflect the current state of the gaming industry and its economic challenges. This can impact the development of future games and the overall gaming market.",
+            "howToUse": "Game developers should be prepared to adapt to changing market conditions and explore new opportunities for growth.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Halfbrick Studios"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-sxczwthbo",
+            "title": "Netflix Loses Bid",
+            "subtitle": "Netflix exits Warner Bros. Games acquisition race due to rival bid",
+            "category": "Tech",
+            "tags": [
+                "Netflix",
+                "Warner Bros.",
+                "Paramount Skydance"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/it-looks-like-netflix-won-t-be-acquiring-warner-bros-games-after-all",
+                "date": "2026-02-27T11:50:56.000Z"
+            },
+            "whatsNew": "Netflix has dropped out of the running to acquire Warner Bros. Games. A new bid from Paramount Skydance led to this decision. The acquisition would have expanded Netflix's gaming portfolio.",
+            "whyItMatters": "This development impacts the gaming and streaming industries, as major players jockey for position. The loss may hinder Netflix's plans to expand its gaming offerings.",
+            "howToUse": "Companies should monitor the gaming and streaming landscape for opportunities and challenges. Investors should reassess their portfolios in light of this development.",
+            "beneficiaries": [
+                "Paramount Skydance",
+                "Warner Bros."
+            ],
+            "companies": [
+                "Netflix",
+                "Warner Bros.",
+                "Paramount Skydance"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
@@ -49,7 +672,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-uzzpl2mxi",
@@ -78,7 +701,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hfrhqn66e",
@@ -109,7 +732,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pkzy9lr1c",
@@ -138,7 +761,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jmk0n7wnp",
@@ -169,7 +792,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rhgsxggnx",
@@ -200,7 +823,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oh0uzxhto",
@@ -229,7 +852,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-urzs4o1qd",
@@ -258,7 +881,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-g9gr73p5j",
@@ -290,7 +913,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-sbblnb0ph",
@@ -319,7 +942,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-12982gex7",
@@ -348,7 +971,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rkv53v9w1",
@@ -380,7 +1003,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-we293gs45",
@@ -413,7 +1036,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qz7jyuoni",
@@ -444,7 +1067,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-a93squarr",
@@ -476,7 +1099,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fjb72weml",
@@ -509,7 +1132,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qhvd0s14h",
@@ -540,7 +1163,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-32nj3nq3g",
@@ -569,7 +1192,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rt5zin8bs",
@@ -600,7 +1223,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6sbi3qvc0",
@@ -631,7 +1254,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6dho7b9xk",
@@ -2484,7 +3107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T10:03:50.029Z",
+            "lastScan": "2026-03-06T10:09:29.668Z",
             "note": null
         },
         {
@@ -2493,7 +3116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T10:03:50.029Z",
+            "lastScan": "2026-03-06T10:09:29.668Z",
             "note": null
         },
         {
@@ -2502,7 +3125,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T10:03:50.029Z",
+            "lastScan": "2026-03-06T10:09:29.668Z",
             "note": null
         },
         {
