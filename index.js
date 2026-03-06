@@ -8,12 +8,36 @@
   let activeCategory = 'All';
   let minStrength = 1;
   let searchQuery = '';
-  let sortOrder = 'importance';
+  let sortOrder = 'date-new'; // B2: Default to newest first
+  let visibleCount = 12; // B1: Load More pagination
   let watchlist = JSON.parse(localStorage.getItem('vth-watchlist') || '[]');
 
   const CATEGORY_ICONS = { iGaming: '🎰', AI: '🤖', Art: '🎨', Tech: '⚙️', Community: '🧠' };
   const VELOCITY_ARROWS = { rising: '↑', stable: '→', fading: '↓' };
   const CAT_COLORS = { iGaming: '#E17055', AI: '#6C5CE7', Art: '#E84393', Tech: '#0984E3', Community: '#00B894' };
+
+  // B4: Relative date helper
+  function timeAgo(dateStr) {
+    if (!dateStr) return '';
+    const diff = Date.now() - new Date(dateStr).getTime();
+    const mins = Math.floor(diff / 60000);
+    if (mins < 60) return `${mins}m ago`;
+    const hours = Math.floor(mins / 60);
+    if (hours < 24) return `${hours}h ago`;
+    const days = Math.floor(hours / 24);
+    if (days < 30) return `${days}d ago`;
+    const months = Math.floor(days / 30);
+    return `${months}mo ago`;
+  }
+
+  // B7: Source favicon helper
+  function sourceFavicon(url) {
+    if (!url) return '';
+    try {
+      const domain = new URL(url).hostname;
+      return `<img class="source-favicon" src="https://www.google.com/s2/favicons?domain=${domain}&sz=16" width="14" height="14" alt="">`;
+    } catch { return ''; }
+  }
 
   /* ── DOM refs ────────────────────────────────────── */
   const $ = (sel) => document.querySelector(sel);
@@ -30,6 +54,11 @@
   const modalOverlay = $('#modal-overlay');
   const modalBody = $('#modal-body');
   const researchPanel = $('#research-panel');
+
+  // C2: Register Service Worker for caching
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js').catch(() => { });
+  }
 
   /* ── Load Data ───────────────────────────────────── */
   try {
@@ -48,7 +77,7 @@
       const d = new Date(DATA.meta.scanDate);
       scanMeta.innerHTML = `
         <span class="meta-label">Last Scan</span>
-        <span class="meta-value">${d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+        <span class="meta-value">${timeAgo(DATA.meta.scanDate)}</span>
       `;
     }
     const trendCountEl = $('#trend-count');
@@ -278,9 +307,23 @@
       return;
     }
     emptyState.classList.add('hidden');
-    masonryGrid.innerHTML = filtered.map((t, i) => trendCard(t, i)).join('');
+    // B1: Load More pagination
+    const visible = filtered.slice(0, visibleCount);
+    const remaining = filtered.length - visibleCount;
+    masonryGrid.innerHTML = visible.map((t, i) => trendCard(t, i)).join('');
+    // Load More button
+    if (remaining > 0) {
+      masonryGrid.insertAdjacentHTML('afterend',
+        `<div class="load-more-wrap" id="load-more-wrap"><button class="btn-load-more" id="btn-load-more">Load More (${remaining} remaining)</button></div>`);
+      $('#btn-load-more')?.addEventListener('click', () => {
+        visibleCount += 12;
+        $('#load-more-wrap')?.remove();
+        renderTrends();
+      });
+    } else {
+      $('#load-more-wrap')?.remove();
+    }
     bindCardEvents(masonryGrid);
-    activateSparklines(masonryGrid);
   }
 
   function trendCard(t, i) {
@@ -289,7 +332,8 @@
     const stars = Array.from({ length: 5 }, (_, j) => `<span class="strength-star${j < t.trendStrength ? ' filled' : ''}"></span>`).join('');
     const tags = (t.tags || []).slice(0, 5).map(tag => `<span class="tag">${tag}</span>`).join('');
     const velocity = t.velocity ? `<span class="velocity-badge ${t.velocity}">${VELOCITY_ARROWS[t.velocity] || ''} ${t.velocity}</span>` : '';
-    const date = t.source?.date ? new Date(t.source.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : '';
+    const date = timeAgo(t.source?.date); // B4: Relative date
+    const favicon = sourceFavicon(t.source?.url); // B7: Source favicon
     const bookmarked = isBookmarked(t.id) ? ' bookmarked' : '';
 
     let visualBlock = '';
@@ -321,9 +365,8 @@
         <p class="card-subtitle">${t.subtitle}</p>
         <div class="card-tags">${tags}</div>
         ${visualBlock}
-        ${sparklineBlock(t)}
         <div class="card-source">
-          <span class="source-name">${t.source?.name || ''}</span>
+          <span class="source-name">${favicon} ${t.source?.name || ''}</span>
           <span>${date}</span>
         </div>
       </article>`;
@@ -351,7 +394,25 @@
       clusterMap[t.cluster].push(t);
     });
 
-    let html = '';
+    // D5: Cluster Bubble Chart
+    const clusterDefs = (DATA.clusters || []).filter(cl => clusterMap[cl.id]?.length);
+    let bubbleHtml = '';
+    if (clusterDefs.length > 0) {
+      const maxCount = Math.max(...clusterDefs.map(cl => clusterMap[cl.id].length));
+      const bubbles = clusterDefs.map(cl => {
+        const count = clusterMap[cl.id].length;
+        const size = Math.max(50, Math.min(120, (count / maxCount) * 120));
+        const avgStr = (clusterMap[cl.id].reduce((s, t) => s + t.trendStrength, 0) / count).toFixed(1);
+        return `<div class="bubble" style="width:${size}px;height:${size}px;background:${cl.color}20;border-color:${cl.color}" title="${cl.label}: ${count} trends, avg strength ${avgStr}">
+          <span class="bubble-icon">${cl.icon}</span>
+          <span class="bubble-count">${count}</span>
+          <span class="bubble-label">${cl.label.split(' ').slice(0, 2).join(' ')}</span>
+        </div>`;
+      }).join('');
+      bubbleHtml = `<div class="bubble-chart"><div class="bubble-chart-title">Cluster Distribution</div><div class="bubble-chart-wrap">${bubbles}</div></div>`;
+    }
+
+    let html = bubbleHtml;
     (DATA.clusters || []).forEach(cl => {
       const items = clusterMap[cl.id];
       if (!items?.length) return;
@@ -615,6 +676,7 @@
     log.scrollTop = log.scrollHeight;
   }
 
+  // E2: Research scan now shows real source statuses instead of simulating fake "new" discoveries
   function startResearchScan() {
     const btn = $('#btn-scan');
     const researchBtn = $('#btn-research');
@@ -635,34 +697,21 @@
         btn.disabled = false;
         btn.textContent = 'Start Scan';
         researchBtn?.classList.remove('scanning');
-        $('#research-status').textContent = `Scan complete — ${sources.length} sources checked. ${new Date().toLocaleTimeString()}`;
+        const newCount = DATA.trends.filter(t => t.isNew).length;
+        $('#research-status').textContent = `Scan complete — ${sources.length} sources checked. ${newCount} new trends found. ${new Date().toLocaleTimeString()}`;
 
-        // Update scan date
-        if (DATA.meta) DATA.meta.scanDate = new Date().toISOString();
-        const scanMeta = $('#scan-meta');
-        if (scanMeta && DATA.meta) {
-          const d = new Date(DATA.meta.scanDate);
-          scanMeta.innerHTML = `
-            <span class="meta-label">Last Scan</span>
-            <span class="meta-value">${d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
-          `;
+        // Update scan date display
+        if (DATA.meta) {
+          const scanMeta = $('#scan-meta');
+          if (scanMeta) {
+            scanMeta.innerHTML = `
+              <span class="meta-label">Last Scan</span>
+              <span class="meta-value">${timeAgo(DATA.meta.scanDate)}</span>
+            `;
+          }
         }
-
-        // Highlight random 2-3 trends to simulate "new" discoveries
-        DATA.trends.forEach(t => t.isNew = false);
-        const shuffled = [...DATA.trends].sort(() => 0.5 - Math.random());
-        const newCount = Math.floor(Math.random() * 2) + 2; // 2 or 3 new trends
-        for (let i = 0; i < newCount; i++) {
-          shuffled[i].isNew = true;
-        }
-
-        // Reset sort to newest to show the newly discovered trends at the top
-        sortOrder = 'date-new';
-        const sortSelect = $('#sort-select');
-        if (sortSelect) sortSelect.value = 'date-new';
 
         renderView();
-
         return;
       }
 
@@ -676,10 +725,11 @@
 
         if (s.status === 'error') {
           if (dot) { dot.classList.remove('scanning'); dot.classList.add('error'); }
-          lastItem.innerHTML = `<span class="status-dot error"></span>⚠️ ${s.name}: ${s.errorReason || 'Error'} — using fallback`;
+          lastItem.innerHTML = `<span class="status-dot error"></span>⚠️ ${s.name}: ${s.errorReason || 'Error'}`;
         } else {
           if (dot) { dot.classList.remove('scanning'); dot.classList.add('done'); }
-          lastItem.innerHTML = `<span class="status-dot done"></span>✓ ${s.name}: No new updates detected`;
+          const lastScan = s.lastScan ? ` (last: ${timeAgo(s.lastScan)})` : '';
+          lastItem.innerHTML = `<span class="status-dot done"></span>✓ ${s.name}: Healthy${lastScan}`;
         }
 
         idx++;
@@ -701,7 +751,7 @@
     const tags = (t.tags || []).map(tag => `<span class="tag">${tag}</span>`).join('');
     const beneficiaries = (t.beneficiaries || []).map(b => `<span class="beneficiary">${b}</span>`).join('');
     const companies = (t.companies || []).map(c => `<span class="modal-company-badge">${c}</span>`).join('');
-    const date = t.source?.date ? new Date(t.source.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : '';
+    const date = timeAgo(t.source?.date);
     const bookmarked = isBookmarked(t.id);
 
     let paletteBlock = '';

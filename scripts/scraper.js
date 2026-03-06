@@ -198,6 +198,10 @@ async function run() {
     data.trends.forEach(t => t.isNew = false);
 
     let newlyFoundTrends = [];
+    let sourceResults = {}; // A5: Track success/error per source
+
+    // A4: Build a set of existing titles (lowercase) to catch Google News duplicates with different URLs
+    let existingTitles = new Set(data.trends.map(t => t.title.toLowerCase()));
 
     let activeSources = data.sourceHealth.filter(s => s.status !== 'error');
     // Hardcap: Gemini free tier limit is 20 RPD (Requests Per Day).
@@ -224,6 +228,9 @@ async function run() {
 
             for (let item of recentItems) {
                 if (existingUrls.has(item.link)) continue; // Already processed
+                // A4: Also skip if title already exists (catches Google News URL variants)
+                const itemTitleLower = (item.title || '').toLowerCase().replace(/ - .*$/, '').trim();
+                if (existingTitles.has(itemTitleLower)) continue;
 
                 // Only process if published within the last 14 days
                 let pubDate = new Date(item.pubDate);
@@ -236,15 +243,18 @@ async function run() {
 
                 if (trend) {
                     newlyFoundTrends.push(trend);
-                    existingUrls.add(item.link); // Add to set locally to prevent duplicates
+                    existingUrls.add(item.link);
+                    existingTitles.add(trend.title.toLowerCase());
                 }
 
                 if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
                     break;
                 }
             }
+            sourceResults[source.name] = { status: 'healthy' };
         } catch (err) {
             console.error(`Failed to fetch ${source.name}: ${err.message}`);
+            sourceResults[source.name] = { status: 'error', error: err.message };
         }
     }
 
@@ -297,8 +307,10 @@ async function run() {
                     break;
                 }
             }
+            sourceResults[source.name] = { status: 'healthy' };
         } catch (err) {
             console.error(`Failed to fetch ${source.name}: ${err.message}`);
+            sourceResults[source.name] = { status: 'error', error: err.message };
         }
     }
 
@@ -310,9 +322,44 @@ async function run() {
         console.log("\nNo new trends discovered in this run.");
     }
 
+    // A1: Archive trends older than 30 days
+    const ARCHIVE_DAYS = 30;
+    const archiveCutoff = Date.now() - (ARCHIVE_DAYS * 24 * 3600 * 1000);
+    const activeTrends = [];
+    const archivedTrends = data.archived || [];
+    for (const t of data.trends) {
+        const tDate = t.source?.date ? new Date(t.source.date).getTime() : 0;
+        if (tDate && tDate < archiveCutoff) {
+            archivedTrends.push(t);
+        } else {
+            activeTrends.push(t);
+        }
+    }
+    if (data.trends.length !== activeTrends.length) {
+        console.log(`Archived ${data.trends.length - activeTrends.length} trends older than ${ARCHIVE_DAYS} days.`);
+    }
+    data.trends = activeTrends;
+    data.archived = archivedTrends;
+
+    // A2: Auto-update meta.totalTrends
+    data.meta.totalTrends = data.trends.length;
     data.meta.scanDate = new Date().toISOString();
+
+    // A5: Update sourceHealth lastScan and status
+    for (const sh of (data.sourceHealth || [])) {
+        if (sourceResults[sh.name]) {
+            sh.lastScan = new Date().toISOString();
+            sh.status = sourceResults[sh.name].status;
+            if (sourceResults[sh.name].error) {
+                sh.errorReason = sourceResults[sh.name].error;
+            } else {
+                delete sh.errorReason;
+            }
+        }
+    }
+
     fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 4));
-    console.log("Updated data/trends.json successfully!");
+    console.log(`Updated data/trends.json successfully! (${data.trends.length} active, ${archivedTrends.length} archived)`);
 }
 
 run();

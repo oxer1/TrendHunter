@@ -1808,3 +1808,203 @@ body {
     display: none;
   }
 }
+
+/* ── E1: Sort Filter (moved from inline) ─────────── */
+.sort-filter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+}
+
+.sort-select {
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  border-radius: var(--radius-sm);
+  background: var(--bg-glass);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-subtle);
+  outline: none;
+  cursor: pointer;
+}
+
+.sort-select:focus {
+  border-color: var(--accent-purple);
+}
+
+.strength-filter {
+  margin-left: var(--space-md);
+}
+
+/* ── B3: Card Height Equalization ─────────────────── */
+.trend-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 240px;
+}
+
+.card-source {
+  margin-top: auto;
+}
+
+/* ── B7: Source Favicon ───────────────────────────── */
+.source-favicon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 4px;
+  border-radius: 2px;
+}
+
+/* ── B1: Load More Button ────────────────────────── */
+.load-more-wrap {
+  display: flex;
+  justify-content: center;
+  padding: var(--space-xl) 0;
+}
+
+.btn-load-more {
+  padding: 10px 32px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  background: var(--bg-glass-strong);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  transition: all var(--duration-normal) var(--ease-out);
+}
+
+.btn-load-more:hover {
+  background: rgba(108, 92, 231, 0.15);
+  border-color: var(--accent-purple);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(108, 92, 231, 0.2);
+}
+
+/* ── B8: Footer ──────────────────────────────────── */
+.app-footer {
+  border-top: 1px solid var(--border-subtle);
+  padding: var(--space-lg) var(--space-xl);
+  margin-top: var(--space-2xl);
+  background: rgba(10, 10, 15, 0.5);
+}
+
+.footer-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.footer-left {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.footer-logo {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.footer-version {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--accent-purple);
+  background: rgba(108, 92, 231, 0.12);
+  padding: 1px 6px;
+  border-radius: var(--radius-sm);
+}
+
+.footer-center {
+  flex: 1;
+  text-align: center;
+}
+
+.footer-info {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+}
+
+.footer-right {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+@media (max-width: 700px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* ── D5: Cluster Bubble Chart ────────────────────── */
+.bubble-chart {
+  margin-bottom: var(--space-xl);
+  padding: var(--space-lg);
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+}
+
+.bubble-chart-title {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: var(--space-md);
+}
+
+.bubble-chart-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-md);
+  padding: var(--space-md) 0;
+}
+
+.bubble {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid;
+  cursor: pointer;
+  transition: all var(--duration-normal) var(--ease-spring);
+  gap: 2px;
+}
+
+.bubble:hover {
+  transform: scale(1.15);
+  box-shadow: 0 0 20px rgba(108, 92, 231, 0.3);
+}
+
+.bubble-icon {
+  font-size: 1rem;
+}
+
+.bubble-count {
+  font-size: 0.9rem;
+  font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--text-primary);
+}
+
+.bubble-label {
+  font-size: 0.5rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-align: center;
+  max-width: 90%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

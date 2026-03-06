@@ -123,16 +123,15 @@
         <button class="pill" data-cat="Tech">⚙️ Tech</button>
         <button class="pill" data-cat="Community">🧠 Community</button>
       </div>
-      <div class="sort-filter" id="sort-filter" style="display:flex;align-items:center;gap:8px;margin-left:auto;">
+      <div class="sort-filter" id="sort-filter">
         <span class="strength-label">Sort By</span>
-        <select class="form-select" id="sort-select"
-          style="padding:4px 8px;font-size:0.75rem;border-radius:var(--radius-sm);background:var(--bg-glass);color:var(--text-secondary);border:1px solid var(--border-subtle);outline:none;cursor:pointer;">
+        <select class="form-select sort-select" id="sort-select">
           <option value="importance">⭐ Importance</option>
-          <option value="date-new">📅 Newest First</option>
+          <option value="date-new" selected>📅 Newest First</option>
           <option value="date-old">📅 Oldest First</option>
         </select>
       </div>
-      <div class="strength-filter" id="strength-filter" style="margin-left:var(--space-md);">
+      <div class="strength-filter" id="strength-filter">
         <span class="strength-label">Min Strength</span>
         <div class="strength-dots">
           <button class="strength-dot active" data-str="1">1</button>
@@ -195,6 +194,22 @@
       </div>
     </div>
   </div>
+
+  <!-- FOOTER -->
+  <footer class="app-footer">
+    <div class="footer-content">
+      <div class="footer-left">
+        <span class="footer-logo">◈ VisualTrendHub</span>
+        <span class="footer-version">v2.5</span>
+      </div>
+      <div class="footer-center">
+        <span class="footer-info">Auto-scanning every hour · Powered by Gemini AI</span>
+      </div>
+      <div class="footer-right">
+        <span class="footer-scan" id="footer-scan-date"></span>
+      </div>
+    </div>
+  </footer>
 
   <script src="index.js"></script>
 </body>
