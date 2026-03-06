@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T14:36:02.129Z",
+        "scanDate": "2026-03-06T15:35:05.058Z",
         "version": "2.5.0",
-        "totalTrends": 141,
+        "totalTrends": 144,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,94 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-fyzegpef1",
+            "title": "LGBTQIA+ Gambling Harms",
+            "subtitle": "UK study finds LGBTQIA+ communities experience higher gambling-related harms and support barriers",
+            "category": "iGaming",
+            "tags": [
+                "LGBTQIA+",
+                "Gambling Harms",
+                "UK Study"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116281/lgbt-people-higher-risk-gambling-harm-service-barriers",
+                "date": "2026-03-06T14:50:24.000Z"
+            },
+            "whatsNew": "A recent UK study found that LGBTQIA+ communities experience higher levels of gambling-related harms and face distinct barriers to support. The study identified three interconnecting themes affecting these communities.",
+            "whyItMatters": "The study's findings highlight the need for more inclusive and targeted support services for LGBTQIA+ individuals experiencing gambling-related harms. This can inform iGaming industry practices and policy changes to better protect vulnerable groups.",
+            "howToUse": "iGaming operators and support services can use these findings to develop more inclusive and targeted support for LGBTQIA+ individuals, such as tailored resources and outreach programs.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Support Services",
+                "LGBTQIA+ Communities"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-74ndjs0a5",
+            "title": "Voice Acting Insights",
+            "subtitle": "Jennifer Hale discusses the modern landscape of voice acting in game development",
+            "category": "Tech",
+            "tags": [
+                "Voice Acting",
+                "Game Development",
+                "Collaboration"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/audio/the-craft-of-voice-acting-with-jennifer-hale",
+                "date": "2026-03-06T15:30:00.000Z"
+            },
+            "whatsNew": "Jennifer Hale shares her expertise on the current state of voice acting, highlighting the importance of collaboration between developers and performers. She provides insights into creating better gaming experiences through effective voice acting. The article emphasizes the need for mutual understanding between these two groups.",
+            "whyItMatters": "Effective voice acting can significantly enhance the gaming experience, making characters more believable and engaging. Collaboration between developers and voice actors is crucial for achieving this goal.",
+            "howToUse": "Developers can apply these insights by working closely with voice actors, providing them with detailed character backgrounds and contexts to ensure more authentic performances.",
+            "beneficiaries": [
+                "Game Developers",
+                "Voice Actors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-n9ivm2lfd",
+            "title": "Kentucky Betting Law",
+            "subtitle": "Kentucky lawmakers introduce bill to raise minimum betting age and restrict prop bets",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Betting Age",
+                "Prop Bets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/kentucky-bill-raise-betting-age-restrict-prop-bets/",
+                "date": "2026-03-06T14:52:04.000Z"
+            },
+            "whatsNew": "A new bill in Kentucky aims to increase the minimum betting age and impose restrictions on prop bets, marking a significant shift in the state's gambling regulations. The proposed changes are part of a broader effort to modify statutes governing betting in the state. This move could have implications for the iGaming industry, particularly in terms of age verification and betting offerings.",
+            "whyItMatters": "The bill's passage could influence other states to reexamine their betting laws, potentially leading to a wave of regulatory changes across the US. It highlights the ongoing debate about responsible gambling practices and the role of regulation in protecting consumers.",
+            "howToUse": "Operators should monitor the progress of this bill and prepare for potential changes in betting laws, ensuring compliance with any new regulations. This includes reviewing age verification processes and assessing the impact on prop bet offerings.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-duc99cb3t",
             "title": "Flutter Stock Dips",
@@ -49,7 +137,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0p4l0y7t2",
@@ -79,7 +167,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jgir5mpd7",
@@ -110,7 +198,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kqxrqh6rh",
@@ -4571,7 +4659,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": null
         },
         {
@@ -4580,7 +4668,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": null
         },
         {
@@ -4589,7 +4677,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": null
         },
         {
@@ -4598,7 +4686,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": null
         },
         {
@@ -4607,7 +4695,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": null
         },
         {
@@ -4626,7 +4714,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4635,7 +4723,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4644,7 +4732,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": "Regulatory updates"
         },
         {
@@ -4662,7 +4750,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4671,7 +4759,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4691,7 +4779,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4749,7 +4837,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4794,7 +4882,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.058Z",
             "note": null
         },
         {
@@ -4893,7 +4981,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T15:35:05.059Z",
             "note": null
         },
         {
