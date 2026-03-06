@@ -20,11 +20,34 @@ const BROWSER_HEADERS = {
     'Upgrade-Insecure-Requests': '1'
 };
 
-// Google News RSS fallback for sites that block direct RSS access
+// Google News RSS fallback for sites that block direct RSS or have no RSS feed
 const GOOGLE_NEWS_FALLBACK = {
+    // iGaming
     "https://igamingbusiness.com/feed/": "https://news.google.com/rss/search?q=site:igamingbusiness.com+when:14d&hl=en-US&gl=US&ceid=US:en",
     "https://next.io/feed/": "https://news.google.com/rss/search?q=site:next.io+when:14d&hl=en-US&gl=US&ceid=US:en",
-    "https://steamdb.info/blog/feed/": "https://news.google.com/rss/search?q=site:steamdb.info+when:14d&hl=en-US&gl=US&ceid=US:en"
+    "https://steamdb.info/blog/feed/": "https://news.google.com/rss/search?q=site:steamdb.info+when:14d&hl=en-US&gl=US&ceid=US:en",
+    // Regulation & Gambling bodies (no RSS)
+    "__gnews_egr.global": "https://news.google.com/rss/search?q=site:egr.global+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_iagr.org": "https://news.google.com/rss/search?q=site:iagr.org+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_gamblingcommission.gov.uk": "https://news.google.com/rss/search?q=site:gamblingcommission.gov.uk+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_mga.org.mt": "https://news.google.com/rss/search?q=site:mga.org.mt+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_egba.eu": "https://news.google.com/rss/search?q=site:egba.eu+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_nj.gov/oag/ge": "https://news.google.com/rss/search?q=site:nj.gov+igaming+OR+gambling+when:14d&hl=en-US&gl=US&ceid=US:en",
+    // AI Art & Tools (no RSS)
+    "__gnews_civitai.com": "https://news.google.com/rss/search?q=site:civitai.com+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_prompthero.com": "https://news.google.com/rss/search?q=site:prompthero.com+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_openart.ai": "https://news.google.com/rss/search?q=site:openart.ai+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_lexica.art": "https://news.google.com/rss/search?q=site:lexica.art+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_futurepedia.io": "https://news.google.com/rss/search?q=site:futurepedia.io+when:14d&hl=en-US&gl=US&ceid=US:en",
+    // AI Video
+    "__gnews_synthesia.io": "https://news.google.com/rss/search?q=site:synthesia.io+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_heygen.com": "https://news.google.com/rss/search?q=site:heygen.com+when:14d&hl=en-US&gl=US&ceid=US:en",
+    // Game Dev
+    "__gnews_pixijs.com": "https://news.google.com/rss/search?q=site:pixijs.com+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_esotericsoftware.com": "https://news.google.com/rss/search?q=site:esotericsoftware.com+when:14d&hl=en-US&gl=US&ceid=US:en",
+    // Adobe
+    "__gnews_adobe_photoshop": "https://news.google.com/rss/search?q=site:helpx.adobe.com+photoshop+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "__gnews_adobe_trends": "https://news.google.com/rss/search?q=site:adobe.com+design+trends+when:14d&hl=en-US&gl=US&ceid=US:en",
 };
 
 /**
@@ -75,17 +98,41 @@ const GROQ_MODEL = 'llama-3.3-70b-versatile';
 
 // A mapping of source URLs to their RSS feeds, matching the domains in active sources
 const RSS_FEEDS = {
+    // iGaming
     "https://igamingbusiness.com": "https://igamingbusiness.com/feed/",
     "https://sbcnews.co.uk": "https://sbcnews.co.uk/feed/",
     "https://gamblinginsider.com": "https://www.gamblinginsider.com/feed",
-    "https://blog.unity.com": "https://blog.unity.com/feed",
-    "https://huggingface.co/blog": "https://huggingface.co/blog/feed.xml",
-    "https://www.gamedeveloper.com": "https://www.gamedeveloper.com/rss.xml",
     "https://next.io": "https://next.io/feed/",
+    // AI & Tech
     "https://venturebeat.com/category/ai": "https://venturebeat.com/category/ai/feed/",
+    "https://huggingface.co/blog": "https://huggingface.co/blog/feed.xml",
+    // Game Dev
+    "https://www.gamedeveloper.com": "https://www.gamedeveloper.com/rss.xml",
+    "https://blog.unity.com": "https://blog.unity.com/feed",
+    "https://steamdb.info/blog": "https://steamdb.info/blog/feed/",
     "https://esotericsoftware.com/forum": "https://esotericsoftware.com/forum/tags/releases/feed",
-    "https://steamdb.info/blog": "https://steamdb.info/blog/feed/"
 };
+
+// Sources without RSS that use Google News as their feed
+const GOOGLE_NEWS_ONLY_SOURCES = [
+    { url: "https://egr.global", name: "EGR Global", gnewsKey: "__gnews_egr.global" },
+    { url: "https://iagr.org", name: "IAGR", gnewsKey: "__gnews_iagr.org" },
+    { url: "https://gamblingcommission.gov.uk", name: "UK Gambling Commission", gnewsKey: "__gnews_gamblingcommission.gov.uk" },
+    { url: "https://mga.org.mt", name: "Malta Gaming Authority", gnewsKey: "__gnews_mga.org.mt" },
+    { url: "https://egba.eu", name: "EGBA", gnewsKey: "__gnews_egba.eu" },
+    { url: "https://nj.gov/oag/ge", name: "NJ DGE", gnewsKey: "__gnews_nj.gov/oag/ge" },
+    { url: "https://civitai.com", name: "Civitai", gnewsKey: "__gnews_civitai.com" },
+    { url: "https://prompthero.com", name: "PromptHero", gnewsKey: "__gnews_prompthero.com" },
+    { url: "https://openart.ai", name: "OpenArt", gnewsKey: "__gnews_openart.ai" },
+    { url: "https://lexica.art", name: "Lexica", gnewsKey: "__gnews_lexica.art" },
+    { url: "https://futurepedia.io", name: "Futurepedia", gnewsKey: "__gnews_futurepedia.io" },
+    { url: "https://synthesia.io", name: "Synthesia", gnewsKey: "__gnews_synthesia.io" },
+    { url: "https://heygen.com", name: "HeyGen", gnewsKey: "__gnews_heygen.com" },
+    { url: "https://pixijs.com/blog", name: "PixiJS Blog", gnewsKey: "__gnews_pixijs.com" },
+    { url: "https://esotericsoftware.com", name: "Esoteric (Spine)", gnewsKey: "__gnews_esotericsoftware.com" },
+    { url: "https://helpx.adobe.com/photoshop", name: "Adobe Photoshop", gnewsKey: "__gnews_adobe_photoshop" },
+    { url: "https://adobe.com/express/learn/blog/design-trends", name: "Adobe Trends", gnewsKey: "__gnews_adobe_trends" },
+];
 
 // Reddit APIs (fetch top posts from the week)
 const REDDIT_SOURCES = {
@@ -230,7 +277,7 @@ async function run() {
     let activeSources = data.sourceHealth.filter(s => s.status !== 'error');
     // Groq allows 14,400 RPD - safe to process more per run
     let processedThisRun = 0;
-    const MAX_REQUESTS_PER_RUN = 20;
+    const MAX_REQUESTS_PER_RUN = 30;
 
     for (let source of activeSources) {
         if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
@@ -342,6 +389,61 @@ async function run() {
         } catch (err) {
             console.error(`Failed to fetch ${source.name}: ${err.message}`);
             sourceResults[source.name] = { status: 'error', error: err.message };
+        }
+    }
+
+    // Process Google News-only Sources (sites without RSS feeds)
+    for (let gnSource of GOOGLE_NEWS_ONLY_SOURCES) {
+        if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
+            break;
+        }
+
+        const gnewsUrl = GOOGLE_NEWS_FALLBACK[gnSource.gnewsKey];
+        if (!gnewsUrl) continue;
+
+        console.log(`\nFetching Google News for ${gnSource.name}...`);
+        try {
+            const response = await fetch(gnewsUrl, {
+                headers: BROWSER_HEADERS,
+                redirect: 'follow'
+            });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const xml = await response.text();
+            const feed = await parser.parseString(xml);
+
+            let recentItems = feed.items.slice(0, 10); // Limit per source
+
+            for (let item of recentItems) {
+                if (existingUrls.has(item.link)) continue;
+                const itemTitleLower = (item.title || '').toLowerCase().replace(/ - .*$/, '').trim();
+                if (existingTitles.has(itemTitleLower)) continue;
+
+                let pubDate = new Date(item.pubDate);
+                let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
+                if (daysOld > 14) continue;
+
+                console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${item.title}`);
+                let trend = await generateTrendFromArticle(item, gnSource.name);
+                processedThisRun++;
+
+                if (trend === '__QUOTA_EXHAUSTED__') {
+                    processedThisRun = MAX_REQUESTS_PER_RUN;
+                    break;
+                }
+                if (trend) {
+                    newlyFoundTrends.push(trend);
+                    existingUrls.add(item.link);
+                    existingTitles.add(trend.title.toLowerCase());
+                }
+
+                if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
+                    break;
+                }
+            }
+            sourceResults[gnSource.name] = { status: 'healthy' };
+        } catch (err) {
+            console.error(`Failed to fetch ${gnSource.name}: ${err.message}`);
+            sourceResults[gnSource.name] = { status: 'error', error: err.message };
         }
     }
 
