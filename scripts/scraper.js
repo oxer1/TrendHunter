@@ -4,11 +4,71 @@ const Parser = require('rss-parser');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 const DATA_FILE = path.join(__dirname, '../data/trends.json');
-const parser = new Parser({
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+const parser = new Parser();
+
+// Full browser-like headers to avoid 403 blocks
+const BROWSER_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive',
+    'Cache-Control': 'no-cache',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Upgrade-Insecure-Requests': '1'
+};
+
+// Google News RSS fallback for sites that block direct RSS access
+const GOOGLE_NEWS_FALLBACK = {
+    "https://igamingbusiness.com/feed/": "https://news.google.com/rss/search?q=site:igamingbusiness.com+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://next.io/feed/": "https://news.google.com/rss/search?q=site:next.io+when:14d&hl=en-US&gl=US&ceid=US:en",
+    "https://steamdb.info/blog/feed/": "https://news.google.com/rss/search?q=site:steamdb.info+when:14d&hl=en-US&gl=US&ceid=US:en"
+};
+
+/**
+ * Resilient RSS fetcher: tries direct fetch with full browser headers first,
+ * then falls back to Google News RSS if the site returns 403.
+ */
+async function fetchFeedResilient(feedUrl, sourceName) {
+    // Attempt 1: Direct fetch with full browser headers
+    try {
+        const response = await fetch(feedUrl, {
+            headers: BROWSER_HEADERS,
+            redirect: 'follow'
+        });
+        if (response.status === 403) {
+            throw new Error('Status code 403');
+        }
+        if (!response.ok) {
+            throw new Error(`Status code ${response.status}`);
+        }
+        const xml = await response.text();
+        return await parser.parseString(xml);
+    } catch (directError) {
+        // Attempt 2: Google News fallback
+        const fallbackUrl = GOOGLE_NEWS_FALLBACK[feedUrl];
+        if (fallbackUrl) {
+            console.log(`  ↳ Direct fetch failed (${directError.message}), trying Google News fallback...`);
+            try {
+                const fallbackResponse = await fetch(fallbackUrl, {
+                    headers: BROWSER_HEADERS,
+                    redirect: 'follow'
+                });
+                if (!fallbackResponse.ok) {
+                    throw new Error(`Fallback HTTP ${fallbackResponse.status}`);
+                }
+                const xml = await fallbackResponse.text();
+                return await parser.parseString(xml);
+            } catch (fallbackError) {
+                throw new Error(`Direct: ${directError.message} | Fallback: ${fallbackError.message}`);
+            }
+        }
+        throw directError;
     }
-});
+}
 
 // Configure Gemini. Expects process.env.GEMINI_API_KEY
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
@@ -122,6 +182,8 @@ async function run() {
     // Clear `isNew` flag from older trends
     data.trends.forEach(t => t.isNew = false);
 
+    let newlyFoundTrends = [];
+
     let activeSources = data.sourceHealth.filter(s => s.status !== 'error');
     // Hardcap: Gemini free tier limit is 20 RPD (Requests Per Day).
     // We limit processing to 15 new articles per run so we never hit the quota.
@@ -140,7 +202,7 @@ async function run() {
 
         console.log(`\nFetching RSS for ${source.name}: ${feedUrl}`);
         try {
-            let feed = await parser.parseURL(feedUrl);
+            let feed = await fetchFeedResilient(feedUrl, source.name);
 
             // Limit to top 30 safest recent items per feed to avoid massive API bursts
             let recentItems = feed.items.slice(0, 30);
