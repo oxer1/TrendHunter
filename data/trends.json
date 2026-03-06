@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T15:35:05.058Z",
+        "scanDate": "2026-03-06T16:38:07.670Z",
         "version": "2.5.0",
-        "totalTrends": 144,
+        "totalTrends": 147,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,95 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g8xt2ih2t",
+            "title": "Greece Cracks Down",
+            "subtitle": "Greece aims to recover €400 million revenue loss by cracking down on unlicensed gambling.",
+            "category": "iGaming",
+            "tags": [
+                "Greece",
+                "Unlicensed Gambling",
+                "Revenue Loss"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y4bGhYbzQ5UnR5eDdnZmdHakFKbUVkN2pBdXBqSnpJNndTbmI3Z083M0c3RjFLOFI3T3p4N3FvT2NmWmZXWmVtS1hCYjNUcXRMdVJET1ZZMW9Vc3VpUE9POW44ZExoWk4yRHlRVDVqdUw2aV85YTJkQnhCR2ZkbXhjMzJ1VkYyc1lFVHZ1SU4zd1lhU1BKU05qR0ZXcVd5dzliMGxkVDE2Q0x5U2QzNDNEZ1hNQQ?oc=5",
+                "date": "2026-03-02T17:29:03.000Z"
+            },
+            "whatsNew": "Greece is taking measures to combat unlicensed gambling to recover a significant revenue loss. The country aims to regain €400 million in lost revenue. This crackdown is part of a broader effort to regulate the gambling industry.",
+            "whyItMatters": "The crackdown on unlicensed gambling in Greece highlights the importance of regulation in the iGaming industry. It also underscores the potential revenue losses that countries can face if they do not properly regulate gambling.",
+            "howToUse": "Operators should ensure they are properly licensed to avoid legal issues. Governments can use this as a model to regulate their own gambling industries.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Government"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-8m5jj7cqs",
+            "title": "AI Use Declines",
+            "subtitle": "Game developers report less use of generative AI",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "AI Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/developer-use-of-generative-ai-may-be-declining",
+                "date": "2026-03-06T16:29:28.000Z"
+            },
+            "whatsNew": "New data shows a year-over-year drop in generative AI use among game developers. This decline may indicate a shift in development priorities or concerns about AI integration.",
+            "whyItMatters": "The decline in generative AI use could impact game development innovation and the adoption of AI-powered tools. It may also reflect developer concerns about AI's role in the industry.",
+            "howToUse": "Developers should reassess their AI integration strategies and consider the potential benefits and drawbacks of generative AI in game development.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-ja6mnxlqk",
+            "title": "LTX-2 Workflow",
+            "subtitle": "Civitai introduces a 2-step fast workflow for LTX-2 Distilled",
+            "category": "AI",
+            "tags": [
+                "LTX-2",
+                "Civitai",
+                "AI Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5hVnpyeUpiUXdoNE1CcUlTanZPcTNvUjJPak03amFJbWRra29rOWNRQ0JWdGpSWlhVdG9wMW1wcDB4NVRkN2JXdEZn?oc=5",
+                "date": "2026-02-22T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced a new 2-step fast workflow for LTX-2 Distilled, aiming to streamline processes. This workflow is designed for efficiency and speed. It's a significant update for users of LTX-2 Distilled.",
+            "whyItMatters": "The introduction of this workflow can significantly impact the productivity of users working with LTX-2 Distilled, allowing for faster project completion. It reflects the ongoing development and optimization of AI tools.",
+            "howToUse": "To leverage this new workflow, users should explore Civitai's documentation and tutorials on implementing the 2-step process for their LTX-2 Distilled projects.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-fyzegpef1",
             "title": "LGBTQIA+ Gambling Harms",
@@ -48,7 +137,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-74ndjs0a5",
@@ -77,7 +166,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-n9ivm2lfd",
@@ -106,7 +195,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-duc99cb3t",
@@ -4659,7 +4748,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4668,7 +4757,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4677,7 +4766,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4686,7 +4775,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4695,7 +4784,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4714,7 +4803,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4723,7 +4812,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4732,7 +4821,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "Regulatory updates"
         },
         {
@@ -4750,7 +4839,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4759,7 +4848,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4779,7 +4868,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4837,7 +4926,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4846,7 +4935,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T14:36:02.129Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4855,7 +4944,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": "Style browsing signal"
         },
         {
@@ -4882,7 +4971,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.058Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4891,7 +4980,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
@@ -4981,7 +5070,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T15:35:05.059Z",
+            "lastScan": "2026-03-06T16:38:07.670Z",
             "note": null
         },
         {
