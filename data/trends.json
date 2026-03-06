@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-06T12:51:35.806Z",
+        "scanDate": "2026-03-06T13:53:58.437Z",
         "version": "2.5.0",
-        "totalTrends": 136,
+        "totalTrends": 139,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,95 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-kqxrqh6rh",
+            "title": "Sportsbook Hold Impact",
+            "subtitle": "High hold percentages negatively affect online sportsbook sustainability",
+            "category": "iGaming",
+            "tags": [
+                "sports betting",
+                "online sportsbooks",
+                "hold percentages"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116441/inverse-relationship-handle-hold-online-sportsbooks",
+                "date": "2026-03-06T12:56:36.000Z"
+            },
+            "whatsNew": "Research suggests a negative correlation between handle and hold for online sportsbooks, indicating that high hold percentages may lead to decreased customer engagement and ultimately, reduced handle. This challenges the traditional approach of maximizing hold percentages. The shift in perspective could lead to more sustainable business models for sportsbooks.",
+            "whyItMatters": "Understanding the inverse relationship between handle and hold is crucial for sportsbooks to develop sustainable business strategies, potentially leading to increased customer loyalty and revenue. This insight could prompt a paradigm shift in how sportsbooks approach their pricing and customer retention strategies.",
+            "howToUse": "Sportsbooks can leverage this insight by adjusting their pricing strategies to balance hold percentages with customer engagement, potentially leading to increased handle and long-term sustainability. By adopting a more customer-centric approach, sportsbooks can foster loyalty and drive growth.",
+            "beneficiaries": [
+                "Sportsbook operators",
+                "Bettors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-gvwu1q2gq",
+            "title": "UK Tax Hike Warning",
+            "subtitle": "UK Treasury dismisses DCMS warnings on gambling tax hikes",
+            "category": "iGaming",
+            "tags": [
+                "UK Treasury",
+                "DCMS",
+                "Gambling Tax"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/treasury-dismissed-dcms-warnings-tax-hikes-fail/",
+                "date": "2026-03-06T13:35:25.000Z"
+            },
+            "whatsNew": "The UK Treasury has ignored warnings from the DCMS about the potential failure of large tax hikes for the gambling sector. This decision could have significant implications for the industry. The tax hikes are intended to address concerns around problem gambling.",
+            "whyItMatters": "The outcome of this decision will impact the entire UK gambling industry, potentially affecting operators' profitability and their ability to operate. It may also influence regulatory decisions in other countries.",
+            "howToUse": "Operators should monitor the situation closely and prepare for potential tax increases, while also advocating for responsible gambling practices.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-o5zyr392s",
+            "title": "FanDuel Exit",
+            "subtitle": "Mike Raffensperger leaves FanDuel after eight years",
+            "category": "iGaming",
+            "tags": [
+                "FanDuel",
+                "Sports Betting",
+                "Executive Change"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/mike-raffensperger-announces-fanduel-exit/",
+                "date": "2026-03-06T13:26:17.000Z"
+            },
+            "whatsNew": "Mike Raffensperger, president of FanDuel's sports division, is leaving the company. He spent eight years at FanDuel, overseeing significant growth in the sports betting sector.",
+            "whyItMatters": "Raffensperger's departure may impact FanDuel's strategic direction in the sports betting market. His exit could lead to changes in the company's leadership and potentially affect its competitive position.",
+            "howToUse": "Industry observers should monitor FanDuel's subsequent leadership appointments and strategic decisions to gauge the company's future direction.",
+            "beneficiaries": [
+                "Industry Analysts",
+                "Competitors"
+            ],
+            "companies": [
+                "FanDuel"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-fj48rsf5t",
             "title": "Lottomatica Gains",
@@ -49,7 +138,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wmes9g1k5",
@@ -80,7 +169,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kmz9uter2",
@@ -113,7 +202,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-40hgvph6k",
@@ -142,7 +231,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jav943qpq",
@@ -171,7 +260,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mosskwhbp",
@@ -205,7 +294,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rc6m6xlfs",
@@ -238,7 +327,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-g2zoxwmu5",
@@ -269,7 +358,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jxif970q6",
@@ -300,7 +389,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-whj2ydc0f",
@@ -332,7 +421,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-m719kd40l",
@@ -363,7 +452,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xagfqh93l",
@@ -394,7 +483,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rnm4xgcbw",
@@ -4421,7 +4510,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
@@ -4430,7 +4519,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
@@ -4439,7 +4528,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
@@ -4448,7 +4537,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
@@ -4457,7 +4546,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
@@ -4476,7 +4565,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4485,7 +4574,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4494,7 +4583,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": "Regulatory updates"
         },
         {
@@ -4512,7 +4601,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4521,7 +4610,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4541,7 +4630,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4599,7 +4688,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4608,7 +4697,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4644,7 +4733,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
@@ -4743,7 +4832,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-06T12:51:35.806Z",
+            "lastScan": "2026-03-06T13:53:58.437Z",
             "note": null
         },
         {
