@@ -169,8 +169,16 @@ CRITICAL: Return ONLY the JSON object. Do not include markdown formatting like \
 
         } catch (err) {
             const is429 = err.message && err.message.includes('429');
+            // Distinguish daily quota exhaustion (limit: 0) from temporary RPM limit
+            const isQuotaExhausted = err.message && err.message.includes('limit: 0');
+
+            if (isQuotaExhausted) {
+                console.error(`  ❌ Daily quota exhausted — stopping all API calls. Try again tomorrow.`);
+                // Signal to caller to stop processing further articles
+                return '__QUOTA_EXHAUSTED__';
+            }
+
             if (is429 && attempt < MAX_RETRIES) {
-                // Extract retry delay from error message if available
                 const retryMatch = err.message.match(/retryDelay":"(\d+)s/);
                 const waitSec = retryMatch ? parseInt(retryMatch[1]) + 2 : RETRY_DELAYS[attempt - 1] / 1000;
                 console.warn(`  ⏳ Rate limited (attempt ${attempt}/${MAX_RETRIES}), waiting ${waitSec}s before retry...`);
@@ -207,7 +215,7 @@ async function run() {
     // Hardcap: Gemini free tier limit is 20 RPD (Requests Per Day).
     // We limit processing to 15 new articles per run so we never hit the quota.
     let processedThisRun = 0;
-    const MAX_REQUESTS_PER_RUN = 15;
+    const MAX_REQUESTS_PER_RUN = 10;
 
     for (let source of activeSources) {
         if (processedThisRun >= MAX_REQUESTS_PER_RUN) {
@@ -241,6 +249,10 @@ async function run() {
                 let trend = await generateTrendFromArticle(item, source.name);
                 processedThisRun++;
 
+                if (trend === '__QUOTA_EXHAUSTED__') {
+                    processedThisRun = MAX_REQUESTS_PER_RUN; // Force outer loop to stop too
+                    break;
+                }
                 if (trend) {
                     newlyFoundTrends.push(trend);
                     existingUrls.add(item.link);
@@ -298,6 +310,10 @@ async function run() {
                 let trend = await generateTrendFromArticle(article, source.name);
                 processedThisRun++;
 
+                if (trend === '__QUOTA_EXHAUSTED__') {
+                    processedThisRun = MAX_REQUESTS_PER_RUN;
+                    break;
+                }
                 if (trend) {
                     newlyFoundTrends.push(trend);
                     existingUrls.add(article.link);
