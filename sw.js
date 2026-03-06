@@ -1,18 +1,11 @@
-// C2: Service Worker for caching trends.json
-const CACHE_NAME = 'vth-cache-v1';
-const CACHE_URLS = [
-    './',
-    './index.html',
-    './index.css',
-    './index.js',
-    './data/trends.json'
-];
+// Service Worker for VisualTrendHub — v2
+// Strategy: Network-first for ALL requests (always fresh data)
+// Falls back to cache only when offline
+
+const CACHE_NAME = 'vth-cache-v2';
 
 self.addEventListener('install', event => {
-    event.waitUntil(
-        caches.open(CACHE_NAME).then(cache => cache.addAll(CACHE_URLS))
-    );
-    self.skipWaiting();
+    self.skipWaiting(); // Activate immediately
 });
 
 self.addEventListener('activate', event => {
@@ -25,24 +18,16 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-    const url = new URL(event.request.url);
-
-    // For trends.json: network-first strategy (always try fresh data, fallback to cache)
-    if (url.pathname.endsWith('trends.json')) {
-        event.respondWith(
-            fetch(event.request)
-                .then(response => {
+    event.respondWith(
+        fetch(event.request)
+            .then(response => {
+                // Cache successful responses for offline fallback
+                if (response.ok) {
                     const clone = response.clone();
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
-                    return response;
-                })
-                .catch(() => caches.match(event.request))
-        );
-        return;
-    }
-
-    // For everything else: cache-first strategy
-    event.respondWith(
-        caches.match(event.request).then(cached => cached || fetch(event.request))
+                }
+                return response;
+            })
+            .catch(() => caches.match(event.request)) // Offline fallback
     );
 });
