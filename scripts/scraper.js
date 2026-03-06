@@ -307,8 +307,42 @@ async function run() {
     let newlyFoundTrends = [];
     let sourceResults = {}; // A5: Track success/error per source
 
-    // A4: Build a set of existing titles (lowercase) to catch Google News duplicates with different URLs
+    // A4: Build sets for duplicate detection
     let existingTitles = new Set(data.trends.map(t => t.title.toLowerCase()));
+    // Also store original article titles from source URLs for better dedup
+    let existingArticleTitles = new Set(data.trends.map(t => {
+        // Extract base title without source suffix
+        return (t.source?.url || '').toLowerCase();
+    }).filter(Boolean));
+
+    // Fuzzy title matching: checks word overlap between two titles
+    const STOP_WORDS = new Set(['the', 'a', 'an', 'and', 'or', 'in', 'on', 'at', 'to', 'for', 'of', 'is', 'are', 'was', 'were', 'with', 'by', 'from', 'as', 'its', 'it', 'this', 'that', 'new', 'has', 'have', 'had', 'will', 'can', 'may', 'be']);
+    function getKeywords(title) {
+        return (title || '').toLowerCase()
+            .replace(/[^a-z0-9\s]/g, '')
+            .split(/\s+/)
+            .filter(w => w.length > 2 && !STOP_WORDS.has(w));
+    }
+    function isSimilarToExisting(articleTitle, existingTrendsArray) {
+        const keywords = getKeywords(articleTitle);
+        if (keywords.length < 2) return false;
+        for (const existing of existingTrendsArray) {
+            const existingKw = getKeywords(existing.title);
+            if (existingKw.length < 2) continue;
+            const overlap = keywords.filter(w => existingKw.includes(w)).length;
+            const similarity = overlap / Math.min(keywords.length, existingKw.length);
+            if (similarity >= 0.6) return true;
+            // Also check subtitle similarity
+            if (existing.subtitle) {
+                const subKw = getKeywords(existing.subtitle);
+                const subOverlap = keywords.filter(w => subKw.includes(w)).length;
+                if (subKw.length > 2 && subOverlap / Math.min(keywords.length, subKw.length) >= 0.5) return true;
+            }
+        }
+        return false;
+    }
+    // Combine existing + newly found for dedup checks
+    const allTrendsForDedup = [...data.trends];
 
     let activeSources = data.sourceHealth.filter(s => s.status !== 'error');
     // Groq allows 14,400 RPD - safe to process more per run
@@ -338,6 +372,13 @@ async function run() {
                 const itemTitleLower = (item.title || '').toLowerCase().replace(/ - .*$/, '').trim();
                 if (existingTitles.has(itemTitleLower)) continue;
 
+                // Fuzzy dedup: skip if article title is similar to existing trends
+                if (isSimilarToExisting(item.title, allTrendsForDedup)) {
+                    console.log(`  ⊘ Skipped (similar article exists): ${item.title.substring(0, 60)}...`);
+                    existingUrls.add(item.link); // Mark URL so we don't recheck
+                    continue;
+                }
+
                 // Only process if published within the last 14 days
                 let pubDate = new Date(item.pubDate);
                 let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
@@ -353,6 +394,7 @@ async function run() {
                 }
                 if (trend) {
                     newlyFoundTrends.push(trend);
+                    allTrendsForDedup.push(trend); // Add to dedup pool
                     existingUrls.add(item.link);
                     existingTitles.add(trend.title.toLowerCase());
                 }
@@ -404,6 +446,13 @@ async function run() {
                 let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
                 if (daysOld > 14) continue;
 
+                // Fuzzy dedup
+                if (isSimilarToExisting(article.title, allTrendsForDedup)) {
+                    console.log(`  ⊘ Skipped (similar article exists): ${article.title.substring(0, 60)}...`);
+                    existingUrls.add(article.link);
+                    continue;
+                }
+
                 console.log(`Found NEW Article: [${pubDate.toISOString().split('T')[0]}] ${article.title}`);
                 let trend = await generateTrendFromArticle(article, source.name);
                 processedThisRun++;
@@ -414,6 +463,7 @@ async function run() {
                 }
                 if (trend) {
                     newlyFoundTrends.push(trend);
+                    allTrendsForDedup.push(trend);
                     existingUrls.add(article.link);
                 }
 
@@ -454,6 +504,13 @@ async function run() {
                 const itemTitleLower = (item.title || '').toLowerCase().replace(/ - .*$/, '').trim();
                 if (existingTitles.has(itemTitleLower)) continue;
 
+                // Fuzzy dedup
+                if (isSimilarToExisting(item.title, allTrendsForDedup)) {
+                    console.log(`  ⊘ Skipped (similar article exists): ${item.title.substring(0, 60)}...`);
+                    existingUrls.add(item.link);
+                    continue;
+                }
+
                 let pubDate = new Date(item.pubDate);
                 let daysOld = (Date.now() - pubDate.getTime()) / (1000 * 3600 * 24);
                 if (daysOld > 14) continue;
@@ -468,6 +525,7 @@ async function run() {
                 }
                 if (trend) {
                     newlyFoundTrends.push(trend);
+                    allTrendsForDedup.push(trend);
                     existingUrls.add(item.link);
                     existingTitles.add(trend.title.toLowerCase());
                 }
