@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T15:20:33.951Z",
+        "scanDate": "2026-03-07T16:24:34.943Z",
         "version": "2.5.0",
-        "totalTrends": 158,
+        "totalTrends": 159,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-8acl9yctl",
+            "title": "NY Casino Bids",
+            "subtitle": "New York casino bidders lead NYC lobbying efforts in 2025",
+            "category": "iGaming",
+            "tags": [
+                "New York",
+                "Casino",
+                "Lobbying",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5Y2o3NDJGdWszZHVZdEhEeWFKZHlhMVliMEVBNXc3UldGUEptTTAzbGhpNWZhcXR2SFNCcDBiTjRTOFg1WF9VeUlabmFLQllQaE9iYmxwODBmVVBiSno2NXdOdG5xZFp3LVViZEtldVl1dkZqckE?oc=5",
+                "date": "2026-03-04T23:04:18.000Z"
+            },
+            "whatsNew": "New York casino bidders continued to top the NYC lobbying report in 2025, indicating ongoing interest and investment in the state's gaming industry. This trend suggests that companies are actively pursuing opportunities in the region. The lobbying efforts are likely focused on regulatory changes and licensing.",
+            "whyItMatters": "The continued lobbying efforts by casino bidders in New York demonstrate the significance of the state's gaming market and the potential for future growth. This trend may impact the development of new casinos and gaming regulations in the region.",
+            "howToUse": "Companies looking to enter the New York gaming market should be aware of the ongoing lobbying efforts and regulatory developments. They can use this information to inform their strategic planning and investment decisions.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gaming Investors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-bedk1dq44",
             "title": "AI Art Model",
@@ -5092,7 +5122,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
@@ -5101,7 +5131,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
@@ -5110,7 +5140,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
@@ -5119,7 +5149,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
@@ -5128,7 +5158,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
@@ -5147,7 +5177,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5156,7 +5186,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5165,7 +5195,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": "Regulatory updates"
         },
         {
@@ -5183,7 +5213,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5192,7 +5222,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5212,7 +5242,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5270,7 +5300,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5279,7 +5309,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5315,7 +5345,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
@@ -5414,7 +5444,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T15:20:33.951Z",
+            "lastScan": "2026-03-07T16:24:34.943Z",
             "note": null
         },
         {
