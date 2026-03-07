@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T16:24:34.943Z",
+        "scanDate": "2026-03-07T17:19:26.426Z",
         "version": "2.5.0",
-        "totalTrends": 159,
+        "totalTrends": 160,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-gwj2crv60",
+            "title": "AI Art Release",
+            "subtitle": "Civitai releases Kirara Hoshi character art using AI tools",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Character Design",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iVDNLQ0Q0QW1sbTQ4bGs1anNXdWN0RVF4ZjhfUXlQS01USnNTZndObjVNMGcxaVBFdEtqQ0hBV19fUlF3NlkxSHJOUk9XNXU3aEhMdDdib09POGR6bk1hRTFzREZSSHZsUHh4bUZ2dWZlTEFaeWh5djZMRXA?oc=5",
+                "date": "2026-03-02T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced a new character, Kirara Hoshi, created using AI art generation tools. The character is part of Akium's Characters - V1 and utilizes Illustrious LoRA technology. This showcases the increasing capability of AI in generating detailed and stylized character art.",
+            "whyItMatters": "The use of AI in art generation is becoming more prevalent, allowing for faster and more diverse character design. This can significantly impact the gaming and animation industries by streamlining the creative process.",
+            "howToUse": "Artists and designers can utilize Civitai's AI tools to generate unique character designs, speeding up their workflow and exploring new styles.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-8acl9yctl",
             "title": "NY Casino Bids",
@@ -48,7 +80,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bedk1dq44",
@@ -5122,7 +5154,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
@@ -5131,7 +5163,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
@@ -5140,7 +5172,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
@@ -5149,7 +5181,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
@@ -5158,7 +5190,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
@@ -5177,7 +5209,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5186,7 +5218,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5195,7 +5227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": "Regulatory updates"
         },
         {
@@ -5213,7 +5245,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5222,7 +5254,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5242,7 +5274,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5300,7 +5332,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5309,7 +5341,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5345,7 +5377,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
@@ -5444,7 +5476,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T16:24:34.943Z",
+            "lastScan": "2026-03-07T17:19:26.426Z",
             "note": null
         },
         {
