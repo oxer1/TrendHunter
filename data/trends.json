@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T08:28:08.756Z",
+        "scanDate": "2026-03-07T09:26:35.512Z",
         "version": "2.5.0",
-        "totalTrends": 154,
+        "totalTrends": 155,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nx6kqn46o",
+            "title": "Anima Update",
+            "subtitle": "Civitai releases RDBT Anima v0.12fd update",
+            "category": "AI",
+            "tags": [
+                "AI Updates",
+                "Civitai",
+                "RDBT Anima"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CRzNZQkFDMDlaNkQyRlEyaDY5VWNQanUyOVowUGpUbmVfZGFuUHlhaUNoUVRRVFVjSjV1VkhfWGQzM09pM3hxZGhkSHhMcnV3RmgyVkxlNlZpb3hi?oc=5",
+                "date": "2026-03-02T08:00:00.000Z"
+            },
+            "whatsNew": "The latest version of RDBT Anima, v0.12fd, has been released on Civitai, bringing updates to the AI model. This version is a checkpoint in the development of Anima, indicating ongoing progress in AI technology.",
+            "whyItMatters": "This update signifies the continuous improvement of AI tools, potentially enhancing capabilities for users. It reflects the growing importance of AI in creative and possibly gaming contexts.",
+            "howToUse": "Developers and users can leverage this update by integrating the latest version of RDBT Anima into their projects, exploring new features and improvements for enhanced performance.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-2wtkvpga6",
             "title": "iGaming Deals",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-72uyva117",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-q1vw24ktd",
@@ -114,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xz64m6tf8",
@@ -4968,7 +4999,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -4977,7 +5008,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -4986,7 +5017,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -4995,7 +5026,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -5004,7 +5035,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -5023,7 +5054,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5032,7 +5063,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5041,7 +5072,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "Regulatory updates"
         },
         {
@@ -5059,7 +5090,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5068,7 +5099,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5088,7 +5119,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5146,7 +5177,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5155,7 +5186,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5164,7 +5195,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T07:27:10.923Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": "Style browsing signal"
         },
         {
@@ -5191,7 +5222,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -5200,7 +5231,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T07:27:10.923Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
@@ -5290,7 +5321,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T08:28:08.756Z",
+            "lastScan": "2026-03-07T09:26:35.512Z",
             "note": null
         },
         {
