@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T17:19:26.426Z",
+        "scanDate": "2026-03-07T18:30:16.370Z",
         "version": "2.5.0",
-        "totalTrends": 160,
+        "totalTrends": 161,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-u898a2sht",
+            "title": "Flutter Invests",
+            "subtitle": "Flutter to increase investment in Brazil following Betnacional success",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Betnacional",
+                "Brazil",
+                "Investment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGNQM1AtVFBldjBOVGZSLUJZMEVqYmFMMzh1TS01Z3c3VGl1VERoQ05jYnktYVhRTlpoeHJvNF9icXVjcThFeXZTaTZCTzd1SWlwenM4NHc0SzNEU1RwdFdJMGdUczloVGU4XzIzWW5ZMjhyRUFGbVcxb1JSdG82ZVRIcGwxUDAtY2pTZlNGOHh0c29CbVJ4VE9uNlJqR2haaFBVTkpTTTBWTkh2SkRR?oc=5",
+                "date": "2026-03-05T11:47:06.000Z"
+            },
+            "whatsNew": "Flutter plans to double down on its investment in Brazil after achieving success with Betnacional. This move indicates a growing interest in the Brazilian market. The investment is expected to further expand Flutter's presence in the region.",
+            "whyItMatters": "The increased investment by Flutter in Brazil signifies a growing confidence in the Latin American iGaming market. It may also prompt other operators to explore opportunities in the region.",
+            "howToUse": "Operators can consider exploring the Brazilian market by investing in local licenses and partnerships, similar to Flutter's strategy with Betnacional.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Brazilian Market"
+            ],
+            "companies": [
+                "Flutter",
+                "Betnacional"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-gwj2crv60",
             "title": "AI Art Release",
@@ -50,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8acl9yctl",
@@ -5154,7 +5187,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
@@ -5163,7 +5196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
@@ -5172,7 +5205,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
@@ -5181,7 +5214,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
@@ -5190,7 +5223,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
@@ -5209,7 +5242,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5218,7 +5251,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5227,7 +5260,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": "Regulatory updates"
         },
         {
@@ -5245,7 +5278,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5254,7 +5287,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5274,7 +5307,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5332,7 +5365,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5341,7 +5374,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5377,7 +5410,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
@@ -5476,7 +5509,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T17:19:26.426Z",
+            "lastScan": "2026-03-07T18:30:16.370Z",
             "note": null
         },
         {
