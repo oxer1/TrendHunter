@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T20:22:38.832Z",
+        "scanDate": "2026-03-07T21:18:57.226Z",
         "version": "2.5.0",
-        "totalTrends": 161,
+        "totalTrends": 162,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-131l0mcac",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces professional grade workflow for I2I/T2I with low or high VRAM",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "I2I",
+                "T2I",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZy1ub1cxY3h0cmRoVng0cVFvZG9XcHVLTHlCLTkyZHBnMjR2ajdHWHpkVl84TWFOWXpoaEx6WkpCV2lOa3NqbG0xcmIyQU80TmI5XzU0OGpyekRib0ZhQlV2bk1oV3dzd0Y2cDQ2QW14R2lyZWNWbi1PeHV2a3R6LWdRYnpndXVOb1ZjaFh1VHNjQmJRcWktUi1Mc2dOZExnSGx3RjZZdFpnVGht?oc=5",
+                "date": "2026-03-05T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, making it accessible to a wider range of users. The workflow is designed for professional-grade I2I/T2I tasks.",
+            "whyItMatters": "This workflow can significantly improve the efficiency and quality of AI art generation, benefiting artists and designers. It also demonstrates the growing importance of accessible AI tools in the creative industry.",
+            "howToUse": "Artists can utilize Civitai's workflow to streamline their I2I/T2I processes, regardless of their system's VRAM capacity. This can be particularly useful for those working with complex or high-resolution art pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-u898a2sht",
             "title": "Flutter Invests",
@@ -5187,7 +5219,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5196,7 +5228,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5205,7 +5237,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5214,7 +5246,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5223,7 +5255,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5242,7 +5274,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5251,7 +5283,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5260,7 +5292,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "Regulatory updates"
         },
         {
@@ -5278,7 +5310,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5287,7 +5319,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5307,7 +5339,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5365,7 +5397,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5374,7 +5406,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5383,7 +5415,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": "Style browsing signal"
         },
         {
@@ -5410,7 +5442,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5419,7 +5451,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
@@ -5509,7 +5541,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T20:22:38.832Z",
+            "lastScan": "2026-03-07T21:18:57.226Z",
             "note": null
         },
         {
