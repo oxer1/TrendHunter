@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T22:20:51.606Z",
+        "scanDate": "2026-03-07T23:20:20.889Z",
         "version": "2.5.0",
-        "totalTrends": 162,
+        "totalTrends": 163,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-soc0m3tq9",
+            "title": "Evoke Horseracing Game",
+            "subtitle": "Evoke launches free-to-play horseracing game for William Hill brand",
+            "category": "iGaming",
+            "tags": [
+                "Free-to-play",
+                "Horseracing",
+                "William Hill"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEt0OG0xeG9tWlZSNnN5bWR0YjdrdlRqdmNsMElrYWpDeHlYU29TTVdJUEp3RGY5SGw3MXVDTjNGMTYtNklJUVBJZUtNTC1WMGxvRWpZWUtZcF9FTEFmcC0tSDI3YkdpR1MzQmdLY3BYWVRYZGFrTEVnNlhRc1cwMHpQeDRSWXhMYlBhejBhME1XZFBEREVLZFVONE5uR1lXbWM4?oc=5",
+                "date": "2026-03-02T16:25:17.000Z"
+            },
+            "whatsNew": "Evoke has launched a free-to-play horseracing game for the William Hill brand, expanding the brand's gaming offerings. The game is designed to engage users with a new form of entertainment. This launch indicates a growing interest in free-to-play models within the iGaming sector.",
+            "whyItMatters": "The launch of this game matters because it showcases the evolving landscape of iGaming, where free-to-play models are becoming increasingly popular. It also highlights the strategic partnerships between game developers and established brands like William Hill.",
+            "howToUse": "Game developers and iGaming brands can use this trend by exploring free-to-play models that offer engaging experiences without upfront costs, potentially attracting a wider audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Brands"
+            ],
+            "companies": [
+                "Evoke",
+                "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-131l0mcac",
             "title": "AI Art Workflow",
@@ -5219,7 +5251,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5228,7 +5260,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5237,7 +5269,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5246,7 +5278,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5255,7 +5287,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5274,7 +5306,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5283,7 +5315,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5292,7 +5324,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "Regulatory updates"
         },
         {
@@ -5310,7 +5342,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5319,7 +5351,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5339,7 +5371,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5397,7 +5429,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5406,7 +5438,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5415,7 +5447,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": "Style browsing signal"
         },
         {
@@ -5442,7 +5474,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5451,7 +5483,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
@@ -5541,7 +5573,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-07T23:20:20.889Z",
             "note": null
         },
         {
