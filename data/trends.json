@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T01:46:41.327Z",
+        "scanDate": "2026-03-07T03:59:18.882Z",
         "version": "2.5.0",
-        "totalTrends": 151,
+        "totalTrends": 153,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xz64m6tf8",
+            "title": "AI Art Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fX3hkaGJ1dGdwTEE5eThweFNxTG1jVHNRaTMzeXJLZlRPLTh6OFA4OENteFFBd0l6MVBmcmhLOVBCdTlnZ0J0bw?oc=5",
+                "date": "2026-03-06T19:04:03.000Z"
+            },
+            "whatsNew": "OpenArt's AI Creator Studio allows users to generate high-quality videos and images using AI technology. This studio provides a range of tools and features for creative professionals. The platform aims to simplify the content creation process.",
+            "whyItMatters": "The introduction of AI Creator Studio by OpenArt has the potential to revolutionize the content creation industry by providing easy access to AI-powered tools. This can significantly impact the visual design and game development sectors.",
+            "howToUse": "Content creators can utilize OpenArt's AI Creator Studio to produce engaging videos and images by leveraging the platform's AI capabilities and user-friendly interface.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-8uqmquy06",
+            "title": "AI Video Creation",
+            "subtitle": "Synthesia offers a free method to create AI videos in minutes",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Synthesia",
+                "Free Tool"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwYnJGNUc2Z3p5M3MydnpDMXBzbURrR2dDNjZ5RUlLVUNrRkc2bFNfa2cyVEtqUVpmUk1UODdKZmFXLWJxVnh4YWcwb2dNRkRvdzladURlTk16TFRfRDlqeA?oc=5",
+                "date": "2026-02-26T08:00:00.000Z"
+            },
+            "whatsNew": "Synthesia introduces a free method to create AI videos in just 3 minutes, making AI video creation more accessible. This method simplifies the process, allowing users to generate high-quality AI videos without extensive expertise. The tool is designed for quick and efficient video production.",
+            "whyItMatters": "This development matters because it democratizes access to AI video creation, enabling a broader range of users to leverage AI for their video needs. It has the potential to significantly impact content creation across various industries.",
+            "howToUse": "To use Synthesia's free AI video creation tool, simply access their platform, follow the guided process, and input your desired video content. The tool will then generate a high-quality AI video in minutes.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Educators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-xuyjtfedi",
             "title": "Star Entertainment Breach",
@@ -49,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dirsv5p49",
@@ -78,7 +142,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3jztdekex",
@@ -4870,7 +4934,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -4879,7 +4943,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -4888,7 +4952,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -4897,7 +4961,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -4906,7 +4970,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -4925,7 +4989,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4934,7 +4998,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4943,7 +5007,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "Regulatory updates"
         },
         {
@@ -4961,7 +5025,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4970,7 +5034,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4990,7 +5054,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5048,7 +5112,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5057,7 +5121,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5066,7 +5130,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": "Style browsing signal"
         },
         {
@@ -5093,7 +5157,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -5102,7 +5166,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -5111,7 +5175,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -5120,7 +5184,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-02-27T15:56:53+03:00",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
@@ -5192,7 +5256,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T01:46:41.327Z",
+            "lastScan": "2026-03-07T03:59:18.882Z",
             "note": null
         },
         {
