@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-08T11:19:06.227Z",
+        "scanDate": "2026-03-08T12:42:43.411Z",
         "version": "2.5.0",
-        "totalTrends": 161,
+        "totalTrends": 162,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ue7ab4xat",
+            "title": "Qwen Image Edit",
+            "subtitle": "Civitai releases Qwen Image Edit Multi Gen - 2511 v1, a new tool for image editing and generation",
+            "category": "AI",
+            "tags": [
+                "Image Editing",
+                "AI Generation",
+                "Qwen Workflows"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcTFQRk12N3l6SGNCSTNrQ1R2WWJQU1drR1pUTk9YdllQWGYxV0wwVnBLWnpyOWdqNksyNHNaUVdHSzlBalZFbjltTE53bC1yM0E2c1hENUtzVE90MXVOaDVXTVNKWVJnd3FPRg?oc=5",
+                "date": "2026-02-24T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces Qwen Image Edit Multi Gen - 2511 v1, a novel image editing and generation tool. This tool enables advanced image manipulation and creation capabilities. It is part of the Qwen Workflows suite.",
+            "whyItMatters": "This release matters because it expands the possibilities for AI-assisted image editing and generation, potentially benefiting various creative industries. It showcases the growing capabilities of AI in visual content creation.",
+            "howToUse": "To leverage this tool, users can explore the Civitai platform, access the Qwen Workflows section, and follow the provided documentation or tutorials to get started with Qwen Image Edit Multi Gen - 2511 v1.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-puedpcy0f",
             "title": "AI Art Update",
@@ -5175,7 +5206,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": null
         },
         {
@@ -5194,7 +5225,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": null
         },
         {
@@ -5203,7 +5234,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": null
         },
         {
@@ -5212,7 +5243,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": null
         },
         {
@@ -5231,7 +5262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5240,7 +5271,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5249,7 +5280,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": "Regulatory updates"
         },
         {
@@ -5267,7 +5298,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5276,7 +5307,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5296,7 +5327,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5354,7 +5385,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5363,7 +5394,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5399,7 +5430,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": null
         },
         {
@@ -5498,7 +5529,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T11:19:06.227Z",
+            "lastScan": "2026-03-08T12:42:43.411Z",
             "note": null
         },
         {
