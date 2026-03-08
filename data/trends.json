@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-08T15:21:24.245Z",
+        "scanDate": "2026-03-08T16:24:48.126Z",
         "version": "2.5.0",
-        "totalTrends": 162,
+        "totalTrends": 163,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0lx35ewa0",
+            "title": "Wan 2.2 Detailer",
+            "subtitle": "Civitai releases Wan 2.2 Detailer, a video workflow tool",
+            "category": "AI",
+            "tags": [
+                "Wan 2.2 Detailer",
+                "Video Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83QjdNcnZYVzNlQjQ0YXFwbmlQVjdqTXhkMjlhSU1mSmdaazdIYUp4d1cxdTRwYmZ6UlZGbGxnOXJYejBweVRsMkRLelIyOXpJTl9iaTJZNDg0SGtTQXB3?oc=5",
+                "date": "2026-03-08T08:39:22.000Z"
+            },
+            "whatsNew": "Civitai has released Wan 2.2 Detailer, a tool for enhancing video workflows. This tool is part of the Wan Video Workflows suite. The v1.0 release indicates it's the first version of this specific detailer.",
+            "whyItMatters": "The release of Wan 2.2 Detailer by Civitai indicates a growing interest in AI-powered video tools, which can significantly impact the efficiency and quality of video production in various industries, including gaming and entertainment.",
+            "howToUse": "Content creators can utilize Wan 2.2 Detailer to refine and enhance the details in their videos, potentially leading to more engaging and high-quality content.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Editors"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-ue7ab4xat",
             "title": "Qwen Image Edit",
@@ -5206,7 +5237,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": null
         },
         {
@@ -5225,7 +5256,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": null
         },
         {
@@ -5234,7 +5265,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": null
         },
         {
@@ -5243,7 +5274,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": null
         },
         {
@@ -5262,7 +5293,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5271,7 +5302,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5280,7 +5311,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": "Regulatory updates"
         },
         {
@@ -5298,7 +5329,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5307,7 +5338,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5327,7 +5358,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5430,7 +5461,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": null
         },
         {
@@ -5529,7 +5560,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-08T15:21:24.245Z",
+            "lastScan": "2026-03-08T16:24:48.126Z",
             "note": null
         },
         {
