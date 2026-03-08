@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-07T23:20:20.889Z",
+        "scanDate": "2026-03-08T01:54:35.934Z",
         "version": "2.5.0",
-        "totalTrends": 163,
+        "totalTrends": 161,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5bkuj6nad",
+            "title": "Text to Video",
+            "subtitle": "HeyGen introduces a free text to video AI tool for creating videos from text inputs.",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Text to Video",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rc1dFWGZUWktPS2xiRUY1aVZwOWxsTTNRTnVVR3BheWZ5TXVZTEp4RnNXckNudWRvUFMyeE4wLTkzQjBkZmFIRU9yMVplbzIyRGZ2V2FFTGZpZ3M?oc=5",
+                "date": "2026-03-04T03:02:36.000Z"
+            },
+            "whatsNew": "HeyGen's free text to video AI allows users to generate videos directly from text prompts, simplifying content creation. This tool leverages advanced AI algorithms to produce high-quality video outputs. The accessibility of this tool is expected to democratize video content creation.",
+            "whyItMatters": "The introduction of free text to video AI by HeyGen has significant implications for content creators, marketers, and educators, as it simplifies the process of producing engaging video content. This technology can also impact the gaming industry by enabling the rapid creation of in-game videos or promotional materials.",
+            "howToUse": "Users can utilize HeyGen's text to video AI by inputting their desired text into the platform, selecting from various customization options, and then generating the video. This process can be particularly useful for creating tutorials, explainer videos, or social media clips.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Educators"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-soc0m3tq9",
             "title": "Evoke Horseracing Game",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-131l0mcac",
@@ -4661,51 +4693,6 @@
             "isNew": false
         },
         {
-            "id": "t-006",
-            "title": "Pragmatic Play ICE 2026 Roadmap",
-            "subtitle": "150+ live tables, progressive tumbling multipliers, Brazil studio",
-            "category": "iGaming",
-            "tags": [
-                "Slots",
-                "Live Casino",
-                "Localization"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Pragmatic Play",
-                "url": "https://pragmaticplay.com/en/news/pragmatic-play-ice-2026-roadmap",
-                "date": "2026-02-22"
-            },
-            "whatsNew": "Zeus vs Hades GoW 250, Sugar Rush Super Scatter, 150+ live tables, Brazil/Serbia/Colombia studios.",
-            "whyItMatters": "Market-specific localization at unprecedented scale.",
-            "howToUse": "Study localization strategies.",
-            "beneficiaries": [
-                "Game Designers",
-                "Animators"
-            ],
-            "companies": [
-                "Pragmatic Play"
-            ],
-            "visualStyle": {
-                "theme": "Greek Mythology",
-                "motifs": [
-                    "Lightning",
-                    "Gold",
-                    "Gods",
-                    "Temples"
-                ],
-                "palette": [
-                    "#1a0a3e",
-                    "#ffd700",
-                    "#4169e1",
-                    "#2d1b69"
-                ]
-            },
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-007",
             "title": "Nolimit City Franchise Sequel Wave",
             "subtitle": "Dead or Alive 3, Crypt 2, MONOPOLY Rent Rush",
@@ -4881,36 +4868,6 @@
                 ]
             },
             "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-011",
-            "title": "Tokenized Cross-Platform Loyalty",
-            "subtitle": "Portable digital identities across casino, sports, and beyond",
-            "category": "iGaming",
-            "tags": [
-                "Loyalty",
-                "Tokens",
-                "UX",
-                "Cross-Vertical"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "r/iGaming",
-                "url": "https://reddit.com/r/iGaming",
-                "date": "2026-02-22"
-            },
-            "whatsNew": "Loyalty as portable digital identity. Social gaming elements in real-money platforms.",
-            "whyItMatters": "Breaks walled-garden model.",
-            "howToUse": "Explore token-based loyalty systems.",
-            "beneficiaries": [
-                "Platform Developers",
-                "UX Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -5102,39 +5059,6 @@
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
             "isNew": false
-        },
-        {
-            "id": "t-036",
-            "title": "Nano-Banana Prompting Methodology",
-            "subtitle": "Structured AI art prompts: Style + Subject + Environment + Lighting + Mood",
-            "category": "AI",
-            "tags": [
-                "Prompting",
-                "AI Art",
-                "Workflow",
-                "Nano-Banana"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "nanobanana.im / Reddit",
-                "url": "https://nanobanana.im",
-                "date": "2026-02-22"
-            },
-            "whatsNew": "Comprehensive prompting framework: [Style] + [Subject] + [Action/Pose] + [Environment] + [Lighting] + [Mood]. Style transfer, logo generation, character design, moodboard curation.",
-            "whyItMatters": "Standardized prompting = reproducible results. Integrated into Photoshop 2026 Gen Fill.",
-            "howToUse": "Use structured prompts for slot symbol concepting. Generate style-consistent asset libraries.",
-            "beneficiaries": [
-                "Concept Artists",
-                "Art Directors",
-                "Slot Designers"
-            ],
-            "companies": [
-                "Google"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -5251,7 +5175,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5260,7 +5184,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5269,7 +5193,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5278,7 +5202,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5287,7 +5211,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5306,7 +5230,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5315,7 +5239,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5324,7 +5248,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "Regulatory updates"
         },
         {
@@ -5342,7 +5266,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5351,7 +5275,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5371,7 +5295,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5429,7 +5353,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5438,7 +5362,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5447,7 +5371,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": "Style browsing signal"
         },
         {
@@ -5474,7 +5398,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5483,7 +5407,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5492,7 +5416,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-03-07T22:20:51.606Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5501,7 +5425,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-03-07T03:59:18.882Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -5573,7 +5497,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-07T23:20:20.889Z",
+            "lastScan": "2026-03-08T01:54:35.934Z",
             "note": null
         },
         {
@@ -7033,6 +6957,114 @@
             ],
             "companies": [
                 "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-006",
+            "title": "Pragmatic Play ICE 2026 Roadmap",
+            "subtitle": "150+ live tables, progressive tumbling multipliers, Brazil studio",
+            "category": "iGaming",
+            "tags": [
+                "Slots",
+                "Live Casino",
+                "Localization"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Pragmatic Play",
+                "url": "https://pragmaticplay.com/en/news/pragmatic-play-ice-2026-roadmap",
+                "date": "2026-02-22"
+            },
+            "whatsNew": "Zeus vs Hades GoW 250, Sugar Rush Super Scatter, 150+ live tables, Brazil/Serbia/Colombia studios.",
+            "whyItMatters": "Market-specific localization at unprecedented scale.",
+            "howToUse": "Study localization strategies.",
+            "beneficiaries": [
+                "Game Designers",
+                "Animators"
+            ],
+            "companies": [
+                "Pragmatic Play"
+            ],
+            "visualStyle": {
+                "theme": "Greek Mythology",
+                "motifs": [
+                    "Lightning",
+                    "Gold",
+                    "Gods",
+                    "Temples"
+                ],
+                "palette": [
+                    "#1a0a3e",
+                    "#ffd700",
+                    "#4169e1",
+                    "#2d1b69"
+                ]
+            },
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-011",
+            "title": "Tokenized Cross-Platform Loyalty",
+            "subtitle": "Portable digital identities across casino, sports, and beyond",
+            "category": "iGaming",
+            "tags": [
+                "Loyalty",
+                "Tokens",
+                "UX",
+                "Cross-Vertical"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "r/iGaming",
+                "url": "https://reddit.com/r/iGaming",
+                "date": "2026-02-22"
+            },
+            "whatsNew": "Loyalty as portable digital identity. Social gaming elements in real-money platforms.",
+            "whyItMatters": "Breaks walled-garden model.",
+            "howToUse": "Explore token-based loyalty systems.",
+            "beneficiaries": [
+                "Platform Developers",
+                "UX Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-036",
+            "title": "Nano-Banana Prompting Methodology",
+            "subtitle": "Structured AI art prompts: Style + Subject + Environment + Lighting + Mood",
+            "category": "AI",
+            "tags": [
+                "Prompting",
+                "AI Art",
+                "Workflow",
+                "Nano-Banana"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "nanobanana.im / Reddit",
+                "url": "https://nanobanana.im",
+                "date": "2026-02-22"
+            },
+            "whatsNew": "Comprehensive prompting framework: [Style] + [Subject] + [Action/Pose] + [Environment] + [Lighting] + [Mood]. Style transfer, logo generation, character design, moodboard curation.",
+            "whyItMatters": "Standardized prompting = reproducible results. Integrated into Photoshop 2026 Gen Fill.",
+            "howToUse": "Use structured prompts for slot symbol concepting. Generate style-consistent asset libraries.",
+            "beneficiaries": [
+                "Concept Artists",
+                "Art Directors",
+                "Slot Designers"
+            ],
+            "companies": [
+                "Google"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
