@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-09T01:56:00.624Z",
+        "scanDate": "2026-03-09T04:16:19.361Z",
         "version": "2.5.0",
-        "totalTrends": 163,
+        "totalTrends": 162,
         "categories": [
             "iGaming",
             "AI",
@@ -1738,35 +1738,6 @@
             "beneficiaries": [
                 "Gaming Regulators",
                 "Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-80s3lv0zt",
-            "title": "Gaming Regulators",
-            "subtitle": "International Association of Gaming Regulators hosts a member webinar",
-            "category": "iGaming",
-            "tags": [
-                "Gaming",
-                "Regulation",
-                "Webinar"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "IAGR",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10dlVBNVlqc21LVDVPQ0NXWGRmYmNBQWZFUHpKSG9qLW5LYjJDUVlTUHRkekZaTFhaRUxOcHBzSjRfa1pBY1lLX0pPa2Vvek9fVm9UWVdTM2ZTT1EtOU5jQ2ZxRQ?oc=5",
-                "date": "2026-02-23T02:44:38.000Z"
-            },
-            "whatsNew": "The International Association of Gaming Regulators is hosting a webinar for its members. The webinar aims to discuss recent developments in the gaming industry.",
-            "whyItMatters": "This webinar is important for gaming regulators as it provides a platform for discussion and knowledge sharing. It can help shape the future of the gaming industry.",
-            "howToUse": "Attend the webinar to stay updated on the latest trends and regulations in the gaming industry. Participate in the discussion to contribute to the development of the industry.",
-            "beneficiaries": [
-                "Gaming Regulators",
-                "Industry Professionals"
             ],
             "companies": [],
             "visualStyle": null,
@@ -5237,7 +5208,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5256,7 +5227,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5265,7 +5236,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5274,7 +5245,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5293,7 +5264,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5302,7 +5273,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5311,7 +5282,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "Regulatory updates"
         },
         {
@@ -5329,7 +5300,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5338,7 +5309,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5358,7 +5329,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5416,7 +5387,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5425,7 +5396,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5434,7 +5405,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": "Style browsing signal"
         },
         {
@@ -5461,7 +5432,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5470,7 +5441,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5479,7 +5450,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -5560,7 +5531,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T01:56:00.624Z",
+            "lastScan": "2026-03-09T04:16:19.361Z",
             "note": null
         },
         {
@@ -7193,6 +7164,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-80s3lv0zt",
+            "title": "Gaming Regulators",
+            "subtitle": "International Association of Gaming Regulators hosts a member webinar",
+            "category": "iGaming",
+            "tags": [
+                "Gaming",
+                "Regulation",
+                "Webinar"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "IAGR",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10dlVBNVlqc21LVDVPQ0NXWGRmYmNBQWZFUHpKSG9qLW5LYjJDUVlTUHRkekZaTFhaRUxOcHBzSjRfa1pBY1lLX0pPa2Vvek9fVm9UWVdTM2ZTT1EtOU5jQ2ZxRQ?oc=5",
+                "date": "2026-02-23T02:44:38.000Z"
+            },
+            "whatsNew": "The International Association of Gaming Regulators is hosting a webinar for its members. The webinar aims to discuss recent developments in the gaming industry.",
+            "whyItMatters": "This webinar is important for gaming regulators as it provides a platform for discussion and knowledge sharing. It can help shape the future of the gaming industry.",
+            "howToUse": "Attend the webinar to stay updated on the latest trends and regulations in the gaming industry. Participate in the discussion to contribute to the development of the industry.",
+            "beneficiaries": [
+                "Gaming Regulators",
+                "Industry Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
