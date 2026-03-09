@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-09T07:01:29.554Z",
+        "scanDate": "2026-03-09T08:41:16.019Z",
         "version": "2.5.0",
-        "totalTrends": 163,
+        "totalTrends": 161,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0lx35ewa0",
@@ -389,37 +389,6 @@
             "beneficiaries": [
                 "Artists",
                 "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-fgjwyotm0",
-            "title": "GonzaLomo Chroma",
-            "subtitle": "Civitai releases GonzaLomo Chroma v3.0, a checkpoint for AI art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Chroma",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53alZKRlhPYV9DNDRVdVFIcnhGc1d6SEJ2NWcwcTRvVTROZVlJMHY0VWd4MmVOTE1JanRkdlZuX1hYY2drNjlaZmVNWWRKVlhibGF0NE5MOUJscVAxdE1kWg?oc=5",
-                "date": "2026-02-23T08:00:00.000Z"
-            },
-            "whatsNew": "GonzaLomo Chroma v3.0 is a new checkpoint release for AI art generation, offering improved capabilities for creating art. This update is part of the ongoing development in AI art tools. The release is specifically designed for use with the Civitai platform.",
-            "whyItMatters": "This update matters because it reflects the continuous advancement in AI art generation, providing users with more sophisticated tools for creative work. It also underscores Civitai's role in the development and dissemination of AI technology for art creation.",
-            "howToUse": "To leverage GonzaLomo Chroma v3.0, users can access the Civitai platform, where they can utilize the checkpoint for generating art with enhanced features and capabilities. This involves understanding the parameters and settings provided by the checkpoint to produce desired artistic outcomes.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
             ],
             "companies": [
                 "Civitai"
@@ -1411,37 +1380,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-xagfqh93l",
-            "title": "Accessible Video",
-            "subtitle": "Synthesia shares 12 ways to make video content more accessible",
-            "category": "AI",
-            "tags": [
-                "Video Tools",
-                "Accessibility",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M0lidzJNNEtUOF9yOGRKbGZnenJLdDdvWjhnLWNwMk5YQVp2THpUZ0RrQ2Fjc0hoa3hpcnlvMXNSWW5pTlYzbzlieEM1OGZSX3NnUkc4emNadw?oc=5",
-                "date": "2026-02-23T08:00:00.000Z"
-            },
-            "whatsNew": "Synthesia highlights the importance of accessibility in video content, providing 12 methods to achieve it. These methods include using clear audio, providing transcripts, and incorporating AI-generated subtitles. The focus is on making video content inclusive for all viewers.",
-            "whyItMatters": "Accessible video content is crucial for reaching a broader audience, including those with disabilities. It also enhances the overall viewing experience and complies with accessibility regulations.",
-            "howToUse": "Content creators can utilize AI tools like Synthesia to generate subtitles, translate audio, and improve video accessibility. They should also consider incorporating clear navigation, high contrast visuals, and closed captions.",
-            "beneficiaries": [
-                "Content Creators",
-                "Viewers with Disabilities"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -5239,7 +5177,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": null
         },
         {
@@ -5258,7 +5196,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": null
         },
         {
@@ -5267,7 +5205,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": null
         },
         {
@@ -5276,7 +5214,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": null
         },
         {
@@ -5295,7 +5233,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5304,7 +5242,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5313,7 +5251,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": "Regulatory updates"
         },
         {
@@ -5331,7 +5269,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5340,7 +5278,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5360,7 +5298,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5418,7 +5356,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5427,7 +5365,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5463,7 +5401,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": null
         },
         {
@@ -5562,7 +5500,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T07:01:29.554Z",
+            "lastScan": "2026-03-09T08:41:16.019Z",
             "note": null
         },
         {
@@ -7224,6 +7162,68 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-fgjwyotm0",
+            "title": "GonzaLomo Chroma",
+            "subtitle": "Civitai releases GonzaLomo Chroma v3.0, a checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Chroma",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53alZKRlhPYV9DNDRVdVFIcnhGc1d6SEJ2NWcwcTRvVTROZVlJMHY0VWd4MmVOTE1JanRkdlZuX1hYY2drNjlaZmVNWWRKVlhibGF0NE5MOUJscVAxdE1kWg?oc=5",
+                "date": "2026-02-23T08:00:00.000Z"
+            },
+            "whatsNew": "GonzaLomo Chroma v3.0 is a new checkpoint release for AI art generation, offering improved capabilities for creating art. This update is part of the ongoing development in AI art tools. The release is specifically designed for use with the Civitai platform.",
+            "whyItMatters": "This update matters because it reflects the continuous advancement in AI art generation, providing users with more sophisticated tools for creative work. It also underscores Civitai's role in the development and dissemination of AI technology for art creation.",
+            "howToUse": "To leverage GonzaLomo Chroma v3.0, users can access the Civitai platform, where they can utilize the checkpoint for generating art with enhanced features and capabilities. This involves understanding the parameters and settings provided by the checkpoint to produce desired artistic outcomes.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-xagfqh93l",
+            "title": "Accessible Video",
+            "subtitle": "Synthesia shares 12 ways to make video content more accessible",
+            "category": "AI",
+            "tags": [
+                "Video Tools",
+                "Accessibility",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M0lidzJNNEtUOF9yOGRKbGZnenJLdDdvWjhnLWNwMk5YQVp2THpUZ0RrQ2Fjc0hoa3hpcnlvMXNSWW5pTlYzbzlieEM1OGZSX3NnUkc4emNadw?oc=5",
+                "date": "2026-02-23T08:00:00.000Z"
+            },
+            "whatsNew": "Synthesia highlights the importance of accessibility in video content, providing 12 methods to achieve it. These methods include using clear audio, providing transcripts, and incorporating AI-generated subtitles. The focus is on making video content inclusive for all viewers.",
+            "whyItMatters": "Accessible video content is crucial for reaching a broader audience, including those with disabilities. It also enhances the overall viewing experience and complies with accessibility regulations.",
+            "howToUse": "Content creators can utilize AI tools like Synthesia to generate subtitles, translate audio, and improve video accessibility. They should also consider incorporating clear navigation, high contrast visuals, and closed captions.",
+            "beneficiaries": [
+                "Content Creators",
+                "Viewers with Disabilities"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
