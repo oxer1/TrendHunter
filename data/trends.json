@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-09T21:30:09.003Z",
+        "scanDate": "2026-03-09T22:25:47.082Z",
         "version": "2.5.0",
-        "totalTrends": 170,
+        "totalTrends": 171,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-72qo6zpki",
+            "title": "Game Dev Union",
+            "subtitle": "Heart Machine workers secure voluntary union recognition to protect their work",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Unionization",
+                "Worker Rights"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-if-we-love-this-work-we-have-to-protect-it-heart-machine-workers-secure-voluntary-union-recognition",
+                "date": "2026-03-09T13:00:01.000Z"
+            },
+            "whatsNew": "Heart Machine workers have secured voluntary union recognition, a move aimed at protecting their work and ensuring they can continue to deliver their best. This is part of a broader trend of unionization in the game development industry. The recognition is seen as a significant step towards improving working conditions and job security.",
+            "whyItMatters": "This move matters because it sets a precedent for other game development studios and highlights the importance of worker rights and protections in the industry. It also demonstrates the growing awareness among workers of the need for collective action to safeguard their interests.",
+            "howToUse": "Game developers and industry professionals can use this as an example to consider unionization as a means to protect their work and improve working conditions. Studios can also learn from Heart Machine's approach to recognizing and supporting worker unions.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Workers"
+            ],
+            "companies": [
+                "Heart Machine"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-s34c3us8u",
             "title": "Game Funding Lessons",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-yuo3blesg",
@@ -5461,7 +5492,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T21:30:09.003Z",
+            "lastScan": "2026-03-09T22:25:47.082Z",
             "note": null
         },
         {
@@ -5480,7 +5511,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T21:30:09.003Z",
+            "lastScan": "2026-03-09T22:25:47.082Z",
             "note": null
         },
         {
@@ -5489,7 +5520,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T21:30:09.003Z",
+            "lastScan": "2026-03-09T22:25:47.082Z",
             "note": null
         },
         {
