@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-09T12:57:19.516Z",
+        "scanDate": "2026-03-09T14:06:43.988Z",
         "version": "2.5.0",
-        "totalTrends": 166,
+        "totalTrends": 167,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-e5kl2ov2k",
+            "title": "Dutch Tax Policy",
+            "subtitle": "Dutch tax policy may cost €43.5m in annual revenue due to rising taxes pushing players to unlicensed markets",
+            "category": "iGaming",
+            "tags": [
+                "Dutch market",
+                "tax revenue",
+                "regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/unwise-tax-policy-costing-dutch-market-revenue/",
+                "date": "2026-03-09T13:49:47.000Z"
+            },
+            "whatsNew": "The Dutch market is expected to lose €43.5m in annual tax revenue due to rising taxes. Operators claim this policy is pushing players to unlicensed markets.",
+            "whyItMatters": "This loss in tax revenue could impact the Dutch government's ability to regulate the market effectively. It also highlights the need for a balanced approach to taxation in the iGaming industry.",
+            "howToUse": "Operators and regulators should work together to find a taxation balance that encourages licensed operators while minimizing the appeal of unlicensed markets.",
+            "beneficiaries": [
+                "Licensed operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-k9qmvychk",
             "title": "Greentube Expansion",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xsuhnh98k",
@@ -81,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dhy8z8724",
@@ -114,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5837kbxxh",
@@ -5336,7 +5365,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T12:57:19.516Z",
+            "lastScan": "2026-03-09T14:06:43.988Z",
             "note": null
         },
         {
@@ -5355,7 +5384,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T12:57:19.516Z",
+            "lastScan": "2026-03-09T14:06:43.988Z",
             "note": null
         },
         {
@@ -5364,7 +5393,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T12:57:19.516Z",
+            "lastScan": "2026-03-09T14:06:43.988Z",
             "note": null
         },
         {
