@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T20:30:47.915Z",
+        "scanDate": "2026-03-10T21:27:06.789Z",
         "version": "2.5.0",
-        "totalTrends": 186,
+        "totalTrends": 187,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-utoimu0cf",
+            "title": "Scopely Revenue",
+            "subtitle": "Scopely reaches $15 billion in lifetime revenue with 150 billion hours of playtime",
+            "category": "Tech",
+            "tags": [
+                "Scopely",
+                "Mobile Gaming",
+                "Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/scopely-hits-15-billion-in-lifetime-revenue",
+                "date": "2026-03-10T19:32:20.000Z"
+            },
+            "whatsNew": "Scopely has achieved a significant milestone of $15 billion in lifetime revenue. The company also boasts an impressive 150 billion hours of playtime.",
+            "whyItMatters": "This achievement highlights the growing success of mobile gaming and Scopely's position as a leader in the industry. It demonstrates the potential for substantial revenue in the mobile gaming sector.",
+            "howToUse": "Game developers can take note of Scopely's success and consider strategies to increase player engagement and retention in their own games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Scopely"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-bbmbwrn7g",
             "title": "AI Rejection",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jcr67a137",
@@ -5951,7 +5982,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T20:30:47.915Z",
+            "lastScan": "2026-03-10T21:27:06.789Z",
             "note": null
         },
         {
@@ -5970,7 +6001,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T20:30:47.915Z",
+            "lastScan": "2026-03-10T21:27:06.789Z",
             "note": null
         },
         {
