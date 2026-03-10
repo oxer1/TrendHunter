@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T01:48:45.111Z",
+        "scanDate": "2026-03-10T04:07:40.520Z",
         "version": "2.5.0",
-        "totalTrends": 173,
+        "totalTrends": 176,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-b3hbelcz5",
+            "title": "Better Collective Shift",
+            "subtitle": "Chair of Better Collective to step down as reported by EGR North America",
+            "category": "iGaming",
+            "tags": [
+                "Better Collective",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUW5xenVfUVB0dF8wWklkQ05yaTFQZ2RDZDFDci1XQjU4Z3FNbzEzZ2JRWTNvTExjSjIzOHdfMVhqVENxLWYzT254YWwyb3hFWGdzRmFjcy10VzFZU1J1RFpyM1UzQTZwcHNTTzBUVXN5emloMHVhZ3NDZw?oc=5",
+                "date": "2026-03-03T12:47:23.000Z"
+            },
+            "whatsNew": "The chair of Better Collective is stepping down, marking a change in leadership for the company. This move may have implications for the company's future direction and strategy. The news was reported by EGR North America.",
+            "whyItMatters": "The change in leadership could impact Better Collective's position in the iGaming industry and its ability to adapt to regulatory changes and market trends.",
+            "howToUse": "Companies in the iGaming sector should monitor the situation and consider how the change might affect their own operations and partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Better Collective"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-smrsyqljl",
+            "title": "AI Image Editing",
+            "subtitle": "Civitai releases Z-Image Fun Distill Lora, a new AI image editing tool",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Editing",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWnpsWXZjYUMzVS1mSFozN20tWXR1bW50WGtXTDFnakd4dWtQYjFmZkZjWlh1aXlqZ0FweUdLOHIzREF0RjgwbVEzUEQ4dkV2X2ZpYUhjZ2J6UWI2WXBZVXgweVduUWs0dFRj?oc=5",
+                "date": "2026-03-03T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Z-Image Fun Distill Lora, a new AI-powered image editing tool. This tool utilizes LoRA technology for advanced image manipulation. The tool is part of the ZImageBase LoRA series.",
+            "whyItMatters": "The release of Z-Image Fun Distill Lora demonstrates the growing capabilities of AI in creative fields, particularly in image editing and generation. This can significantly impact the visual design and art industries.",
+            "howToUse": "Users can leverage Z-Image Fun Distill Lora for editing and generating images by accessing it through Civitai's platform, applying the LoRA model for detailed and realistic outcomes.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-at8nx6fed",
+            "title": "LTX-2 Update",
+            "subtitle": "Civitai releases LTX-2.3 and LTXV2 workflows for image audio to video conversion",
+            "category": "AI",
+            "tags": [
+                "LTX-2",
+                "Image Audio",
+                "Video Conversion",
+                "Civitai",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WjJKRE93RzFiYVFXWVZ4TnBJY05kcThIUHd3QkZCUHFMLUJENUVtSDN2Z1NLRVZUX1NadlNXMTAtSWJSc2c2NS13?oc=5",
+                "date": "2026-03-05T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced LTX-2.3 and LTXV2 workflows, enhancing image audio to video conversion capabilities. This update improves upon previous versions, offering more efficient and possibly higher quality conversions. The specifics of these enhancements are not detailed but imply a continued advancement in AI-powered media conversion.",
+            "whyItMatters": "This update matters because it signifies ongoing development in AI-powered media conversion tools, which can be crucial for content creators and the gaming industry. Improved conversion capabilities can lead to more engaging and immersive experiences.",
+            "howToUse": "Content creators can utilize LTX-2.3 and LTXV2 workflows by integrating them into their existing pipelines for converting image audio into video, potentially streamlining their production processes and enhancing output quality.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-8mt8yaa6z",
             "title": "iGaming Flocks Edinburgh",
@@ -47,7 +141,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vookgd927",
@@ -78,7 +172,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xp0wych23",
@@ -109,7 +203,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-khf8u58gr",
@@ -140,7 +234,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-72qo6zpki",
@@ -5547,7 +5641,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": null
         },
         {
@@ -5566,7 +5660,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": null
         },
         {
@@ -5575,7 +5669,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": null
         },
         {
@@ -5584,7 +5678,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": null
         },
         {
@@ -5603,7 +5697,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5612,7 +5706,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T11:33:31.395Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5621,7 +5715,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T11:33:31.395Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": "Regulatory updates"
         },
         {
@@ -5639,7 +5733,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T11:33:31.395Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5648,7 +5742,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-09T11:33:31.395Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5668,7 +5762,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-09T11:33:31.395Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5771,7 +5865,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": null
         },
         {
@@ -5870,7 +5964,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T01:48:45.111Z",
+            "lastScan": "2026-03-10T04:07:40.520Z",
             "note": null
         },
         {
