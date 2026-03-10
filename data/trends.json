@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T19:36:49.453Z",
+        "scanDate": "2026-03-10T20:30:47.915Z",
         "version": "2.5.0",
-        "totalTrends": 185,
+        "totalTrends": 186,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-bbmbwrn7g",
+            "title": "AI Rejection",
+            "subtitle": "Outersloth rejects all generative AI pitches due to lack of soul in games",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "Indie Funding"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/indie-fund-outersloth-has-rejected-every-generative-ai-pitch-it-has-received",
+                "date": "2026-03-10T19:48:37.000Z"
+            },
+            "whatsNew": "Outersloth, an indie fund, has rejected every generative AI pitch it received, citing a preference for games with soul. This indicates a potential shift in the gaming industry towards more human-centric game development. The fund's stance may influence other investors to prioritize soulful games over those relying heavily on AI generation.",
+            "whyItMatters": "This rejection highlights the importance of human touch and creativity in game development, potentially impacting the adoption of generative AI in the industry. It may also lead to more innovative, soulful games being developed with a focus on human emotion and connection.",
+            "howToUse": "Game developers can focus on creating games with unique, human-centric elements to increase their chances of securing funding from investors like Outersloth. This involves emphasizing storytelling, characters, and gameplay that evoke emotions and create a sense of connection with players.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Outersloth"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-jcr67a137",
             "title": "Kalshi Expands",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1i0zqih5m",
@@ -5920,7 +5951,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T19:36:49.453Z",
+            "lastScan": "2026-03-10T20:30:47.915Z",
             "note": null
         },
         {
@@ -5939,7 +5970,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T19:36:49.453Z",
+            "lastScan": "2026-03-10T20:30:47.915Z",
             "note": null
         },
         {
