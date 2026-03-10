@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T14:00:24.835Z",
+        "scanDate": "2026-03-10T15:01:28.846Z",
         "version": "2.5.0",
-        "totalTrends": 180,
+        "totalTrends": 181,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qcutekqmn",
+            "title": "AI Gaming Tech",
+            "subtitle": "Sumo Digital partners with Arm to test AI-powered neural graphics tech for mobile gaming",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Gaming",
+                "Neural Graphics",
+                "Mobile Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/sumo-digital-partners-with-arm-to-test-ai-powered-neural-graphics-tech",
+                "date": "2026-03-10T14:33:01.000Z"
+            },
+            "whatsNew": "Sumo Digital is partnering with Arm to test AI-powered neural graphics technology, aiming to bring PC-class gaming to mobile platforms. This collaboration could significantly enhance mobile gaming capabilities. The use of AI in graphics processing is a novel approach.",
+            "whyItMatters": "This partnership could revolutionize mobile gaming by providing high-quality, PC-class gaming experiences on mobile devices, leveraging AI for enhanced graphics. It showcases the growing importance of AI in the gaming industry.",
+            "howToUse": "Game developers can explore integrating AI-powered neural graphics into their projects to improve performance and visuals on mobile platforms. This technology can be particularly useful for developers looking to optimize their games for lower-end hardware.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [
+                "Sumo Digital",
+                "Arm"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-qkihw28q2",
             "title": "Romania iGaming",
@@ -49,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-q66gb5np9",
@@ -5759,7 +5792,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T14:00:24.835Z",
+            "lastScan": "2026-03-10T15:01:28.846Z",
             "note": null
         },
         {
@@ -5778,7 +5811,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T14:00:24.835Z",
+            "lastScan": "2026-03-10T15:01:28.846Z",
             "note": null
         },
         {
@@ -5787,7 +5820,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T14:00:24.835Z",
+            "lastScan": "2026-03-10T15:01:28.846Z",
             "note": null
         },
         {
