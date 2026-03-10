@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T11:31:11.391Z",
+        "scanDate": "2026-03-10T12:55:10.309Z",
         "version": "2.5.0",
-        "totalTrends": 177,
+        "totalTrends": 179,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-q66gb5np9",
+            "title": "MLS Bans Players",
+            "subtitle": "Former MLS players banned for life due to betting on their own matches",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "MLS",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/mls-players-lifetime-ban-betting-own-matches/",
+                "date": "2026-03-10T11:47:44.000Z"
+            },
+            "whatsNew": "Two former MLS players have been issued lifetime bans for violating the league's gambling policy by betting on their own matches. This move highlights the strict stance of sports leagues against insider betting.",
+            "whyItMatters": "The bans demonstrate the severe consequences of betting on one's own matches, emphasizing the importance of integrity in sports. This could lead to increased scrutiny and stricter regulations in the sports betting industry.",
+            "howToUse": "Leagues and regulatory bodies can use this as a precedent to enforce stricter betting policies and monitor player activities more closely.",
+            "beneficiaries": [
+                "Sports Leagues",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-guyqljtff",
+            "title": "KSA Fines Novatech",
+            "subtitle": "Netherlands Gambling Authority issues record fine to unlicensed operator",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Licensing",
+                "Fines"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ksa-issues-record-eur25m-fine-novatech/",
+                "date": "2026-03-10T11:45:55.000Z"
+            },
+            "whatsNew": "The Netherlands Gambling Authority has issued a record fine of €24.9m to Novatech for operating without a license. The fine is the largest issued by the KSA to date.",
+            "whyItMatters": "This fine highlights the KSA's commitment to enforcing regulations and protecting consumers in the Netherlands. It also serves as a warning to other unlicensed operators.",
+            "howToUse": "Operators should ensure they are properly licensed to avoid similar fines and reputational damage.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Consumers"
+            ],
+            "companies": [
+                "Novatech"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-7u2fvkf37",
             "title": "BGaming Turns 8",
@@ -49,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kwa3kal77",
@@ -78,7 +138,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tzr6wgj8g",
@@ -5668,7 +5728,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T11:31:11.391Z",
+            "lastScan": "2026-03-10T12:55:10.309Z",
             "note": null
         },
         {
@@ -5687,7 +5747,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T11:31:11.391Z",
+            "lastScan": "2026-03-10T12:55:10.309Z",
             "note": null
         },
         {
@@ -5696,7 +5756,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T11:31:11.391Z",
+            "lastScan": "2026-03-10T12:55:10.309Z",
             "note": null
         },
         {
