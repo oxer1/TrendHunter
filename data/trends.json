@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T22:26:13.369Z",
+        "scanDate": "2026-03-10T23:25:38.341Z",
         "version": "2.5.0",
-        "totalTrends": 187,
+        "totalTrends": 188,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9ffha2sij",
+            "title": "RNG in Games",
+            "subtitle": "Understanding RNG as an equalizer in game development",
+            "category": "Tech",
+            "tags": [
+                "RNG",
+                "Game Development",
+                "Fairness"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/this-is-how-the-rng-works-as-an-equalizer-in-dispatch",
+                "date": "2026-03-10T22:16:34.000Z"
+            },
+            "whatsNew": "The article discusses how Random Number Generators (RNG) work as an equalizer in games, ensuring fairness and unpredictability. RNG plays a crucial role in determining outcomes, making games more engaging and exciting. The concept of RNG is vital in the iGaming industry, particularly in casino and sports betting platforms.",
+            "whyItMatters": "RNG is essential for maintaining fairness and trust in online gaming, directly impacting player satisfaction and retention. Its proper implementation is critical for game developers and iGaming operators to ensure compliance with regulatory standards.",
+            "howToUse": "Game developers can utilize RNG algorithms to create more realistic and unpredictable gameplay experiences, while iGaming operators must ensure their RNG systems are audited and certified to meet regulatory requirements.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-utoimu0cf",
             "title": "Scopely Revenue",
@@ -5982,7 +6011,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T22:26:13.369Z",
+            "lastScan": "2026-03-10T23:25:38.341Z",
             "note": null
         },
         {
@@ -6001,7 +6030,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T22:26:13.369Z",
+            "lastScan": "2026-03-10T23:25:38.342Z",
             "note": null
         },
         {
