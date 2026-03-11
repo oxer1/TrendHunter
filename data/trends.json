@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T15:44:44.703Z",
+        "scanDate": "2026-03-11T16:49:00.418Z",
         "version": "2.5.0",
-        "totalTrends": 187,
+        "totalTrends": 191,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,128 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pfx0pb6il",
+            "title": "Split Fiction",
+            "subtitle": "The final level concept of Split Fiction was originally meant for the whole game, but worked better as a finale",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Level Design"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/split-fiction-s-final-level-concept-was-originally-meant-for-the-whole-game",
+                "date": "2026-03-11T16:19:54.000Z"
+            },
+            "whatsNew": "The final level of Split Fiction was initially intended to be the core concept for the entire game, but ultimately served as a climactic finale. This shift in design highlights the importance of flexibility in game development. The level's unique, mind-bending mechanics added a new layer of depth to the game's narrative.",
+            "whyItMatters": "This design decision showcases the iterative process of game development, where ideas can evolve over time to better serve the game's overall vision. It also underscores the value of saving the most impactful experiences for the game's conclusion.",
+            "howToUse": "Game developers can apply this lesson by remaining open to changing their design concepts as the game progresses, and saving the most innovative mechanics for the most impactful moments.",
+            "beneficiaries": [
+                "Game Developers",
+                "Level Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-qzl0ovs18",
+            "title": "Unreal Engine",
+            "subtitle": "Expedition 33 built mostly with Unreal Engine Blueprints",
+            "category": "Tech",
+            "tags": [
+                "Unreal Engine",
+                "Game Development",
+                "Blueprints"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-built-95-percent-with-unreal-blueprints",
+                "date": "2026-03-11T16:13:46.000Z"
+            },
+            "whatsNew": "Sandfall Interactive used Unreal Engine Blueprints to build Expedition 33, with 95 percent of the game made using this visual scripting system. This approach allowed the team to stay on track and work efficiently.",
+            "whyItMatters": "The use of Unreal Engine Blueprints demonstrates the power of visual scripting in game development, enabling developers to create complex gameplay mechanics without extensive coding knowledge. This can increase productivity and accessibility in the game development process.",
+            "howToUse": "Developers can leverage Unreal Engine Blueprints to streamline their game development workflow, focusing on design and creativity rather than coding. By using Blueprints, teams can also collaborate more effectively and make changes quickly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Sandfall Interactive",
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
+        {
+            "id": "t-0ozxcp3ee",
+            "title": "Steam Revenue",
+            "subtitle": "Valve reports 5,863 titles earned over $100,000 on Steam in 2025",
+            "category": "Tech",
+            "tags": [
+                "Steam",
+                "Revenue",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/valve-says-5-836-titles-earned-over-100-000-on-steam-in-2025",
+                "date": "2026-03-11T16:04:38.000Z"
+            },
+            "whatsNew": "Steam has seen significant revenue growth with 5,863 titles earning over $100,000 in 2025. The platform also reached 42 million peak concurrent users.",
+            "whyItMatters": "This growth indicates a thriving PC gaming market, benefiting game developers and the industry as a whole.",
+            "howToUse": "Developers can capitalize on this trend by optimizing their games for Steam and focusing on community engagement.",
+            "beneficiaries": [
+                "Game Developers",
+                "PC Gamers"
+            ],
+            "companies": [
+                "Valve"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-gh9wyvbyn",
+            "title": "Bossfight Relaunch",
+            "subtitle": "Original founders of Bossfight Entertainment relaunch studio after Netflix shutdown",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Studio News"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/original-founders-of-bossfight-entertainment-relaunch-studio",
+                "date": "2026-03-11T14:25:43.000Z"
+            },
+            "whatsNew": "The original founders of Bossfight Entertainment are relaunching the studio after it was shut down by Netflix in October last year. This move indicates a resurgence of interest in game development. The studio's relaunch may lead to new game releases and job opportunities.",
+            "whyItMatters": "The relaunch of Bossfight Entertainment is significant for the game development industry as it shows that even after a shutdown, talented founders can revive their studios and continue creating games. This move may inspire other developers and lead to innovation in the industry.",
+            "howToUse": "Game developers and industry professionals can keep an eye on Bossfight Entertainment's relaunch for potential job opportunities or collaborations. The studio's revival may also lead to new game releases that can be studied for trends and inspiration.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Professionals"
+            ],
+            "companies": [
+                "Bossfight Entertainment",
+                "Netflix"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-s4sb6zumw",
             "title": "Capcom Union Dispute",
@@ -50,7 +172,7 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-spoaszymt",
@@ -80,7 +202,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bj6y055l0",
@@ -5961,7 +6083,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T15:44:44.703Z",
+            "lastScan": "2026-03-11T16:49:00.418Z",
             "note": null
         },
         {
@@ -5980,7 +6102,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T15:44:44.703Z",
+            "lastScan": "2026-03-11T16:49:00.418Z",
             "note": null
         },
         {
