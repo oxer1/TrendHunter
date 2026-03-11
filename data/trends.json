@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-10T23:25:38.341Z",
+        "scanDate": "2026-03-11T01:48:38.372Z",
         "version": "2.5.0",
-        "totalTrends": 188,
+        "totalTrends": 182,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-utoimu0cf",
@@ -5432,40 +5432,6 @@
             "isNew": false
         },
         {
-            "id": "t-001",
-            "title": "Agentic AI Bookie Movement",
-            "subtitle": "ChatBet deploys multi-agent AI inside WhatsApp & Telegram",
-            "category": "iGaming",
-            "tags": [
-                "AI",
-                "UX",
-                "Messaging",
-                "Retention",
-                "Disruption"
-            ],
-            "trendStrength": 5,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://igamingbusiness.com/sports-betting/online-sports-betting/ux-messaging-app-betting-chatbet/",
-                "date": "2026-02-25"
-            },
-            "whatsNew": "Multi-agent AI architecture in WhatsApp & Telegram. Intent engine, bet builder, risk optimizer, compliance layer, engagement agent. Ecuador pilot: 281 daily sign-ups vs 42, transactions up 3,700%.",
-            "whyItMatters": "3rd wave of betting UX. Lower avg bet but higher frequency — sustainable model.",
-            "howToUse": "Pilot messaging-app betting channels. Explore conversational AI for casino engagement.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "UX Designers",
-                "Retention Teams"
-            ],
-            "companies": [
-                "ChatBet"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-004",
             "title": "AI-Driven Bonus Abuse Detection",
             "subtitle": "EveryMatrix Bonus Guardian uses behavioral ML",
@@ -5663,50 +5629,6 @@
             "isNew": false
         },
         {
-            "id": "t-010",
-            "title": "Thunderkick Gamification Focus",
-            "subtitle": "Story-based rewards, Inwinity Spin, 14,000x progression",
-            "category": "iGaming",
-            "tags": [
-                "Gamification",
-                "Storytelling",
-                "Progression"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Thunderkick",
-                "url": "https://thunderkick.com/news/gamification-focus-inwinity-spin",
-                "date": "2026-02-25"
-            },
-            "whatsNew": "Story-based reward arcs, Inwinity Spin guaranteed final win, 14,000x target.",
-            "whyItMatters": "Narrative-driven progression rare in slots.",
-            "howToUse": "Study story-based reward arcs.",
-            "beneficiaries": [
-                "Game Designers",
-                "Narrative Designers"
-            ],
-            "companies": [
-                "Thunderkick"
-            ],
-            "visualStyle": {
-                "theme": "Whimsical / Dark Fantasy",
-                "motifs": [
-                    "Skulls",
-                    "Music",
-                    "Organic Forms"
-                ],
-                "palette": [
-                    "#2d1f0e",
-                    "#c8a25c",
-                    "#8b4513",
-                    "#daa520"
-                ]
-            },
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-013",
             "title": "Qwen3.5 Dominates Local AI",
             "subtitle": "122B on 3x3090s, 35B MoE generates games from prompts",
@@ -5739,71 +5661,6 @@
             "isNew": false
         },
         {
-            "id": "t-019",
-            "title": "X/Twitter AI Image Edit Controversy",
-            "subtitle": "Any user can AI-edit any posted image — artists outraged",
-            "category": "Community",
-            "tags": [
-                "Controversy",
-                "AI Ethics",
-                "Artists Rights",
-                "X/Twitter"
-            ],
-            "trendStrength": 5,
-            "velocity": "rising",
-            "source": {
-                "name": "X / CreativeBloq",
-                "url": "https://creativebloq.com",
-                "date": "2026-02-25"
-            },
-            "whatsNew": "X enables AI editing of ANY image by ANY user with one click. No opt-out. Glaze/Nightshade ineffective. Artists considering leaving platform.",
-            "whyItMatters": "Fundamental shift in image ownership on social platforms. Could accelerate artist migration to alternative platforms.",
-            "howToUse": "Monitor artist platform migration. Consider alternative channels for art community engagement.",
-            "beneficiaries": [
-                "Artists",
-                "Platform Strategists"
-            ],
-            "companies": [
-                "X/Twitter"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
-            "id": "t-021",
-            "title": "ComfyUI + Flux/WAN AI Art Stack",
-            "subtitle": "Community-validated: image gen, editing, video — all local",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "ComfyUI",
-                "Flux",
-                "WAN",
-                "Local AI"
-            ],
-            "trendStrength": 5,
-            "velocity": "rising",
-            "source": {
-                "name": "r/StableDiffusion",
-                "url": "https://reddit.com/r/StableDiffusion",
-                "date": "2026-02-25"
-            },
-            "whatsNew": "Stack: ComfyUI + Z-image Turbo + Flux2-Klein + Qwen Edit + WAN 2.2 + LTX2.",
-            "whyItMatters": "AI art matured into standardized pro pipelines.",
-            "howToUse": "Adopt for concept art, textures, marketing, slot themes.",
-            "beneficiaries": [
-                "Concept Artists",
-                "Texture Artists"
-            ],
-            "companies": [
-                "Comfy.org"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-023",
             "title": "Vite v8 Beta & Cloudflare Vinext",
             "subtitle": "Universal build tool, Next.js API re-implemented",
@@ -5833,67 +5690,6 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
-            "id": "t-024",
-            "title": "WASM Beyond Browser",
-            "subtitle": "WASI 0.3, Component Model, edge/IoT execution",
-            "category": "Tech",
-            "tags": [
-                "WebAssembly",
-                "WASI",
-                "Edge",
-                "Cross-Platform"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "GitHub",
-                "url": "https://github.com",
-                "date": "2026-02-25"
-            },
-            "whatsNew": "5.5% Chrome adoption. WASI 0.3 + Component Model. Branch Hinting landing.",
-            "whyItMatters": "WASM-based game engines target web/mobile/server from one codebase.",
-            "howToUse": "Evaluate WASM for cross-platform game logic.",
-            "beneficiaries": [
-                "Engine Developers",
-                "Platform Architects"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
-            "id": "t-028",
-            "title": "WASM RNG & Certified Slot Math Engines",
-            "subtitle": "WebAssembly for near-native probability computation",
-            "category": "Tech",
-            "tags": [
-                "WASM",
-                "RNG",
-                "Game Math",
-                "Certification"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "GitHub",
-                "url": "https://github.com",
-                "date": "2026-02-25"
-            },
-            "whatsNew": "WASM math libraries (gmath, multimath) for GPU-accelerated computation. Certified RNG repos (gamblingtec-rng) passing die-hard testing. Provably fair blockchain RNG via Chainlink VRF.",
-            "whyItMatters": "WASM enables certified RNG to run client-side while maintaining audit trail. Near-native perf for complex probability math without server round-trips.",
-            "howToUse": "Evaluate WASM for client-side math engines. Test certified RNG libraries against regulatory requirements.",
-            "beneficiaries": [
-                "Slot Developers",
-                "Compliance Teams",
-                "Math Engineers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ],
@@ -6011,7 +5807,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T23:25:38.341Z",
+            "lastScan": "2026-03-11T01:48:38.372Z",
             "note": null
         },
         {
@@ -6030,7 +5826,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T23:25:38.342Z",
+            "lastScan": "2026-03-11T01:48:38.372Z",
             "note": null
         },
         {
@@ -6039,7 +5835,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T22:26:13.369Z",
+            "lastScan": "2026-03-11T01:48:38.372Z",
             "note": null
         },
         {
@@ -6048,7 +5844,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T10:36:47.438Z",
+            "lastScan": "2026-03-11T01:48:38.372Z",
             "note": null
         },
         {
@@ -6235,7 +6031,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T10:36:47.438Z",
+            "lastScan": "2026-03-11T01:48:38.372Z",
             "note": null
         },
         {
@@ -8219,6 +8015,210 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-001",
+            "title": "Agentic AI Bookie Movement",
+            "subtitle": "ChatBet deploys multi-agent AI inside WhatsApp & Telegram",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "UX",
+                "Messaging",
+                "Retention",
+                "Disruption"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://igamingbusiness.com/sports-betting/online-sports-betting/ux-messaging-app-betting-chatbet/",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "Multi-agent AI architecture in WhatsApp & Telegram. Intent engine, bet builder, risk optimizer, compliance layer, engagement agent. Ecuador pilot: 281 daily sign-ups vs 42, transactions up 3,700%.",
+            "whyItMatters": "3rd wave of betting UX. Lower avg bet but higher frequency — sustainable model.",
+            "howToUse": "Pilot messaging-app betting channels. Explore conversational AI for casino engagement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "UX Designers",
+                "Retention Teams"
+            ],
+            "companies": [
+                "ChatBet"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-010",
+            "title": "Thunderkick Gamification Focus",
+            "subtitle": "Story-based rewards, Inwinity Spin, 14,000x progression",
+            "category": "iGaming",
+            "tags": [
+                "Gamification",
+                "Storytelling",
+                "Progression"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Thunderkick",
+                "url": "https://thunderkick.com/news/gamification-focus-inwinity-spin",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "Story-based reward arcs, Inwinity Spin guaranteed final win, 14,000x target.",
+            "whyItMatters": "Narrative-driven progression rare in slots.",
+            "howToUse": "Study story-based reward arcs.",
+            "beneficiaries": [
+                "Game Designers",
+                "Narrative Designers"
+            ],
+            "companies": [
+                "Thunderkick"
+            ],
+            "visualStyle": {
+                "theme": "Whimsical / Dark Fantasy",
+                "motifs": [
+                    "Skulls",
+                    "Music",
+                    "Organic Forms"
+                ],
+                "palette": [
+                    "#2d1f0e",
+                    "#c8a25c",
+                    "#8b4513",
+                    "#daa520"
+                ]
+            },
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-019",
+            "title": "X/Twitter AI Image Edit Controversy",
+            "subtitle": "Any user can AI-edit any posted image — artists outraged",
+            "category": "Community",
+            "tags": [
+                "Controversy",
+                "AI Ethics",
+                "Artists Rights",
+                "X/Twitter"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "X / CreativeBloq",
+                "url": "https://creativebloq.com",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "X enables AI editing of ANY image by ANY user with one click. No opt-out. Glaze/Nightshade ineffective. Artists considering leaving platform.",
+            "whyItMatters": "Fundamental shift in image ownership on social platforms. Could accelerate artist migration to alternative platforms.",
+            "howToUse": "Monitor artist platform migration. Consider alternative channels for art community engagement.",
+            "beneficiaries": [
+                "Artists",
+                "Platform Strategists"
+            ],
+            "companies": [
+                "X/Twitter"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-021",
+            "title": "ComfyUI + Flux/WAN AI Art Stack",
+            "subtitle": "Community-validated: image gen, editing, video — all local",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "ComfyUI",
+                "Flux",
+                "WAN",
+                "Local AI"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "r/StableDiffusion",
+                "url": "https://reddit.com/r/StableDiffusion",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "Stack: ComfyUI + Z-image Turbo + Flux2-Klein + Qwen Edit + WAN 2.2 + LTX2.",
+            "whyItMatters": "AI art matured into standardized pro pipelines.",
+            "howToUse": "Adopt for concept art, textures, marketing, slot themes.",
+            "beneficiaries": [
+                "Concept Artists",
+                "Texture Artists"
+            ],
+            "companies": [
+                "Comfy.org"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-024",
+            "title": "WASM Beyond Browser",
+            "subtitle": "WASI 0.3, Component Model, edge/IoT execution",
+            "category": "Tech",
+            "tags": [
+                "WebAssembly",
+                "WASI",
+                "Edge",
+                "Cross-Platform"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "GitHub",
+                "url": "https://github.com",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "5.5% Chrome adoption. WASI 0.3 + Component Model. Branch Hinting landing.",
+            "whyItMatters": "WASM-based game engines target web/mobile/server from one codebase.",
+            "howToUse": "Evaluate WASM for cross-platform game logic.",
+            "beneficiaries": [
+                "Engine Developers",
+                "Platform Architects"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-028",
+            "title": "WASM RNG & Certified Slot Math Engines",
+            "subtitle": "WebAssembly for near-native probability computation",
+            "category": "Tech",
+            "tags": [
+                "WASM",
+                "RNG",
+                "Game Math",
+                "Certification"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "GitHub",
+                "url": "https://github.com",
+                "date": "2026-02-25"
+            },
+            "whatsNew": "WASM math libraries (gmath, multimath) for GPU-accelerated computation. Certified RNG repos (gamblingtec-rng) passing die-hard testing. Provably fair blockchain RNG via Chainlink VRF.",
+            "whyItMatters": "WASM enables certified RNG to run client-side while maintaining audit trail. Near-native perf for complex probability math without server round-trips.",
+            "howToUse": "Evaluate WASM for client-side math engines. Test certified RNG libraries against regulatory requirements.",
+            "beneficiaries": [
+                "Slot Developers",
+                "Compliance Teams",
+                "Math Engineers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
