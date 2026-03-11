@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T19:39:51.338Z",
+        "scanDate": "2026-03-11T20:31:15.026Z",
         "version": "2.5.0",
-        "totalTrends": 192,
+        "totalTrends": 193,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-y4kqrsf1e",
+            "title": "Stardock Expands",
+            "subtitle": "Stardock announces expansion of publishing services for indie game developers",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Indie Games",
+                "Publishing"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs",
+                "date": "2026-03-11T15:24:18.000Z"
+            },
+            "whatsNew": "Stardock is expanding its publishing services, aiming to sign three titles per year. The company seeks long-term partnerships with indie developers.",
+            "whyItMatters": "This expansion provides opportunities for indie game developers to partner with a established company, potentially increasing their game's visibility and success.",
+            "howToUse": "Indie developers can look into Stardock's publishing services for potential partnerships, and consider submitting their titles for consideration.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Stardock"
+            ],
+            "companies": [
+                "Stardock"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-hp4r5tt9c",
             "title": "Fortnite F2P Shift",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pfx0pb6il",
@@ -6114,7 +6145,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T19:39:51.338Z",
+            "lastScan": "2026-03-11T20:31:15.026Z",
             "note": null
         },
         {
@@ -6133,7 +6164,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T19:39:51.338Z",
+            "lastScan": "2026-03-11T20:31:15.026Z",
             "note": null
         },
         {
