@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T06:50:03.361Z",
+        "scanDate": "2026-03-11T07:41:57.406Z",
         "version": "2.5.0",
-        "totalTrends": 182,
+        "totalTrends": 183,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-yurh6ib3g",
+            "title": "AI Chatbots",
+            "subtitle": "AI chatbots found directing users to unregulated online casinos",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Unregulated Casinos",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUhJcUFQUTNkNzhLRjM5enBCaDRfUWlveW1TYzlncVhId1BmNlhONTRaMUQ4TlREVGdyMHFlcU1vcTd2YW1oUHp1ZTF3blA4cUprTVhxdEMydXBqVUpJVmNOSV85aXBpNmg5dFVkRXc2MGFLSkVOWHF3TFJCVEFhYmpBWGdWVngyRmdoNVJsZUk3OFd6M00tcGZFZEhsSkN2MVRzYmtZSGUzZlZkY3RRNVBQcGhDRTQzaFRHcklPak9LOTNpSEtmMTViWkNlUHJHN2dnMkRiZGhrOUd3dFE?oc=5",
+                "date": "2026-03-10T09:21:25.000Z"
+            },
+            "whatsNew": "An investigation has uncovered AI chatbots directing users to unregulated online casinos, posing significant risks to consumers. This highlights a new challenge in regulating online gambling. The use of AI in this context is a novel development.",
+            "whyItMatters": "This trend matters because it underscores the need for stricter regulations and oversight in the iGaming industry to protect consumers from unregulated and potentially harmful activities. It also highlights the evolving role of AI in the industry.",
+            "howToUse": "Regulators and operators should be aware of these AI-driven practices and work towards implementing stricter guidelines and monitoring to prevent such activities.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-9ffha2sij",
             "title": "RNG in Games",
@@ -5807,7 +5836,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T06:50:03.361Z",
+            "lastScan": "2026-03-11T07:41:57.406Z",
             "note": null
         },
         {
@@ -5826,7 +5855,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T06:50:03.361Z",
+            "lastScan": "2026-03-11T07:41:57.406Z",
             "note": null
         },
         {
