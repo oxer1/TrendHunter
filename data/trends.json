@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T07:41:57.406Z",
+        "scanDate": "2026-03-11T08:37:58.492Z",
         "version": "2.5.0",
-        "totalTrends": 183,
+        "totalTrends": 182,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9ffha2sij",
@@ -2310,37 +2310,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-m719kd40l",
-            "title": "Elai Alternatives",
-            "subtitle": "Synthesia lists the best alternatives to Elai in 2026",
-            "category": "AI",
-            "tags": [
-                "Elai",
-                "Synthesia",
-                "AI Alternatives"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Lajg0ZWhuOWNaS2M4SG5aWnJxR29wbG9UTVlCOXdQVE43UTFRcHBfa2QwamQxSk45M1NNU3ZLYWRNN181V2tkQ0Jxbk14R3h5bmFWU3NPVU9JM2FiRzJQb3ZYQm5DUQ?oc=5",
-                "date": "2026-02-25T08:00:00.000Z"
-            },
-            "whatsNew": "Synthesia has tested and listed the top 6 alternatives to Elai, providing options for those looking for similar AI-powered tools. These alternatives offer a range of features and capabilities. The list is based on hands-on testing and evaluation.",
-            "whyItMatters": "The availability of Elai alternatives matters because it gives users more options and flexibility in choosing the best tool for their needs. This can drive innovation and improvement in the AI industry.",
-            "howToUse": "Users can try out these alternatives to find the one that best suits their requirements, and developers can take note of the features and functionalities that make these alternatives stand out.",
-            "beneficiaries": [
-                "AI Users",
-                "Developers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -5836,7 +5805,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T07:41:57.406Z",
+            "lastScan": "2026-03-11T08:37:58.492Z",
             "note": null
         },
         {
@@ -5855,7 +5824,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T07:41:57.406Z",
+            "lastScan": "2026-03-11T08:37:58.492Z",
             "note": null
         },
         {
@@ -5864,7 +5833,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T06:50:03.361Z",
+            "lastScan": "2026-03-11T08:37:58.492Z",
             "note": null
         },
         {
@@ -8248,6 +8217,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-m719kd40l",
+            "title": "Elai Alternatives",
+            "subtitle": "Synthesia lists the best alternatives to Elai in 2026",
+            "category": "AI",
+            "tags": [
+                "Elai",
+                "Synthesia",
+                "AI Alternatives"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Lajg0ZWhuOWNaS2M4SG5aWnJxR29wbG9UTVlCOXdQVE43UTFRcHBfa2QwamQxSk45M1NNU3ZLYWRNN181V2tkQ0Jxbk14R3h5bmFWU3NPVU9JM2FiRzJQb3ZYQm5DUQ?oc=5",
+                "date": "2026-02-25T08:00:00.000Z"
+            },
+            "whatsNew": "Synthesia has tested and listed the top 6 alternatives to Elai, providing options for those looking for similar AI-powered tools. These alternatives offer a range of features and capabilities. The list is based on hands-on testing and evaluation.",
+            "whyItMatters": "The availability of Elai alternatives matters because it gives users more options and flexibility in choosing the best tool for their needs. This can drive innovation and improvement in the AI industry.",
+            "howToUse": "Users can try out these alternatives to find the one that best suits their requirements, and developers can take note of the features and functionalities that make these alternatives stand out.",
+            "beneficiaries": [
+                "AI Users",
+                "Developers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
