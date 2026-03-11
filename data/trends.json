@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T18:51:19.240Z",
+        "scanDate": "2026-03-11T19:39:51.338Z",
         "version": "2.5.0",
-        "totalTrends": 191,
+        "totalTrends": 192,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hp4r5tt9c",
+            "title": "Fortnite F2P Shift",
+            "subtitle": "Fortnite's 'Save the World' mode is now free-to-play, following a V-Bucks price increase announcement",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Free-to-Play",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-save-the-world-goes-free-to-play",
+                "date": "2026-03-11T16:10:41.000Z"
+            },
+            "whatsNew": "Fortnite's 'Save the World' mode has transitioned to a free-to-play model. This change occurs shortly after Epic Games announced a price increase for V-Bucks, the game's virtual currency. The shift aims to attract more players to the game's lesser-known mode.",
+            "whyItMatters": "The move to free-to-play could revitalize interest in 'Save the World', potentially drawing in new players and increasing the game's overall player base. This decision may also impact the game's revenue streams, as the company seeks to balance free access with monetization through V-Bucks and other means.",
+            "howToUse": "Developers and publishers can observe this shift as a potential strategy to breathe new life into lesser-performing game modes or titles, by adopting free-to-play models and adjusting monetization strategies accordingly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-pfx0pb6il",
             "title": "Split Fiction",
@@ -6083,7 +6114,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T18:51:19.240Z",
+            "lastScan": "2026-03-11T19:39:51.338Z",
             "note": null
         },
         {
@@ -6102,7 +6133,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T18:51:19.240Z",
+            "lastScan": "2026-03-11T19:39:51.338Z",
             "note": null
         },
         {
