@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T22:24:35.528Z",
+        "scanDate": "2026-03-11T23:22:45.749Z",
         "version": "2.5.0",
-        "totalTrends": 195,
+        "totalTrends": 194,
         "categories": [
             "iGaming",
             "AI",
@@ -3014,35 +3014,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-exdi3l3y0",
-            "title": "Prediction Markets",
-            "subtitle": "Global approaches to emerging challenge",
-            "category": "iGaming",
-            "tags": [
-                "Prediction Markets",
-                "Gaming Regulators",
-                "Emerging Challenge"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "IAGR",
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUlDSUhLYzUzMHp4cnBMZmI0TjFPcjBCS0JMZnExczJ5T0VjVnY3MGF3WmZMazg3SWVlVmFGYU1GLUM0ZFlTNElLQ0pNYTlSTmNrUFZqVF9POUFNbmlzUUNRVEVNWENsSEsyQlBzN1JFZjViYTdNd2QtUk9GOVdLaVphYmd6MnpRVzkybFdfVXNxRjVjUndEOQ?oc=5",
-                "date": "2026-02-25T22:27:14.000Z"
-            },
-            "whatsNew": "The International Association of Gaming Regulators is addressing prediction markets as a global emerging challenge. Different approaches are being considered to regulate this new form of gaming.",
-            "whyItMatters": "Regulation of prediction markets is crucial to ensure fairness and protect consumers. It also has significant implications for the gaming industry as a whole.",
-            "howToUse": "Gaming regulators and operators should stay informed about the latest developments in prediction market regulation to ensure compliance and competitiveness.",
-            "beneficiaries": [
-                "Gaming Regulators",
-                "Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -6207,7 +6178,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T22:24:35.528Z",
+            "lastScan": "2026-03-11T23:22:45.749Z",
             "note": null
         },
         {
@@ -6226,7 +6197,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T22:24:35.528Z",
+            "lastScan": "2026-03-11T23:22:45.749Z",
             "note": null
         },
         {
@@ -8650,6 +8621,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-exdi3l3y0",
+            "title": "Prediction Markets",
+            "subtitle": "Global approaches to emerging challenge",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "Gaming Regulators",
+                "Emerging Challenge"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "IAGR",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUlDSUhLYzUzMHp4cnBMZmI0TjFPcjBCS0JMZnExczJ5T0VjVnY3MGF3WmZMazg3SWVlVmFGYU1GLUM0ZFlTNElLQ0pNYTlSTmNrUFZqVF9POUFNbmlzUUNRVEVNWENsSEsyQlBzN1JFZjViYTdNd2QtUk9GOVdLaVphYmd6MnpRVzkybFdfVXNxRjVjUndEOQ?oc=5",
+                "date": "2026-02-25T22:27:14.000Z"
+            },
+            "whatsNew": "The International Association of Gaming Regulators is addressing prediction markets as a global emerging challenge. Different approaches are being considered to regulate this new form of gaming.",
+            "whyItMatters": "Regulation of prediction markets is crucial to ensure fairness and protect consumers. It also has significant implications for the gaming industry as a whole.",
+            "howToUse": "Gaming regulators and operators should stay informed about the latest developments in prediction market regulation to ensure compliance and competitiveness.",
+            "beneficiaries": [
+                "Gaming Regulators",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
