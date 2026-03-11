@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-11T20:31:15.026Z",
+        "scanDate": "2026-03-11T21:30:50.650Z",
         "version": "2.5.0",
-        "totalTrends": 193,
+        "totalTrends": 195,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rzmrco4iz",
+            "title": "Xbox Play Anywhere",
+            "subtitle": "Microsoft reports increased spending and engagement with Xbox Play Anywhere titles",
+            "category": "Tech",
+            "tags": [
+                "Xbox",
+                "Play Anywhere",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/microsoft-says-xbox-play-anywhere-titles-can-double-spending-and-engagement",
+                "date": "2026-03-11T20:50:46.000Z"
+            },
+            "whatsNew": "Microsoft's Xbox Play Anywhere initiative has shown to double spending and engagement, presenting a significant opportunity for game developers. This cross-platform play feature allows gamers to play titles on both Xbox and Windows 10 devices. The increased engagement can lead to more revenue for developers and a better gaming experience for players.",
+            "whyItMatters": "The success of Xbox Play Anywhere can impact the gaming industry by encouraging more developers to create cross-platform titles, increasing player engagement and spending. This can lead to more innovative and accessible gaming experiences.",
+            "howToUse": "Game developers can utilize the Xbox Play Anywhere feature to create cross-platform titles, increasing their reach and potential revenue. By optimizing their games for both Xbox and Windows 10, developers can provide a seamless gaming experience across devices.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Microsoft"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-styq2kh18",
+            "title": "AI in Gaming",
+            "subtitle": "Google Cloud predicts AI transformation in the game industry within three to five years",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Game Development",
+                "Google Cloud"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/google-cloud-s-vision-for-ai-in-the-game-industry",
+                "date": "2026-03-11T16:00:00.000Z"
+            },
+            "whatsNew": "Google Cloud predicts significant transformation in the game industry due to AI within three to five years, including the emergence of new genres. This prediction highlights the potential for AI to revolutionize game development and player experiences. The impact of AI on the industry is expected to be profound, changing the way games are created and played.",
+            "whyItMatters": "The integration of AI in the game industry could lead to unprecedented innovation, creating new opportunities for game developers and enhancing player engagement. This transformation may also raise important questions about the role of human creativity in game development and the potential risks associated with relying on AI.",
+            "howToUse": "Game developers can start exploring AI-powered tools and technologies to stay ahead of the curve, while also considering the ethical implications of AI integration. By embracing AI, developers can unlock new creative possibilities and improve game development efficiency.",
+            "beneficiaries": [
+                "Game Developers",
+                "Players"
+            ],
+            "companies": [
+                "Google Cloud"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-y4kqrsf1e",
             "title": "Stardock Expands",
@@ -49,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hp4r5tt9c",
@@ -6145,7 +6207,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T20:31:15.026Z",
+            "lastScan": "2026-03-11T21:30:50.650Z",
             "note": null
         },
         {
@@ -6164,7 +6226,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T20:31:15.026Z",
+            "lastScan": "2026-03-11T21:30:50.650Z",
             "note": null
         },
         {
