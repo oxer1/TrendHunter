@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T17:00:14.671Z",
+        "scanDate": "2026-03-12T17:55:29.159Z",
         "version": "2.5.0",
         "totalTrends": 189,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ugjd9tx1k",
+            "title": "AI in iGaming",
+            "subtitle": "Kaizen Gaming acquires AI analytics provider GameplAI to strengthen Betano",
+            "category": "iGaming",
+            "tags": [
+                "AI Analytics",
+                "Mergers and Acquisitions",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjkzcml5Yk0zU0VWekNXZUVxekZseVZ3QXpuZ01jYXBOcF9tS0tlTGI1YzFMeVpna3FEX1dCSlBIdzh3SlRkMEpSMGpZZTltZTMxM19IUE1uYTBwZnBFaWQ5Z0E4SDEtVjN6REdNd0N0Rm9LU2JFZjFfUHlHX1JwTlJHYkcyMWdnbWc?oc=5",
+                "date": "2026-03-11T11:07:30.000Z"
+            },
+            "whatsNew": "Kaizen Gaming has acquired GameplAI, an AI analytics provider, to enhance its Betano brand. This move aims to leverage AI-driven insights for improved decision-making and customer experience.",
+            "whyItMatters": "The acquisition highlights the growing importance of AI in the iGaming industry, enabling operators to gain a competitive edge through data-driven strategies.",
+            "howToUse": "Operators can utilize AI analytics to optimize their marketing efforts, personalize user experiences, and predict player behavior.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Data Analysts"
+            ],
+            "companies": [
+                "Kaizen Gaming",
+                "GameplAI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-oeh6xh6b2",
             "title": "Mystery Boxes",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3rm91bg26",
@@ -3323,35 +3355,6 @@
             "isNew": false
         },
         {
-            "id": "t-7aj5sqz2c",
-            "title": "MGA Notice",
-            "subtitle": "MGA publishes notice on unauthorised URLs",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Unauthorised URLs",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3ZTZU9EUGRSMkI4Z2Z2SVlxNlpJRFRCZEdnZUJVWUpPRkRYVVNmV0EwN2hENkFVQ2stWkk4UDR5OG0xcVdiNTYtU3Z6UVFjN1pYZlFoS05mcWxCZFJsc1Q5SU93bi1zOThnTy1LcVhXSS1oT0V1cU5EajNTOWJCbjVDMGd5djVq?oc=5",
-                "date": "2026-02-26T17:25:24.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has published a notice regarding multiple unauthorised URLs. This move aims to protect players and maintain a safe gaming environment.",
-            "whyItMatters": "The notice highlights the MGA's efforts to regulate and monitor the gaming industry, ensuring compliance with laws and regulations.",
-            "howToUse": "Operators should review the notice and ensure their URLs are authorised to avoid potential penalties.",
-            "beneficiaries": [
-                "Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-lk3yr877n",
             "title": "NJ Gaming Update",
             "subtitle": "New Jersey gaming regulations have been updated on the official government website",
@@ -5991,7 +5994,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T17:00:14.671Z",
+            "lastScan": "2026-03-12T17:55:29.159Z",
             "note": null
         },
         {
@@ -6010,7 +6013,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T17:00:14.671Z",
+            "lastScan": "2026-03-12T17:55:29.159Z",
             "note": null
         },
         {
@@ -8959,6 +8962,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-7aj5sqz2c",
+            "title": "MGA Notice",
+            "subtitle": "MGA publishes notice on unauthorised URLs",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Unauthorised URLs",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3ZTZU9EUGRSMkI4Z2Z2SVlxNlpJRFRCZEdnZUJVWUpPRkRYVVNmV0EwN2hENkFVQ2stWkk4UDR5OG0xcVdiNTYtU3Z6UVFjN1pYZlFoS05mcWxCZFJsc1Q5SU93bi1zOThnTy1LcVhXSS1oT0V1cU5EajNTOWJCbjVDMGd5djVq?oc=5",
+                "date": "2026-02-26T17:25:24.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice regarding multiple unauthorised URLs. This move aims to protect players and maintain a safe gaming environment.",
+            "whyItMatters": "The notice highlights the MGA's efforts to regulate and monitor the gaming industry, ensuring compliance with laws and regulations.",
+            "howToUse": "Operators should review the notice and ensure their URLs are authorised to avoid potential penalties.",
+            "beneficiaries": [
+                "Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
