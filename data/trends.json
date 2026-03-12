@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T17:55:29.159Z",
+        "scanDate": "2026-03-12T18:51:07.107Z",
         "version": "2.5.0",
-        "totalTrends": 189,
+        "totalTrends": 191,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,64 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ox2fg0nj0",
+            "title": "Human Narrative Editors",
+            "subtitle": "GDC microtalks highlight the importance of human editors in narrative design",
+            "category": "Tech",
+            "tags": [
+                "Narrative Design",
+                "Game Development",
+                "GDC"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/making-the-case-for-strong-human-narrative-editors",
+                "date": "2026-03-12T18:26:06.000Z"
+            },
+            "whatsNew": "GDC microtalks emphasize the role of human narrative editors in game development, stressing the need for strong empathy and editing skills. This approach contrasts with relying solely on AI tools for narrative design. The talks highlight the importance of human intuition in crafting engaging stories.",
+            "whyItMatters": "The use of human narrative editors can significantly enhance the quality and emotional resonance of game stories, leading to more immersive player experiences. This approach also underscores the value of human creativity and judgment in game development.",
+            "howToUse": "Game developers can apply this insight by prioritizing the role of human narrative editors in their development process, ensuring that stories are crafted with empathy and strong editing skills. This may involve collaborating with experienced editors or providing training for narrative design teams.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-8t44b2uar",
+            "title": "IGF Awards",
+            "subtitle": "Titanium Court wins Seumas McNally Grand Prize at the 28th annual IGF awards",
+            "category": "Tech",
+            "tags": [
+                "IGF Awards",
+                "Indie Games",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/titanium-court-wins-seumas-mcnally-grand-prize-at-28th-annual-igf-awards",
+                "date": "2026-03-12T18:08:23.000Z"
+            },
+            "whatsNew": "Titanium Court, an indie game, has won the Seumas McNally Grand Prize and Excellence in Design award at the 28th annual IGF awards. The game has yet to be released.",
+            "whyItMatters": "This win highlights the potential of indie games to receive major recognition in the gaming industry, even before their release. It also showcases the importance of innovative design in game development.",
+            "howToUse": "Game developers can take note of the innovative design elements that contributed to Titanium Court's win, and consider applying similar principles to their own projects.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-ugjd9tx1k",
             "title": "AI in iGaming",
@@ -50,7 +108,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oeh6xh6b2",
@@ -5994,7 +6052,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T17:55:29.159Z",
+            "lastScan": "2026-03-12T18:51:07.107Z",
             "note": null
         },
         {
@@ -6013,7 +6071,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T17:55:29.159Z",
+            "lastScan": "2026-03-12T18:51:07.107Z",
             "note": null
         },
         {
