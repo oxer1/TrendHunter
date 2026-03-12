@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T01:52:46.897Z",
+        "scanDate": "2026-03-12T04:12:30.823Z",
         "version": "2.5.0",
-        "totalTrends": 191,
+        "totalTrends": 193,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-mtktdeblm",
+            "title": "Kalshi XP Partnership",
+            "subtitle": "Kalshi partners with XP Inc to bring prediction markets to Brazil",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "XP Inc",
+                "Kalshi"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/kalshi-to-bring-prediction-markets-to-brazil-via-xp-inc-partnership/",
+                "date": "2026-03-10T12:43:12.000Z"
+            },
+            "whatsNew": "Kalshi has partnered with XP Inc to introduce prediction markets in Brazil, expanding its reach. This move is expected to increase accessibility to such markets for Brazilian investors. The partnership signifies a growing interest in prediction markets globally.",
+            "whyItMatters": "This partnership matters because it signifies the growing interest in and expansion of prediction markets, potentially paving the way for similar partnerships in other regions. It also highlights the increasing importance of regulated and accessible betting markets.",
+            "howToUse": "Investors in Brazil can look forward to accessing prediction markets through this partnership, potentially diversifying their investment portfolios. Companies looking to expand into new markets can consider similar strategic partnerships.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Companies"
+            ],
+            "companies": [
+                "Kalshi",
+                "XP Inc"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ox5tt9iam",
+            "title": "NVIDIA AI-Q Tops",
+            "subtitle": "NVIDIA's AI-Q reaches number one on DeepResearch Bench I and II, showcasing its AI capabilities",
+            "category": "AI",
+            "tags": [
+                "NVIDIA",
+                "AI-Q",
+                "DeepResearch"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+                "date": "2026-03-12T03:53:34.000Z"
+            },
+            "whatsNew": "NVIDIA's AI-Q has achieved the top spot on DeepResearch Bench I and II, demonstrating its prowess in AI research and development. This milestone underscores NVIDIA's commitment to advancing AI technologies. The achievement is expected to have significant implications for the field of AI.",
+            "whyItMatters": "NVIDIA's AI-Q reaching the top spot on DeepResearch Bench I and II highlights the company's leadership in AI innovation, which can impact various industries, including gaming and visual design. This development can lead to more sophisticated AI tools for creative work.",
+            "howToUse": "Developers and researchers can leverage NVIDIA's AI-Q to enhance their AI-powered projects, exploring its capabilities in deep learning and AI research. This can involve integrating AI-Q into existing workflows to improve performance and efficiency.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers"
+            ],
+            "companies": [
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-s2q50oihu",
             "title": "Stake Recruits Hazard",
@@ -49,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-d2mr3agx9",
@@ -78,7 +141,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mof2mlkv8",
@@ -109,7 +172,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6f1vp4try",
@@ -141,7 +204,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rzmrco4iz",
@@ -6053,7 +6116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T01:52:46.897Z",
+            "lastScan": "2026-03-12T04:12:30.823Z",
             "note": null
         },
         {
@@ -6072,7 +6135,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T01:52:46.897Z",
+            "lastScan": "2026-03-12T04:12:30.823Z",
             "note": null
         },
         {
@@ -6081,7 +6144,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T01:52:46.897Z",
+            "lastScan": "2026-03-12T04:12:30.823Z",
             "note": null
         },
         {
@@ -6090,7 +6153,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T05:46:44.817Z",
+            "lastScan": "2026-03-12T04:12:30.823Z",
             "note": null
         },
         {
@@ -6277,7 +6340,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-11T05:46:44.817Z",
+            "lastScan": "2026-03-12T04:12:30.823Z",
             "note": null
         },
         {
