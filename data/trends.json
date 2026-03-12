@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T07:44:14.325Z",
+        "scanDate": "2026-03-12T08:38:58.703Z",
         "version": "2.5.0",
-        "totalTrends": 194,
+        "totalTrends": 192,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mtktdeblm",
@@ -2010,37 +2010,6 @@
             "isNew": false
         },
         {
-            "id": "t-kxzttcvms",
-            "title": "AI Image Tools",
-            "subtitle": "Civitai releases v6.6 of All-in-One image processing workflows with multiple AI tools integration",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcGtGWGFfY19WeGxkanZablM2b19CcEhuNkZXUERzeHZVZ3k1V01CSV9IcFJlRDhHN2xRb3NkQ1ZMMlF2V3A4OUEwU3ppVC1LVU1NUmM2QzYxcE82V3VhOUdWcnI5SXNORFhtX04zLUU5S1djbWI3YWMwMm5qRlFMbGpnYWZ6YlFLa2FuME1rSUpwTWdTU3ZBZzI0ZGw3Vk13dWRTc2R4U1U0YVpFRUlNbVNtVlZUOGxtTjFDQjhkZHZRcm1GaDByMkQwc2ZSVWlreUpDQWc5NVVNUmk1ajBR?oc=5",
-                "date": "2026-02-26T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai's v6.6 update integrates various AI tools like Flux 2 Klein, controlNet, and inpaint for advanced image processing. The update also includes Flux2Klein_9B Workflows for enhanced functionality.",
-            "whyItMatters": "This update showcases the rapid advancement in AI-powered image generation and processing, offering more sophisticated tools for creative work. It impacts the development of AI art and design, particularly in gaming and visual effects.",
-            "howToUse": "Developers and artists can utilize Civitai's All-in-One workflows to streamline their image processing tasks, leveraging the integrated AI tools for more efficient and creative outcomes.",
-            "beneficiaries": [
-                "Game Developers",
-                "Graphic Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-nx6kqn46o",
             "title": "Anima Update",
             "subtitle": "Civitai releases RDBT Anima v0.12fd update",
@@ -2165,38 +2134,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-8uqmquy06",
-            "title": "AI Video Creation",
-            "subtitle": "Synthesia offers a free method to create AI videos in minutes",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Synthesia",
-                "Free Tool"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwYnJGNUc2Z3p5M3MydnpDMXBzbURrR2dDNjZ5RUlLVUNrRkc2bFNfa2cyVEtqUVpmUk1UODdKZmFXLWJxVnh4YWcwb2dNRkRvdzladURlTk16TFRfRDlqeA?oc=5",
-                "date": "2026-02-26T08:00:00.000Z"
-            },
-            "whatsNew": "Synthesia introduces a free method to create AI videos in just 3 minutes, making AI video creation more accessible. This method simplifies the process, allowing users to generate high-quality AI videos without extensive expertise. The tool is designed for quick and efficient video production.",
-            "whyItMatters": "This development matters because it democratizes access to AI video creation, enabling a broader range of users to leverage AI for their video needs. It has the potential to significantly impact content creation across various industries.",
-            "howToUse": "To use Synthesia's free AI video creation tool, simply access their platform, follow the guided process, and input your desired video content. The tool will then generate a high-quality AI video in minutes.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketers",
-                "Educators"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -6147,7 +6084,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T07:44:14.325Z",
+            "lastScan": "2026-03-12T08:38:58.703Z",
             "note": null
         },
         {
@@ -6166,7 +6103,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T07:44:14.325Z",
+            "lastScan": "2026-03-12T08:38:58.703Z",
             "note": null
         },
         {
@@ -8867,6 +8804,69 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-kxzttcvms",
+            "title": "AI Image Tools",
+            "subtitle": "Civitai releases v6.6 of All-in-One image processing workflows with multiple AI tools integration",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcGtGWGFfY19WeGxkanZablM2b19CcEhuNkZXUERzeHZVZ3k1V01CSV9IcFJlRDhHN2xRb3NkQ1ZMMlF2V3A4OUEwU3ppVC1LVU1NUmM2QzYxcE82V3VhOUdWcnI5SXNORFhtX04zLUU5S1djbWI3YWMwMm5qRlFMbGpnYWZ6YlFLa2FuME1rSUpwTWdTU3ZBZzI0ZGw3Vk13dWRTc2R4U1U0YVpFRUlNbVNtVlZUOGxtTjFDQjhkZHZRcm1GaDByMkQwc2ZSVWlreUpDQWc5NVVNUmk1ajBR?oc=5",
+                "date": "2026-02-26T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai's v6.6 update integrates various AI tools like Flux 2 Klein, controlNet, and inpaint for advanced image processing. The update also includes Flux2Klein_9B Workflows for enhanced functionality.",
+            "whyItMatters": "This update showcases the rapid advancement in AI-powered image generation and processing, offering more sophisticated tools for creative work. It impacts the development of AI art and design, particularly in gaming and visual effects.",
+            "howToUse": "Developers and artists can utilize Civitai's All-in-One workflows to streamline their image processing tasks, leveraging the integrated AI tools for more efficient and creative outcomes.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-8uqmquy06",
+            "title": "AI Video Creation",
+            "subtitle": "Synthesia offers a free method to create AI videos in minutes",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Synthesia",
+                "Free Tool"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwYnJGNUc2Z3p5M3MydnpDMXBzbURrR2dDNjZ5RUlLVUNrRkc2bFNfa2cyVEtqUVpmUk1UODdKZmFXLWJxVnh4YWcwb2dNRkRvdzladURlTk16TFRfRDlqeA?oc=5",
+                "date": "2026-02-26T08:00:00.000Z"
+            },
+            "whatsNew": "Synthesia introduces a free method to create AI videos in just 3 minutes, making AI video creation more accessible. This method simplifies the process, allowing users to generate high-quality AI videos without extensive expertise. The tool is designed for quick and efficient video production.",
+            "whyItMatters": "This development matters because it democratizes access to AI video creation, enabling a broader range of users to leverage AI for their video needs. It has the potential to significantly impact content creation across various industries.",
+            "howToUse": "To use Synthesia's free AI video creation tool, simply access their platform, follow the guided process, and input your desired video content. The tool will then generate a high-quality AI video in minutes.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Educators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
