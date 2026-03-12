@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T09:40:00.039Z",
+        "scanDate": "2026-03-12T10:36:12.862Z",
         "version": "2.5.0",
-        "totalTrends": 192,
+        "totalTrends": 191,
         "categories": [
             "iGaming",
             "AI",
@@ -3231,35 +3231,6 @@
             "isNew": false
         },
         {
-            "id": "t-uyz59b2do",
-            "title": "Gambling Stats",
-            "subtitle": "UK Gambling Commission releases official statistics for February 2026",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Statistics",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlmTGpVWU5ZeEhPWWRIOUI3alg5MkdPS1ZZQXhRZmxWR1J6bmhoSDRWMEE1cXdXbEVHS2R1dEhZaWhTMVVRU2NQd2FnWDhBRFQxUHFvZDVjSXdFQjJkQ1lRb3FHRkZGWktQQzFxaTVCTHY1MTN5c3cyRTRmU1VUdjRkN3hKdm9SM0JCN2x0STFZM1lIREFTNU1B?oc=5",
-                "date": "2026-02-26T10:05:11.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has released its official statistics publications for February 2026, providing insights into the current state of the gambling industry. The statistics cover various aspects of the industry, including participation and problem gambling rates. These publications aim to promote transparency and accountability within the sector.",
-            "whyItMatters": "The release of these statistics is crucial for understanding the impact of gambling on society and informing evidence-based policies. It also helps operators and regulators to identify areas for improvement and develop targeted interventions.",
-            "howToUse": "Operators and regulators can use these statistics to refine their strategies and ensure compliance with regulatory requirements. They can also leverage the data to develop more effective responsible gambling initiatives.",
-            "beneficiaries": [
-                "Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-to1tug072",
             "title": "Gambling Regulation",
             "subtitle": "UK Gambling Commission outlines its role",
@@ -6084,7 +6055,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T09:40:00.039Z",
+            "lastScan": "2026-03-12T10:36:12.862Z",
             "note": null
         },
         {
@@ -6103,7 +6074,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T09:40:00.039Z",
+            "lastScan": "2026-03-12T10:36:12.862Z",
             "note": null
         },
         {
@@ -8867,6 +8838,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-uyz59b2do",
+            "title": "Gambling Stats",
+            "subtitle": "UK Gambling Commission releases official statistics for February 2026",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Statistics",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHlmTGpVWU5ZeEhPWWRIOUI3alg5MkdPS1ZZQXhRZmxWR1J6bmhoSDRWMEE1cXdXbEVHS2R1dEhZaWhTMVVRU2NQd2FnWDhBRFQxUHFvZDVjSXdFQjJkQ1lRb3FHRkZGWktQQzFxaTVCTHY1MTN5c3cyRTRmU1VUdjRkN3hKdm9SM0JCN2x0STFZM1lIREFTNU1B?oc=5",
+                "date": "2026-02-26T10:05:11.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released its official statistics publications for February 2026, providing insights into the current state of the gambling industry. The statistics cover various aspects of the industry, including participation and problem gambling rates. These publications aim to promote transparency and accountability within the sector.",
+            "whyItMatters": "The release of these statistics is crucial for understanding the impact of gambling on society and informing evidence-based policies. It also helps operators and regulators to identify areas for improvement and develop targeted interventions.",
+            "howToUse": "Operators and regulators can use these statistics to refine their strategies and ensure compliance with regulatory requirements. They can also leverage the data to develop more effective responsible gambling initiatives.",
+            "beneficiaries": [
+                "Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
