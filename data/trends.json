@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T06:51:46.196Z",
+        "scanDate": "2026-03-12T07:44:14.325Z",
         "version": "2.5.0",
-        "totalTrends": 193,
+        "totalTrends": 194,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-76d2nsf1h",
+            "title": "Sims 4 Modding",
+            "subtitle": "The Sims 4 modding community is disappointed by a new 'microtransaction' marketplace",
+            "category": "Community",
+            "tags": [
+                "Modding",
+                "Microtransactions",
+                "The Sims 4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/the-sims-4-modding-community-is-disappointed-by-new-microtransaction-marketplace",
+                "date": "2026-03-12T07:07:00.000Z"
+            },
+            "whatsNew": "EA has introduced a new marketplace for The Sims 4, which has been met with disappointment from the modding community due to its microtransaction model. The community feels that EA needs them to make the marketplace successful. The move could impact the game's community-driven content creation.",
+            "whyItMatters": "The introduction of a microtransaction-based marketplace could change how creators engage with the game and potentially affect the game's overall ecosystem. It highlights the tension between game developers and their community, especially when it comes to monetization strategies.",
+            "howToUse": "Game developers should carefully consider community feedback when introducing new monetization models to avoid alienating their user base. Engaging with the community and understanding their needs can help in creating a more acceptable and successful marketplace.",
+            "beneficiaries": [
+                "Game Developers",
+                "Modding Community"
+            ],
+            "companies": [
+                "EA"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-mtktdeblm",
             "title": "Kalshi XP Partnership",
@@ -6116,7 +6147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T06:51:46.196Z",
+            "lastScan": "2026-03-12T07:44:14.325Z",
             "note": null
         },
         {
@@ -6135,7 +6166,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T06:51:46.196Z",
+            "lastScan": "2026-03-12T07:44:14.325Z",
             "note": null
         },
         {
