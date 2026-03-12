@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T12:54:34.194Z",
+        "scanDate": "2026-03-12T14:02:32.273Z",
         "version": "2.5.0",
-        "totalTrends": 190,
+        "totalTrends": 189,
         "categories": [
             "iGaming",
             "AI",
@@ -3171,35 +3171,6 @@
             "isNew": false
         },
         {
-            "id": "t-qh69gv617",
-            "title": "BGC AGM 2026",
-            "subtitle": "Tim Miller speech at the Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "BGC",
-                "Gambling Commission",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUFxLVBRZURtWkJPWUQtd2VFY3RENTFlVkRuQ1pZZ0RKM0c4R2NMQkM5cnpGcGRmcHZYbkZtUDBDOEd6VVRrYzZqQ0N6Znp0VW5za3MxTHZXaEhUNzJpQkZIYVhjZmdZMjVKbnhISm9sRVdDcmwwcG51anYzcDg3VHFfazJscDRG?oc=5",
-                "date": "2026-02-26T13:50:32.000Z"
-            },
-            "whatsNew": "Tim Miller delivered a speech at the BGC AGM 2026, discussing key issues in the gambling industry. The speech highlighted the importance of regulation and responsible gambling practices. The event marked a significant moment for the industry.",
-            "whyItMatters": "The speech and the BGC AGM 2026 have significant implications for the gambling industry, shaping its future and regulatory landscape. It affects stakeholders, including operators and players.",
-            "howToUse": "Industry stakeholders should review the speech and its implications, adapting their strategies to comply with emerging regulatory requirements. This includes enhancing responsible gambling practices.",
-            "beneficiaries": [
-                "Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-7g9nvh9i0",
             "title": "UK Gambling Update",
             "subtitle": "Indoor Games Limited licence summary by UK Gambling Commission",
@@ -6024,7 +5995,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T12:54:34.194Z",
+            "lastScan": "2026-03-12T14:02:32.273Z",
             "note": null
         },
         {
@@ -6043,7 +6014,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T12:54:34.194Z",
+            "lastScan": "2026-03-12T14:02:32.273Z",
             "note": null
         },
         {
@@ -8867,6 +8838,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qh69gv617",
+            "title": "BGC AGM 2026",
+            "subtitle": "Tim Miller speech at the Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "BGC",
+                "Gambling Commission",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUFxLVBRZURtWkJPWUQtd2VFY3RENTFlVkRuQ1pZZ0RKM0c4R2NMQkM5cnpGcGRmcHZYbkZtUDBDOEd6VVRrYzZqQ0N6Znp0VW5za3MxTHZXaEhUNzJpQkZIYVhjZmdZMjVKbnhISm9sRVdDcmwwcG51anYzcDg3VHFfazJscDRG?oc=5",
+                "date": "2026-02-26T13:50:32.000Z"
+            },
+            "whatsNew": "Tim Miller delivered a speech at the BGC AGM 2026, discussing key issues in the gambling industry. The speech highlighted the importance of regulation and responsible gambling practices. The event marked a significant moment for the industry.",
+            "whyItMatters": "The speech and the BGC AGM 2026 have significant implications for the gambling industry, shaping its future and regulatory landscape. It affects stakeholders, including operators and players.",
+            "howToUse": "Industry stakeholders should review the speech and its implications, adapting their strategies to comply with emerging regulatory requirements. This includes enhancing responsible gambling practices.",
+            "beneficiaries": [
+                "Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
