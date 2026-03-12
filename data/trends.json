@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T20:31:44.044Z",
+        "scanDate": "2026-03-12T21:30:31.552Z",
         "version": "2.5.0",
         "totalTrends": 193,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-voa466330",
+            "title": "PEGI Updates Ratings",
+            "subtitle": "PEGI revises age ratings considering loot boxes and daily quests",
+            "category": "iGaming",
+            "tags": [
+                "PEGI",
+                "Loot Boxes",
+                "Age Ratings"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/pegi-revises-its-age-ratings-system-with-considerations-for-loot-boxes-daily-quests",
+                "date": "2026-03-12T20:52:29.000Z"
+            },
+            "whatsNew": "PEGI has revised its age ratings system to account for loot boxes and daily quests, affecting game classifications. Loot boxes will now bump a game's rating up to PEGI 16. This change reflects growing concerns over in-game purchases and their impact on minors.",
+            "whyItMatters": "The revision aims to better protect minors from potentially harmful gaming practices, such as loot boxes. This change may influence game development and monetization strategies.",
+            "howToUse": "Game developers should review PEGI's updated guidelines to ensure compliance with the new age ratings system, adjusting their game designs and monetization models as necessary.",
+            "beneficiaries": [
+                "Game Developers",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-plyuzhkw0",
             "title": "Greece Protects Youth",
@@ -48,7 +77,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-owb9m43oz",
@@ -3816,37 +3845,6 @@
             "isNew": false
         },
         {
-            "id": "t-v59q98cvx",
-            "title": "Highguard Failure",
-            "subtitle": "Former Wildlight Entertainment developers share details on Highguard's failure",
-            "category": "iGaming",
-            "tags": [
-                "Highguard",
-                "Wildlight Entertainment",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/-hubris-may-have-doomed-highguard",
-                "date": "2026-02-26T20:39:43.000Z"
-            },
-            "whatsNew": "Former Wildlight Entertainment developers have shared details on what went wrong with Highguard, highlighting potential issues with the game's development process. The discussion revolves around the lack of pre-launch open testing. This could have potentially saved the game from its current state.",
-            "whyItMatters": "Understanding the reasons behind Highguard's failure can provide valuable insights for game developers, helping them avoid similar mistakes in the future. This can lead to better game development and testing processes.",
-            "howToUse": "Game developers can use this information to prioritize pre-launch open testing and gather feedback from players to improve their games. This can be achieved by allocating sufficient time and resources for testing and incorporating player feedback into the development process.",
-            "beneficiaries": [
-                "Game Developers",
-                "Testers"
-            ],
-            "companies": [
-                "Wildlight Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -6115,7 +6113,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T20:31:44.044Z",
+            "lastScan": "2026-03-12T21:30:31.552Z",
             "note": null
         },
         {
@@ -6134,7 +6132,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T20:31:44.044Z",
+            "lastScan": "2026-03-12T21:30:31.552Z",
             "note": null
         },
         {
@@ -9112,6 +9110,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-v59q98cvx",
+            "title": "Highguard Failure",
+            "subtitle": "Former Wildlight Entertainment developers share details on Highguard's failure",
+            "category": "iGaming",
+            "tags": [
+                "Highguard",
+                "Wildlight Entertainment",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-hubris-may-have-doomed-highguard",
+                "date": "2026-02-26T20:39:43.000Z"
+            },
+            "whatsNew": "Former Wildlight Entertainment developers have shared details on what went wrong with Highguard, highlighting potential issues with the game's development process. The discussion revolves around the lack of pre-launch open testing. This could have potentially saved the game from its current state.",
+            "whyItMatters": "Understanding the reasons behind Highguard's failure can provide valuable insights for game developers, helping them avoid similar mistakes in the future. This can lead to better game development and testing processes.",
+            "howToUse": "Game developers can use this information to prioritize pre-launch open testing and gather feedback from players to improve their games. This can be achieved by allocating sufficient time and resources for testing and incorporating player feedback into the development process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Testers"
+            ],
+            "companies": [
+                "Wildlight Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
