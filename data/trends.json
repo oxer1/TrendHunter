@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T21:30:31.552Z",
+        "scanDate": "2026-03-12T22:23:19.810Z",
         "version": "2.5.0",
-        "totalTrends": 193,
+        "totalTrends": 194,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-yu2abyfrn",
+            "title": "Love in Game Dev",
+            "subtitle": "Blizzard veteran Rob Pardo emphasizes 'love' as a key development milestone",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Industry Insights",
+                "Development Milestones"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/blizzard-veteran-rob-pardo-says-love-is-the-most-important-development-milestone",
+                "date": "2026-03-12T18:58:48.000Z"
+            },
+            "whatsNew": "Rob Pardo, the boss of Bonfire Studios, suggests that 'love' is the most important measure of potential during game production. This perspective highlights the importance of passion and emotional investment in game development. Pardo's statement implies a focus on creating games that resonate with players on a deeper level.",
+            "whyItMatters": "Pardo's statement underscores the significance of emotional connection in game development, which can impact player engagement and overall game success. This perspective can influence how developers approach their projects, prioritizing factors that foster a sense of love and passion for the game.",
+            "howToUse": "Developers can apply Pardo's insight by focusing on creating games that they themselves are passionate about, and by prioritizing features and elements that evoke strong emotions in players. This might involve conducting player research, gathering feedback, and iterating on the game to ensure it resonates with its target audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [
+                "Bonfire Studios",
+                "Blizzard"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-voa466330",
             "title": "PEGI Updates Ratings",
@@ -47,7 +79,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-plyuzhkw0",
@@ -6113,7 +6145,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T21:30:31.552Z",
+            "lastScan": "2026-03-12T22:23:19.810Z",
             "note": null
         },
         {
@@ -6132,7 +6164,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T21:30:31.552Z",
+            "lastScan": "2026-03-12T22:23:19.810Z",
             "note": null
         },
         {
