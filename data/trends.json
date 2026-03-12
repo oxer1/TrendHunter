@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T14:02:32.273Z",
+        "scanDate": "2026-03-12T15:57:26.136Z",
         "version": "2.5.0",
-        "totalTrends": 189,
+        "totalTrends": 190,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3rm91bg26",
+            "title": "Brazil iGaming Ban",
+            "subtitle": "Brazil's iGaming sector responds to President Lula's call to ban online betting",
+            "category": "iGaming",
+            "tags": [
+                "Brazil",
+                "Online Betting",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelZ1MlViSjlONWlpTXlCMmxWUXBJWVMxVVN0cmFQNnRpdmJOd01SUEoySzhkOHRBSjNJRFBOR1ZVb3hEWTNoY3RBcUJqZzVvcVJVOHdpeHdRbGRxc19HQWdaNjYtVE00TkNyMlRNYVZod19lSF9jclUtS3dNY19Hdm1mUFdNYXFhcWhsdWU4c0VGX3Q3OVFpc3h5OA?oc=5",
+                "date": "2026-03-10T10:56:27.000Z"
+            },
+            "whatsNew": "President Lula's call to ban online betting in Brazil has been met with resistance from the iGaming sector. The sector views the call as disrespectful and is pushing back against the proposed ban.",
+            "whyItMatters": "The potential ban could significantly impact the Brazilian iGaming market, affecting operators, players, and the economy. The sector's response highlights the ongoing debate around online betting regulation.",
+            "howToUse": "Operators should monitor regulatory developments in Brazil and prepare for potential changes. Players should be aware of the ongoing debate and its potential impact on their gaming experience.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-d5mokrsah",
+            "title": "Pokemon Sales Soar",
+            "subtitle": "Pokemon Pokopia sells 2.2M copies in four days on Nintendo Switch 2",
+            "category": "Tech",
+            "tags": [
+                "Pokemon",
+                "Nintendo Switch 2",
+                "Game Sales"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-2-2m-sales-in-four-days",
+                "date": "2026-03-12T14:34:57.000Z"
+            },
+            "whatsNew": "Pokemon Pokopia has achieved a significant sales milestone, topping 2.2 million sales in just four days. This indicates a strong demand for the game and the Nintendo Switch 2 console. The game's success can be attributed to its engaging gameplay and the popularity of the Pokemon franchise.",
+            "whyItMatters": "The game's success is a testament to the enduring popularity of the Pokemon franchise and the appeal of the Nintendo Switch 2 console. It also highlights the potential for future games to achieve similar success on the platform.",
+            "howToUse": "Game developers can take note of the game's engaging gameplay and the popularity of the Pokemon franchise to inform their own game development decisions. They can also consider developing games for the Nintendo Switch 2 console to reach a large and dedicated player base.",
+            "beneficiaries": [
+                "Game Developers",
+                "Nintendo"
+            ],
+            "companies": [
+                "Nintendo"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-76d2nsf1h",
             "title": "Sims 4 Modding",
@@ -3696,37 +3756,6 @@
             "isNew": false
         },
         {
-            "id": "t-og8xrhe4z",
-            "title": "Hades Success",
-            "subtitle": "Hades devs accidentally invent a subgenre, finding success surreal",
-            "category": "iGaming",
-            "tags": [
-                "Hades",
-                "Subgenre",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/hades-devs-say-accidentally-inventing-a-subgenre-was-surreal-",
-                "date": "2026-02-26T15:16:30.000Z"
-            },
-            "whatsNew": "The Hades series has led to the accidental invention of a new subgenre, with its unique blend of gameplay and narrative. The game's success has been described as surreal by its developers. This unexpected turn of events has opened up new possibilities for game development.",
-            "whyItMatters": "The creation of a new subgenre can have a significant impact on the gaming industry, influencing the development of future games and shaping player preferences. It also highlights the potential for innovation and experimentation in game design.",
-            "howToUse": "Game developers can learn from the Hades series by embracing experimentation and taking risks in their design choices. This can involve combining different genres or mechanics to create something unique and innovative.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gamers"
-            ],
-            "companies": [
-                "Supergiant Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -5995,7 +6024,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T14:02:32.273Z",
+            "lastScan": "2026-03-12T15:57:26.136Z",
             "note": null
         },
         {
@@ -6014,7 +6043,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T14:02:32.273Z",
+            "lastScan": "2026-03-12T15:57:26.136Z",
             "note": null
         },
         {
@@ -6023,7 +6052,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T12:54:34.194Z",
+            "lastScan": "2026-03-12T15:57:26.136Z",
             "note": null
         },
         {
@@ -8867,6 +8896,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-og8xrhe4z",
+            "title": "Hades Success",
+            "subtitle": "Hades devs accidentally invent a subgenre, finding success surreal",
+            "category": "iGaming",
+            "tags": [
+                "Hades",
+                "Subgenre",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/hades-devs-say-accidentally-inventing-a-subgenre-was-surreal-",
+                "date": "2026-02-26T15:16:30.000Z"
+            },
+            "whatsNew": "The Hades series has led to the accidental invention of a new subgenre, with its unique blend of gameplay and narrative. The game's success has been described as surreal by its developers. This unexpected turn of events has opened up new possibilities for game development.",
+            "whyItMatters": "The creation of a new subgenre can have a significant impact on the gaming industry, influencing the development of future games and shaping player preferences. It also highlights the potential for innovation and experimentation in game design.",
+            "howToUse": "Game developers can learn from the Hades series by embracing experimentation and taking risks in their design choices. This can involve combining different genres or mechanics to create something unique and innovative.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Supergiant Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
