@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T15:57:26.136Z",
+        "scanDate": "2026-03-12T17:00:14.671Z",
         "version": "2.5.0",
-        "totalTrends": 190,
+        "totalTrends": 189,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-oeh6xh6b2",
+            "title": "Mystery Boxes",
+            "subtitle": "Valve compares mystery boxes to baseball card packs in response to New York lawsuit",
+            "category": "iGaming",
+            "tags": [
+                "Mystery Boxes",
+                "Lawsuit",
+                "Valve",
+                "Gaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/valve-argues-mystery-boxes-are-widely-used-in-the-tangible-world",
+                "date": "2026-03-12T13:50:17.000Z"
+            },
+            "whatsNew": "Valve has argued that mystery boxes are similar to tangible world items like baseball card packs. This comparison is made in response to a lawsuit from the New York Attorney General. The lawsuit likely pertains to the regulation and legality of mystery boxes in online gaming.",
+            "whyItMatters": "The outcome of this lawsuit could impact how mystery boxes are regulated in the gaming industry, affecting both game developers and players. It highlights the ongoing debate about the legality and fairness of loot box systems.",
+            "howToUse": "Game developers should monitor the outcome of this lawsuit to understand potential changes in regulations regarding mystery boxes and loot box systems. This could involve adapting game designs to comply with new regulations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Lawyers"
+            ],
+            "companies": [
+                "Valve"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-3rm91bg26",
             "title": "Brazil iGaming Ban",
@@ -47,7 +79,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-d5mokrsah",
@@ -78,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-76d2nsf1h",
@@ -3691,71 +3723,6 @@
             "isNew": false
         },
         {
-            "id": "t-e0vvdntmj",
-            "title": "Dev Support",
-            "subtitle": "Publishers can profit while treating devs fairly",
-            "category": "Community",
-            "tags": [
-                "Game Development",
-                "Publishing",
-                "Developer Support"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/how-publishers-can-do-better-by-devs-and-still-profit-game-developer-podcast-ep-65",
-                "date": "2026-02-26T16:30:39.000Z"
-            },
-            "whatsNew": "Hooded Horse CEO Tim Bender shares insights on his journey in video game publishing and the importance of treating developers fairly. He discusses what he's learned and why many publishers aren't doing right by developers.",
-            "whyItMatters": "Fair treatment of developers can lead to better game quality and more successful partnerships. This shift in approach can impact the entire gaming industry.",
-            "howToUse": "Publishers can prioritize developer support by offering fair revenue shares and providing necessary resources. Developers can research and choose publishers that align with their values.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Hooded Horse"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
-            "id": "t-o4jxt18ok",
-            "title": "Gaming Acquisition",
-            "subtitle": "Splash Damage acquires Gamepires from Jagex",
-            "category": "iGaming",
-            "tags": [
-                "Acquisition",
-                "Gaming",
-                "Investment"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/splash-damage-acquires-scum-developer-gamepires-from-jagex",
-                "date": "2026-02-26T16:21:59.000Z"
-            },
-            "whatsNew": "Splash Damage has acquired Gamepires, the developer of Scum, from Jagex. The acquisition is backed by Emona Capital. This move forms the Splash Damage Group.",
-            "whyItMatters": "The acquisition indicates a growing trend of consolidation in the gaming industry, with companies seeking to expand their portfolios and capabilities.",
-            "howToUse": "Game developers and investors should monitor industry consolidation trends to identify potential opportunities and partnerships.",
-            "beneficiaries": [
-                "Game Developers",
-                "Investors"
-            ],
-            "companies": [
-                "Splash Damage",
-                "Gamepires",
-                "Jagex",
-                "Emona Capital"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -6024,7 +5991,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T15:57:26.136Z",
+            "lastScan": "2026-03-12T17:00:14.671Z",
             "note": null
         },
         {
@@ -6043,7 +6010,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T15:57:26.136Z",
+            "lastScan": "2026-03-12T17:00:14.671Z",
             "note": null
         },
         {
@@ -8924,6 +8891,71 @@
             ],
             "companies": [
                 "Supergiant Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-e0vvdntmj",
+            "title": "Dev Support",
+            "subtitle": "Publishers can profit while treating devs fairly",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Publishing",
+                "Developer Support"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/how-publishers-can-do-better-by-devs-and-still-profit-game-developer-podcast-ep-65",
+                "date": "2026-02-26T16:30:39.000Z"
+            },
+            "whatsNew": "Hooded Horse CEO Tim Bender shares insights on his journey in video game publishing and the importance of treating developers fairly. He discusses what he's learned and why many publishers aren't doing right by developers.",
+            "whyItMatters": "Fair treatment of developers can lead to better game quality and more successful partnerships. This shift in approach can impact the entire gaming industry.",
+            "howToUse": "Publishers can prioritize developer support by offering fair revenue shares and providing necessary resources. Developers can research and choose publishers that align with their values.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Hooded Horse"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-o4jxt18ok",
+            "title": "Gaming Acquisition",
+            "subtitle": "Splash Damage acquires Gamepires from Jagex",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "Gaming",
+                "Investment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/splash-damage-acquires-scum-developer-gamepires-from-jagex",
+                "date": "2026-02-26T16:21:59.000Z"
+            },
+            "whatsNew": "Splash Damage has acquired Gamepires, the developer of Scum, from Jagex. The acquisition is backed by Emona Capital. This move forms the Splash Damage Group.",
+            "whyItMatters": "The acquisition indicates a growing trend of consolidation in the gaming industry, with companies seeking to expand their portfolios and capabilities.",
+            "howToUse": "Game developers and investors should monitor industry consolidation trends to identify potential opportunities and partnerships.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Splash Damage",
+                "Gamepires",
+                "Jagex",
+                "Emona Capital"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
