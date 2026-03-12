@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T22:23:19.810Z",
+        "scanDate": "2026-03-12T23:26:08.814Z",
         "version": "2.5.0",
-        "totalTrends": 194,
+        "totalTrends": 195,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-4olv8b27p",
+            "title": "Novomatic Takeover",
+            "subtitle": "Austrian corruption charge affects Novomatic's Ainsworth takeover",
+            "category": "iGaming",
+            "tags": [
+                "Novomatic",
+                "Ainsworth",
+                "Mergers and Acquisitions",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGFwWFVZQkhFTlJ3cUxGS3lwcS1Ud2pPdWdiT3c2Zk51QjFTNjRCS2drZG81MzhkejBEZWNicGhIX2dFc0NxZXNGb3Nwd0NUcWVfMFZSYXY3X2h0dlFqQ3RUaU56RXVwWkpXQmhnU25hZUNoWXhrX1dfS0hRYVN5dXFvc05fV2NIS2VMUHRKRG16enRSdUFGTGJPMEFpRTczam5yVHRSWQ?oc=5",
+                "date": "2026-03-12T11:00:08.000Z"
+            },
+            "whatsNew": "An Austrian corruption charge may have impacted Novomatic's takeover of Ainsworth. The charge has potentially soured the deal, raising concerns about regulatory approvals.",
+            "whyItMatters": "The outcome of this situation may have significant implications for the iGaming industry, particularly in terms of mergers and acquisitions. Regulatory challenges can hinder growth and expansion plans for companies like Novomatic.",
+            "howToUse": "Companies involved in iGaming should closely monitor regulatory developments and ensure compliance to avoid similar issues. Due diligence is crucial in mergers and acquisitions to identify potential risks.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Novomatic",
+                "Ainsworth"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-yu2abyfrn",
             "title": "Love in Game Dev",
@@ -50,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-voa466330",
@@ -6145,7 +6178,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T22:23:19.810Z",
+            "lastScan": "2026-03-12T23:26:08.814Z",
             "note": null
         },
         {
@@ -6164,7 +6197,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T22:23:19.810Z",
+            "lastScan": "2026-03-12T23:26:08.815Z",
             "note": null
         },
         {
