@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-13T07:43:01.309Z",
+        "scanDate": "2026-03-13T08:36:39.364Z",
         "version": "2.5.0",
-        "totalTrends": 202,
+        "totalTrends": 200,
         "categories": [
             "iGaming",
             "AI",
@@ -2345,37 +2345,6 @@
             "isNew": false
         },
         {
-            "id": "t-puedpcy0f",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases zImage-Cyborg Abyss v0.2 with ZImageTurbo LoRA",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "zImage",
-                "LoRA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3c19QeVkwNWh0dEFPTktQT0t6T2xhWm1nelVlZ1kwMm9FSXQ3Uk5fLW5GMkNydVdXUnJtRWNPVnEyMFdXS19tNmtKVTR1eG9QVUI5c0swVEh3RUtwY0xoSEkzSm0tZEpTVGc?oc=5",
-                "date": "2026-02-27T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an update to their zImage-Cyborg Abyss, now at version 0.2, incorporating ZImageTurbo LoRA for enhanced AI art generation. This update aims to improve the quality and diversity of generated images.",
-            "whyItMatters": "This update reflects the ongoing advancements in AI art generation, potentially impacting the visual design trends in gaming and beyond. It offers creators more powerful tools for generating unique and complex images.",
-            "howToUse": "Artists and designers can utilize this updated tool to generate a wide range of cyborg-themed images, exploring new visual styles and themes for their projects.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-qiy5iqppi",
             "title": "Entain Reflections",
             "subtitle": "Rob Wood discusses his journey with Entain in a Q&A session",
@@ -3843,35 +3812,6 @@
             "beneficiaries": [
                 "Gaming Operators",
                 "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-g7zzthv2s",
-            "title": "AC Jackpot Wins",
-            "subtitle": "NJ Division of Gaming Enforcement releases list of Atlantic City jackpots over $40,000",
-            "category": "iGaming",
-            "tags": [
-                "Atlantic City",
-                "Jackpots",
-                "Gaming Enforcement"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
-                "date": "2026-02-27T08:00:00.000Z"
-            },
-            "whatsNew": "The NJ Division of Gaming Enforcement has released a list of Atlantic City jackpots greater than $40,000. The list is 27 pages long and is available on the NJ.gov website. This release provides insight into recent big wins in Atlantic City.",
-            "whyItMatters": "The release of this list matters as it provides transparency into the gaming industry and can help attract more players to Atlantic City. It also shows the potential for big wins in the city.",
-            "howToUse": "Players can use this information to inform their gaming decisions and choose games with higher jackpot potential. The list can also be used by casinos to promote their games and attract new players.",
-            "beneficiaries": [
-                "Players",
-                "Casinos"
             ],
             "companies": [],
             "visualStyle": null,
@@ -6397,7 +6337,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T07:43:01.309Z",
+            "lastScan": "2026-03-13T08:36:39.364Z",
             "note": null
         },
         {
@@ -6416,7 +6356,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T07:43:01.309Z",
+            "lastScan": "2026-03-13T08:36:39.364Z",
             "note": null
         },
         {
@@ -9482,6 +9422,66 @@
             "beneficiaries": [
                 "Gambling Operators",
                 "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-puedpcy0f",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases zImage-Cyborg Abyss v0.2 with ZImageTurbo LoRA",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "zImage",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3c19QeVkwNWh0dEFPTktQT0t6T2xhWm1nelVlZ1kwMm9FSXQ3Uk5fLW5GMkNydVdXUnJtRWNPVnEyMFdXS19tNmtKVTR1eG9QVUI5c0swVEh3RUtwY0xoSEkzSm0tZEpTVGc?oc=5",
+                "date": "2026-02-27T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update to their zImage-Cyborg Abyss, now at version 0.2, incorporating ZImageTurbo LoRA for enhanced AI art generation. This update aims to improve the quality and diversity of generated images.",
+            "whyItMatters": "This update reflects the ongoing advancements in AI art generation, potentially impacting the visual design trends in gaming and beyond. It offers creators more powerful tools for generating unique and complex images.",
+            "howToUse": "Artists and designers can utilize this updated tool to generate a wide range of cyborg-themed images, exploring new visual styles and themes for their projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-g7zzthv2s",
+            "title": "AC Jackpot Wins",
+            "subtitle": "NJ Division of Gaming Enforcement releases list of Atlantic City jackpots over $40,000",
+            "category": "iGaming",
+            "tags": [
+                "Atlantic City",
+                "Jackpots",
+                "Gaming Enforcement"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-02-27T08:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has released a list of Atlantic City jackpots greater than $40,000. The list is 27 pages long and is available on the NJ.gov website. This release provides insight into recent big wins in Atlantic City.",
+            "whyItMatters": "The release of this list matters as it provides transparency into the gaming industry and can help attract more players to Atlantic City. It also shows the potential for big wins in the city.",
+            "howToUse": "Players can use this information to inform their gaming decisions and choose games with higher jackpot potential. The list can also be used by casinos to promote their games and attract new players.",
+            "beneficiaries": [
+                "Players",
+                "Casinos"
             ],
             "companies": [],
             "visualStyle": null,
