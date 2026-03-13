@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-13T10:34:15.168Z",
+        "scanDate": "2026-03-13T11:29:23.244Z",
         "version": "2.5.0",
-        "totalTrends": 199,
+        "totalTrends": 198,
         "categories": [
             "iGaming",
             "AI",
@@ -4035,40 +4035,6 @@
             "isNew": false
         },
         {
-            "id": "t-dr9zfq03o",
-            "title": "Gaming Layoffs",
-            "subtitle": "Valve and Discord face issues, while Tencent closes Montreal studio and Krafton appoints AI officer",
-            "category": "iGaming",
-            "tags": [
-                "Layoffs",
-                "Gaming Industry",
-                "AI Appointment"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/valve-in-hot-water-discord-seeks-forgiveness-and-more-game-media-layoffs-patch-notes-42",
-                "date": "2026-02-27T10:35:06.000Z"
-            },
-            "whatsNew": "Tencent closes Montreal studio, Krafton appoints chief AI officer, and Valve faces backlash. Discord apologizes for recent issues.",
-            "whyItMatters": "The layoffs and appointments indicate a shift in the gaming industry, with AI playing a larger role. This affects the job market and industry trends.",
-            "howToUse": "Keep an eye on industry developments and be prepared to adapt to changes in the gaming landscape. Consider AI integration in your own projects.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Specialists"
-            ],
-            "companies": [
-                "Valve",
-                "Discord",
-                "Tencent",
-                "Krafton"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -6305,7 +6271,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T10:34:15.168Z",
+            "lastScan": "2026-03-13T11:29:23.244Z",
             "note": null
         },
         {
@@ -6324,7 +6290,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T10:34:15.168Z",
+            "lastScan": "2026-03-13T11:29:23.244Z",
             "note": null
         },
         {
@@ -6333,7 +6299,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T10:34:15.168Z",
+            "lastScan": "2026-03-13T11:29:23.244Z",
             "note": null
         },
         {
@@ -9483,6 +9449,40 @@
             "companies": [
                 "Caesars Entertainment",
                 "Fertitta"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-dr9zfq03o",
+            "title": "Gaming Layoffs",
+            "subtitle": "Valve and Discord face issues, while Tencent closes Montreal studio and Krafton appoints AI officer",
+            "category": "iGaming",
+            "tags": [
+                "Layoffs",
+                "Gaming Industry",
+                "AI Appointment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/valve-in-hot-water-discord-seeks-forgiveness-and-more-game-media-layoffs-patch-notes-42",
+                "date": "2026-02-27T10:35:06.000Z"
+            },
+            "whatsNew": "Tencent closes Montreal studio, Krafton appoints chief AI officer, and Valve faces backlash. Discord apologizes for recent issues.",
+            "whyItMatters": "The layoffs and appointments indicate a shift in the gaming industry, with AI playing a larger role. This affects the job market and industry trends.",
+            "howToUse": "Keep an eye on industry developments and be prepared to adapt to changes in the gaming landscape. Consider AI integration in your own projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Specialists"
+            ],
+            "companies": [
+                "Valve",
+                "Discord",
+                "Tencent",
+                "Krafton"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
