@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-12T23:26:08.814Z",
+        "scanDate": "2026-03-13T01:52:27.166Z",
         "version": "2.5.0",
-        "totalTrends": 195,
+        "totalTrends": 200,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,192 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-c24kr1gr3",
+            "title": "US Gambling Bill",
+            "subtitle": "A new US bill proposes federal funds to address gambling addiction",
+            "category": "iGaming",
+            "tags": [
+                "Responsible Gambling",
+                "US Legislation",
+                "Gambling Addiction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/responsible-gambling/new-us-bill-responsible-gambling-at-federal-level/",
+                "date": "2026-03-12T12:21:43.000Z"
+            },
+            "whatsNew": "A new bill has been proposed in the US to provide federal funds for dealing with gambling addiction. This move aims to address responsible gambling at a federal level.",
+            "whyItMatters": "The proposed bill could significantly impact the iGaming industry by promoting responsible gambling practices and providing support for those affected by addiction. It may also lead to stricter regulations for online gambling operators.",
+            "howToUse": "Operators should prepare for potential changes in regulations and consider implementing stricter responsible gambling measures to comply with future federal guidelines.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-irajmxmfl",
+            "title": "LCKY Hires CTO",
+            "subtitle": "LCKY Group recruits former Light & Wonder VP as new CTO",
+            "category": "iGaming",
+            "tags": [
+                "LCKY Group",
+                "Light & Wonder",
+                "CTO"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/lcky-group-alex-manning-new-cto/",
+                "date": "2026-03-12T11:03:21.000Z"
+            },
+            "whatsNew": "LCKY Group has hired Alex Manning, former VP at Light & Wonder, as its new CTO. Manning's experience in technology will likely influence LCKY's tech strategy.",
+            "whyItMatters": "The hiring of a seasoned technology executive may indicate LCKY's focus on enhancing its tech capabilities, potentially impacting its position in the iGaming market.",
+            "howToUse": "Companies in the iGaming sector can take note of LCKY's move to enhance their own tech leadership, considering the importance of technology in the industry.",
+            "beneficiaries": [
+                "iGaming companies",
+                "Tech executives"
+            ],
+            "companies": [
+                "LCKY Group",
+                "Light & Wonder"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-o9hf3crvb",
+            "title": "1xBet SiGMA Africa",
+            "subtitle": "1xBet participates in SiGMA Africa 2026 to discuss iGaming market development",
+            "category": "iGaming",
+            "tags": [
+                "SiGMA Africa",
+                "1xBet",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/1xbet-at-sigma-africa-2026-and-key-discussions-on-market-development/",
+                "date": "2026-03-12T10:18:19.000Z"
+            },
+            "whatsNew": "1xBet participated in SiGMA Africa 2026, a key international platform for the iGaming industry in Africa. The event focused on market development, responsible gaming standards, and industry growth limitations.",
+            "whyItMatters": "The participation of major operators like 1xBet in events like SiGMA Africa highlights the growing importance of the African iGaming market and the need for industry players to align with evolving regulations and standards.",
+            "howToUse": "Operators and providers can use such events to network, understand market trends, and align their strategies with industry developments.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Regulators"
+            ],
+            "companies": [
+                "1xBet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-gqzvhoqqp",
+            "title": "Payment Risk",
+            "subtitle": "Payment provider dependency poses a business continuity risk to iGaming operators",
+            "category": "iGaming",
+            "tags": [
+                "payment providers",
+                "business continuity",
+                "risk management"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/the-payment-provider-dependency-is-a-business-continuity-risk/",
+                "date": "2026-03-12T10:06:37.000Z"
+            },
+            "whatsNew": "The article highlights the importance of treating payments as infrastructure, with redundancy and failover capabilities, to minimize the risk of lost conversions and revenue. Worldpay research shows that 30% of players would abandon a bet if their payment fails.",
+            "whyItMatters": "The failure of payment providers can have a significant impact on iGaming operators, resulting in lost revenue and damaged customer trust. Implementing robust payment systems can help mitigate this risk.",
+            "howToUse": "Operators can implement redundant payment systems and real-time monitoring to minimize the risk of payment failures, and design their payment infrastructure for failover to ensure business continuity.",
+            "beneficiaries": [
+                "iGaming operators",
+                "players"
+            ],
+            "companies": [
+                "Worldpay",
+                "GR8 Tech"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-v7zccz39x",
+            "title": "Nordic iGaming Trends",
+            "subtitle": "Nordic players expect transparency, reliability, and trust from iGaming operators beyond just speed and performance",
+            "category": "iGaming",
+            "tags": [
+                "Nordic iGaming",
+                "Player Expectations",
+                "Regulatory Frameworks"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/bejoynd-explains-why-nordic-igaming-players-expect-more-than-just-fast-games/",
+                "date": "2026-03-12T10:00:00.000Z"
+            },
+            "whatsNew": "Nordic iGaming players now expect more than just fast games, they demand transparency, reliability, and trust from operators. This shift is driven by the region's digital services, including banking and e-commerce, which operate within clear regulatory frameworks.",
+            "whyItMatters": "Understanding these expectations is crucial for iGaming operators to succeed in the Nordic market, as players are increasingly seeking operators that can deliver smooth, intuitive, and trustworthy experiences.",
+            "howToUse": "Operators should focus on building trust with their players by prioritizing transparency, reliability, and regulatory compliance to stay competitive in the Nordic iGaming market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Nordic Players"
+            ],
+            "companies": [
+                "Bejoynd"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-9xv2op2kh",
+            "title": "BETBY Expands",
+            "subtitle": "BETBY launches industry-first e-sim titles eHockey, eMMA, and eTeqball, expanding its high-frequency betting content portfolio",
+            "category": "iGaming",
+            "tags": [
+                "e-sim betting",
+                "BETBY",
+                "esports"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/betby-expands-high-frequency-e-sim-betting-content-portfolio/",
+                "date": "2026-03-12T09:57:23.000Z"
+            },
+            "whatsNew": "BETBY has launched three new e-sim titles, eHockey, eMMA, and eTeqball, which are the first of their kind in the betting industry. These titles introduce new sports verticals and offer fast-paced, always-on content. Each title debuts with unique features, such as eHockey's four tournaments representing the NHL's divisions.",
+            "whyItMatters": "The launch of these new titles strengthens BETBY's position as a pioneer in developing original betting content and provides operators and players with new and engaging betting options. This expansion can potentially increase user engagement and revenue for operators.",
+            "howToUse": "Operators can integrate BETBY's new e-sim titles into their platforms to offer players a wider range of betting options and increase engagement. Players can access these new titles through their preferred sportsbook operators.",
+            "beneficiaries": [
+                "Sportsbook operators",
+                "Players"
+            ],
+            "companies": [
+                "BETBY"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-4olv8b27p",
             "title": "Novomatic Takeover",
@@ -51,7 +237,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-yu2abyfrn",
@@ -4586,38 +4772,6 @@
             "isNew": false
         },
         {
-            "id": "t-4mc3uxhae",
-            "title": "Indie Game Support",
-            "subtitle": "Kinetic Publishing helps indie devs with funding and guidance",
-            "category": "iGaming",
-            "tags": [
-                "Indie Games",
-                "Game Development",
-                "Publishing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/kinetic-publishing-indie-games",
-                "date": "2026-02-27T00:00:00.000Z"
-            },
-            "whatsNew": "Kinetic Games launches Kinetic Publishing to support indie game developers with funding, technical, and marketing support. The publishing imprint aims to empower indie devs and help them bring unique games to the market.",
-            "whyItMatters": "Kinetic Publishing provides a much-needed boost to the indie game development scene, offering guidance and resources to help small studios succeed. This initiative can lead to more innovative and creative games in the market.",
-            "howToUse": "Indie devs can submit their games to Kinetic Publishing for consideration, and those who are selected will receive funding, guidance, and support to help them bring their games to market.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Small Game Studios"
-            ],
-            "companies": [
-                "Kinetic Games",
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-81gxjl7p4",
             "title": "VR Layoffs",
             "subtitle": "nDreams proposes significant layoffs and studio closures",
@@ -6178,7 +6332,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T23:26:08.814Z",
+            "lastScan": "2026-03-13T01:52:27.166Z",
             "note": null
         },
         {
@@ -6197,7 +6351,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T23:26:08.815Z",
+            "lastScan": "2026-03-13T01:52:27.166Z",
             "note": null
         },
         {
@@ -6206,7 +6360,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T15:57:26.136Z",
+            "lastScan": "2026-03-13T01:52:27.166Z",
             "note": null
         },
         {
@@ -9203,6 +9357,38 @@
             ],
             "companies": [
                 "Wildlight Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-4mc3uxhae",
+            "title": "Indie Game Support",
+            "subtitle": "Kinetic Publishing helps indie devs with funding and guidance",
+            "category": "iGaming",
+            "tags": [
+                "Indie Games",
+                "Game Development",
+                "Publishing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/kinetic-publishing-indie-games",
+                "date": "2026-02-27T00:00:00.000Z"
+            },
+            "whatsNew": "Kinetic Games launches Kinetic Publishing to support indie game developers with funding, technical, and marketing support. The publishing imprint aims to empower indie devs and help them bring unique games to the market.",
+            "whyItMatters": "Kinetic Publishing provides a much-needed boost to the indie game development scene, offering guidance and resources to help small studios succeed. This initiative can lead to more innovative and creative games in the market.",
+            "howToUse": "Indie devs can submit their games to Kinetic Publishing for consideration, and those who are selected will receive funding, guidance, and support to help them bring their games to market.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Small Game Studios"
+            ],
+            "companies": [
+                "Kinetic Games",
+                "Unity"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
