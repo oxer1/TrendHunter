@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-13T01:52:27.166Z",
+        "scanDate": "2026-03-13T04:11:21.425Z",
         "version": "2.5.0",
-        "totalTrends": 200,
+        "totalTrends": 202,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-icv4e7ikb",
+            "title": "Star Wins Slot",
+            "subtitle": "BC.GAME launches new sci-fi themed slot with immersive features",
+            "category": "iGaming",
+            "tags": [
+                "Slot Game",
+                "Sci-Fi Theme",
+                "BC.GAME"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/bc-game-launches-new-sci-fi-themed-slot-star-wins-igniting-an-interstellar-battle/",
+                "date": "2026-03-12T08:59:03.000Z"
+            },
+            "whatsNew": "BC.GAME has launched Star Wins, a new sci-fi themed slot with a 5×4 layout and 1,024 ways to win, featuring cascading wins and transforming mystery symbols. The game includes a futuristic cosmic setting with animated visual effects and immersive sound design.",
+            "whyItMatters": "The launch of Star Wins demonstrates the growing demand for immersive and engaging slot games, and BC.GAME's commitment to delivering high-quality gaming experiences. This could set a new standard for sci-fi themed slots in the iGaming industry.",
+            "howToUse": "Game developers can take note of the successful integration of cascading wins, transforming mystery symbols, and faction-based feature mechanics in Star Wins, and consider incorporating similar features into their own games.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Platforms"
+            ],
+            "companies": [
+                "BC.GAME"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-grji9tnnm",
+            "title": "Kaizen Acquires GameplAI",
+            "subtitle": "Kaizen Gaming boosts AI ambitions with GameplAI acquisition",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Acquisition",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/technology/kaizen-gaming-acquires-gameplai-sports-data/",
+                "date": "2026-03-11T09:53:36.000Z"
+            },
+            "whatsNew": "Kaizen Gaming has acquired GameplAI, a UK-based AI-driven sports trading and analytics provider, to enhance its AI capabilities. The acquisition aims to strengthen Kaizen's position in the iGaming industry. This move indicates a growing trend of iGaming companies leveraging AI for improved sports trading and analytics.",
+            "whyItMatters": "The acquisition highlights the increasing importance of AI in the iGaming industry, particularly in sports betting. It demonstrates Kaizen's commitment to innovation and its efforts to stay competitive in the market.",
+            "howToUse": "iGaming companies can leverage AI-driven sports trading and analytics to improve their betting offerings and enhance customer experience. By integrating AI-powered tools, companies can gain a competitive edge in the market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Bettors"
+            ],
+            "companies": [
+                "Kaizen Gaming",
+                "GameplAI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-7j0hhxsfy",
+            "title": "AI Agent",
+            "subtitle": "Building an agent that thinks like a data scientist using reusable tool generation",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Data Science",
+                "Reusable Tool Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+                "date": "2026-03-13T01:02:47.000Z"
+            },
+            "whatsNew": "The article discusses how to build an agent that thinks like a data scientist, achieving #1 on DABStep with reusable tool generation, showcasing advancements in AI capabilities. This approach enables more efficient data analysis and processing. The use of reusable tools streamlines the development process.",
+            "whyItMatters": "This development has significant implications for data-driven industries, as it can enhance decision-making and automate complex tasks. The achievement of #1 on DABStep underscores the potential of this technology.",
+            "howToUse": "Developers can leverage this approach by integrating reusable tool generation into their AI models, allowing for more flexible and efficient data analysis. This can be particularly useful in applications where data scientists are scarce or where rapid prototyping is necessary.",
+            "beneficiaries": [
+                "Data Scientists",
+                "AI Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-c24kr1gr3",
             "title": "US Gambling Bill",
@@ -47,7 +141,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-irajmxmfl",
@@ -79,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o9hf3crvb",
@@ -110,7 +204,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gqzvhoqqp",
@@ -142,7 +236,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-v7zccz39x",
@@ -173,7 +267,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9xv2op2kh",
@@ -204,7 +298,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4olv8b27p",
@@ -3727,35 +3821,6 @@
             "isNew": false
         },
         {
-            "id": "t-to1tug072",
-            "title": "Gambling Regulation",
-            "subtitle": "UK Gambling Commission outlines its role",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Gambling",
-                "Commission"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ycEpVSURPaWRBNUVGWEtvNDhScHFfT0I1Z2dYZVphdmRYZFdkYXNYdm9WTmN6a0dadTJsUUI3ZFg4cll6X1lZWXF0SjJGbm5NLUtTVWlaSHlwTFhiTF9WbHRxcWlwWFRtbE5JWlBUb2dWVXo5SUE?oc=5",
-                "date": "2026-02-27T03:40:05.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has outlined its responsibilities and goals. The commission aims to ensure a safe and fair gambling environment. This includes protecting vulnerable individuals and preventing gambling-related harm.",
-            "whyItMatters": "Effective regulation is crucial for maintaining public trust in the gambling industry. It also helps to prevent problem gambling and associated social issues.",
-            "howToUse": "Operators should familiarize themselves with the commission's guidelines and ensure compliance to avoid penalties. This includes implementing robust age verification and responsible gambling measures.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-lk3yr877n",
             "title": "NJ Gaming Update",
             "subtitle": "New Jersey gaming regulations have been updated on the official government website",
@@ -6332,7 +6397,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T01:52:27.166Z",
+            "lastScan": "2026-03-13T04:11:21.425Z",
             "note": null
         },
         {
@@ -6351,7 +6416,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T01:52:27.166Z",
+            "lastScan": "2026-03-13T04:11:21.425Z",
             "note": null
         },
         {
@@ -6360,7 +6425,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T01:52:27.166Z",
+            "lastScan": "2026-03-13T04:11:21.425Z",
             "note": null
         },
         {
@@ -6369,7 +6434,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T04:12:30.823Z",
+            "lastScan": "2026-03-13T04:11:21.425Z",
             "note": null
         },
         {
@@ -6556,7 +6621,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-12T04:12:30.823Z",
+            "lastScan": "2026-03-13T04:11:21.425Z",
             "note": null
         },
         {
@@ -9392,6 +9457,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-to1tug072",
+            "title": "Gambling Regulation",
+            "subtitle": "UK Gambling Commission outlines its role",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling",
+                "Commission"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ycEpVSURPaWRBNUVGWEtvNDhScHFfT0I1Z2dYZVphdmRYZFdkYXNYdm9WTmN6a0dadTJsUUI3ZFg4cll6X1lZWXF0SjJGbm5NLUtTVWlaSHlwTFhiTF9WbHRxcWlwWFRtbE5JWlBUb2dWVXo5SUE?oc=5",
+                "date": "2026-02-27T03:40:05.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has outlined its responsibilities and goals. The commission aims to ensure a safe and fair gambling environment. This includes protecting vulnerable individuals and preventing gambling-related harm.",
+            "whyItMatters": "Effective regulation is crucial for maintaining public trust in the gambling industry. It also helps to prevent problem gambling and associated social issues.",
+            "howToUse": "Operators should familiarize themselves with the commission's guidelines and ensure compliance to avoid penalties. This includes implementing robust age verification and responsible gambling measures.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
