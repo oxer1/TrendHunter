@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-13T16:37:33.286Z",
+        "scanDate": "2026-03-13T17:33:20.319Z",
         "version": "2.5.0",
-        "totalTrends": 196,
+        "totalTrends": 197,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6jhotwpio",
+            "title": "Game Workers Petition",
+            "subtitle": "Unionized game workers launch petition to protect immigrants from ICE agents",
+            "category": "Community",
+            "tags": [
+                "Game Workers",
+                "Immigrant Rights",
+                "Unionization"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/unionized-game-workers-launch-petition-to-protect-immigrants-from-ice-agents",
+                "date": "2026-03-13T16:29:01.000Z"
+            },
+            "whatsNew": "The 'We Don't Play With ICE' campaign is a new initiative by unionized game workers to demand employers commit to protecting immigrant workers' rights. This campaign focuses on creating a fourth amendment workplace. The goal is to prevent ICE agents from entering workplaces without warrants.",
+            "whyItMatters": "This campaign highlights the growing importance of social and political activism within the game development community, with workers advocating for their rights and the rights of their colleagues. It also underscores the need for employers to commit to protecting their employees' rights and creating a safe work environment.",
+            "howToUse": "Game developers and workers can support this campaign by signing the petition and encouraging their employers to commit to being a fourth amendment workplace. This can help create a safer and more inclusive work environment for all employees.",
+            "beneficiaries": [
+                "Game Workers",
+                "Immigrant Workers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-669l3huqp",
             "title": "Lightspeed Framework",
@@ -50,7 +79,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pku5ik433",
@@ -79,7 +108,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nnn2m1g1l",
@@ -6202,7 +6231,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T16:37:33.286Z",
+            "lastScan": "2026-03-13T17:33:20.319Z",
             "note": null
         },
         {
@@ -6221,7 +6250,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T16:37:33.286Z",
+            "lastScan": "2026-03-13T17:33:20.319Z",
             "note": null
         },
         {
@@ -6230,7 +6259,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T14:51:58.385Z",
+            "lastScan": "2026-03-13T17:33:20.319Z",
             "note": null
         },
         {
