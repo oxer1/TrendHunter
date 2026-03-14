@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-14T01:50:16.362Z",
+        "scanDate": "2026-03-14T04:09:31.197Z",
         "version": "2.5.0",
-        "totalTrends": 204,
+        "totalTrends": 206,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xpkzzpwgc",
+            "title": "Ainsworth Share Offer",
+            "subtitle": "Kjerulf Ainsworth submits new offer to acquire 5.5% of Ainsworth shares",
+            "category": "iGaming",
+            "tags": [
+                "Ainsworth Game Technology",
+                "Share Acquisition",
+                "Gaming Industry"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/kjerulf-ainsworth-offer-acquire-ainsworth-shares/",
+                "date": "2026-03-13T11:31:44.000Z"
+            },
+            "whatsNew": "Kjerulf Ainsworth has made a new offer to acquire 5.5% of Ainsworth Game Technology's shares at A$1.30 per share. This move indicates a continued interest in the company's shares.",
+            "whyItMatters": "The acquisition could impact Ainsworth Game Technology's ownership structure and potentially influence the company's future direction. This development is noteworthy for those invested in the iGaming industry.",
+            "howToUse": "Investors and industry watchers should monitor the outcome of this offer, as it may signal future shifts in the company's strategy or leadership.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Ainsworth Game Technology"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-pb6vzvlkm",
+            "title": "William Hill Success",
+            "subtitle": "William Hill celebrates most profitable day at Cheltenham Festival",
+            "category": "iGaming",
+            "tags": [
+                "William Hill",
+                "Cheltenham Festival",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/william-hill-hails-historically-successful-day-cheltenham/",
+                "date": "2026-03-13T10:59:50.000Z"
+            },
+            "whatsNew": "William Hill achieved its most profitable day in history at the Cheltenham Festival. The company's success is a significant milestone, indicating a strong performance in the sports betting sector.",
+            "whyItMatters": "This achievement highlights the growing demand for sports betting and the importance of major events like the Cheltenham Festival for bookmakers. It also underscores William Hill's position in the market.",
+            "howToUse": "Operators can capitalize on similar events by offering competitive odds and promotions, while also ensuring a seamless user experience for bettors.",
+            "beneficiaries": [
+                "Bookmakers",
+                "Bettors"
+            ],
+            "companies": [
+                "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-6cok5r91k",
+            "title": "NVIDIA NeMo Retriever",
+            "subtitle": "NVIDIA introduces NeMo Retriever, a generalizable agentic retrieval pipeline for AI applications",
+            "category": "AI",
+            "tags": [
+                "NVIDIA",
+                "NeMo Retriever",
+                "Agentic Retrieval"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+                "date": "2026-03-13T20:00:00.000Z"
+            },
+            "whatsNew": "NVIDIA NeMo Retriever is a new pipeline that enables more efficient and effective retrieval of relevant information in AI systems. It goes beyond traditional semantic similarity methods, allowing for more generalizable and adaptable retrieval processes.",
+            "whyItMatters": "This technology has the potential to significantly improve the performance of various AI applications, including those in the iGaming and game development industries. It could lead to more accurate and personalized recommendations, enhanced user experiences, and increased efficiency in content creation.",
+            "howToUse": "Developers can integrate NeMo Retriever into their AI pipelines to enhance information retrieval and improve overall system performance. This can be particularly useful in applications where context-aware and adaptable retrieval is crucial.",
+            "beneficiaries": [
+                "AI Developers",
+                "Game Developers"
+            ],
+            "companies": [
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-nbd89ab74",
             "title": "LatAm iGaming Shift",
@@ -47,7 +140,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rx33fzr1e",
@@ -76,7 +169,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-493i31qv0",
@@ -105,7 +198,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-y30hldz13",
@@ -134,7 +227,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-j0g0k10xf",
@@ -163,7 +256,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-us6jlix1s",
@@ -196,7 +289,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-u851v8c6u",
@@ -4053,35 +4146,6 @@
             "isNew": false
         },
         {
-            "id": "t-lk3yr877n",
-            "title": "NJ Gaming Update",
-            "subtitle": "New Jersey gaming regulations have been updated on the official government website",
-            "category": "iGaming",
-            "tags": [
-                "NJ",
-                "Gaming",
-                "Regulations"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3I2cUtqa082dDMwalJweTU3VDhnakJobzNaS0ZXcjFUYXVaUC14VXFaS2Q5TTdQak9YdS02M194cXE2ajdsZ0xRYkpSdDJ1MkxKUUpLbmJueDluOTJGcktzZTFQbzN2OG83ZkNFcFI0X25pcFY0cmpaZUdNT0lINjlTcjlRQW12TTFyQlk4WEgwc0ZuTjhN?oc=5",
-                "date": "2026-02-28T03:48:13.000Z"
-            },
-            "whatsNew": "The New Jersey Division of Gaming Enforcement has posted updates on their website. The updates are related to the state's gaming regulations. However, the specifics of the updates are not provided.",
-            "whyItMatters": "These updates may impact the gaming industry in New Jersey, affecting operators and players alike. The changes could influence the overall gaming landscape in the state.",
-            "howToUse": "Operators should review the updated regulations to ensure compliance, while players should be aware of any changes that may affect their gaming experience.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-64zdyv47v",
             "title": "LTX 2.3 Released",
             "subtitle": "Civitai introduces LTX-2.3 22B GGUF workflows with 12GB VRAM",
@@ -6423,7 +6487,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-14T01:50:16.362Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "note": null
         },
         {
@@ -6442,7 +6506,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-14T01:50:16.362Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "note": null
         },
         {
@@ -6451,7 +6515,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-14T01:50:16.362Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "note": null
         },
         {
@@ -6460,7 +6524,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T05:46:25.564Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "note": null
         },
         {
@@ -6479,7 +6543,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-10T09:41:03.428Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -6647,7 +6711,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-13T05:46:25.564Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "note": null
         },
         {
@@ -6746,7 +6810,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-10T09:41:03.428Z",
+            "lastScan": "2026-03-14T04:09:31.197Z",
             "note": null
         },
         {
@@ -9872,6 +9936,35 @@
                 ]
             },
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-lk3yr877n",
+            "title": "NJ Gaming Update",
+            "subtitle": "New Jersey gaming regulations have been updated on the official government website",
+            "category": "iGaming",
+            "tags": [
+                "NJ",
+                "Gaming",
+                "Regulations"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3I2cUtqa082dDMwalJweTU3VDhnakJobzNaS0ZXcjFUYXVaUC14VXFaS2Q5TTdQak9YdS02M194cXE2ajdsZ0xRYkpSdDJ1MkxKUUpLbmJueDluOTJGcktzZTFQbzN2OG83ZkNFcFI0X25pcFY0cmpaZUdNT0lINjlTcjlRQW12TTFyQlk4WEgwc0ZuTjhN?oc=5",
+                "date": "2026-02-28T03:48:13.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has posted updates on their website. The updates are related to the state's gaming regulations. However, the specifics of the updates are not provided.",
+            "whyItMatters": "These updates may impact the gaming industry in New Jersey, affecting operators and players alike. The changes could influence the overall gaming landscape in the state.",
+            "howToUse": "Operators should review the updated regulations to ensure compliance, while players should be aware of any changes that may affect their gaming experience.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
