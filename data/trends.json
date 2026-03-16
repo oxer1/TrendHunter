@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-16T02:07:54.831Z",
+        "scanDate": "2026-03-16T05:13:20.172Z",
         "version": "2.5.0",
-        "totalTrends": 217,
+        "totalTrends": 219,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5tk0o79dg",
+            "title": "Flux Character Replacer",
+            "subtitle": "Flux.2 Character replacer updates to v2.4, enhancing AI workflows on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Character Replacer",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83ZjlubzN4QUwyWUJLQ3h3Mkt5RTBRTENiNjRjUlJ6ZTAxVzRJOHU3bzl6aV9KcjRfQXRTSTJVZFM4ZmJURDc5RzVvMzNqdktmZE9iN2dFOWR6MDNsSTNQXzVtd05iUkMwT3pyb1hpeTY?oc=5",
+                "date": "2026-03-16T03:17:28.000Z"
+            },
+            "whatsNew": "The Flux.2 Character replacer has been updated to version 2.4, offering improved functionality for AI-driven character replacement tasks. This update is part of the Flux2Klein_9B Workflows on Civitai, indicating ongoing development in AI tools for creative tasks.",
+            "whyItMatters": "This update matters because it reflects the growing importance of AI in streamlining creative workflows, particularly in character design and replacement. It also highlights Civitai's role in hosting and facilitating such innovations.",
+            "howToUse": "To leverage this update, users can access the Flux.2 Character replacer v2.4 through Civitai, integrating it into their existing AI workflows for enhanced character manipulation and design.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-7mqnlpvh8",
+            "title": "AnimaYume v0.2",
+            "subtitle": "Civitai releases AnimaYume version 0.2, an Anima checkpoint",
+            "category": "AI",
+            "tags": [
+                "AnimaYume",
+                "Civitai",
+                "AI Models"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBd1ROR0FsR19ZX000cmh6X0ItOEJlTHFtZ3ZLY2FjdEY0OFZQb1pLZlBWYUFmazA3UFZwN0VtdHE2TzZDaXBwcndRRmljb1pRTEFjMkdCNA?oc=5",
+                "date": "2026-03-08T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released version 0.2 of AnimaYume, an update to their Anima checkpoint. This new version is part of their ongoing efforts in AI model development.",
+            "whyItMatters": "The update signifies progress in AI technology, particularly in areas related to animation and creative content generation. This could have implications for various industries, including gaming and visual design.",
+            "howToUse": "Developers and artists can utilize AnimaYume v0.2 to explore new possibilities in AI-generated content, enhancing their projects with advanced animation capabilities.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-0gk32bf5i",
             "title": "Caesars Takeover Bid",
@@ -49,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3q4tn3uzn",
@@ -81,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tz95c388c",
@@ -111,7 +174,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vlg7oikwh",
@@ -140,7 +203,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zfj30tpgx",
@@ -6820,7 +6883,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": null
         },
         {
@@ -6839,7 +6902,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": null
         },
         {
@@ -6848,7 +6911,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": null
         },
         {
@@ -6857,7 +6920,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": null
         },
         {
@@ -6876,7 +6939,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -6885,7 +6948,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -6894,7 +6957,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": "Regulatory updates"
         },
         {
@@ -6912,7 +6975,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": "EU regulatory insights"
         },
         {
@@ -6921,7 +6984,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -6941,7 +7004,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-10T05:43:39.872Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -7044,7 +7107,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": null
         },
         {
@@ -7143,7 +7206,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T02:07:54.831Z",
+            "lastScan": "2026-03-16T05:13:20.173Z",
             "note": null
         },
         {
