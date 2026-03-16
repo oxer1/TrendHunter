@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-16T11:44:17.725Z",
+        "scanDate": "2026-03-16T13:05:32.758Z",
         "version": "2.5.0",
-        "totalTrends": 216,
+        "totalTrends": 214,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jr3yhckl2",
+            "title": "Kalshi Sues Arizona",
+            "subtitle": "Kalshi files lawsuit against Arizona's attorney general over regulatory issues",
+            "category": "iGaming",
+            "tags": [
+                "Kalshi",
+                "Arizona",
+                "Lawsuit",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/kalshi-continues-legal-fight-launches-lawsuit-against-arizona/",
+                "date": "2026-03-16T12:24:13.000Z"
+            },
+            "whatsNew": "Kalshi has launched a lawsuit against Arizona, marking an escalation in their legal battle. The lawsuit targets the state's attorney general and several officials, indicating a significant challenge to the state's regulatory stance.",
+            "whyItMatters": "This lawsuit could have implications for the broader iGaming industry, particularly in how companies navigate regulatory challenges in different states. It underscores the ongoing tensions between operators and regulators.",
+            "howToUse": "Operators should closely monitor the outcome of this lawsuit as it may set a precedent for future regulatory challenges. Understanding the legal arguments and the court's decision can inform strategic planning for compliance and expansion.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Affairs Specialists"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-33on2s8h2",
             "title": "March Madness Betting",
@@ -47,7 +79,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dhic5mpy3",
@@ -4419,35 +4451,6 @@
             "isNew": false
         },
         {
-            "id": "t-lvy1zvu58",
-            "title": "US Stocks Threat",
-            "subtitle": "Prediction markets impact US leaders' stocks",
-            "category": "iGaming",
-            "tags": [
-                "Stocks",
-                "Prediction Markets",
-                "US Leaders"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWp4ZUlsYTRvdWRzeUtDWjNQMjRNZk9kZWh5YlYzRk5HX2hZYWRkbmhyRlp6NTNpOGlhcHdCY0Y5RlhoaklLT0pydnEyWERsNlFyYzhGMW5uN2pOY0F6emVyTVdtcDVxRnNqN0hXcDhnNkMzQUkwOENYeVNzYUpMd1JMRWZlUVIxVWhMSHBmQWdPbV8yWXdzX2VybF9Mb0tYMllpbFJ2cXlMUQ?oc=5",
-                "date": "2026-03-02T12:04:47.000Z"
-            },
-            "whatsNew": "The rise of prediction markets poses a threat to US leaders' stocks. This new development weighs down on their stock performance. The impact of prediction markets is being closely monitored.",
-            "whyItMatters": "The threat from prediction markets can significantly affect the stock prices of US leaders, impacting their financial performance and investor confidence.",
-            "howToUse": "Investors should closely monitor the impact of prediction markets on US leaders' stocks and adjust their investment strategies accordingly.",
-            "beneficiaries": [
-                "Investors",
-                "Financial Analysts"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-gzv7v531n",
             "title": "DraftKings Super App",
             "subtitle": "DraftKings launches a new app to integrate all products",
@@ -5928,38 +5931,6 @@
             "isNew": false
         },
         {
-            "id": "t-mqlu48lfd",
-            "title": "Bluepoint Shuttered",
-            "subtitle": "Bluepoint studio shut down after pitching PlayStation spinoffs",
-            "category": "iGaming",
-            "tags": [
-                "Bluepoint",
-                "PlayStation",
-                "Bloodborne"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/report-bluepoint-shuttered-after-failing-to-secure-bloodborne-remake-and-other-playstation-spinoffs",
-                "date": "2026-03-02T12:04:23.000Z"
-            },
-            "whatsNew": "Bluepoint studio spent over a year trying to secure work for a Bloodborne remake and other PlayStation spinoffs but failed. The studio has been shut down as a result.",
-            "whyItMatters": "The shutdown of Bluepoint studio highlights the challenges of securing work in the gaming industry, even for experienced studios. This can have a significant impact on the gaming community and the development of new games.",
-            "howToUse": "Studios can learn from Bluepoint's experience by diversifying their portfolio and being more proactive in securing new projects. They should also be prepared to adapt to changes in the industry.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gaming Studios"
-            ],
-            "companies": [
-                "Bluepoint",
-                "PlayStation"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
             "subtitle": "The Star Sydney appoints new CEO amid group changes",
@@ -6578,37 +6549,6 @@
             "isNew": false
         },
         {
-            "id": "t-3krjs4gwt",
-            "title": "Ireland iGaming: New Regulatory Framework",
-            "subtitle": "Ireland is poised for a significant transformation in its iGaming market with the introduction of a new regulatory framework.",
-            "category": "iGaming",
-            "tags": [
-                "Ireland",
-                "Regulation",
-                "iGaming",
-                "Market Transformation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVU1pT095VnBWcGVuR3dlRVlPSVpENUZuVHp4eEF4WlUtTEFBdm9oN2xCMV9lY0FSMlh1aTF3a1dwY19mWUJoLTg2a0JOczE0S1lVc3VXU2JIam1VUnlhU3NKQklIWHdRUkNIOTJrNHlNU1dlblBPNmVQbUpqMTJRV21PSUxoemVla3hKNEdrZHpsWGZ4NWFn?oc=5",
-                "date": "2026-03-02T12:08:49.000Z"
-            },
-            "whatsNew": "Ireland is introducing a comprehensive new regulatory framework designed to overhaul its iGaming market. This initiative aims to address existing challenges and foster a more structured and potentially safer environment for operators and players.",
-            "whyItMatters": "This framework could redefine market dynamics, impacting licensing, operational compliance, and consumer protection within the Irish iGaming sector.",
-            "howToUse": "iGaming operators should closely monitor the specifics of the new Irish regulations to ensure compliance and adapt their market strategies accordingly.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-ljkn4cv4m",
             "title": "Bally's Intralot Leadership Change",
             "subtitle": "Bally's Intralot has announced a significant leadership change within its lotteries division.",
@@ -6787,7 +6727,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T11:44:17.725Z",
+            "lastScan": "2026-03-16T13:05:32.758Z",
             "note": null
         },
         {
@@ -6806,7 +6746,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T11:44:17.725Z",
+            "lastScan": "2026-03-16T13:05:32.758Z",
             "note": null
         },
         {
@@ -6815,7 +6755,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T11:44:17.725Z",
+            "lastScan": "2026-03-16T13:05:32.758Z",
             "note": null
         },
         {
@@ -6824,7 +6764,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T11:44:17.725Z",
+            "lastScan": "2026-03-16T13:05:32.758Z",
             "note": null
         },
         {
@@ -7011,7 +6951,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T11:44:17.725Z",
+            "lastScan": "2026-03-16T13:05:32.758Z",
             "note": null
         },
         {
@@ -10482,6 +10422,98 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-lvy1zvu58",
+            "title": "US Stocks Threat",
+            "subtitle": "Prediction markets impact US leaders' stocks",
+            "category": "iGaming",
+            "tags": [
+                "Stocks",
+                "Prediction Markets",
+                "US Leaders"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWp4ZUlsYTRvdWRzeUtDWjNQMjRNZk9kZWh5YlYzRk5HX2hZYWRkbmhyRlp6NTNpOGlhcHdCY0Y5RlhoaklLT0pydnEyWERsNlFyYzhGMW5uN2pOY0F6emVyTVdtcDVxRnNqN0hXcDhnNkMzQUkwOENYeVNzYUpMd1JMRWZlUVIxVWhMSHBmQWdPbV8yWXdzX2VybF9Mb0tYMllpbFJ2cXlMUQ?oc=5",
+                "date": "2026-03-02T12:04:47.000Z"
+            },
+            "whatsNew": "The rise of prediction markets poses a threat to US leaders' stocks. This new development weighs down on their stock performance. The impact of prediction markets is being closely monitored.",
+            "whyItMatters": "The threat from prediction markets can significantly affect the stock prices of US leaders, impacting their financial performance and investor confidence.",
+            "howToUse": "Investors should closely monitor the impact of prediction markets on US leaders' stocks and adjust their investment strategies accordingly.",
+            "beneficiaries": [
+                "Investors",
+                "Financial Analysts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-mqlu48lfd",
+            "title": "Bluepoint Shuttered",
+            "subtitle": "Bluepoint studio shut down after pitching PlayStation spinoffs",
+            "category": "iGaming",
+            "tags": [
+                "Bluepoint",
+                "PlayStation",
+                "Bloodborne"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-bluepoint-shuttered-after-failing-to-secure-bloodborne-remake-and-other-playstation-spinoffs",
+                "date": "2026-03-02T12:04:23.000Z"
+            },
+            "whatsNew": "Bluepoint studio spent over a year trying to secure work for a Bloodborne remake and other PlayStation spinoffs but failed. The studio has been shut down as a result.",
+            "whyItMatters": "The shutdown of Bluepoint studio highlights the challenges of securing work in the gaming industry, even for experienced studios. This can have a significant impact on the gaming community and the development of new games.",
+            "howToUse": "Studios can learn from Bluepoint's experience by diversifying their portfolio and being more proactive in securing new projects. They should also be prepared to adapt to changes in the industry.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Studios"
+            ],
+            "companies": [
+                "Bluepoint",
+                "PlayStation"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-3krjs4gwt",
+            "title": "Ireland iGaming: New Regulatory Framework",
+            "subtitle": "Ireland is poised for a significant transformation in its iGaming market with the introduction of a new regulatory framework.",
+            "category": "iGaming",
+            "tags": [
+                "Ireland",
+                "Regulation",
+                "iGaming",
+                "Market Transformation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVU1pT095VnBWcGVuR3dlRVlPSVpENUZuVHp4eEF4WlUtTEFBdm9oN2xCMV9lY0FSMlh1aTF3a1dwY19mWUJoLTg2a0JOczE0S1lVc3VXU2JIam1VUnlhU3NKQklIWHdRUkNIOTJrNHlNU1dlblBPNmVQbUpqMTJRV21PSUxoemVla3hKNEdrZHpsWGZ4NWFn?oc=5",
+                "date": "2026-03-02T12:08:49.000Z"
+            },
+            "whatsNew": "Ireland is introducing a comprehensive new regulatory framework designed to overhaul its iGaming market. This initiative aims to address existing challenges and foster a more structured and potentially safer environment for operators and players.",
+            "whyItMatters": "This framework could redefine market dynamics, impacting licensing, operational compliance, and consumer protection within the Irish iGaming sector.",
+            "howToUse": "iGaming operators should closely monitor the specifics of the new Irish regulations to ensure compliance and adapt their market strategies accordingly.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
