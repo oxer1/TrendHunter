@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-16T10:04:28.463Z",
+        "scanDate": "2026-03-16T11:44:17.725Z",
         "version": "2.5.0",
         "totalTrends": 216,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-33on2s8h2",
+            "title": "March Madness Betting",
+            "subtitle": "AGA projects $3.3bn in legal March Madness betting for 2026",
+            "category": "iGaming",
+            "tags": [
+                "March Madness",
+                "Sports Betting",
+                "NCAA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/aga-projects-march-madness-betting-reach-3bn/",
+                "date": "2026-03-16T11:22:05.000Z"
+            },
+            "whatsNew": "The American Gaming Association (AGA) forecasts a significant increase in legal betting on the 2026 NCAA Division I March Madness basketball tournaments, reaching $3.3bn. This projection indicates a growing trend in legal sports betting in the US. The rise in legal betting is expected to continue as more states legalize and regulate sports wagering.",
+            "whyItMatters": "The projected $3.3bn in legal March Madness betting highlights the expanding US sports betting market and its potential for further growth. This trend is crucial for the iGaming industry, as it demonstrates increasing acceptance and participation in legal sports betting.",
+            "howToUse": "Operators can capitalize on this trend by offering competitive March Madness betting options and promotions, while ensuring compliance with regulatory requirements. Additionally, they can leverage data and analytics to enhance the betting experience and attract new customers.",
+            "beneficiaries": [
+                "Sportsbook Operators",
+                "Bettors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-dhic5mpy3",
             "title": "NZ Casino Regulation",
@@ -5931,37 +5960,6 @@
             "isNew": false
         },
         {
-            "id": "t-y8v5m55i1",
-            "title": "Halfbrick Layoffs",
-            "subtitle": "Halfbrick Studios cuts jobs in Australia due to challenges",
-            "category": "iGaming",
-            "tags": [
-                "Halfbrick Studios",
-                "Layoffs",
-                "Australia"
-            ],
-            "trendStrength": 3,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/halfbrick-studios-is-cutting-jobs-in-australia",
-                "date": "2026-03-02T10:54:36.000Z"
-            },
-            "whatsNew": "Halfbrick Studios is reducing its workforce in Australia. The company cited a challenging period as the reason for the layoffs.",
-            "whyItMatters": "The layoffs reflect the current state of the gaming industry and its economic challenges. This can impact the development of future games and the overall gaming market.",
-            "howToUse": "Game developers should be prepared to adapt to changing market conditions and explore new opportunities for growth.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Halfbrick Studios"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
             "subtitle": "The Star Sydney appoints new CEO amid group changes",
@@ -6789,7 +6787,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T10:04:28.463Z",
+            "lastScan": "2026-03-16T11:44:17.725Z",
             "note": null
         },
         {
@@ -6808,7 +6806,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T10:04:28.463Z",
+            "lastScan": "2026-03-16T11:44:17.725Z",
             "note": null
         },
         {
@@ -6817,7 +6815,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T10:04:28.463Z",
+            "lastScan": "2026-03-16T11:44:17.725Z",
             "note": null
         },
         {
@@ -6826,7 +6824,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T10:04:28.463Z",
+            "lastScan": "2026-03-16T11:44:17.725Z",
             "note": null
         },
         {
@@ -7013,7 +7011,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T10:04:28.463Z",
+            "lastScan": "2026-03-16T11:44:17.725Z",
             "note": null
         },
         {
@@ -10451,6 +10449,37 @@
                 "iGaming Companies"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-y8v5m55i1",
+            "title": "Halfbrick Layoffs",
+            "subtitle": "Halfbrick Studios cuts jobs in Australia due to challenges",
+            "category": "iGaming",
+            "tags": [
+                "Halfbrick Studios",
+                "Layoffs",
+                "Australia"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/halfbrick-studios-is-cutting-jobs-in-australia",
+                "date": "2026-03-02T10:54:36.000Z"
+            },
+            "whatsNew": "Halfbrick Studios is reducing its workforce in Australia. The company cited a challenging period as the reason for the layoffs.",
+            "whyItMatters": "The layoffs reflect the current state of the gaming industry and its economic challenges. This can impact the development of future games and the overall gaming market.",
+            "howToUse": "Game developers should be prepared to adapt to changing market conditions and explore new opportunities for growth.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Halfbrick Studios"
+            ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
