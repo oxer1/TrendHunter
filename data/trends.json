@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-16T13:05:32.758Z",
+        "scanDate": "2026-03-16T14:58:16.594Z",
         "version": "2.5.0",
         "totalTrends": 214,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-blkn1l1oi",
+            "title": "Massachusetts Penalties",
+            "subtitle": "Massachusetts issues penalties to sports betting operators for compliance failures",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Compliance",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/massachusetts-issues-eight-penalties-five-operators/",
+                "date": "2026-03-16T14:24:30.000Z"
+            },
+            "whatsNew": "Massachusetts has approved eight civil administrative penalties against five sports betting operators. The penalties are due to compliance failures. This move indicates stricter regulation in the state.",
+            "whyItMatters": "The penalties highlight the importance of compliance in the sports betting industry. Operators must adhere to regulations to avoid fines and maintain their licenses.",
+            "howToUse": "Operators should review and ensure compliance with Massachusetts regulations to avoid similar penalties. Regular audits and compliance checks can help prevent fines.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliance Officers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-jr3yhckl2",
             "title": "Kalshi Sues Arizona",
@@ -50,7 +79,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-33on2s8h2",
@@ -3866,37 +3895,6 @@
             "isNew": false
         },
         {
-            "id": "t-duc99cb3t",
-            "title": "Flutter Stock Dips",
-            "subtitle": "Flutter's CEO downplays prediction market effects despite stock dips",
-            "category": "iGaming",
-            "tags": [
-                "Flutter",
-                "Stock Market",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUlpc2N5Zzlra0g0NHNPX2JJZllFSTBlMjdXLWxqd3Y0M1JXUzg1QzRERTJERFhTbGRWMFZ1UUxJSEQwR05hRlRQWk1QWlFhd0lHTWtMR2dvSlQ0Y3poRFhoaHc5R3VDdndiQ2hyeEN6SGNTUHNEVXZxNjduZmRLOWg4eVZuYVNIeVVlaEZnbTdPaUp6MnJpYmZqd2FCaklILV81Slh6OWRlaGN4U1FWSzNwQ0xnaHM?oc=5",
-                "date": "2026-03-02T14:03:50.000Z"
-            },
-            "whatsNew": "Flutter's CEO Jackson has downplayed the effects of prediction markets on their business, despite recent stock dips. The company's stock has been affected, raising questions about the impact of prediction markets.",
-            "whyItMatters": "The development has significant implications for the iGaming industry, as it may indicate a shift in market trends and investor confidence. It also highlights the potential risks and challenges associated with prediction markets.",
-            "howToUse": "iGaming operators and investors should closely monitor market trends and adjust their strategies accordingly, taking into account the potential impact of prediction markets on their business.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Flutter"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-0p4l0y7t2",
             "title": "NCAA Betting Reform",
             "subtitle": "NCAA introduces player availability reports to curb betting risks in March Madness",
@@ -6727,7 +6725,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T13:05:32.758Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "note": null
         },
         {
@@ -6746,7 +6744,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T13:05:32.758Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "note": null
         },
         {
@@ -6755,7 +6753,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T13:05:32.758Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "note": null
         },
         {
@@ -6764,7 +6762,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T13:05:32.758Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "note": null
         },
         {
@@ -6783,7 +6781,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-16T08:53:52.116Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -6951,7 +6949,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T13:05:32.758Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "note": null
         },
         {
@@ -7050,7 +7048,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T08:53:52.116Z",
+            "lastScan": "2026-03-16T14:58:16.594Z",
             "note": null
         },
         {
@@ -10514,6 +10512,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-duc99cb3t",
+            "title": "Flutter Stock Dips",
+            "subtitle": "Flutter's CEO downplays prediction market effects despite stock dips",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Stock Market",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUlpc2N5Zzlra0g0NHNPX2JJZllFSTBlMjdXLWxqd3Y0M1JXUzg1QzRERTJERFhTbGRWMFZ1UUxJSEQwR05hRlRQWk1QWlFhd0lHTWtMR2dvSlQ0Y3poRFhoaHc5R3VDdndiQ2hyeEN6SGNTUHNEVXZxNjduZmRLOWg4eVZuYVNIeVVlaEZnbTdPaUp6MnJpYmZqd2FCaklILV81Slh6OWRlaGN4U1FWSzNwQ0xnaHM?oc=5",
+                "date": "2026-03-02T14:03:50.000Z"
+            },
+            "whatsNew": "Flutter's CEO Jackson has downplayed the effects of prediction markets on their business, despite recent stock dips. The company's stock has been affected, raising questions about the impact of prediction markets.",
+            "whyItMatters": "The development has significant implications for the iGaming industry, as it may indicate a shift in market trends and investor confidence. It also highlights the potential risks and challenges associated with prediction markets.",
+            "howToUse": "iGaming operators and investors should closely monitor market trends and adjust their strategies accordingly, taking into account the potential impact of prediction markets on their business.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
