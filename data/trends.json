@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-16T07:13:16.543Z",
+        "scanDate": "2026-03-16T08:53:52.116Z",
         "version": "2.5.0",
-        "totalTrends": 220,
+        "totalTrends": 217,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dhic5mpy3",
+            "title": "NZ Casino Regulation",
+            "subtitle": "New Zealand shifts from grey to regulated online casino market",
+            "category": "iGaming",
+            "tags": [
+                "Online Casino",
+                "Regulation",
+                "New Zealand"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2c5c1NRLVo3YVJJcnNWZ3pLczhwc19iaHlXQ2Y0aG42eVdQYVBHSTFrSUY3WThrSHBtNkhrU0xPbldVczgwTW95Tk5oZVhvNnM4WFU2XzFQMnEwU0Flak9vdWFkXzFISTN6Q0hpTW9ZM3ZLVy1NUmFCQjRLUFd1MVdBbGRaby1pRGNCUFNKMjFRa2R6Q201TVAyZ2ppVVVjYmx4MHVxNGdNUQ?oc=5",
+                "date": "2026-03-16T08:43:17.000Z"
+            },
+            "whatsNew": "New Zealand is transitioning from a grey to a regulated online casino market, bringing significant changes to the industry. This shift is expected to increase transparency and player protection. The regulation is likely to attract more licensed operators to the market.",
+            "whyItMatters": "The regulation of online casinos in New Zealand will enhance player safety and increase revenue for the government. It will also create a more competitive market, driving innovation and better services.",
+            "howToUse": "Operators should prepare to comply with the new regulations, while players can expect improved protection and more choices. Regulators and operators must work together to ensure a smooth transition.",
+            "beneficiaries": [
+                "Online Casino Operators",
+                "Players",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-wq5gyq1u5",
             "title": "Gravity Series",
@@ -49,7 +79,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5tk0o79dg",
@@ -3442,38 +3472,6 @@
             "isNew": false
         },
         {
-            "id": "t-gwj2crv60",
-            "title": "AI Art Release",
-            "subtitle": "Civitai releases Kirara Hoshi character art using AI tools",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Character Design",
-                "LoRA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iVDNLQ0Q0QW1sbTQ4bGs1anNXdWN0RVF4ZjhfUXlQS01USnNTZndObjVNMGcxaVBFdEtqQ0hBV19fUlF3NlkxSHJOUk9XNXU3aEhMdDdib09POGR6bk1hRTFzREZSSHZsUHh4bUZ2dWZlTEFaeWh5djZMRXA?oc=5",
-                "date": "2026-03-02T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced a new character, Kirara Hoshi, created using AI art generation tools. The character is part of Akium's Characters - V1 and utilizes Illustrious LoRA technology. This showcases the increasing capability of AI in generating detailed and stylized character art.",
-            "whyItMatters": "The use of AI in art generation is becoming more prevalent, allowing for faster and more diverse character design. This can significantly impact the gaming and animation industries by streamlining the creative process.",
-            "howToUse": "Artists and designers can utilize Civitai's AI tools to generate unique character designs, speeding up their workflow and exploring new styles.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Studios",
-                "Graphic Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-8acl9yctl",
             "title": "NY Casino Bids",
             "subtitle": "New York casino bidders lead NYC lobbying efforts in 2025",
@@ -3535,37 +3533,6 @@
             "isNew": false
         },
         {
-            "id": "t-nx6kqn46o",
-            "title": "Anima Update",
-            "subtitle": "Civitai releases RDBT Anima v0.12fd update",
-            "category": "AI",
-            "tags": [
-                "AI Updates",
-                "Civitai",
-                "RDBT Anima"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CRzNZQkFDMDlaNkQyRlEyaDY5VWNQanUyOVowUGpUbmVfZGFuUHlhaUNoUVRRVFVjSjV1VkhfWGQzM09pM3hxZGhkSHhMcnV3RmgyVkxlNlZpb3hi?oc=5",
-                "date": "2026-03-02T08:00:00.000Z"
-            },
-            "whatsNew": "The latest version of RDBT Anima, v0.12fd, has been released on Civitai, bringing updates to the AI model. This version is a checkpoint in the development of Anima, indicating ongoing progress in AI technology.",
-            "whyItMatters": "This update signifies the continuous improvement of AI tools, potentially enhancing capabilities for users. It reflects the growing importance of AI in creative and possibly gaming contexts.",
-            "howToUse": "Developers and users can leverage this update by integrating the latest version of RDBT Anima into their projects, exploring new features and improvements for enhanced performance.",
-            "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-72uyva117",
             "title": "F1 Betting Partner",
             "subtitle": "Formula 1 names Betway as its first official betting partner",
@@ -3595,38 +3562,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-q1vw24ktd",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases CyberRealistic Pony v14.1 Stable Diffusion XL Checkpoint",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIelo3cEJvUk1kR2VjZk8zOVBJYmdrQWVOYy1QUGlfd0doX1BQSFB4YW4xdXdqNGppNDljUWlGU1pEM2VQeElkS2JxOTNmaUFnZXVYX21hSjNvRXpWZnliVDNBemN2VGM?oc=5",
-                "date": "2026-03-02T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released the CyberRealistic Pony v14.1, a new Stable Diffusion XL checkpoint. This update showcases advancements in AI-generated art. The checkpoint is available for use, demonstrating the evolving capabilities of AI in creative work.",
-            "whyItMatters": "This update highlights the rapid progress in AI art generation, potentially impacting the gaming and visual design industries. It showcases the potential for AI to generate high-quality, realistic art, which could be used in various applications, including game development and iGaming.",
-            "howToUse": "Developers and artists can utilize this checkpoint to generate realistic images, exploring its potential for game development, animation, and other creative projects. By integrating this technology, they can automate certain aspects of the design process, enhancing efficiency and creativity.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -4663,37 +4598,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-dv59zklyc",
-            "title": "AI Art",
-            "subtitle": "Civitai releases CyberRealistic Pony v17.0 with Stable Diffusion XL Checkpoint",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNRThWOUFYU0xueW9Yc0VvV2NlZklTVEFqdnREaURHTzJCNVN0WmJ2N3JRUGRzTmZfWUlEM1FUU3hoSjVIT3MwVE43UmhGamRLamtaZTVqYml2cTdBMnQ1UjhTaw?oc=5",
-                "date": "2026-03-02T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released CyberRealistic Pony v17.0, a new Stable Diffusion XL checkpoint. This update brings improved AI-generated art capabilities.",
-            "whyItMatters": "The release of CyberRealistic Pony v17.0 demonstrates the rapid advancement of AI art generation technology, enabling more realistic and detailed creations.",
-            "howToUse": "Developers and artists can utilize the CyberRealistic Pony v17.0 checkpoint to generate high-quality, realistic images and explore new possibilities in AI art.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -6914,7 +6818,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": null
         },
         {
@@ -6933,7 +6837,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": null
         },
         {
@@ -6942,7 +6846,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": null
         },
         {
@@ -6951,7 +6855,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": null
         },
         {
@@ -6970,7 +6874,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -6979,7 +6883,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -6988,7 +6892,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": "Regulatory updates"
         },
         {
@@ -7006,7 +6910,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": "EU regulatory insights"
         },
         {
@@ -7015,7 +6919,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -7138,7 +7042,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": null
         },
         {
@@ -7237,7 +7141,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-16T07:13:16.543Z",
+            "lastScan": "2026-03-16T08:53:52.116Z",
             "note": null
         },
         {
@@ -10417,6 +10321,132 @@
             "beneficiaries": [
                 "Artists",
                 "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gwj2crv60",
+            "title": "AI Art Release",
+            "subtitle": "Civitai releases Kirara Hoshi character art using AI tools",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Character Design",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iVDNLQ0Q0QW1sbTQ4bGs1anNXdWN0RVF4ZjhfUXlQS01USnNTZndObjVNMGcxaVBFdEtqQ0hBV19fUlF3NlkxSHJOUk9XNXU3aEhMdDdib09POGR6bk1hRTFzREZSSHZsUHh4bUZ2dWZlTEFaeWh5djZMRXA?oc=5",
+                "date": "2026-03-02T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced a new character, Kirara Hoshi, created using AI art generation tools. The character is part of Akium's Characters - V1 and utilizes Illustrious LoRA technology. This showcases the increasing capability of AI in generating detailed and stylized character art.",
+            "whyItMatters": "The use of AI in art generation is becoming more prevalent, allowing for faster and more diverse character design. This can significantly impact the gaming and animation industries by streamlining the creative process.",
+            "howToUse": "Artists and designers can utilize Civitai's AI tools to generate unique character designs, speeding up their workflow and exploring new styles.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-nx6kqn46o",
+            "title": "Anima Update",
+            "subtitle": "Civitai releases RDBT Anima v0.12fd update",
+            "category": "AI",
+            "tags": [
+                "AI Updates",
+                "Civitai",
+                "RDBT Anima"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CRzNZQkFDMDlaNkQyRlEyaDY5VWNQanUyOVowUGpUbmVfZGFuUHlhaUNoUVRRVFVjSjV1VkhfWGQzM09pM3hxZGhkSHhMcnV3RmgyVkxlNlZpb3hi?oc=5",
+                "date": "2026-03-02T08:00:00.000Z"
+            },
+            "whatsNew": "The latest version of RDBT Anima, v0.12fd, has been released on Civitai, bringing updates to the AI model. This version is a checkpoint in the development of Anima, indicating ongoing progress in AI technology.",
+            "whyItMatters": "This update signifies the continuous improvement of AI tools, potentially enhancing capabilities for users. It reflects the growing importance of AI in creative and possibly gaming contexts.",
+            "howToUse": "Developers and users can leverage this update by integrating the latest version of RDBT Anima into their projects, exploring new features and improvements for enhanced performance.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-q1vw24ktd",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases CyberRealistic Pony v14.1 Stable Diffusion XL Checkpoint",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIelo3cEJvUk1kR2VjZk8zOVBJYmdrQWVOYy1QUGlfd0doX1BQSFB4YW4xdXdqNGppNDljUWlGU1pEM2VQeElkS2JxOTNmaUFnZXVYX21hSjNvRXpWZnliVDNBemN2VGM?oc=5",
+                "date": "2026-03-02T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the CyberRealistic Pony v14.1, a new Stable Diffusion XL checkpoint. This update showcases advancements in AI-generated art. The checkpoint is available for use, demonstrating the evolving capabilities of AI in creative work.",
+            "whyItMatters": "This update highlights the rapid progress in AI art generation, potentially impacting the gaming and visual design industries. It showcases the potential for AI to generate high-quality, realistic art, which could be used in various applications, including game development and iGaming.",
+            "howToUse": "Developers and artists can utilize this checkpoint to generate realistic images, exploring its potential for game development, animation, and other creative projects. By integrating this technology, they can automate certain aspects of the design process, enhancing efficiency and creativity.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-dv59zklyc",
+            "title": "AI Art",
+            "subtitle": "Civitai releases CyberRealistic Pony v17.0 with Stable Diffusion XL Checkpoint",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNRThWOUFYU0xueW9Yc0VvV2NlZklTVEFqdnREaURHTzJCNVN0WmJ2N3JRUGRzTmZfWUlEM1FUU3hoSjVIT3MwVE43UmhGamRLamtaZTVqYml2cTdBMnQ1UjhTaw?oc=5",
+                "date": "2026-03-02T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released CyberRealistic Pony v17.0, a new Stable Diffusion XL checkpoint. This update brings improved AI-generated art capabilities.",
+            "whyItMatters": "The release of CyberRealistic Pony v17.0 demonstrates the rapid advancement of AI art generation technology, enabling more realistic and detailed creations.",
+            "howToUse": "Developers and artists can utilize the CyberRealistic Pony v17.0 checkpoint to generate high-quality, realistic images and explore new possibilities in AI art.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
             ],
             "companies": [
                 "Civitai"
