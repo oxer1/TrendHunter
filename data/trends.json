@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T11:41:47.941Z",
+        "scanDate": "2026-03-17T13:06:10.065Z",
         "version": "2.5.0",
-        "totalTrends": 209,
+        "totalTrends": 206,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ncc7b4ffk",
+            "title": "Visual Novel Success",
+            "subtitle": "Roger tops 100,000 sales worldwide, a milestone for solo developer TearyHand Studio",
+            "category": "Tech",
+            "tags": [
+                "Visual Novel",
+                "Game Development",
+                "Sales Milestone"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/visual-novel-and-roger-has-topped-100-000-sales-worldwide",
+                "date": "2026-03-17T12:25:19.000Z"
+            },
+            "whatsNew": "TearyHand Studio's visual novel Roger has achieved a significant sales milestone of over 100,000 copies sold worldwide. This success is notable for a solo developer. The game's popularity is a testament to the growing interest in visual novels.",
+            "whyItMatters": "The success of Roger demonstrates the potential for indie developers to achieve significant sales and recognition in the gaming industry. It also highlights the growing popularity of visual novels as a genre.",
+            "howToUse": "Developers can learn from TearyHand Studio's approach to creating engaging visual novels that resonate with players. They can also explore opportunities to create their own visual novels, leveraging the growing interest in this genre.",
+            "beneficiaries": [
+                "Indie Developers",
+                "Visual Novel Fans"
+            ],
+            "companies": [
+                "TearyHand Studio"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-jue1hi3h4",
             "title": "iGaming Tech",
@@ -2867,36 +2898,6 @@
             "isNew": false
         },
         {
-            "id": "t-b3hbelcz5",
-            "title": "Better Collective Shift",
-            "subtitle": "Chair of Better Collective to step down as reported by EGR North America",
-            "category": "iGaming",
-            "tags": [
-                "Better Collective",
-                "iGaming Leadership"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUW5xenVfUVB0dF8wWklkQ05yaTFQZ2RDZDFDci1XQjU4Z3FNbzEzZ2JRWTNvTExjSjIzOHdfMVhqVENxLWYzT254YWwyb3hFWGdzRmFjcy10VzFZU1J1RFpyM1UzQTZwcHNTTzBUVXN5emloMHVhZ3NDZw?oc=5",
-                "date": "2026-03-03T12:47:23.000Z"
-            },
-            "whatsNew": "The chair of Better Collective is stepping down, marking a change in leadership for the company. This move may have implications for the company's future direction and strategy. The news was reported by EGR North America.",
-            "whyItMatters": "The change in leadership could impact Better Collective's position in the iGaming industry and its ability to adapt to regulatory changes and market trends.",
-            "howToUse": "Companies in the iGaming sector should monitor the situation and consider how the change might affect their own operations and partnerships.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Better Collective"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-at8nx6fed",
             "title": "LTX-2 Update",
             "subtitle": "Civitai releases LTX-2.3 and LTXV2 workflows for image audio to video conversion",
@@ -4323,37 +4324,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-rnm4xgcbw",
-            "title": "OPAP Record Revenue",
-            "subtitle": "OPAP reports record revenue for FY 2025 due to strong online performance",
-            "category": "iGaming",
-            "tags": [
-                "OPAP",
-                "Online Gaming",
-                "Revenue"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVNTajROclFNTTkxQ3VyLU9JY1dQVWxjUFVMQ3NLbTVGd2poSUZuWW5UcGRwRlFueG9NRU5UOXpvUHN6M2F4VUc3VUd3bnZjcVRzNmZEZ1NOLUFDU3lSdmtCbmpvUGNNVkJWNjBYbVVBMVROc0dUdW9OQV9tUXVCT05mSnQ4cm05aDJfbF8wWXJTVFNuRjhyTjVhNEt0dHRNQk9zczk5c1FocDl6UHlF?oc=5",
-                "date": "2026-03-03T11:53:01.000Z"
-            },
-            "whatsNew": "OPAP has achieved record revenue for FY 2025, driven by a strong online performance. This growth indicates a significant shift towards online gaming. The company's online segment has been a key contributor to its success.",
-            "whyItMatters": "The record revenue highlights the growing importance of online gaming in the industry. It also underscores OPAP's successful strategy in this area.",
-            "howToUse": "Operators can focus on enhancing their online gaming offerings to capitalize on this trend. Investing in user experience and online infrastructure can help drive revenue growth.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "OPAP"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -6265,37 +6235,6 @@
             "isNew": false
         },
         {
-            "id": "t-6dho7b9xk",
-            "title": "NZ iGaming Licensing Begins",
-            "subtitle": "New Zealand will commence its iGaming licensing process in July, opening a new regulated market.",
-            "category": "iGaming",
-            "tags": [
-                "New Zealand",
-                "Regulation",
-                "Licensing",
-                "Market Expansion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTZWNjdsQkZFcHNYY3g2b2k5bUxSVm8zekotNUV2UVFCSGFFS0NtMGd3MVF3R25NWklKRXFqN25ZZ2tQeWkyNXJHVlJxbWNFUEw4UlVYT0JlNDJGNDJDMUNrelJyQXIzN0xWazBiXzI0Tm9nS2ZkUzhPMVQzckg3TGY0T2hZV0hGalFoVFhKa2dnTjJiejU2NXRQTWpmN245SThrc0hua2JfRks1enFj?oc=5",
-                "date": "2026-03-03T12:13:59.000Z"
-            },
-            "whatsNew": "New Zealand is officially starting its iGaming licensing process in July, signaling the creation of a regulated online gaming market within the country. This move will allow operators to legally offer iGaming services to NZ residents.",
-            "whyItMatters": "This opens up a new geographical market for the global iGaming industry, presenting significant growth opportunities for licensed operators and increased tax revenue for New Zealand.",
-            "howToUse": "iGaming operators should prepare by understanding the upcoming regulatory framework in New Zealand and readying applications to enter this new market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "New Zealand Government",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-rjhlaeab5",
             "title": "Hiring iGaming's Next CEO",
             "subtitle": "The article highlights the intricate challenges involved in appointing top leadership within the iGaming industry.",
@@ -6358,37 +6297,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-mq0zoohv5",
-            "title": "UK Betting Brand Data Learnings",
-            "subtitle": "A new UK betting brand is launching, incorporating insights from the medical data sector despite a recent tax increase.",
-            "category": "iGaming",
-            "tags": [
-                "UK Betting",
-                "Data Privacy",
-                "Cross-Industry",
-                "Tax Hike"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1plY3BYSHgyQnFJakhsS2RVRzB2REFRUDlNNXNtM0duc1VROXYxc3VhQ2ZBd081M2QwS1EzZjhHU1QzSG1JX3REejVLTkhUVkphUmtzYTZQX1NWenVLNTlENjZtc2RZTkx4RjU2LWRXX0JGNVNFUkxkcWJiRFNySW9kZnBnLVVreS1uNk1RRkhVbE1CTExaZnc3UVlIbjIxcWpXU1RzWQ?oc=5",
-                "date": "2026-03-03T12:23:59.000Z"
-            },
-            "whatsNew": "A fresh UK betting brand is integrating data management strategies and best practices from the highly regulated medical data sector, a novel approach for the iGaming industry. This launch is occurring even amidst a challenging tax hike environment.",
-            "whyItMatters": "This trend could set a new standard for responsible data handling and player protection within iGaming, potentially influencing future regulatory frameworks.",
-            "howToUse": "iGaming operators should investigate cross-industry data best practices, particularly from highly regulated sectors, to enhance player trust and operational integrity.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -6570,7 +6478,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T11:41:47.941Z",
+            "lastScan": "2026-03-17T13:06:10.065Z",
             "note": null
         },
         {
@@ -6589,7 +6497,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T11:41:47.941Z",
+            "lastScan": "2026-03-17T13:06:10.065Z",
             "note": null
         },
         {
@@ -10633,6 +10541,129 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-b3hbelcz5",
+            "title": "Better Collective Shift",
+            "subtitle": "Chair of Better Collective to step down as reported by EGR North America",
+            "category": "iGaming",
+            "tags": [
+                "Better Collective",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUW5xenVfUVB0dF8wWklkQ05yaTFQZ2RDZDFDci1XQjU4Z3FNbzEzZ2JRWTNvTExjSjIzOHdfMVhqVENxLWYzT254YWwyb3hFWGdzRmFjcy10VzFZU1J1RFpyM1UzQTZwcHNTTzBUVXN5emloMHVhZ3NDZw?oc=5",
+                "date": "2026-03-03T12:47:23.000Z"
+            },
+            "whatsNew": "The chair of Better Collective is stepping down, marking a change in leadership for the company. This move may have implications for the company's future direction and strategy. The news was reported by EGR North America.",
+            "whyItMatters": "The change in leadership could impact Better Collective's position in the iGaming industry and its ability to adapt to regulatory changes and market trends.",
+            "howToUse": "Companies in the iGaming sector should monitor the situation and consider how the change might affect their own operations and partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Better Collective"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-rnm4xgcbw",
+            "title": "OPAP Record Revenue",
+            "subtitle": "OPAP reports record revenue for FY 2025 due to strong online performance",
+            "category": "iGaming",
+            "tags": [
+                "OPAP",
+                "Online Gaming",
+                "Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVNTajROclFNTTkxQ3VyLU9JY1dQVWxjUFVMQ3NLbTVGd2poSUZuWW5UcGRwRlFueG9NRU5UOXpvUHN6M2F4VUc3VUd3bnZjcVRzNmZEZ1NOLUFDU3lSdmtCbmpvUGNNVkJWNjBYbVVBMVROc0dUdW9OQV9tUXVCT05mSnQ4cm05aDJfbF8wWXJTVFNuRjhyTjVhNEt0dHRNQk9zczk5c1FocDl6UHlF?oc=5",
+                "date": "2026-03-03T11:53:01.000Z"
+            },
+            "whatsNew": "OPAP has achieved record revenue for FY 2025, driven by a strong online performance. This growth indicates a significant shift towards online gaming. The company's online segment has been a key contributor to its success.",
+            "whyItMatters": "The record revenue highlights the growing importance of online gaming in the industry. It also underscores OPAP's successful strategy in this area.",
+            "howToUse": "Operators can focus on enhancing their online gaming offerings to capitalize on this trend. Investing in user experience and online infrastructure can help drive revenue growth.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "OPAP"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6dho7b9xk",
+            "title": "NZ iGaming Licensing Begins",
+            "subtitle": "New Zealand will commence its iGaming licensing process in July, opening a new regulated market.",
+            "category": "iGaming",
+            "tags": [
+                "New Zealand",
+                "Regulation",
+                "Licensing",
+                "Market Expansion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTZWNjdsQkZFcHNYY3g2b2k5bUxSVm8zekotNUV2UVFCSGFFS0NtMGd3MVF3R25NWklKRXFqN25ZZ2tQeWkyNXJHVlJxbWNFUEw4UlVYT0JlNDJGNDJDMUNrelJyQXIzN0xWazBiXzI0Tm9nS2ZkUzhPMVQzckg3TGY0T2hZV0hGalFoVFhKa2dnTjJiejU2NXRQTWpmN245SThrc0hua2JfRks1enFj?oc=5",
+                "date": "2026-03-03T12:13:59.000Z"
+            },
+            "whatsNew": "New Zealand is officially starting its iGaming licensing process in July, signaling the creation of a regulated online gaming market within the country. This move will allow operators to legally offer iGaming services to NZ residents.",
+            "whyItMatters": "This opens up a new geographical market for the global iGaming industry, presenting significant growth opportunities for licensed operators and increased tax revenue for New Zealand.",
+            "howToUse": "iGaming operators should prepare by understanding the upcoming regulatory framework in New Zealand and readying applications to enter this new market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "New Zealand Government",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-mq0zoohv5",
+            "title": "UK Betting Brand Data Learnings",
+            "subtitle": "A new UK betting brand is launching, incorporating insights from the medical data sector despite a recent tax increase.",
+            "category": "iGaming",
+            "tags": [
+                "UK Betting",
+                "Data Privacy",
+                "Cross-Industry",
+                "Tax Hike"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1plY3BYSHgyQnFJakhsS2RVRzB2REFRUDlNNXNtM0duc1VROXYxc3VhQ2ZBd081M2QwS1EzZjhHU1QzSG1JX3REejVLTkhUVkphUmtzYTZQX1NWenVLNTlENjZtc2RZTkx4RjU2LWRXX0JGNVNFUkxkcWJiRFNySW9kZnBnLVVreS1uNk1RRkhVbE1CTExaZnc3UVlIbjIxcWpXU1RzWQ?oc=5",
+                "date": "2026-03-03T12:23:59.000Z"
+            },
+            "whatsNew": "A fresh UK betting brand is integrating data management strategies and best practices from the highly regulated medical data sector, a novel approach for the iGaming industry. This launch is occurring even amidst a challenging tax hike environment.",
+            "whyItMatters": "This trend could set a new standard for responsible data handling and player protection within iGaming, potentially influencing future regulatory frameworks.",
+            "howToUse": "iGaming operators should investigate cross-industry data best practices, particularly from highly regulated sectors, to enhance player trust and operational integrity.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
