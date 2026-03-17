@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T07:07:33.392Z",
+        "scanDate": "2026-03-17T08:51:13.775Z",
         "version": "2.5.0",
-        "totalTrends": 212,
+        "totalTrends": 210,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jue1hi3h4",
+            "title": "iGaming Tech",
+            "subtitle": "Innovation in the iGaming industry discussed on igamingbusiness.com",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Innovation",
+                "Tech"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UV2Zwd0F0OWRwSFpjak5GZEd1RG5Ja2liQzdqYk1hazBBY3hBeXN3OHlBcVlTa1hIblFjbGs5Y1VWVUZaTW9VNk8xNzB4bkZua1lLanlTMFYyaDFOTElN?oc=5",
+                "date": "2026-03-11T07:00:00.000Z"
+            },
+            "whatsNew": "The article discusses the latest advancements in iGaming technology and innovation. It highlights the importance of staying up-to-date with the latest trends. The iGaming industry is constantly evolving with new technologies.",
+            "whyItMatters": "The iGaming industry's growth and development rely heavily on innovation and technological advancements. Staying informed about the latest trends is crucial for industry professionals.",
+            "howToUse": "Industry professionals can stay updated on the latest iGaming tech trends by following reputable sources like igamingbusiness.com. They can also attend industry conferences and workshops to network and learn about new innovations.",
+            "beneficiaries": [
+                "iGaming Professionals",
+                "Industry Investors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-6w59yp5jb",
             "title": "SiGMA South America",
@@ -2868,37 +2897,6 @@
             "isNew": false
         },
         {
-            "id": "t-smrsyqljl",
-            "title": "AI Image Editing",
-            "subtitle": "Civitai releases Z-Image Fun Distill Lora, a new AI image editing tool",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Editing",
-                "LoRA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWnpsWXZjYUMzVS1mSFozN20tWXR1bW50WGtXTDFnakd4dWtQYjFmZkZjWlh1aXlqZ0FweUdLOHIzREF0RjgwbVEzUEQ4dkV2X2ZpYUhjZ2J6UWI2WXBZVXgweVduUWs0dFRj?oc=5",
-                "date": "2026-03-03T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced Z-Image Fun Distill Lora, a new AI-powered image editing tool. This tool utilizes LoRA technology for advanced image manipulation. The tool is part of the ZImageBase LoRA series.",
-            "whyItMatters": "The release of Z-Image Fun Distill Lora demonstrates the growing capabilities of AI in creative fields, particularly in image editing and generation. This can significantly impact the visual design and art industries.",
-            "howToUse": "Users can leverage Z-Image Fun Distill Lora for editing and generating images by accessing it through Civitai's platform, applying the LoRA model for detailed and realistic outcomes.",
-            "beneficiaries": [
-                "Graphic Designers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-at8nx6fed",
             "title": "LTX-2 Update",
             "subtitle": "Civitai releases LTX-2.3 and LTXV2 workflows for image audio to video conversion",
@@ -4508,68 +4506,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-gaezm59qb",
-            "title": "AI Model Update",
-            "subtitle": "Civitai releases Dark Beast AI model update",
-            "category": "AI",
-            "tags": [
-                "AI Model",
-                "Civitai",
-                "Dark Beast"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ25IYklmd09GTzdOekt4SEczUXU0SXQyMEZ6VEZYMEU4U2lTQ0xRN291elpwX3ZnRm54VlVnR1BYTkd4YjhyaFljd0xXZi00SUt1SWZVSVhVZHc4RmpQcUdXTGRVMFhjNGlWTHZlOHB4MllIRno4MWlzSFFtd2hOV3Z0Ukl3Um9yZ1IzQy1GdUNQZw?oc=5",
-                "date": "2026-03-03T08:00:00.000Z"
-            },
-            "whatsNew": "The latest update to the Dark Beast AI model, DBKlein9b, has been released on Civitai, featuring a new version, DBKleinV2, and a Flux2Klein_9B checkpoint.",
-            "whyItMatters": "This update is significant for AI researchers and developers, as it provides new capabilities and improvements to the existing model, potentially leading to breakthroughs in AI applications.",
-            "howToUse": "Developers can utilize the updated model by integrating it into their existing projects or using it as a starting point for new research, leveraging the improved capabilities of DBKleinV2.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-ni7v5jcqc",
-            "title": "ZIT v1.0 Released",
-            "subtitle": "Civitai launches Event Horizon ZImageTurbo Checkpoint",
-            "category": "AI",
-            "tags": [
-                "ZImageTurbo",
-                "Civitai",
-                "Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OOUVkRkhhTjNXT09nNFhoQTNGZjF5NVViLU5kMExTYmY5MTB6aUlWdUtnNDZVa29zdzFLMXNuYVhHeHV2ZlBoajdSWnhhN0ZVZzVfdVFqYTA4dVhB?oc=5",
-                "date": "2026-03-03T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has launched Event Horizon, a ZImageTurbo checkpoint. This marks a significant milestone in AI image generation. The release is expected to improve image quality and generation speed.",
-            "whyItMatters": "The release of ZIT v1.0 has the potential to revolutionize the field of AI image generation, enabling faster and more realistic image creation. This can have a significant impact on various industries, including iGaming and art.",
-            "howToUse": "Developers can utilize the ZImageTurbo checkpoint to generate high-quality images for their applications, and researchers can build upon this milestone to further advance AI image generation capabilities.",
-            "beneficiaries": [
-                "Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         },
         {
@@ -6665,7 +6601,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T07:07:33.392Z",
+            "lastScan": "2026-03-17T08:51:13.775Z",
             "note": null
         },
         {
@@ -6684,7 +6620,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T07:07:33.392Z",
+            "lastScan": "2026-03-17T08:51:13.775Z",
             "note": null
         },
         {
@@ -6693,7 +6629,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T07:07:33.392Z",
+            "lastScan": "2026-03-17T08:51:13.775Z",
             "note": null
         },
         {
@@ -10604,6 +10540,99 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-smrsyqljl",
+            "title": "AI Image Editing",
+            "subtitle": "Civitai releases Z-Image Fun Distill Lora, a new AI image editing tool",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Editing",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWnpsWXZjYUMzVS1mSFozN20tWXR1bW50WGtXTDFnakd4dWtQYjFmZkZjWlh1aXlqZ0FweUdLOHIzREF0RjgwbVEzUEQ4dkV2X2ZpYUhjZ2J6UWI2WXBZVXgweVduUWs0dFRj?oc=5",
+                "date": "2026-03-03T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Z-Image Fun Distill Lora, a new AI-powered image editing tool. This tool utilizes LoRA technology for advanced image manipulation. The tool is part of the ZImageBase LoRA series.",
+            "whyItMatters": "The release of Z-Image Fun Distill Lora demonstrates the growing capabilities of AI in creative fields, particularly in image editing and generation. This can significantly impact the visual design and art industries.",
+            "howToUse": "Users can leverage Z-Image Fun Distill Lora for editing and generating images by accessing it through Civitai's platform, applying the LoRA model for detailed and realistic outcomes.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gaezm59qb",
+            "title": "AI Model Update",
+            "subtitle": "Civitai releases Dark Beast AI model update",
+            "category": "AI",
+            "tags": [
+                "AI Model",
+                "Civitai",
+                "Dark Beast"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ25IYklmd09GTzdOekt4SEczUXU0SXQyMEZ6VEZYMEU4U2lTQ0xRN291elpwX3ZnRm54VlVnR1BYTkd4YjhyaFljd0xXZi00SUt1SWZVSVhVZHc4RmpQcUdXTGRVMFhjNGlWTHZlOHB4MllIRno4MWlzSFFtd2hOV3Z0Ukl3Um9yZ1IzQy1GdUNQZw?oc=5",
+                "date": "2026-03-03T08:00:00.000Z"
+            },
+            "whatsNew": "The latest update to the Dark Beast AI model, DBKlein9b, has been released on Civitai, featuring a new version, DBKleinV2, and a Flux2Klein_9B checkpoint.",
+            "whyItMatters": "This update is significant for AI researchers and developers, as it provides new capabilities and improvements to the existing model, potentially leading to breakthroughs in AI applications.",
+            "howToUse": "Developers can utilize the updated model by integrating it into their existing projects or using it as a starting point for new research, leveraging the improved capabilities of DBKleinV2.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-ni7v5jcqc",
+            "title": "ZIT v1.0 Released",
+            "subtitle": "Civitai launches Event Horizon ZImageTurbo Checkpoint",
+            "category": "AI",
+            "tags": [
+                "ZImageTurbo",
+                "Civitai",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OOUVkRkhhTjNXT09nNFhoQTNGZjF5NVViLU5kMExTYmY5MTB6aUlWdUtnNDZVa29zdzFLMXNuYVhHeHV2ZlBoajdSWnhhN0ZVZzVfdVFqYTA4dVhB?oc=5",
+                "date": "2026-03-03T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has launched Event Horizon, a ZImageTurbo checkpoint. This marks a significant milestone in AI image generation. The release is expected to improve image quality and generation speed.",
+            "whyItMatters": "The release of ZIT v1.0 has the potential to revolutionize the field of AI image generation, enabling faster and more realistic image creation. This can have a significant impact on various industries, including iGaming and art.",
+            "howToUse": "Developers can utilize the ZImageTurbo checkpoint to generate high-quality images for their applications, and researchers can build upon this milestone to further advance AI image generation capabilities.",
+            "beneficiaries": [
+                "Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
