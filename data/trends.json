@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T21:35:15.452Z",
+        "scanDate": "2026-03-17T22:30:18.259Z",
         "version": "2.5.0",
-        "totalTrends": 204,
+        "totalTrends": 202,
         "categories": [
             "iGaming",
             "AI",
@@ -4359,37 +4359,6 @@
             "isNew": false
         },
         {
-            "id": "t-g2zoxwmu5",
-            "title": "Civitai Update",
-            "subtitle": "Civitai releases Swijtspot - No.2, an illustrious checkpoint",
-            "category": "AI",
-            "tags": [
-                "Civitai",
-                "AI Art",
-                "Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYldyRElvVUxUcmoyWS1XQ1pLVjdWLS1MOW5STnNBRGd4N0drLXVNbjB2ZkhsQW90b1l5Z2ptYTZ2OFJzNnlEWGw1SmlJT2swdkxCZXVKZ1JzOHV3TG41aGw1V0RkWGJX?oc=5",
-                "date": "2026-03-03T22:07:06.000Z"
-            },
-            "whatsNew": "Civitai has released Swijtspot - No.2, an illustrious checkpoint, indicating progress in AI art generation. This update may bring new features or improvements to the platform. The specifics of the update are not detailed in the provided information.",
-            "whyItMatters": "This update matters as it shows Civitai's ongoing efforts to enhance its AI art generation capabilities, potentially impacting the broader AI art community. It could lead to more sophisticated AI-generated art in the future.",
-            "howToUse": "To leverage this update, users can explore Civitai's platform for new features or improvements in AI art generation, potentially integrating these advancements into their own projects.",
-            "beneficiaries": [
-                "AI Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-jxif970q6",
             "title": "AI Video Community",
             "subtitle": "OpenArt introduces a platform for discovering and sharing creative AI video content",
@@ -5681,37 +5650,6 @@
             "isNew": false
         },
         {
-            "id": "t-wevpb6ti8",
-            "title": "Highguard Shutting Down",
-            "subtitle": "Highguard live service shooter to go offline after March 12",
-            "category": "iGaming",
-            "tags": [
-                "Highguard",
-                "Live Service",
-                "Shooter Game"
-            ],
-            "trendStrength": 2,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/highguard-is-permanently-shutting-down-barely-a-month-after-debut",
-                "date": "2026-03-03T21:42:12.000Z"
-            },
-            "whatsNew": "Highguard is shutting down permanently after just a month of operation. The game will go offline on March 12. This sudden closure is unexpected given its recent debut.",
-            "whyItMatters": "The shutdown of Highguard reflects the challenges faced by live service games in maintaining player engagement and revenue. It also highlights the risks of investing in new game titles.",
-            "howToUse": "Developers should focus on creating engaging gameplay and building a strong community to ensure the longevity of their games. They should also be prepared to pivot or adjust their strategy if the game is not performing well.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Wildlight Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
             "subtitle": "The Star Sydney appoints new CEO amid group changes",
@@ -6413,7 +6351,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T21:35:15.452Z",
+            "lastScan": "2026-03-17T22:30:18.259Z",
             "note": null
         },
         {
@@ -6432,7 +6370,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T21:35:15.452Z",
+            "lastScan": "2026-03-17T22:30:18.259Z",
             "note": null
         },
         {
@@ -10790,6 +10728,68 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-g2zoxwmu5",
+            "title": "Civitai Update",
+            "subtitle": "Civitai releases Swijtspot - No.2, an illustrious checkpoint",
+            "category": "AI",
+            "tags": [
+                "Civitai",
+                "AI Art",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYldyRElvVUxUcmoyWS1XQ1pLVjdWLS1MOW5STnNBRGd4N0drLXVNbjB2ZkhsQW90b1l5Z2ptYTZ2OFJzNnlEWGw1SmlJT2swdkxCZXVKZ1JzOHV3TG41aGw1V0RkWGJX?oc=5",
+                "date": "2026-03-03T22:07:06.000Z"
+            },
+            "whatsNew": "Civitai has released Swijtspot - No.2, an illustrious checkpoint, indicating progress in AI art generation. This update may bring new features or improvements to the platform. The specifics of the update are not detailed in the provided information.",
+            "whyItMatters": "This update matters as it shows Civitai's ongoing efforts to enhance its AI art generation capabilities, potentially impacting the broader AI art community. It could lead to more sophisticated AI-generated art in the future.",
+            "howToUse": "To leverage this update, users can explore Civitai's platform for new features or improvements in AI art generation, potentially integrating these advancements into their own projects.",
+            "beneficiaries": [
+                "AI Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-wevpb6ti8",
+            "title": "Highguard Shutting Down",
+            "subtitle": "Highguard live service shooter to go offline after March 12",
+            "category": "iGaming",
+            "tags": [
+                "Highguard",
+                "Live Service",
+                "Shooter Game"
+            ],
+            "trendStrength": 2,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/highguard-is-permanently-shutting-down-barely-a-month-after-debut",
+                "date": "2026-03-03T21:42:12.000Z"
+            },
+            "whatsNew": "Highguard is shutting down permanently after just a month of operation. The game will go offline on March 12. This sudden closure is unexpected given its recent debut.",
+            "whyItMatters": "The shutdown of Highguard reflects the challenges faced by live service games in maintaining player engagement and revenue. It also highlights the risks of investing in new game titles.",
+            "howToUse": "Developers should focus on creating engaging gameplay and building a strong community to ensure the longevity of their games. They should also be prepared to pivot or adjust their strategy if the game is not performing well.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Wildlight Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
