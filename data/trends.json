@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T14:54:00.210Z",
+        "scanDate": "2026-03-17T16:03:41.065Z",
         "version": "2.5.0",
         "totalTrends": 203,
         "categories": [
@@ -20,6 +20,40 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-v1e8h3ppr",
+            "title": "BETER Integrates",
+            "subtitle": "FeedConstruct powers BETER’s integration with LV Bet as official technology partner",
+            "category": "iGaming",
+            "tags": [
+                "BETER",
+                "FeedConstruct",
+                "LV Bet",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlNPTlFiSHVOVWxLbFA0MlFPVVE5NmdiUS11eHZRRmJ1dUZuakVoMnNyVGlqeVppTjhzRGFxcTFldlF4STIwVlFjdXBwYjM0d2d2VFYyZXpNUHR1UlhveG51eDZWNnBNdFZNT0tlUEhfbnFCdmZ0YkhmbDBDWDNoZHNVU0tfZzZpc25nWEFXMEhqd0lSMFQ3NEg0YXBHbXEwNUtrdHNOcEZjM1VQTnViRWNzSVVTQkNvWU94c2x6SnRudw?oc=5",
+                "date": "2026-03-17T09:13:54.000Z"
+            },
+            "whatsNew": "FeedConstruct has partnered with BETER to integrate with LV Bet, enhancing their sports betting offerings. This integration is expected to expand LV Bet's market reach and improve user experience.",
+            "whyItMatters": "The partnership between FeedConstruct and BETER signifies a growing trend of collaborations in the iGaming industry, aiming to provide more comprehensive and engaging experiences for users.",
+            "howToUse": "Operators can leverage such partnerships to enhance their platforms, offering a wider range of betting options and improving overall user engagement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Bettors"
+            ],
+            "companies": [
+                "FeedConstruct",
+                "BETER",
+                "LV Bet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-2okaxoq8k",
             "title": "Responsible Gaming",
@@ -49,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ncc7b4ffk",
@@ -5617,38 +5651,6 @@
             "isNew": false
         },
         {
-            "id": "t-atj5n8gvh",
-            "title": "Paramount Acquires Warner",
-            "subtitle": "Paramount briefly acknowledges Warner Bros. Games during investor event",
-            "category": "iGaming",
-            "tags": [
-                "Paramount",
-                "Warner Bros.",
-                "Acquisition"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/blink-and-you-ll-miss-it-paramount-acknowledged-the-existence-of-warner-bros-games",
-                "date": "2026-03-03T15:46:30.000Z"
-            },
-            "whatsNew": "Paramount's proposed acquisition of Warner Bros. Discovery was discussed in an investor event, with a brief mention of Warner Bros. Games. The acknowledgment is significant as it may indicate future plans for the gaming division. The acquisition could lead to changes in the gaming industry.",
-            "whyItMatters": "The acquisition could impact the gaming industry, potentially leading to new releases and collaborations. It may also affect the market share of other gaming companies.",
-            "howToUse": "Game developers and industry professionals should monitor the acquisition process and its potential impact on the market. They can also explore potential collaboration opportunities with the combined entity.",
-            "beneficiaries": [
-                "Game Developers",
-                "Investors"
-            ],
-            "companies": [
-                "Paramount",
-                "Warner Bros."
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
             "subtitle": "The Star Sydney appoints new CEO amid group changes",
@@ -6383,7 +6385,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T14:54:00.210Z",
+            "lastScan": "2026-03-17T16:03:41.065Z",
             "note": null
         },
         {
@@ -6402,7 +6404,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T14:54:00.210Z",
+            "lastScan": "2026-03-17T16:03:41.065Z",
             "note": null
         },
         {
@@ -10692,6 +10694,38 @@
                 "Vento Games",
                 "Makers Fund",
                 "Arcadia Gaming Partners"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-atj5n8gvh",
+            "title": "Paramount Acquires Warner",
+            "subtitle": "Paramount briefly acknowledges Warner Bros. Games during investor event",
+            "category": "iGaming",
+            "tags": [
+                "Paramount",
+                "Warner Bros.",
+                "Acquisition"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/blink-and-you-ll-miss-it-paramount-acknowledged-the-existence-of-warner-bros-games",
+                "date": "2026-03-03T15:46:30.000Z"
+            },
+            "whatsNew": "Paramount's proposed acquisition of Warner Bros. Discovery was discussed in an investor event, with a brief mention of Warner Bros. Games. The acknowledgment is significant as it may indicate future plans for the gaming division. The acquisition could lead to changes in the gaming industry.",
+            "whyItMatters": "The acquisition could impact the gaming industry, potentially leading to new releases and collaborations. It may also affect the market share of other gaming companies.",
+            "howToUse": "Game developers and industry professionals should monitor the acquisition process and its potential impact on the market. They can also explore potential collaboration opportunities with the combined entity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Paramount",
+                "Warner Bros."
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
