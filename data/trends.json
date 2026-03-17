@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T10:49:19.057Z",
+        "scanDate": "2026-03-17T11:41:47.941Z",
         "version": "2.5.0",
-        "totalTrends": 210,
+        "totalTrends": 209,
         "categories": [
             "iGaming",
             "AI",
@@ -5774,37 +5774,6 @@
             "isNew": false
         },
         {
-            "id": "t-tnslkwxvy",
-            "title": "Unity Asset Delisting",
-            "subtitle": "Unity Asset Store delists Chinese publishers",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Asset Store",
-                "Delisting"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/the-unity-asset-store-is-ditching-publishers-based-in-china-hong-kong-and-macau",
-                "date": "2026-03-03T11:20:07.000Z"
-            },
-            "whatsNew": "The Unity Asset Store will delist assets from creators based in China, Hong Kong, and Macau by March 31, 2026. This change affects publishers from these regions. The delisting is set to occur on a specific date.",
-            "whyItMatters": "This delisting may impact the availability of certain assets for game developers. It could also affect the revenue of creators from the affected regions.",
-            "howToUse": "Developers should review their asset dependencies and plan for potential replacements. Creators from the affected regions should explore alternative platforms for their assets.",
-            "beneficiaries": [
-                "Game Developers",
-                "Alternative Platforms"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
             "subtitle": "The Star Sydney appoints new CEO amid group changes",
@@ -6601,7 +6570,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T10:49:19.057Z",
+            "lastScan": "2026-03-17T11:41:47.941Z",
             "note": null
         },
         {
@@ -6620,7 +6589,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T10:49:19.057Z",
+            "lastScan": "2026-03-17T11:41:47.941Z",
             "note": null
         },
         {
@@ -10633,6 +10602,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-tnslkwxvy",
+            "title": "Unity Asset Delisting",
+            "subtitle": "Unity Asset Store delists Chinese publishers",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Asset Store",
+                "Delisting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/the-unity-asset-store-is-ditching-publishers-based-in-china-hong-kong-and-macau",
+                "date": "2026-03-03T11:20:07.000Z"
+            },
+            "whatsNew": "The Unity Asset Store will delist assets from creators based in China, Hong Kong, and Macau by March 31, 2026. This change affects publishers from these regions. The delisting is set to occur on a specific date.",
+            "whyItMatters": "This delisting may impact the availability of certain assets for game developers. It could also affect the revenue of creators from the affected regions.",
+            "howToUse": "Developers should review their asset dependencies and plan for potential replacements. Creators from the affected regions should explore alternative platforms for their assets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Alternative Platforms"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
