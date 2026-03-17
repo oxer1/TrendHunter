@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T16:03:41.065Z",
+        "scanDate": "2026-03-17T17:57:00.891Z",
         "version": "2.5.0",
         "totalTrends": 203,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0r5rx72mo",
+            "title": "PFL Betting Deal",
+            "subtitle": "Professional Fighters League partners with Sportradar for global betting distribution",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Partnership",
+                "PFL"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVWRtR1pROTdzTk9PaUlYVTJqMXVBeWNJaXlIdmFqQzV4Y29hRDVHSHhlcFpXMTdzTmhkcnh1ZHlKMXBiek9nNWdseTNELV82U2Z1MUNDLXlWNFlabDQyNVl0b0p0RU5xWnRiZmgzT3Qxa2lTQzVBTkRYZmowRjlLVzVRbFFlWjZNTXFpZlN5dWtjMmtHMGhQT1M1aUExMExTM2JRbmdqcFhqNm5VdUpkOEFxYzlMbnlNT1dGNnU4MEhFOHotVjY1ZTV4b2RlWEdfSlBpd2hLc216ZzBEN05WS2tB?oc=5",
+                "date": "2026-03-13T09:46:58.000Z"
+            },
+            "whatsNew": "The Professional Fighters League has announced a comprehensive global betting distribution partnership with Sportradar, expanding its reach in the sports betting market. This deal aims to increase the league's visibility and provide more betting opportunities for fans. The partnership will leverage Sportradar's technology and expertise to deliver real-time data and betting services.",
+            "whyItMatters": "This partnership is significant as it marks a major step forward for the PFL in the sports betting industry, potentially increasing its revenue and fan engagement. It also highlights the growing importance of data-driven betting solutions in the iGaming sector.",
+            "howToUse": "Operators can leverage this partnership to offer more diverse and engaging betting experiences to their customers, while the PFL can utilize the data and insights provided by Sportradar to enhance its own marketing and fan engagement strategies.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "PFL Fans"
+            ],
+            "companies": [
+                "Professional Fighters League",
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-v1e8h3ppr",
             "title": "BETER Integrates",
@@ -52,7 +84,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2okaxoq8k",
@@ -6236,39 +6268,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-qd5rv1ky2",
-            "title": "Text-to-Image Model Training",
-            "subtitle": "Rapid training of text-to-image AI models is making advanced generative AI more accessible and efficient for developers.",
-            "category": "AI",
-            "tags": [
-                "Generative AI",
-                "Text-to-Image",
-                "AI Training",
-                "Efficiency"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/Photoroom/prx-part3",
-                "date": "2026-03-03T16:50:49.000Z"
-            },
-            "whatsNew": "The ability to train sophisticated text-to-image models in a remarkably short timeframe, such as 24 hours, signifies a breakthrough in AI development accessibility and speed. This dramatically reduces iteration cycles and computational overhead for researchers and developers.",
-            "whyItMatters": "Faster training democratizes advanced AI capabilities, enabling quicker prototyping, experimentation, and deployment of custom generative models for diverse applications.",
-            "howToUse": "Developers can leverage these efficient training methodologies to rapidly build and fine-tune specialized image generation models, customizing them for specific aesthetic needs or domain tasks.",
-            "beneficiaries": [
-                "AI Developers",
-                "Researchers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -6385,7 +6384,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T16:03:41.065Z",
+            "lastScan": "2026-03-17T17:57:00.891Z",
             "note": null
         },
         {
@@ -6404,7 +6403,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T16:03:41.065Z",
+            "lastScan": "2026-03-17T17:57:00.891Z",
             "note": null
         },
         {
@@ -6413,7 +6412,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T14:54:00.210Z",
+            "lastScan": "2026-03-17T17:57:00.891Z",
             "note": null
         },
         {
@@ -10729,6 +10728,39 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qd5rv1ky2",
+            "title": "Text-to-Image Model Training",
+            "subtitle": "Rapid training of text-to-image AI models is making advanced generative AI more accessible and efficient for developers.",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Text-to-Image",
+                "AI Training",
+                "Efficiency"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+                "date": "2026-03-03T16:50:49.000Z"
+            },
+            "whatsNew": "The ability to train sophisticated text-to-image models in a remarkably short timeframe, such as 24 hours, signifies a breakthrough in AI development accessibility and speed. This dramatically reduces iteration cycles and computational overhead for researchers and developers.",
+            "whyItMatters": "Faster training democratizes advanced AI capabilities, enabling quicker prototyping, experimentation, and deployment of custom generative models for diverse applications.",
+            "howToUse": "Developers can leverage these efficient training methodologies to rapidly build and fine-tune specialized image generation models, customizing them for specific aesthetic needs or domain tasks.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
