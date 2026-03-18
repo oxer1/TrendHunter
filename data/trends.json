@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-18T16:14:42.625Z",
+        "scanDate": "2026-03-18T17:59:36.975Z",
         "version": "2.5.0",
-        "totalTrends": 185,
+        "totalTrends": 183,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g6hkborng",
+            "title": "Voxels In Gaming",
+            "subtitle": "Voxels enabled a unique gameplay loop in Donkey Kong Bananza",
+            "category": "Tech",
+            "tags": [
+                "Voxel Technology",
+                "Gameplay Loop",
+                "Donkey Kong Bananza"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-voxels-enabled-a-juicy-gameplay-loop-in-donkey-kong-bananza",
+                "date": "2026-03-18T17:53:42.000Z"
+            },
+            "whatsNew": "The use of voxels in Donkey Kong Bananza created a juicy gameplay loop, showcasing the potential of voxel technology in game development. Voxels allowed for a unique visual style and interactive gameplay elements. This approach can inspire other game developers to explore voxel technology.",
+            "whyItMatters": "The incorporation of voxels in game development can lead to innovative gameplay mechanics and visually appealing graphics, enhancing the overall gaming experience. This can set a new trend in the game development industry, encouraging more developers to experiment with voxel technology.",
+            "howToUse": "Game developers can utilize voxel technology to create engaging gameplay loops and distinctive visual styles, potentially leading to more immersive and interactive games. By exploring the capabilities of voxels, developers can push the boundaries of game design and player experience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-n19qi1zcp",
             "title": "Osaka Casino",
@@ -47,7 +76,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-v4f45t82b",
@@ -76,7 +105,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ujjacaaub",
@@ -5035,66 +5064,6 @@
             "isNew": false
         },
         {
-            "id": "t-gl5eorbsu",
-            "title": "Athletes Betting Rise",
-            "subtitle": "KSA reports increase in athletes betting on their own sports in the Netherlands",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "KSA",
-                "Netherlands"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/ksa-reports-athletes-increasingly-betting-on-own-sports/",
-                "date": "2026-03-04T16:35:03.000Z"
-            },
-            "whatsNew": "The KSA has reported an increase in athletes betting on their own sports, although the numbers are still lower than in other countries. This trend is being monitored closely. The Netherlands is seeing a notable rise in this behavior.",
-            "whyItMatters": "This increase in athletes betting on their own sports raises concerns about the integrity of the games and the potential for insider information. It also highlights the need for stricter regulations and monitoring.",
-            "howToUse": "Operators should implement stricter monitoring and reporting systems to detect and prevent athletes from betting on their own sports. Athletes should be educated on the risks and consequences of such behavior.",
-            "beneficiaries": [
-                "Regulatory Bodies",
-                "Sports Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-4hujjt5zs",
-            "title": "Polymarket Investigation",
-            "subtitle": "Israeli police investigate Polymarket over accurate prediction of US strike on Iran",
-            "category": "iGaming",
-            "tags": [
-                "Polymarket",
-                "Investigation",
-                "Prediction Market"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/polymarket-targeted-investigation-strike-on-iran/",
-                "date": "2026-03-04T16:14:44.000Z"
-            },
-            "whatsNew": "A large bet on Polymarket accurately predicted a US strike on Iran, prompting an investigation by Israeli police. The investigation highlights concerns over the use of prediction markets for potentially illicit activities. This incident raises questions about the regulation of such markets.",
-            "whyItMatters": "The investigation into Polymarket has significant implications for the regulation of prediction markets and their potential use for illicit activities. It also highlights the need for greater oversight and transparency in these markets.",
-            "howToUse": "Operators of prediction markets should ensure they have robust compliance and regulatory frameworks in place to prevent illicit activities and maintain transparency.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliance Officers"
-            ],
-            "companies": [
-                "Polymarket"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-ydktzksbx",
             "title": "AI Robotics Advance",
             "subtitle": "Bringing robotics AI to embedded platforms through dataset recording and on-device optimizations",
@@ -5248,35 +5217,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-82bms5wci",
-            "title": "Fair Game Dev",
-            "subtitle": "Workers need more protections in game development",
-            "category": "Community",
-            "tags": [
-                "Game Development",
-                "Worker Rights",
-                "Fairness"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/ghost-of-yotei-star-workers-need-more-protections-",
-                "date": "2026-03-04T17:00:00.000Z"
-            },
-            "whatsNew": "The Ghost of Yotei star is speaking out about worker protections in the game development industry. Workers are demanding fair treatment and better working conditions.",
-            "whyItMatters": "Fair treatment of workers is crucial for the well-being of employees and the success of the industry as a whole. It can impact the quality of games and the reputation of game development companies.",
-            "howToUse": "Game development companies should prioritize worker well-being and implement fair labor practices to ensure a positive and productive work environment.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Workers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
             "isNew": false
         },
         {
@@ -5824,7 +5764,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T16:14:42.625Z",
+            "lastScan": "2026-03-18T17:59:36.975Z",
             "note": null
         },
         {
@@ -5843,7 +5783,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T16:14:42.625Z",
+            "lastScan": "2026-03-18T17:59:36.975Z",
             "note": null
         },
         {
@@ -11003,6 +10943,95 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-gl5eorbsu",
+            "title": "Athletes Betting Rise",
+            "subtitle": "KSA reports increase in athletes betting on their own sports in the Netherlands",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "KSA",
+                "Netherlands"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/ksa-reports-athletes-increasingly-betting-on-own-sports/",
+                "date": "2026-03-04T16:35:03.000Z"
+            },
+            "whatsNew": "The KSA has reported an increase in athletes betting on their own sports, although the numbers are still lower than in other countries. This trend is being monitored closely. The Netherlands is seeing a notable rise in this behavior.",
+            "whyItMatters": "This increase in athletes betting on their own sports raises concerns about the integrity of the games and the potential for insider information. It also highlights the need for stricter regulations and monitoring.",
+            "howToUse": "Operators should implement stricter monitoring and reporting systems to detect and prevent athletes from betting on their own sports. Athletes should be educated on the risks and consequences of such behavior.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Sports Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-4hujjt5zs",
+            "title": "Polymarket Investigation",
+            "subtitle": "Israeli police investigate Polymarket over accurate prediction of US strike on Iran",
+            "category": "iGaming",
+            "tags": [
+                "Polymarket",
+                "Investigation",
+                "Prediction Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/polymarket-targeted-investigation-strike-on-iran/",
+                "date": "2026-03-04T16:14:44.000Z"
+            },
+            "whatsNew": "A large bet on Polymarket accurately predicted a US strike on Iran, prompting an investigation by Israeli police. The investigation highlights concerns over the use of prediction markets for potentially illicit activities. This incident raises questions about the regulation of such markets.",
+            "whyItMatters": "The investigation into Polymarket has significant implications for the regulation of prediction markets and their potential use for illicit activities. It also highlights the need for greater oversight and transparency in these markets.",
+            "howToUse": "Operators of prediction markets should ensure they have robust compliance and regulatory frameworks in place to prevent illicit activities and maintain transparency.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliance Officers"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-82bms5wci",
+            "title": "Fair Game Dev",
+            "subtitle": "Workers need more protections in game development",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Worker Rights",
+                "Fairness"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/ghost-of-yotei-star-workers-need-more-protections-",
+                "date": "2026-03-04T17:00:00.000Z"
+            },
+            "whatsNew": "The Ghost of Yotei star is speaking out about worker protections in the game development industry. Workers are demanding fair treatment and better working conditions.",
+            "whyItMatters": "Fair treatment of workers is crucial for the well-being of employees and the success of the industry as a whole. It can impact the quality of games and the reputation of game development companies.",
+            "howToUse": "Game development companies should prioritize worker well-being and implement fair labor practices to ensure a positive and productive work environment.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Workers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
