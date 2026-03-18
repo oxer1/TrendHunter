@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-17T23:30:04.950Z",
+        "scanDate": "2026-03-18T01:59:12.086Z",
         "version": "2.5.0",
-        "totalTrends": 203,
+        "totalTrends": 204,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nb9kdk4zj",
+            "title": "Sun International Expands",
+            "subtitle": "Sun International aims to double its online market share in South Africa",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Market Share",
+                "South Africa"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1VRNl92T0NqS1FoZHpaZmhrNWRzYWo5amhpMS13MjJJSGlGOEZYSEVTVHNVem5EeUx4WjdfeTljanJaLVVrWW9uQ1d1QTV4ZTBOQlRjNnVNTnIyLXFMWVB3YS03TjlrY3pkZTZXVnI2dzZPS1daeGIwZ1JQVUd3bjJ5QWdKLUxCNnVUOWw0c1JZRlk?oc=5",
+                "date": "2026-03-17T12:48:58.000Z"
+            },
+            "whatsNew": "Sun International plans to increase its online presence in South Africa, targeting a doubling of its current market share. This move indicates a growing interest in the South African online gaming market. The company's expansion strategy may involve new game offerings or enhanced online platforms.",
+            "whyItMatters": "This expansion could significantly impact the South African iGaming landscape, offering more options for local players and potentially increasing competition among operators. It also reflects the growing importance of online gaming in the region.",
+            "howToUse": "Operators looking to expand into the South African market should consider similar strategies, focusing on localized content and user experience. They should also be prepared to comply with local regulations and licensing requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "South African Players"
+            ],
+            "companies": [
+                "Sun International"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ncqkpqmzv",
+            "title": "Germany Black Market",
+            "subtitle": "Spending on Germany's black market reached €547 million in 2024, according to a GGL study.",
+            "category": "iGaming",
+            "tags": [
+                "Germany",
+                "Black Market",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXF6OEJlWmhsdkxxek5MZ3hheG1HVlI3LVhXTVNLcXZxcW45Q045aTlxM09RZ2pLMUNCOGhReW9JdDNBa00tNVVJenBVNHpjNzBJbW81V2FKQksxRkt5R3RiQXpURDZQOHZHbmpyN25mU2swSUVtdHU1TE5SczFubUJJRU1PUjJKZHdIaFZLVWRPWUlhd2tWVXMzV0R4VnJRX2daT2pSNE5qV3FBUGRzRUhtWGh5b3c?oc=5",
+                "date": "2026-03-17T13:09:03.000Z"
+            },
+            "whatsNew": "A recent study by GGL found that spending on Germany's black market reached €547 million in 2024. This indicates a significant issue with unregulated gaming in the country. The study highlights the need for stricter regulations and enforcement.",
+            "whyItMatters": "The large spending on the black market in Germany poses a threat to the regulated iGaming industry and the country's efforts to generate revenue through taxation. It also raises concerns about player protection and the potential for money laundering.",
+            "howToUse": "Operators and regulators can use this information to advocate for stricter regulations and enforcement to combat the black market and promote a safer, more regulated iGaming environment.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-m5i22fmpl",
             "title": "Allwyn New Director",
@@ -49,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s2gmkkyli",
@@ -5647,40 +5707,6 @@
             "isNew": false
         },
         {
-            "id": "t-x7wnowqpz",
-            "title": "Tencent US Divest",
-            "subtitle": "Tencent may face pressure to divest from US companies",
-            "category": "iGaming",
-            "tags": [
-                "Tencent",
-                "US Studios",
-                "Divestment"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/report-trump-administration-may-pressure-tencent-to-divest-from-us-studios",
-                "date": "2026-03-04T01:24:57.000Z"
-            },
-            "whatsNew": "The Trump administration may pressure Tencent to divest from US companies. This could impact Tencent's holdings in Epic Games, Riot Games, and Discord.",
-            "whyItMatters": "This move could significantly alter the gaming industry landscape and impact Tencent's global influence.",
-            "howToUse": "Monitor regulatory updates and assess potential investment opportunities in affected companies.",
-            "beneficiaries": [
-                "Investors",
-                "Gaming Companies"
-            ],
-            "companies": [
-                "Tencent",
-                "Epic Games",
-                "Riot Games",
-                "Discord"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-84jrgwnsx",
             "title": "New CEO Appointed",
             "subtitle": "The Star Sydney appoints new CEO amid group changes",
@@ -6382,7 +6408,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T23:30:04.950Z",
+            "lastScan": "2026-03-18T01:59:12.086Z",
             "note": null
         },
         {
@@ -6401,7 +6427,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T23:30:04.951Z",
+            "lastScan": "2026-03-18T01:59:12.086Z",
             "note": null
         },
         {
@@ -6410,7 +6436,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T17:57:00.891Z",
+            "lastScan": "2026-03-18T01:59:12.086Z",
             "note": null
         },
         {
@@ -10821,6 +10847,40 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-x7wnowqpz",
+            "title": "Tencent US Divest",
+            "subtitle": "Tencent may face pressure to divest from US companies",
+            "category": "iGaming",
+            "tags": [
+                "Tencent",
+                "US Studios",
+                "Divestment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-trump-administration-may-pressure-tencent-to-divest-from-us-studios",
+                "date": "2026-03-04T01:24:57.000Z"
+            },
+            "whatsNew": "The Trump administration may pressure Tencent to divest from US companies. This could impact Tencent's holdings in Epic Games, Riot Games, and Discord.",
+            "whyItMatters": "This move could significantly alter the gaming industry landscape and impact Tencent's global influence.",
+            "howToUse": "Monitor regulatory updates and assess potential investment opportunities in affected companies.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Companies"
+            ],
+            "companies": [
+                "Tencent",
+                "Epic Games",
+                "Riot Games",
+                "Discord"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
