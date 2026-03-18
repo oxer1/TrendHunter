@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-18T13:05:13.550Z",
+        "scanDate": "2026-03-18T15:00:50.282Z",
         "version": "2.5.0",
-        "totalTrends": 191,
+        "totalTrends": 187,
         "categories": [
             "iGaming",
             "AI",
@@ -51,7 +51,7 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2xlpbhzc7",
@@ -4667,37 +4667,6 @@
             "isNew": false
         },
         {
-            "id": "t-7m9z4n7j0",
-            "title": "Blender Models",
-            "subtitle": "PromptHero lists best blender models",
-            "category": "Tech",
-            "tags": [
-                "Blender",
-                "Models",
-                "PromptHero"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WQlVJMnZYSlJOVVFnREh2QTFrOEdPTVR4TUlYRnQzUE1BUGVWUGRabVg3QTktRzhvbENrWWhWTTVZNXQ0X2VVNjNDUjlfNkpYc3FvdGRKZkJzZEJTcnJSRElLVm9WbHc?oc=5",
-                "date": "2026-03-04T13:43:58.000Z"
-            },
-            "whatsNew": "PromptHero has compiled a list of the best blender models. The list includes various models for different uses. These models can be used for various purposes.",
-            "whyItMatters": "The list of blender models can help users choose the best model for their needs. It can also help in understanding the different types of blenders available.",
-            "howToUse": "Users can visit PromptHero to view the list of blender models and choose the one that suits their needs. They can also use the list to compare different models.",
-            "beneficiaries": [
-                "Consumers",
-                "Blender Manufacturers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -5099,37 +5068,6 @@
             "isNew": false
         },
         {
-            "id": "t-4allhu4e0",
-            "title": "Lottomatica Growth",
-            "subtitle": "Lottomatica reports higher revenue and market share in 2025",
-            "category": "iGaming",
-            "tags": [
-                "Lottomatica",
-                "GGR",
-                "Market Share"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/fy25-lottomatica-ggr-eur4-74bn-growing-market-share/",
-                "date": "2026-03-04T14:49:06.000Z"
-            },
-            "whatsNew": "Lottomatica's GGR hit €4.74bn in 2025, driven by expansion across its gaming operations. The company saw increased revenue, profits, and market share. This growth indicates a strong performance in the gaming industry.",
-            "whyItMatters": "Lottomatica's growth reflects the company's successful strategies and the potential for further expansion in the iGaming market. This trend may influence other companies to adopt similar approaches.",
-            "howToUse": "Companies can analyze Lottomatica's strategies to identify opportunities for growth and expansion in the iGaming market. By adopting similar approaches, they may be able to increase their revenue and market share.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Lottomatica"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ydktzksbx",
             "title": "AI Robotics Advance",
             "subtitle": "Bringing robotics AI to embedded platforms through dataset recording and on-device optimizations",
@@ -5372,66 +5310,6 @@
                 "Ziff Davis",
                 "Balor Games"
             ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-8h5k2lzti",
-            "title": "Sony Shifts Focus",
-            "subtitle": "Sony rethinks bringing PlayStation titles to PC due to poor sales",
-            "category": "Tech",
-            "tags": [
-                "PlayStation",
-                "PC Gaming",
-                "Sony"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/report-sony-losing-interest-in-bringing-major-playstation-titles-to-pc",
-                "date": "2026-03-04T14:55:19.000Z"
-            },
-            "whatsNew": "Sony is reportedly reconsidering its strategy to bring major PlayStation titles to PC, citing unimpressive sales. This shift in focus may impact the company's future gaming releases. The decision could also influence the gaming industry's approach to cross-platform releases.",
-            "whyItMatters": "This change in strategy may limit the availability of popular PlayStation games on PC, affecting gamers and the gaming industry as a whole. It could also lead to a reevaluation of the PC gaming market's potential for console game ports.",
-            "howToUse": "Developers should consider the potential implications of this shift on their own cross-platform release strategies, and gamers should be aware of the possible limitations on accessing PlayStation titles on PC.",
-            "beneficiaries": [
-                "Console Gamers",
-                "Game Developers"
-            ],
-            "companies": [
-                "Sony"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-kiqcctsv1",
-            "title": "Game Narrative",
-            "subtitle": "Book excerpt on game narrative design",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Narrative Design",
-                "Game Writing"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/book-excerpt-the-game-narrative-kaleidoscope",
-                "date": "2026-03-04T14:00:00.000Z"
-            },
-            "whatsNew": "A new book excerpt shares insights on game narrative design. The Game Narrative Kaleidoscope features over 100 essays on the craft of game writing. Narrative designer Jon Ingold shares the foreword.",
-            "whyItMatters": "The book provides valuable insights for game developers and writers. It highlights the importance of narrative design in game development.",
-            "howToUse": "Game developers can use the book as a resource to improve their narrative design skills. They can apply the insights from the book to create more engaging game stories.",
-            "beneficiaries": [
-                "Game Developers",
-                "Narrative Designers"
-            ],
-            "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
@@ -6013,7 +5891,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T13:05:13.550Z",
+            "lastScan": "2026-03-18T15:00:50.282Z",
             "note": null
         },
         {
@@ -6032,7 +5910,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T13:05:13.550Z",
+            "lastScan": "2026-03-18T15:00:50.283Z",
             "note": null
         },
         {
@@ -10945,6 +10823,128 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7m9z4n7j0",
+            "title": "Blender Models",
+            "subtitle": "PromptHero lists best blender models",
+            "category": "Tech",
+            "tags": [
+                "Blender",
+                "Models",
+                "PromptHero"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WQlVJMnZYSlJOVVFnREh2QTFrOEdPTVR4TUlYRnQzUE1BUGVWUGRabVg3QTktRzhvbENrWWhWTTVZNXQ0X2VVNjNDUjlfNkpYc3FvdGRKZkJzZEJTcnJSRElLVm9WbHc?oc=5",
+                "date": "2026-03-04T13:43:58.000Z"
+            },
+            "whatsNew": "PromptHero has compiled a list of the best blender models. The list includes various models for different uses. These models can be used for various purposes.",
+            "whyItMatters": "The list of blender models can help users choose the best model for their needs. It can also help in understanding the different types of blenders available.",
+            "howToUse": "Users can visit PromptHero to view the list of blender models and choose the one that suits their needs. They can also use the list to compare different models.",
+            "beneficiaries": [
+                "Consumers",
+                "Blender Manufacturers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-4allhu4e0",
+            "title": "Lottomatica Growth",
+            "subtitle": "Lottomatica reports higher revenue and market share in 2025",
+            "category": "iGaming",
+            "tags": [
+                "Lottomatica",
+                "GGR",
+                "Market Share"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-lottomatica-ggr-eur4-74bn-growing-market-share/",
+                "date": "2026-03-04T14:49:06.000Z"
+            },
+            "whatsNew": "Lottomatica's GGR hit €4.74bn in 2025, driven by expansion across its gaming operations. The company saw increased revenue, profits, and market share. This growth indicates a strong performance in the gaming industry.",
+            "whyItMatters": "Lottomatica's growth reflects the company's successful strategies and the potential for further expansion in the iGaming market. This trend may influence other companies to adopt similar approaches.",
+            "howToUse": "Companies can analyze Lottomatica's strategies to identify opportunities for growth and expansion in the iGaming market. By adopting similar approaches, they may be able to increase their revenue and market share.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Lottomatica"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-8h5k2lzti",
+            "title": "Sony Shifts Focus",
+            "subtitle": "Sony rethinks bringing PlayStation titles to PC due to poor sales",
+            "category": "Tech",
+            "tags": [
+                "PlayStation",
+                "PC Gaming",
+                "Sony"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-sony-losing-interest-in-bringing-major-playstation-titles-to-pc",
+                "date": "2026-03-04T14:55:19.000Z"
+            },
+            "whatsNew": "Sony is reportedly reconsidering its strategy to bring major PlayStation titles to PC, citing unimpressive sales. This shift in focus may impact the company's future gaming releases. The decision could also influence the gaming industry's approach to cross-platform releases.",
+            "whyItMatters": "This change in strategy may limit the availability of popular PlayStation games on PC, affecting gamers and the gaming industry as a whole. It could also lead to a reevaluation of the PC gaming market's potential for console game ports.",
+            "howToUse": "Developers should consider the potential implications of this shift on their own cross-platform release strategies, and gamers should be aware of the possible limitations on accessing PlayStation titles on PC.",
+            "beneficiaries": [
+                "Console Gamers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Sony"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kiqcctsv1",
+            "title": "Game Narrative",
+            "subtitle": "Book excerpt on game narrative design",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Narrative Design",
+                "Game Writing"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/book-excerpt-the-game-narrative-kaleidoscope",
+                "date": "2026-03-04T14:00:00.000Z"
+            },
+            "whatsNew": "A new book excerpt shares insights on game narrative design. The Game Narrative Kaleidoscope features over 100 essays on the craft of game writing. Narrative designer Jon Ingold shares the foreword.",
+            "whyItMatters": "The book provides valuable insights for game developers and writers. It highlights the importance of narrative design in game development.",
+            "howToUse": "Game developers can use the book as a resource to improve their narrative design skills. They can apply the insights from the book to create more engaging game stories.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
