@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-18T19:14:22.752Z",
+        "scanDate": "2026-03-18T20:33:06.142Z",
         "version": "2.5.0",
-        "totalTrends": 183,
+        "totalTrends": 182,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,65 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3kv8av0os",
+            "title": "Brazil Bill Impact",
+            "subtitle": "Brazil proposes bill to ban loyalty programs and cashback in iGaming",
+            "category": "iGaming",
+            "tags": [
+                "Brazil",
+                "Regulation",
+                "Loyalty Programs",
+                "Cashback"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjlRRjhuV0VHY0hMaUxIb01Temw3T0ZGTHU4b3VXcXpJVnJsV3VoYzlIempwWHlzQ3YwNWNqb1JvcU1DZktodUVuSkVVVGtXZ1JEcm1vQjJLY2RrM0c1SFJsNG83ZHlWYmx5UkdwclIyNVVsV1h5dUp5bDFYYjdCbFBLTmE0dXVVcDZNV3hXaTc1UmdUSER4WjBfWDRRaURJclR3Z1hHcw?oc=5",
+                "date": "2026-03-17T18:19:11.000Z"
+            },
+            "whatsNew": "A new bill in Brazil aims to prohibit retention strategies by banning loyalty programmes and cashback offers in the iGaming industry. This move could significantly impact how operators engage with customers. The proposed legislation reflects a growing trend of stricter regulations in the sector.",
+            "whyItMatters": "The bill's potential passage could alter the competitive landscape of Brazil's iGaming market, affecting operators' ability to retain customers. It also underscores the increasing regulatory scrutiny of the industry globally.",
+            "howToUse": "Operators should review their customer engagement strategies to comply with potential changes and focus on innovative, regulation-compliant methods to attract and retain customers.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-m0di1862h",
+            "title": "Game Dev Insight",
+            "subtitle": "Improvisation drives authenticity in game development, as seen in Despelote",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Authenticity",
+                "Neo-Realism"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-improvisation-and-kicking-a-ball-around-drove-authenticity-in-despelote",
+                "date": "2026-03-18T19:16:42.000Z"
+            },
+            "whatsNew": "The creator of Despelote, Julian Cordero, shared how his childhood experiences influenced the game's neo-realist take on 2001 Ecuador. Improvisation and real-life experiences played a significant role in achieving authenticity.",
+            "whyItMatters": "This approach to game development highlights the importance of personal experiences and improvisation in creating authentic and engaging games. It can inspire other developers to incorporate similar methods into their work.",
+            "howToUse": "Developers can apply this insight by drawing from their own experiences and incorporating improvisational elements into their game development process to create more authentic and relatable games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-g6hkborng",
             "title": "Voxels In Gaming",
@@ -874,35 +933,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-fvk17yo8z",
-            "title": "UK Gambling Sanctions",
-            "subtitle": "Smolarek Maciej faces regulatory sanctions from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Regulatory Sanctions",
-                "UK Gambling Commission",
-                "Compliance"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZU9TWndMRVNYYklYNHBORHRNekhtZ1RYcTRRenBxNUFGbWdJU3hmTEhmWkRFS0FyUkRYRlBudUZGaHppcmNtSXpYZzBjeTdadzRISFlEUENZTGJNSGlJSnA4TWhSSUpOYzc0QVZkU1JOY2pTcnhxd1N0MS1tU01ZX1JTbWtkbUN1MFk2Sw?oc=5",
-                "date": "2026-03-04T20:10:44.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Smolarek Maciej. The details of the sanctions are not specified in the provided content.",
-            "whyItMatters": "This development highlights the importance of regulatory compliance in the iGaming industry. Operators must adhere to strict guidelines to avoid sanctions.",
-            "howToUse": "Ensure your iGaming operations are compliant with all relevant regulations to avoid similar sanctions.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -5188,38 +5218,6 @@
             "isNew": false
         },
         {
-            "id": "t-ic4mjcfn2",
-            "title": "Jackbox Publishing",
-            "subtitle": "Jackbox Games enters third-party publishing with new titles",
-            "category": "iGaming",
-            "tags": [
-                "Jackbox Games",
-                "Toot Games",
-                "Publishing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/jackbox-games-jumps-feet-first-into-publishing-biz",
-                "date": "2026-03-04T20:32:17.000Z"
-            },
-            "whatsNew": "Jackbox Games is expanding into third-party publishing, starting with Toot Games' My Arms Are Longer Now. This move marks a significant shift in their business strategy. The company will now support external game development.",
-            "whyItMatters": "This expansion allows Jackbox Games to diversify its portfolio and support innovative game development. It also opens up new opportunities for independent game studios to reach a broader audience.",
-            "howToUse": "Game developers can explore partnership opportunities with Jackbox Games for publishing and distribution. This can help them gain more visibility and reach a larger player base.",
-            "beneficiaries": [
-                "Game Developers",
-                "Independent Studios"
-            ],
-            "companies": [
-                "Jackbox Games",
-                "Toot Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-oh0uzxhto",
             "title": "iGaming Law Update",
             "subtitle": "Virginia lawmakers pass competing iGaming bills to conference committee",
@@ -5430,37 +5428,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-qz7jyuoni",
-            "title": "DraftKings Leads",
-            "subtitle": "DraftKings has a competitive advantage with over half a million Discord members",
-            "category": "iGaming",
-            "tags": [
-                "DraftKings",
-                "Discord",
-                "Sports Betting"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Gambling Insider",
-                "url": "https://www.gamblinginsider.com/news/115870/draftkings-is-king-discord-thats-big-deal",
-                "date": "2026-03-04T19:39:17.000Z"
-            },
-            "whatsNew": "DraftKings has amassed over half a million members on Discord, giving it a unique edge in converting casual sports fans into bettors. This community-building effort is a novel approach in the iGaming industry. The large following indicates a strong potential for user engagement and retention.",
-            "whyItMatters": "This advantage can significantly impact DraftKings' market share and revenue, as a strong community can drive user loyalty and attract new customers. The company's ability to leverage Discord for marketing and engagement can set it apart from competitors.",
-            "howToUse": "iGaming companies can learn from DraftKings' strategy by investing in community-building efforts on social platforms like Discord, focusing on creating engaging content and fostering user interaction. This can help build brand loyalty and drive business growth.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Marketing Teams"
-            ],
-            "companies": [
-                "DraftKings"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -5764,7 +5731,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T19:14:22.752Z",
+            "lastScan": "2026-03-18T20:33:06.142Z",
             "note": null
         },
         {
@@ -5783,7 +5750,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T19:14:22.752Z",
+            "lastScan": "2026-03-18T20:33:06.142Z",
             "note": null
         },
         {
@@ -11032,6 +10999,98 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-fvk17yo8z",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "Smolarek Maciej faces regulatory sanctions from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Regulatory Sanctions",
+                "UK Gambling Commission",
+                "Compliance"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZU9TWndMRVNYYklYNHBORHRNekhtZ1RYcTRRenBxNUFGbWdJU3hmTEhmWkRFS0FyUkRYRlBudUZGaHppcmNtSXpYZzBjeTdadzRISFlEUENZTGJNSGlJSnA4TWhSSUpOYzc0QVZkU1JOY2pTcnhxd1N0MS1tU01ZX1JTbWtkbUN1MFk2Sw?oc=5",
+                "date": "2026-03-04T20:10:44.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Smolarek Maciej. The details of the sanctions are not specified in the provided content.",
+            "whyItMatters": "This development highlights the importance of regulatory compliance in the iGaming industry. Operators must adhere to strict guidelines to avoid sanctions.",
+            "howToUse": "Ensure your iGaming operations are compliant with all relevant regulations to avoid similar sanctions.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-ic4mjcfn2",
+            "title": "Jackbox Publishing",
+            "subtitle": "Jackbox Games enters third-party publishing with new titles",
+            "category": "iGaming",
+            "tags": [
+                "Jackbox Games",
+                "Toot Games",
+                "Publishing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/jackbox-games-jumps-feet-first-into-publishing-biz",
+                "date": "2026-03-04T20:32:17.000Z"
+            },
+            "whatsNew": "Jackbox Games is expanding into third-party publishing, starting with Toot Games' My Arms Are Longer Now. This move marks a significant shift in their business strategy. The company will now support external game development.",
+            "whyItMatters": "This expansion allows Jackbox Games to diversify its portfolio and support innovative game development. It also opens up new opportunities for independent game studios to reach a broader audience.",
+            "howToUse": "Game developers can explore partnership opportunities with Jackbox Games for publishing and distribution. This can help them gain more visibility and reach a larger player base.",
+            "beneficiaries": [
+                "Game Developers",
+                "Independent Studios"
+            ],
+            "companies": [
+                "Jackbox Games",
+                "Toot Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qz7jyuoni",
+            "title": "DraftKings Leads",
+            "subtitle": "DraftKings has a competitive advantage with over half a million Discord members",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Discord",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/115870/draftkings-is-king-discord-thats-big-deal",
+                "date": "2026-03-04T19:39:17.000Z"
+            },
+            "whatsNew": "DraftKings has amassed over half a million members on Discord, giving it a unique edge in converting casual sports fans into bettors. This community-building effort is a novel approach in the iGaming industry. The large following indicates a strong potential for user engagement and retention.",
+            "whyItMatters": "This advantage can significantly impact DraftKings' market share and revenue, as a strong community can drive user loyalty and attract new customers. The company's ability to leverage Discord for marketing and engagement can set it apart from competitors.",
+            "howToUse": "iGaming companies can learn from DraftKings' strategy by investing in community-building efforts on social platforms like Discord, focusing on creating engaging content and fostering user interaction. This can help build brand loyalty and drive business growth.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
