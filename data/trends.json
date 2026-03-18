@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-18T11:43:27.651Z",
+        "scanDate": "2026-03-18T13:05:13.550Z",
         "version": "2.5.0",
-        "totalTrends": 197,
+        "totalTrends": 191,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ujjacaaub",
+            "title": "Community Training",
+            "subtitle": "Games for Change introduces a training program for community professionals with major game industry partners",
+            "category": "Community",
+            "tags": [
+                "Games for Change",
+                "Community Development",
+                "Game Industry Partnerships"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/rachel-kowert-announces-evidence-based-leadership-certification-program",
+                "date": "2026-03-17T19:09:29.000Z"
+            },
+            "whatsNew": "Games for Change has launched a new training program aimed at community-facing professionals, focusing on skills development and community engagement. The program is backed by notable game industry companies. This initiative reflects a growing emphasis on community development within the gaming sector.",
+            "whyItMatters": "The program signifies a shift towards more community-centric approaches in the game development industry, highlighting the importance of trained professionals in fostering positive community interactions. This could lead to more inclusive and supportive gaming environments.",
+            "howToUse": "Community-facing professionals can leverage this program to enhance their skills in community engagement and development, potentially leading to more effective and positive community interactions within the gaming space.",
+            "beneficiaries": [
+                "Community Managers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Riot Games",
+                "Roblox",
+                "Keywords Studios"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-2xlpbhzc7",
             "title": "UKGC New Appointment",
@@ -4260,37 +4293,6 @@
             "isNew": false
         },
         {
-            "id": "t-fj48rsf5t",
-            "title": "Lottomatica Gains",
-            "subtitle": "Lottomatica's market share increases due to product development in FY25",
-            "category": "iGaming",
-            "tags": [
-                "Lottomatica",
-                "Market Share",
-                "Product Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTR0YlA2VWNLUkdxU3BkZ0RIWTcxQi01WDlzRXJFa0Y5SGxhRk14aEExQy03c1FOb2pYSWRjNzc4aHlMb1VnUXNIUW5Za0lDdXI2aXMwZUMxX1RINVN3TXpvM3dHNWJaRTAwcFBUc3QyUm9mR3VVMm8zWXJ4ZVpVM2xrZkxwcUtGaGdndG1TZDdZSW8tQ1pWX2JHaEh1V3JWeVJiekVBVDFIYTJESnd6RGpwSHpxRDdv?oc=5",
-                "date": "2026-03-04T11:45:23.000Z"
-            },
-            "whatsNew": "Lottomatica has seen market share gains driven by its focus on product development in FY25. This indicates a strategic emphasis on innovation and customer engagement. The company's efforts to enhance its offerings have yielded positive results.",
-            "whyItMatters": "The success of Lottomatica's product development strategy highlights the importance of innovation in the iGaming sector. It demonstrates how investing in new and improved products can lead to increased market share and competitiveness.",
-            "howToUse": "Operators can learn from Lottomatica's approach by prioritizing product development and innovation to stay competitive in the market. This involves continuously assessing and improving their offerings to meet evolving customer preferences.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Gamers"
-            ],
-            "companies": [
-                "Lottomatica"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-kmz9uter2",
             "title": "SOFTSWISS Expands",
             "subtitle": "SOFTSWISS participates in SBC Summit Rio and SiGMA Africa to strengthen presence in regulated iGaming markets",
@@ -5128,125 +5130,6 @@
             "isNew": false
         },
         {
-            "id": "t-tk86gnr2f",
-            "title": "CFTC Guidance",
-            "subtitle": "CFTC to publish prediction markets guidance soon",
-            "category": "Tech",
-            "tags": [
-                "CFTC",
-                "Guidance",
-                "Prediction Markets"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/cftc-chief-signals-imminent-prediction-markets-guidance/",
-                "date": "2026-03-04T12:56:06.000Z"
-            },
-            "whatsNew": "The CFTC is set to release guidance on prediction markets. This move is expected to bring clarity to the industry. The guidance is anticipated to be published soon.",
-            "whyItMatters": "The guidance will impact the regulatory landscape for prediction markets, affecting businesses and investors. It will provide clarity on the rules and regulations governing these markets.",
-            "howToUse": "Businesses and investors should prepare for the upcoming guidance by reviewing current regulations and anticipating potential changes. They should also be ready to adapt to new rules and guidelines.",
-            "beneficiaries": [
-                "Investors",
-                "Businesses"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-5nc807elt",
-            "title": "Indiana Ban",
-            "subtitle": "Indiana lawmakers approve bill to ban online sweepstakes-style casino games",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Sweepstakes",
-                "Casino Games"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/indiana-sweepstakes-ban-heads-to-governor/",
-                "date": "2026-03-04T12:49:15.000Z"
-            },
-            "whatsNew": "Indiana lawmakers have approved a bill to ban online sweepstakes-style casino games, which will now be sent to the governor for approval. The bill targets online games that mimic casino experiences. This move is part of a broader effort to regulate online gaming.",
-            "whyItMatters": "The ban could significantly impact the online gaming industry in Indiana, affecting both operators and players. It reflects a growing trend of regulatory scrutiny over online gaming activities.",
-            "howToUse": "Operators should review their offerings to ensure compliance with the impending regulations, while players should be aware of the changing legal landscape for online gaming in Indiana.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliant Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-wgb7rymk3",
-            "title": "Bragg Gaming Update",
-            "subtitle": "Bragg Gaming Group appoints new executives",
-            "category": "iGaming",
-            "tags": [
-                "Bragg Gaming",
-                "Executive Appointments"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/bragg-gaming-group-appoints-coo-content-evp/",
-                "date": "2026-03-04T12:27:39.000Z"
-            },
-            "whatsNew": "Morten Tonnesen joins as COO and Garrick Morris is promoted to EVP of content. These appointments aim to strengthen the company's leadership.",
-            "whyItMatters": "The new appointments may impact Bragg Gaming's strategic direction and operations. This could lead to changes in the company's content offerings and market presence.",
-            "howToUse": "Monitor Bragg Gaming's future developments and announcements to understand the impact of these appointments on their business and industry.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Industry Investors"
-            ],
-            "companies": [
-                "Bragg Gaming Group"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-9j3k0znya",
-            "title": "Spribe Fined",
-            "subtitle": "Sweden fines Spribe for supplying unlicensed operators",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Spribe",
-                "SGA"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/sweden-issues-small-fine-spribe-unlicensed-operators/",
-                "date": "2026-03-04T11:48:53.000Z"
-            },
-            "whatsNew": "The Swedish Gambling Authority issued a warning to Aviator supplier Spribe for providing software to unlicensed companies. Spribe was fined for non-compliance.",
-            "whyItMatters": "This fine highlights the importance of regulatory compliance in the iGaming industry. It sets a precedent for suppliers to ensure they only work with licensed operators.",
-            "howToUse": "Suppliers should conduct thorough due diligence on operators to ensure they are licensed and compliant with local regulations.",
-            "beneficiaries": [
-                "Licensed Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Spribe"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-ydktzksbx",
             "title": "AI Robotics Advance",
             "subtitle": "Bringing robotics AI to embedded platforms through dataset recording and on-device optimizations",
@@ -5547,35 +5430,6 @@
             "beneficiaries": [
                 "Game Developers",
                 "Narrative Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-utjwyhkxa",
-            "title": "Talent Agency Launch",
-            "subtitle": "Veteran launches agency to support small game studios",
-            "category": "Tech",
-            "tags": [
-                "Gaming",
-                "Talent Agency",
-                "Indie Studios"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/playstation-and-xbox-veteran-launches-talent-agency-to-support-small-studios",
-                "date": "2026-03-04T11:52:46.000Z"
-            },
-            "whatsNew": "A PlayStation and Xbox veteran has launched a talent agency to support small studios, providing recruiting expertise at a lower cost. The agency aims to help Indies and small studios grow. This move marks a new approach to studio support.",
-            "whyItMatters": "The agency's launch matters because it can help small studios compete with larger ones by providing access to top talent. This can lead to more innovative and diverse games being developed.",
-            "howToUse": "Small studios can use this agency to find and recruit top talent without the high costs of a full-time hire, helping them to grow and compete in the market.",
-            "beneficiaries": [
-                "Indie Developers",
-                "Small Studios"
             ],
             "companies": [],
             "visualStyle": null,
@@ -6014,40 +5868,6 @@
             "isNew": false
         },
         {
-            "id": "t-n0g0mdshh",
-            "title": "Allwyn Drops Novibet Acquisition",
-            "subtitle": "Allwyn withdraws its bid to acquire Novibet following negative feedback from the Hellenic Competition Commission.",
-            "category": "iGaming",
-            "tags": [
-                "M&A",
-                "Regulatory",
-                "Greece",
-                "Allwyn"
-            ],
-            "trendStrength": 3,
-            "velocity": "cooling",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTZvQ2pBdjRFcXhDTWZTeE9JZlEzdVhnU0NHV09XcFV5WGdYZWVDYmF5X1k4SHdtMC1MUDY0ZWdTd0ZEN1RHdktjdVo2SzlZYVNUSi1YalJDendKM2h4Y3ppRk5JNkNCVWZWYnNqNnBRbUI1bmgxWmNmUzVUY3dzWWtobU5LeXY1ZjJlc3Nvc3FqV0VNbGtySk1ySjhhUmhqZUJraGFtOTVSaXo1SWc?oc=5",
-                "date": "2026-03-04T12:34:14.000Z"
-            },
-            "whatsNew": "This development highlights the increasing scrutiny on large-scale iGaming mergers and acquisitions, particularly regarding potential market concentration and competitive impact within specific national jurisdictions.",
-            "whyItMatters": "It signals potential challenges for major industry players looking to expand through acquisition, especially in regulated European markets.",
-            "howToUse": "Companies should conduct thorough regulatory due diligence and engage with competition authorities early in the acquisition process.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulators",
-                "Legal Advisors"
-            ],
-            "companies": [
-                "Allwyn",
-                "Novibet"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-ljkn4cv4m",
             "title": "Bally's Intralot Leadership Change",
             "subtitle": "Bally's Intralot has announced a significant leadership change within its lotteries division.",
@@ -6193,7 +6013,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T11:43:27.651Z",
+            "lastScan": "2026-03-18T13:05:13.550Z",
             "note": null
         },
         {
@@ -6212,7 +6032,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T11:43:27.651Z",
+            "lastScan": "2026-03-18T13:05:13.550Z",
             "note": null
         },
         {
@@ -10912,6 +10732,219 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-fj48rsf5t",
+            "title": "Lottomatica Gains",
+            "subtitle": "Lottomatica's market share increases due to product development in FY25",
+            "category": "iGaming",
+            "tags": [
+                "Lottomatica",
+                "Market Share",
+                "Product Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTR0YlA2VWNLUkdxU3BkZ0RIWTcxQi01WDlzRXJFa0Y5SGxhRk14aEExQy03c1FOb2pYSWRjNzc4aHlMb1VnUXNIUW5Za0lDdXI2aXMwZUMxX1RINVN3TXpvM3dHNWJaRTAwcFBUc3QyUm9mR3VVMm8zWXJ4ZVpVM2xrZkxwcUtGaGdndG1TZDdZSW8tQ1pWX2JHaEh1V3JWeVJiekVBVDFIYTJESnd6RGpwSHpxRDdv?oc=5",
+                "date": "2026-03-04T11:45:23.000Z"
+            },
+            "whatsNew": "Lottomatica has seen market share gains driven by its focus on product development in FY25. This indicates a strategic emphasis on innovation and customer engagement. The company's efforts to enhance its offerings have yielded positive results.",
+            "whyItMatters": "The success of Lottomatica's product development strategy highlights the importance of innovation in the iGaming sector. It demonstrates how investing in new and improved products can lead to increased market share and competitiveness.",
+            "howToUse": "Operators can learn from Lottomatica's approach by prioritizing product development and innovation to stay competitive in the market. This involves continuously assessing and improving their offerings to meet evolving customer preferences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "Lottomatica"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-tk86gnr2f",
+            "title": "CFTC Guidance",
+            "subtitle": "CFTC to publish prediction markets guidance soon",
+            "category": "Tech",
+            "tags": [
+                "CFTC",
+                "Guidance",
+                "Prediction Markets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/cftc-chief-signals-imminent-prediction-markets-guidance/",
+                "date": "2026-03-04T12:56:06.000Z"
+            },
+            "whatsNew": "The CFTC is set to release guidance on prediction markets. This move is expected to bring clarity to the industry. The guidance is anticipated to be published soon.",
+            "whyItMatters": "The guidance will impact the regulatory landscape for prediction markets, affecting businesses and investors. It will provide clarity on the rules and regulations governing these markets.",
+            "howToUse": "Businesses and investors should prepare for the upcoming guidance by reviewing current regulations and anticipating potential changes. They should also be ready to adapt to new rules and guidelines.",
+            "beneficiaries": [
+                "Investors",
+                "Businesses"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-5nc807elt",
+            "title": "Indiana Ban",
+            "subtitle": "Indiana lawmakers approve bill to ban online sweepstakes-style casino games",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Sweepstakes",
+                "Casino Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/indiana-sweepstakes-ban-heads-to-governor/",
+                "date": "2026-03-04T12:49:15.000Z"
+            },
+            "whatsNew": "Indiana lawmakers have approved a bill to ban online sweepstakes-style casino games, which will now be sent to the governor for approval. The bill targets online games that mimic casino experiences. This move is part of a broader effort to regulate online gaming.",
+            "whyItMatters": "The ban could significantly impact the online gaming industry in Indiana, affecting both operators and players. It reflects a growing trend of regulatory scrutiny over online gaming activities.",
+            "howToUse": "Operators should review their offerings to ensure compliance with the impending regulations, while players should be aware of the changing legal landscape for online gaming in Indiana.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-wgb7rymk3",
+            "title": "Bragg Gaming Update",
+            "subtitle": "Bragg Gaming Group appoints new executives",
+            "category": "iGaming",
+            "tags": [
+                "Bragg Gaming",
+                "Executive Appointments"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/bragg-gaming-group-appoints-coo-content-evp/",
+                "date": "2026-03-04T12:27:39.000Z"
+            },
+            "whatsNew": "Morten Tonnesen joins as COO and Garrick Morris is promoted to EVP of content. These appointments aim to strengthen the company's leadership.",
+            "whyItMatters": "The new appointments may impact Bragg Gaming's strategic direction and operations. This could lead to changes in the company's content offerings and market presence.",
+            "howToUse": "Monitor Bragg Gaming's future developments and announcements to understand the impact of these appointments on their business and industry.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Industry Investors"
+            ],
+            "companies": [
+                "Bragg Gaming Group"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9j3k0znya",
+            "title": "Spribe Fined",
+            "subtitle": "Sweden fines Spribe for supplying unlicensed operators",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Spribe",
+                "SGA"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/sweden-issues-small-fine-spribe-unlicensed-operators/",
+                "date": "2026-03-04T11:48:53.000Z"
+            },
+            "whatsNew": "The Swedish Gambling Authority issued a warning to Aviator supplier Spribe for providing software to unlicensed companies. Spribe was fined for non-compliance.",
+            "whyItMatters": "This fine highlights the importance of regulatory compliance in the iGaming industry. It sets a precedent for suppliers to ensure they only work with licensed operators.",
+            "howToUse": "Suppliers should conduct thorough due diligence on operators to ensure they are licensed and compliant with local regulations.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Spribe"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-utjwyhkxa",
+            "title": "Talent Agency Launch",
+            "subtitle": "Veteran launches agency to support small game studios",
+            "category": "Tech",
+            "tags": [
+                "Gaming",
+                "Talent Agency",
+                "Indie Studios"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/playstation-and-xbox-veteran-launches-talent-agency-to-support-small-studios",
+                "date": "2026-03-04T11:52:46.000Z"
+            },
+            "whatsNew": "A PlayStation and Xbox veteran has launched a talent agency to support small studios, providing recruiting expertise at a lower cost. The agency aims to help Indies and small studios grow. This move marks a new approach to studio support.",
+            "whyItMatters": "The agency's launch matters because it can help small studios compete with larger ones by providing access to top talent. This can lead to more innovative and diverse games being developed.",
+            "howToUse": "Small studios can use this agency to find and recruit top talent without the high costs of a full-time hire, helping them to grow and compete in the market.",
+            "beneficiaries": [
+                "Indie Developers",
+                "Small Studios"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-n0g0mdshh",
+            "title": "Allwyn Drops Novibet Acquisition",
+            "subtitle": "Allwyn withdraws its bid to acquire Novibet following negative feedback from the Hellenic Competition Commission.",
+            "category": "iGaming",
+            "tags": [
+                "M&A",
+                "Regulatory",
+                "Greece",
+                "Allwyn"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTZvQ2pBdjRFcXhDTWZTeE9JZlEzdVhnU0NHV09XcFV5WGdYZWVDYmF5X1k4SHdtMC1MUDY0ZWdTd0ZEN1RHdktjdVo2SzlZYVNUSi1YalJDendKM2h4Y3ppRk5JNkNCVWZWYnNqNnBRbUI1bmgxWmNmUzVUY3dzWWtobU5LeXY1ZjJlc3Nvc3FqV0VNbGtySk1ySjhhUmhqZUJraGFtOTVSaXo1SWc?oc=5",
+                "date": "2026-03-04T12:34:14.000Z"
+            },
+            "whatsNew": "This development highlights the increasing scrutiny on large-scale iGaming mergers and acquisitions, particularly regarding potential market concentration and competitive impact within specific national jurisdictions.",
+            "whyItMatters": "It signals potential challenges for major industry players looking to expand through acquisition, especially in regulated European markets.",
+            "howToUse": "Companies should conduct thorough regulatory due diligence and engage with competition authorities early in the acquisition process.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators",
+                "Legal Advisors"
+            ],
+            "companies": [
+                "Allwyn",
+                "Novibet"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
