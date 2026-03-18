@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-18T22:29:46.627Z",
+        "scanDate": "2026-03-18T23:28:48.681Z",
         "version": "2.5.0",
         "totalTrends": 182,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-m5yn1dys5",
+            "title": "Argentina Blocks Polymarket",
+            "subtitle": "Argentinian judge orders nationwide block on Polymarket and app store removal",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "Argentina"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUJKcW8tSzkxbjVsOTF6cjQ0bFZQdVdQcEhzdVFCalgwZXFRV3NKXzBXTm1UWW03MUxRZnlFVmpsN3JTRnlGYXZZSDB4UVljcl9vNEdZeHdqbV9NX2NwTDJLQ2RwNkRDQk80UXJpUjg3M1NabVZudVY5QUlYZE5XWkU0Wl82MEs4YVBjUUZqdUtNTzRtNGNWT0Jua1ZMYXp2ZTFPMW81am80TVhpYzgwWWQ3NWQ5THVyeDhqUnFzX2k3OFcyeXBJ?oc=5",
+                "date": "2026-03-18T10:29:15.000Z"
+            },
+            "whatsNew": "An Argentinian judge has ordered a nationwide block on Polymarket, a prediction market platform, and its removal from app stores. This move is part of a broader regulatory crackdown on online gaming and betting in the country.",
+            "whyItMatters": "The block on Polymarket highlights the increasing scrutiny of online gaming platforms by regulatory bodies worldwide, particularly in regions with evolving or strict gambling laws.",
+            "howToUse": "Operators should closely monitor regulatory changes in their target markets and ensure compliance with local laws to avoid similar blocks or penalties.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Compliant Operators"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-3kv8av0os",
             "title": "Brazil Bill Impact",
@@ -3956,36 +3987,6 @@
             "isNew": false
         },
         {
-            "id": "t-8acl9yctl",
-            "title": "NY Casino Bids",
-            "subtitle": "New York casino bidders lead NYC lobbying efforts in 2025",
-            "category": "iGaming",
-            "tags": [
-                "New York",
-                "Casino",
-                "Lobbying",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5Y2o3NDJGdWszZHVZdEhEeWFKZHlhMVliMEVBNXc3UldGUEptTTAzbGhpNWZhcXR2SFNCcDBiTjRTOFg1WF9VeUlabmFLQllQaE9iYmxwODBmVVBiSno2NXdOdG5xZFp3LVViZEtldVl1dkZqckE?oc=5",
-                "date": "2026-03-04T23:04:18.000Z"
-            },
-            "whatsNew": "New York casino bidders continued to top the NYC lobbying report in 2025, indicating ongoing interest and investment in the state's gaming industry. This trend suggests that companies are actively pursuing opportunities in the region. The lobbying efforts are likely focused on regulatory changes and licensing.",
-            "whyItMatters": "The continued lobbying efforts by casino bidders in New York demonstrate the significance of the state's gaming market and the potential for future growth. This trend may impact the development of new casinos and gaming regulations in the region.",
-            "howToUse": "Companies looking to enter the New York gaming market should be aware of the ongoing lobbying efforts and regulatory developments. They can use this information to inform their strategic planning and investment decisions.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Gaming Investors"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-bedk1dq44",
             "title": "AI Art Model",
             "subtitle": "New LoRA edition of RedCraft-Dark Beast Z&KLEIN Exported model released on Civitai",
@@ -5731,7 +5732,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T22:29:46.627Z",
+            "lastScan": "2026-03-18T23:28:48.681Z",
             "note": null
         },
         {
@@ -5750,7 +5751,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T22:29:46.627Z",
+            "lastScan": "2026-03-18T23:28:48.681Z",
             "note": null
         },
         {
@@ -11089,6 +11090,36 @@
             "companies": [
                 "DraftKings"
             ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-8acl9yctl",
+            "title": "NY Casino Bids",
+            "subtitle": "New York casino bidders lead NYC lobbying efforts in 2025",
+            "category": "iGaming",
+            "tags": [
+                "New York",
+                "Casino",
+                "Lobbying",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5Y2o3NDJGdWszZHVZdEhEeWFKZHlhMVliMEVBNXc3UldGUEptTTAzbGhpNWZhcXR2SFNCcDBiTjRTOFg1WF9VeUlabmFLQllQaE9iYmxwODBmVVBiSno2NXdOdG5xZFp3LVViZEtldVl1dkZqckE?oc=5",
+                "date": "2026-03-04T23:04:18.000Z"
+            },
+            "whatsNew": "New York casino bidders continued to top the NYC lobbying report in 2025, indicating ongoing interest and investment in the state's gaming industry. This trend suggests that companies are actively pursuing opportunities in the region. The lobbying efforts are likely focused on regulatory changes and licensing.",
+            "whyItMatters": "The continued lobbying efforts by casino bidders in New York demonstrate the significance of the state's gaming market and the potential for future growth. This trend may impact the development of new casinos and gaming regulations in the region.",
+            "howToUse": "Companies looking to enter the New York gaming market should be aware of the ongoing lobbying efforts and regulatory developments. They can use this information to inform their strategic planning and investment decisions.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gaming Investors"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
