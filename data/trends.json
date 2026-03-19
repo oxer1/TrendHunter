@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-19T10:37:40.660Z",
+        "scanDate": "2026-03-19T11:34:21.769Z",
         "version": "2.5.0",
         "totalTrends": 171,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2q6om1qba",
+            "title": "Playstack Success",
+            "subtitle": "Playstack achieves high hit ratio with published titles",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Publishing",
+                "Success Stories"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/balatro-publisher-playstack-has-a-hit-ratio-of-more-than-85-percent",
+                "date": "2026-03-19T10:57:39.000Z"
+            },
+            "whatsNew": "Playstack, the publisher of Balatro, has achieved a high hit ratio of over 85 percent with its published titles, including Abiotic Factor and VOID/BREAKER. This indicates a successful strategy in game selection and publishing. The company's success can be attributed to its keen eye for potential hits.",
+            "whyItMatters": "Playstack's high hit ratio is significant as it showcases the company's ability to identify and publish successful games, which can impact the game development industry as a whole. This success can also influence other publishers and developers to take note of Playstack's strategies.",
+            "howToUse": "Game developers and publishers can learn from Playstack's success by analyzing their game selection process and publishing strategies. By understanding what makes a game successful, developers can create more appealing titles and increase their chances of success.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Playstack"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-m5yn1dys5",
             "title": "Argentina Blocks Polymarket",
@@ -5087,35 +5118,6 @@
             "isNew": false
         },
         {
-            "id": "t-12982gex7",
-            "title": "Baltimore Sues Operators",
-            "subtitle": "Baltimore sues sweepstakes casino operators over alleged illegal gambling platforms",
-            "category": "iGaming",
-            "tags": [
-                "Sweepstakes",
-                "Casino",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Gambling Insider",
-                "url": "https://www.gamblinginsider.com/news/116032/baltimore-sues-sweepstakes-casino-operators",
-                "date": "2026-03-05T11:25:00.000Z"
-            },
-            "whatsNew": "Baltimore has filed a lawsuit against six major sweepstakes casino operators, alleging their dual-currency platforms constitute illegal online gambling under Maryland law. The lawsuit accuses the operators of running illegal online gambling platforms disguised as legal sweepstakes.",
-            "whyItMatters": "The lawsuit highlights the ongoing regulatory challenges in the online gaming industry, with authorities seeking to crack down on operators that blur the lines between legal and illegal activities.",
-            "howToUse": "Operators should review their platforms to ensure compliance with local regulations, and consider seeking legal counsel to mitigate potential risks.",
-            "beneficiaries": [
-                "Regulators",
-                "Law Enforcement"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-fjb72weml",
             "title": "Gaming Shifts",
             "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
@@ -5385,7 +5387,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T10:37:40.660Z",
+            "lastScan": "2026-03-19T11:34:21.769Z",
             "note": null
         },
         {
@@ -5404,7 +5406,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T10:37:40.660Z",
+            "lastScan": "2026-03-19T11:34:21.769Z",
             "note": null
         },
         {
@@ -11122,6 +11124,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-12982gex7",
+            "title": "Baltimore Sues Operators",
+            "subtitle": "Baltimore sues sweepstakes casino operators over alleged illegal gambling platforms",
+            "category": "iGaming",
+            "tags": [
+                "Sweepstakes",
+                "Casino",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116032/baltimore-sues-sweepstakes-casino-operators",
+                "date": "2026-03-05T11:25:00.000Z"
+            },
+            "whatsNew": "Baltimore has filed a lawsuit against six major sweepstakes casino operators, alleging their dual-currency platforms constitute illegal online gambling under Maryland law. The lawsuit accuses the operators of running illegal online gambling platforms disguised as legal sweepstakes.",
+            "whyItMatters": "The lawsuit highlights the ongoing regulatory challenges in the online gaming industry, with authorities seeking to crack down on operators that blur the lines between legal and illegal activities.",
+            "howToUse": "Operators should review their platforms to ensure compliance with local regulations, and consider seeking legal counsel to mitigate potential risks.",
+            "beneficiaries": [
+                "Regulators",
+                "Law Enforcement"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
