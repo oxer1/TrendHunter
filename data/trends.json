@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-19T12:59:09.808Z",
+        "scanDate": "2026-03-19T14:10:34.936Z",
         "version": "2.5.0",
-        "totalTrends": 164,
+        "totalTrends": 162,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-u6vcb5rwm",
+            "title": "Aggro Crab Success",
+            "subtitle": "Indie studio Aggro Crab shares lessons from shipping a multi-million seller after just a few months of production",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Indie Studio",
+                "Multi-million Seller"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/-text-is-evil-how-making-peak-changed-indie-studio-aggro-crab",
+                "date": "2026-03-19T14:00:00.000Z"
+            },
+            "whatsNew": "Aggro Crab's game Peak achieved massive success after a short production period, offering valuable insights for game developers. The studio's experience can inform strategies for rapid game development and release. Peak's success story highlights the potential for indie studios to achieve mainstream recognition.",
+            "whyItMatters": "The success of Peak and Aggro Crab's experience can inspire and guide other indie game developers in achieving similar success. It also underscores the importance of efficient game development and release strategies in the competitive gaming market.",
+            "howToUse": "Game developers can apply Aggro Crab's lessons by focusing on streamlined development processes, prioritizing key features, and leveraging effective marketing strategies to maximize their game's potential.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Game Development Studios"
+            ],
+            "companies": [
+                "Aggro Crab"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-2q6om1qba",
             "title": "Playstack Success",
@@ -3952,37 +3983,6 @@
             "isNew": false
         },
         {
-            "id": "t-d53lr0o7b",
-            "title": "ACMA Warning",
-            "subtitle": "Winners Bookmaking receives warning for self-exclusion contraventions from ACMA",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Self-exclusion",
-                "ACMA"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXR4VXk4QXpvd180UzdnZ3gyYVFnT3lPRkg4WTlpWV9kSlJJZW1kZnpJTU5FUEQ0cUVnM1EzSG5SZFZaakRxWkJWVE4yX2xYdXBBUklmaFRMaUlyZGpySmtoelMwem5BQmxoVXRDcnh3NjMxaEpZbUg1azhseHRXMVcxSFVkVER5bWp1NW1NSGtNN04wTGxYSW5ndnZTMlZLWEFiZUp1UDhVdw?oc=5",
-                "date": "2026-03-05T13:42:14.000Z"
-            },
-            "whatsNew": "The Australian Communications and Media Authority (ACMA) has issued a warning to Winners Bookmaking for failing to comply with self-exclusion regulations. This action highlights the importance of responsible gambling practices in the iGaming industry.",
-            "whyItMatters": "The warning emphasizes the need for operators to adhere to regulatory requirements, ensuring a safe and responsible gambling environment for consumers. Non-compliance can result in penalties and damage to an operator's reputation.",
-            "howToUse": "Operators should review and strengthen their self-exclusion policies to avoid similar contraventions, ensuring compliance with regulatory bodies like ACMA.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Winners Bookmaking"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-8m5jj7cqs",
             "title": "AI Use Declines",
             "subtitle": "Game developers report less use of generative AI",
@@ -4840,67 +4840,6 @@
             "isNew": false
         },
         {
-            "id": "t-g9gr73p5j",
-            "title": "Genius Sports Defends",
-            "subtitle": "Genius Sports defends $1.2B Legend acquisition from investor criticism",
-            "category": "iGaming",
-            "tags": [
-                "Genius Sports",
-                "Legend Acquisition",
-                "Investor Criticism"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Gambling Insider",
-                "url": "https://www.gamblinginsider.com/news/116082/genius-sports-legend-acquisition-q4-earnings",
-                "date": "2026-03-05T14:00:09.000Z"
-            },
-            "whatsNew": "Genius Sports defends its $1.2B Legend acquisition after investor skepticism. The company posted its strongest revenue growth since 2021 and its highest-ever adjusted EBITDA margin as a public company.",
-            "whyItMatters": "The acquisition could significantly impact the iGaming industry, and Genius Sports' defense of the deal highlights its confidence in the move. The deal's success or failure will be closely watched by investors and industry observers.",
-            "howToUse": "Investors and industry observers should closely monitor the deal's progress and its impact on the iGaming industry. Companies can learn from Genius Sports' approach to addressing investor criticism and defending strategic acquisitions.",
-            "beneficiaries": [
-                "Investors",
-                "iGaming Companies"
-            ],
-            "companies": [
-                "Genius Sports",
-                "Legend"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-sbblnb0ph",
-            "title": "Fair Play Rules",
-            "subtitle": "Massachusetts sets path for fairer play for sharp bettors and safer play for losers",
-            "category": "iGaming",
-            "tags": [
-                "Sportsbooks",
-                "Regulation",
-                "Fair Play"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Gambling Insider",
-                "url": "https://www.gamblinginsider.com/news/116076/massachusetts-rule-sets-path-toward-fairer-play-for-sharp-bettors-safer-play-for-losers",
-                "date": "2026-03-05T13:29:06.000Z"
-            },
-            "whatsNew": "The Massachusetts Gaming Commission has passed a rule to regulate how sportsbooks treat certain bettors, aiming to provide fairer play for sharp bettors and safer play for losers. American Bettors’ Voice is in talks with other states to pass similar rules. This is the first step towards regulating limiting practices by sportsbooks.",
-            "whyItMatters": "The new rule has the potential to protect sharp bettors from being limited by sportsbooks and promote safer play for losers, which can lead to a more sustainable and responsible gaming environment. This can also encourage other states to follow suit and implement similar regulations.",
-            "howToUse": "Sportsbooks and bettors can use this development as an opportunity to review and adjust their practices to ensure compliance with the new regulations and promote fairer play. States can also consider implementing similar rules to regulate the gaming industry.",
-            "beneficiaries": [
-                "Sharp Bettors",
-                "Losers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-fjb72weml",
             "title": "Gaming Shifts",
             "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
@@ -5170,7 +5109,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T12:59:09.808Z",
+            "lastScan": "2026-03-19T14:10:34.936Z",
             "note": null
         },
         {
@@ -5189,7 +5128,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T12:59:09.808Z",
+            "lastScan": "2026-03-19T14:10:34.936Z",
             "note": null
         },
         {
@@ -11153,6 +11092,98 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-d53lr0o7b",
+            "title": "ACMA Warning",
+            "subtitle": "Winners Bookmaking receives warning for self-exclusion contraventions from ACMA",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Self-exclusion",
+                "ACMA"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXR4VXk4QXpvd180UzdnZ3gyYVFnT3lPRkg4WTlpWV9kSlJJZW1kZnpJTU5FUEQ0cUVnM1EzSG5SZFZaakRxWkJWVE4yX2xYdXBBUklmaFRMaUlyZGpySmtoelMwem5BQmxoVXRDcnh3NjMxaEpZbUg1azhseHRXMVcxSFVkVER5bWp1NW1NSGtNN04wTGxYSW5ndnZTMlZLWEFiZUp1UDhVdw?oc=5",
+                "date": "2026-03-05T13:42:14.000Z"
+            },
+            "whatsNew": "The Australian Communications and Media Authority (ACMA) has issued a warning to Winners Bookmaking for failing to comply with self-exclusion regulations. This action highlights the importance of responsible gambling practices in the iGaming industry.",
+            "whyItMatters": "The warning emphasizes the need for operators to adhere to regulatory requirements, ensuring a safe and responsible gambling environment for consumers. Non-compliance can result in penalties and damage to an operator's reputation.",
+            "howToUse": "Operators should review and strengthen their self-exclusion policies to avoid similar contraventions, ensuring compliance with regulatory bodies like ACMA.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Winners Bookmaking"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-g9gr73p5j",
+            "title": "Genius Sports Defends",
+            "subtitle": "Genius Sports defends $1.2B Legend acquisition from investor criticism",
+            "category": "iGaming",
+            "tags": [
+                "Genius Sports",
+                "Legend Acquisition",
+                "Investor Criticism"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116082/genius-sports-legend-acquisition-q4-earnings",
+                "date": "2026-03-05T14:00:09.000Z"
+            },
+            "whatsNew": "Genius Sports defends its $1.2B Legend acquisition after investor skepticism. The company posted its strongest revenue growth since 2021 and its highest-ever adjusted EBITDA margin as a public company.",
+            "whyItMatters": "The acquisition could significantly impact the iGaming industry, and Genius Sports' defense of the deal highlights its confidence in the move. The deal's success or failure will be closely watched by investors and industry observers.",
+            "howToUse": "Investors and industry observers should closely monitor the deal's progress and its impact on the iGaming industry. Companies can learn from Genius Sports' approach to addressing investor criticism and defending strategic acquisitions.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "Genius Sports",
+                "Legend"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-sbblnb0ph",
+            "title": "Fair Play Rules",
+            "subtitle": "Massachusetts sets path for fairer play for sharp bettors and safer play for losers",
+            "category": "iGaming",
+            "tags": [
+                "Sportsbooks",
+                "Regulation",
+                "Fair Play"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116076/massachusetts-rule-sets-path-toward-fairer-play-for-sharp-bettors-safer-play-for-losers",
+                "date": "2026-03-05T13:29:06.000Z"
+            },
+            "whatsNew": "The Massachusetts Gaming Commission has passed a rule to regulate how sportsbooks treat certain bettors, aiming to provide fairer play for sharp bettors and safer play for losers. American Bettors’ Voice is in talks with other states to pass similar rules. This is the first step towards regulating limiting practices by sportsbooks.",
+            "whyItMatters": "The new rule has the potential to protect sharp bettors from being limited by sportsbooks and promote safer play for losers, which can lead to a more sustainable and responsible gaming environment. This can also encourage other states to follow suit and implement similar regulations.",
+            "howToUse": "Sportsbooks and bettors can use this development as an opportunity to review and adjust their practices to ensure compliance with the new regulations and promote fairer play. States can also consider implementing similar rules to regulate the gaming industry.",
+            "beneficiaries": [
+                "Sharp Bettors",
+                "Losers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
