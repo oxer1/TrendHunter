@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-18T23:28:48.681Z",
+        "scanDate": "2026-03-19T02:00:17.041Z",
         "version": "2.5.0",
-        "totalTrends": 182,
+        "totalTrends": 181,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3kv8av0os",
@@ -5126,37 +5126,6 @@
             "isNew": false
         },
         {
-            "id": "t-j3ae97chx",
-            "title": "Modular Diffusers",
-            "subtitle": "Introducing composable building blocks for diffusion pipelines",
-            "category": "AI",
-            "tags": [
-                "Diffusion Pipelines",
-                "Modular Diffusers",
-                "Hugging Face"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/modular-diffusers",
-                "date": "2026-03-05T00:00:00.000Z"
-            },
-            "whatsNew": "Modular Diffusers are composable building blocks for diffusion pipelines, allowing for more flexibility and customization. This innovation enables the creation of more complex and efficient diffusion models. The introduction of Modular Diffusers is expected to accelerate advancements in AI research and applications.",
-            "whyItMatters": "Modular Diffusers have the potential to revolutionize the field of AI by providing a more efficient and flexible way to build diffusion models. This can lead to significant improvements in areas such as image and video generation, and natural language processing.",
-            "howToUse": "Developers can utilize Modular Diffusers to create custom diffusion pipelines tailored to their specific needs, and researchers can leverage this technology to explore new applications and advancements in AI.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Developers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-81gxjl7p4",
             "title": "VR Layoffs",
             "subtitle": "nDreams proposes significant layoffs and studio closures",
@@ -5732,7 +5701,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T23:28:48.681Z",
+            "lastScan": "2026-03-19T02:00:17.041Z",
             "note": null
         },
         {
@@ -5751,7 +5720,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T23:28:48.681Z",
+            "lastScan": "2026-03-19T02:00:17.041Z",
             "note": null
         },
         {
@@ -5760,7 +5729,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-18T07:50:56.353Z",
+            "lastScan": "2026-03-19T02:00:17.041Z",
             "note": null
         },
         {
@@ -11122,6 +11091,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-j3ae97chx",
+            "title": "Modular Diffusers",
+            "subtitle": "Introducing composable building blocks for diffusion pipelines",
+            "category": "AI",
+            "tags": [
+                "Diffusion Pipelines",
+                "Modular Diffusers",
+                "Hugging Face"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/modular-diffusers",
+                "date": "2026-03-05T00:00:00.000Z"
+            },
+            "whatsNew": "Modular Diffusers are composable building blocks for diffusion pipelines, allowing for more flexibility and customization. This innovation enables the creation of more complex and efficient diffusion models. The introduction of Modular Diffusers is expected to accelerate advancements in AI research and applications.",
+            "whyItMatters": "Modular Diffusers have the potential to revolutionize the field of AI by providing a more efficient and flexible way to build diffusion models. This can lead to significant improvements in areas such as image and video generation, and natural language processing.",
+            "howToUse": "Developers can utilize Modular Diffusers to create custom diffusion pipelines tailored to their specific needs, and researchers can leverage this technology to explore new applications and advancements in AI.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-innovation",
             "isNew": false
         }
     ]
