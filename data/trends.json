@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-19T20:34:26.764Z",
+        "scanDate": "2026-03-19T21:33:07.628Z",
         "version": "2.5.0",
-        "totalTrends": 153,
+        "totalTrends": 151,
         "categories": [
             "iGaming",
             "AI",
@@ -4659,66 +4659,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-qhvd0s14h",
-            "title": "Xbox Project Helix",
-            "subtitle": "Microsoft's next Xbox device codenamed Project Helix will play PC games",
-            "category": "Tech",
-            "tags": [
-                "Xbox",
-                "Gaming",
-                "Microsoft"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/console/the-next-xbox-is-codenamed-project-helix-will-also-play-pc-games",
-                "date": "2026-03-05T21:15:30.000Z"
-            },
-            "whatsNew": "The next Xbox device is codenamed Project Helix and will have the capability to play PC games. This new feature expands the gaming library for Xbox users. Microsoft's Xbox CEO Asha Shar revealed the codename for the next-generation device.",
-            "whyItMatters": "The ability to play PC games on the next Xbox device could significantly increase its appeal and competitiveness in the gaming market. This move may also blur the lines between console and PC gaming.",
-            "howToUse": "Gamers can look forward to accessing a broader range of games on the new Xbox, including PC-exclusive titles. Developers may need to optimize their PC games for the Xbox platform.",
-            "beneficiaries": [
-                "Gamers",
-                "Game Developers"
-            ],
-            "companies": [
-                "Microsoft"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-32nj3nq3g",
-            "title": "Game Awards",
-            "subtitle": "Don Daglow and Rebecca Ann Heineman to be honored at 2026 Game Developers Choice Awards",
-            "category": "Community",
-            "tags": [
-                "Game Developers Choice Awards",
-                "Lifetime Achievement Award",
-                "Ambassador Award"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/don-daglow-and-rebecca-heineman-to-be-honored-at-2026-game-developers-choice-awards",
-                "date": "2026-03-05T20:40:53.000Z"
-            },
-            "whatsNew": "Don Daglow will receive the Lifetime Achievement Award, and Rebecca Ann Heineman will posthumously receive the Ambassador Award. The awards will be given at the 2026 Game Developers Choice Awards.",
-            "whyItMatters": "The awards recognize the contributions and achievements of individuals in the game development industry, inspiring others to follow in their footsteps.",
-            "howToUse": "Game developers can draw inspiration from the awardees' work and contributions to the industry, and strive to make similar impacts.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Professionals"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4835,7 +4775,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T20:34:26.764Z",
+            "lastScan": "2026-03-19T21:33:07.628Z",
             "note": null
         },
         {
@@ -4854,7 +4794,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T20:34:26.764Z",
+            "lastScan": "2026-03-19T21:33:07.628Z",
             "note": null
         },
         {
@@ -11216,6 +11156,66 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qhvd0s14h",
+            "title": "Xbox Project Helix",
+            "subtitle": "Microsoft's next Xbox device codenamed Project Helix will play PC games",
+            "category": "Tech",
+            "tags": [
+                "Xbox",
+                "Gaming",
+                "Microsoft"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/console/the-next-xbox-is-codenamed-project-helix-will-also-play-pc-games",
+                "date": "2026-03-05T21:15:30.000Z"
+            },
+            "whatsNew": "The next Xbox device is codenamed Project Helix and will have the capability to play PC games. This new feature expands the gaming library for Xbox users. Microsoft's Xbox CEO Asha Shar revealed the codename for the next-generation device.",
+            "whyItMatters": "The ability to play PC games on the next Xbox device could significantly increase its appeal and competitiveness in the gaming market. This move may also blur the lines between console and PC gaming.",
+            "howToUse": "Gamers can look forward to accessing a broader range of games on the new Xbox, including PC-exclusive titles. Developers may need to optimize their PC games for the Xbox platform.",
+            "beneficiaries": [
+                "Gamers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Microsoft"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-32nj3nq3g",
+            "title": "Game Awards",
+            "subtitle": "Don Daglow and Rebecca Ann Heineman to be honored at 2026 Game Developers Choice Awards",
+            "category": "Community",
+            "tags": [
+                "Game Developers Choice Awards",
+                "Lifetime Achievement Award",
+                "Ambassador Award"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/don-daglow-and-rebecca-heineman-to-be-honored-at-2026-game-developers-choice-awards",
+                "date": "2026-03-05T20:40:53.000Z"
+            },
+            "whatsNew": "Don Daglow will receive the Lifetime Achievement Award, and Rebecca Ann Heineman will posthumously receive the Ambassador Award. The awards will be given at the 2026 Game Developers Choice Awards.",
+            "whyItMatters": "The awards recognize the contributions and achievements of individuals in the game development industry, inspiring others to follow in their footsteps.",
+            "howToUse": "Game developers can draw inspiration from the awardees' work and contributions to the industry, and strive to make similar impacts.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
