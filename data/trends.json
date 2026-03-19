@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-19T15:53:00.537Z",
+        "scanDate": "2026-03-19T16:55:44.885Z",
         "version": "2.5.0",
-        "totalTrends": 154,
+        "totalTrends": 152,
         "categories": [
             "iGaming",
             "AI",
@@ -4596,35 +4596,6 @@
             "isNew": false
         },
         {
-            "id": "t-d84ax65r4",
-            "title": "Mobile Sports Betting",
-            "subtitle": "Minnesota Senate introduces mobile sports betting bill for tribal casino owners",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "Mobile Gaming",
-                "Tribal Casino"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/minnesota-senate-introduces-mobile-betting-bill/",
-                "date": "2026-03-05T16:16:14.000Z"
-            },
-            "whatsNew": "The Minnesota Senate has introduced a bill to authorize statewide mobile sports betting, with operator licenses reserved for tribal casino owners. This move aims to expand the state's gaming industry. The legislation is currently under review.",
-            "whyItMatters": "The introduction of mobile sports betting in Minnesota could significantly boost the state's gaming revenue and create new opportunities for tribal casino owners. It may also set a precedent for other states to follow.",
-            "howToUse": "Tribal casino owners and gaming operators should prepare for potential licensing opportunities and develop strategies to capitalize on the emerging mobile sports betting market in Minnesota.",
-            "beneficiaries": [
-                "Tribal Casino Owners",
-                "Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-fjb72weml",
             "title": "Gaming Shifts",
             "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
@@ -4715,37 +4686,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
-            "id": "t-rt5zin8bs",
-            "title": "Epic Games Leaker",
-            "subtitle": "Fortnite leaker worked for Epic Games on contract basis",
-            "category": "iGaming",
-            "tags": [
-                "Epic Games",
-                "Fortnite",
-                "Leaker"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/fortnite-leaker-actually-worked-for-epic-games-according-to-new-lawsuit",
-                "date": "2026-03-05T16:47:09.000Z"
-            },
-            "whatsNew": "A Fortnite leaker with over 13,000 social media followers was found to be working for Epic Games on a contract basis. The leaker's identity was revealed through a new lawsuit. This incident highlights the issue of information leaks in the gaming industry.",
-            "whyItMatters": "The leak has significant implications for Epic Games, potentially affecting the company's reputation and competitive edge. It also raises concerns about data security and confidentiality within the gaming industry.",
-            "howToUse": "Game developers should implement robust security measures to prevent information leaks, including thorough background checks and non-disclosure agreements for contract workers.",
-            "beneficiaries": [
-                "Game Developers",
-                "Contract Workers"
-            ],
-            "companies": [
-                "Epic Games"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         }
     ],
@@ -4863,7 +4803,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T15:53:00.537Z",
+            "lastScan": "2026-03-19T16:55:44.885Z",
             "note": null
         },
         {
@@ -4882,7 +4822,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T15:53:00.537Z",
+            "lastScan": "2026-03-19T16:55:44.885Z",
             "note": null
         },
         {
@@ -11184,6 +11124,66 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-d84ax65r4",
+            "title": "Mobile Sports Betting",
+            "subtitle": "Minnesota Senate introduces mobile sports betting bill for tribal casino owners",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Mobile Gaming",
+                "Tribal Casino"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/minnesota-senate-introduces-mobile-betting-bill/",
+                "date": "2026-03-05T16:16:14.000Z"
+            },
+            "whatsNew": "The Minnesota Senate has introduced a bill to authorize statewide mobile sports betting, with operator licenses reserved for tribal casino owners. This move aims to expand the state's gaming industry. The legislation is currently under review.",
+            "whyItMatters": "The introduction of mobile sports betting in Minnesota could significantly boost the state's gaming revenue and create new opportunities for tribal casino owners. It may also set a precedent for other states to follow.",
+            "howToUse": "Tribal casino owners and gaming operators should prepare for potential licensing opportunities and develop strategies to capitalize on the emerging mobile sports betting market in Minnesota.",
+            "beneficiaries": [
+                "Tribal Casino Owners",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-rt5zin8bs",
+            "title": "Epic Games Leaker",
+            "subtitle": "Fortnite leaker worked for Epic Games on contract basis",
+            "category": "iGaming",
+            "tags": [
+                "Epic Games",
+                "Fortnite",
+                "Leaker"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-leaker-actually-worked-for-epic-games-according-to-new-lawsuit",
+                "date": "2026-03-05T16:47:09.000Z"
+            },
+            "whatsNew": "A Fortnite leaker with over 13,000 social media followers was found to be working for Epic Games on a contract basis. The leaker's identity was revealed through a new lawsuit. This incident highlights the issue of information leaks in the gaming industry.",
+            "whyItMatters": "The leak has significant implications for Epic Games, potentially affecting the company's reputation and competitive edge. It also raises concerns about data security and confidentiality within the gaming industry.",
+            "howToUse": "Game developers should implement robust security measures to prevent information leaks, including thorough background checks and non-disclosure agreements for contract workers.",
+            "beneficiaries": [
+                "Game Developers",
+                "Contract Workers"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
