@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-19T07:52:55.819Z",
+        "scanDate": "2026-03-19T08:39:13.543Z",
         "version": "2.5.0",
-        "totalTrends": 181,
+        "totalTrends": 176,
         "categories": [
             "iGaming",
             "AI",
@@ -964,37 +964,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-cqlepd3k4",
-            "title": "ADR Provider",
-            "subtitle": "UK Gambling Commission opens approval process for Alternative Dispute Resolution providers",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "ADR",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjk4MDdzZ0JJTnJ2SE02RFhIckxjWm5WQ0ZOeV9lT3pSOXNjRF81TUdVdXlZbGRta3o3TEpkbWtySHpHX0NSRzBsWU13U3dHZDFVZk9maVh4RFZlNDhZSC1BeUl1eFoyQ3ZMTWt0NGZYQlZGdi11eVVaNnYwUkRRTnRHSTg2WUYtN2RzVGp1eU9SU1VTQndYdnR5RC1WUnAwTjd4U3NHSlRsVm01ZTdXUjkySW1wVkY5Tzk5ZnNjYW1BZmxHSUFJRjR3?oc=5",
-                "date": "2026-03-05T08:00:00.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission is now accepting applications for approved Alternative Dispute Resolution providers. This move aims to enhance player protection and dispute resolution within the iGaming industry.",
-            "whyItMatters": "The approval process for ADR providers is crucial for ensuring fair and efficient dispute resolution in the iGaming sector, directly impacting player trust and operator compliance.",
-            "howToUse": "Interested parties can apply through the Gambling Commission's website, ensuring they meet the required standards and criteria for ADR providers.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [
-                "UK Gambling Commission"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -3327,39 +3296,6 @@
             "isNew": false
         },
         {
-            "id": "t-at8nx6fed",
-            "title": "LTX-2 Update",
-            "subtitle": "Civitai releases LTX-2.3 and LTXV2 workflows for image audio to video conversion",
-            "category": "AI",
-            "tags": [
-                "LTX-2",
-                "Image Audio",
-                "Video Conversion",
-                "Civitai",
-                "AI Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WjJKRE93RzFiYVFXWVZ4TnBJY05kcThIUHd3QkZCUHFMLUJENUVtSDN2Z1NLRVZUX1NadlNXMTAtSWJSc2c2NS13?oc=5",
-                "date": "2026-03-05T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced LTX-2.3 and LTXV2 workflows, enhancing image audio to video conversion capabilities. This update improves upon previous versions, offering more efficient and possibly higher quality conversions. The specifics of these enhancements are not detailed but imply a continued advancement in AI-powered media conversion.",
-            "whyItMatters": "This update matters because it signifies ongoing development in AI-powered media conversion tools, which can be crucial for content creators and the gaming industry. Improved conversion capabilities can lead to more engaging and immersive experiences.",
-            "howToUse": "Content creators can utilize LTX-2.3 and LTXV2 workflows by integrating them into their existing pipelines for converting image audio into video, potentially streamlining their production processes and enhancing output quality.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-8mt8yaa6z",
             "title": "iGaming Flocks Edinburgh",
             "subtitle": "The iGaming sector is increasingly moving to Edinburgh, but why?",
@@ -3922,38 +3858,6 @@
             "isNew": false
         },
         {
-            "id": "t-131l0mcac",
-            "title": "AI Art Workflow",
-            "subtitle": "Civitai introduces professional grade workflow for I2I/T2I with low or high VRAM",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "I2I",
-                "T2I",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZy1ub1cxY3h0cmRoVng0cVFvZG9XcHVLTHlCLTkyZHBnMjR2ajdHWHpkVl84TWFOWXpoaEx6WkpCV2lOa3NqbG0xcmIyQU80TmI5XzU0OGpyekRib0ZhQlV2bk1oV3dzd0Y2cDQ2QW14R2lyZWNWbi1PeHV2a3R6LWdRYnpndXVOb1ZjaFh1VHNjQmJRcWktUi1Mc2dOZExnSGx3RjZZdFpnVGht?oc=5",
-                "date": "2026-03-05T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai's new workflow supports both low and high VRAM, making it accessible to a wider range of users. The workflow is designed for professional-grade I2I/T2I tasks.",
-            "whyItMatters": "This workflow can significantly improve the efficiency and quality of AI art generation, benefiting artists and designers. It also demonstrates the growing importance of accessible AI tools in the creative industry.",
-            "howToUse": "Artists can utilize Civitai's workflow to streamline their I2I/T2I processes, regardless of their system's VRAM capacity. This can be particularly useful for those working with complex or high-resolution art pieces.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-u898a2sht",
             "title": "Flutter Invests",
             "subtitle": "Flutter to increase investment in Brazil following Betnacional success",
@@ -3984,37 +3888,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-bedk1dq44",
-            "title": "AI Art Model",
-            "subtitle": "New LoRA edition of RedCraft-Dark Beast Z&KLEIN Exported model released on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "LoRA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNC1MUVpRNWpReTFZUzlKYTdOUGhNdEt0angwXzhEdDdsblExbXliTzl3YkdiZE5tVWMyVndtaG5Nc0paQmpaYW1xN3Z4b3hDMWlSSk0zNHlfUzZBN2Y0OU1JOHVrUm4tbGxVQ09HVEY3U282dkl3VlZuSXJuS3N1M0E0Z0JjRDlESWRjR2JB?oc=5",
-                "date": "2026-03-05T08:00:00.000Z"
-            },
-            "whatsNew": "The RedCraft-Dark Beast Z&KLEIN Exported LoRA Edition is a new model release, version 2.0, available on the Civitai platform. It includes the Flux2Klein_9B LoRA model. This model is an update to previous versions and offers improved capabilities.",
-            "whyItMatters": "This release matters because it demonstrates the ongoing development and improvement of AI art models, providing artists and creators with more advanced tools. The update reflects the growing interest in AI-generated art and the need for more sophisticated models.",
-            "howToUse": "Artists and developers can utilize this model by accessing it through the Civitai platform, integrating it into their workflows to generate high-quality art and explore new creative possibilities.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -5368,39 +5241,6 @@
             "isNew": false
         },
         {
-            "id": "t-we293gs45",
-            "title": "Michigan Targets Kalshi",
-            "subtitle": "Michigan files lawsuit against Kalshi over prediction markets",
-            "category": "iGaming",
-            "tags": [
-                "Kalshi",
-                "Polymarket",
-                "Robinhood"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Gambling Insider",
-                "url": "https://www.gamblinginsider.com/news/115936/michigan-kalshi-lawsuit-polymarket-robinhood-prediction-markets",
-                "date": "2026-03-05T08:38:30.000Z"
-            },
-            "whatsNew": "Michigan filed a lawsuit against Kalshi, while Polymarket and Robinhood launched federal challenges. The lawsuits are over prediction markets and federally regulated event contracts.",
-            "whyItMatters": "The outcome of these lawsuits may set a precedent for the regulation of prediction markets in the US. It could impact the entire iGaming industry and its stakeholders.",
-            "howToUse": "Operators should monitor the developments in these lawsuits and adjust their strategies accordingly. They should also review their compliance with federal and state regulations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulators"
-            ],
-            "companies": [
-                "Kalshi",
-                "Polymarket",
-                "Robinhood"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-fjb72weml",
             "title": "Gaming Shifts",
             "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
@@ -5701,7 +5541,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T07:52:55.819Z",
+            "lastScan": "2026-03-19T08:39:13.543Z",
             "note": null
         },
         {
@@ -5720,7 +5560,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-19T07:52:55.819Z",
+            "lastScan": "2026-03-19T08:39:13.543Z",
             "note": null
         },
         {
@@ -11122,6 +10962,166 @@
             ],
             "visualStyle": null,
             "cluster": "ai-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-cqlepd3k4",
+            "title": "ADR Provider",
+            "subtitle": "UK Gambling Commission opens approval process for Alternative Dispute Resolution providers",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "ADR",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjk4MDdzZ0JJTnJ2SE02RFhIckxjWm5WQ0ZOeV9lT3pSOXNjRF81TUdVdXlZbGRta3o3TEpkbWtySHpHX0NSRzBsWU13U3dHZDFVZk9maVh4RFZlNDhZSC1BeUl1eFoyQ3ZMTWt0NGZYQlZGdi11eVVaNnYwUkRRTnRHSTg2WUYtN2RzVGp1eU9SU1VTQndYdnR5RC1WUnAwTjd4U3NHSlRsVm01ZTdXUjkySW1wVkY5Tzk5ZnNjYW1BZmxHSUFJRjR3?oc=5",
+                "date": "2026-03-05T08:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission is now accepting applications for approved Alternative Dispute Resolution providers. This move aims to enhance player protection and dispute resolution within the iGaming industry.",
+            "whyItMatters": "The approval process for ADR providers is crucial for ensuring fair and efficient dispute resolution in the iGaming sector, directly impacting player trust and operator compliance.",
+            "howToUse": "Interested parties can apply through the Gambling Commission's website, ensuring they meet the required standards and criteria for ADR providers.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-at8nx6fed",
+            "title": "LTX-2 Update",
+            "subtitle": "Civitai releases LTX-2.3 and LTXV2 workflows for image audio to video conversion",
+            "category": "AI",
+            "tags": [
+                "LTX-2",
+                "Image Audio",
+                "Video Conversion",
+                "Civitai",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WjJKRE93RzFiYVFXWVZ4TnBJY05kcThIUHd3QkZCUHFMLUJENUVtSDN2Z1NLRVZUX1NadlNXMTAtSWJSc2c2NS13?oc=5",
+                "date": "2026-03-05T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced LTX-2.3 and LTXV2 workflows, enhancing image audio to video conversion capabilities. This update improves upon previous versions, offering more efficient and possibly higher quality conversions. The specifics of these enhancements are not detailed but imply a continued advancement in AI-powered media conversion.",
+            "whyItMatters": "This update matters because it signifies ongoing development in AI-powered media conversion tools, which can be crucial for content creators and the gaming industry. Improved conversion capabilities can lead to more engaging and immersive experiences.",
+            "howToUse": "Content creators can utilize LTX-2.3 and LTXV2 workflows by integrating them into their existing pipelines for converting image audio into video, potentially streamlining their production processes and enhancing output quality.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-131l0mcac",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces professional grade workflow for I2I/T2I with low or high VRAM",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "I2I",
+                "T2I",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZy1ub1cxY3h0cmRoVng0cVFvZG9XcHVLTHlCLTkyZHBnMjR2ajdHWHpkVl84TWFOWXpoaEx6WkpCV2lOa3NqbG0xcmIyQU80TmI5XzU0OGpyekRib0ZhQlV2bk1oV3dzd0Y2cDQ2QW14R2lyZWNWbi1PeHV2a3R6LWdRYnpndXVOb1ZjaFh1VHNjQmJRcWktUi1Mc2dOZExnSGx3RjZZdFpnVGht?oc=5",
+                "date": "2026-03-05T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, making it accessible to a wider range of users. The workflow is designed for professional-grade I2I/T2I tasks.",
+            "whyItMatters": "This workflow can significantly improve the efficiency and quality of AI art generation, benefiting artists and designers. It also demonstrates the growing importance of accessible AI tools in the creative industry.",
+            "howToUse": "Artists can utilize Civitai's workflow to streamline their I2I/T2I processes, regardless of their system's VRAM capacity. This can be particularly useful for those working with complex or high-resolution art pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-bedk1dq44",
+            "title": "AI Art Model",
+            "subtitle": "New LoRA edition of RedCraft-Dark Beast Z&KLEIN Exported model released on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNC1MUVpRNWpReTFZUzlKYTdOUGhNdEt0angwXzhEdDdsblExbXliTzl3YkdiZE5tVWMyVndtaG5Nc0paQmpaYW1xN3Z4b3hDMWlSSk0zNHlfUzZBN2Y0OU1JOHVrUm4tbGxVQ09HVEY3U282dkl3VlZuSXJuS3N1M0E0Z0JjRDlESWRjR2JB?oc=5",
+                "date": "2026-03-05T08:00:00.000Z"
+            },
+            "whatsNew": "The RedCraft-Dark Beast Z&KLEIN Exported LoRA Edition is a new model release, version 2.0, available on the Civitai platform. It includes the Flux2Klein_9B LoRA model. This model is an update to previous versions and offers improved capabilities.",
+            "whyItMatters": "This release matters because it demonstrates the ongoing development and improvement of AI art models, providing artists and creators with more advanced tools. The update reflects the growing interest in AI-generated art and the need for more sophisticated models.",
+            "howToUse": "Artists and developers can utilize this model by accessing it through the Civitai platform, integrating it into their workflows to generate high-quality art and explore new creative possibilities.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-we293gs45",
+            "title": "Michigan Targets Kalshi",
+            "subtitle": "Michigan files lawsuit against Kalshi over prediction markets",
+            "category": "iGaming",
+            "tags": [
+                "Kalshi",
+                "Polymarket",
+                "Robinhood"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/115936/michigan-kalshi-lawsuit-polymarket-robinhood-prediction-markets",
+                "date": "2026-03-05T08:38:30.000Z"
+            },
+            "whatsNew": "Michigan filed a lawsuit against Kalshi, while Polymarket and Robinhood launched federal challenges. The lawsuits are over prediction markets and federally regulated event contracts.",
+            "whyItMatters": "The outcome of these lawsuits may set a precedent for the regulation of prediction markets in the US. It could impact the entire iGaming industry and its stakeholders.",
+            "howToUse": "Operators should monitor the developments in these lawsuits and adjust their strategies accordingly. They should also review their compliance with federal and state regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "Kalshi",
+                "Polymarket",
+                "Robinhood"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
