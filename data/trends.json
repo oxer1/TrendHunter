@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T18:44:02.956Z",
+        "scanDate": "2026-03-20T19:36:08.492Z",
         "version": "2.5.0",
-        "totalTrends": 132,
+        "totalTrends": 131,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xbreyoot1",
@@ -4032,38 +4032,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-xz64m6tf8",
-            "title": "AI Art Studio",
-            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Video Generation",
-                "Image Creation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fX3hkaGJ1dGdwTEE5eThweFNxTG1jVHNRaTMzeXJLZlRPLTh6OFA4OENteFFBd0l6MVBmcmhLOVBCdTlnZ0J0bw?oc=5",
-                "date": "2026-03-06T19:04:03.000Z"
-            },
-            "whatsNew": "OpenArt's AI Creator Studio allows users to generate high-quality videos and images using AI technology. This studio provides a range of tools and features for creative professionals. The platform aims to simplify the content creation process.",
-            "whyItMatters": "The introduction of AI Creator Studio by OpenArt has the potential to revolutionize the content creation industry by providing easy access to AI-powered tools. This can significantly impact the visual design and game development sectors.",
-            "howToUse": "Content creators can utilize OpenArt's AI Creator Studio to produce engaging videos and images by leveraging the platform's AI capabilities and user-friendly interface.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers",
-                "Visual Designers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4180,7 +4148,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T18:44:02.956Z",
+            "lastScan": "2026-03-20T19:36:08.492Z",
             "note": null
         },
         {
@@ -4199,7 +4167,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T18:44:02.956Z",
+            "lastScan": "2026-03-20T19:36:08.492Z",
             "note": null
         },
         {
@@ -11422,6 +11390,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-xz64m6tf8",
+            "title": "AI Art Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fX3hkaGJ1dGdwTEE5eThweFNxTG1jVHNRaTMzeXJLZlRPLTh6OFA4OENteFFBd0l6MVBmcmhLOVBCdTlnZ0J0bw?oc=5",
+                "date": "2026-03-06T19:04:03.000Z"
+            },
+            "whatsNew": "OpenArt's AI Creator Studio allows users to generate high-quality videos and images using AI technology. This studio provides a range of tools and features for creative professionals. The platform aims to simplify the content creation process.",
+            "whyItMatters": "The introduction of AI Creator Studio by OpenArt has the potential to revolutionize the content creation industry by providing easy access to AI-powered tools. This can significantly impact the visual design and game development sectors.",
+            "howToUse": "Content creators can utilize OpenArt's AI Creator Studio to produce engaging videos and images by leveraging the platform's AI capabilities and user-friendly interface.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
