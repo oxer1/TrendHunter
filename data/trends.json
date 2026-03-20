@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T14:54:14.023Z",
+        "scanDate": "2026-03-20T15:40:18.870Z",
         "version": "2.5.0",
-        "totalTrends": 133,
+        "totalTrends": 132,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-a6k1abi2t",
@@ -76,7 +76,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zqrsp7v67",
@@ -4064,35 +4064,6 @@
             "visualStyle": null,
             "cluster": "ai-in-igaming",
             "isNew": false
-        },
-        {
-            "id": "t-74ndjs0a5",
-            "title": "Voice Acting Insights",
-            "subtitle": "Jennifer Hale discusses the modern landscape of voice acting in game development",
-            "category": "Tech",
-            "tags": [
-                "Voice Acting",
-                "Game Development",
-                "Collaboration"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/audio/the-craft-of-voice-acting-with-jennifer-hale",
-                "date": "2026-03-06T15:30:00.000Z"
-            },
-            "whatsNew": "Jennifer Hale shares her expertise on the current state of voice acting, highlighting the importance of collaboration between developers and performers. She provides insights into creating better gaming experiences through effective voice acting. The article emphasizes the need for mutual understanding between these two groups.",
-            "whyItMatters": "Effective voice acting can significantly enhance the gaming experience, making characters more believable and engaging. Collaboration between developers and voice actors is crucial for achieving this goal.",
-            "howToUse": "Developers can apply these insights by working closely with voice actors, providing them with detailed character backgrounds and contexts to ensure more authentic performances.",
-            "beneficiaries": [
-                "Game Developers",
-                "Voice Actors"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4209,7 +4180,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T14:54:14.023Z",
+            "lastScan": "2026-03-20T15:40:18.870Z",
             "note": null
         },
         {
@@ -4228,7 +4199,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T14:54:14.023Z",
+            "lastScan": "2026-03-20T15:40:18.870Z",
             "note": null
         },
         {
@@ -11393,6 +11364,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-74ndjs0a5",
+            "title": "Voice Acting Insights",
+            "subtitle": "Jennifer Hale discusses the modern landscape of voice acting in game development",
+            "category": "Tech",
+            "tags": [
+                "Voice Acting",
+                "Game Development",
+                "Collaboration"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/audio/the-craft-of-voice-acting-with-jennifer-hale",
+                "date": "2026-03-06T15:30:00.000Z"
+            },
+            "whatsNew": "Jennifer Hale shares her expertise on the current state of voice acting, highlighting the importance of collaboration between developers and performers. She provides insights into creating better gaming experiences through effective voice acting. The article emphasizes the need for mutual understanding between these two groups.",
+            "whyItMatters": "Effective voice acting can significantly enhance the gaming experience, making characters more believable and engaging. Collaboration between developers and voice actors is crucial for achieving this goal.",
+            "howToUse": "Developers can apply these insights by working closely with voice actors, providing them with detailed character backgrounds and contexts to ensure more authentic performances.",
+            "beneficiaries": [
+                "Game Developers",
+                "Voice Actors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
