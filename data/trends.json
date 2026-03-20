@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T04:13:06.550Z",
+        "scanDate": "2026-03-20T05:50:44.188Z",
         "version": "2.5.0",
-        "totalTrends": 151,
+        "totalTrends": 150,
         "categories": [
             "iGaming",
             "AI",
@@ -4500,37 +4500,6 @@
             "isNew": false
         },
         {
-            "id": "t-fxduvlnqq",
-            "title": "AI Video",
-            "subtitle": "User-generated video on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI",
-                "Video",
-                "Civitai"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYkIya1AweUQtRzZUcTN0Z0NZNGl1SFFzcHlSUklCYlhnWmZBRXFwbFJQbWZjOVZEcjFORk9Va0tnNUgzY21qTDEzNjg?oc=5",
-                "date": "2026-03-06T04:30:16.000Z"
-            },
-            "whatsNew": "A user-generated video was posted by floopers966 on Civitai, showcasing AI capabilities.",
-            "whyItMatters": "This indicates growing user engagement with AI platforms, particularly Civitai.",
-            "howToUse": "Explore Civitai for AI-generated content and community insights.",
-            "beneficiaries": [
-                "Content Creators",
-                "AI Enthusiasts"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -4772,7 +4741,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T04:13:06.550Z",
+            "lastScan": "2026-03-20T05:50:44.188Z",
             "note": null
         },
         {
@@ -4791,7 +4760,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T04:13:06.550Z",
+            "lastScan": "2026-03-20T05:50:44.188Z",
             "note": null
         },
         {
@@ -11275,6 +11244,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-fxduvlnqq",
+            "title": "AI Video",
+            "subtitle": "User-generated video on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Video",
+                "Civitai"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYkIya1AweUQtRzZUcTN0Z0NZNGl1SFFzcHlSUklCYlhnWmZBRXFwbFJQbWZjOVZEcjFORk9Va0tnNUgzY21qTDEzNjg?oc=5",
+                "date": "2026-03-06T04:30:16.000Z"
+            },
+            "whatsNew": "A user-generated video was posted by floopers966 on Civitai, showcasing AI capabilities.",
+            "whyItMatters": "This indicates growing user engagement with AI platforms, particularly Civitai.",
+            "howToUse": "Explore Civitai for AI-generated content and community insights.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
