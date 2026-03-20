@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T20:28:57.046Z",
+        "scanDate": "2026-03-20T21:28:10.427Z",
         "version": "2.5.0",
-        "totalTrends": 131,
+        "totalTrends": 132,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nmtfx4hk1",
+            "title": "Saskatchewan Funds Boost",
+            "subtitle": "Saskatchewan increases funding for Indigenous communities due to record gaming revenues",
+            "category": "iGaming",
+            "tags": [
+                "Gaming Revenue",
+                "Indigenous Communities",
+                "Saskatchewan"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkhkTWh5eTBWdzBhaVVfQ05wdFhwUVJ3MHlJOHZ6c0t2YXNSVmRiTF82SEVYTDBGRVE2ajNJYUh1R09iY2J6NGtlQmxsbmpKVm1LMjAwdnh0VHdtejU5QldQcXFvMnF5RHo3Qnc2dkZBTXFrS2ZDVy0yUGMzVnlWcTMxVDFDUmhoRWpRXzNnSV9qNllITldkSlNqU0p5X1ktcnJqRGdJRW42YVY5bTVaMkxKb0RNMXp4?oc=5",
+                "date": "2026-03-20T13:26:41.000Z"
+            },
+            "whatsNew": "Saskatchewan has seen record gaming revenues, leading to an increase in funding for Indigenous communities. This move is part of a broader effort to support local communities through gaming revenue. The funding will be used for various community development projects.",
+            "whyItMatters": "The increased funding highlights the positive impact of the gaming industry on local communities and demonstrates the potential for gaming revenue to drive social change. It also underscores the importance of responsible gaming practices and revenue management.",
+            "howToUse": "Gaming operators and regulators can use this example to inform their own revenue management and community support strategies, prioritizing transparency and social responsibility.",
+            "beneficiaries": [
+                "Indigenous Communities",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-ld02s7rci",
             "title": "Crimson Desert Sales",
@@ -4148,7 +4177,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T20:28:57.046Z",
+            "lastScan": "2026-03-20T21:28:10.427Z",
             "note": null
         },
         {
@@ -4167,7 +4196,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T20:28:57.046Z",
+            "lastScan": "2026-03-20T21:28:10.427Z",
             "note": null
         },
         {
