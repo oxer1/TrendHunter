@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T14:00:18.900Z",
+        "scanDate": "2026-03-20T14:54:14.023Z",
         "version": "2.5.0",
         "totalTrends": 133,
         "categories": [
@@ -20,6 +20,64 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xbreyoot1",
+            "title": "SA Tax Hike",
+            "subtitle": "South Africa's gambling tax hike may disproportionately affect licensed betting operators",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Tax",
+                "South Africa",
+                "Licensed Operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHgxRFFlUExRWTRkUEFYNTVFVTZ6UTUzSzktdVBFNzkyNUViQU85UTJnSzJNV2ZQMnctd283S2x2aUFaY0ZEMDJBeFpZSV9kNUZrcUl1cDJFSDhXV0lSTGxvX3JEU3BGWjVEUnVNLVRJaVdGSmNLam05cTJ4WWk4TTV4dWhuZ2J6U29KQUh4ZW9QMU12?oc=5",
+                "date": "2026-03-10T13:09:05.000Z"
+            },
+            "whatsNew": "A proposed tax hike in South Africa could have a significant impact on licensed betting operators, potentially affecting their operations and revenue. The tax increase may lead to increased costs for operators, which could be passed on to consumers. This development is part of a broader trend of regulatory changes in the iGaming industry.",
+            "whyItMatters": "The tax hike could lead to a decrease in the competitiveness of licensed operators, potentially driving customers to unlicensed operators. This could have significant implications for the iGaming industry and the broader economy.",
+            "howToUse": "Licensed betting operators should closely monitor the situation and consider lobbying efforts to mitigate the impact of the tax hike. They should also explore strategies to maintain their competitiveness in the market.",
+            "beneficiaries": [
+                "Licensed Betting Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-a6k1abi2t",
+            "title": "GDC 2026 Wrap-up",
+            "subtitle": "A look back at the 2026 GDC Festival of Gaming",
+            "category": "Community",
+            "tags": [
+                "GDC",
+                "Gaming Festival",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/the-gdc-2026-wrap-up-show",
+                "date": "2026-03-20T14:30:00.000Z"
+            },
+            "whatsNew": "The 2026 GDC Festival of Gaming has concluded, with various highs in game development and innovation. The event likely featured new game releases, trends, and technologies. Attendees and speakers shared their insights and experiences.",
+            "whyItMatters": "The GDC Festival of Gaming is a significant event in the game development industry, showcasing the latest trends and innovations. It provides valuable insights for game developers, publishers, and industry professionals.",
+            "howToUse": "Game developers and industry professionals can learn from the GDC 2026 wrap-up by analyzing the trends and innovations presented at the event, and applying them to their own work.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-zqrsp7v67",
             "title": "LATAM Gaming",
@@ -4008,36 +4066,6 @@
             "isNew": false
         },
         {
-            "id": "t-fyzegpef1",
-            "title": "LGBTQIA+ Gambling Harms",
-            "subtitle": "UK study finds LGBTQIA+ communities experience higher gambling-related harms and support barriers",
-            "category": "iGaming",
-            "tags": [
-                "LGBTQIA+",
-                "Gambling Harms",
-                "UK Study"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Gambling Insider",
-                "url": "https://www.gamblinginsider.com/news/116281/lgbt-people-higher-risk-gambling-harm-service-barriers",
-                "date": "2026-03-06T14:50:24.000Z"
-            },
-            "whatsNew": "A recent UK study found that LGBTQIA+ communities experience higher levels of gambling-related harms and face distinct barriers to support. The study identified three interconnecting themes affecting these communities.",
-            "whyItMatters": "The study's findings highlight the need for more inclusive and targeted support services for LGBTQIA+ individuals experiencing gambling-related harms. This can inform iGaming industry practices and policy changes to better protect vulnerable groups.",
-            "howToUse": "iGaming operators and support services can use these findings to develop more inclusive and targeted support for LGBTQIA+ individuals, such as tailored resources and outreach programs.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Support Services",
-                "LGBTQIA+ Communities"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-74ndjs0a5",
             "title": "Voice Acting Insights",
             "subtitle": "Jennifer Hale discusses the modern landscape of voice acting in game development",
@@ -4064,35 +4092,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-n9ivm2lfd",
-            "title": "Kentucky Betting Law",
-            "subtitle": "Kentucky lawmakers introduce bill to raise minimum betting age and restrict prop bets",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Betting Age",
-                "Prop Bets"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/kentucky-bill-raise-betting-age-restrict-prop-bets/",
-                "date": "2026-03-06T14:52:04.000Z"
-            },
-            "whatsNew": "A new bill in Kentucky aims to increase the minimum betting age and impose restrictions on prop bets, marking a significant shift in the state's gambling regulations. The proposed changes are part of a broader effort to modify statutes governing betting in the state. This move could have implications for the iGaming industry, particularly in terms of age verification and betting offerings.",
-            "whyItMatters": "The bill's passage could influence other states to reexamine their betting laws, potentially leading to a wave of regulatory changes across the US. It highlights the ongoing debate about responsible gambling practices and the role of regulation in protecting consumers.",
-            "howToUse": "Operators should monitor the progress of this bill and prepare for potential changes in betting laws, ensuring compliance with any new regulations. This includes reviewing age verification processes and assessing the impact on prop bet offerings.",
-            "beneficiaries": [
-                "Regulators",
-                "iGaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         }
     ],
@@ -4210,7 +4209,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T14:00:18.900Z",
+            "lastScan": "2026-03-20T14:54:14.023Z",
             "note": null
         },
         {
@@ -4229,7 +4228,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T14:00:18.900Z",
+            "lastScan": "2026-03-20T14:54:14.023Z",
             "note": null
         },
         {
@@ -11335,6 +11334,65 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-fyzegpef1",
+            "title": "LGBTQIA+ Gambling Harms",
+            "subtitle": "UK study finds LGBTQIA+ communities experience higher gambling-related harms and support barriers",
+            "category": "iGaming",
+            "tags": [
+                "LGBTQIA+",
+                "Gambling Harms",
+                "UK Study"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Gambling Insider",
+                "url": "https://www.gamblinginsider.com/news/116281/lgbt-people-higher-risk-gambling-harm-service-barriers",
+                "date": "2026-03-06T14:50:24.000Z"
+            },
+            "whatsNew": "A recent UK study found that LGBTQIA+ communities experience higher levels of gambling-related harms and face distinct barriers to support. The study identified three interconnecting themes affecting these communities.",
+            "whyItMatters": "The study's findings highlight the need for more inclusive and targeted support services for LGBTQIA+ individuals experiencing gambling-related harms. This can inform iGaming industry practices and policy changes to better protect vulnerable groups.",
+            "howToUse": "iGaming operators and support services can use these findings to develop more inclusive and targeted support for LGBTQIA+ individuals, such as tailored resources and outreach programs.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Support Services",
+                "LGBTQIA+ Communities"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-n9ivm2lfd",
+            "title": "Kentucky Betting Law",
+            "subtitle": "Kentucky lawmakers introduce bill to raise minimum betting age and restrict prop bets",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Betting Age",
+                "Prop Bets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/kentucky-bill-raise-betting-age-restrict-prop-bets/",
+                "date": "2026-03-06T14:52:04.000Z"
+            },
+            "whatsNew": "A new bill in Kentucky aims to increase the minimum betting age and impose restrictions on prop bets, marking a significant shift in the state's gambling regulations. The proposed changes are part of a broader effort to modify statutes governing betting in the state. This move could have implications for the iGaming industry, particularly in terms of age verification and betting offerings.",
+            "whyItMatters": "The bill's passage could influence other states to reexamine their betting laws, potentially leading to a wave of regulatory changes across the US. It highlights the ongoing debate about responsible gambling practices and the role of regulation in protecting consumers.",
+            "howToUse": "Operators should monitor the progress of this bill and prepare for potential changes in betting laws, ensuring compliance with any new regulations. This includes reviewing age verification processes and assessing the impact on prop bet offerings.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
