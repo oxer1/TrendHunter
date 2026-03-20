@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T06:51:56.023Z",
+        "scanDate": "2026-03-20T07:43:55.394Z",
         "version": "2.5.0",
         "totalTrends": 150,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wh48dcrfd",
+            "title": "CEE iGaming",
+            "subtitle": "iGaming business in Central and Eastern Europe",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "CEE",
+                "Market Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuZzlxSV9seEd2bmsyZVExNjJ4MmVYeExNSHBCd3pzQ3NOTENWT3l0MWRlR2hUdjBYWFdIOEVHQ3NyWVMySTd6ZWNXblN5OU1QVGtwQXpLZ096d04yeHJmdHhyZlE3SmxseG1YLUgwNFJWQ1BpVWVTUA?oc=5",
+                "date": "2026-03-17T07:00:00.000Z"
+            },
+            "whatsNew": "The iGaming market in Central and Eastern Europe is experiencing growth. New regulations and licensing opportunities are emerging in the region.",
+            "whyItMatters": "The growth of the iGaming market in CEE presents opportunities for operators and developers to expand their reach. Understanding the local regulations and market trends is crucial for success.",
+            "howToUse": "Operators and developers can leverage this trend by researching local regulations and adapting their offerings to meet the demands of the CEE market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-8q7wh64a2",
             "title": "DGOJ Consumer Protection",
@@ -4468,38 +4497,6 @@
             "isNew": false
         },
         {
-            "id": "t-whj2ydc0f",
-            "title": "AI Art Creation",
-            "subtitle": "OpenArt introduces AI-powered art creation and image modification tools",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Modification",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lTnRqWTUyVHBYUmozZnNQTU9icmE5blA1RlRFeGdSejlVTTF1MVVmNzBsYlZnRnNaOThuSk1CWkxRMGI5?oc=5",
-                "date": "2026-03-06T07:36:32.000Z"
-            },
-            "whatsNew": "OpenArt's new tool allows users to create art or modify images using AI technology, offering a range of possibilities for artistic expression and editing. This tool leverages AI algorithms to generate or alter images based on user input. The introduction of such tools marks a significant step in making AI-powered creativity more accessible.",
-            "whyItMatters": "The availability of AI-powered art creation and modification tools can significantly impact the creative industry, enabling new forms of artistic expression and potentially democratizing access to advanced image editing capabilities. This can be particularly beneficial for professionals and hobbyists alike in the fields of visual design and gaming.",
-            "howToUse": "To utilize OpenArt's AI tool, users can simply input their desired parameters or upload an image for modification, and the AI will generate or edit the image accordingly. This can be a powerful resource for those looking to explore new visual styles or automate certain aspects of the design process.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-ruwiq0hx7",
             "title": "iGaming Merge",
             "subtitle": "ReelLink brings online slots to retail game cabinets",
@@ -4741,7 +4738,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T06:51:56.023Z",
+            "lastScan": "2026-03-20T07:43:55.394Z",
             "note": null
         },
         {
@@ -4760,7 +4757,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T06:51:56.023Z",
+            "lastScan": "2026-03-20T07:43:55.394Z",
             "note": null
         },
         {
@@ -11275,6 +11272,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-whj2ydc0f",
+            "title": "AI Art Creation",
+            "subtitle": "OpenArt introduces AI-powered art creation and image modification tools",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Modification",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lTnRqWTUyVHBYUmozZnNQTU9icmE5blA1RlRFeGdSejlVTTF1MVVmNzBsYlZnRnNaOThuSk1CWkxRMGI5?oc=5",
+                "date": "2026-03-06T07:36:32.000Z"
+            },
+            "whatsNew": "OpenArt's new tool allows users to create art or modify images using AI technology, offering a range of possibilities for artistic expression and editing. This tool leverages AI algorithms to generate or alter images based on user input. The introduction of such tools marks a significant step in making AI-powered creativity more accessible.",
+            "whyItMatters": "The availability of AI-powered art creation and modification tools can significantly impact the creative industry, enabling new forms of artistic expression and potentially democratizing access to advanced image editing capabilities. This can be particularly beneficial for professionals and hobbyists alike in the fields of visual design and gaming.",
+            "howToUse": "To utilize OpenArt's AI tool, users can simply input their desired parameters or upload an image for modification, and the AI will generate or edit the image accordingly. This can be a powerful resource for those looking to explore new visual styles or automate certain aspects of the design process.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
