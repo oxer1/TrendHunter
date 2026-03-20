@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T01:54:27.562Z",
+        "scanDate": "2026-03-20T04:13:06.550Z",
         "version": "2.5.0",
-        "totalTrends": 152,
+        "totalTrends": 151,
         "categories": [
             "iGaming",
             "AI",
@@ -48,7 +48,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bkw0w32qg",
@@ -77,7 +77,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8e0hl9lr7",
@@ -4500,37 +4500,6 @@
             "isNew": false
         },
         {
-            "id": "t-64zdyv47v",
-            "title": "LTX 2.3 Released",
-            "subtitle": "Civitai introduces LTX-2.3 22B GGUF workflows with 12GB VRAM",
-            "category": "AI",
-            "tags": [
-                "LTX-2.3",
-                "GGUF",
-                "VRAM"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zaHgxS1I3SlJoZ2J3dXJsa2MxNmJSWFVKeVVON2p5OFNLMEFuc1EwYVhoaUxrb2VXVlZWdXEyMkZwaW9UV1dpSG92akdublJGMUlkRXBfYWlNSkstQS1nNHc4TFhOMGNKcUQ2Y2xTZmp6QVI3VTZkUjdR?oc=5",
-                "date": "2026-03-06T04:08:35.000Z"
-            },
-            "whatsNew": "LTX-2.3 22B GGUF workflows are now available with 12GB VRAM, marking a significant update. This version aims to enhance performance and efficiency. The introduction of LTXV2 workflows is also notable.",
-            "whyItMatters": "The release of LTX-2.3 impacts the development of AI models and workflows, offering improved capabilities. This can lead to more sophisticated AI applications and tools.",
-            "howToUse": "Developers can utilize LTX-2.3 by integrating it into their existing workflows, leveraging the enhanced performance and 12GB VRAM for more complex tasks.",
-            "beneficiaries": [
-                "AI Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-fxduvlnqq",
             "title": "AI Video",
             "subtitle": "User-generated video on Civitai",
@@ -4803,7 +4772,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T01:54:27.562Z",
+            "lastScan": "2026-03-20T04:13:06.550Z",
             "note": null
         },
         {
@@ -4822,7 +4791,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T01:54:27.563Z",
+            "lastScan": "2026-03-20T04:13:06.550Z",
             "note": null
         },
         {
@@ -11275,6 +11244,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-64zdyv47v",
+            "title": "LTX 2.3 Released",
+            "subtitle": "Civitai introduces LTX-2.3 22B GGUF workflows with 12GB VRAM",
+            "category": "AI",
+            "tags": [
+                "LTX-2.3",
+                "GGUF",
+                "VRAM"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zaHgxS1I3SlJoZ2J3dXJsa2MxNmJSWFVKeVVON2p5OFNLMEFuc1EwYVhoaUxrb2VXVlZWdXEyMkZwaW9UV1dpSG92akdublJGMUlkRXBfYWlNSkstQS1nNHc4TFhOMGNKcUQ2Y2xTZmp6QVI3VTZkUjdR?oc=5",
+                "date": "2026-03-06T04:08:35.000Z"
+            },
+            "whatsNew": "LTX-2.3 22B GGUF workflows are now available with 12GB VRAM, marking a significant update. This version aims to enhance performance and efficiency. The introduction of LTXV2 workflows is also notable.",
+            "whyItMatters": "The release of LTX-2.3 impacts the development of AI models and workflows, offering improved capabilities. This can lead to more sophisticated AI applications and tools.",
+            "howToUse": "Developers can utilize LTX-2.3 by integrating it into their existing workflows, leveraging the enhanced performance and 12GB VRAM for more complex tasks.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-innovation",
             "isNew": false
         }
     ]
