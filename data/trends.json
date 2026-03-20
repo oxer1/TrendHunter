@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T08:37:37.180Z",
+        "scanDate": "2026-03-20T09:38:22.556Z",
         "version": "2.5.0",
-        "totalTrends": 149,
+        "totalTrends": 148,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-zqrsp7v67",
+            "title": "LATAM Gaming",
+            "subtitle": "LATAM gambling news and analysis from iGB",
+            "category": "iGaming",
+            "tags": [
+                "LATAM",
+                "iGaming",
+                "Gambling News"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZWpsNjJ3b3FfSXFLdkFoQjFraWZEdHFuLVJiOEFabEpEcl9ybTNOVE5Uc0VpRXZWY09rX3ZtS2JIbWJLYWhsVHRNUkJ2bEhXWDk4?oc=5",
+                "date": "2026-03-17T07:00:00.000Z"
+            },
+            "whatsNew": "iGB provides the latest news, analysis, and data on the LATAM gambling market. The region's gaming industry is experiencing significant growth. Regulatory changes and new market trends are shaping the industry.",
+            "whyItMatters": "The LATAM market presents opportunities for iGaming operators and investors. Staying informed about the latest developments is crucial for success in this region.",
+            "howToUse": "Operators and investors can use iGB's news and analysis to stay up-to-date on LATAM market trends and regulatory changes, informing their business strategies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "iGB"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-wh48dcrfd",
             "title": "CEE iGaming",
@@ -4498,68 +4529,6 @@
             "isNew": false
         },
         {
-            "id": "t-6ctz59w21",
-            "title": "Kendoo Blitz Hits",
-            "subtitle": "Kendoo launches 3 Blitz Hits, a high-voltage slot game with escalating payouts and Free Spins",
-            "category": "iGaming",
-            "tags": [
-                "Kendoo",
-                "Slot Game",
-                "Blitz Hits"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/kendoo-ignites-the-reels-with-high-voltage-3-blitz-hits/",
-                "date": "2026-03-06T09:34:36.000Z"
-            },
-            "whatsNew": "Kendoo's 3 Blitz Hits introduces a dynamic Blitz Hit Feature, where landing three or more Blitz symbols triggers escalating payouts. The game also features up to three stackable modifiers for Free Spins. The game is designed for speed and energy, with rapid reward cycles.",
-            "whyItMatters": "The launch of 3 Blitz Hits showcases Kendoo's ability to create engaging and rewarding slot games, which can help the company stand out in a competitive market. The game's unique features can attract new players and increase player retention.",
-            "howToUse": "Operators can integrate 3 Blitz Hits into their platforms to offer players a new and exciting gaming experience. Players can try the game to experience the thrilling Blitz Hit Feature and rapid reward cycles.",
-            "beneficiaries": [
-                "Slot Players",
-                "Operators"
-            ],
-            "companies": [
-                "Kendoo"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-mwi8gn90c",
-            "title": "Esports Betting Growth",
-            "subtitle": "Oddin.gg's 2025 review shows complex growth for operators despite increased betting volumes",
-            "category": "iGaming",
-            "tags": [
-                "Esports",
-                "Betting",
-                "Growth"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/oddin-ggs-2025-esports-betting-review/",
-                "date": "2026-03-06T09:29:16.000Z"
-            },
-            "whatsNew": "Oddin.gg's 2025 Esports Betting Review reports double-digit growth in major titles, with varying drivers behind the growth. The review covers five leading titles, including Counter-Strike 2, Dota 2, and Mobile Legends: Bang Bang, all of which recorded between 18% and 62% year-over-year betting volume growth.",
-            "whyItMatters": "The growth in esports betting has significant implications for operators, who must adapt to changing trends and drivers to remain competitive. The complex story behind the growth highlights the need for operators to stay informed and agile.",
-            "howToUse": "Operators can use the insights from the review to inform their strategies and stay ahead of the competition. By understanding the drivers behind the growth, operators can optimize their offerings and improve their market position.",
-            "beneficiaries": [
-                "Esports Operators",
-                "Betting Platforms"
-            ],
-            "companies": [
-                "Oddin.gg"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-fjb72weml",
             "title": "Gaming Shifts",
             "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
@@ -4707,7 +4676,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T08:37:37.180Z",
+            "lastScan": "2026-03-20T09:38:22.556Z",
             "note": null
         },
         {
@@ -4726,7 +4695,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T08:37:37.180Z",
+            "lastScan": "2026-03-20T09:38:22.556Z",
             "note": null
         },
         {
@@ -11301,6 +11270,68 @@
             ],
             "companies": [
                 "iGB"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6ctz59w21",
+            "title": "Kendoo Blitz Hits",
+            "subtitle": "Kendoo launches 3 Blitz Hits, a high-voltage slot game with escalating payouts and Free Spins",
+            "category": "iGaming",
+            "tags": [
+                "Kendoo",
+                "Slot Game",
+                "Blitz Hits"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/kendoo-ignites-the-reels-with-high-voltage-3-blitz-hits/",
+                "date": "2026-03-06T09:34:36.000Z"
+            },
+            "whatsNew": "Kendoo's 3 Blitz Hits introduces a dynamic Blitz Hit Feature, where landing three or more Blitz symbols triggers escalating payouts. The game also features up to three stackable modifiers for Free Spins. The game is designed for speed and energy, with rapid reward cycles.",
+            "whyItMatters": "The launch of 3 Blitz Hits showcases Kendoo's ability to create engaging and rewarding slot games, which can help the company stand out in a competitive market. The game's unique features can attract new players and increase player retention.",
+            "howToUse": "Operators can integrate 3 Blitz Hits into their platforms to offer players a new and exciting gaming experience. Players can try the game to experience the thrilling Blitz Hit Feature and rapid reward cycles.",
+            "beneficiaries": [
+                "Slot Players",
+                "Operators"
+            ],
+            "companies": [
+                "Kendoo"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-mwi8gn90c",
+            "title": "Esports Betting Growth",
+            "subtitle": "Oddin.gg's 2025 review shows complex growth for operators despite increased betting volumes",
+            "category": "iGaming",
+            "tags": [
+                "Esports",
+                "Betting",
+                "Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/oddin-ggs-2025-esports-betting-review/",
+                "date": "2026-03-06T09:29:16.000Z"
+            },
+            "whatsNew": "Oddin.gg's 2025 Esports Betting Review reports double-digit growth in major titles, with varying drivers behind the growth. The review covers five leading titles, including Counter-Strike 2, Dota 2, and Mobile Legends: Bang Bang, all of which recorded between 18% and 62% year-over-year betting volume growth.",
+            "whyItMatters": "The growth in esports betting has significant implications for operators, who must adapt to changing trends and drivers to remain competitive. The complex story behind the growth highlights the need for operators to stay informed and agile.",
+            "howToUse": "Operators can use the insights from the review to inform their strategies and stay ahead of the competition. By understanding the drivers behind the growth, operators can optimize their offerings and improve their market position.",
+            "beneficiaries": [
+                "Esports Operators",
+                "Betting Platforms"
+            ],
+            "companies": [
+                "Oddin.gg"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
