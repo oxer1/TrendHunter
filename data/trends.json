@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T07:43:55.394Z",
+        "scanDate": "2026-03-20T08:37:37.180Z",
         "version": "2.5.0",
-        "totalTrends": 150,
+        "totalTrends": 149,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8q7wh64a2",
@@ -3947,37 +3947,6 @@
             "isNew": false
         },
         {
-            "id": "t-6bijhjv7d",
-            "title": "LATAM Gaming News",
-            "subtitle": "LATAM gambling news, analysis, and data from iGB",
-            "category": "iGaming",
-            "tags": [
-                "LATAM",
-                "iGaming",
-                "Gambling News"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZWpsNjJ3b3FfSXFLdkFoQjFraWZEdHFuLVJiOEFabEpEcl9ybTNOVE5Uc0VpRXZWY09rX3ZtS2JIbWJLYWhsVHRNUkJ2bEhXWDk4?oc=5",
-                "date": "2026-03-06T08:00:00.000Z"
-            },
-            "whatsNew": "The latest news and analysis on the LATAM gaming market, including updates on regulation and market trends. iGB provides insights into the growing iGaming industry in Latin America. The region is seeing significant growth in online gambling.",
-            "whyItMatters": "The LATAM market is becoming increasingly important for iGaming operators, with many countries in the region regulating online gambling. Staying informed about the latest developments is crucial for companies looking to expand into this market.",
-            "howToUse": "Operators can use this information to inform their expansion strategies into the LATAM market, while regulators can stay updated on the latest trends and best practices.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulators"
-            ],
-            "companies": [
-                "iGB"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-0lx35ewa0",
             "title": "Wan 2.2 Detailer",
             "subtitle": "Civitai releases Wan 2.2 Detailer, a video workflow tool",
@@ -4738,7 +4707,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T07:43:55.394Z",
+            "lastScan": "2026-03-20T08:37:37.180Z",
             "note": null
         },
         {
@@ -4757,7 +4726,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T07:43:55.394Z",
+            "lastScan": "2026-03-20T08:37:37.180Z",
             "note": null
         },
         {
@@ -11304,6 +11273,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-6bijhjv7d",
+            "title": "LATAM Gaming News",
+            "subtitle": "LATAM gambling news, analysis, and data from iGB",
+            "category": "iGaming",
+            "tags": [
+                "LATAM",
+                "iGaming",
+                "Gambling News"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZWpsNjJ3b3FfSXFLdkFoQjFraWZEdHFuLVJiOEFabEpEcl9ybTNOVE5Uc0VpRXZWY09rX3ZtS2JIbWJLYWhsVHRNUkJ2bEhXWDk4?oc=5",
+                "date": "2026-03-06T08:00:00.000Z"
+            },
+            "whatsNew": "The latest news and analysis on the LATAM gaming market, including updates on regulation and market trends. iGB provides insights into the growing iGaming industry in Latin America. The region is seeing significant growth in online gambling.",
+            "whyItMatters": "The LATAM market is becoming increasingly important for iGaming operators, with many countries in the region regulating online gambling. Staying informed about the latest developments is crucial for companies looking to expand into this market.",
+            "howToUse": "Operators can use this information to inform their expansion strategies into the LATAM market, while regulators can stay updated on the latest trends and best practices.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "iGB"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
