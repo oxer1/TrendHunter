@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T09:38:22.556Z",
+        "scanDate": "2026-03-20T10:35:24.461Z",
         "version": "2.5.0",
-        "totalTrends": 148,
+        "totalTrends": 146,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wh48dcrfd",
@@ -4495,71 +4495,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-ruwiq0hx7",
-            "title": "iGaming Merge",
-            "subtitle": "ReelLink brings online slots to retail game cabinets",
-            "category": "iGaming",
-            "tags": [
-                "ReelLink",
-                "Online Slots",
-                "Land-based Casinos"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/when-two-worlds-merge-to-one-real-experience/",
-                "date": "2026-03-06T10:19:30.000Z"
-            },
-            "whatsNew": "ReelLink platform delivers online slot games to retail game cabinets, bridging the gap between land-based and online worlds. This innovation allows for any online slot game to be played on any slot machine cabinet.",
-            "whyItMatters": "ReelLink's technology has the potential to revolutionize the gaming industry by providing a unified experience for players across online and land-based platforms. This can lead to increased player engagement and revenue for casinos.",
-            "howToUse": "Land-based casinos can leverage ReelLink to expand their game offerings and attract a wider audience, while online game providers can reach new players through retail cabinets.",
-            "beneficiaries": [
-                "Land-based Casinos",
-                "Online Game Providers"
-            ],
-            "companies": [
-                "ReelLink",
-                "Swiss Casinos"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-fjb72weml",
-            "title": "Gaming Shifts",
-            "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
-            "category": "Tech",
-            "tags": [
-                "Gaming",
-                "Unity",
-                "WB Games"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/tim-sweeney-muzzled-highguard-crumbles-and-the-slow-demise-of-bluepoint-patch-notes-43",
-                "date": "2026-03-06T10:00:00.000Z"
-            },
-            "whatsNew": "Unity has blocked asset publishers in China, and Paramount has acknowledged WB Games, while Tim Sweeney faces issues and Bluepoint's demise continues.",
-            "whyItMatters": "These developments indicate significant changes in the gaming industry, affecting both game development and publishing.",
-            "howToUse": "Developers should be aware of these changes and adjust their strategies for game development and publishing.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Unity",
-                "Paramount",
-                "WB Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4676,7 +4611,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T09:38:22.556Z",
+            "lastScan": "2026-03-20T10:35:24.461Z",
             "note": null
         },
         {
@@ -4695,7 +4630,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T09:38:22.556Z",
+            "lastScan": "2026-03-20T10:35:24.461Z",
             "note": null
         },
         {
@@ -11332,6 +11267,71 @@
             ],
             "companies": [
                 "Oddin.gg"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ruwiq0hx7",
+            "title": "iGaming Merge",
+            "subtitle": "ReelLink brings online slots to retail game cabinets",
+            "category": "iGaming",
+            "tags": [
+                "ReelLink",
+                "Online Slots",
+                "Land-based Casinos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/when-two-worlds-merge-to-one-real-experience/",
+                "date": "2026-03-06T10:19:30.000Z"
+            },
+            "whatsNew": "ReelLink platform delivers online slot games to retail game cabinets, bridging the gap between land-based and online worlds. This innovation allows for any online slot game to be played on any slot machine cabinet.",
+            "whyItMatters": "ReelLink's technology has the potential to revolutionize the gaming industry by providing a unified experience for players across online and land-based platforms. This can lead to increased player engagement and revenue for casinos.",
+            "howToUse": "Land-based casinos can leverage ReelLink to expand their game offerings and attract a wider audience, while online game providers can reach new players through retail cabinets.",
+            "beneficiaries": [
+                "Land-based Casinos",
+                "Online Game Providers"
+            ],
+            "companies": [
+                "ReelLink",
+                "Swiss Casinos"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-fjb72weml",
+            "title": "Gaming Shifts",
+            "subtitle": "Recent developments in the gaming industry, including Unity's actions in China and Paramount's acknowledgment of WB Games",
+            "category": "Tech",
+            "tags": [
+                "Gaming",
+                "Unity",
+                "WB Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/tim-sweeney-muzzled-highguard-crumbles-and-the-slow-demise-of-bluepoint-patch-notes-43",
+                "date": "2026-03-06T10:00:00.000Z"
+            },
+            "whatsNew": "Unity has blocked asset publishers in China, and Paramount has acknowledged WB Games, while Tim Sweeney faces issues and Bluepoint's demise continues.",
+            "whyItMatters": "These developments indicate significant changes in the gaming industry, affecting both game development and publishing.",
+            "howToUse": "Developers should be aware of these changes and adjust their strategies for game development and publishing.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Unity",
+                "Paramount",
+                "WB Games"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
