@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-20T15:40:18.870Z",
+        "scanDate": "2026-03-20T16:40:35.100Z",
         "version": "2.5.0",
-        "totalTrends": 132,
+        "totalTrends": 131,
         "categories": [
             "iGaming",
             "AI",
@@ -4035,35 +4035,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-8m5jj7cqs",
-            "title": "AI Use Declines",
-            "subtitle": "Game developers report less use of generative AI",
-            "category": "AI",
-            "tags": [
-                "Generative AI",
-                "Game Development",
-                "AI Trends"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/developer-use-of-generative-ai-may-be-declining",
-                "date": "2026-03-06T16:29:28.000Z"
-            },
-            "whatsNew": "New data shows a year-over-year drop in generative AI use among game developers. This decline may indicate a shift in development priorities or concerns about AI integration.",
-            "whyItMatters": "The decline in generative AI use could impact game development innovation and the adoption of AI-powered tools. It may also reflect developer concerns about AI's role in the industry.",
-            "howToUse": "Developers should reassess their AI integration strategies and consider the potential benefits and drawbacks of generative AI in game development.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4180,7 +4151,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T15:40:18.870Z",
+            "lastScan": "2026-03-20T16:40:35.100Z",
             "note": null
         },
         {
@@ -4199,7 +4170,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-20T15:40:18.870Z",
+            "lastScan": "2026-03-20T16:40:35.100Z",
             "note": null
         },
         {
@@ -11393,6 +11364,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-8m5jj7cqs",
+            "title": "AI Use Declines",
+            "subtitle": "Game developers report less use of generative AI",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "AI Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/developer-use-of-generative-ai-may-be-declining",
+                "date": "2026-03-06T16:29:28.000Z"
+            },
+            "whatsNew": "New data shows a year-over-year drop in generative AI use among game developers. This decline may indicate a shift in development priorities or concerns about AI integration.",
+            "whyItMatters": "The decline in generative AI use could impact game development innovation and the adoption of AI-powered tools. It may also reflect developer concerns about AI's role in the industry.",
+            "howToUse": "Developers should reassess their AI integration strategies and consider the potential benefits and drawbacks of generative AI in game development.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
