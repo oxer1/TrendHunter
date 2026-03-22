@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-22T07:36:43.842Z",
+        "scanDate": "2026-03-22T08:31:13.966Z",
         "version": "2.5.0",
-        "totalTrends": 133,
+        "totalTrends": 132,
         "categories": [
             "iGaming",
             "AI",
@@ -1135,38 +1135,6 @@
             "beneficiaries": [
                 "Game Developers",
                 "AI Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-7mqnlpvh8",
-            "title": "AnimaYume v0.2",
-            "subtitle": "Civitai releases AnimaYume version 0.2, an Anima checkpoint",
-            "category": "AI",
-            "tags": [
-                "AnimaYume",
-                "Civitai",
-                "AI Models"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBd1ROR0FsR19ZX000cmh6X0ItOEJlTHFtZ3ZLY2FjdEY0OFZQb1pLZlBWYUFmazA3UFZwN0VtdHE2TzZDaXBwcndRRmljb1pRTEFjMkdCNA?oc=5",
-                "date": "2026-03-08T08:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released version 0.2 of AnimaYume, an update to their Anima checkpoint. This new version is part of their ongoing efforts in AI model development.",
-            "whyItMatters": "The update signifies progress in AI technology, particularly in areas related to animation and creative content generation. This could have implications for various industries, including gaming and visual design.",
-            "howToUse": "Developers and artists can utilize AnimaYume v0.2 to explore new possibilities in AI-generated content, enhancing their projects with advanced animation capabilities.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers",
-                "Digital Artists"
             ],
             "companies": [
                 "Civitai"
@@ -4210,7 +4178,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-22T07:36:43.842Z",
+            "lastScan": "2026-03-22T08:31:13.966Z",
             "note": null
         },
         {
@@ -4229,7 +4197,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-22T07:36:43.842Z",
+            "lastScan": "2026-03-22T08:31:13.966Z",
             "note": null
         },
         {
@@ -11481,6 +11449,38 @@
             ],
             "companies": [
                 "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-7mqnlpvh8",
+            "title": "AnimaYume v0.2",
+            "subtitle": "Civitai releases AnimaYume version 0.2, an Anima checkpoint",
+            "category": "AI",
+            "tags": [
+                "AnimaYume",
+                "Civitai",
+                "AI Models"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBd1ROR0FsR19ZX000cmh6X0ItOEJlTHFtZ3ZLY2FjdEY0OFZQb1pLZlBWYUFmazA3UFZwN0VtdHE2TzZDaXBwcndRRmljb1pRTEFjMkdCNA?oc=5",
+                "date": "2026-03-08T08:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released version 0.2 of AnimaYume, an update to their Anima checkpoint. This new version is part of their ongoing efforts in AI model development.",
+            "whyItMatters": "The update signifies progress in AI technology, particularly in areas related to animation and creative content generation. This could have implications for various industries, including gaming and visual design.",
+            "howToUse": "Developers and artists can utilize AnimaYume v0.2 to explore new possibilities in AI-generated content, enhancing their projects with advanced animation capabilities.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
