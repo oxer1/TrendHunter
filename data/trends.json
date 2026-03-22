@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-22T08:31:13.966Z",
+        "scanDate": "2026-03-22T09:29:36.122Z",
         "version": "2.5.0",
-        "totalTrends": 132,
+        "totalTrends": 131,
         "categories": [
             "iGaming",
             "AI",
@@ -4031,37 +4031,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-0lx35ewa0",
-            "title": "Wan 2.2 Detailer",
-            "subtitle": "Civitai releases Wan 2.2 Detailer, a video workflow tool",
-            "category": "AI",
-            "tags": [
-                "Wan 2.2 Detailer",
-                "Video Workflows",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83QjdNcnZYVzNlQjQ0YXFwbmlQVjdqTXhkMjlhSU1mSmdaazdIYUp4d1cxdTRwYmZ6UlZGbGxnOXJYejBweVRsMkRLelIyOXpJTl9iaTJZNDg0SGtTQXB3?oc=5",
-                "date": "2026-03-08T08:39:22.000Z"
-            },
-            "whatsNew": "Civitai has released Wan 2.2 Detailer, a tool for enhancing video workflows. This tool is part of the Wan Video Workflows suite. The v1.0 release indicates it's the first version of this specific detailer.",
-            "whyItMatters": "The release of Wan 2.2 Detailer by Civitai indicates a growing interest in AI-powered video tools, which can significantly impact the efficiency and quality of video production in various industries, including gaming and entertainment.",
-            "howToUse": "Content creators can utilize Wan 2.2 Detailer to refine and enhance the details in their videos, potentially leading to more engaging and high-quality content.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Editors"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4178,7 +4147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-22T08:31:13.966Z",
+            "lastScan": "2026-03-22T09:29:36.122Z",
             "note": null
         },
         {
@@ -4197,7 +4166,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-22T08:31:13.966Z",
+            "lastScan": "2026-03-22T09:29:36.122Z",
             "note": null
         },
         {
@@ -11484,6 +11453,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-0lx35ewa0",
+            "title": "Wan 2.2 Detailer",
+            "subtitle": "Civitai releases Wan 2.2 Detailer, a video workflow tool",
+            "category": "AI",
+            "tags": [
+                "Wan 2.2 Detailer",
+                "Video Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83QjdNcnZYVzNlQjQ0YXFwbmlQVjdqTXhkMjlhSU1mSmdaazdIYUp4d1cxdTRwYmZ6UlZGbGxnOXJYejBweVRsMkRLelIyOXpJTl9iaTJZNDg0SGtTQXB3?oc=5",
+                "date": "2026-03-08T08:39:22.000Z"
+            },
+            "whatsNew": "Civitai has released Wan 2.2 Detailer, a tool for enhancing video workflows. This tool is part of the Wan Video Workflows suite. The v1.0 release indicates it's the first version of this specific detailer.",
+            "whyItMatters": "The release of Wan 2.2 Detailer by Civitai indicates a growing interest in AI-powered video tools, which can significantly impact the efficiency and quality of video production in various industries, including gaming and entertainment.",
+            "howToUse": "Content creators can utilize Wan 2.2 Detailer to refine and enhance the details in their videos, potentially leading to more engaging and high-quality content.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Editors"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
