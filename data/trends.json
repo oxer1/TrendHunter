@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-22T23:24:56.859Z",
+        "scanDate": "2026-03-23T02:01:07.220Z",
         "version": "2.5.0",
-        "totalTrends": 131,
+        "totalTrends": 130,
         "categories": [
             "iGaming",
             "AI",
@@ -3655,37 +3655,6 @@
             "isNew": false
         },
         {
-            "id": "t-xp0wych23",
-            "title": "LeRobot Update",
-            "subtitle": "Hugging Face releases LeRobot v0.5.0 with significant updates",
-            "category": "AI",
-            "tags": [
-                "LeRobot",
-                "Hugging Face",
-                "AI Updates"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/lerobot-release-v050",
-                "date": "2026-03-09T00:00:00.000Z"
-            },
-            "whatsNew": "LeRobot v0.5.0 introduces major improvements, enhancing its capabilities across various dimensions. This update signifies a notable step forward in AI technology. The release focuses on scalability and performance.",
-            "whyItMatters": "The update impacts AI development by providing more efficient tools, potentially leading to breakthroughs in AI applications. It matters because it can influence how AI technologies are developed and utilized in the future.",
-            "howToUse": "Developers can integrate LeRobot v0.5.0 into their projects to leverage its enhanced capabilities, improving their AI models' performance and efficiency. This can be done by updating their existing LeRobot installations to the latest version.",
-            "beneficiaries": [
-                "AI Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-72qo6zpki",
             "title": "Game Dev Union",
             "subtitle": "Heart Machine workers secure voluntary union recognition to protect their work",
@@ -4147,7 +4116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-22T23:24:56.859Z",
+            "lastScan": "2026-03-23T02:01:07.220Z",
             "note": null
         },
         {
@@ -4166,7 +4135,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-22T23:24:56.859Z",
+            "lastScan": "2026-03-23T02:01:07.220Z",
             "note": null
         },
         {
@@ -11484,6 +11453,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-xp0wych23",
+            "title": "LeRobot Update",
+            "subtitle": "Hugging Face releases LeRobot v0.5.0 with significant updates",
+            "category": "AI",
+            "tags": [
+                "LeRobot",
+                "Hugging Face",
+                "AI Updates"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/lerobot-release-v050",
+                "date": "2026-03-09T00:00:00.000Z"
+            },
+            "whatsNew": "LeRobot v0.5.0 introduces major improvements, enhancing its capabilities across various dimensions. This update signifies a notable step forward in AI technology. The release focuses on scalability and performance.",
+            "whyItMatters": "The update impacts AI development by providing more efficient tools, potentially leading to breakthroughs in AI applications. It matters because it can influence how AI technologies are developed and utilized in the future.",
+            "howToUse": "Developers can integrate LeRobot v0.5.0 into their projects to leverage its enhanced capabilities, improving their AI models' performance and efficiency. This can be done by updating their existing LeRobot installations to the latest version.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
