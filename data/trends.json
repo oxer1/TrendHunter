@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-23T05:01:30.829Z",
+        "scanDate": "2026-03-23T07:06:34.111Z",
         "version": "2.5.0",
         "totalTrends": 131,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hu26hl4my",
+            "title": "Gen Z Gaming",
+            "subtitle": "Authenticity is key to making video games for Gen Z, according to Astrid Entertainment CEO",
+            "category": "Community",
+            "tags": [
+                "Gen Z",
+                "Game Development",
+                "Authenticity"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/marketing/to-make-video-games-for-gen-z-be-authentic",
+                "date": "2026-03-19T15:00:00.000Z"
+            },
+            "whatsNew": "Gen Z's changing attention and needs require game developers to adapt and be authentic. Astrid Entertainment CEO Sharon Tal Yguado emphasizes the importance of understanding this shift.",
+            "whyItMatters": "Understanding Gen Z's preferences is crucial for game developers to create engaging and relevant content. Authenticity is key to capturing this demographic's attention.",
+            "howToUse": "Developers should focus on creating authentic and relatable content that resonates with Gen Z's values and interests. This can be achieved by conducting thorough market research and incorporating feedback from this age group.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Astrid Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-9lo7xs71h",
             "title": "BAFTA Game Awards",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1i0d1wdlt",
@@ -957,35 +988,6 @@
             "companies": [
                 "NEXT.io"
             ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-5ehto808l",
-            "title": "US No Deposit",
-            "subtitle": "List of US no deposit bonus casinos for 2026",
-            "category": "iGaming",
-            "tags": [
-                "No Deposit Bonus",
-                "US Casinos",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhaTN2eVhlSFdYQlpkUDdSSXRISGJzM2k5UzBLWXlLVVZRczN3VURtbjB1d1JITW13c3lnc2toX1FnUkFacFI1SHpHTmFweUpYNE5Pd3c4TnQ0eTlJMnRlWQ?oc=5",
-                "date": "2026-03-09T07:00:00.000Z"
-            },
-            "whatsNew": "The article provides a list of the best US no deposit bonus casinos for 2026, offering players a chance to play without initial deposits. This trend is expected to continue as more casinos adopt no deposit bonuses to attract new players. The list includes various casinos with their respective no deposit offers.",
-            "whyItMatters": "No deposit bonuses are a key factor in attracting new players to online casinos, and this list helps players make informed decisions. The trend of no deposit bonuses is on the rise, indicating a shift towards more player-friendly casino offers.",
-            "howToUse": "Players can use this list to find the best no deposit bonus casinos and take advantage of the offers to play without initial deposits. It's essential to review the terms and conditions of each bonus before signing up.",
-            "beneficiaries": [
-                "Online Casino Players",
-                "iGaming Operators"
-            ],
-            "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
@@ -4145,7 +4147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-23T05:01:30.829Z",
+            "lastScan": "2026-03-23T07:06:34.111Z",
             "note": null
         },
         {
@@ -4164,7 +4166,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-23T05:01:30.829Z",
+            "lastScan": "2026-03-23T07:06:34.111Z",
             "note": null
         },
         {
@@ -11513,6 +11515,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-5ehto808l",
+            "title": "US No Deposit",
+            "subtitle": "List of US no deposit bonus casinos for 2026",
+            "category": "iGaming",
+            "tags": [
+                "No Deposit Bonus",
+                "US Casinos",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhaTN2eVhlSFdYQlpkUDdSSXRISGJzM2k5UzBLWXlLVVZRczN3VURtbjB1d1JITW13c3lnc2toX1FnUkFacFI1SHpHTmFweUpYNE5Pd3c4TnQ0eTlJMnRlWQ?oc=5",
+                "date": "2026-03-09T07:00:00.000Z"
+            },
+            "whatsNew": "The article provides a list of the best US no deposit bonus casinos for 2026, offering players a chance to play without initial deposits. This trend is expected to continue as more casinos adopt no deposit bonuses to attract new players. The list includes various casinos with their respective no deposit offers.",
+            "whyItMatters": "No deposit bonuses are a key factor in attracting new players to online casinos, and this list helps players make informed decisions. The trend of no deposit bonuses is on the rise, indicating a shift towards more player-friendly casino offers.",
+            "howToUse": "Players can use this list to find the best no deposit bonus casinos and take advantage of the offers to play without initial deposits. It's essential to review the terms and conditions of each bonus before signing up.",
+            "beneficiaries": [
+                "Online Casino Players",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
