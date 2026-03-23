@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-23T17:55:30.365Z",
+        "scanDate": "2026-03-23T18:52:06.395Z",
         "version": "2.5.0",
-        "totalTrends": 119,
+        "totalTrends": 120,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-uh1dc4koq",
+            "title": "Capcom AI Boost",
+            "subtitle": "Capcom to use generative AI for production speedup, not asset creation",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "Capcom"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/capcom-says-it-will-use-generative-ai-to-speed-up-production",
+                "date": "2026-03-23T16:28:00.000Z"
+            },
+            "whatsNew": "Capcom plans to utilize generative AI to accelerate production processes. The company emphasizes that AI will not be used for creating assets. This approach aims to streamline development without replacing human creativity in asset design.",
+            "whyItMatters": "The integration of AI in game development can significantly impact production timelines and efficiency, allowing for faster release of games without compromising on quality. This move by Capcom reflects the growing interest in leveraging AI for enhancing development processes.",
+            "howToUse": "Game developers can explore similar applications of generative AI in their production pipelines, focusing on tasks that benefit from automation and speed without replacing human input in creative areas.",
+            "beneficiaries": [
+                "Game Developers",
+                "Production Teams"
+            ],
+            "companies": [
+                "Capcom"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-omrg8mxnb",
             "title": "Game Dev Risk",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hu26hl4my",
@@ -3769,7 +3800,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-23T17:55:30.365Z",
+            "lastScan": "2026-03-23T18:52:06.395Z",
             "note": null
         },
         {
@@ -3788,7 +3819,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-23T17:55:30.365Z",
+            "lastScan": "2026-03-23T18:52:06.395Z",
             "note": null
         },
         {
