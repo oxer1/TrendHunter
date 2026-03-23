@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-23T16:59:05.303Z",
+        "scanDate": "2026-03-23T17:55:30.365Z",
         "version": "2.5.0",
-        "totalTrends": 118,
+        "totalTrends": 119,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-omrg8mxnb",
+            "title": "Game Dev Risk",
+            "subtitle": "Pentiment director Josh Sawyer discusses the risks of experimenting during game production",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Production Risks",
+                "Experimentation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/pentiment-director-offers-advice-to-develop-games-quicker",
+                "date": "2026-03-23T15:27:36.000Z"
+            },
+            "whatsNew": "Josh Sawyer, director of Pentiment, shares his insights on the risks of experimenting during a game's production phase. He advises against treating production like pre-production due to the potential risks involved.",
+            "whyItMatters": "Sawyer's comments highlight the importance of careful planning and decision-making during game development to avoid costly mistakes and delays. This advice can help game developers mitigate risks and ensure smoother production.",
+            "howToUse": "Game developers can apply Sawyer's advice by establishing clear goals and timelines during pre-production and minimizing experimentation during production to reduce risks and ensure efficient development.",
+            "beneficiaries": [
+                "Game Developers",
+                "Producers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-hu26hl4my",
             "title": "Gen Z Gaming",
@@ -3740,7 +3769,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-23T16:59:05.303Z",
+            "lastScan": "2026-03-23T17:55:30.365Z",
             "note": null
         },
         {
@@ -3759,7 +3788,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-23T16:59:05.303Z",
+            "lastScan": "2026-03-23T17:55:30.365Z",
             "note": null
         },
         {
