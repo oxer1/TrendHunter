@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T09:53:53.658Z",
+        "scanDate": "2026-03-24T10:50:26.614Z",
         "version": "2.5.0",
-        "totalTrends": 118,
+        "totalTrends": 117,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-eupl7ogb6",
@@ -1530,37 +1530,6 @@
                 "Gaming Operators"
             ],
             "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-8nnl5ufui",
-            "title": "Cheltenham Festival",
-            "subtitle": "The UK Gambling Commission issues a reminder for on-course bookmakers at the Cheltenham Festival",
-            "category": "iGaming",
-            "tags": [
-                "Cheltenham Festival",
-                "on-course bookmakers",
-                "Gambling Commission"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2tDT3lfX2xTM1gxUUtIazdqNXB2MllEWkkzZkxsT2tDTW9YMUJ2TWhvNi0zTlJ4Skp4UGEzaDNQS0prMHoweTg1VWFxZ0NYZ2EwT1g1Y01kNXRFMGJ4ZGtiU3JtVHc3eTRVOU1KUkJTME5pN1ZZMWx0dVhQdktaT3MtdWpaODdIa1paQ21NSkhOQmxTWUVLZE5UZkYtUHBDTVR6ZVA1NUZZaU0?oc=5",
-                "date": "2026-03-10T10:35:35.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission reminds on-course bookmakers of their obligations during the Cheltenham Festival. This reminder is part of ongoing efforts to ensure compliance with gambling regulations.",
-            "whyItMatters": "The reminder highlights the importance of adhering to gambling regulations to maintain a fair and safe environment for all participants. It demonstrates the Commission's commitment to overseeing the industry.",
-            "howToUse": "On-course bookmakers should review and comply with the Gambling Commission's guidelines to avoid any potential issues during the festival.",
-            "beneficiaries": [
-                "on-course bookmakers",
-                "gambling regulators"
-            ],
-            "companies": [
-                "UK Gambling Commission"
-            ],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
@@ -3738,7 +3707,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T09:53:53.658Z",
+            "lastScan": "2026-03-24T10:50:26.614Z",
             "note": null
         },
         {
@@ -3757,7 +3726,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T09:53:53.658Z",
+            "lastScan": "2026-03-24T10:50:26.614Z",
             "note": null
         },
         {
@@ -11662,6 +11631,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-8nnl5ufui",
+            "title": "Cheltenham Festival",
+            "subtitle": "The UK Gambling Commission issues a reminder for on-course bookmakers at the Cheltenham Festival",
+            "category": "iGaming",
+            "tags": [
+                "Cheltenham Festival",
+                "on-course bookmakers",
+                "Gambling Commission"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2tDT3lfX2xTM1gxUUtIazdqNXB2MllEWkkzZkxsT2tDTW9YMUJ2TWhvNi0zTlJ4Skp4UGEzaDNQS0prMHoweTg1VWFxZ0NYZ2EwT1g1Y01kNXRFMGJ4ZGtiU3JtVHc3eTRVOU1KUkJTME5pN1ZZMWx0dVhQdktaT3MtdWpaODdIa1paQ21NSkhOQmxTWUVLZE5UZkYtUHBDTVR6ZVA1NUZZaU0?oc=5",
+                "date": "2026-03-10T10:35:35.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission reminds on-course bookmakers of their obligations during the Cheltenham Festival. This reminder is part of ongoing efforts to ensure compliance with gambling regulations.",
+            "whyItMatters": "The reminder highlights the importance of adhering to gambling regulations to maintain a fair and safe environment for all participants. It demonstrates the Commission's commitment to overseeing the industry.",
+            "howToUse": "On-course bookmakers should review and comply with the Gambling Commission's guidelines to avoid any potential issues during the festival.",
+            "beneficiaries": [
+                "on-course bookmakers",
+                "gambling regulators"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
