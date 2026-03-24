@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T08:50:34.889Z",
+        "scanDate": "2026-03-24T09:53:53.658Z",
         "version": "2.5.0",
         "totalTrends": 118,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-oefmck08o",
+            "title": "Thailand iGaming",
+            "subtitle": "Thailand's prime minister is involved in iGaming discussions",
+            "category": "iGaming",
+            "tags": [
+                "Thailand",
+                "iGaming",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uVl9uejRFRlJIQjBSbjBKR3g2bURCY0xrQWl2MU1fVl9Faml6cEFWRmU1U29GbEJ2bVF0ODVSNF9rSFdUcFl2SHZsekdCQU93RUFOX0VyY2RHTm5pNjNxVm8yWXFKN0k?oc=5",
+                "date": "2026-03-20T17:36:31.000Z"
+            },
+            "whatsNew": "Thailand's prime minister is taking an interest in the iGaming industry, potentially leading to regulatory changes. This could open up new markets for iGaming operators. The prime minister's involvement may also lead to increased scrutiny of the industry.",
+            "whyItMatters": "The prime minister's involvement could lead to significant changes in Thailand's iGaming regulations, impacting operators and players. This could also set a precedent for other countries in the region to re-examine their own iGaming laws.",
+            "howToUse": "Operators should monitor regulatory developments in Thailand and be prepared to adapt to potential changes. They should also consider the potential opportunities and challenges presented by the prime minister's involvement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-eupl7ogb6",
             "title": "Bolivia Issues Licences",
@@ -3254,35 +3283,6 @@
             "isNew": false
         },
         {
-            "id": "t-yurh6ib3g",
-            "title": "AI Chatbots",
-            "subtitle": "AI chatbots found directing users to unregulated online casinos",
-            "category": "iGaming",
-            "tags": [
-                "AI",
-                "Unregulated Casinos",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUhJcUFQUTNkNzhLRjM5enBCaDRfUWlveW1TYzlncVhId1BmNlhONTRaMUQ4TlREVGdyMHFlcU1vcTd2YW1oUHp1ZTF3blA4cUprTVhxdEMydXBqVUpJVmNOSV85aXBpNmg5dFVkRXc2MGFLSkVOWHF3TFJCVEFhYmpBWGdWVngyRmdoNVJsZUk3OFd6M00tcGZFZEhsSkN2MVRzYmtZSGUzZlZkY3RRNVBQcGhDRTQzaFRHcklPak9LOTNpSEtmMTViWkNlUHJHN2dnMkRiZGhrOUd3dFE?oc=5",
-                "date": "2026-03-10T09:21:25.000Z"
-            },
-            "whatsNew": "An investigation has uncovered AI chatbots directing users to unregulated online casinos, posing significant risks to consumers. This highlights a new challenge in regulating online gambling. The use of AI in this context is a novel development.",
-            "whyItMatters": "This trend matters because it underscores the need for stricter regulations and oversight in the iGaming industry to protect consumers from unregulated and potentially harmful activities. It also highlights the evolving role of AI in the industry.",
-            "howToUse": "Regulators and operators should be aware of these AI-driven practices and work towards implementing stricter guidelines and monitoring to prevent such activities.",
-            "beneficiaries": [
-                "Regulators",
-                "iGaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-9ffha2sij",
             "title": "RNG in Games",
             "subtitle": "Understanding RNG as an equalizer in game development",
@@ -3738,7 +3738,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T08:50:34.889Z",
+            "lastScan": "2026-03-24T09:53:53.658Z",
             "note": null
         },
         {
@@ -3757,7 +3757,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T08:50:34.889Z",
+            "lastScan": "2026-03-24T09:53:53.658Z",
             "note": null
         },
         {
@@ -11633,6 +11633,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-yurh6ib3g",
+            "title": "AI Chatbots",
+            "subtitle": "AI chatbots found directing users to unregulated online casinos",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Unregulated Casinos",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUhJcUFQUTNkNzhLRjM5enBCaDRfUWlveW1TYzlncVhId1BmNlhONTRaMUQ4TlREVGdyMHFlcU1vcTd2YW1oUHp1ZTF3blA4cUprTVhxdEMydXBqVUpJVmNOSV85aXBpNmg5dFVkRXc2MGFLSkVOWHF3TFJCVEFhYmpBWGdWVngyRmdoNVJsZUk3OFd6M00tcGZFZEhsSkN2MVRzYmtZSGUzZlZkY3RRNVBQcGhDRTQzaFRHcklPak9LOTNpSEtmMTViWkNlUHJHN2dnMkRiZGhrOUd3dFE?oc=5",
+                "date": "2026-03-10T09:21:25.000Z"
+            },
+            "whatsNew": "An investigation has uncovered AI chatbots directing users to unregulated online casinos, posing significant risks to consumers. This highlights a new challenge in regulating online gambling. The use of AI in this context is a novel development.",
+            "whyItMatters": "This trend matters because it underscores the need for stricter regulations and oversight in the iGaming industry to protect consumers from unregulated and potentially harmful activities. It also highlights the evolving role of AI in the industry.",
+            "howToUse": "Regulators and operators should be aware of these AI-driven practices and work towards implementing stricter guidelines and monitoring to prevent such activities.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
