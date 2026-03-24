@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T10:50:26.614Z",
+        "scanDate": "2026-03-24T11:43:25.131Z",
         "version": "2.5.0",
-        "totalTrends": 117,
+        "totalTrends": 116,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-tllxmgwut",
+            "title": "Illegal Bets Warning",
+            "subtitle": "BGC warns of £60 million in illegal Cheltenham Festival bets",
+            "category": "iGaming",
+            "tags": [
+                "BGC",
+                "Cheltenham Festival",
+                "Illegal Bets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjJURFFuV1NuM09PZm82TGpJZEVYT19fOGwtWHJJN1RsTnptdUxhQnRZZm0wWkoyVnpHQUdPQm8tR25fRGJhSHBpMkF2U1Z3VElURjdncmJLNy1nMGt1QnVURTAya0tJZkE2Z0lIT3lCdWNFcnVscVBxTWRzc3RMZ1R2cHF2bHo3WVlSZUVETUwxT19TaF85eGI1QWpxTFE?oc=5",
+                "date": "2026-03-16T13:15:16.000Z"
+            },
+            "whatsNew": "The Betting and Gaming Council (BGC) has warned that an estimated £60 million will be bet illegally during the Cheltenham Festival. This highlights the ongoing issue of illegal betting in the UK.",
+            "whyItMatters": "The warning from BGC underscores the need for stricter regulation and enforcement to combat illegal betting, which can lead to significant revenue losses for the industry and potential harm to consumers.",
+            "howToUse": "Operators should ensure they are offering competitive and safe betting options to discourage customers from using illegal sites, and regulators should increase enforcement efforts to combat illegal betting.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-1xtla8913",
+            "title": "Studios File Insolvency",
+            "subtitle": "French game studios Spiders, Kylotonn, and Cyanide face financial difficulties",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Insolvency",
+                "Nacon"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/french-studios-spiders-kylotonn-and-cyanide-have-filed-for-insolvency",
+                "date": "2026-03-24T11:14:21.000Z"
+            },
+            "whatsNew": "French studios Spiders, Kylotonn, and Cyanide have filed for insolvency due to financial difficulties. This comes after their parent company Nacon also filed for insolvency earlier this year.",
+            "whyItMatters": "The insolvency filings may impact the game development industry, potentially leading to job losses and project cancellations. This could also affect Nacon's ability to publish new games.",
+            "howToUse": "Game developers and publishers should monitor the situation and consider potential partnerships or collaborations with other studios to mitigate risks.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Nacon",
+                "Spiders",
+                "Kylotonn",
+                "Cyanide"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-oefmck08o",
             "title": "Thailand iGaming",
@@ -2573,35 +2636,6 @@
             "isNew": false
         },
         {
-            "id": "t-3rm91bg26",
-            "title": "Brazil iGaming Ban",
-            "subtitle": "Brazil's iGaming sector responds to President Lula's call to ban online betting",
-            "category": "iGaming",
-            "tags": [
-                "Brazil",
-                "Online Betting",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelZ1MlViSjlONWlpTXlCMmxWUXBJWVMxVVN0cmFQNnRpdmJOd01SUEoySzhkOHRBSjNJRFBOR1ZVb3hEWTNoY3RBcUJqZzVvcVJVOHdpeHdRbGRxc19HQWdaNjYtVE00TkNyMlRNYVZod19lSF9jclUtS3dNY19Hdm1mUFdNYXFhcWhsdWU4c0VGX3Q3OVFpc3h5OA?oc=5",
-                "date": "2026-03-10T10:56:27.000Z"
-            },
-            "whatsNew": "President Lula's call to ban online betting in Brazil has been met with resistance from the iGaming sector. The sector views the call as disrespectful and is pushing back against the proposed ban.",
-            "whyItMatters": "The potential ban could significantly impact the Brazilian iGaming market, affecting operators, players, and the economy. The sector's response highlights the ongoing debate around online betting regulation.",
-            "howToUse": "Operators should monitor regulatory developments in Brazil and prepare for potential changes. Players should be aware of the ongoing debate and its potential impact on their gaming experience.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-d5mokrsah",
             "title": "Pokemon Sales Soar",
             "subtitle": "Pokemon Pokopia sells 2.2M copies in four days on Nintendo Switch 2",
@@ -3531,66 +3565,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-7u2fvkf37",
-            "title": "BGaming Turns 8",
-            "subtitle": "BGaming's chief commercial officer reflects on the company's growth and innovation over the past eight years",
-            "category": "iGaming",
-            "tags": [
-                "BGaming",
-                "iGaming",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/eight-years-of-bgaming-growth-innovation-and-a-people-first-culture/",
-                "date": "2026-03-10T11:17:59.000Z"
-            },
-            "whatsNew": "BGaming has grown from a small team to a globally recognised studio with over 330 members and 3,000 clients. The company is celebrating its eighth anniversary and reflecting on key milestones and industry changes.",
-            "whyItMatters": "BGaming's growth and innovation are significant for the iGaming industry, demonstrating the potential for studios to expand and succeed globally. The company's people-first culture is also noteworthy, highlighting the importance of employee satisfaction and retention in the industry.",
-            "howToUse": "Game developers and iGaming professionals can learn from BGaming's experience and strategies for growth and innovation, and consider applying similar approaches to their own work.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Professionals"
-            ],
-            "companies": [
-                "BGaming"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-kwa3kal77",
-            "title": "Brazil Casino U-Turn",
-            "subtitle": "President Lula changes stance on online casino legalization in Brazil",
-            "category": "iGaming",
-            "tags": [
-                "online casinos",
-                "regulation",
-                "Brazil"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/brazil-president-lula-u-turn-online-casino/",
-                "date": "2026-03-10T11:01:47.000Z"
-            },
-            "whatsNew": "Brazilian President Lula has signaled a U-turn on his previous stance, now seeking to ban online casinos. This shift in policy could significantly impact the iGaming industry in Brazil.",
-            "whyItMatters": "The potential ban on online casinos in Brazil could lead to a substantial loss of revenue for iGaming operators and affect the country's gaming landscape. It also reflects changing attitudes towards online gambling regulation.",
-            "howToUse": "Operators should monitor regulatory developments in Brazil and adjust their strategies accordingly, considering the potential implications of a ban on their operations.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliance Officers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3707,7 +3681,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T10:50:26.614Z",
+            "lastScan": "2026-03-24T11:43:25.131Z",
             "note": null
         },
         {
@@ -3726,7 +3700,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T10:50:26.614Z",
+            "lastScan": "2026-03-24T11:43:25.131Z",
             "note": null
         },
         {
@@ -11660,6 +11634,95 @@
             "companies": [
                 "UK Gambling Commission"
             ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-3rm91bg26",
+            "title": "Brazil iGaming Ban",
+            "subtitle": "Brazil's iGaming sector responds to President Lula's call to ban online betting",
+            "category": "iGaming",
+            "tags": [
+                "Brazil",
+                "Online Betting",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelZ1MlViSjlONWlpTXlCMmxWUXBJWVMxVVN0cmFQNnRpdmJOd01SUEoySzhkOHRBSjNJRFBOR1ZVb3hEWTNoY3RBcUJqZzVvcVJVOHdpeHdRbGRxc19HQWdaNjYtVE00TkNyMlRNYVZod19lSF9jclUtS3dNY19Hdm1mUFdNYXFhcWhsdWU4c0VGX3Q3OVFpc3h5OA?oc=5",
+                "date": "2026-03-10T10:56:27.000Z"
+            },
+            "whatsNew": "President Lula's call to ban online betting in Brazil has been met with resistance from the iGaming sector. The sector views the call as disrespectful and is pushing back against the proposed ban.",
+            "whyItMatters": "The potential ban could significantly impact the Brazilian iGaming market, affecting operators, players, and the economy. The sector's response highlights the ongoing debate around online betting regulation.",
+            "howToUse": "Operators should monitor regulatory developments in Brazil and prepare for potential changes. Players should be aware of the ongoing debate and its potential impact on their gaming experience.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7u2fvkf37",
+            "title": "BGaming Turns 8",
+            "subtitle": "BGaming's chief commercial officer reflects on the company's growth and innovation over the past eight years",
+            "category": "iGaming",
+            "tags": [
+                "BGaming",
+                "iGaming",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/eight-years-of-bgaming-growth-innovation-and-a-people-first-culture/",
+                "date": "2026-03-10T11:17:59.000Z"
+            },
+            "whatsNew": "BGaming has grown from a small team to a globally recognised studio with over 330 members and 3,000 clients. The company is celebrating its eighth anniversary and reflecting on key milestones and industry changes.",
+            "whyItMatters": "BGaming's growth and innovation are significant for the iGaming industry, demonstrating the potential for studios to expand and succeed globally. The company's people-first culture is also noteworthy, highlighting the importance of employee satisfaction and retention in the industry.",
+            "howToUse": "Game developers and iGaming professionals can learn from BGaming's experience and strategies for growth and innovation, and consider applying similar approaches to their own work.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Professionals"
+            ],
+            "companies": [
+                "BGaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kwa3kal77",
+            "title": "Brazil Casino U-Turn",
+            "subtitle": "President Lula changes stance on online casino legalization in Brazil",
+            "category": "iGaming",
+            "tags": [
+                "online casinos",
+                "regulation",
+                "Brazil"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/brazil-president-lula-u-turn-online-casino/",
+                "date": "2026-03-10T11:01:47.000Z"
+            },
+            "whatsNew": "Brazilian President Lula has signaled a U-turn on his previous stance, now seeking to ban online casinos. This shift in policy could significantly impact the iGaming industry in Brazil.",
+            "whyItMatters": "The potential ban on online casinos in Brazil could lead to a substantial loss of revenue for iGaming operators and affect the country's gaming landscape. It also reflects changing attitudes towards online gambling regulation.",
+            "howToUse": "Operators should monitor regulatory developments in Brazil and adjust their strategies accordingly, considering the potential implications of a ban on their operations.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliance Officers"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
