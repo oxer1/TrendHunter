@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T11:43:25.131Z",
+        "scanDate": "2026-03-24T13:06:15.792Z",
         "version": "2.5.0",
-        "totalTrends": 116,
+        "totalTrends": 113,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1xtla8913",
@@ -81,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oefmck08o",
@@ -2698,38 +2698,6 @@
             "isNew": false
         },
         {
-            "id": "t-mtktdeblm",
-            "title": "Kalshi XP Partnership",
-            "subtitle": "Kalshi partners with XP Inc to bring prediction markets to Brazil",
-            "category": "iGaming",
-            "tags": [
-                "Prediction Markets",
-                "XP Inc",
-                "Kalshi"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/investment/kalshi-to-bring-prediction-markets-to-brazil-via-xp-inc-partnership/",
-                "date": "2026-03-10T12:43:12.000Z"
-            },
-            "whatsNew": "Kalshi has partnered with XP Inc to introduce prediction markets in Brazil, expanding its reach. This move is expected to increase accessibility to such markets for Brazilian investors. The partnership signifies a growing interest in prediction markets globally.",
-            "whyItMatters": "This partnership matters because it signifies the growing interest in and expansion of prediction markets, potentially paving the way for similar partnerships in other regions. It also highlights the increasing importance of regulated and accessible betting markets.",
-            "howToUse": "Investors in Brazil can look forward to accessing prediction markets through this partnership, potentially diversifying their investment portfolios. Companies looking to expand into new markets can consider similar strategic partnerships.",
-            "beneficiaries": [
-                "Investors",
-                "Gaming Companies"
-            ],
-            "companies": [
-                "Kalshi",
-                "XP Inc"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ox5tt9iam",
             "title": "NVIDIA AI-Q Tops",
             "subtitle": "NVIDIA's AI-Q reaches number one on DeepResearch Bench I and II, showcasing its AI capabilities",
@@ -3505,66 +3473,6 @@
             "visualStyle": null,
             "cluster": "ai-in-igaming",
             "isNew": false
-        },
-        {
-            "id": "t-q66gb5np9",
-            "title": "MLS Bans Players",
-            "subtitle": "Former MLS players banned for life due to betting on their own matches",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "MLS",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/mls-players-lifetime-ban-betting-own-matches/",
-                "date": "2026-03-10T11:47:44.000Z"
-            },
-            "whatsNew": "Two former MLS players have been issued lifetime bans for violating the league's gambling policy by betting on their own matches. This move highlights the strict stance of sports leagues against insider betting.",
-            "whyItMatters": "The bans demonstrate the severe consequences of betting on one's own matches, emphasizing the importance of integrity in sports. This could lead to increased scrutiny and stricter regulations in the sports betting industry.",
-            "howToUse": "Leagues and regulatory bodies can use this as a precedent to enforce stricter betting policies and monitor player activities more closely.",
-            "beneficiaries": [
-                "Sports Leagues",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-guyqljtff",
-            "title": "KSA Fines Novatech",
-            "subtitle": "Netherlands Gambling Authority issues record fine to unlicensed operator",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Licensing",
-                "Fines"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/ksa-issues-record-eur25m-fine-novatech/",
-                "date": "2026-03-10T11:45:55.000Z"
-            },
-            "whatsNew": "The Netherlands Gambling Authority has issued a record fine of €24.9m to Novatech for operating without a license. The fine is the largest issued by the KSA to date.",
-            "whyItMatters": "This fine highlights the KSA's commitment to enforcing regulations and protecting consumers in the Netherlands. It also serves as a warning to other unlicensed operators.",
-            "howToUse": "Operators should ensure they are properly licensed to avoid similar fines and reputational damage.",
-            "beneficiaries": [
-                "Licensed Operators",
-                "Consumers"
-            ],
-            "companies": [
-                "Novatech"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3681,7 +3589,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T11:43:25.131Z",
+            "lastScan": "2026-03-24T13:06:15.792Z",
             "note": null
         },
         {
@@ -3700,7 +3608,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T11:43:25.131Z",
+            "lastScan": "2026-03-24T13:06:15.792Z",
             "note": null
         },
         {
@@ -11723,6 +11631,98 @@
                 "Compliance Officers"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-mtktdeblm",
+            "title": "Kalshi XP Partnership",
+            "subtitle": "Kalshi partners with XP Inc to bring prediction markets to Brazil",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "XP Inc",
+                "Kalshi"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/kalshi-to-bring-prediction-markets-to-brazil-via-xp-inc-partnership/",
+                "date": "2026-03-10T12:43:12.000Z"
+            },
+            "whatsNew": "Kalshi has partnered with XP Inc to introduce prediction markets in Brazil, expanding its reach. This move is expected to increase accessibility to such markets for Brazilian investors. The partnership signifies a growing interest in prediction markets globally.",
+            "whyItMatters": "This partnership matters because it signifies the growing interest in and expansion of prediction markets, potentially paving the way for similar partnerships in other regions. It also highlights the increasing importance of regulated and accessible betting markets.",
+            "howToUse": "Investors in Brazil can look forward to accessing prediction markets through this partnership, potentially diversifying their investment portfolios. Companies looking to expand into new markets can consider similar strategic partnerships.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Companies"
+            ],
+            "companies": [
+                "Kalshi",
+                "XP Inc"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-q66gb5np9",
+            "title": "MLS Bans Players",
+            "subtitle": "Former MLS players banned for life due to betting on their own matches",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "MLS",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/mls-players-lifetime-ban-betting-own-matches/",
+                "date": "2026-03-10T11:47:44.000Z"
+            },
+            "whatsNew": "Two former MLS players have been issued lifetime bans for violating the league's gambling policy by betting on their own matches. This move highlights the strict stance of sports leagues against insider betting.",
+            "whyItMatters": "The bans demonstrate the severe consequences of betting on one's own matches, emphasizing the importance of integrity in sports. This could lead to increased scrutiny and stricter regulations in the sports betting industry.",
+            "howToUse": "Leagues and regulatory bodies can use this as a precedent to enforce stricter betting policies and monitor player activities more closely.",
+            "beneficiaries": [
+                "Sports Leagues",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-guyqljtff",
+            "title": "KSA Fines Novatech",
+            "subtitle": "Netherlands Gambling Authority issues record fine to unlicensed operator",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Licensing",
+                "Fines"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ksa-issues-record-eur25m-fine-novatech/",
+                "date": "2026-03-10T11:45:55.000Z"
+            },
+            "whatsNew": "The Netherlands Gambling Authority has issued a record fine of €24.9m to Novatech for operating without a license. The fine is the largest issued by the KSA to date.",
+            "whyItMatters": "This fine highlights the KSA's commitment to enforcing regulations and protecting consumers in the Netherlands. It also serves as a warning to other unlicensed operators.",
+            "howToUse": "Operators should ensure they are properly licensed to avoid similar fines and reputational damage.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Consumers"
+            ],
+            "companies": [
+                "Novatech"
+            ],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
