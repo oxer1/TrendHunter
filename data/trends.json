@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T18:59:32.544Z",
+        "scanDate": "2026-03-24T19:55:28.306Z",
         "version": "2.5.0",
-        "totalTrends": 111,
+        "totalTrends": 110,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ynn88hlmm",
+            "title": "Australia Funds Games",
+            "subtitle": "Screen Australia supports local game developers with $1.4 million for 26 projects",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Funding",
+                "Australia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/screen-australia-hands-out-1-4-million-to-local-developers",
+                "date": "2026-03-24T10:25:41.000Z"
+            },
+            "whatsNew": "Screen Australia is providing $1.4 million to support 26 local game development projects. These projects focus on Australian stories and ideas, promoting local content creation.",
+            "whyItMatters": "This funding will help boost the Australian game development industry, encouraging the creation of unique and culturally relevant content. It also highlights the importance of government support for local game developers.",
+            "howToUse": "Local game developers can apply for funding to support their projects, while international developers can look into partnerships or collaborations with Australian studios to tap into this funding opportunity.",
+            "beneficiaries": [
+                "Local Game Developers",
+                "Australian Gaming Industry"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-20g0iokt8",
             "title": "Gambling Normalized",
@@ -3345,68 +3374,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-utoimu0cf",
-            "title": "Scopely Revenue",
-            "subtitle": "Scopely reaches $15 billion in lifetime revenue with 150 billion hours of playtime",
-            "category": "Tech",
-            "tags": [
-                "Scopely",
-                "Mobile Gaming",
-                "Revenue"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/scopely-hits-15-billion-in-lifetime-revenue",
-                "date": "2026-03-10T19:32:20.000Z"
-            },
-            "whatsNew": "Scopely has achieved a significant milestone of $15 billion in lifetime revenue. The company also boasts an impressive 150 billion hours of playtime.",
-            "whyItMatters": "This achievement highlights the growing success of mobile gaming and Scopely's position as a leader in the industry. It demonstrates the potential for substantial revenue in the mobile gaming sector.",
-            "howToUse": "Game developers can take note of Scopely's success and consider strategies to increase player engagement and retention in their own games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Investors"
-            ],
-            "companies": [
-                "Scopely"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-bbmbwrn7g",
-            "title": "AI Rejection",
-            "subtitle": "Outersloth rejects all generative AI pitches due to lack of soul in games",
-            "category": "AI",
-            "tags": [
-                "Generative AI",
-                "Game Development",
-                "Indie Funding"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/indie-fund-outersloth-has-rejected-every-generative-ai-pitch-it-has-received",
-                "date": "2026-03-10T19:48:37.000Z"
-            },
-            "whatsNew": "Outersloth, an indie fund, has rejected every generative AI pitch it received, citing a preference for games with soul. This indicates a potential shift in the gaming industry towards more human-centric game development. The fund's stance may influence other investors to prioritize soulful games over those relying heavily on AI generation.",
-            "whyItMatters": "This rejection highlights the importance of human touch and creativity in game development, potentially impacting the adoption of generative AI in the industry. It may also lead to more innovative, soulful games being developed with a focus on human emotion and connection.",
-            "howToUse": "Game developers can focus on creating games with unique, human-centric elements to increase their chances of securing funding from investors like Outersloth. This involves emphasizing storytelling, characters, and gameplay that evoke emotions and create a sense of connection with players.",
-            "beneficiaries": [
-                "Game Developers",
-                "Indie Game Studios"
-            ],
-            "companies": [
-                "Outersloth"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3523,7 +3490,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T18:59:32.544Z",
+            "lastScan": "2026-03-24T19:55:28.306Z",
             "note": null
         },
         {
@@ -3542,7 +3509,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T18:59:32.544Z",
+            "lastScan": "2026-03-24T19:55:28.306Z",
             "note": null
         },
         {
@@ -11850,6 +11817,68 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-utoimu0cf",
+            "title": "Scopely Revenue",
+            "subtitle": "Scopely reaches $15 billion in lifetime revenue with 150 billion hours of playtime",
+            "category": "Tech",
+            "tags": [
+                "Scopely",
+                "Mobile Gaming",
+                "Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/scopely-hits-15-billion-in-lifetime-revenue",
+                "date": "2026-03-10T19:32:20.000Z"
+            },
+            "whatsNew": "Scopely has achieved a significant milestone of $15 billion in lifetime revenue. The company also boasts an impressive 150 billion hours of playtime.",
+            "whyItMatters": "This achievement highlights the growing success of mobile gaming and Scopely's position as a leader in the industry. It demonstrates the potential for substantial revenue in the mobile gaming sector.",
+            "howToUse": "Game developers can take note of Scopely's success and consider strategies to increase player engagement and retention in their own games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Scopely"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-bbmbwrn7g",
+            "title": "AI Rejection",
+            "subtitle": "Outersloth rejects all generative AI pitches due to lack of soul in games",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "Indie Funding"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/indie-fund-outersloth-has-rejected-every-generative-ai-pitch-it-has-received",
+                "date": "2026-03-10T19:48:37.000Z"
+            },
+            "whatsNew": "Outersloth, an indie fund, has rejected every generative AI pitch it received, citing a preference for games with soul. This indicates a potential shift in the gaming industry towards more human-centric game development. The fund's stance may influence other investors to prioritize soulful games over those relying heavily on AI generation.",
+            "whyItMatters": "This rejection highlights the importance of human touch and creativity in game development, potentially impacting the adoption of generative AI in the industry. It may also lead to more innovative, soulful games being developed with a focus on human emotion and connection.",
+            "howToUse": "Game developers can focus on creating games with unique, human-centric elements to increase their chances of securing funding from investors like Outersloth. This involves emphasizing storytelling, characters, and gameplay that evoke emotions and create a sense of connection with players.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Outersloth"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
