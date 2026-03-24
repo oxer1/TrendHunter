@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T13:06:15.792Z",
+        "scanDate": "2026-03-24T14:56:01.379Z",
         "version": "2.5.0",
-        "totalTrends": 113,
+        "totalTrends": 109,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-bvdwyovpx",
+            "title": "Tencent AI Tools",
+            "subtitle": "Tencent's genAI animation tools technically impressive but lacking in fun factor for games",
+            "category": "AI",
+            "tags": [
+                "Tencent",
+                "genAI",
+                "animation tools",
+                "GDC"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-seem-to-make-games-more-fun",
+                "date": "2026-03-24T14:15:35.000Z"
+            },
+            "whatsNew": "Tencent showcased its generative AI tools at GDC, demonstrating technical capabilities in animation. However, the tools' ability to enhance gameplay remains uncertain. The focus is on the potential of AI in game development.",
+            "whyItMatters": "The integration of AI in game development could significantly impact the industry, but it must offer tangible benefits to developers and players. The fun factor and overall gaming experience are crucial for the success of AI-powered games.",
+            "howToUse": "Developers can explore Tencent's genAI tools for animation to potentially streamline their workflow and create more realistic graphics, but they should also consider the tools' limitations and the need for engaging gameplay.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Tencent"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-tllxmgwut",
             "title": "Illegal Bets Warning",
@@ -350,35 +382,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-xbreyoot1",
-            "title": "SA Tax Hike",
-            "subtitle": "South Africa's gambling tax hike may disproportionately affect licensed betting operators",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Tax",
-                "South Africa",
-                "Licensed Operators"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHgxRFFlUExRWTRkUEFYNTVFVTZ6UTUzSzktdVBFNzkyNUViQU85UTJnSzJNV2ZQMnctd283S2x2aUFaY0ZEMDJBeFpZSV9kNUZrcUl1cDJFSDhXV0lSTGxvX3JEU3BGWjVEUnVNLVRJaVdGSmNLam05cTJ4WWk4TTV4dWhuZ2J6U29KQUh4ZW9QMU12?oc=5",
-                "date": "2026-03-10T13:09:05.000Z"
-            },
-            "whatsNew": "A proposed tax hike in South Africa could have a significant impact on licensed betting operators, potentially affecting their operations and revenue. The tax increase may lead to increased costs for operators, which could be passed on to consumers. This development is part of a broader trend of regulatory changes in the iGaming industry.",
-            "whyItMatters": "The tax hike could lead to a decrease in the competitiveness of licensed operators, potentially driving customers to unlicensed operators. This could have significant implications for the iGaming industry and the broader economy.",
-            "howToUse": "Licensed betting operators should closely monitor the situation and consider lobbying efforts to mitigate the impact of the tax hike. They should also explore strategies to maintain their competitiveness in the market.",
-            "beneficiaries": [
-                "Licensed Betting Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -3343,136 +3346,6 @@
             "visualStyle": null,
             "cluster": "ai-in-igaming",
             "isNew": false
-        },
-        {
-            "id": "t-1i0zqih5m",
-            "title": "iGaming Talent Trends",
-            "subtitle": "SOFTSWISS and Pentasia present the 2026 iGaming Talent Trends report in Malta, discussing evolving workforce patterns and leadership expectations",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Talent Trends",
-                "Workforce Patterns"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/softswiss-and-pentasia-present-2026-igaming-talent-trends-report-in-malta/",
-                "date": "2026-03-10T14:48:00.000Z"
-            },
-            "whatsNew": "The 2026 iGaming Talent Trends report will be unveiled, providing insights into shifting workforce patterns and evolving leadership expectations. The report is a comprehensive study on the iGaming workforce, covering regulated markets. The presentation will bring together industry leaders to discuss the findings and their implications.",
-            "whyItMatters": "The report's findings will help iGaming companies understand the changing workforce dynamics and make informed decisions about talent acquisition and retention. It will also provide valuable insights for industry leaders, HR, and marketing professionals.",
-            "howToUse": "Attend the exclusive presentation on 17 March in Malta to gain direct access to the report's findings and network with industry leaders. Utilize the report's insights to inform talent management strategies and stay ahead of the competition.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "HR Professionals",
-                "Marketing Leaders"
-            ],
-            "companies": [
-                "SOFTSWISS",
-                "Pentasia"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-w1c51xovw",
-            "title": "1xBet LatAm Growth",
-            "subtitle": "1xBet outlines its 2026 growth strategy for Latin America at the SBC Summit Rio 2026",
-            "category": "iGaming",
-            "tags": [
-                "1xBet",
-                "LatAm",
-                "iGaming",
-                "SBC Summit Rio"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/market-resilience-1xbet-outlines-2026-latam-growth-strategy/",
-                "date": "2026-03-10T14:27:42.000Z"
-            },
-            "whatsNew": "1xBet participated in the SBC Summit Rio 2026, discussing its growth strategy for Latin America. The company's strategic advisor, Simon Westbury, spoke at a panel discussion on building and scaling betting giants.",
-            "whyItMatters": "1xBet's growth strategy in Latin America reflects the region's increasing importance in the global iGaming market. The company's involvement in the SBC Summit Rio 2026 highlights its commitment to expanding its presence in the region.",
-            "howToUse": "Operators can learn from 1xBet's approach to expansion in Latin America, focusing on strategic partnerships and localized offerings. Attendees of the SBC Summit Rio 2026 can leverage the insights and connections made at the event to inform their own growth strategies.",
-            "beneficiaries": [
-                "iGaming operators",
-                "industry stakeholders"
-            ],
-            "companies": [
-                "1xBet"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-0qfkmdwed",
-            "title": "Brazil Games Report",
-            "subtitle": "A data-driven look at player demand vs casino lobby placement in Brazil's online casino market",
-            "category": "iGaming",
-            "tags": [
-                "online casino",
-                "Brazil",
-                "player demand",
-                "lobby placement"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/brazil-games-report-what-players-search-vs-what-casinos-push/",
-                "date": "2026-03-10T13:31:54.000Z"
-            },
-            "whatsNew": "Blask's report reveals a gap between what casinos promote and what players actually search for, highlighting the importance of visibility in Brazil's competitive online casino market. The report analyzes data from over 500 casinos and thousands of titles to map player interest against lobby exposure.",
-            "whyItMatters": "Understanding player demand and lobby placement strategies can help casinos and game developers optimize their offerings and improve player engagement. This insight can also inform regulatory decisions and industry trends in the Brazilian market.",
-            "howToUse": "Casinos and game developers can use this report to adjust their lobby placement and game offerings to better match player demand, increasing visibility and engagement.",
-            "beneficiaries": [
-                "Casino operators",
-                "Game developers"
-            ],
-            "companies": [
-                "Blask"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-qcutekqmn",
-            "title": "AI Gaming Tech",
-            "subtitle": "Sumo Digital partners with Arm to test AI-powered neural graphics tech for mobile gaming",
-            "category": "AI",
-            "tags": [
-                "AI",
-                "Gaming",
-                "Neural Graphics",
-                "Mobile Gaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/sumo-digital-partners-with-arm-to-test-ai-powered-neural-graphics-tech",
-                "date": "2026-03-10T14:33:01.000Z"
-            },
-            "whatsNew": "Sumo Digital is partnering with Arm to test AI-powered neural graphics technology, aiming to bring PC-class gaming to mobile platforms. This collaboration could significantly enhance mobile gaming capabilities. The use of AI in graphics processing is a novel approach.",
-            "whyItMatters": "This partnership could revolutionize mobile gaming by providing high-quality, PC-class gaming experiences on mobile devices, leveraging AI for enhanced graphics. It showcases the growing importance of AI in the gaming industry.",
-            "howToUse": "Game developers can explore integrating AI-powered neural graphics into their projects to improve performance and visuals on mobile platforms. This technology can be particularly useful for developers looking to optimize their games for lower-end hardware.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gaming Industry"
-            ],
-            "companies": [
-                "Sumo Digital",
-                "Arm"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3589,7 +3462,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T13:06:15.792Z",
+            "lastScan": "2026-03-24T14:56:01.379Z",
             "note": null
         },
         {
@@ -3608,7 +3481,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T13:06:15.792Z",
+            "lastScan": "2026-03-24T14:56:01.379Z",
             "note": null
         },
         {
@@ -11725,6 +11598,165 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xbreyoot1",
+            "title": "SA Tax Hike",
+            "subtitle": "South Africa's gambling tax hike may disproportionately affect licensed betting operators",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Tax",
+                "South Africa",
+                "Licensed Operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHgxRFFlUExRWTRkUEFYNTVFVTZ6UTUzSzktdVBFNzkyNUViQU85UTJnSzJNV2ZQMnctd283S2x2aUFaY0ZEMDJBeFpZSV9kNUZrcUl1cDJFSDhXV0lSTGxvX3JEU3BGWjVEUnVNLVRJaVdGSmNLam05cTJ4WWk4TTV4dWhuZ2J6U29KQUh4ZW9QMU12?oc=5",
+                "date": "2026-03-10T13:09:05.000Z"
+            },
+            "whatsNew": "A proposed tax hike in South Africa could have a significant impact on licensed betting operators, potentially affecting their operations and revenue. The tax increase may lead to increased costs for operators, which could be passed on to consumers. This development is part of a broader trend of regulatory changes in the iGaming industry.",
+            "whyItMatters": "The tax hike could lead to a decrease in the competitiveness of licensed operators, potentially driving customers to unlicensed operators. This could have significant implications for the iGaming industry and the broader economy.",
+            "howToUse": "Licensed betting operators should closely monitor the situation and consider lobbying efforts to mitigate the impact of the tax hike. They should also explore strategies to maintain their competitiveness in the market.",
+            "beneficiaries": [
+                "Licensed Betting Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-1i0zqih5m",
+            "title": "iGaming Talent Trends",
+            "subtitle": "SOFTSWISS and Pentasia present the 2026 iGaming Talent Trends report in Malta, discussing evolving workforce patterns and leadership expectations",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Talent Trends",
+                "Workforce Patterns"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-and-pentasia-present-2026-igaming-talent-trends-report-in-malta/",
+                "date": "2026-03-10T14:48:00.000Z"
+            },
+            "whatsNew": "The 2026 iGaming Talent Trends report will be unveiled, providing insights into shifting workforce patterns and evolving leadership expectations. The report is a comprehensive study on the iGaming workforce, covering regulated markets. The presentation will bring together industry leaders to discuss the findings and their implications.",
+            "whyItMatters": "The report's findings will help iGaming companies understand the changing workforce dynamics and make informed decisions about talent acquisition and retention. It will also provide valuable insights for industry leaders, HR, and marketing professionals.",
+            "howToUse": "Attend the exclusive presentation on 17 March in Malta to gain direct access to the report's findings and network with industry leaders. Utilize the report's insights to inform talent management strategies and stay ahead of the competition.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "HR Professionals",
+                "Marketing Leaders"
+            ],
+            "companies": [
+                "SOFTSWISS",
+                "Pentasia"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-w1c51xovw",
+            "title": "1xBet LatAm Growth",
+            "subtitle": "1xBet outlines its 2026 growth strategy for Latin America at the SBC Summit Rio 2026",
+            "category": "iGaming",
+            "tags": [
+                "1xBet",
+                "LatAm",
+                "iGaming",
+                "SBC Summit Rio"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/market-resilience-1xbet-outlines-2026-latam-growth-strategy/",
+                "date": "2026-03-10T14:27:42.000Z"
+            },
+            "whatsNew": "1xBet participated in the SBC Summit Rio 2026, discussing its growth strategy for Latin America. The company's strategic advisor, Simon Westbury, spoke at a panel discussion on building and scaling betting giants.",
+            "whyItMatters": "1xBet's growth strategy in Latin America reflects the region's increasing importance in the global iGaming market. The company's involvement in the SBC Summit Rio 2026 highlights its commitment to expanding its presence in the region.",
+            "howToUse": "Operators can learn from 1xBet's approach to expansion in Latin America, focusing on strategic partnerships and localized offerings. Attendees of the SBC Summit Rio 2026 can leverage the insights and connections made at the event to inform their own growth strategies.",
+            "beneficiaries": [
+                "iGaming operators",
+                "industry stakeholders"
+            ],
+            "companies": [
+                "1xBet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0qfkmdwed",
+            "title": "Brazil Games Report",
+            "subtitle": "A data-driven look at player demand vs casino lobby placement in Brazil's online casino market",
+            "category": "iGaming",
+            "tags": [
+                "online casino",
+                "Brazil",
+                "player demand",
+                "lobby placement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/brazil-games-report-what-players-search-vs-what-casinos-push/",
+                "date": "2026-03-10T13:31:54.000Z"
+            },
+            "whatsNew": "Blask's report reveals a gap between what casinos promote and what players actually search for, highlighting the importance of visibility in Brazil's competitive online casino market. The report analyzes data from over 500 casinos and thousands of titles to map player interest against lobby exposure.",
+            "whyItMatters": "Understanding player demand and lobby placement strategies can help casinos and game developers optimize their offerings and improve player engagement. This insight can also inform regulatory decisions and industry trends in the Brazilian market.",
+            "howToUse": "Casinos and game developers can use this report to adjust their lobby placement and game offerings to better match player demand, increasing visibility and engagement.",
+            "beneficiaries": [
+                "Casino operators",
+                "Game developers"
+            ],
+            "companies": [
+                "Blask"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qcutekqmn",
+            "title": "AI Gaming Tech",
+            "subtitle": "Sumo Digital partners with Arm to test AI-powered neural graphics tech for mobile gaming",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Gaming",
+                "Neural Graphics",
+                "Mobile Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/sumo-digital-partners-with-arm-to-test-ai-powered-neural-graphics-tech",
+                "date": "2026-03-10T14:33:01.000Z"
+            },
+            "whatsNew": "Sumo Digital is partnering with Arm to test AI-powered neural graphics technology, aiming to bring PC-class gaming to mobile platforms. This collaboration could significantly enhance mobile gaming capabilities. The use of AI in graphics processing is a novel approach.",
+            "whyItMatters": "This partnership could revolutionize mobile gaming by providing high-quality, PC-class gaming experiences on mobile devices, leveraging AI for enhanced graphics. It showcases the growing importance of AI in the gaming industry.",
+            "howToUse": "Game developers can explore integrating AI-powered neural graphics into their projects to improve performance and visuals on mobile platforms. This technology can be particularly useful for developers looking to optimize their games for lower-end hardware.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [
+                "Sumo Digital",
+                "Arm"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
