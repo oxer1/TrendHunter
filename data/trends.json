@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T14:56:01.379Z",
+        "scanDate": "2026-03-24T16:05:05.249Z",
         "version": "2.5.0",
-        "totalTrends": 109,
+        "totalTrends": 112,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-20g0iokt8",
+            "title": "Gambling Normalized",
+            "subtitle": "Australian women think marketing and CSR campaigns have normalized gambling, according to a study",
+            "category": "iGaming",
+            "tags": [
+                "Gambling",
+                "Marketing",
+                "CSR",
+                "Australia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFpZVXZwRjMwZ2tvMFN5NjdMdjMyUzBlblV1SjRrLXRmUGxBWHdpUTBSYS1IVzFGbDRpeF9RTnpyTUZoc0NjUnRxVDFNNVJxTmVfRlgteEhQbEIyWmFrWHVvMFp2cTdPMjBoeWlPZFd0bDZvaEJrd0tadXB6Tkd1Rmhtc0lBRlBhVU5lckpBQkhKNEdPc3pjNUlRZmVwcXZDWHFUSG9TcXo3RmdrR08teHdTS3VwS3laTUFlTU5WVkNRc1BqYnJyd2c4UFdaUHBU?oc=5",
+                "date": "2026-03-24T11:52:08.000Z"
+            },
+            "whatsNew": "A study found that Australian women believe marketing and CSR campaigns have contributed to the normalization of gambling. This perception could impact the iGaming industry's approach to advertising and social responsibility. The study's findings may lead to changes in how gambling is marketed and regulated.",
+            "whyItMatters": "The normalization of gambling can have significant social and economic implications, and the iGaming industry must consider these concerns when developing marketing and CSR strategies. This study's findings may influence regulatory changes and industry practices.",
+            "howToUse": "iGaming companies should reassess their marketing and CSR campaigns to ensure they are not inadvertently normalizing gambling, and instead promote responsible gaming practices.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Regulators",
+                "Gambling Awareness Organizations"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-xyw62rmil",
+            "title": "Philippines Targets Roblox",
+            "subtitle": "Philippine authorities are targeting Roblox as part of a broader effort to combat gaming cybercrime.",
+            "category": "iGaming",
+            "tags": [
+                "Roblox",
+                "Gaming Cybercrime",
+                "Philippines"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkRSZTBnajlJVU12X0J1OEZMVmRVZTJrZXlSeG5QQXlBS3hScnR6bnlnM3hLWGFjWEdOZTBPd0owR0Q0LXIzeFUxZTM1Y0VpcWhjM2tlM1hGT2cxNlNwOXo0OEszQU4tcl9ITVMxMkRNZnZJYVlpTFlEN2w3RU1nVFVMZEJ0eXpBckxKVVRFNXlLUVlXNTVSX0wzZXhva0RHaTFIbWFmaVp4X1R0NnF1Zm1KYll4YTVBUHhWNE4yclU?oc=5",
+                "date": "2026-03-24T13:40:55.000Z"
+            },
+            "whatsNew": "The Philippine authorities' move against Roblox is part of a larger push to tackle cybercrime in the gaming sector. This effort highlights growing concerns over online safety and security. Regulatory actions are becoming more common in the gaming industry.",
+            "whyItMatters": "This development matters because it shows how governments are increasingly focusing on regulating online gaming platforms to prevent cybercrime. It could set a precedent for similar actions in other countries.",
+            "howToUse": "Gaming companies should review their security measures and ensure compliance with local regulations to avoid similar targeting. They should also be prepared for increased scrutiny from authorities.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Roblox"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-5p7xy0r3l",
+            "title": "Epic Games Layoffs",
+            "subtitle": "Epic Games is cutting over 1,000 jobs despite Fortnite's success",
+            "category": "Tech",
+            "tags": [
+                "Epic Games",
+                "Fortnite",
+                "Job Cuts"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-developer-epic-games-is-cutting-1-000-jobs",
+                "date": "2026-03-24T14:56:52.000Z"
+            },
+            "whatsNew": "Epic Games is laying off over 1,000 employees, a significant reduction in its workforce. This move comes despite the continued success of Fortnite, one of the most successful games globally. The layoffs indicate a shift in the company's strategy or response to market conditions.",
+            "whyItMatters": "The layoffs at Epic Games reflect broader trends in the gaming industry, where companies are adjusting to changing market conditions and consumer behaviors. This move could have implications for game development and the overall gaming ecosystem.",
+            "howToUse": "Game developers and industry observers should monitor such shifts in major gaming companies to understand the evolving landscape and potential opportunities or challenges. This could involve adapting strategies or exploring new markets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-bvdwyovpx",
             "title": "Tencent AI Tools",
@@ -50,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tllxmgwut",
@@ -3462,7 +3555,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T14:56:01.379Z",
+            "lastScan": "2026-03-24T16:05:05.249Z",
             "note": null
         },
         {
@@ -3481,7 +3574,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T14:56:01.379Z",
+            "lastScan": "2026-03-24T16:05:05.249Z",
             "note": null
         },
         {
