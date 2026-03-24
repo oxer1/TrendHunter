@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-24T16:05:05.249Z",
+        "scanDate": "2026-03-24T17:54:41.393Z",
         "version": "2.5.0",
-        "totalTrends": 112,
+        "totalTrends": 111,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xyw62rmil",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5p7xy0r3l",
@@ -111,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bvdwyovpx",
@@ -2916,38 +2916,6 @@
             "isNew": false
         },
         {
-            "id": "t-6f1vp4try",
-            "title": "RGS Revenue Models",
-            "subtitle": "Kalamba Games finds sweet spot between studio and operator with Bullseye RGS",
-            "category": "iGaming",
-            "tags": [
-                "RGS",
-                "Revenue Models",
-                "Kalamba Games",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/how-kalamba-games-is-finding-the-sweet-spot/",
-                "date": "2026-03-10T16:21:08.000Z"
-            },
-            "whatsNew": "Kalamba Games is optimizing revenue models with its Bullseye RGS platform, focusing on the commercial model behind content delivery. The company aims to find a balance between studio and operator needs.",
-            "whyItMatters": "Effective revenue models are crucial for the success of RGS platforms, as they enable studios to reach new markets and operators to diversify their portfolios. This can lead to increased revenue and growth in the iGaming industry.",
-            "howToUse": "Studios and operators can work together to optimize revenue models, using RGS platforms like Bullseye to streamline content delivery and reach new audiences.",
-            "beneficiaries": [
-                "Game Studios",
-                "Operators"
-            ],
-            "companies": [
-                "Kalamba Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-rzmrco4iz",
             "title": "Xbox Play Anywhere",
             "subtitle": "Microsoft reports increased spending and engagement with Xbox Play Anywhere titles",
@@ -3555,7 +3523,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T16:05:05.249Z",
+            "lastScan": "2026-03-24T17:54:41.393Z",
             "note": null
         },
         {
@@ -3574,7 +3542,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-24T16:05:05.249Z",
+            "lastScan": "2026-03-24T17:54:41.393Z",
             "note": null
         },
         {
@@ -11850,6 +11818,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-6f1vp4try",
+            "title": "RGS Revenue Models",
+            "subtitle": "Kalamba Games finds sweet spot between studio and operator with Bullseye RGS",
+            "category": "iGaming",
+            "tags": [
+                "RGS",
+                "Revenue Models",
+                "Kalamba Games",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/how-kalamba-games-is-finding-the-sweet-spot/",
+                "date": "2026-03-10T16:21:08.000Z"
+            },
+            "whatsNew": "Kalamba Games is optimizing revenue models with its Bullseye RGS platform, focusing on the commercial model behind content delivery. The company aims to find a balance between studio and operator needs.",
+            "whyItMatters": "Effective revenue models are crucial for the success of RGS platforms, as they enable studios to reach new markets and operators to diversify their portfolios. This can lead to increased revenue and growth in the iGaming industry.",
+            "howToUse": "Studios and operators can work together to optimize revenue models, using RGS platforms like Bullseye to streamline content delivery and reach new audiences.",
+            "beneficiaries": [
+                "Game Studios",
+                "Operators"
+            ],
+            "companies": [
+                "Kalamba Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
