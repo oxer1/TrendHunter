@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T17:57:00.208Z",
+        "scanDate": "2026-03-25T18:56:54.503Z",
         "version": "2.5.0",
-        "totalTrends": 93,
+        "totalTrends": 94,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6x7wcf4ea",
+            "title": "Sony Studio Closes",
+            "subtitle": "Sony shuts down internal studio Dark Outlaw Games established by Call of Duty veteran Jason Blundell",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Studio Closure",
+                "PlayStation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/playstation-shutters-internal-studio-dark-outlaw-games",
+                "date": "2026-03-25T11:07:05.000Z"
+            },
+            "whatsNew": "Sony has closed its internal studio Dark Outlaw Games, which was established in 2024 by Call of Duty veteran Jason Blundell. The studio was focused on developing games for PlayStation.",
+            "whyItMatters": "The closure of Dark Outlaw Games may impact Sony's game development pipeline and could lead to changes in the company's gaming strategy. It also highlights the challenges faced by game development studios in the current market.",
+            "howToUse": "Game developers and industry professionals can learn from the experiences of Dark Outlaw Games and consider the potential implications of studio closures on the gaming industry.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Sony",
+                "Dark Outlaw Games"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-pi7b63mk4",
             "title": "Crowdfunding Lessons",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jvqxb9c4s",
@@ -2987,7 +3019,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T17:57:00.208Z",
+            "lastScan": "2026-03-25T18:56:54.503Z",
             "note": null
         },
         {
