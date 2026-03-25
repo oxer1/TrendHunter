@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T18:56:54.503Z",
+        "scanDate": "2026-03-25T19:47:38.236Z",
         "version": "2.5.0",
-        "totalTrends": 94,
+        "totalTrends": 95,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5o4h7vaah",
+            "title": "Fortnite Modes Ending",
+            "subtitle": "Fortnite Rocket Racing and other modes are being discontinued due to layoffs and restructuring",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Gaming",
+                "Layoffs"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-rocket-racing-and-more-are-being-sunsetted-amidst-layoffs",
+                "date": "2026-03-25T16:20:35.000Z"
+            },
+            "whatsNew": "Epic Games is sunsetting several Fortnite modes, including Rocket Racing, and removing Horizon Chase games from download. This move comes amidst company layoffs.",
+            "whyItMatters": "The discontinuation of these modes and games reflects the current state of the gaming industry, where companies are streamlining their offerings and reducing staff to stay competitive.",
+            "howToUse": "Developers can learn from Epic's decision by reassessing their own game portfolios and focusing on the most popular and profitable titles.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-6x7wcf4ea",
             "title": "Sony Studio Closes",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pi7b63mk4",
@@ -3019,7 +3050,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T18:56:54.503Z",
+            "lastScan": "2026-03-25T19:47:38.236Z",
             "note": null
         },
         {
