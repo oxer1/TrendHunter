@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T01:58:48.794Z",
+        "scanDate": "2026-03-25T04:25:36.827Z",
         "version": "2.5.0",
-        "totalTrends": 109,
+        "totalTrends": 110,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-514wucp5y",
+            "title": "Maryland Gambling",
+            "subtitle": "Maryland Senate reviews two gambling bills near deadline",
+            "category": "iGaming",
+            "tags": [
+                "Maryland",
+                "Gambling Bills",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/maryland-senate-two-gambling-bills-tight-deadline/",
+                "date": "2026-03-24T14:55:02.000Z"
+            },
+            "whatsNew": "The Maryland House has passed two gambling bills, which are now headed to the Senate for review. The bills are under a tight deadline for consideration.",
+            "whyItMatters": "The outcome of these bills could significantly impact the gambling industry in Maryland, affecting both operators and consumers. Regulatory changes can influence the overall iGaming landscape.",
+            "howToUse": "Operators should monitor the progress of these bills to prepare for potential regulatory changes, while consumers should be aware of how these changes might affect their gaming experiences.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Maryland Residents"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-ynn88hlmm",
             "title": "Australia Funds Games",
@@ -3461,7 +3490,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T01:58:48.794Z",
+            "lastScan": "2026-03-25T04:25:36.827Z",
             "note": null
         },
         {
@@ -3480,7 +3509,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T01:58:48.794Z",
+            "lastScan": "2026-03-25T04:25:36.827Z",
             "note": null
         },
         {
@@ -3489,7 +3518,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T01:58:48.794Z",
+            "lastScan": "2026-03-25T04:25:36.827Z",
             "note": null
         },
         {
