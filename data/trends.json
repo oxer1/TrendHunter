@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T16:10:33.071Z",
+        "scanDate": "2026-03-25T17:57:00.208Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 93,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pi7b63mk4",
+            "title": "Crowdfunding Lessons",
+            "subtitle": "Niina Fujioka shares experiences from a successful campaign for Stars Reach",
+            "category": "Community",
+            "tags": [
+                "Crowdfunding",
+                "Game Development",
+                "Stars Reach"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/marketing/important-lessons-from-running-a-successful-video-game-crowdfunding-campaign",
+                "date": "2026-03-25T17:30:00.000Z"
+            },
+            "whatsNew": "Niina Fujioka from Playable Worlds, Inc. discusses key takeaways from running a successful crowdfunding campaign for the game Stars Reach. The campaign's success highlights the importance of community engagement and strategic planning. Fujioka's insights can help other developers navigate the crowdfunding process.",
+            "whyItMatters": "The lessons learned from this campaign can help game developers better understand how to engage with their audience and secure funding for their projects. This knowledge can be crucial for the success of independent game studios.",
+            "howToUse": "Developers can apply these lessons by focusing on building a strong community and creating a compelling pitch for their game. They should also be prepared to adapt their strategy based on feedback from backers.",
+            "beneficiaries": [
+                "Game Developers",
+                "Crowdfunding Platforms"
+            ],
+            "companies": [
+                "Playable Worlds, Inc"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-jvqxb9c4s",
             "title": "Plot vs Narrative",
@@ -2791,37 +2822,6 @@
             "isNew": false
         },
         {
-            "id": "t-s2q50oihu",
-            "title": "Stake Recruits Hazard",
-            "subtitle": "Stake signs Eden Hazard as global ambassador for World Cup marketing",
-            "category": "iGaming",
-            "tags": [
-                "Stake",
-                "Eden Hazard",
-                "World Cup"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/marketing/stake-eden-hazard-world-cup-ambassador/",
-                "date": "2026-03-11T17:34:23.000Z"
-            },
-            "whatsNew": "Stake has partnered with Eden Hazard to promote their brand during the 2026 World Cup. This move aims to increase Stake's global presence and appeal to a broader audience. The partnership is expected to include various marketing campaigns and promotions.",
-            "whyItMatters": "This partnership could significantly boost Stake's brand recognition and attract new customers, especially during the highly viewed World Cup events. It also highlights the growing intersection of sports and iGaming.",
-            "howToUse": "Operators in the iGaming industry can consider similar partnerships with popular sports figures to enhance their brand's visibility and appeal. This strategy can be particularly effective during major sporting events.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Marketing Teams"
-            ],
-            "companies": [
-                "Stake"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-rzmrco4iz",
             "title": "Xbox Play Anywhere",
             "subtitle": "Microsoft reports increased spending and engagement with Xbox Play Anywhere titles",
@@ -2850,97 +2850,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-hp4r5tt9c",
-            "title": "Fortnite F2P Shift",
-            "subtitle": "Fortnite's 'Save the World' mode is now free-to-play, following a V-Bucks price increase announcement",
-            "category": "Tech",
-            "tags": [
-                "Fortnite",
-                "Free-to-Play",
-                "Gaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/fortnite-save-the-world-goes-free-to-play",
-                "date": "2026-03-11T16:10:41.000Z"
-            },
-            "whatsNew": "Fortnite's 'Save the World' mode has transitioned to a free-to-play model. This change occurs shortly after Epic Games announced a price increase for V-Bucks, the game's virtual currency. The shift aims to attract more players to the game's lesser-known mode.",
-            "whyItMatters": "The move to free-to-play could revitalize interest in 'Save the World', potentially drawing in new players and increasing the game's overall player base. This decision may also impact the game's revenue streams, as the company seeks to balance free access with monetization through V-Bucks and other means.",
-            "howToUse": "Developers and publishers can observe this shift as a potential strategy to breathe new life into lesser-performing game modes or titles, by adopting free-to-play models and adjusting monetization strategies accordingly.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gamers"
-            ],
-            "companies": [
-                "Epic Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-pfx0pb6il",
-            "title": "Split Fiction",
-            "subtitle": "The final level concept of Split Fiction was originally meant for the whole game, but worked better as a finale",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Level Design"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/split-fiction-s-final-level-concept-was-originally-meant-for-the-whole-game",
-                "date": "2026-03-11T16:19:54.000Z"
-            },
-            "whatsNew": "The final level of Split Fiction was initially intended to be the core concept for the entire game, but ultimately served as a climactic finale. This shift in design highlights the importance of flexibility in game development. The level's unique, mind-bending mechanics added a new layer of depth to the game's narrative.",
-            "whyItMatters": "This design decision showcases the iterative process of game development, where ideas can evolve over time to better serve the game's overall vision. It also underscores the value of saving the most impactful experiences for the game's conclusion.",
-            "howToUse": "Game developers can apply this lesson by remaining open to changing their design concepts as the game progresses, and saving the most innovative mechanics for the most impactful moments.",
-            "beneficiaries": [
-                "Game Developers",
-                "Level Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-qzl0ovs18",
-            "title": "Unreal Engine",
-            "subtitle": "Expedition 33 built mostly with Unreal Engine Blueprints",
-            "category": "Tech",
-            "tags": [
-                "Unreal Engine",
-                "Game Development",
-                "Blueprints"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-built-95-percent-with-unreal-blueprints",
-                "date": "2026-03-11T16:13:46.000Z"
-            },
-            "whatsNew": "Sandfall Interactive used Unreal Engine Blueprints to build Expedition 33, with 95 percent of the game made using this visual scripting system. This approach allowed the team to stay on track and work efficiently.",
-            "whyItMatters": "The use of Unreal Engine Blueprints demonstrates the power of visual scripting in game development, enabling developers to create complex gameplay mechanics without extensive coding knowledge. This can increase productivity and accessibility in the game development process.",
-            "howToUse": "Developers can leverage Unreal Engine Blueprints to streamline their game development workflow, focusing on design and creativity rather than coding. By using Blueprints, teams can also collaborate more effectively and make changes quickly.",
-            "beneficiaries": [
-                "Game Developers",
-                "Indie Game Studios"
-            ],
-            "companies": [
-                "Sandfall Interactive",
-                "Epic Games"
-            ],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
             "isNew": false
         }
     ],
@@ -3078,7 +2987,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T16:10:33.071Z",
+            "lastScan": "2026-03-25T17:57:00.208Z",
             "note": null
         },
         {
@@ -11940,6 +11849,128 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-s2q50oihu",
+            "title": "Stake Recruits Hazard",
+            "subtitle": "Stake signs Eden Hazard as global ambassador for World Cup marketing",
+            "category": "iGaming",
+            "tags": [
+                "Stake",
+                "Eden Hazard",
+                "World Cup"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/marketing/stake-eden-hazard-world-cup-ambassador/",
+                "date": "2026-03-11T17:34:23.000Z"
+            },
+            "whatsNew": "Stake has partnered with Eden Hazard to promote their brand during the 2026 World Cup. This move aims to increase Stake's global presence and appeal to a broader audience. The partnership is expected to include various marketing campaigns and promotions.",
+            "whyItMatters": "This partnership could significantly boost Stake's brand recognition and attract new customers, especially during the highly viewed World Cup events. It also highlights the growing intersection of sports and iGaming.",
+            "howToUse": "Operators in the iGaming industry can consider similar partnerships with popular sports figures to enhance their brand's visibility and appeal. This strategy can be particularly effective during major sporting events.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "Stake"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-hp4r5tt9c",
+            "title": "Fortnite F2P Shift",
+            "subtitle": "Fortnite's 'Save the World' mode is now free-to-play, following a V-Bucks price increase announcement",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Free-to-Play",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-save-the-world-goes-free-to-play",
+                "date": "2026-03-11T16:10:41.000Z"
+            },
+            "whatsNew": "Fortnite's 'Save the World' mode has transitioned to a free-to-play model. This change occurs shortly after Epic Games announced a price increase for V-Bucks, the game's virtual currency. The shift aims to attract more players to the game's lesser-known mode.",
+            "whyItMatters": "The move to free-to-play could revitalize interest in 'Save the World', potentially drawing in new players and increasing the game's overall player base. This decision may also impact the game's revenue streams, as the company seeks to balance free access with monetization through V-Bucks and other means.",
+            "howToUse": "Developers and publishers can observe this shift as a potential strategy to breathe new life into lesser-performing game modes or titles, by adopting free-to-play models and adjusting monetization strategies accordingly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-pfx0pb6il",
+            "title": "Split Fiction",
+            "subtitle": "The final level concept of Split Fiction was originally meant for the whole game, but worked better as a finale",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Level Design"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/split-fiction-s-final-level-concept-was-originally-meant-for-the-whole-game",
+                "date": "2026-03-11T16:19:54.000Z"
+            },
+            "whatsNew": "The final level of Split Fiction was initially intended to be the core concept for the entire game, but ultimately served as a climactic finale. This shift in design highlights the importance of flexibility in game development. The level's unique, mind-bending mechanics added a new layer of depth to the game's narrative.",
+            "whyItMatters": "This design decision showcases the iterative process of game development, where ideas can evolve over time to better serve the game's overall vision. It also underscores the value of saving the most impactful experiences for the game's conclusion.",
+            "howToUse": "Game developers can apply this lesson by remaining open to changing their design concepts as the game progresses, and saving the most innovative mechanics for the most impactful moments.",
+            "beneficiaries": [
+                "Game Developers",
+                "Level Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-qzl0ovs18",
+            "title": "Unreal Engine",
+            "subtitle": "Expedition 33 built mostly with Unreal Engine Blueprints",
+            "category": "Tech",
+            "tags": [
+                "Unreal Engine",
+                "Game Development",
+                "Blueprints"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-built-95-percent-with-unreal-blueprints",
+                "date": "2026-03-11T16:13:46.000Z"
+            },
+            "whatsNew": "Sandfall Interactive used Unreal Engine Blueprints to build Expedition 33, with 95 percent of the game made using this visual scripting system. This approach allowed the team to stay on track and work efficiently.",
+            "whyItMatters": "The use of Unreal Engine Blueprints demonstrates the power of visual scripting in game development, enabling developers to create complex gameplay mechanics without extensive coding knowledge. This can increase productivity and accessibility in the game development process.",
+            "howToUse": "Developers can leverage Unreal Engine Blueprints to streamline their game development workflow, focusing on design and creativity rather than coding. By using Blueprints, teams can also collaborate more effectively and make changes quickly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Sandfall Interactive",
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
             "isNew": false
         }
     ]
