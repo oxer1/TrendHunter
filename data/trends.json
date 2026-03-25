@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T14:56:59.023Z",
+        "scanDate": "2026-03-25T16:10:33.071Z",
         "version": "2.5.0",
-        "totalTrends": 99,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-514wucp5y",
@@ -2853,68 +2853,6 @@
             "isNew": false
         },
         {
-            "id": "t-styq2kh18",
-            "title": "AI in Gaming",
-            "subtitle": "Google Cloud predicts AI transformation in the game industry within three to five years",
-            "category": "AI",
-            "tags": [
-                "AI",
-                "Game Development",
-                "Google Cloud"
-            ],
-            "trendStrength": 5,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/google-cloud-s-vision-for-ai-in-the-game-industry",
-                "date": "2026-03-11T16:00:00.000Z"
-            },
-            "whatsNew": "Google Cloud predicts significant transformation in the game industry due to AI within three to five years, including the emergence of new genres. This prediction highlights the potential for AI to revolutionize game development and player experiences. The impact of AI on the industry is expected to be profound, changing the way games are created and played.",
-            "whyItMatters": "The integration of AI in the game industry could lead to unprecedented innovation, creating new opportunities for game developers and enhancing player engagement. This transformation may also raise important questions about the role of human creativity in game development and the potential risks associated with relying on AI.",
-            "howToUse": "Game developers can start exploring AI-powered tools and technologies to stay ahead of the curve, while also considering the ethical implications of AI integration. By embracing AI, developers can unlock new creative possibilities and improve game development efficiency.",
-            "beneficiaries": [
-                "Game Developers",
-                "Players"
-            ],
-            "companies": [
-                "Google Cloud"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-y4kqrsf1e",
-            "title": "Stardock Expands",
-            "subtitle": "Stardock announces expansion of publishing services for indie game developers",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Indie Games",
-                "Publishing"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs",
-                "date": "2026-03-11T15:24:18.000Z"
-            },
-            "whatsNew": "Stardock is expanding its publishing services, aiming to sign three titles per year. The company seeks long-term partnerships with indie developers.",
-            "whyItMatters": "This expansion provides opportunities for indie game developers to partner with a established company, potentially increasing their game's visibility and success.",
-            "howToUse": "Indie developers can look into Stardock's publishing services for potential partnerships, and consider submitting their titles for consideration.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Stardock"
-            ],
-            "companies": [
-                "Stardock"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-hp4r5tt9c",
             "title": "Fortnite F2P Shift",
             "subtitle": "Fortnite's 'Save the World' mode is now free-to-play, following a V-Bucks price increase announcement",
@@ -3003,37 +2941,6 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
-            "id": "t-0ozxcp3ee",
-            "title": "Steam Revenue",
-            "subtitle": "Valve reports 5,863 titles earned over $100,000 on Steam in 2025",
-            "category": "Tech",
-            "tags": [
-                "Steam",
-                "Revenue",
-                "Gaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/valve-says-5-836-titles-earned-over-100-000-on-steam-in-2025",
-                "date": "2026-03-11T16:04:38.000Z"
-            },
-            "whatsNew": "Steam has seen significant revenue growth with 5,863 titles earning over $100,000 in 2025. The platform also reached 42 million peak concurrent users.",
-            "whyItMatters": "This growth indicates a thriving PC gaming market, benefiting game developers and the industry as a whole.",
-            "howToUse": "Developers can capitalize on this trend by optimizing their games for Steam and focusing on community engagement.",
-            "beneficiaries": [
-                "Game Developers",
-                "PC Gamers"
-            ],
-            "companies": [
-                "Valve"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         }
     ],
@@ -3171,7 +3078,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T14:56:59.023Z",
+            "lastScan": "2026-03-25T16:10:33.071Z",
             "note": null
         },
         {
@@ -11938,6 +11845,99 @@
                 "Regulators"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-styq2kh18",
+            "title": "AI in Gaming",
+            "subtitle": "Google Cloud predicts AI transformation in the game industry within three to five years",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Game Development",
+                "Google Cloud"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/google-cloud-s-vision-for-ai-in-the-game-industry",
+                "date": "2026-03-11T16:00:00.000Z"
+            },
+            "whatsNew": "Google Cloud predicts significant transformation in the game industry due to AI within three to five years, including the emergence of new genres. This prediction highlights the potential for AI to revolutionize game development and player experiences. The impact of AI on the industry is expected to be profound, changing the way games are created and played.",
+            "whyItMatters": "The integration of AI in the game industry could lead to unprecedented innovation, creating new opportunities for game developers and enhancing player engagement. This transformation may also raise important questions about the role of human creativity in game development and the potential risks associated with relying on AI.",
+            "howToUse": "Game developers can start exploring AI-powered tools and technologies to stay ahead of the curve, while also considering the ethical implications of AI integration. By embracing AI, developers can unlock new creative possibilities and improve game development efficiency.",
+            "beneficiaries": [
+                "Game Developers",
+                "Players"
+            ],
+            "companies": [
+                "Google Cloud"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-y4kqrsf1e",
+            "title": "Stardock Expands",
+            "subtitle": "Stardock announces expansion of publishing services for indie game developers",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Indie Games",
+                "Publishing"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-publishing-services-for-indie-devs",
+                "date": "2026-03-11T15:24:18.000Z"
+            },
+            "whatsNew": "Stardock is expanding its publishing services, aiming to sign three titles per year. The company seeks long-term partnerships with indie developers.",
+            "whyItMatters": "This expansion provides opportunities for indie game developers to partner with a established company, potentially increasing their game's visibility and success.",
+            "howToUse": "Indie developers can look into Stardock's publishing services for potential partnerships, and consider submitting their titles for consideration.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Stardock"
+            ],
+            "companies": [
+                "Stardock"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-0ozxcp3ee",
+            "title": "Steam Revenue",
+            "subtitle": "Valve reports 5,863 titles earned over $100,000 on Steam in 2025",
+            "category": "Tech",
+            "tags": [
+                "Steam",
+                "Revenue",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/valve-says-5-836-titles-earned-over-100-000-on-steam-in-2025",
+                "date": "2026-03-11T16:04:38.000Z"
+            },
+            "whatsNew": "Steam has seen significant revenue growth with 5,863 titles earning over $100,000 in 2025. The platform also reached 42 million peak concurrent users.",
+            "whyItMatters": "This growth indicates a thriving PC gaming market, benefiting game developers and the industry as a whole.",
+            "howToUse": "Developers can capitalize on this trend by optimizing their games for Steam and focusing on community engagement.",
+            "beneficiaries": [
+                "Game Developers",
+                "PC Gamers"
+            ],
+            "companies": [
+                "Valve"
+            ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
