@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T09:51:46.743Z",
+        "scanDate": "2026-03-25T10:45:39.726Z",
         "version": "2.5.0",
-        "totalTrends": 106,
+        "totalTrends": 105,
         "categories": [
             "iGaming",
             "AI",
@@ -2203,38 +2203,6 @@
             "isNew": false
         },
         {
-            "id": "t-grji9tnnm",
-            "title": "Kaizen Acquires GameplAI",
-            "subtitle": "Kaizen Gaming boosts AI ambitions with GameplAI acquisition",
-            "category": "iGaming",
-            "tags": [
-                "AI",
-                "Acquisition",
-                "Sports Betting"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/technology/kaizen-gaming-acquires-gameplai-sports-data/",
-                "date": "2026-03-11T09:53:36.000Z"
-            },
-            "whatsNew": "Kaizen Gaming has acquired GameplAI, a UK-based AI-driven sports trading and analytics provider, to enhance its AI capabilities. The acquisition aims to strengthen Kaizen's position in the iGaming industry. This move indicates a growing trend of iGaming companies leveraging AI for improved sports trading and analytics.",
-            "whyItMatters": "The acquisition highlights the increasing importance of AI in the iGaming industry, particularly in sports betting. It demonstrates Kaizen's commitment to innovation and its efforts to stay competitive in the market.",
-            "howToUse": "iGaming companies can leverage AI-driven sports trading and analytics to improve their betting offerings and enhance customer experience. By integrating AI-powered tools, companies can gain a competitive edge in the market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Sports Bettors"
-            ],
-            "companies": [
-                "Kaizen Gaming",
-                "GameplAI"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-7j0hhxsfy",
             "title": "AI Agent",
             "subtitle": "Building an agent that thinks like a data scientist using reusable tool generation",
@@ -3369,7 +3337,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T09:51:46.743Z",
+            "lastScan": "2026-03-25T10:45:39.726Z",
             "note": null
         },
         {
@@ -3388,7 +3356,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T09:51:46.743Z",
+            "lastScan": "2026-03-25T10:45:39.726Z",
             "note": null
         },
         {
@@ -11908,6 +11876,38 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-grji9tnnm",
+            "title": "Kaizen Acquires GameplAI",
+            "subtitle": "Kaizen Gaming boosts AI ambitions with GameplAI acquisition",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Acquisition",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/technology/kaizen-gaming-acquires-gameplai-sports-data/",
+                "date": "2026-03-11T09:53:36.000Z"
+            },
+            "whatsNew": "Kaizen Gaming has acquired GameplAI, a UK-based AI-driven sports trading and analytics provider, to enhance its AI capabilities. The acquisition aims to strengthen Kaizen's position in the iGaming industry. This move indicates a growing trend of iGaming companies leveraging AI for improved sports trading and analytics.",
+            "whyItMatters": "The acquisition highlights the increasing importance of AI in the iGaming industry, particularly in sports betting. It demonstrates Kaizen's commitment to innovation and its efforts to stay competitive in the market.",
+            "howToUse": "iGaming companies can leverage AI-driven sports trading and analytics to improve their betting offerings and enhance customer experience. By integrating AI-powered tools, companies can gain a competitive edge in the market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Bettors"
+            ],
+            "companies": [
+                "Kaizen Gaming",
+                "GameplAI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
