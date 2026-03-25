@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T13:03:53.580Z",
+        "scanDate": "2026-03-25T14:56:59.023Z",
         "version": "2.5.0",
-        "totalTrends": 102,
+        "totalTrends": 99,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jvqxb9c4s",
+            "title": "Plot vs Narrative",
+            "subtitle": "AdHoc developer distinguishes between plot and narrative in game development",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Narrative Design",
+                "Storytelling"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/dispatch-developer-adhoc-says-don-t-confuse-your-plot-for-narrative",
+                "date": "2026-03-25T13:57:31.000Z"
+            },
+            "whatsNew": "AdHoc developer emphasizes the importance of understanding the difference between plot and narrative in game development. The developer notes that plot refers to the events that occur, while narrative is about how those events are presented. This distinction can significantly impact the player's experience and engagement.",
+            "whyItMatters": "The distinction between plot and narrative is crucial for game developers as it can affect the overall quality and impact of the game. By understanding this difference, developers can create more engaging and immersive stories.",
+            "howToUse": "Developers can apply this understanding by focusing on crafting a compelling narrative that enhances the player's experience, rather than just focusing on the plot. This can involve using techniques such as character development, pacing, and dialogue to create a more engaging story.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [
+                "AdHoc"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-514wucp5y",
             "title": "Maryland Gambling",
@@ -2791,35 +2822,6 @@
             "isNew": false
         },
         {
-            "id": "t-d2mr3agx9",
-            "title": "M&A in Prediction",
-            "subtitle": "Prediction market operators may use valuations for in-house development through M&A",
-            "category": "iGaming",
-            "tags": [
-                "Prediction Markets",
-                "M&A",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/investment/prediction-markets-not-good-products-chris-grove/",
-                "date": "2026-03-11T14:02:33.000Z"
-            },
-            "whatsNew": "Prediction market operators are considering mergers and acquisitions to improve product development. This move could lead to more integrated and efficient services. High valuations are driving this strategic decision.",
-            "whyItMatters": "This trend could significantly impact the iGaming industry by potentially leading to better, more streamlined products. It also reflects the growing importance of prediction markets within the sector.",
-            "howToUse": "Operators should consider strategic M&A opportunities to enhance their product offerings and stay competitive. This involves identifying key areas for improvement and targeting suppliers that can fill those gaps.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-rzmrco4iz",
             "title": "Xbox Play Anywhere",
             "subtitle": "Microsoft reports increased spending and engagement with Xbox Play Anywhere titles",
@@ -3033,99 +3035,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-gh9wyvbyn",
-            "title": "Bossfight Relaunch",
-            "subtitle": "Original founders of Bossfight Entertainment relaunch studio after Netflix shutdown",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Studio News"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/original-founders-of-bossfight-entertainment-relaunch-studio",
-                "date": "2026-03-11T14:25:43.000Z"
-            },
-            "whatsNew": "The original founders of Bossfight Entertainment are relaunching the studio after it was shut down by Netflix in October last year. This move indicates a resurgence of interest in game development. The studio's relaunch may lead to new game releases and job opportunities.",
-            "whyItMatters": "The relaunch of Bossfight Entertainment is significant for the game development industry as it shows that even after a shutdown, talented founders can revive their studios and continue creating games. This move may inspire other developers and lead to innovation in the industry.",
-            "howToUse": "Game developers and industry professionals can keep an eye on Bossfight Entertainment's relaunch for potential job opportunities or collaborations. The studio's revival may also lead to new game releases that can be studied for trends and inspiration.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Professionals"
-            ],
-            "companies": [
-                "Bossfight Entertainment",
-                "Netflix"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-s4sb6zumw",
-            "title": "Capcom Union Dispute",
-            "subtitle": "Capcom accused of ditching union contracts on Mega Man: Dual Override, prompting SAG-AFTRA to advise members to avoid working on the title",
-            "category": "Community",
-            "tags": [
-                "Capcom",
-                "SAG-AFTRA",
-                "Union Contracts",
-                "Mega Man"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/capcom-accused-of-ditching-union-contracts-on-mega-man-dual-override",
-                "date": "2026-03-11T14:32:15.000Z"
-            },
-            "whatsNew": "Capcom is facing a union dispute over its refusal to provide union terms for voice actors on Mega Man: Dual Override. SAG-AFTRA has advised its members to avoid working on the title. This development highlights ongoing tensions between game developers and performer unions.",
-            "whyItMatters": "The dispute may impact the game's development and release. It also underscores the growing importance of union contracts in the gaming industry.",
-            "howToUse": "Game developers should be aware of the importance of union contracts and the potential consequences of not providing them. They should also consider the impact on their relationships with performer unions and the gaming community.",
-            "beneficiaries": [
-                "Game Developers",
-                "Performer Unions"
-            ],
-            "companies": [
-                "Capcom"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
-            "id": "t-spoaszymt",
-            "title": "NBA Betting Insights",
-            "subtitle": "Antonio Davis discusses sports betting and basketball integrity",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "NBA",
-                "Betting Integrity"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/nyc-2026-antonio-davis-of-nba-fame-discusses-betting-integrity/",
-                "date": "2026-03-11T14:49:43.000Z"
-            },
-            "whatsNew": "Antonio Davis shares his perspective on the intersection of sports betting and professional basketball, highlighting the importance of betting integrity. The convergence of these two industries is becoming increasingly significant. Davis's insights provide a unique viewpoint on this emerging trend.",
-            "whyItMatters": "The discussion on betting integrity matters because it affects the trust and fairness of sports betting, which is crucial for the growth and legitimacy of the iGaming industry. Davis's involvement brings attention to the need for integrity in sports betting.",
-            "howToUse": "Operators and regulators can use Davis's insights to inform their strategies for maintaining betting integrity, while bettors can benefit from understanding the importance of integrity in their betting experiences.",
-            "beneficiaries": [
-                "Sports Bettors",
-                "iGaming Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3240,10 +3149,11 @@
             "name": "iGB",
             "url": "https://igamingbusiness.com",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-03-25T13:03:53.580Z",
-            "note": null
+            "lastScan": "2026-03-25T14:56:59.023Z",
+            "note": null,
+            "errorReason": "Direct: Status code 403 | Fallback: Fallback HTTP 503"
         },
         {
             "name": "Gambling Insider",
@@ -3261,7 +3171,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T13:03:53.580Z",
+            "lastScan": "2026-03-25T14:56:59.023Z",
             "note": null
         },
         {
@@ -11906,6 +11816,128 @@
             "companies": [
                 "Amusnet"
             ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-d2mr3agx9",
+            "title": "M&A in Prediction",
+            "subtitle": "Prediction market operators may use valuations for in-house development through M&A",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "M&A",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/prediction-markets-not-good-products-chris-grove/",
+                "date": "2026-03-11T14:02:33.000Z"
+            },
+            "whatsNew": "Prediction market operators are considering mergers and acquisitions to improve product development. This move could lead to more integrated and efficient services. High valuations are driving this strategic decision.",
+            "whyItMatters": "This trend could significantly impact the iGaming industry by potentially leading to better, more streamlined products. It also reflects the growing importance of prediction markets within the sector.",
+            "howToUse": "Operators should consider strategic M&A opportunities to enhance their product offerings and stay competitive. This involves identifying key areas for improvement and targeting suppliers that can fill those gaps.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-gh9wyvbyn",
+            "title": "Bossfight Relaunch",
+            "subtitle": "Original founders of Bossfight Entertainment relaunch studio after Netflix shutdown",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Studio News"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/original-founders-of-bossfight-entertainment-relaunch-studio",
+                "date": "2026-03-11T14:25:43.000Z"
+            },
+            "whatsNew": "The original founders of Bossfight Entertainment are relaunching the studio after it was shut down by Netflix in October last year. This move indicates a resurgence of interest in game development. The studio's relaunch may lead to new game releases and job opportunities.",
+            "whyItMatters": "The relaunch of Bossfight Entertainment is significant for the game development industry as it shows that even after a shutdown, talented founders can revive their studios and continue creating games. This move may inspire other developers and lead to innovation in the industry.",
+            "howToUse": "Game developers and industry professionals can keep an eye on Bossfight Entertainment's relaunch for potential job opportunities or collaborations. The studio's revival may also lead to new game releases that can be studied for trends and inspiration.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Professionals"
+            ],
+            "companies": [
+                "Bossfight Entertainment",
+                "Netflix"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-s4sb6zumw",
+            "title": "Capcom Union Dispute",
+            "subtitle": "Capcom accused of ditching union contracts on Mega Man: Dual Override, prompting SAG-AFTRA to advise members to avoid working on the title",
+            "category": "Community",
+            "tags": [
+                "Capcom",
+                "SAG-AFTRA",
+                "Union Contracts",
+                "Mega Man"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/capcom-accused-of-ditching-union-contracts-on-mega-man-dual-override",
+                "date": "2026-03-11T14:32:15.000Z"
+            },
+            "whatsNew": "Capcom is facing a union dispute over its refusal to provide union terms for voice actors on Mega Man: Dual Override. SAG-AFTRA has advised its members to avoid working on the title. This development highlights ongoing tensions between game developers and performer unions.",
+            "whyItMatters": "The dispute may impact the game's development and release. It also underscores the growing importance of union contracts in the gaming industry.",
+            "howToUse": "Game developers should be aware of the importance of union contracts and the potential consequences of not providing them. They should also consider the impact on their relationships with performer unions and the gaming community.",
+            "beneficiaries": [
+                "Game Developers",
+                "Performer Unions"
+            ],
+            "companies": [
+                "Capcom"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-spoaszymt",
+            "title": "NBA Betting Insights",
+            "subtitle": "Antonio Davis discusses sports betting and basketball integrity",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "NBA",
+                "Betting Integrity"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/nyc-2026-antonio-davis-of-nba-fame-discusses-betting-integrity/",
+                "date": "2026-03-11T14:49:43.000Z"
+            },
+            "whatsNew": "Antonio Davis shares his perspective on the intersection of sports betting and professional basketball, highlighting the importance of betting integrity. The convergence of these two industries is becoming increasingly significant. Davis's insights provide a unique viewpoint on this emerging trend.",
+            "whyItMatters": "The discussion on betting integrity matters because it affects the trust and fairness of sports betting, which is crucial for the growth and legitimacy of the iGaming industry. Davis's involvement brings attention to the need for integrity in sports betting.",
+            "howToUse": "Operators and regulators can use Davis's insights to inform their strategies for maintaining betting integrity, while bettors can benefit from understanding the importance of integrity in their betting experiences.",
+            "beneficiaries": [
+                "Sports Bettors",
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
