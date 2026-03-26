@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T21:29:31.480Z",
+        "scanDate": "2026-03-26T22:27:06.015Z",
         "version": "2.5.0",
-        "totalTrends": 87,
+        "totalTrends": 86,
         "categories": [
             "iGaming",
             "AI",
@@ -2046,35 +2046,6 @@
             "isNew": false
         },
         {
-            "id": "t-vlg7oikwh",
-            "title": "NJ Casino Update",
-            "subtitle": "New Jersey Casino Control Commission issues Resolution no. 26-03-11-12",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "New Jersey",
-                "Casino"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2VCWW1ROVJ2SnRRbnlSa3plR2FSb0FsRnVuTnZtX0xiQnFTZWVRTzNLcWk1MWNRU0ZTVEVDMVU5ZUVyeDdlOTNIcnh5bTlaMTBfMW1SNXZNMkRCX19YV3V5Qjh4ZjFsY2Vac3JOWEZTaEZhZWJKYjBUSDlJMEVraXBTanF3c1dud3NUci1oVjdGdm1uelhaekpSWXRjeHRv?oc=5",
-                "date": "2026-03-12T21:44:32.000Z"
-            },
-            "whatsNew": "The New Jersey Casino Control Commission has issued Resolution no. 26-03-11-12, which may impact casino operations in the state. The resolution is available on the NJ.gov website. This development could influence the regulatory landscape for casinos in New Jersey.",
-            "whyItMatters": "This resolution may have significant implications for casinos operating in New Jersey, affecting their compliance and regulatory requirements. It underscores the ongoing evolution of regulatory frameworks in the gaming industry.",
-            "howToUse": "Casino operators should review the resolution to understand its implications and ensure compliance with the new regulations. Legal and regulatory teams should be consulted to interpret the changes.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-zfj30tpgx",
             "title": "Sun Bets Under Review",
             "subtitle": "Sun Bets faces uncertainty after a significant financial loss",
@@ -2808,7 +2779,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T21:29:31.480Z",
+            "lastScan": "2026-03-26T22:27:06.015Z",
             "note": null
         },
         {
@@ -12437,6 +12408,35 @@
             "howToUse": "Game developers should review PEGI's updated guidelines to ensure compliance with the new age ratings system, adjusting their game designs and monetization models as necessary.",
             "beneficiaries": [
                 "Game Developers",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-vlg7oikwh",
+            "title": "NJ Casino Update",
+            "subtitle": "New Jersey Casino Control Commission issues Resolution no. 26-03-11-12",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "New Jersey",
+                "Casino"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2VCWW1ROVJ2SnRRbnlSa3plR2FSb0FsRnVuTnZtX0xiQnFTZWVRTzNLcWk1MWNRU0ZTVEVDMVU5ZUVyeDdlOTNIcnh5bTlaMTBfMW1SNXZNMkRCX19YV3V5Qjh4ZjFsY2Vac3JOWEZTaEZhZWJKYjBUSDlJMEVraXBTanF3c1dud3NUci1oVjdGdm1uelhaekpSWXRjeHRv?oc=5",
+                "date": "2026-03-12T21:44:32.000Z"
+            },
+            "whatsNew": "The New Jersey Casino Control Commission has issued Resolution no. 26-03-11-12, which may impact casino operations in the state. The resolution is available on the NJ.gov website. This development could influence the regulatory landscape for casinos in New Jersey.",
+            "whyItMatters": "This resolution may have significant implications for casinos operating in New Jersey, affecting their compliance and regulatory requirements. It underscores the ongoing evolution of regulatory frameworks in the gaming industry.",
+            "howToUse": "Casino operators should review the resolution to understand its implications and ensure compliance with the new regulations. Legal and regulatory teams should be consulted to interpret the changes.",
+            "beneficiaries": [
+                "Casino Operators",
                 "Regulatory Bodies"
             ],
             "companies": [],
