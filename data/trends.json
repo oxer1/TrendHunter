@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T11:00:18.522Z",
+        "scanDate": "2026-03-26T11:55:36.596Z",
         "version": "2.5.0",
-        "totalTrends": 91,
+        "totalTrends": 90,
         "categories": [
             "iGaming",
             "AI",
@@ -2513,38 +2513,6 @@
             "isNew": false
         },
         {
-            "id": "t-irajmxmfl",
-            "title": "LCKY Hires CTO",
-            "subtitle": "LCKY Group recruits former Light & Wonder VP as new CTO",
-            "category": "iGaming",
-            "tags": [
-                "LCKY Group",
-                "Light & Wonder",
-                "CTO"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/lcky-group-alex-manning-new-cto/",
-                "date": "2026-03-12T11:03:21.000Z"
-            },
-            "whatsNew": "LCKY Group has hired Alex Manning, former VP at Light & Wonder, as its new CTO. Manning's experience in technology will likely influence LCKY's tech strategy.",
-            "whyItMatters": "The hiring of a seasoned technology executive may indicate LCKY's focus on enhancing its tech capabilities, potentially impacting its position in the iGaming market.",
-            "howToUse": "Companies in the iGaming sector can take note of LCKY's move to enhance their own tech leadership, considering the importance of technology in the industry.",
-            "beneficiaries": [
-                "iGaming companies",
-                "Tech executives"
-            ],
-            "companies": [
-                "LCKY Group",
-                "Light & Wonder"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-yu2abyfrn",
             "title": "Love in Game Dev",
             "subtitle": "Blizzard veteran Rob Pardo emphasizes 'love' as a key development milestone",
@@ -2924,7 +2892,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T11:00:18.522Z",
+            "lastScan": "2026-03-26T11:55:36.597Z",
             "note": null
         },
         {
@@ -12190,6 +12158,38 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-irajmxmfl",
+            "title": "LCKY Hires CTO",
+            "subtitle": "LCKY Group recruits former Light & Wonder VP as new CTO",
+            "category": "iGaming",
+            "tags": [
+                "LCKY Group",
+                "Light & Wonder",
+                "CTO"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/lcky-group-alex-manning-new-cto/",
+                "date": "2026-03-12T11:03:21.000Z"
+            },
+            "whatsNew": "LCKY Group has hired Alex Manning, former VP at Light & Wonder, as its new CTO. Manning's experience in technology will likely influence LCKY's tech strategy.",
+            "whyItMatters": "The hiring of a seasoned technology executive may indicate LCKY's focus on enhancing its tech capabilities, potentially impacting its position in the iGaming market.",
+            "howToUse": "Companies in the iGaming sector can take note of LCKY's move to enhance their own tech leadership, considering the importance of technology in the industry.",
+            "beneficiaries": [
+                "iGaming companies",
+                "Tech executives"
+            ],
+            "companies": [
+                "LCKY Group",
+                "Light & Wonder"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
