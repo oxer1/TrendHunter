@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T18:02:06.970Z",
+        "scanDate": "2026-03-26T19:53:45.658Z",
         "version": "2.5.0",
-        "totalTrends": 89,
+        "totalTrends": 88,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ob9vr1f6k",
+            "title": "Donkey Kong Asset",
+            "subtitle": "Donkey Kong Bananza reuses 3D models instead of remaking them",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Asset Recycling",
+                "3D Modeling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/art/donkey-kong-bananza-has-a-big-brained-approach-to-asset-recycling",
+                "date": "2026-03-26T18:25:11.000Z"
+            },
+            "whatsNew": "Donkey Kong Bananza is using an innovative approach to asset recycling, reusing 3D models instead of remaking them. This approach can save time and resources. The game is applying this method to reduce development costs.",
+            "whyItMatters": "This approach can significantly reduce game development costs and time. It also promotes sustainability in game development by reducing the need for creating new assets from scratch.",
+            "howToUse": "Game developers can apply this approach by identifying reusable assets in their games and implementing a system to recycle them. This can be done by creating a library of reusable assets and using tools to modify and adapt them for different games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
+        {
+            "id": "t-0bbntem0p",
+            "title": "Entain Fined",
+            "subtitle": "Entain's Danish subsidiary fined for misleading marketing campaign",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "ElectraWorks Limited",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/entain-fined-risk-free-betting-campaign/",
+                "date": "2026-03-26T15:57:33.000Z"
+            },
+            "whatsNew": "Entain's Danish subsidiary ElectraWorks Limited has been fined €67,000 for a misleading 'risk-free' betting campaign. The fine was imposed after a court ruled that the campaign's marketing was deceptive.",
+            "whyItMatters": "The fine highlights the importance of transparent marketing practices in the iGaming industry and the need for operators to comply with regulatory requirements.",
+            "howToUse": "Operators should review their marketing campaigns to ensure compliance with regulatory requirements and avoid making misleading claims.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Regulatory bodies"
+            ],
+            "companies": [
+                "Entain",
+                "ElectraWorks Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-empw7mdis",
             "title": "Yggdrasil New Game",
@@ -2613,38 +2674,6 @@
             "isNew": false
         },
         {
-            "id": "t-yu2abyfrn",
-            "title": "Love in Game Dev",
-            "subtitle": "Blizzard veteran Rob Pardo emphasizes 'love' as a key development milestone",
-            "category": "Community",
-            "tags": [
-                "Game Development",
-                "Industry Insights",
-                "Development Milestones"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/blizzard-veteran-rob-pardo-says-love-is-the-most-important-development-milestone",
-                "date": "2026-03-12T18:58:48.000Z"
-            },
-            "whatsNew": "Rob Pardo, the boss of Bonfire Studios, suggests that 'love' is the most important measure of potential during game production. This perspective highlights the importance of passion and emotional investment in game development. Pardo's statement implies a focus on creating games that resonate with players on a deeper level.",
-            "whyItMatters": "Pardo's statement underscores the significance of emotional connection in game development, which can impact player engagement and overall game success. This perspective can influence how developers approach their projects, prioritizing factors that foster a sense of love and passion for the game.",
-            "howToUse": "Developers can apply Pardo's insight by focusing on creating games that they themselves are passionate about, and by prioritizing features and elements that evoke strong emotions in players. This might involve conducting player research, gathering feedback, and iterating on the game to ensure it resonates with its target audience.",
-            "beneficiaries": [
-                "Game Developers",
-                "Game Designers"
-            ],
-            "companies": [
-                "Bonfire Studios",
-                "Blizzard"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-voa466330",
             "title": "PEGI Updates Ratings",
             "subtitle": "PEGI revises age ratings considering loot boxes and daily quests",
@@ -2671,64 +2700,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-ox2fg0nj0",
-            "title": "Human Narrative Editors",
-            "subtitle": "GDC microtalks highlight the importance of human editors in narrative design",
-            "category": "Tech",
-            "tags": [
-                "Narrative Design",
-                "Game Development",
-                "GDC"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/making-the-case-for-strong-human-narrative-editors",
-                "date": "2026-03-12T18:26:06.000Z"
-            },
-            "whatsNew": "GDC microtalks emphasize the role of human narrative editors in game development, stressing the need for strong empathy and editing skills. This approach contrasts with relying solely on AI tools for narrative design. The talks highlight the importance of human intuition in crafting engaging stories.",
-            "whyItMatters": "The use of human narrative editors can significantly enhance the quality and emotional resonance of game stories, leading to more immersive player experiences. This approach also underscores the value of human creativity and judgment in game development.",
-            "howToUse": "Game developers can apply this insight by prioritizing the role of human narrative editors in their development process, ensuring that stories are crafted with empathy and strong editing skills. This may involve collaborating with experienced editors or providing training for narrative design teams.",
-            "beneficiaries": [
-                "Game Developers",
-                "Narrative Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-8t44b2uar",
-            "title": "IGF Awards",
-            "subtitle": "Titanium Court wins Seumas McNally Grand Prize at the 28th annual IGF awards",
-            "category": "Tech",
-            "tags": [
-                "IGF Awards",
-                "Indie Games",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/titanium-court-wins-seumas-mcnally-grand-prize-at-28th-annual-igf-awards",
-                "date": "2026-03-12T18:08:23.000Z"
-            },
-            "whatsNew": "Titanium Court, an indie game, has won the Seumas McNally Grand Prize and Excellence in Design award at the 28th annual IGF awards. The game has yet to be released.",
-            "whyItMatters": "This win highlights the potential of indie games to receive major recognition in the gaming industry, even before their release. It also showcases the importance of innovative design in game development.",
-            "howToUse": "Game developers can take note of the innovative design elements that contributed to Titanium Court's win, and consider applying similar principles to their own projects.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Game Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
             "isNew": false
         }
     ],
@@ -2866,7 +2837,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T18:02:06.970Z",
+            "lastScan": "2026-03-26T19:53:45.658Z",
             "note": null
         },
         {
@@ -2875,7 +2846,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T16:58:28.815Z",
+            "lastScan": "2026-03-26T19:53:45.658Z",
             "note": null
         },
         {
@@ -12379,6 +12350,96 @@
             "companies": [
                 "Nintendo"
             ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-yu2abyfrn",
+            "title": "Love in Game Dev",
+            "subtitle": "Blizzard veteran Rob Pardo emphasizes 'love' as a key development milestone",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Industry Insights",
+                "Development Milestones"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/blizzard-veteran-rob-pardo-says-love-is-the-most-important-development-milestone",
+                "date": "2026-03-12T18:58:48.000Z"
+            },
+            "whatsNew": "Rob Pardo, the boss of Bonfire Studios, suggests that 'love' is the most important measure of potential during game production. This perspective highlights the importance of passion and emotional investment in game development. Pardo's statement implies a focus on creating games that resonate with players on a deeper level.",
+            "whyItMatters": "Pardo's statement underscores the significance of emotional connection in game development, which can impact player engagement and overall game success. This perspective can influence how developers approach their projects, prioritizing factors that foster a sense of love and passion for the game.",
+            "howToUse": "Developers can apply Pardo's insight by focusing on creating games that they themselves are passionate about, and by prioritizing features and elements that evoke strong emotions in players. This might involve conducting player research, gathering feedback, and iterating on the game to ensure it resonates with its target audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [
+                "Bonfire Studios",
+                "Blizzard"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-ox2fg0nj0",
+            "title": "Human Narrative Editors",
+            "subtitle": "GDC microtalks highlight the importance of human editors in narrative design",
+            "category": "Tech",
+            "tags": [
+                "Narrative Design",
+                "Game Development",
+                "GDC"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/making-the-case-for-strong-human-narrative-editors",
+                "date": "2026-03-12T18:26:06.000Z"
+            },
+            "whatsNew": "GDC microtalks emphasize the role of human narrative editors in game development, stressing the need for strong empathy and editing skills. This approach contrasts with relying solely on AI tools for narrative design. The talks highlight the importance of human intuition in crafting engaging stories.",
+            "whyItMatters": "The use of human narrative editors can significantly enhance the quality and emotional resonance of game stories, leading to more immersive player experiences. This approach also underscores the value of human creativity and judgment in game development.",
+            "howToUse": "Game developers can apply this insight by prioritizing the role of human narrative editors in their development process, ensuring that stories are crafted with empathy and strong editing skills. This may involve collaborating with experienced editors or providing training for narrative design teams.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-8t44b2uar",
+            "title": "IGF Awards",
+            "subtitle": "Titanium Court wins Seumas McNally Grand Prize at the 28th annual IGF awards",
+            "category": "Tech",
+            "tags": [
+                "IGF Awards",
+                "Indie Games",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/titanium-court-wins-seumas-mcnally-grand-prize-at-28th-annual-igf-awards",
+                "date": "2026-03-12T18:08:23.000Z"
+            },
+            "whatsNew": "Titanium Court, an indie game, has won the Seumas McNally Grand Prize and Excellence in Design award at the 28th annual IGF awards. The game has yet to be released.",
+            "whyItMatters": "This win highlights the potential of indie games to receive major recognition in the gaming industry, even before their release. It also showcases the importance of innovative design in game development.",
+            "howToUse": "Game developers can take note of the innovative design elements that contributed to Titanium Court's win, and consider applying similar principles to their own projects.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
