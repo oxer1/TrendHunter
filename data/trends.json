@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T02:04:58.451Z",
+        "scanDate": "2026-03-26T05:04:06.994Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 98,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,103 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-18omy3qzr",
+            "title": "Codere Sale",
+            "subtitle": "Codere is reportedly up for sale with a €2bn price tag",
+            "category": "iGaming",
+            "tags": [
+                "Codere",
+                "iGaming",
+                "Mergers and Acquisitions"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/codere-reportedly-for-sale-eur2bn-price/",
+                "date": "2026-03-25T11:33:03.000Z"
+            },
+            "whatsNew": "Codere has appointed Jefferies and Macquarie Capital to manage the sale process, with a potential price tag of €2bn. This move indicates a significant shift in the company's strategy. The sale could lead to a major consolidation in the iGaming industry.",
+            "whyItMatters": "The potential sale of Codere could have a significant impact on the iGaming industry, leading to changes in market dynamics and potentially creating new opportunities for other players. It also reflects the ongoing trend of consolidation in the industry.",
+            "howToUse": "Companies looking to expand their presence in the iGaming market should monitor this development closely, as it could present opportunities for strategic acquisitions or partnerships.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Codere",
+                "Jefferies",
+                "Macquarie Capital"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-8bwyazleo",
+            "title": "Allwyn Lists",
+            "subtitle": "Allwyn merges with OPAP and lists on the Athens Stock Exchange",
+            "category": "iGaming",
+            "tags": [
+                "Allwyn",
+                "OPAP",
+                "Mergers"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/allwyn-opap-lists-on-athens-stock-exchange/",
+                "date": "2026-03-25T11:15:29.000Z"
+            },
+            "whatsNew": "Allwyn has completed its business combination with OPAP, a significant move in the iGaming industry. The merger has led to Allwyn's listing on the Athens Stock Exchange. This development indicates a growing trend of consolidation in the iGaming sector.",
+            "whyItMatters": "The merger between Allwyn and OPAP signifies a major shift in the iGaming landscape, potentially leading to increased market share and competitiveness. This move may inspire similar consolidations in the industry.",
+            "howToUse": "Companies in the iGaming sector can consider strategic mergers and acquisitions to enhance their market position and competitiveness. Investors should monitor the performance of Allwyn and OPAP following the merger.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Allwyn",
+                "OPAP"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-oqrd664f4",
+            "title": "JetX Leads Portugal",
+            "subtitle": "JetX is the leading crash game in Portugal's growing online gaming market",
+            "category": "iGaming",
+            "tags": [
+                "JetX",
+                "Crash Game",
+                "Portugal",
+                "Online Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/jetx-the-leading-crash-game-in-portugal/",
+                "date": "2026-03-25T09:53:39.000Z"
+            },
+            "whatsNew": "JetX has secured a unique position in Portugal's online gaming market, offering engaging, transparent, and trustworthy experiences. Its presence with leading partners drives visibility and strengthens player confidence.",
+            "whyItMatters": "JetX's competitive edge in Portugal's growing market gives it a strong room to scale and sets it ahead of potential competitors. This leadership position can influence the direction of the crash game genre in the region.",
+            "howToUse": "Operators and game developers can learn from JetX's success by focusing on transparency, trust, and engagement in their own offerings, potentially replicating this model in other markets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Operators"
+            ],
+            "companies": [
+                "JetX"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-l3yvd6upg",
             "title": "UK Levy Unchanged",
@@ -47,7 +144,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vlijjp7cj",
@@ -77,7 +174,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5o4h7vaah",
@@ -2911,37 +3008,6 @@
             "visualStyle": null,
             "cluster": "community-ai-ethics",
             "isNew": false
-        },
-        {
-            "id": "t-ox5tt9iam",
-            "title": "NVIDIA AI-Q Tops",
-            "subtitle": "NVIDIA's AI-Q reaches number one on DeepResearch Bench I and II, showcasing its AI capabilities",
-            "category": "AI",
-            "tags": [
-                "NVIDIA",
-                "AI-Q",
-                "DeepResearch"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-                "date": "2026-03-12T03:53:34.000Z"
-            },
-            "whatsNew": "NVIDIA's AI-Q has achieved the top spot on DeepResearch Bench I and II, demonstrating its prowess in AI research and development. This milestone underscores NVIDIA's commitment to advancing AI technologies. The achievement is expected to have significant implications for the field of AI.",
-            "whyItMatters": "NVIDIA's AI-Q reaching the top spot on DeepResearch Bench I and II highlights the company's leadership in AI innovation, which can impact various industries, including gaming and visual design. This development can lead to more sophisticated AI tools for creative work.",
-            "howToUse": "Developers and researchers can leverage NVIDIA's AI-Q to enhance their AI-powered projects, exploring its capabilities in deep learning and AI research. This can involve integrating AI-Q into existing workflows to improve performance and efficiency.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Game Developers"
-            ],
-            "companies": [
-                "NVIDIA"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3078,7 +3144,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T02:04:58.451Z",
+            "lastScan": "2026-03-26T05:04:06.994Z",
             "note": null
         },
         {
@@ -3087,7 +3153,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T02:04:58.451Z",
+            "lastScan": "2026-03-26T05:04:06.994Z",
             "note": null
         },
         {
@@ -12093,6 +12159,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ox5tt9iam",
+            "title": "NVIDIA AI-Q Tops",
+            "subtitle": "NVIDIA's AI-Q reaches number one on DeepResearch Bench I and II, showcasing its AI capabilities",
+            "category": "AI",
+            "tags": [
+                "NVIDIA",
+                "AI-Q",
+                "DeepResearch"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+                "date": "2026-03-12T03:53:34.000Z"
+            },
+            "whatsNew": "NVIDIA's AI-Q has achieved the top spot on DeepResearch Bench I and II, demonstrating its prowess in AI research and development. This milestone underscores NVIDIA's commitment to advancing AI technologies. The achievement is expected to have significant implications for the field of AI.",
+            "whyItMatters": "NVIDIA's AI-Q reaching the top spot on DeepResearch Bench I and II highlights the company's leadership in AI innovation, which can impact various industries, including gaming and visual design. This development can lead to more sophisticated AI tools for creative work.",
+            "howToUse": "Developers and researchers can leverage NVIDIA's AI-Q to enhance their AI-powered projects, exploring its capabilities in deep learning and AI research. This can involve integrating AI-Q into existing workflows to improve performance and efficiency.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers"
+            ],
+            "companies": [
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
