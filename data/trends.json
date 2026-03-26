@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T11:55:36.596Z",
+        "scanDate": "2026-03-26T13:09:37.282Z",
         "version": "2.5.0",
-        "totalTrends": 90,
+        "totalTrends": 86,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-1igwsrbb1",
+            "title": "Nintendo Switch 2",
+            "subtitle": "Nintendo adjusts software pricing for digital copies on Switch 2",
+            "category": "Tech",
+            "tags": [
+                "Nintendo",
+                "Switch 2",
+                "Digital Pricing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/nintendo-tweaks-switch-2-software-pricing-to-make-digital-copies-more-appealing",
+                "date": "2026-03-26T11:56:01.000Z"
+            },
+            "whatsNew": "Nintendo is changing its pricing strategy for digital copies on the Switch 2, starting with titles like Yoshi and the Mysterious Book. This move aims to make digital copies more appealing to consumers. The pricing adjustment will initially affect Nintendo-published titles.",
+            "whyItMatters": "The pricing adjustment could significantly impact consumer behavior and preferences regarding digital versus physical game copies. It may also influence the gaming industry's approach to digital distribution and pricing.",
+            "howToUse": "Developers and publishers can monitor the impact of Nintendo's pricing strategy and consider similar adjustments to their own digital distribution models. This could involve experimenting with different pricing tiers or promotions to enhance the appeal of digital copies.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers",
+                "Consumers"
+            ],
+            "companies": [
+                "Nintendo"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-18omy3qzr",
             "title": "Codere Sale",
@@ -1762,37 +1794,6 @@
             "isNew": false
         },
         {
-            "id": "t-0gk32bf5i",
-            "title": "Caesars Takeover Bid",
-            "subtitle": "Caesars Entertainment shares surge after a reported $7 billion takeover bid",
-            "category": "iGaming",
-            "tags": [
-                "Mergers and Acquisitions",
-                "iGaming",
-                "Casinos"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWNYQ2xLM2Ryc0pMY1pna2lScmMtNXZwOXdJRmVTQnRHLVlXQkUyMkZFZFNhbnhhRVlOU0MzM2xXUVZYSnVraG96SDM2TUlqOWZXQllRak1ya2FTS0x5dGJqSHZ2Qlp2TjZxYmJxREdXQS1rMXMzVV9oSkNldUx4ZjlEZ0ZJLU05dHlaby05dVl1Z003amh4WDZRbFlyTnp5VzVka3R6QzBEUm1EcUx4N213?oc=5",
-                "date": "2026-03-12T11:58:30.000Z"
-            },
-            "whatsNew": "A $7 billion takeover bid for Caesars Entertainment has been reported, leading to a spike in the company's shares. This development could significantly impact the iGaming industry. The bid's details and potential outcomes are still unfolding.",
-            "whyItMatters": "This potential takeover could reshape the iGaming landscape, influencing market competition and strategies. It also reflects the growing interest and investment in the iGaming sector.",
-            "howToUse": "Industry players should monitor this situation closely for potential opportunities or challenges. Understanding the implications of such large-scale transactions is crucial for strategic planning.",
-            "beneficiaries": [
-                "Investors",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "Caesars Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-3q4tn3uzn",
             "title": "Sky Bet MBL",
             "subtitle": "Sky Bet launches racing MBL, the latest development in the iGaming industry",
@@ -1882,37 +1883,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-tu6iyk76j",
-            "title": "MGA Regulation",
-            "subtitle": "Malta Gaming Authority enhances regulatory oversight and outlines 2026 supervisory priorities",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenVwRkYyRGRaMmpzRWxfMGVYU3VtYkpEa2lzUTdjZmJKT2RXVGJFRnRtT3FxNWVEc3RBb3dWcVdkdXdVbWIyNE9fU1FRRnVOT2UwbWRyalZJQTRPMEVzWG4yZjN6REVaNHQzNEJ3M3NGMGJPSjdKOTlOS1hESWUzeVd3TmE0MUdUaEQxd3hlRnh2MFFRVnowNkxiT2hGVWs?oc=5",
-                "date": "2026-03-12T12:59:40.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has enhanced its regulatory oversight and outlined its supervisory priorities for 2026. This move aims to strengthen the regulatory framework for the iGaming industry.",
-            "whyItMatters": "The enhanced regulatory oversight will impact iGaming operators and providers, ensuring a safer and more compliant industry. This development is crucial for maintaining public trust and preventing illicit activities.",
-            "howToUse": "iGaming operators should review the MGA's supervisory priorities to ensure compliance with the new regulatory framework, adapting their practices to meet the enhanced oversight.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -2484,35 +2454,6 @@
             "isNew": false
         },
         {
-            "id": "t-c24kr1gr3",
-            "title": "US Gambling Bill",
-            "subtitle": "A new US bill proposes federal funds to address gambling addiction",
-            "category": "iGaming",
-            "tags": [
-                "Responsible Gambling",
-                "US Legislation",
-                "Gambling Addiction"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/responsible-gambling/new-us-bill-responsible-gambling-at-federal-level/",
-                "date": "2026-03-12T12:21:43.000Z"
-            },
-            "whatsNew": "A new bill has been proposed in the US to provide federal funds for dealing with gambling addiction. This move aims to address responsible gambling at a federal level.",
-            "whyItMatters": "The proposed bill could significantly impact the iGaming industry by promoting responsible gambling practices and providing support for those affected by addiction. It may also lead to stricter regulations for online gambling operators.",
-            "howToUse": "Operators should prepare for potential changes in regulations and consider implementing stricter responsible gambling measures to comply with future federal guidelines.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-yu2abyfrn",
             "title": "Love in Game Dev",
             "subtitle": "Blizzard veteran Rob Pardo emphasizes 'love' as a key development milestone",
@@ -2571,69 +2512,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-plyuzhkw0",
-            "title": "Greece Protects Youth",
-            "subtitle": "Greece takes measures to safeguard youth from online betting harms",
-            "category": "iGaming",
-            "tags": [
-                "Online Betting",
-                "Youth Protection",
-                "Greece"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGJfMHMxR0JJdE5fT25lU3hqSEZCZjJtUUJtLThYcENZQ1FQMzJPeUpiRm9Bc1dRM0dPWFJJM3phb0NYSHpBdV9TbkVoYjlmM3I1NUFKOEdmOTdlbzQ4aThKME9Na3dFMmlYLVQ5WGx5SDFZdVl1dVhLRTVtc1U5cW1tVjhNX3NKbGxMVC15aXpJb3FvY3lHT3JoTFYtRUZGTVR0TjhrN1RsUGtqRFhOdmp6LVY4ck5XQnhhcms0ZHV3Zm8?oc=5",
-                "date": "2026-03-12T12:35:13.000Z"
-            },
-            "whatsNew": "Greece is implementing new measures to protect its youth from the increasing risks associated with online betting. This move aims to mitigate the harms of online gambling on young individuals.",
-            "whyItMatters": "The protection of youth from online betting harms is crucial as it can lead to significant social and economic issues. Greece's move sets a precedent for other countries to follow in regulating online gambling.",
-            "howToUse": "Regulators and operators can use this as a model to implement similar protective measures in their jurisdictions, ensuring a safer online environment for young people.",
-            "beneficiaries": [
-                "Youth",
-                "Regulators",
-                "Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-owb9m43oz",
-            "title": "Betsson Expands Canada",
-            "subtitle": "Betsson acquires Rhino Entertainment to increase its Canadian market presence",
-            "category": "iGaming",
-            "tags": [
-                "Betsson",
-                "Rhino Entertainment",
-                "Canada",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0xRVllfZnNtQ1diQURNdl94UkxNdDlFcXd0VjFSZzVpX3BYaFBtQm9pTlNUYVFaZUhpMVJtaWQxMlhVMkl3X0lSZDQ5NXlVcnN1Q0k5SnlUbmtxNHUyQkU0VWEwMExoaHJvd3o2NVFOcTh1VjFJZ3pKVzFhajAzVXVtY2FVSXNkdHpvYktZcVhadXNlX01KeHBReXZBWTdrRk5Yb2NDMU9rUQ?oc=5",
-                "date": "2026-03-12T13:01:40.000Z"
-            },
-            "whatsNew": "Betsson has acquired Rhino Entertainment to expand its presence in the Canadian iGaming market. This move is expected to increase Betsson's market share and provide new opportunities for growth. The acquisition is part of Betsson's strategy to strengthen its position in key markets.",
-            "whyItMatters": "The acquisition is significant for the iGaming industry as it shows the growing interest in the Canadian market. It also highlights Betsson's commitment to expanding its global presence through strategic acquisitions.",
-            "howToUse": "Operators can use this trend to inform their own expansion strategies, considering the potential benefits of entering or expanding in the Canadian market. They can also explore partnership opportunities with local companies to strengthen their position.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Canadian players"
-            ],
-            "companies": [
-                "Betsson",
-                "Rhino Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -2892,7 +2770,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T11:55:36.597Z",
+            "lastScan": "2026-03-26T13:09:37.282Z",
             "note": null
         },
         {
@@ -12190,6 +12068,160 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0gk32bf5i",
+            "title": "Caesars Takeover Bid",
+            "subtitle": "Caesars Entertainment shares surge after a reported $7 billion takeover bid",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "iGaming",
+                "Casinos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWNYQ2xLM2Ryc0pMY1pna2lScmMtNXZwOXdJRmVTQnRHLVlXQkUyMkZFZFNhbnhhRVlOU0MzM2xXUVZYSnVraG96SDM2TUlqOWZXQllRak1ya2FTS0x5dGJqSHZ2Qlp2TjZxYmJxREdXQS1rMXMzVV9oSkNldUx4ZjlEZ0ZJLU05dHlaby05dVl1Z003amh4WDZRbFlyTnp5VzVka3R6QzBEUm1EcUx4N213?oc=5",
+                "date": "2026-03-12T11:58:30.000Z"
+            },
+            "whatsNew": "A $7 billion takeover bid for Caesars Entertainment has been reported, leading to a spike in the company's shares. This development could significantly impact the iGaming industry. The bid's details and potential outcomes are still unfolding.",
+            "whyItMatters": "This potential takeover could reshape the iGaming landscape, influencing market competition and strategies. It also reflects the growing interest and investment in the iGaming sector.",
+            "howToUse": "Industry players should monitor this situation closely for potential opportunities or challenges. Understanding the implications of such large-scale transactions is crucial for strategic planning.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Caesars Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-tu6iyk76j",
+            "title": "MGA Regulation",
+            "subtitle": "Malta Gaming Authority enhances regulatory oversight and outlines 2026 supervisory priorities",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenVwRkYyRGRaMmpzRWxfMGVYU3VtYkpEa2lzUTdjZmJKT2RXVGJFRnRtT3FxNWVEc3RBb3dWcVdkdXdVbWIyNE9fU1FRRnVOT2UwbWRyalZJQTRPMEVzWG4yZjN6REVaNHQzNEJ3M3NGMGJPSjdKOTlOS1hESWUzeVd3TmE0MUdUaEQxd3hlRnh2MFFRVnowNkxiT2hGVWs?oc=5",
+                "date": "2026-03-12T12:59:40.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has enhanced its regulatory oversight and outlined its supervisory priorities for 2026. This move aims to strengthen the regulatory framework for the iGaming industry.",
+            "whyItMatters": "The enhanced regulatory oversight will impact iGaming operators and providers, ensuring a safer and more compliant industry. This development is crucial for maintaining public trust and preventing illicit activities.",
+            "howToUse": "iGaming operators should review the MGA's supervisory priorities to ensure compliance with the new regulatory framework, adapting their practices to meet the enhanced oversight.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-c24kr1gr3",
+            "title": "US Gambling Bill",
+            "subtitle": "A new US bill proposes federal funds to address gambling addiction",
+            "category": "iGaming",
+            "tags": [
+                "Responsible Gambling",
+                "US Legislation",
+                "Gambling Addiction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/responsible-gambling/new-us-bill-responsible-gambling-at-federal-level/",
+                "date": "2026-03-12T12:21:43.000Z"
+            },
+            "whatsNew": "A new bill has been proposed in the US to provide federal funds for dealing with gambling addiction. This move aims to address responsible gambling at a federal level.",
+            "whyItMatters": "The proposed bill could significantly impact the iGaming industry by promoting responsible gambling practices and providing support for those affected by addiction. It may also lead to stricter regulations for online gambling operators.",
+            "howToUse": "Operators should prepare for potential changes in regulations and consider implementing stricter responsible gambling measures to comply with future federal guidelines.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-plyuzhkw0",
+            "title": "Greece Protects Youth",
+            "subtitle": "Greece takes measures to safeguard youth from online betting harms",
+            "category": "iGaming",
+            "tags": [
+                "Online Betting",
+                "Youth Protection",
+                "Greece"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGJfMHMxR0JJdE5fT25lU3hqSEZCZjJtUUJtLThYcENZQ1FQMzJPeUpiRm9Bc1dRM0dPWFJJM3phb0NYSHpBdV9TbkVoYjlmM3I1NUFKOEdmOTdlbzQ4aThKME9Na3dFMmlYLVQ5WGx5SDFZdVl1dVhLRTVtc1U5cW1tVjhNX3NKbGxMVC15aXpJb3FvY3lHT3JoTFYtRUZGTVR0TjhrN1RsUGtqRFhOdmp6LVY4ck5XQnhhcms0ZHV3Zm8?oc=5",
+                "date": "2026-03-12T12:35:13.000Z"
+            },
+            "whatsNew": "Greece is implementing new measures to protect its youth from the increasing risks associated with online betting. This move aims to mitigate the harms of online gambling on young individuals.",
+            "whyItMatters": "The protection of youth from online betting harms is crucial as it can lead to significant social and economic issues. Greece's move sets a precedent for other countries to follow in regulating online gambling.",
+            "howToUse": "Regulators and operators can use this as a model to implement similar protective measures in their jurisdictions, ensuring a safer online environment for young people.",
+            "beneficiaries": [
+                "Youth",
+                "Regulators",
+                "Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-owb9m43oz",
+            "title": "Betsson Expands Canada",
+            "subtitle": "Betsson acquires Rhino Entertainment to increase its Canadian market presence",
+            "category": "iGaming",
+            "tags": [
+                "Betsson",
+                "Rhino Entertainment",
+                "Canada",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0xRVllfZnNtQ1diQURNdl94UkxNdDlFcXd0VjFSZzVpX3BYaFBtQm9pTlNUYVFaZUhpMVJtaWQxMlhVMkl3X0lSZDQ5NXlVcnN1Q0k5SnlUbmtxNHUyQkU0VWEwMExoaHJvd3o2NVFOcTh1VjFJZ3pKVzFhajAzVXVtY2FVSXNkdHpvYktZcVhadXNlX01KeHBReXZBWTdrRk5Yb2NDMU9rUQ?oc=5",
+                "date": "2026-03-12T13:01:40.000Z"
+            },
+            "whatsNew": "Betsson has acquired Rhino Entertainment to expand its presence in the Canadian iGaming market. This move is expected to increase Betsson's market share and provide new opportunities for growth. The acquisition is part of Betsson's strategy to strengthen its position in key markets.",
+            "whyItMatters": "The acquisition is significant for the iGaming industry as it shows the growing interest in the Canadian market. It also highlights Betsson's commitment to expanding its global presence through strategic acquisitions.",
+            "howToUse": "Operators can use this trend to inform their own expansion strategies, considering the potential benefits of entering or expanding in the Canadian market. They can also explore partnership opportunities with local companies to strengthen their position.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Canadian players"
+            ],
+            "companies": [
+                "Betsson",
+                "Rhino Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
