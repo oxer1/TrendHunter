@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T20:33:22.519Z",
+        "scanDate": "2026-03-26T21:29:31.480Z",
         "version": "2.5.0",
-        "totalTrends": 88,
+        "totalTrends": 87,
         "categories": [
             "iGaming",
             "AI",
@@ -2672,35 +2672,6 @@
             "visualStyle": null,
             "cluster": "ai-automation",
             "isNew": false
-        },
-        {
-            "id": "t-voa466330",
-            "title": "PEGI Updates Ratings",
-            "subtitle": "PEGI revises age ratings considering loot boxes and daily quests",
-            "category": "iGaming",
-            "tags": [
-                "PEGI",
-                "Loot Boxes",
-                "Age Ratings"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/pegi-revises-its-age-ratings-system-with-considerations-for-loot-boxes-daily-quests",
-                "date": "2026-03-12T20:52:29.000Z"
-            },
-            "whatsNew": "PEGI has revised its age ratings system to account for loot boxes and daily quests, affecting game classifications. Loot boxes will now bump a game's rating up to PEGI 16. This change reflects growing concerns over in-game purchases and their impact on minors.",
-            "whyItMatters": "The revision aims to better protect minors from potentially harmful gaming practices, such as loot boxes. This change may influence game development and monetization strategies.",
-            "howToUse": "Game developers should review PEGI's updated guidelines to ensure compliance with the new age ratings system, adjusting their game designs and monetization models as necessary.",
-            "beneficiaries": [
-                "Game Developers",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2837,7 +2808,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T20:33:22.519Z",
+            "lastScan": "2026-03-26T21:29:31.480Z",
             "note": null
         },
         {
@@ -12442,6 +12413,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-voa466330",
+            "title": "PEGI Updates Ratings",
+            "subtitle": "PEGI revises age ratings considering loot boxes and daily quests",
+            "category": "iGaming",
+            "tags": [
+                "PEGI",
+                "Loot Boxes",
+                "Age Ratings"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/pegi-revises-its-age-ratings-system-with-considerations-for-loot-boxes-daily-quests",
+                "date": "2026-03-12T20:52:29.000Z"
+            },
+            "whatsNew": "PEGI has revised its age ratings system to account for loot boxes and daily quests, affecting game classifications. Loot boxes will now bump a game's rating up to PEGI 16. This change reflects growing concerns over in-game purchases and their impact on minors.",
+            "whyItMatters": "The revision aims to better protect minors from potentially harmful gaming practices, such as loot boxes. This change may influence game development and monetization strategies.",
+            "howToUse": "Game developers should review PEGI's updated guidelines to ensure compliance with the new age ratings system, adjusting their game designs and monetization models as necessary.",
+            "beneficiaries": [
+                "Game Developers",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
