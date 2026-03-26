@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-25T23:32:22.794Z",
+        "scanDate": "2026-03-26T02:04:58.451Z",
         "version": "2.5.0",
-        "totalTrends": 94,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,65 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-l3yvd6upg",
+            "title": "UK Levy Unchanged",
+            "subtitle": "UK government decides not to increase Horserace Betting Levy rate",
+            "category": "iGaming",
+            "tags": [
+                "Horserace Betting Levy",
+                "UK Government",
+                "iGaming Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/uk-government-opts-not-increase-horserace-betting-levy/",
+                "date": "2026-03-25T16:48:43.000Z"
+            },
+            "whatsNew": "The UK government has concluded its review of the Horserace Betting Levy with no changes to the 10% rate. This decision follows a long-delayed review process.",
+            "whyItMatters": "The unchanged levy rate may impact the revenue of horse racing organizations and have implications for the UK's iGaming industry. It reflects the government's stance on betting taxation and its potential effects on the sector.",
+            "howToUse": "iGaming operators should be aware of the stable levy rate and its implications for their business operations and revenue projections in the UK market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Horse Racing Organizations"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-vlijjp7cj",
+            "title": "Collegiate Gambling",
+            "subtitle": "University of Mississippi introduces new Centre on Collegiate Gambling to study college-level gambling",
+            "category": "iGaming",
+            "tags": [
+                "Collegiate Gambling",
+                "University of Mississippi",
+                "Gambling Study"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/university-mississippi-introduces-centre-collegiate-gambling/",
+                "date": "2026-03-25T12:45:38.000Z"
+            },
+            "whatsNew": "The University of Mississippi has launched a new center to study gambling at the college level, focusing on its impact and implications. This center aims to provide insights into collegiate gambling behaviors and patterns. The establishment of this center reflects growing concerns about gambling among college students.",
+            "whyItMatters": "The center's research could inform policies and programs to address problem gambling among college students, ultimately contributing to a safer and more responsible gambling environment. This initiative may also encourage other institutions to follow suit, leading to a broader understanding of collegiate gambling.",
+            "howToUse": "Institutions and policymakers can utilize the research and findings from the center to develop targeted interventions and support services for students struggling with gambling issues. By collaborating with the center, stakeholders can work towards creating a more supportive and informed community.",
+            "beneficiaries": [
+                "College Students",
+                "Policymakers",
+                "Gambling Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-5o4h7vaah",
             "title": "Fortnite Modes Ending",
@@ -3019,7 +3078,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T23:32:22.794Z",
+            "lastScan": "2026-03-26T02:04:58.451Z",
             "note": null
         },
         {
@@ -3028,7 +3087,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-25T04:25:36.827Z",
+            "lastScan": "2026-03-26T02:04:58.451Z",
             "note": null
         },
         {
