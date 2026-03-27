@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-27T19:39:54.974Z",
+        "scanDate": "2026-03-27T20:36:01.989Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qkq373ce4",
@@ -2326,37 +2326,6 @@
             "isNew": false
         },
         {
-            "id": "t-6cok5r91k",
-            "title": "NVIDIA NeMo Retriever",
-            "subtitle": "NVIDIA introduces NeMo Retriever, a generalizable agentic retrieval pipeline for AI applications",
-            "category": "AI",
-            "tags": [
-                "NVIDIA",
-                "NeMo Retriever",
-                "Agentic Retrieval"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-                "date": "2026-03-13T20:00:00.000Z"
-            },
-            "whatsNew": "NVIDIA NeMo Retriever is a new pipeline that enables more efficient and effective retrieval of relevant information in AI systems. It goes beyond traditional semantic similarity methods, allowing for more generalizable and adaptable retrieval processes.",
-            "whyItMatters": "This technology has the potential to significantly improve the performance of various AI applications, including those in the iGaming and game development industries. It could lead to more accurate and personalized recommendations, enhanced user experiences, and increased efficiency in content creation.",
-            "howToUse": "Developers can integrate NeMo Retriever into their AI pipelines to enhance information retrieval and improve overall system performance. This can be particularly useful in applications where context-aware and adaptable retrieval is crucial.",
-            "beneficiaries": [
-                "AI Developers",
-                "Game Developers"
-            ],
-            "companies": [
-                "NVIDIA"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-rx33fzr1e",
             "title": "GDC Festival",
             "subtitle": "Rebranded GDC Festival of Gaming attracts 20,000 attendees",
@@ -2520,7 +2489,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-27T19:39:54.974Z",
+            "lastScan": "2026-03-27T20:36:01.989Z",
             "note": null
         },
         {
@@ -12723,6 +12692,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-6cok5r91k",
+            "title": "NVIDIA NeMo Retriever",
+            "subtitle": "NVIDIA introduces NeMo Retriever, a generalizable agentic retrieval pipeline for AI applications",
+            "category": "AI",
+            "tags": [
+                "NVIDIA",
+                "NeMo Retriever",
+                "Agentic Retrieval"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+                "date": "2026-03-13T20:00:00.000Z"
+            },
+            "whatsNew": "NVIDIA NeMo Retriever is a new pipeline that enables more efficient and effective retrieval of relevant information in AI systems. It goes beyond traditional semantic similarity methods, allowing for more generalizable and adaptable retrieval processes.",
+            "whyItMatters": "This technology has the potential to significantly improve the performance of various AI applications, including those in the iGaming and game development industries. It could lead to more accurate and personalized recommendations, enhanced user experiences, and increased efficiency in content creation.",
+            "howToUse": "Developers can integrate NeMo Retriever into their AI pipelines to enhance information retrieval and improve overall system performance. This can be particularly useful in applications where context-aware and adaptable retrieval is crucial.",
+            "beneficiaries": [
+                "AI Developers",
+                "Game Developers"
+            ],
+            "companies": [
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
