@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-27T14:15:36.688Z",
+        "scanDate": "2026-03-27T15:51:41.057Z",
         "version": "2.5.0",
-        "totalTrends": 80,
+        "totalTrends": 81,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qkq373ce4",
+            "title": "AI in Game Dev",
+            "subtitle": "Owlcat Games uses generative AI for faster iteration on The Expanse game",
+            "category": "AI",
+            "tags": [
+                "AI in gaming",
+                "Game development",
+                "Generative AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/owlcat-games-is-using-gen-ai-to-iterate-faster-on-the-expanse",
+                "date": "2026-03-27T14:21:07.000Z"
+            },
+            "whatsNew": "Owlcat Games is leveraging generative AI for prototyping and creating temporary assets in The Expanse game development. This approach aims to speed up the development process.",
+            "whyItMatters": "The use of generative AI in game development can significantly reduce production time and costs, allowing for more rapid iteration and innovation. This can be a game-changer for the gaming industry.",
+            "howToUse": "Game developers can explore using generative AI for prototyping, placeholder creation, and other areas where rapid iteration is beneficial, while ensuring final assets meet quality standards.",
+            "beneficiaries": [
+                "Game developers",
+                "Game studios"
+            ],
+            "companies": [
+                "Owlcat Games"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-ltankbnb1",
+            "title": "Unity Shifts Focus",
+            "subtitle": "Unity is sunsetting its Ads Network and divesting Supersonic to drive revenue growth",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/unity-sunsetting-ads-network-and-divesting-publishing-label-supersonic",
+                "date": "2026-03-27T14:20:18.000Z"
+            },
+            "whatsNew": "Unity is sunsetting its Ads Network and divesting its publishing label Supersonic. This move is expected to help the company drive revenue growth by focusing on its core business.",
+            "whyItMatters": "This decision reflects Unity's strategy to concentrate on its core game engine and development tools, potentially impacting the game development industry as a whole.",
+            "howToUse": "Game developers should monitor Unity's future developments and adjust their strategies accordingly, considering alternative ad networks and publishing options.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Investors"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
         {
             "id": "t-n7rc476pp",
             "title": "Open Source Update",
@@ -2295,35 +2357,6 @@
             "isNew": false
         },
         {
-            "id": "t-493i31qv0",
-            "title": "Indiana Gaming Ban",
-            "subtitle": "Indiana governor signs legislation banning online sweepstakes casino platforms",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Sweepstakes",
-                "Indiana"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/indianas-sweepstakes-ban-approved-governor/",
-                "date": "2026-03-13T15:09:31.000Z"
-            },
-            "whatsNew": "Indiana Governor Mike Braun has signed legislation banning online sweepstakes casino platforms in the state. This move is expected to impact the online gaming industry in the region.",
-            "whyItMatters": "The ban on sweepstakes gaming platforms in Indiana may set a precedent for other states to follow, potentially altering the landscape of online gaming in the US.",
-            "howToUse": "Operators should review their offerings to ensure compliance with the new regulations, while players should be aware of the changing legal landscape for online gaming in Indiana.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliant Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-u851v8c6u",
             "title": "NYC 2026 Trends",
             "subtitle": "Prediction markets and super apps take center stage in NYC 2026",
@@ -2606,7 +2639,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-27T14:15:36.688Z",
+            "lastScan": "2026-03-27T15:51:41.057Z",
             "note": null
         },
         {
@@ -12632,6 +12665,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-493i31qv0",
+            "title": "Indiana Gaming Ban",
+            "subtitle": "Indiana governor signs legislation banning online sweepstakes casino platforms",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Sweepstakes",
+                "Indiana"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/indianas-sweepstakes-ban-approved-governor/",
+                "date": "2026-03-13T15:09:31.000Z"
+            },
+            "whatsNew": "Indiana Governor Mike Braun has signed legislation banning online sweepstakes casino platforms in the state. This move is expected to impact the online gaming industry in the region.",
+            "whyItMatters": "The ban on sweepstakes gaming platforms in Indiana may set a precedent for other states to follow, potentially altering the landscape of online gaming in the US.",
+            "howToUse": "Operators should review their offerings to ensure compliance with the new regulations, while players should be aware of the changing legal landscape for online gaming in Indiana.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
