@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-27T10:44:28.491Z",
+        "scanDate": "2026-03-27T11:39:48.074Z",
         "version": "2.5.0",
-        "totalTrends": 89,
+        "totalTrends": 87,
         "categories": [
             "iGaming",
             "AI",
@@ -2264,68 +2264,6 @@
             "isNew": false
         },
         {
-            "id": "t-xpkzzpwgc",
-            "title": "Ainsworth Share Offer",
-            "subtitle": "Kjerulf Ainsworth submits new offer to acquire 5.5% of Ainsworth shares",
-            "category": "iGaming",
-            "tags": [
-                "Ainsworth Game Technology",
-                "Share Acquisition",
-                "Gaming Industry"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/investment/kjerulf-ainsworth-offer-acquire-ainsworth-shares/",
-                "date": "2026-03-13T11:31:44.000Z"
-            },
-            "whatsNew": "Kjerulf Ainsworth has made a new offer to acquire 5.5% of Ainsworth Game Technology's shares at A$1.30 per share. This move indicates a continued interest in the company's shares.",
-            "whyItMatters": "The acquisition could impact Ainsworth Game Technology's ownership structure and potentially influence the company's future direction. This development is noteworthy for those invested in the iGaming industry.",
-            "howToUse": "Investors and industry watchers should monitor the outcome of this offer, as it may signal future shifts in the company's strategy or leadership.",
-            "beneficiaries": [
-                "Investors",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Ainsworth Game Technology"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-pb6vzvlkm",
-            "title": "William Hill Success",
-            "subtitle": "William Hill celebrates most profitable day at Cheltenham Festival",
-            "category": "iGaming",
-            "tags": [
-                "William Hill",
-                "Cheltenham Festival",
-                "Sports Betting"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/william-hill-hails-historically-successful-day-cheltenham/",
-                "date": "2026-03-13T10:59:50.000Z"
-            },
-            "whatsNew": "William Hill achieved its most profitable day in history at the Cheltenham Festival. The company's success is a significant milestone, indicating a strong performance in the sports betting sector.",
-            "whyItMatters": "This achievement highlights the growing demand for sports betting and the importance of major events like the Cheltenham Festival for bookmakers. It also underscores William Hill's position in the market.",
-            "howToUse": "Operators can capitalize on similar events by offering competitive odds and promotions, while also ensuring a seamless user experience for bettors.",
-            "beneficiaries": [
-                "Bookmakers",
-                "Bettors"
-            ],
-            "companies": [
-                "William Hill"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-6cok5r91k",
             "title": "NVIDIA NeMo Retriever",
             "subtitle": "NVIDIA introduces NeMo Retriever, a generalizable agentic retrieval pipeline for AI applications",
@@ -2877,7 +2815,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-27T10:44:28.491Z",
+            "lastScan": "2026-03-27T11:39:48.074Z",
             "note": null
         },
         {
@@ -12629,6 +12567,68 @@
             "companies": [
                 "Professional Fighters League",
                 "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-xpkzzpwgc",
+            "title": "Ainsworth Share Offer",
+            "subtitle": "Kjerulf Ainsworth submits new offer to acquire 5.5% of Ainsworth shares",
+            "category": "iGaming",
+            "tags": [
+                "Ainsworth Game Technology",
+                "Share Acquisition",
+                "Gaming Industry"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/kjerulf-ainsworth-offer-acquire-ainsworth-shares/",
+                "date": "2026-03-13T11:31:44.000Z"
+            },
+            "whatsNew": "Kjerulf Ainsworth has made a new offer to acquire 5.5% of Ainsworth Game Technology's shares at A$1.30 per share. This move indicates a continued interest in the company's shares.",
+            "whyItMatters": "The acquisition could impact Ainsworth Game Technology's ownership structure and potentially influence the company's future direction. This development is noteworthy for those invested in the iGaming industry.",
+            "howToUse": "Investors and industry watchers should monitor the outcome of this offer, as it may signal future shifts in the company's strategy or leadership.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Ainsworth Game Technology"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-pb6vzvlkm",
+            "title": "William Hill Success",
+            "subtitle": "William Hill celebrates most profitable day at Cheltenham Festival",
+            "category": "iGaming",
+            "tags": [
+                "William Hill",
+                "Cheltenham Festival",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/william-hill-hails-historically-successful-day-cheltenham/",
+                "date": "2026-03-13T10:59:50.000Z"
+            },
+            "whatsNew": "William Hill achieved its most profitable day in history at the Cheltenham Festival. The company's success is a significant milestone, indicating a strong performance in the sports betting sector.",
+            "whyItMatters": "This achievement highlights the growing demand for sports betting and the importance of major events like the Cheltenham Festival for bookmakers. It also underscores William Hill's position in the market.",
+            "howToUse": "Operators can capitalize on similar events by offering competitive odds and promotions, while also ensuring a seamless user experience for bettors.",
+            "beneficiaries": [
+                "Bookmakers",
+                "Bettors"
+            ],
+            "companies": [
+                "William Hill"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
