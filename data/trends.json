@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-27T02:05:21.905Z",
+        "scanDate": "2026-03-27T05:05:15.051Z",
         "version": "2.5.0",
-        "totalTrends": 89,
+        "totalTrends": 90,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-n7rc476pp",
+            "title": "Open Source Update",
+            "subtitle": "Hugging Face discusses the state of open source in Spring 2026",
+            "category": "AI",
+            "tags": [
+                "Open Source",
+                "Hugging Face",
+                "AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+                "date": "2026-03-17T16:37:55.000Z"
+            },
+            "whatsNew": "Hugging Face has released an update on the state of open source, highlighting recent developments and advancements in the field. The update covers new features, improvements, and community contributions. It also outlines the company's commitment to open source and its plans for future development.",
+            "whyItMatters": "The update is significant as it showcases the growth and evolution of open source in the AI community, with Hugging Face playing a key role. It also demonstrates the company's dedication to transparency and collaboration, which can benefit the broader AI ecosystem.",
+            "howToUse": "Developers and researchers can utilize the updated open source resources to build and improve their AI models, while also contributing to the community by sharing their own projects and expertise.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-a05wjsvmu",
             "title": "BC.Game Transparency",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-j3w4guysq",
@@ -80,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9vs8rk0zo",
@@ -112,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-67bg0kk1i",
@@ -144,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4lcrrfxiv",
@@ -177,7 +208,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ob9vr1f6k",
@@ -2878,7 +2909,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-27T02:05:21.905Z",
+            "lastScan": "2026-03-27T05:05:15.051Z",
             "note": null
         },
         {
@@ -2887,7 +2918,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-27T02:05:21.905Z",
+            "lastScan": "2026-03-27T05:05:15.051Z",
             "note": null
         },
         {
@@ -2896,7 +2927,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T05:57:32.349Z",
+            "lastScan": "2026-03-27T05:05:15.051Z",
             "note": null
         },
         {
@@ -3083,7 +3114,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-17T05:57:32.349Z",
+            "lastScan": "2026-03-27T05:05:15.051Z",
             "note": null
         },
         {
