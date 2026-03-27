@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-26T23:29:49.100Z",
+        "scanDate": "2026-03-27T02:05:21.905Z",
         "version": "2.5.0",
-        "totalTrends": 86,
+        "totalTrends": 89,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,165 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-a05wjsvmu",
+            "title": "BC.Game Transparency",
+            "subtitle": "BC.Game's transparency claims are questioned amid a mysterious new CEO hire",
+            "category": "iGaming",
+            "tags": [
+                "BC.Game",
+                "iGaming Transparency",
+                "New CEO"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/bc-game-new-mystery-ceo-hire/",
+                "date": "2026-03-26T15:44:41.000Z"
+            },
+            "whatsNew": "BC.Game has announced plans to increase transparency through platform upgrades and a new CEO, but the lack of information about the CEO's background raises concerns. The move is seen as an attempt to improve the company's image and regain player trust.",
+            "whyItMatters": "The transparency of iGaming companies is crucial for building trust with players, and BC.Game's actions will be closely watched by the industry. The success or failure of this initiative may impact the company's reputation and player base.",
+            "howToUse": "Players should remain cautious and monitor the company's actions, looking for concrete evidence of increased transparency and accountability. iGaming companies can learn from BC.Game's approach and prioritize transparency to build trust with their players.",
+            "beneficiaries": [
+                "iGaming Players",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "BC.Game"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-j3w4guysq",
+            "title": "Playtech US Growth",
+            "subtitle": "Playtech's US growth offsets new Caliente deal impact in FY 2025 results",
+            "category": "iGaming",
+            "tags": [
+                "Playtech",
+                "US Market",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-playtech-us-growth-offset-caliente/",
+                "date": "2026-03-26T11:57:13.000Z"
+            },
+            "whatsNew": "Playtech reported strong growth in the US market for FY 2025, helping to offset the impact of its new Caliente deal. The company's results follow the completion of its Snaitech sale.",
+            "whyItMatters": "The growth in the US market is significant for Playtech as it navigates regulatory changes and increasing competition in the iGaming industry. This momentum could indicate a strong position for the company in the American market.",
+            "howToUse": "Companies in the iGaming sector can learn from Playtech's strategy in the US market to inform their own expansion plans and navigate similar regulatory challenges.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Playtech"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-9vs8rk0zo",
+            "title": "Seventy Seven Money",
+            "subtitle": "Swintt releases new slot game with Money Bloxx mechanic",
+            "category": "iGaming",
+            "tags": [
+                "Swintt",
+                "Slot Game",
+                "Money Bloxx"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/swintt-start-a-new-gold-rush-in-seventy-seven-money-bloxx/",
+                "date": "2026-03-26T11:52:54.000Z"
+            },
+            "whatsNew": "Swintt introduces a new Money Bloxx mechanic in their latest slot game, Seventy Seven Money Bloxx, offering a fresh twist on classic bullion-building formula. The game features a five-reel, ten-payline setup with payouts for matching symbols from left-to-right, right-to-left, and centrally. The Money Bloxx mechanic adds an exciting layer to the gameplay.",
+            "whyItMatters": "The release of Seventy Seven Money Bloxx demonstrates Swintt's commitment to innovating and expanding their portfolio, which can attract new players and retain existing ones. The introduction of the Money Bloxx mechanic may also influence the development of future slot games.",
+            "howToUse": "Game developers and operators can take note of the Money Bloxx mechanic and consider incorporating similar features into their own games to enhance player engagement. Players can try out Seventy Seven Money Bloxx to experience the new mechanic firsthand.",
+            "beneficiaries": [
+                "Game Developers",
+                "Players",
+                "Operators"
+            ],
+            "companies": [
+                "Swintt"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-67bg0kk1i",
+            "title": "BetMGM Fined",
+            "subtitle": "BetMGM receives $100,000 fine in Pennsylvania due to KYC failures",
+            "category": "iGaming",
+            "tags": [
+                "BetMGM",
+                "Pennsylvania",
+                "KYC",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/betmgm-fined-100k-pennsylvania-kyc-failures/",
+                "date": "2026-03-26T11:28:17.000Z"
+            },
+            "whatsNew": "BetMGM has been fined $100,000 by the PGCB due to failures in Know Your Customer (KYC) procedures, highlighting the importance of regulatory compliance in the iGaming industry. The fine is a result of fraud-related issues. This incident underscores the need for robust KYC measures to prevent illicit activities.",
+            "whyItMatters": "The fine imposed on BetMGM serves as a reminder to iGaming operators of the significance of adhering to regulatory requirements, particularly those related to KYC and fraud prevention. It emphasizes the potential financial and reputational consequences of non-compliance.",
+            "howToUse": "Operators should review and strengthen their KYC processes to ensure compliance with regulatory standards, utilizing technology and robust verification procedures to mitigate the risk of fraud and associated penalties.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "BetMGM"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-4lcrrfxiv",
+            "title": "Playradar Launch",
+            "subtitle": "Sportradar introduces new iGaming brand Playradar, focusing on sports casino entertainment games",
+            "category": "iGaming",
+            "tags": [
+                "Playradar",
+                "Sportradar",
+                "iGaming",
+                "Casino Sports Entertainment"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/qa-inside-playradar-sportradars-new-igaming-brand/",
+                "date": "2026-03-26T11:27:55.000Z"
+            },
+            "whatsNew": "Sportradar launches Playradar, a dedicated iGaming brand that unifies its gaming IP, including slots, table games, and virtual sports. The brand aims to capitalize on the growing trend of casino sports entertainment.",
+            "whyItMatters": "The launch of Playradar signifies a strategic move by Sportradar to strengthen its presence in the iGaming industry, potentially changing the landscape of sports casino entertainment. This development may influence how gaming companies approach the integration of sports and casino content.",
+            "howToUse": "Gaming operators and developers can leverage Playradar's unified gaming portfolio to enhance their offerings and cater to the evolving preferences of players seeking immersive sports casino experiences.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Sportradar",
+                "Playradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-ob9vr1f6k",
             "title": "Donkey Kong Asset",
@@ -2106,35 +2265,6 @@
             "isNew": false
         },
         {
-            "id": "t-00441a9nz",
-            "title": "IAGR Q&A",
-            "subtitle": "Kevin Mullally discusses gaming regulation with IAGR",
-            "category": "iGaming",
-            "tags": [
-                "Gaming Regulation",
-                "IAGR",
-                "Kevin Mullally"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "IAGR",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1senZteDBUVXg3bFgxMWVqOGtXOWhLQm5sM0RFSURFS2ZaWWJwRzRER2thdlNleG9yV190ajAtZ3VEQXBudTRsYUxmamcyZVAwbDBDR3pxS3pONUJ4aDlGaQ?oc=5",
-                "date": "2026-03-13T01:21:12.000Z"
-            },
-            "whatsNew": "Kevin Mullally shares insights on the current state of gaming regulation in an interview with IAGR. He discusses key challenges and opportunities in the industry. The Q&A provides valuable information on regulatory trends.",
-            "whyItMatters": "The interview provides insight into the regulatory landscape of the gaming industry, which is crucial for operators and regulators alike. It highlights the importance of collaboration and innovation in addressing regulatory challenges.",
-            "howToUse": "Regulators and operators can use the insights from the Q&A to inform their strategies and stay up-to-date on the latest regulatory developments. They can also use the information to identify areas for collaboration and innovation.",
-            "beneficiaries": [
-                "Regulators",
-                "Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-xpkzzpwgc",
             "title": "Ainsworth Share Offer",
             "subtitle": "Kjerulf Ainsworth submits new offer to acquire 5.5% of Ainsworth shares",
@@ -2612,37 +2742,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-7j0hhxsfy",
-            "title": "AI Agent",
-            "subtitle": "Building an agent that thinks like a data scientist using reusable tool generation",
-            "category": "AI",
-            "tags": [
-                "AI",
-                "Data Science",
-                "Reusable Tool Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-                "date": "2026-03-13T01:02:47.000Z"
-            },
-            "whatsNew": "The article discusses how to build an agent that thinks like a data scientist, achieving #1 on DABStep with reusable tool generation, showcasing advancements in AI capabilities. This approach enables more efficient data analysis and processing. The use of reusable tools streamlines the development process.",
-            "whyItMatters": "This development has significant implications for data-driven industries, as it can enhance decision-making and automate complex tasks. The achievement of #1 on DABStep underscores the potential of this technology.",
-            "howToUse": "Developers can leverage this approach by integrating reusable tool generation into their AI models, allowing for more flexible and efficient data analysis. This can be particularly useful in applications where data scientists are scarce or where rapid prototyping is necessary.",
-            "beneficiaries": [
-                "Data Scientists",
-                "AI Developers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2779,7 +2878,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T23:29:49.101Z",
+            "lastScan": "2026-03-27T02:05:21.905Z",
             "note": null
         },
         {
@@ -2788,7 +2887,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-26T19:53:45.658Z",
+            "lastScan": "2026-03-27T02:05:21.905Z",
             "note": null
         },
         {
@@ -12442,6 +12541,66 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-00441a9nz",
+            "title": "IAGR Q&A",
+            "subtitle": "Kevin Mullally discusses gaming regulation with IAGR",
+            "category": "iGaming",
+            "tags": [
+                "Gaming Regulation",
+                "IAGR",
+                "Kevin Mullally"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "IAGR",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1senZteDBUVXg3bFgxMWVqOGtXOWhLQm5sM0RFSURFS2ZaWWJwRzRER2thdlNleG9yV190ajAtZ3VEQXBudTRsYUxmamcyZVAwbDBDR3pxS3pONUJ4aDlGaQ?oc=5",
+                "date": "2026-03-13T01:21:12.000Z"
+            },
+            "whatsNew": "Kevin Mullally shares insights on the current state of gaming regulation in an interview with IAGR. He discusses key challenges and opportunities in the industry. The Q&A provides valuable information on regulatory trends.",
+            "whyItMatters": "The interview provides insight into the regulatory landscape of the gaming industry, which is crucial for operators and regulators alike. It highlights the importance of collaboration and innovation in addressing regulatory challenges.",
+            "howToUse": "Regulators and operators can use the insights from the Q&A to inform their strategies and stay up-to-date on the latest regulatory developments. They can also use the information to identify areas for collaboration and innovation.",
+            "beneficiaries": [
+                "Regulators",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7j0hhxsfy",
+            "title": "AI Agent",
+            "subtitle": "Building an agent that thinks like a data scientist using reusable tool generation",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Data Science",
+                "Reusable Tool Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+                "date": "2026-03-13T01:02:47.000Z"
+            },
+            "whatsNew": "The article discusses how to build an agent that thinks like a data scientist, achieving #1 on DABStep with reusable tool generation, showcasing advancements in AI capabilities. This approach enables more efficient data analysis and processing. The use of reusable tools streamlines the development process.",
+            "whyItMatters": "This development has significant implications for data-driven industries, as it can enhance decision-making and automate complex tasks. The achievement of #1 on DABStep underscores the potential of this technology.",
+            "howToUse": "Developers can leverage this approach by integrating reusable tool generation into their AI models, allowing for more flexible and efficient data analysis. This can be particularly useful in applications where data scientists are scarce or where rapid prototyping is necessary.",
+            "beneficiaries": [
+                "Data Scientists",
+                "AI Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
