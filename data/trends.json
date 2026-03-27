@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-27T22:28:54.038Z",
+        "scanDate": "2026-03-27T23:30:26.656Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -2324,35 +2324,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-rx33fzr1e",
-            "title": "GDC Festival",
-            "subtitle": "Rebranded GDC Festival of Gaming attracts 20,000 attendees",
-            "category": "Community",
-            "tags": [
-                "GDC",
-                "Gaming Festival",
-                "Game Developer"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees",
-                "date": "2026-03-13T23:07:09.000Z"
-            },
-            "whatsNew": "The rebranded GDC Festival of Gaming saw a significant turnout of 20,000 attendees. The festival took place over the course of a week, from March 9 to March 13.",
-            "whyItMatters": "The high attendance at the GDC Festival indicates a strong interest in the gaming industry and its events. This could have a positive impact on game development and the overall gaming community.",
-            "howToUse": "Game developers and industry professionals can use this event as an opportunity to network and learn about the latest trends and technologies in the gaming industry.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Professionals"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2489,7 +2460,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-27T22:28:54.038Z",
+            "lastScan": "2026-03-27T23:30:26.656Z",
             "note": null
         },
         {
@@ -12723,6 +12694,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-rx33fzr1e",
+            "title": "GDC Festival",
+            "subtitle": "Rebranded GDC Festival of Gaming attracts 20,000 attendees",
+            "category": "Community",
+            "tags": [
+                "GDC",
+                "Gaming Festival",
+                "Game Developer"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees",
+                "date": "2026-03-13T23:07:09.000Z"
+            },
+            "whatsNew": "The rebranded GDC Festival of Gaming saw a significant turnout of 20,000 attendees. The festival took place over the course of a week, from March 9 to March 13.",
+            "whyItMatters": "The high attendance at the GDC Festival indicates a strong interest in the gaming industry and its events. This could have a positive impact on game development and the overall gaming community.",
+            "howToUse": "Game developers and industry professionals can use this event as an opportunity to network and learn about the latest trends and technologies in the gaming industry.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
