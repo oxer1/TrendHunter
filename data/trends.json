@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-28T04:22:39.898Z",
+        "scanDate": "2026-03-28T05:55:22.851Z",
         "version": "2.5.0",
-        "totalTrends": 80,
+        "totalTrends": 79,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jha4dztyd",
@@ -78,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0s6ximkfy",
@@ -2442,37 +2442,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-zfj30tpgx",
-            "title": "Sun Bets Under Review",
-            "subtitle": "Sun Bets faces uncertainty after a significant financial loss",
-            "category": "iGaming",
-            "tags": [
-                "Sun Bets",
-                "Financial Loss",
-                "iGaming Review"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEpzZUxrRXZSV2Rfd25vZ3FIOTFGanZUX3Y3OTF1M19lT0g4Tk5HWGt6YmpwMjlneTMtS2hfZEVoY0NrM1hncjFWRzhvazhoeXFUSlppSUtWWmxWTUpwLUkxSVlzaDdGRk5NdF9PVngzbTd1Z3hTWDBaRGlJcE45b09qZjBWNGZB?oc=5",
-                "date": "2026-03-14T05:53:43.000Z"
-            },
-            "whatsNew": "Sun Bets has reported a £12.7m loss, prompting a review of its operations. The company's financial performance has raised concerns about its future. Regulatory scrutiny is likely to increase following this significant loss.",
-            "whyItMatters": "The review of Sun Bets has implications for the iGaming industry, particularly in terms of regulatory compliance and financial sustainability. It may lead to changes in how companies operate and are regulated.",
-            "howToUse": "iGaming operators should monitor regulatory developments and review their financial management strategies to mitigate similar risks. Companies can learn from Sun Bets' experience to improve their own operations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Sun Bets"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2609,7 +2578,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-28T04:22:39.898Z",
+            "lastScan": "2026-03-28T05:55:22.851Z",
             "note": null
         },
         {
@@ -2618,7 +2587,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-28T04:22:39.898Z",
+            "lastScan": "2026-03-28T05:55:22.851Z",
             "note": null
         },
         {
@@ -12872,6 +12841,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-zfj30tpgx",
+            "title": "Sun Bets Under Review",
+            "subtitle": "Sun Bets faces uncertainty after a significant financial loss",
+            "category": "iGaming",
+            "tags": [
+                "Sun Bets",
+                "Financial Loss",
+                "iGaming Review"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEpzZUxrRXZSV2Rfd25vZ3FIOTFGanZUX3Y3OTF1M19lT0g4Tk5HWGt6YmpwMjlneTMtS2hfZEVoY0NrM1hncjFWRzhvazhoeXFUSlppSUtWWmxWTUpwLUkxSVlzaDdGRk5NdF9PVngzbTd1Z3hTWDBaRGlJcE45b09qZjBWNGZB?oc=5",
+                "date": "2026-03-14T05:53:43.000Z"
+            },
+            "whatsNew": "Sun Bets has reported a £12.7m loss, prompting a review of its operations. The company's financial performance has raised concerns about its future. Regulatory scrutiny is likely to increase following this significant loss.",
+            "whyItMatters": "The review of Sun Bets has implications for the iGaming industry, particularly in terms of regulatory compliance and financial sustainability. It may lead to changes in how companies operate and are regulated.",
+            "howToUse": "iGaming operators should monitor regulatory developments and review their financial management strategies to mitigate similar risks. Companies can learn from Sun Bets' experience to improve their own operations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Sun Bets"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
