@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-29T08:37:42.207Z",
+        "scanDate": "2026-03-29T09:34:32.296Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -2471,38 +2471,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-3q4tn3uzn",
-            "title": "Sky Bet MBL",
-            "subtitle": "Sky Bet launches racing MBL, the latest development in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Sky Bet",
-                "MBL",
-                "Racing",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzFycUZtdXNuMWhUY2pseWpqWE9CWTRWTTlxckxDMVkwYjgwdHNoN2lHU1oyMHotTVRwWmJEMkNTeGNfQWlMNnhDM1RMcVZvSG9xS1gxb1Zqc1NmZUxERGdYOVVEME5ncUxRQTkwcVJIRWFKb2hsdW9QcEszenR3R1JvdWUzMFNkOGZJ?oc=5",
-                "date": "2026-03-15T09:00:02.000Z"
-            },
-            "whatsNew": "Sky Bet has launched a racing MBL, marking a new development in the company's offerings. This move is part of the growing trend of iGaming companies expanding their services. The launch is expected to enhance user experience and provide more options for racing enthusiasts.",
-            "whyItMatters": "The launch of Sky Bet's racing MBL is significant as it indicates the company's commitment to innovation and expansion in the iGaming market. This development may influence other companies to follow suit, leading to increased competition and growth in the industry.",
-            "howToUse": "Users can access the new MBL feature on Sky Bet's platform, exploring the various racing options and enhanced betting experiences. The feature is designed to be user-friendly, providing an immersive experience for racing fans.",
-            "beneficiaries": [
-                "Racing Enthusiasts",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "Sky Bet"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2639,7 +2607,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-29T08:37:42.207Z",
+            "lastScan": "2026-03-29T09:34:32.296Z",
             "note": null
         },
         {
@@ -12933,6 +12901,38 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-3q4tn3uzn",
+            "title": "Sky Bet MBL",
+            "subtitle": "Sky Bet launches racing MBL, the latest development in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Sky Bet",
+                "MBL",
+                "Racing",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzFycUZtdXNuMWhUY2pseWpqWE9CWTRWTTlxckxDMVkwYjgwdHNoN2lHU1oyMHotTVRwWmJEMkNTeGNfQWlMNnhDM1RMcVZvSG9xS1gxb1Zqc1NmZUxERGdYOVVEME5ncUxRQTkwcVJIRWFKb2hsdW9QcEszenR3R1JvdWUzMFNkOGZJ?oc=5",
+                "date": "2026-03-15T09:00:02.000Z"
+            },
+            "whatsNew": "Sky Bet has launched a racing MBL, marking a new development in the company's offerings. This move is part of the growing trend of iGaming companies expanding their services. The launch is expected to enhance user experience and provide more options for racing enthusiasts.",
+            "whyItMatters": "The launch of Sky Bet's racing MBL is significant as it indicates the company's commitment to innovation and expansion in the iGaming market. This development may influence other companies to follow suit, leading to increased competition and growth in the industry.",
+            "howToUse": "Users can access the new MBL feature on Sky Bet's platform, exploring the various racing options and enhanced betting experiences. The feature is designed to be user-friendly, providing an immersive experience for racing fans.",
+            "beneficiaries": [
+                "Racing Enthusiasts",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Sky Bet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
