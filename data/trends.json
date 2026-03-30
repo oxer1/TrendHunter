@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T05:22:28.632Z",
+        "scanDate": "2026-03-30T07:23:45.749Z",
         "version": "2.5.0",
-        "totalTrends": 79,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -2409,37 +2409,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-wq5gyq1u5",
-            "title": "Gravity Series",
-            "subtitle": "ICONIC21's live casino product series with a multiplier layer",
-            "category": "iGaming",
-            "tags": [
-                "live casino",
-                "Gravity Series",
-                "ICONIC21"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/answering-the-questions-around-iconic21s-gravity-series/",
-                "date": "2026-03-16T07:00:00.000Z"
-            },
-            "whatsNew": "ICONIC21's Gravity Series introduces a multiplier layer to increase engagement, with Gravity Wheel as the headline release. The series is built around a core idea of using multipliers to enhance gameplay without breaking familiarity.",
-            "whyItMatters": "The Gravity Series has the potential to set a new standard in live casino product development, with operators actively seeking out the series. This approach could lead to increased engagement and revenue for operators.",
-            "howToUse": "Operators can leverage the Gravity Series to offer unique and engaging live casino experiences to their players, while developers can take note of the series' core idea and apply it to their own products.",
-            "beneficiaries": [
-                "live casino operators",
-                "game developers"
-            ],
-            "companies": [
-                "ICONIC21"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2576,7 +2545,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T05:22:28.632Z",
+            "lastScan": "2026-03-30T07:23:45.749Z",
             "note": null
         },
         {
@@ -2585,7 +2554,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T05:22:28.632Z",
+            "lastScan": "2026-03-30T07:23:45.749Z",
             "note": null
         },
         {
@@ -2594,7 +2563,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T05:22:28.632Z",
+            "lastScan": "2026-03-30T07:23:45.749Z",
             "note": null
         },
         {
@@ -2781,7 +2750,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T05:22:28.632Z",
+            "lastScan": "2026-03-30T07:23:45.749Z",
             "note": null
         },
         {
@@ -12933,6 +12902,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-wq5gyq1u5",
+            "title": "Gravity Series",
+            "subtitle": "ICONIC21's live casino product series with a multiplier layer",
+            "category": "iGaming",
+            "tags": [
+                "live casino",
+                "Gravity Series",
+                "ICONIC21"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/answering-the-questions-around-iconic21s-gravity-series/",
+                "date": "2026-03-16T07:00:00.000Z"
+            },
+            "whatsNew": "ICONIC21's Gravity Series introduces a multiplier layer to increase engagement, with Gravity Wheel as the headline release. The series is built around a core idea of using multipliers to enhance gameplay without breaking familiarity.",
+            "whyItMatters": "The Gravity Series has the potential to set a new standard in live casino product development, with operators actively seeking out the series. This approach could lead to increased engagement and revenue for operators.",
+            "howToUse": "Operators can leverage the Gravity Series to offer unique and engaging live casino experiences to their players, while developers can take note of the series' core idea and apply it to their own products.",
+            "beneficiaries": [
+                "live casino operators",
+                "game developers"
+            ],
+            "companies": [
+                "ICONIC21"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
