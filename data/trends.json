@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T10:59:50.542Z",
+        "scanDate": "2026-03-30T12:00:24.975Z",
         "version": "2.5.0",
-        "totalTrends": 79,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ry2e149wb",
@@ -2414,35 +2414,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-33on2s8h2",
-            "title": "March Madness Betting",
-            "subtitle": "AGA projects $3.3bn in legal March Madness betting for 2026",
-            "category": "iGaming",
-            "tags": [
-                "March Madness",
-                "Sports Betting",
-                "NCAA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/aga-projects-march-madness-betting-reach-3bn/",
-                "date": "2026-03-16T11:22:05.000Z"
-            },
-            "whatsNew": "The American Gaming Association (AGA) forecasts a significant increase in legal betting on the 2026 NCAA Division I March Madness basketball tournaments, reaching $3.3bn. This projection indicates a growing trend in legal sports betting in the US. The rise in legal betting is expected to continue as more states legalize and regulate sports wagering.",
-            "whyItMatters": "The projected $3.3bn in legal March Madness betting highlights the expanding US sports betting market and its potential for further growth. This trend is crucial for the iGaming industry, as it demonstrates increasing acceptance and participation in legal sports betting.",
-            "howToUse": "Operators can capitalize on this trend by offering competitive March Madness betting options and promotions, while ensuring compliance with regulatory requirements. Additionally, they can leverage data and analytics to enhance the betting experience and attract new customers.",
-            "beneficiaries": [
-                "Sportsbook Operators",
-                "Bettors"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2579,7 +2550,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T10:59:50.542Z",
+            "lastScan": "2026-03-30T12:00:24.975Z",
             "note": null
         },
         {
@@ -12997,6 +12968,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-33on2s8h2",
+            "title": "March Madness Betting",
+            "subtitle": "AGA projects $3.3bn in legal March Madness betting for 2026",
+            "category": "iGaming",
+            "tags": [
+                "March Madness",
+                "Sports Betting",
+                "NCAA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/aga-projects-march-madness-betting-reach-3bn/",
+                "date": "2026-03-16T11:22:05.000Z"
+            },
+            "whatsNew": "The American Gaming Association (AGA) forecasts a significant increase in legal betting on the 2026 NCAA Division I March Madness basketball tournaments, reaching $3.3bn. This projection indicates a growing trend in legal sports betting in the US. The rise in legal betting is expected to continue as more states legalize and regulate sports wagering.",
+            "whyItMatters": "The projected $3.3bn in legal March Madness betting highlights the expanding US sports betting market and its potential for further growth. This trend is crucial for the iGaming industry, as it demonstrates increasing acceptance and participation in legal sports betting.",
+            "howToUse": "Operators can capitalize on this trend by offering competitive March Madness betting options and promotions, while ensuring compliance with regulatory requirements. Additionally, they can leverage data and analytics to enhance the betting experience and attract new customers.",
+            "beneficiaries": [
+                "Sportsbook Operators",
+                "Bettors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
