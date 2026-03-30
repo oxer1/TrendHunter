@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T13:55:37.482Z",
+        "scanDate": "2026-03-30T15:01:24.519Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-56gtr967n",
@@ -81,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x1hu04oj8",
@@ -1538,35 +1538,6 @@
             "isNew": false
         },
         {
-            "id": "t-9lo7xs71h",
-            "title": "BAFTA Game Awards",
-            "subtitle": "Clair Obscur leads nominations with 12 nods, including Best Game",
-            "category": "Tech",
-            "tags": [
-                "BAFTA Game Awards",
-                "Clair Obscur",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/clair-obscur-and-dispatch-lead-bafta-game-awards-2026-nominations",
-                "date": "2026-03-16T14:28:50.000Z"
-            },
-            "whatsNew": "Clair Obscur: Expedition 33 received 12 nominations, Dispatch also a top contender. The awards highlight innovation in game development.",
-            "whyItMatters": "The BAFTA Game Awards recognize excellence in game development, influencing industry trends and player preferences. This year's nominations showcase emerging talent and innovative storytelling.",
-            "howToUse": "Game developers can draw inspiration from nominated titles, incorporating similar mechanics and storytelling techniques into their own projects.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gamers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-1i0d1wdlt",
             "title": "Allwyn Seeks M&A",
             "subtitle": "Allwyn is looking for new sportsbook M&A opportunities after the collapse of the Novibet deal",
@@ -2387,35 +2358,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-blkn1l1oi",
-            "title": "Massachusetts Penalties",
-            "subtitle": "Massachusetts issues penalties to sports betting operators for compliance failures",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Compliance",
-                "Sports Betting"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/massachusetts-issues-eight-penalties-five-operators/",
-                "date": "2026-03-16T14:24:30.000Z"
-            },
-            "whatsNew": "Massachusetts has approved eight civil administrative penalties against five sports betting operators. The penalties are due to compliance failures. This move indicates stricter regulation in the state.",
-            "whyItMatters": "The penalties highlight the importance of compliance in the sports betting industry. Operators must adhere to regulations to avoid fines and maintain their licenses.",
-            "howToUse": "Operators should review and ensure compliance with Massachusetts regulations to avoid similar penalties. Regular audits and compliance checks can help prevent fines.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliance Officers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2552,7 +2494,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T13:55:37.482Z",
+            "lastScan": "2026-03-30T15:01:24.519Z",
             "note": null
         },
         {
@@ -13060,6 +13002,64 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9lo7xs71h",
+            "title": "BAFTA Game Awards",
+            "subtitle": "Clair Obscur leads nominations with 12 nods, including Best Game",
+            "category": "Tech",
+            "tags": [
+                "BAFTA Game Awards",
+                "Clair Obscur",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/clair-obscur-and-dispatch-lead-bafta-game-awards-2026-nominations",
+                "date": "2026-03-16T14:28:50.000Z"
+            },
+            "whatsNew": "Clair Obscur: Expedition 33 received 12 nominations, Dispatch also a top contender. The awards highlight innovation in game development.",
+            "whyItMatters": "The BAFTA Game Awards recognize excellence in game development, influencing industry trends and player preferences. This year's nominations showcase emerging talent and innovative storytelling.",
+            "howToUse": "Game developers can draw inspiration from nominated titles, incorporating similar mechanics and storytelling techniques into their own projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-blkn1l1oi",
+            "title": "Massachusetts Penalties",
+            "subtitle": "Massachusetts issues penalties to sports betting operators for compliance failures",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Compliance",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/massachusetts-issues-eight-penalties-five-operators/",
+                "date": "2026-03-16T14:24:30.000Z"
+            },
+            "whatsNew": "Massachusetts has approved eight civil administrative penalties against five sports betting operators. The penalties are due to compliance failures. This move indicates stricter regulation in the state.",
+            "whyItMatters": "The penalties highlight the importance of compliance in the sports betting industry. Operators must adhere to regulations to avoid fines and maintain their licenses.",
+            "howToUse": "Operators should review and ensure compliance with Massachusetts regulations to avoid similar penalties. Regular audits and compliance checks can help prevent fines.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliance Officers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
