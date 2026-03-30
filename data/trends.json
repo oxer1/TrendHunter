@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T15:01:24.519Z",
+        "scanDate": "2026-03-30T16:53:40.294Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-n6jhzxkdi",
+            "title": "Elder Scrolls Blades",
+            "subtitle": "The Elder Scrolls: Blades free-to-play spinoff is shutting down on June 30, 2026",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Gaming News"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/free-to-play-spinoff-the-elder-scrolls-blades-is-being-shut-down",
+                "date": "2026-03-30T15:19:05.000Z"
+            },
+            "whatsNew": "The Elder Scrolls: Blades, a free-to-play spinoff, is being shut down. The game will be sunsetted on June 30, 2026. This move indicates a shift in focus for the series.",
+            "whyItMatters": "The shutdown of The Elder Scrolls: Blades may indicate a change in strategy for the series, potentially focusing on more successful titles or new projects. This could impact the gaming community and the future of the Elder Scrolls series.",
+            "howToUse": "Developers can learn from the shutdown by analyzing the game's shortcomings and applying those lessons to future projects. Fans of the series should look out for upcoming titles or updates to other Elder Scrolls games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Community"
+            ],
+            "companies": [
+                "Bethesda"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-ketwkf4b6",
             "title": "Virgin Bet Expands",
@@ -2494,7 +2524,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T15:01:24.519Z",
+            "lastScan": "2026-03-30T16:53:40.294Z",
             "note": null
         },
         {
