@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T02:10:36.908Z",
+        "scanDate": "2026-03-30T05:22:28.632Z",
         "version": "2.5.0",
-        "totalTrends": 80,
+        "totalTrends": 79,
         "categories": [
             "iGaming",
             "AI",
@@ -2440,37 +2440,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-5tk0o79dg",
-            "title": "Flux Character Replacer",
-            "subtitle": "Flux.2 Character replacer updates to v2.4, enhancing AI workflows on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Workflows",
-                "Character Replacer",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83ZjlubzN4QUwyWUJLQ3h3Mkt5RTBRTENiNjRjUlJ6ZTAxVzRJOHU3bzl6aV9KcjRfQXRTSTJVZFM4ZmJURDc5RzVvMzNqdktmZE9iN2dFOWR6MDNsSTNQXzVtd05iUkMwT3pyb1hpeTY?oc=5",
-                "date": "2026-03-16T03:17:28.000Z"
-            },
-            "whatsNew": "The Flux.2 Character replacer has been updated to version 2.4, offering improved functionality for AI-driven character replacement tasks. This update is part of the Flux2Klein_9B Workflows on Civitai, indicating ongoing development in AI tools for creative tasks.",
-            "whyItMatters": "This update matters because it reflects the growing importance of AI in streamlining creative workflows, particularly in character design and replacement. It also highlights Civitai's role in hosting and facilitating such innovations.",
-            "howToUse": "To leverage this update, users can access the Flux.2 Character replacer v2.4 through Civitai, integrating it into their existing AI workflows for enhanced character manipulation and design.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2607,7 +2576,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T02:10:36.908Z",
+            "lastScan": "2026-03-30T05:22:28.632Z",
             "note": null
         },
         {
@@ -2616,7 +2585,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T02:10:36.908Z",
+            "lastScan": "2026-03-30T05:22:28.632Z",
             "note": null
         },
         {
@@ -2625,7 +2594,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T02:10:36.908Z",
+            "lastScan": "2026-03-30T05:22:28.632Z",
             "note": null
         },
         {
@@ -2812,7 +2781,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T02:10:36.908Z",
+            "lastScan": "2026-03-30T05:22:28.632Z",
             "note": null
         },
         {
@@ -2911,7 +2880,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-29T05:09:11.605Z",
+            "lastScan": "2026-03-30T05:22:28.632Z",
             "note": null
         },
         {
@@ -12933,6 +12902,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-5tk0o79dg",
+            "title": "Flux Character Replacer",
+            "subtitle": "Flux.2 Character replacer updates to v2.4, enhancing AI workflows on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Character Replacer",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83ZjlubzN4QUwyWUJLQ3h3Mkt5RTBRTENiNjRjUlJ6ZTAxVzRJOHU3bzl6aV9KcjRfQXRTSTJVZFM4ZmJURDc5RzVvMzNqdktmZE9iN2dFOWR6MDNsSTNQXzVtd05iUkMwT3pyb1hpeTY?oc=5",
+                "date": "2026-03-16T03:17:28.000Z"
+            },
+            "whatsNew": "The Flux.2 Character replacer has been updated to version 2.4, offering improved functionality for AI-driven character replacement tasks. This update is part of the Flux2Klein_9B Workflows on Civitai, indicating ongoing development in AI tools for creative tasks.",
+            "whyItMatters": "This update matters because it reflects the growing importance of AI in streamlining creative workflows, particularly in character design and replacement. It also highlights Civitai's role in hosting and facilitating such innovations.",
+            "howToUse": "To leverage this update, users can access the Flux.2 Character replacer v2.4 through Civitai, integrating it into their existing AI workflows for enhanced character manipulation and design.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
