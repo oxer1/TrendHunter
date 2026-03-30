@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T09:09:09.076Z",
+        "scanDate": "2026-03-30T10:59:50.542Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 79,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-x1hu04oj8",
+            "title": "Kalshi Margin Trading",
+            "subtitle": "Kalshi secures NFA approval for margin trading, attracting institutional traders",
+            "category": "iGaming",
+            "tags": [
+                "Kalshi",
+                "NFA approval",
+                "margin trading"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/kalshi-secures-nfa-approval-margin-trading/",
+                "date": "2026-03-30T10:42:14.000Z"
+            },
+            "whatsNew": "Kalshi has secured NFA approval for the introduction of margin trading, a significant milestone. This move could make the platform more appealing to institutional traders. The approval indicates a growing interest in advanced trading features within the industry.",
+            "whyItMatters": "The introduction of margin trading can significantly enhance the trading experience for institutional traders, potentially leading to increased engagement and revenue. It also reflects the evolving regulatory landscape, accommodating more sophisticated trading practices.",
+            "howToUse": "Institutional traders can leverage Kalshi's new margin trading feature to amplify their trading capabilities, while the platform can attract a broader range of traders with this advanced feature.",
+            "beneficiaries": [
+                "Institutional traders",
+                "Kalshi"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-ry2e149wb",
             "title": "Yggdrasil Expands Italy",
@@ -51,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gq6uzjw6x",
@@ -2548,7 +2579,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T09:09:09.076Z",
+            "lastScan": "2026-03-30T10:59:50.542Z",
             "note": null
         },
         {
@@ -2557,7 +2588,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T09:09:09.076Z",
+            "lastScan": "2026-03-30T10:59:50.542Z",
             "note": null
         },
         {
