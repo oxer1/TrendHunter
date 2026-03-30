@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T17:52:44.376Z",
+        "scanDate": "2026-03-30T18:56:32.756Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -2356,38 +2356,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-6w59yp5jb",
-            "title": "SiGMA South America",
-            "subtitle": "Archives for BiS SiGMA South America 2026 available on NEXT.io",
-            "category": "iGaming",
-            "tags": [
-                "SiGMA",
-                "South America",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41UkV3YkN5WnJ2SDRSTllmY29yZF94V0Z4V2tQbFA3SF9OWXctUnVDaVhVRmdhdzcxcVNGLTFGODQzUnNVWU1zNWtpMHljRHhOalFuWUJfUnl0VzRKV3hZcnRESlY?oc=5",
-                "date": "2026-03-16T18:48:44.000Z"
-            },
-            "whatsNew": "The archives for BiS SiGMA South America 2026 are now available, providing insights into the latest trends and developments in the iGaming industry in South America. This event brings together key stakeholders to discuss regulatory changes, new technologies, and market opportunities. The archives offer a valuable resource for those looking to understand the current state of the iGaming market in the region.",
-            "whyItMatters": "The availability of these archives matters because it provides a comprehensive overview of the iGaming industry in South America, helping businesses and regulators alike to make informed decisions. It also highlights the growing importance of the region in the global iGaming landscape.",
-            "howToUse": "Industry professionals can use these archives to stay updated on the latest developments and trends in the South American iGaming market, and to identify potential opportunities for growth and collaboration.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Regulators",
-                "Industry analysts"
-            ],
-            "companies": [
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2524,7 +2492,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T17:52:44.376Z",
+            "lastScan": "2026-03-30T18:56:32.756Z",
             "note": null
         },
         {
@@ -13090,6 +13058,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-6w59yp5jb",
+            "title": "SiGMA South America",
+            "subtitle": "Archives for BiS SiGMA South America 2026 available on NEXT.io",
+            "category": "iGaming",
+            "tags": [
+                "SiGMA",
+                "South America",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41UkV3YkN5WnJ2SDRSTllmY29yZF94V0Z4V2tQbFA3SF9OWXctUnVDaVhVRmdhdzcxcVNGLTFGODQzUnNVWU1zNWtpMHljRHhOalFuWUJfUnl0VzRKV3hZcnRESlY?oc=5",
+                "date": "2026-03-16T18:48:44.000Z"
+            },
+            "whatsNew": "The archives for BiS SiGMA South America 2026 are now available, providing insights into the latest trends and developments in the iGaming industry in South America. This event brings together key stakeholders to discuss regulatory changes, new technologies, and market opportunities. The archives offer a valuable resource for those looking to understand the current state of the iGaming market in the region.",
+            "whyItMatters": "The availability of these archives matters because it provides a comprehensive overview of the iGaming industry in South America, helping businesses and regulators alike to make informed decisions. It also highlights the growing importance of the region in the global iGaming landscape.",
+            "howToUse": "Industry professionals can use these archives to stay updated on the latest developments and trends in the South American iGaming market, and to identify potential opportunities for growth and collaboration.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Regulators",
+                "Industry analysts"
+            ],
+            "companies": [
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
