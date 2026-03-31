@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-30T23:32:30.468Z",
+        "scanDate": "2026-03-31T02:06:32.857Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-n6yajk15z",
+            "title": "Gambling Losses Rise",
+            "subtitle": "UK university students show increased gambling losses",
+            "category": "iGaming",
+            "tags": [
+                "Gambling",
+                "University Students",
+                "UK"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/uk-study-gambling-losses-rising-university-students/",
+                "date": "2026-03-30T16:06:31.000Z"
+            },
+            "whatsNew": "A recent UK study reveals a significant increase in gambling losses among university students, indicating a deeper issue within this demographic. The survey highlights the need for awareness and intervention. University students are becoming more involved in gambling activities.",
+            "whyItMatters": "The rise in gambling losses among university students can have severe financial and mental health implications, emphasizing the need for educational institutions and gambling regulators to take action. This trend may lead to increased scrutiny of gambling laws and advertising targeting young adults.",
+            "howToUse": "Universities and gambling operators should collaborate to provide responsible gambling education and support services to students, while regulators should consider stricter advertising regulations to protect vulnerable demographics.",
+            "beneficiaries": [
+                "University Students",
+                "Gambling Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-9ym1bq400",
+            "title": "Next Gen Bettors",
+            "subtitle": "Altenar discusses the expectations of the new generation of sports bettors at NEXT Summit New York",
+            "category": "iGaming",
+            "tags": [
+                "sports betting",
+                "next generation",
+                "mobile-first"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/altenar-at-next-summit-new-york-2026/",
+                "date": "2026-03-30T15:35:56.000Z"
+            },
+            "whatsNew": "The next generation of bettors expects sports betting to match the standards of mobile-first, instant, and digital-native experiences. This generation has grown up with betting as part of the entertainment ecosystem, always mobile and never offline or slow.",
+            "whyItMatters": "Understanding the expectations of the next generation of bettors is crucial for the sports betting industry to adapt and provide matching experiences, ensuring continued growth and relevance.",
+            "howToUse": "Operators should focus on developing mobile-first, user-friendly platforms that offer instant and digital-native experiences to cater to the new generation of bettors.",
+            "beneficiaries": [
+                "sports betting operators",
+                "gaming industry professionals"
+            ],
+            "companies": [
+                "Altenar",
+                "Fanatics",
+                "Stokastic"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-n6jhzxkdi",
             "title": "Elder Scrolls Blades",
@@ -2492,7 +2554,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T23:32:30.468Z",
+            "lastScan": "2026-03-31T02:06:32.857Z",
             "note": null
         },
         {
@@ -2501,7 +2563,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T13:55:37.482Z",
+            "lastScan": "2026-03-31T02:06:32.857Z",
             "note": null
         },
         {
