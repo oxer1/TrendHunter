@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T17:55:14.134Z",
+        "scanDate": "2026-03-31T18:59:04.368Z",
         "version": "2.5.0",
-        "totalTrends": 74,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "visual-style-trends",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bnl898kf6",
@@ -2116,36 +2116,6 @@
             "isNew": false
         },
         {
-            "id": "t-3kv8av0os",
-            "title": "Brazil Bill Impact",
-            "subtitle": "Brazil proposes bill to ban loyalty programs and cashback in iGaming",
-            "category": "iGaming",
-            "tags": [
-                "Brazil",
-                "Regulation",
-                "Loyalty Programs",
-                "Cashback"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjlRRjhuV0VHY0hMaUxIb01Temw3T0ZGTHU4b3VXcXpJVnJsV3VoYzlIempwWHlzQ3YwNWNqb1JvcU1DZktodUVuSkVVVGtXZ1JEcm1vQjJLY2RrM0c1SFJsNG83ZHlWYmx5UkdwclIyNVVsV1h5dUp5bDFYYjdCbFBLTmE0dXVVcDZNV3hXaTc1UmdUSER4WjBfWDRRaURJclR3Z1hHcw?oc=5",
-                "date": "2026-03-17T18:19:11.000Z"
-            },
-            "whatsNew": "A new bill in Brazil aims to prohibit retention strategies by banning loyalty programmes and cashback offers in the iGaming industry. This move could significantly impact how operators engage with customers. The proposed legislation reflects a growing trend of stricter regulations in the sector.",
-            "whyItMatters": "The bill's potential passage could alter the competitive landscape of Brazil's iGaming market, affecting operators' ability to retain customers. It also underscores the increasing regulatory scrutiny of the industry globally.",
-            "howToUse": "Operators should review their customer engagement strategies to comply with potential changes and focus on innovative, regulation-compliant methods to attract and retain customers.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-m0di1862h",
             "title": "Game Dev Insight",
             "subtitle": "Improvisation drives authenticity in game development, as seen in Despelote",
@@ -2429,7 +2399,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T17:55:14.134Z",
+            "lastScan": "2026-03-31T18:59:04.368Z",
             "note": null
         },
         {
@@ -13365,6 +13335,36 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-3kv8av0os",
+            "title": "Brazil Bill Impact",
+            "subtitle": "Brazil proposes bill to ban loyalty programs and cashback in iGaming",
+            "category": "iGaming",
+            "tags": [
+                "Brazil",
+                "Regulation",
+                "Loyalty Programs",
+                "Cashback"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjlRRjhuV0VHY0hMaUxIb01Temw3T0ZGTHU4b3VXcXpJVnJsV3VoYzlIempwWHlzQ3YwNWNqb1JvcU1DZktodUVuSkVVVGtXZ1JEcm1vQjJLY2RrM0c1SFJsNG83ZHlWYmx5UkdwclIyNVVsV1h5dUp5bDFYYjdCbFBLTmE0dXVVcDZNV3hXaTc1UmdUSER4WjBfWDRRaURJclR3Z1hHcw?oc=5",
+                "date": "2026-03-17T18:19:11.000Z"
+            },
+            "whatsNew": "A new bill in Brazil aims to prohibit retention strategies by banning loyalty programmes and cashback offers in the iGaming industry. This move could significantly impact how operators engage with customers. The proposed legislation reflects a growing trend of stricter regulations in the sector.",
+            "whyItMatters": "The bill's potential passage could alter the competitive landscape of Brazil's iGaming market, affecting operators' ability to retain customers. It also underscores the increasing regulatory scrutiny of the industry globally.",
+            "howToUse": "Operators should review their customer engagement strategies to comply with potential changes and focus on innovative, regulation-compliant methods to attract and retain customers.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
