@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T10:04:46.695Z",
+        "scanDate": "2026-03-31T11:46:10.244Z",
         "version": "2.5.0",
         "totalTrends": 76,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0jc8yaxem",
+            "title": "Eidos Layoffs",
+            "subtitle": "Embracer Group lays off 124 employees at Eidos Montreal",
+            "category": "Tech",
+            "tags": [
+                "Eidos Montreal",
+                "Embracer Group",
+                "Layoffs"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/embracer-has-laid-off-124-employees-at-eidos-montreal",
+                "date": "2026-03-31T09:09:34.000Z"
+            },
+            "whatsNew": "Embracer Group has laid off 124 employees at Eidos Montreal, adding to the 300 roles cut since 2024. This move indicates a significant restructuring within the company. The layoffs may impact game development projects at the studio.",
+            "whyItMatters": "The layoffs at Eidos Montreal may affect the development and release of upcoming games, potentially altering the gaming landscape. This move also reflects the current state of the gaming industry, where companies are adapting to changing market conditions.",
+            "howToUse": "Game developers and industry professionals should monitor the situation and consider the potential implications for their own projects and partnerships. Companies can learn from Embracer Group's restructuring efforts to inform their own strategic decisions.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Embracer Group",
+                "Eidos Montreal"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-xj41ywz37",
             "title": "Pools CEO Resigns",
@@ -2268,37 +2300,6 @@
             "isNew": false
         },
         {
-            "id": "t-m5i22fmpl",
-            "title": "Allwyn New Director",
-            "subtitle": "Allwyn appoints a new director of games, as reported by igamingbusiness.com",
-            "category": "iGaming",
-            "tags": [
-                "Allwyn",
-                "New Appointment",
-                "iGaming"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU0bkVHLVU2MjAxLUh3T1JLRVh3ZUp5MFBaTktnc1lQLWc1UDVSc3lhMkdRd1dETDVidXk0dElWeDJlb2o1bnBMRGtCWUVPTlk1VTdyb2RzTV8wb2Yxa2dMZXo1Z05lcngxOWh0TWxscUhxT0ZJYWk1bEVra3g2UU9sRnI3WlZOZ1Zj?oc=5",
-                "date": "2026-03-17T10:48:54.000Z"
-            },
-            "whatsNew": "Allwyn has appointed a new director of games, indicating a potential shift in their gaming strategy. This move may lead to new game developments or changes in their existing portfolio. The appointment is a significant update in the iGaming industry.",
-            "whyItMatters": "The new appointment may impact Allwyn's game development and strategy, influencing the iGaming market. This change can lead to new opportunities or challenges for the company and its competitors.",
-            "howToUse": "Companies in the iGaming sector can monitor Allwyn's future developments and adjust their strategies accordingly. The appointment may also lead to new job opportunities or collaborations within the industry.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Game Developers"
-            ],
-            "companies": [
-                "Allwyn"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-s2gmkkyli",
             "title": "Battlefield 6 Game Feel",
             "subtitle": "Choreography enhances game feel in Battlefield 6",
@@ -2493,7 +2494,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T10:04:46.695Z",
+            "lastScan": "2026-03-31T11:46:10.244Z",
             "note": null
         },
         {
@@ -13245,6 +13246,37 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-m5i22fmpl",
+            "title": "Allwyn New Director",
+            "subtitle": "Allwyn appoints a new director of games, as reported by igamingbusiness.com",
+            "category": "iGaming",
+            "tags": [
+                "Allwyn",
+                "New Appointment",
+                "iGaming"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU0bkVHLVU2MjAxLUh3T1JLRVh3ZUp5MFBaTktnc1lQLWc1UDVSc3lhMkdRd1dETDVidXk0dElWeDJlb2o1bnBMRGtCWUVPTlk1VTdyb2RzTV8wb2Yxa2dMZXo1Z05lcngxOWh0TWxscUhxT0ZJYWk1bEVra3g2UU9sRnI3WlZOZ1Zj?oc=5",
+                "date": "2026-03-17T10:48:54.000Z"
+            },
+            "whatsNew": "Allwyn has appointed a new director of games, indicating a potential shift in their gaming strategy. This move may lead to new game developments or changes in their existing portfolio. The appointment is a significant update in the iGaming industry.",
+            "whyItMatters": "The new appointment may impact Allwyn's game development and strategy, influencing the iGaming market. This change can lead to new opportunities or challenges for the company and its competitors.",
+            "howToUse": "Companies in the iGaming sector can monitor Allwyn's future developments and adjust their strategies accordingly. The appointment may also lead to new job opportunities or collaborations within the industry.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Game Developers"
+            ],
+            "companies": [
+                "Allwyn"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
