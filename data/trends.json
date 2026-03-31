@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T13:12:18.800Z",
+        "scanDate": "2026-03-31T14:59:28.174Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-bnl898kf6",
+            "title": "Roblox Titles Acquired",
+            "subtitle": "An Emmy-winning animation studio buys rights to multiple Roblox titles for movie and TV development",
+            "category": "Tech",
+            "tags": [
+                "Roblox",
+                "Animation",
+                "Movie Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/an-emmy-winning-animation-studio-just-bought-the-rights-to-multiple-roblox-titles",
+                "date": "2026-03-31T14:38:31.000Z"
+            },
+            "whatsNew": "An Emmy-winning animation studio has acquired the rights to multiple Roblox titles, with plans to develop feature-length movies and television shows. This acquisition marks a significant move into the gaming space for the studio. The development of these titles is expected to bring new content to the Roblox platform.",
+            "whyItMatters": "This acquisition highlights the growing intersection of gaming and entertainment, with Roblox titles being adapted into mainstream media. It also demonstrates the increasing value of user-generated content in the gaming industry.",
+            "howToUse": "Game developers and studios can explore similar opportunities by creating engaging and adaptable content that can be leveraged across different platforms and media forms.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-4yq6tgutu",
             "title": "Rec Room Closes",
@@ -48,7 +77,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0jc8yaxem",
@@ -2402,7 +2431,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T13:12:18.800Z",
+            "lastScan": "2026-03-31T14:59:28.174Z",
             "note": null
         },
         {
@@ -2411,7 +2440,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T07:09:41.335Z",
+            "lastScan": "2026-03-31T14:59:28.174Z",
             "note": null
         },
         {
