@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T18:59:04.368Z",
+        "scanDate": "2026-03-31T19:57:07.619Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 71,
         "categories": [
             "iGaming",
             "AI",
@@ -2201,68 +2201,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-ujjacaaub",
-            "title": "Community Training",
-            "subtitle": "Games for Change introduces a training program for community professionals with major game industry partners",
-            "category": "Community",
-            "tags": [
-                "Games for Change",
-                "Community Development",
-                "Game Industry Partnerships"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/rachel-kowert-announces-evidence-based-leadership-certification-program",
-                "date": "2026-03-17T19:09:29.000Z"
-            },
-            "whatsNew": "Games for Change has launched a new training program aimed at community-facing professionals, focusing on skills development and community engagement. The program is backed by notable game industry companies. This initiative reflects a growing emphasis on community development within the gaming sector.",
-            "whyItMatters": "The program signifies a shift towards more community-centric approaches in the game development industry, highlighting the importance of trained professionals in fostering positive community interactions. This could lead to more inclusive and supportive gaming environments.",
-            "howToUse": "Community-facing professionals can leverage this program to enhance their skills in community engagement and development, potentially leading to more effective and positive community interactions within the gaming space.",
-            "beneficiaries": [
-                "Community Managers",
-                "Game Developers"
-            ],
-            "companies": [
-                "Riot Games",
-                "Roblox",
-                "Keywords Studios"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
-            "id": "t-s2gmkkyli",
-            "title": "Battlefield 6 Game Feel",
-            "subtitle": "Choreography enhances game feel in Battlefield 6",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Game Feel",
-                "Choreography"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/using-choreography-to-enhance-battlefield-6-s-game-feel",
-                "date": "2026-03-17T19:26:30.000Z"
-            },
-            "whatsNew": "The use of choreography in game development is a novel approach to enhance game feel. Jac Carlsson's background in dance choreography improved visual clarity and feedback in Battlefield 6. This approach can be applied to other games for better player experience.",
-            "whyItMatters": "This approach can lead to more engaging and immersive gaming experiences. It highlights the importance of interdisciplinary approaches in game development.",
-            "howToUse": "Game developers can explore incorporating choreography principles to enhance game feel and player engagement. They can experiment with new techniques to create more dynamic and responsive gameplay.",
-            "beneficiaries": [
-                "Game Developers",
-                "Game Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2399,7 +2337,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T18:59:04.368Z",
+            "lastScan": "2026-03-31T19:57:07.619Z",
             "note": null
         },
         {
@@ -13365,6 +13303,68 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-ujjacaaub",
+            "title": "Community Training",
+            "subtitle": "Games for Change introduces a training program for community professionals with major game industry partners",
+            "category": "Community",
+            "tags": [
+                "Games for Change",
+                "Community Development",
+                "Game Industry Partnerships"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/rachel-kowert-announces-evidence-based-leadership-certification-program",
+                "date": "2026-03-17T19:09:29.000Z"
+            },
+            "whatsNew": "Games for Change has launched a new training program aimed at community-facing professionals, focusing on skills development and community engagement. The program is backed by notable game industry companies. This initiative reflects a growing emphasis on community development within the gaming sector.",
+            "whyItMatters": "The program signifies a shift towards more community-centric approaches in the game development industry, highlighting the importance of trained professionals in fostering positive community interactions. This could lead to more inclusive and supportive gaming environments.",
+            "howToUse": "Community-facing professionals can leverage this program to enhance their skills in community engagement and development, potentially leading to more effective and positive community interactions within the gaming space.",
+            "beneficiaries": [
+                "Community Managers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Riot Games",
+                "Roblox",
+                "Keywords Studios"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-s2gmkkyli",
+            "title": "Battlefield 6 Game Feel",
+            "subtitle": "Choreography enhances game feel in Battlefield 6",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Game Feel",
+                "Choreography"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/using-choreography-to-enhance-battlefield-6-s-game-feel",
+                "date": "2026-03-17T19:26:30.000Z"
+            },
+            "whatsNew": "The use of choreography in game development is a novel approach to enhance game feel. Jac Carlsson's background in dance choreography improved visual clarity and feedback in Battlefield 6. This approach can be applied to other games for better player experience.",
+            "whyItMatters": "This approach can lead to more engaging and immersive gaming experiences. It highlights the importance of interdisciplinary approaches in game development.",
+            "howToUse": "Game developers can explore incorporating choreography principles to enhance game feel and player engagement. They can experiment with new techniques to create more dynamic and responsive gameplay.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
