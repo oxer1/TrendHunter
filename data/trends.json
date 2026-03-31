@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T16:10:31.915Z",
+        "scanDate": "2026-03-31T17:55:14.134Z",
         "version": "2.5.0",
         "totalTrends": 74,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-b5qrqhwm8",
+            "title": "Absolum Storytelling",
+            "subtitle": "Absolum's narrative serves its art direction, enhancing player engagement",
+            "category": "Art",
+            "tags": [
+                "Game Development",
+                "Narrative Design",
+                "Art Direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/what-happens-when-story-serves-art-direction-in-absolum-narrative-notebook-2",
+                "date": "2026-03-31T17:12:36.000Z"
+            },
+            "whatsNew": "Absolum's storytelling approach focuses on directing player attention to surroundings, showcasing innovative narrative techniques. This method enhances immersion and engagement. The game's art direction is deeply intertwined with its storytelling.",
+            "whyItMatters": "This approach can set a new standard for narrative-driven games, influencing how developers balance story and art direction. It highlights the importance of considering the player's perspective in game design.",
+            "howToUse": "Developers can apply this technique by prioritizing environmental storytelling and using narrative to guide the player's attention, creating a more immersive experience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
         {
             "id": "t-bnl898kf6",
             "title": "Roblox Titles Acquired",
@@ -722,37 +751,6 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
-            "id": "t-n7rc476pp",
-            "title": "Open Source Update",
-            "subtitle": "Hugging Face discusses the state of open source in Spring 2026",
-            "category": "AI",
-            "tags": [
-                "Open Source",
-                "Hugging Face",
-                "AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-                "date": "2026-03-17T16:37:55.000Z"
-            },
-            "whatsNew": "Hugging Face has released an update on the state of open source, highlighting recent developments and advancements in the field. The update covers new features, improvements, and community contributions. It also outlines the company's commitment to open source and its plans for future development.",
-            "whyItMatters": "The update is significant as it showcases the growth and evolution of open source in the AI community, with Hugging Face playing a key role. It also demonstrates the company's dedication to transparency and collaboration, which can benefit the broader AI ecosystem.",
-            "howToUse": "Developers and researchers can utilize the updated open source resources to build and improve their AI models, while also contributing to the community by sharing their own projects and expertise.",
-            "beneficiaries": [
-                "AI Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -2431,7 +2429,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T16:10:31.915Z",
+            "lastScan": "2026-03-31T17:55:14.134Z",
             "note": null
         },
         {
@@ -13336,6 +13334,37 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-n7rc476pp",
+            "title": "Open Source Update",
+            "subtitle": "Hugging Face discusses the state of open source in Spring 2026",
+            "category": "AI",
+            "tags": [
+                "Open Source",
+                "Hugging Face",
+                "AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+                "date": "2026-03-17T16:37:55.000Z"
+            },
+            "whatsNew": "Hugging Face has released an update on the state of open source, highlighting recent developments and advancements in the field. The update covers new features, improvements, and community contributions. It also outlines the company's commitment to open source and its plans for future development.",
+            "whyItMatters": "The update is significant as it showcases the growth and evolution of open source in the AI community, with Hugging Face playing a key role. It also demonstrates the company's dedication to transparency and collaboration, which can benefit the broader AI ecosystem.",
+            "howToUse": "Developers and researchers can utilize the updated open source resources to build and improve their AI models, while also contributing to the community by sharing their own projects and expertise.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
