@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T11:46:10.244Z",
+        "scanDate": "2026-03-31T13:12:18.800Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-4yq6tgutu",
+            "title": "Rec Room Closes",
+            "subtitle": "Rec Room shuts down due to unsustainable profitability",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Studio Closure"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/rec-room-shutting-down-after-failing-to-become-sustainability-profitable-",
+                "date": "2026-03-31T10:12:06.000Z"
+            },
+            "whatsNew": "Rec Room is shutting down after failing to achieve sustainable profitability. The studio's costs consistently outweighed its revenue.",
+            "whyItMatters": "The closure of Rec Room highlights the challenges faced by game development studios in achieving financial sustainability. It may impact the gaming industry's landscape and influence future development strategies.",
+            "howToUse": "Game developers can learn from Rec Room's experience by prioritizing cost management and revenue growth strategies to ensure sustainable profitability.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Rec Room"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-0jc8yaxem",
             "title": "Eidos Layoffs",
@@ -50,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xj41ywz37",
@@ -2209,97 +2239,6 @@
             "isNew": false
         },
         {
-            "id": "t-2xlpbhzc7",
-            "title": "UKGC New Appointment",
-            "subtitle": "UKGC appoints former HMRC tax expert to executive role, potentially impacting iGaming regulation",
-            "category": "iGaming",
-            "tags": [
-                "UKGC",
-                "Regulation",
-                "Appointment"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vaURhQ0xLWUxHOURWbzhIRUtkN0hPZ0JESkxqZEZ6bTdadEVJS3VUaVk4UThnNnFQbHlMTVFQc0ZxNHpidXlKLWZZaUVnUXpVN3ZpX1hrYUo5dTFjMHVSUFoyN2hYQjFrUmoxWDl5MEVFb00?oc=5",
-                "date": "2026-03-17T12:35:29.000Z"
-            },
-            "whatsNew": "The UKGC has appointed a former HMRC tax expert to an executive role, which may lead to changes in tax policies and regulations for the iGaming industry. This appointment could signal a shift in the UKGC's approach to taxation and compliance. The expert's experience in tax law may bring new insights to the regulatory body.",
-            "whyItMatters": "This appointment may impact the iGaming industry's regulatory landscape, particularly in regards to taxation and compliance. The expert's experience could lead to more effective regulation and enforcement.",
-            "howToUse": "iGaming operators should monitor the UKGC's regulatory updates and adjust their compliance strategies accordingly. They should also be prepared for potential changes in tax policies and regulations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "UKGC"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-nb9kdk4zj",
-            "title": "Sun International Expands",
-            "subtitle": "Sun International aims to double its online market share in South Africa",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Market Share",
-                "South Africa"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1VRNl92T0NqS1FoZHpaZmhrNWRzYWo5amhpMS13MjJJSGlGOEZYSEVTVHNVem5EeUx4WjdfeTljanJaLVVrWW9uQ1d1QTV4ZTBOQlRjNnVNTnIyLXFMWVB3YS03TjlrY3pkZTZXVnI2dzZPS1daeGIwZ1JQVUd3bjJ5QWdKLUxCNnVUOWw0c1JZRlk?oc=5",
-                "date": "2026-03-17T12:48:58.000Z"
-            },
-            "whatsNew": "Sun International plans to increase its online presence in South Africa, targeting a doubling of its current market share. This move indicates a growing interest in the South African online gaming market. The company's expansion strategy may involve new game offerings or enhanced online platforms.",
-            "whyItMatters": "This expansion could significantly impact the South African iGaming landscape, offering more options for local players and potentially increasing competition among operators. It also reflects the growing importance of online gaming in the region.",
-            "howToUse": "Operators looking to expand into the South African market should consider similar strategies, focusing on localized content and user experience. They should also be prepared to comply with local regulations and licensing requirements.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "South African Players"
-            ],
-            "companies": [
-                "Sun International"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-ncqkpqmzv",
-            "title": "Germany Black Market",
-            "subtitle": "Spending on Germany's black market reached €547 million in 2024, according to a GGL study.",
-            "category": "iGaming",
-            "tags": [
-                "Germany",
-                "Black Market",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXF6OEJlWmhsdkxxek5MZ3hheG1HVlI3LVhXTVNLcXZxcW45Q045aTlxM09RZ2pLMUNCOGhReW9JdDNBa00tNVVJenBVNHpjNzBJbW81V2FKQksxRkt5R3RiQXpURDZQOHZHbmpyN25mU2swSUVtdHU1TE5SczFubUJJRU1PUjJKZHdIaFZLVWRPWUlhd2tWVXMzV0R4VnJRX2daT2pSNE5qV3FBUGRzRUhtWGh5b3c?oc=5",
-                "date": "2026-03-17T13:09:03.000Z"
-            },
-            "whatsNew": "A recent study by GGL found that spending on Germany's black market reached €547 million in 2024. This indicates a significant issue with unregulated gaming in the country. The study highlights the need for stricter regulations and enforcement.",
-            "whyItMatters": "The large spending on the black market in Germany poses a threat to the regulated iGaming industry and the country's efforts to generate revenue through taxation. It also raises concerns about player protection and the potential for money laundering.",
-            "howToUse": "Operators and regulators can use this information to advocate for stricter regulations and enforcement to combat the black market and promote a safer, more regulated iGaming environment.",
-            "beneficiaries": [
-                "Regulators",
-                "iGaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-s2gmkkyli",
             "title": "Battlefield 6 Game Feel",
             "subtitle": "Choreography enhances game feel in Battlefield 6",
@@ -2326,37 +2265,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-ncc7b4ffk",
-            "title": "Visual Novel Success",
-            "subtitle": "Roger tops 100,000 sales worldwide, a milestone for solo developer TearyHand Studio",
-            "category": "Tech",
-            "tags": [
-                "Visual Novel",
-                "Game Development",
-                "Sales Milestone"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/visual-novel-and-roger-has-topped-100-000-sales-worldwide",
-                "date": "2026-03-17T12:25:19.000Z"
-            },
-            "whatsNew": "TearyHand Studio's visual novel Roger has achieved a significant sales milestone of over 100,000 copies sold worldwide. This success is notable for a solo developer. The game's popularity is a testament to the growing interest in visual novels.",
-            "whyItMatters": "The success of Roger demonstrates the potential for indie developers to achieve significant sales and recognition in the gaming industry. It also highlights the growing popularity of visual novels as a genre.",
-            "howToUse": "Developers can learn from TearyHand Studio's approach to creating engaging visual novels that resonate with players. They can also explore opportunities to create their own visual novels, leveraging the growing interest in this genre.",
-            "beneficiaries": [
-                "Indie Developers",
-                "Visual Novel Fans"
-            ],
-            "companies": [
-                "TearyHand Studio"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
             "isNew": false
         }
     ],
@@ -2494,7 +2402,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T11:46:10.244Z",
+            "lastScan": "2026-03-31T13:12:18.800Z",
             "note": null
         },
         {
@@ -13277,6 +13185,128 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2xlpbhzc7",
+            "title": "UKGC New Appointment",
+            "subtitle": "UKGC appoints former HMRC tax expert to executive role, potentially impacting iGaming regulation",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Regulation",
+                "Appointment"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vaURhQ0xLWUxHOURWbzhIRUtkN0hPZ0JESkxqZEZ6bTdadEVJS3VUaVk4UThnNnFQbHlMTVFQc0ZxNHpidXlKLWZZaUVnUXpVN3ZpX1hrYUo5dTFjMHVSUFoyN2hYQjFrUmoxWDl5MEVFb00?oc=5",
+                "date": "2026-03-17T12:35:29.000Z"
+            },
+            "whatsNew": "The UKGC has appointed a former HMRC tax expert to an executive role, which may lead to changes in tax policies and regulations for the iGaming industry. This appointment could signal a shift in the UKGC's approach to taxation and compliance. The expert's experience in tax law may bring new insights to the regulatory body.",
+            "whyItMatters": "This appointment may impact the iGaming industry's regulatory landscape, particularly in regards to taxation and compliance. The expert's experience could lead to more effective regulation and enforcement.",
+            "howToUse": "iGaming operators should monitor the UKGC's regulatory updates and adjust their compliance strategies accordingly. They should also be prepared for potential changes in tax policies and regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "UKGC"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-nb9kdk4zj",
+            "title": "Sun International Expands",
+            "subtitle": "Sun International aims to double its online market share in South Africa",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Market Share",
+                "South Africa"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1VRNl92T0NqS1FoZHpaZmhrNWRzYWo5amhpMS13MjJJSGlGOEZYSEVTVHNVem5EeUx4WjdfeTljanJaLVVrWW9uQ1d1QTV4ZTBOQlRjNnVNTnIyLXFMWVB3YS03TjlrY3pkZTZXVnI2dzZPS1daeGIwZ1JQVUd3bjJ5QWdKLUxCNnVUOWw0c1JZRlk?oc=5",
+                "date": "2026-03-17T12:48:58.000Z"
+            },
+            "whatsNew": "Sun International plans to increase its online presence in South Africa, targeting a doubling of its current market share. This move indicates a growing interest in the South African online gaming market. The company's expansion strategy may involve new game offerings or enhanced online platforms.",
+            "whyItMatters": "This expansion could significantly impact the South African iGaming landscape, offering more options for local players and potentially increasing competition among operators. It also reflects the growing importance of online gaming in the region.",
+            "howToUse": "Operators looking to expand into the South African market should consider similar strategies, focusing on localized content and user experience. They should also be prepared to comply with local regulations and licensing requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "South African Players"
+            ],
+            "companies": [
+                "Sun International"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ncqkpqmzv",
+            "title": "Germany Black Market",
+            "subtitle": "Spending on Germany's black market reached €547 million in 2024, according to a GGL study.",
+            "category": "iGaming",
+            "tags": [
+                "Germany",
+                "Black Market",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXF6OEJlWmhsdkxxek5MZ3hheG1HVlI3LVhXTVNLcXZxcW45Q045aTlxM09RZ2pLMUNCOGhReW9JdDNBa00tNVVJenBVNHpjNzBJbW81V2FKQksxRkt5R3RiQXpURDZQOHZHbmpyN25mU2swSUVtdHU1TE5SczFubUJJRU1PUjJKZHdIaFZLVWRPWUlhd2tWVXMzV0R4VnJRX2daT2pSNE5qV3FBUGRzRUhtWGh5b3c?oc=5",
+                "date": "2026-03-17T13:09:03.000Z"
+            },
+            "whatsNew": "A recent study by GGL found that spending on Germany's black market reached €547 million in 2024. This indicates a significant issue with unregulated gaming in the country. The study highlights the need for stricter regulations and enforcement.",
+            "whyItMatters": "The large spending on the black market in Germany poses a threat to the regulated iGaming industry and the country's efforts to generate revenue through taxation. It also raises concerns about player protection and the potential for money laundering.",
+            "howToUse": "Operators and regulators can use this information to advocate for stricter regulations and enforcement to combat the black market and promote a safer, more regulated iGaming environment.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ncc7b4ffk",
+            "title": "Visual Novel Success",
+            "subtitle": "Roger tops 100,000 sales worldwide, a milestone for solo developer TearyHand Studio",
+            "category": "Tech",
+            "tags": [
+                "Visual Novel",
+                "Game Development",
+                "Sales Milestone"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/visual-novel-and-roger-has-topped-100-000-sales-worldwide",
+                "date": "2026-03-17T12:25:19.000Z"
+            },
+            "whatsNew": "TearyHand Studio's visual novel Roger has achieved a significant sales milestone of over 100,000 copies sold worldwide. This success is notable for a solo developer. The game's popularity is a testament to the growing interest in visual novels.",
+            "whyItMatters": "The success of Roger demonstrates the potential for indie developers to achieve significant sales and recognition in the gaming industry. It also highlights the growing popularity of visual novels as a genre.",
+            "howToUse": "Developers can learn from TearyHand Studio's approach to creating engaging visual novels that resonate with players. They can also explore opportunities to create their own visual novels, leveraging the growing interest in this genre.",
+            "beneficiaries": [
+                "Indie Developers",
+                "Visual Novel Fans"
+            ],
+            "companies": [
+                "TearyHand Studio"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
