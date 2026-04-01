@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-01T02:14:37.476Z",
+        "scanDate": "2026-04-01T05:22:13.582Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pmj6jy70m",
+            "title": "William Hill Closures",
+            "subtitle": "William Hill to close 200 betting shops due to UK tax hikes",
+            "category": "iGaming",
+            "tags": [
+                "William Hill",
+                "UK Betting",
+                "Tax Hikes"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/william-hill-close-200-shops-24-may/",
+                "date": "2026-03-31T14:31:36.000Z"
+            },
+            "whatsNew": "William Hill is set to close 200 betting shops from 24 May, citing major tax hikes in the UK's Autumn Budget as the reason. This move is expected to impact the UK's betting landscape. The closures are part of a larger restructuring effort.",
+            "whyItMatters": "The closure of these shops will have a significant impact on the UK's betting industry, affecting both employees and customers. It also highlights the challenges faced by betting companies due to regulatory changes.",
+            "howToUse": "Betting companies should reassess their business strategies in light of changing regulations and tax environments. This includes exploring online platforms and optimizing retail operations.",
+            "beneficiaries": [
+                "Online Betting Platforms",
+                "Regulatory Consultants"
+            ],
+            "companies": [
+                "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-9qrr6ls2q",
             "title": "Sweden Gambling Update",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-b5qrqhwm8",
@@ -2366,7 +2397,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-01T02:14:37.476Z",
+            "lastScan": "2026-04-01T05:22:13.582Z",
             "note": null
         },
         {
@@ -2375,7 +2406,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-01T02:14:37.476Z",
+            "lastScan": "2026-04-01T05:22:13.582Z",
             "note": null
         },
         {
