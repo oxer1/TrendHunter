@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-01T15:02:15.723Z",
+        "scanDate": "2026-04-01T16:51:36.587Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,71 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-b2x341tjz",
+            "title": "Golden Tides Funding",
+            "subtitle": "Psychedelic Games receives $3.5M investment for MOBA Golden Tides",
+            "category": "Tech",
+            "tags": [
+                "MOBA",
+                "Gaming Investment",
+                "Psychedelic Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/krafton-flyquest-arbitrum-invest-3-5m-on-new-moba",
+                "date": "2026-04-01T15:49:14.000Z"
+            },
+            "whatsNew": "Psychedelic Games has secured a $3.5M investment from Krafton, Flyquest, and Arbitrum for its 4v4 MOBA Golden Tides. This investment is expected to support the game's development and launch. The game is a multiplayer online battle arena, a popular genre in the gaming industry.",
+            "whyItMatters": "This investment signifies the growing interest in MOBA games and the potential for new titles to attract significant funding. It also highlights the importance of strategic investments in the gaming industry.",
+            "howToUse": "Game developers can use this as an example of successful funding strategies, while investors can look into similar opportunities in the MOBA genre.",
+            "beneficiaries": [
+                "Game Developers",
+                "Investors"
+            ],
+            "companies": [
+                "Psychedelic Games",
+                "Krafton",
+                "Flyquest",
+                "Arbitrum"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-pi535clyd",
+            "title": "Nexon AI Innovation",
+            "subtitle": "Nexon chairman Patrick Soderlund implements company reset and AI integration to increase innovation and reduce coding time",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Game Development",
+                "Nexon"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-more-time-innovating-less-time-writing-code-arc-raiders-publisher-nexon-believes-ai-is-the-answer",
+                "date": "2026-04-01T14:07:19.000Z"
+            },
+            "whatsNew": "Nexon is integrating AI to reduce coding time and increase innovation. The company is also undergoing a reset, resulting in some project cancellations. This move is expected to liberate the workforce and allow for more creative focus.",
+            "whyItMatters": "The integration of AI in game development can significantly impact the efficiency and creativity of the workforce, allowing for more innovative and complex games to be developed. This move by Nexon can set a precedent for the industry.",
+            "howToUse": "Game developers can explore AI tools to automate repetitive coding tasks and focus on creative aspects of game development. Companies can also consider implementing AI-driven workflows to increase efficiency and innovation.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Nexon"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-gabp7i83t",
             "title": "Mikami Studio Acquired",
@@ -2369,7 +2434,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-01T15:02:15.723Z",
+            "lastScan": "2026-04-01T16:51:36.587Z",
             "note": null
         },
         {
