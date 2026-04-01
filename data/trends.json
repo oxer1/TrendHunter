@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-03-31T23:31:18.268Z",
+        "scanDate": "2026-04-01T02:14:37.476Z",
         "version": "2.5.0",
-        "totalTrends": 71,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9qrr6ls2q",
+            "title": "Sweden Gambling Update",
+            "subtitle": "Swedish market expansion has not increased problem gambling, according to a new report",
+            "category": "iGaming",
+            "tags": [
+                "Swedish market",
+                "problem gambling",
+                "online gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/bos-market-expansion-not-increased-problem-gambling/",
+                "date": "2026-03-31T14:58:11.000Z"
+            },
+            "whatsNew": "A new report by the Swedish Trade Association for Online Gambling indicates that problem gambling in Sweden has decreased. The report suggests that the expansion of the Swedish market has not led to an increase in problem gambling.",
+            "whyItMatters": "This report is significant as it provides insight into the impact of market expansion on problem gambling, which is a major concern for the iGaming industry. The findings can inform regulatory decisions and industry practices.",
+            "howToUse": "Operators and regulators can use this information to refine their responsible gaming strategies and ensure that market expansion does not compromise player protection.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-b5qrqhwm8",
             "title": "Absolum Storytelling",
@@ -2337,7 +2366,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T23:31:18.268Z",
+            "lastScan": "2026-04-01T02:14:37.476Z",
             "note": null
         },
         {
@@ -2346,7 +2375,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-31T14:59:28.174Z",
+            "lastScan": "2026-04-01T02:14:37.476Z",
             "note": null
         },
         {
