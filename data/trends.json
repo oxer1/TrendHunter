@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-01T13:15:59.267Z",
+        "scanDate": "2026-04-01T15:02:15.723Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -2233,35 +2233,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-v4f45t82b",
-            "title": "iGaming CFO Job",
-            "subtitle": "A Chief Financial Officer job is available in the iGaming industry in New Jersey",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Job Opening",
-                "New Jersey"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnRLYjI0MTdZY1MyQ096bEd4M1hKa2N5cUw2Q052em1UUTg3WHRsYXN5OTRlVlBTLXJrSGxNazVMYlNDT1k4WS13MWJsMUhvdk53andzU2x1dF9Cb2dpeXg5NmZUc051NzllOThRdmhKclZ3eDktTXpBZzFlcmlpUWoyOEdoNHhmdzEw?oc=5",
-                "date": "2026-03-18T13:46:40.000Z"
-            },
-            "whatsNew": "A new job opening for a Chief Financial Officer has been posted in the iGaming industry, indicating continued growth and demand for financial expertise in the sector. The job is based in New Jersey, highlighting the state's importance in the US iGaming market. This role may attract finance professionals looking to transition into the iGaming industry.",
-            "whyItMatters": "This job posting reflects the ongoing expansion of the iGaming industry, which requires skilled financial professionals to manage operations and ensure regulatory compliance. The availability of such roles can attract talent and contribute to the industry's further development.",
-            "howToUse": "Finance professionals interested in the iGaming industry can apply for this role, while companies can use this as an example of the types of positions needed to support their growth in the sector.",
-            "beneficiaries": [
-                "Finance Professionals",
-                "iGaming Companies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2398,7 +2369,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-01T13:15:59.267Z",
+            "lastScan": "2026-04-01T15:02:15.723Z",
             "note": null
         },
         {
@@ -13457,6 +13428,35 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-v4f45t82b",
+            "title": "iGaming CFO Job",
+            "subtitle": "A Chief Financial Officer job is available in the iGaming industry in New Jersey",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Job Opening",
+                "New Jersey"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnRLYjI0MTdZY1MyQ096bEd4M1hKa2N5cUw2Q052em1UUTg3WHRsYXN5OTRlVlBTLXJrSGxNazVMYlNDT1k4WS13MWJsMUhvdk53andzU2x1dF9Cb2dpeXg5NmZUc051NzllOThRdmhKclZ3eDktTXpBZzFlcmlpUWoyOEdoNHhmdzEw?oc=5",
+                "date": "2026-03-18T13:46:40.000Z"
+            },
+            "whatsNew": "A new job opening for a Chief Financial Officer has been posted in the iGaming industry, indicating continued growth and demand for financial expertise in the sector. The job is based in New Jersey, highlighting the state's importance in the US iGaming market. This role may attract finance professionals looking to transition into the iGaming industry.",
+            "whyItMatters": "This job posting reflects the ongoing expansion of the iGaming industry, which requires skilled financial professionals to manage operations and ensure regulatory compliance. The availability of such roles can attract talent and contribute to the industry's further development.",
+            "howToUse": "Finance professionals interested in the iGaming industry can apply for this role, while companies can use this as an example of the types of positions needed to support their growth in the sector.",
+            "beneficiaries": [
+                "Finance Professionals",
+                "iGaming Companies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
