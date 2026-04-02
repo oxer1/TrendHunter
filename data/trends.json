@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T02:02:35.880Z",
+        "scanDate": "2026-04-02T05:00:46.474Z",
         "version": "2.5.0",
-        "totalTrends": 74,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wpn0u12xc",
+            "title": "Robinhood Sues",
+            "subtitle": "Robinhood files lawsuit against Washington over prediction markets regulation",
+            "category": "iGaming",
+            "tags": [
+                "prediction markets",
+                "regulation",
+                "gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/robinhood-files-suit-washington-prediction-markets/",
+                "date": "2026-04-01T14:27:53.000Z"
+            },
+            "whatsNew": "Robinhood has filed a lawsuit in federal court in response to Washington's moves against prediction markets, highlighting the growing tension between these markets and gambling regulators. The lawsuit is a significant development in the ongoing debate over the regulation of prediction markets.",
+            "whyItMatters": "The outcome of this lawsuit could have significant implications for the future of prediction markets and online gambling, potentially setting a precedent for how these markets are regulated. It also underscores the challenges faced by companies operating in this space as they navigate complex and evolving regulatory landscapes.",
+            "howToUse": "Companies in the iGaming industry should closely monitor the outcome of this lawsuit and adjust their strategies accordingly, considering the potential impact on their operations and the broader regulatory environment.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [
+                "Robinhood"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-fd23exexy",
+            "title": "UK Tax Hike",
+            "subtitle": "New 40% online casino tax may cause a spiral effect in the UK gambling industry",
+            "category": "iGaming",
+            "tags": [
+                "UK Gambling",
+                "Tax Hike",
+                "Online Casino"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/uk-gambling-revenue-spiral-effect/",
+                "date": "2026-04-01T12:58:11.000Z"
+            },
+            "whatsNew": "A new 40% online casino tax has come into effect in the UK, potentially causing a spiral effect in the industry. This tax hike may lead to increased costs for operators and decreased revenue. The industry is bracing for impact as a result.",
+            "whyItMatters": "The tax hike may lead to significant changes in the UK gambling industry, affecting operators, players, and the overall market. It may also influence other countries' regulatory decisions.",
+            "howToUse": "Operators should review their business strategies and consider adjustments to mitigate the effects of the tax hike. Players should be aware of potential changes in the market and adjust their expectations accordingly.",
+            "beneficiaries": [
+                "Regulators",
+                "Government"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-3pn2s7l05",
             "title": "Alea Leads Brazil",
@@ -49,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p4zw8qrfm",
@@ -2438,7 +2498,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T02:02:35.880Z",
+            "lastScan": "2026-04-02T05:00:46.474Z",
             "note": null
         },
         {
@@ -2447,7 +2507,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T02:02:35.880Z",
+            "lastScan": "2026-04-02T05:00:46.474Z",
             "note": null
         },
         {
