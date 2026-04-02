@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T15:58:44.684Z",
+        "scanDate": "2026-04-02T17:02:37.669Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rqzpvxrd3",
+            "title": "Nexon Publishes Overwatch",
+            "subtitle": "Nexon partners with Blizzard for Korean Overwatch release",
+            "category": "iGaming",
+            "tags": [
+                "Overwatch",
+                "Nexon",
+                "Blizzard",
+                "Korea"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/nexon-agrees-to-publish-overwatch-in-korea",
+                "date": "2026-04-02T15:40:41.000Z"
+            },
+            "whatsNew": "Nexon has agreed to publish Overwatch in Korea, tailoring services for local players. This partnership aims to deliver a customized experience. The move is expected to boost the game's popularity in the region.",
+            "whyItMatters": "The partnership between Nexon and Blizzard signifies a strategic expansion into the Korean market, potentially increasing Overwatch's global player base. This deal may also set a precedent for future collaborations between Western game developers and Asian publishers.",
+            "howToUse": "Game developers can learn from this partnership by considering regional preferences when expanding into new markets. They should focus on tailoring their services to meet local demands and preferences.",
+            "beneficiaries": [
+                "Game Developers",
+                "Korean Players"
+            ],
+            "companies": [
+                "Nexon",
+                "Blizzard"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-pq41zbvk7",
+            "title": "The Last of Us",
+            "subtitle": "Naughty Dog's canceled multiplayer project was nearly complete after seven years of development",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Naughty Dog",
+                "The Last of Us"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/the-last-of-us-online-was-around-80-complete-when-naughty-dog-canceled-it",
+                "date": "2026-04-02T14:20:52.000Z"
+            },
+            "whatsNew": "The Last of Us Online was around 80% complete before its cancellation. The project's director spent seven years working on the multiplayer spinoff. The cancellation highlights the challenges and risks in game development.",
+            "whyItMatters": "The cancellation of The Last of Us Online shows the difficulties game developers face in bringing projects to fruition. It also underscores the importance of project management and resource allocation in the gaming industry.",
+            "howToUse": "Game developers can learn from Naughty Dog's experience by prioritizing project planning, setting realistic goals, and maintaining flexibility in their development process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Project Managers"
+            ],
+            "companies": [
+                "Naughty Dog"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-h9nxb8l65",
+            "title": "GDC Dev Insights",
+            "subtitle": "Developers share responses to industry challenges at GDC",
+            "category": "Community",
+            "tags": [
+                "GDC",
+                "Game Development",
+                "Industry Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/on-the-ground-at-gdc-how-are-devs-responding-to-industry-turmoil-",
+                "date": "2026-04-02T13:59:34.000Z"
+            },
+            "whatsNew": "Developers are discussing their strategies for navigating industry hardships at GDC. The event provides a platform for sharing experiences and solutions. Insights from the conference highlight the resilience of game developers.",
+            "whyItMatters": "Understanding how developers respond to industry challenges can inform strategies for innovation and growth. The collective response can shape the future of the gaming industry.",
+            "howToUse": "Attendees can apply the insights shared at GDC to their own development processes, fostering a community-driven approach to overcoming challenges.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-0lmogvwi5",
             "title": "Coffee Stain Closes",
@@ -2377,7 +2470,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T15:58:44.684Z",
+            "lastScan": "2026-04-02T17:02:37.669Z",
             "note": null
         },
         {
