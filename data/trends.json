@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T09:59:11.048Z",
+        "scanDate": "2026-04-02T10:59:17.873Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wpn0u12xc",
@@ -2362,37 +2362,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-2q6om1qba",
-            "title": "Playstack Success",
-            "subtitle": "Playstack achieves high hit ratio with published titles",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Publishing",
-                "Success Stories"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/balatro-publisher-playstack-has-a-hit-ratio-of-more-than-85-percent",
-                "date": "2026-03-19T10:57:39.000Z"
-            },
-            "whatsNew": "Playstack, the publisher of Balatro, has achieved a high hit ratio of over 85 percent with its published titles, including Abiotic Factor and VOID/BREAKER. This indicates a successful strategy in game selection and publishing. The company's success can be attributed to its keen eye for potential hits.",
-            "whyItMatters": "Playstack's high hit ratio is significant as it showcases the company's ability to identify and publish successful games, which can impact the game development industry as a whole. This success can also influence other publishers and developers to take note of Playstack's strategies.",
-            "howToUse": "Game developers and publishers can learn from Playstack's success by analyzing their game selection process and publishing strategies. By understanding what makes a game successful, developers can create more appealing titles and increase their chances of success.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Playstack"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2529,7 +2498,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T09:59:11.048Z",
+            "lastScan": "2026-04-02T10:59:17.873Z",
             "note": null
         },
         {
@@ -13673,6 +13642,37 @@
                 "Game Designers"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-2q6om1qba",
+            "title": "Playstack Success",
+            "subtitle": "Playstack achieves high hit ratio with published titles",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Publishing",
+                "Success Stories"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/balatro-publisher-playstack-has-a-hit-ratio-of-more-than-85-percent",
+                "date": "2026-03-19T10:57:39.000Z"
+            },
+            "whatsNew": "Playstack, the publisher of Balatro, has achieved a high hit ratio of over 85 percent with its published titles, including Abiotic Factor and VOID/BREAKER. This indicates a successful strategy in game selection and publishing. The company's success can be attributed to its keen eye for potential hits.",
+            "whyItMatters": "Playstack's high hit ratio is significant as it showcases the company's ability to identify and publish successful games, which can impact the game development industry as a whole. This success can also influence other publishers and developers to take note of Playstack's strategies.",
+            "howToUse": "Game developers and publishers can learn from Playstack's success by analyzing their game selection process and publishing strategies. By understanding what makes a game successful, developers can create more appealing titles and increase their chances of success.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Playstack"
+            ],
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
