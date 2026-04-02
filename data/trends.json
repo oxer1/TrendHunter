@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T13:06:54.093Z",
+        "scanDate": "2026-04-02T14:53:32.591Z",
         "version": "2.5.0",
-        "totalTrends": 74,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -2272,37 +2272,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-u6vcb5rwm",
-            "title": "Aggro Crab Success",
-            "subtitle": "Indie studio Aggro Crab shares lessons from shipping a multi-million seller after just a few months of production",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Indie Studio",
-                "Multi-million Seller"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/-text-is-evil-how-making-peak-changed-indie-studio-aggro-crab",
-                "date": "2026-03-19T14:00:00.000Z"
-            },
-            "whatsNew": "Aggro Crab's game Peak achieved massive success after a short production period, offering valuable insights for game developers. The studio's experience can inform strategies for rapid game development and release. Peak's success story highlights the potential for indie studios to achieve mainstream recognition.",
-            "whyItMatters": "The success of Peak and Aggro Crab's experience can inspire and guide other indie game developers in achieving similar success. It also underscores the importance of efficient game development and release strategies in the competitive gaming market.",
-            "howToUse": "Game developers can apply Aggro Crab's lessons by focusing on streamlined development processes, prioritizing key features, and leveraging effective marketing strategies to maximize their game's potential.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Game Development Studios"
-            ],
-            "companies": [
-                "Aggro Crab"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2439,7 +2408,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T13:06:54.093Z",
+            "lastScan": "2026-04-02T14:53:32.591Z",
             "note": null
         },
         {
@@ -13675,6 +13644,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-u6vcb5rwm",
+            "title": "Aggro Crab Success",
+            "subtitle": "Indie studio Aggro Crab shares lessons from shipping a multi-million seller after just a few months of production",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Indie Studio",
+                "Multi-million Seller"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/-text-is-evil-how-making-peak-changed-indie-studio-aggro-crab",
+                "date": "2026-03-19T14:00:00.000Z"
+            },
+            "whatsNew": "Aggro Crab's game Peak achieved massive success after a short production period, offering valuable insights for game developers. The studio's experience can inform strategies for rapid game development and release. Peak's success story highlights the potential for indie studios to achieve mainstream recognition.",
+            "whyItMatters": "The success of Peak and Aggro Crab's experience can inspire and guide other indie game developers in achieving similar success. It also underscores the importance of efficient game development and release strategies in the competitive gaming market.",
+            "howToUse": "Game developers can apply Aggro Crab's lessons by focusing on streamlined development processes, prioritizing key features, and leveraging effective marketing strategies to maximize their game's potential.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Game Development Studios"
+            ],
+            "companies": [
+                "Aggro Crab"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
