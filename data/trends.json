@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T14:53:32.591Z",
+        "scanDate": "2026-04-02T15:58:44.684Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -2091,37 +2091,6 @@
             "isNew": false
         },
         {
-            "id": "t-hu26hl4my",
-            "title": "Gen Z Gaming",
-            "subtitle": "Authenticity is key to making video games for Gen Z, according to Astrid Entertainment CEO",
-            "category": "Community",
-            "tags": [
-                "Gen Z",
-                "Game Development",
-                "Authenticity"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/marketing/to-make-video-games-for-gen-z-be-authentic",
-                "date": "2026-03-19T15:00:00.000Z"
-            },
-            "whatsNew": "Gen Z's changing attention and needs require game developers to adapt and be authentic. Astrid Entertainment CEO Sharon Tal Yguado emphasizes the importance of understanding this shift.",
-            "whyItMatters": "Understanding Gen Z's preferences is crucial for game developers to create engaging and relevant content. Authenticity is key to capturing this demographic's attention.",
-            "howToUse": "Developers should focus on creating authentic and relatable content that resonates with Gen Z's values and interests. This can be achieved by conducting thorough market research and incorporating feedback from this age group.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Astrid Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
             "id": "t-1i0d1wdlt",
             "title": "Allwyn Seeks M&A",
             "subtitle": "Allwyn is looking for new sportsbook M&A opportunities after the collapse of the Novibet deal",
@@ -2408,7 +2377,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T14:53:32.591Z",
+            "lastScan": "2026-04-02T15:58:44.684Z",
             "note": null
         },
         {
@@ -13675,6 +13644,37 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-hu26hl4my",
+            "title": "Gen Z Gaming",
+            "subtitle": "Authenticity is key to making video games for Gen Z, according to Astrid Entertainment CEO",
+            "category": "Community",
+            "tags": [
+                "Gen Z",
+                "Game Development",
+                "Authenticity"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/marketing/to-make-video-games-for-gen-z-be-authentic",
+                "date": "2026-03-19T15:00:00.000Z"
+            },
+            "whatsNew": "Gen Z's changing attention and needs require game developers to adapt and be authentic. Astrid Entertainment CEO Sharon Tal Yguado emphasizes the importance of understanding this shift.",
+            "whyItMatters": "Understanding Gen Z's preferences is crucial for game developers to create engaging and relevant content. Authenticity is key to capturing this demographic's attention.",
+            "howToUse": "Developers should focus on creating authentic and relatable content that resonates with Gen Z's values and interests. This can be achieved by conducting thorough market research and incorporating feedback from this age group.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Astrid Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
