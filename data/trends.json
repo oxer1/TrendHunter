@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T18:53:56.316Z",
+        "scanDate": "2026-04-02T19:49:27.869Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rqzpvxrd3",
@@ -2333,38 +2333,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-8e0hl9lr7",
-            "title": "Fortnite Returns",
-            "subtitle": "Fortnite is back on Google Play after Epic and Google settle their dispute",
-            "category": "Tech",
-            "tags": [
-                "Fortnite",
-                "Google Play",
-                "Epic Games"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/fortnite-back-on-google-play-worldwide-after-epic-and-google-settle",
-                "date": "2026-03-19T19:43:48.000Z"
-            },
-            "whatsNew": "Epic Games and Google have reached a settlement, allowing Fortnite to return to Google Play worldwide. The move comes after a federal court questioned the terms of their initial agreement. This resolution may set a precedent for future disputes between game developers and platform holders.",
-            "whyItMatters": "The return of Fortnite to Google Play is significant for both Epic Games and the gaming community, as it restores access to a major platform. This settlement may also impact how other game developers navigate disputes with platform holders.",
-            "howToUse": "Game developers can learn from Epic's experience, focusing on negotiating fair terms with platform holders to ensure wide accessibility of their games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gaming Community"
-            ],
-            "companies": [
-                "Epic Games",
-                "Google"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2501,7 +2469,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T18:53:56.316Z",
+            "lastScan": "2026-04-02T19:49:27.869Z",
             "note": null
         },
         {
@@ -13799,6 +13767,38 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-8e0hl9lr7",
+            "title": "Fortnite Returns",
+            "subtitle": "Fortnite is back on Google Play after Epic and Google settle their dispute",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Google Play",
+                "Epic Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-back-on-google-play-worldwide-after-epic-and-google-settle",
+                "date": "2026-03-19T19:43:48.000Z"
+            },
+            "whatsNew": "Epic Games and Google have reached a settlement, allowing Fortnite to return to Google Play worldwide. The move comes after a federal court questioned the terms of their initial agreement. This resolution may set a precedent for future disputes between game developers and platform holders.",
+            "whyItMatters": "The return of Fortnite to Google Play is significant for both Epic Games and the gaming community, as it restores access to a major platform. This settlement may also impact how other game developers navigate disputes with platform holders.",
+            "howToUse": "Game developers can learn from Epic's experience, focusing on negotiating fair terms with platform holders to ensure wide accessibility of their games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Community"
+            ],
+            "companies": [
+                "Epic Games",
+                "Google"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
