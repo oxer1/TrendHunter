@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T17:02:37.669Z",
+        "scanDate": "2026-04-02T18:53:56.316Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-szu9e4t1w",
+            "title": "Stormgate Offline Mode",
+            "subtitle": "Stormgate rushes to implement offline mode after losing server access",
+            "category": "Tech",
+            "tags": [
+                "Stormgate",
+                "Offline Mode",
+                "Server Access"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/stormgate-rushing-offline-mode-after-losing-server-access-to-an-ai-company",
+                "date": "2026-04-02T16:48:29.000Z"
+            },
+            "whatsNew": "Stormgate is working on an offline mode due to loss of server access. The team must patch this mode before the end of April when the server provider cuts access.",
+            "whyItMatters": "This development highlights the importance of having offline capabilities for games, ensuring continued player access despite server issues. It also underscores the challenges of relying on third-party server providers.",
+            "howToUse": "Game developers can learn from Stormgate's situation by prioritizing offline mode development and exploring redundant server solutions to mitigate similar risks.",
+            "beneficiaries": [
+                "Game Developers",
+                "Players"
+            ],
+            "companies": [
+                "Stormgate"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-rqzpvxrd3",
             "title": "Nexon Publishes Overwatch",
@@ -51,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pq41zbvk7",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-h9nxb8l65",
@@ -111,7 +142,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0lmogvwi5",
@@ -2470,7 +2501,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T17:02:37.669Z",
+            "lastScan": "2026-04-02T18:53:56.316Z",
             "note": null
         },
         {
