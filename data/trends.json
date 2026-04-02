@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T08:05:34.508Z",
+        "scanDate": "2026-04-02T09:59:11.048Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0lmogvwi5",
+            "title": "Coffee Stain Closes",
+            "subtitle": "Goat Simulator maker Coffee Stain shuts down Malmo studio with 17 employees",
+            "category": "Community",
+            "tags": [
+                "Studio Closure",
+                "Coffee Stain",
+                "Game Development"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/goat-simulator-maker-coffee-stain-shutters-malmo-studio",
+                "date": "2026-04-02T09:15:16.000Z"
+            },
+            "whatsNew": "Coffee Stain, the developer behind Goat Simulator, has closed its Malmo studio. The studio had 17 employees. This move may indicate a shift in the company's focus or restructuring.",
+            "whyItMatters": "The closure of the Malmo studio may impact the game development industry, particularly for those who follow Coffee Stain's projects. It could also signal changes in the company's strategy or priorities.",
+            "howToUse": "Developers and industry observers should monitor Coffee Stain's future announcements for insight into their strategy and potential new projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Coffee Stain"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-wpn0u12xc",
             "title": "Robinhood Sues",
@@ -2498,7 +2529,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T08:05:34.508Z",
+            "lastScan": "2026-04-02T09:59:11.048Z",
             "note": null
         },
         {
