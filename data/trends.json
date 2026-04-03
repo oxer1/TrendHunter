@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-03T17:32:12.459Z",
+        "scanDate": "2026-04-03T18:42:33.221Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -2278,35 +2278,6 @@
             "isNew": false
         },
         {
-            "id": "t-oefmck08o",
-            "title": "Thailand iGaming",
-            "subtitle": "Thailand's prime minister is involved in iGaming discussions",
-            "category": "iGaming",
-            "tags": [
-                "Thailand",
-                "iGaming",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uVl9uejRFRlJIQjBSbjBKR3g2bURCY0xrQWl2MU1fVl9Faml6cEFWRmU1U29GbEJ2bVF0ODVSNF9rSFdUcFl2SHZsekdCQU93RUFOX0VyY2RHTm5pNjNxVm8yWXFKN0k?oc=5",
-                "date": "2026-03-20T17:36:31.000Z"
-            },
-            "whatsNew": "Thailand's prime minister is taking an interest in the iGaming industry, potentially leading to regulatory changes. This could open up new markets for iGaming operators. The prime minister's involvement may also lead to increased scrutiny of the industry.",
-            "whyItMatters": "The prime minister's involvement could lead to significant changes in Thailand's iGaming regulations, impacting operators and players. This could also set a precedent for other countries in the region to re-examine their own iGaming laws.",
-            "howToUse": "Operators should monitor regulatory developments in Thailand and be prepared to adapt to potential changes. They should also consider the potential opportunities and challenges presented by the prime minister's involvement.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-eupl7ogb6",
             "title": "Bolivia Issues Licences",
             "subtitle": "Bolivia Gaming Control Authority issues over 1,200 licences in 2025",
@@ -2530,7 +2501,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-03T17:32:12.459Z",
+            "lastScan": "2026-04-03T18:42:33.221Z",
             "note": null
         },
         {
@@ -13980,6 +13951,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-oefmck08o",
+            "title": "Thailand iGaming",
+            "subtitle": "Thailand's prime minister is involved in iGaming discussions",
+            "category": "iGaming",
+            "tags": [
+                "Thailand",
+                "iGaming",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uVl9uejRFRlJIQjBSbjBKR3g2bURCY0xrQWl2MU1fVl9Faml6cEFWRmU1U29GbEJ2bVF0ODVSNF9rSFdUcFl2SHZsekdCQU93RUFOX0VyY2RHTm5pNjNxVm8yWXFKN0k?oc=5",
+                "date": "2026-03-20T17:36:31.000Z"
+            },
+            "whatsNew": "Thailand's prime minister is taking an interest in the iGaming industry, potentially leading to regulatory changes. This could open up new markets for iGaming operators. The prime minister's involvement may also lead to increased scrutiny of the industry.",
+            "whyItMatters": "The prime minister's involvement could lead to significant changes in Thailand's iGaming regulations, impacting operators and players. This could also set a precedent for other countries in the region to re-examine their own iGaming laws.",
+            "howToUse": "Operators should monitor regulatory developments in Thailand and be prepared to adapt to potential changes. They should also consider the potential opportunities and challenges presented by the prime minister's involvement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
