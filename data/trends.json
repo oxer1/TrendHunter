@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-03T15:37:40.484Z",
+        "scanDate": "2026-04-03T16:36:54.323Z",
         "version": "2.5.0",
         "totalTrends": 77,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-p4249su3h",
+            "title": "Take-Two AI Layoffs",
+            "subtitle": "Take-Two lays off head of AI and team members",
+            "category": "AI",
+            "tags": [
+                "Take-Two",
+                "AI Layoffs",
+                "Gaming Industry"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-take-two-lays-off-the-head-of-ai-and-unknown-number-of-team-members",
+                "date": "2026-04-03T14:20:24.000Z"
+            },
+            "whatsNew": "Take-Two has laid off the head of AI and multiple team members, indicating potential shifts in the company's AI strategy. The layoffs may impact the development of AI-powered games. This move could signal a change in the company's focus on AI integration.",
+            "whyItMatters": "The layoffs may affect the gaming industry's adoption of AI technology and could influence other companies' AI investment decisions. This change may also impact the development of future games that rely on AI.",
+            "howToUse": "Game developers should monitor Take-Two's future moves and adjust their own AI strategies accordingly. Companies can also learn from Take-Two's experience and reassess their AI investments.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Take-Two"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-j3bi4f4ae",
             "title": "Belgium Market Declines",
@@ -2363,35 +2394,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-ld02s7rci",
-            "title": "Crimson Desert Sales",
-            "subtitle": "Crimson Desert tops 2M sales within a day of release",
-            "category": "Tech",
-            "tags": [
-                "Game Sales",
-                "Crimson Desert",
-                "Gaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/crimson-desert-has-topped-2m-sales-within-a-day",
-                "date": "2026-03-20T16:16:49.000Z"
-            },
-            "whatsNew": "Crimson Desert has achieved 2 million sales in just one day, indicating a highly successful launch. The studio plans to make improvements based on player feedback. This shows the game's potential for further growth.",
-            "whyItMatters": "The rapid sales of Crimson Desert signify a strong market for new game releases, particularly those that can quickly adapt to player feedback. This can set a precedent for future game development strategies.",
-            "howToUse": "Game developers can learn from Crimson Desert's success by prioritizing post-launch feedback and updates to enhance player satisfaction and retention.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2528,7 +2530,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-03T15:37:40.484Z",
+            "lastScan": "2026-04-03T16:36:54.323Z",
             "note": null
         },
         {
@@ -13945,6 +13947,35 @@
             "beneficiaries": [
                 "Game Developers",
                 "Industry Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-ld02s7rci",
+            "title": "Crimson Desert Sales",
+            "subtitle": "Crimson Desert tops 2M sales within a day of release",
+            "category": "Tech",
+            "tags": [
+                "Game Sales",
+                "Crimson Desert",
+                "Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/crimson-desert-has-topped-2m-sales-within-a-day",
+                "date": "2026-03-20T16:16:49.000Z"
+            },
+            "whatsNew": "Crimson Desert has achieved 2 million sales in just one day, indicating a highly successful launch. The studio plans to make improvements based on player feedback. This shows the game's potential for further growth.",
+            "whyItMatters": "The rapid sales of Crimson Desert signify a strong market for new game releases, particularly those that can quickly adapt to player feedback. This can set a precedent for future game development strategies.",
+            "howToUse": "Game developers can learn from Crimson Desert's success by prioritizing post-launch feedback and updates to enhance player satisfaction and retention.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
             ],
             "companies": [],
             "visualStyle": null,
