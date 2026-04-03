@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-02T23:33:20.050Z",
+        "scanDate": "2026-04-03T02:04:09.823Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-f1uck8foj",
+            "title": "Kentucky Betting Reform",
+            "subtitle": "Kentucky lawmakers send sports betting reform bill to governor",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Regulation",
+                "Kentucky"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/kentucky-betting-reforms-sent-to-governor/",
+                "date": "2026-04-02T14:15:48.000Z"
+            },
+            "whatsNew": "The Kentucky legislature has passed a major sports betting and prediction markets reform bill, sending it to the governor for approval. This bill aims to reform the current betting landscape in Kentucky. The move is expected to expand betting opportunities in the state.",
+            "whyItMatters": "The reform bill has the potential to significantly impact the sports betting industry in Kentucky, providing more opportunities for operators and bettors alike. It also reflects a broader trend of states re-examining their betting laws and regulations.",
+            "howToUse": "Operators should prepare for potential changes in Kentucky's betting laws, while bettors should stay informed about the evolving landscape. Lawmakers and regulators can use this as a model for their own reform efforts.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Kentucky Bettors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-onazxrfco",
+            "title": "Altenar vs Sportradar",
+            "subtitle": "Altenar accuses Sportradar of blocking US market entry in lawsuit",
+            "category": "iGaming",
+            "tags": [
+                "Sportradar",
+                "Altenar",
+                "Antitrust lawsuit"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/altenar-files-us-lawsuit-against-sportradar/",
+                "date": "2026-04-02T12:23:02.000Z"
+            },
+            "whatsNew": "Altenar has filed an antitrust lawsuit against Sportradar, alleging the company is using its control over official league data to block competition in the US market. This lawsuit highlights the ongoing competition and regulatory challenges in the US sports betting market. The lawsuit's outcome could significantly impact the US sports betting landscape.",
+            "whyItMatters": "The lawsuit's outcome could have significant implications for the US sports betting market, potentially affecting how official league data is distributed and used by sports betting operators. This could lead to increased competition and innovation in the market.",
+            "howToUse": "Companies operating in the US sports betting market should closely monitor the lawsuit's progress and consider how the outcome could impact their operations and market strategy.",
+            "beneficiaries": [
+                "Sports betting operators",
+                "Regulatory bodies"
+            ],
+            "companies": [
+                "Altenar",
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-szu9e4t1w",
             "title": "Stormgate Offline Mode",
@@ -2469,7 +2530,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T23:33:20.051Z",
+            "lastScan": "2026-04-03T02:04:09.823Z",
             "note": null
         },
         {
@@ -2478,7 +2539,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-02T05:00:46.474Z",
+            "lastScan": "2026-04-03T02:04:09.823Z",
             "note": null
         },
         {
