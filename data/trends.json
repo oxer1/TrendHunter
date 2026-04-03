@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-03T14:03:45.365Z",
+        "scanDate": "2026-04-03T15:37:40.484Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -2392,35 +2392,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-a6k1abi2t",
-            "title": "GDC 2026 Wrap-up",
-            "subtitle": "A look back at the 2026 GDC Festival of Gaming",
-            "category": "Community",
-            "tags": [
-                "GDC",
-                "Gaming Festival",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/the-gdc-2026-wrap-up-show",
-                "date": "2026-03-20T14:30:00.000Z"
-            },
-            "whatsNew": "The 2026 GDC Festival of Gaming has concluded, with various highs in game development and innovation. The event likely featured new game releases, trends, and technologies. Attendees and speakers shared their insights and experiences.",
-            "whyItMatters": "The GDC Festival of Gaming is a significant event in the game development industry, showcasing the latest trends and innovations. It provides valuable insights for game developers, publishers, and industry professionals.",
-            "howToUse": "Game developers and industry professionals can learn from the GDC 2026 wrap-up by analyzing the trends and innovations presented at the event, and applying them to their own work.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Professionals"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2557,7 +2528,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-03T14:03:45.365Z",
+            "lastScan": "2026-04-03T15:37:40.484Z",
             "note": null
         },
         {
@@ -13949,6 +13920,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-a6k1abi2t",
+            "title": "GDC 2026 Wrap-up",
+            "subtitle": "A look back at the 2026 GDC Festival of Gaming",
+            "category": "Community",
+            "tags": [
+                "GDC",
+                "Gaming Festival",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/the-gdc-2026-wrap-up-show",
+                "date": "2026-03-20T14:30:00.000Z"
+            },
+            "whatsNew": "The 2026 GDC Festival of Gaming has concluded, with various highs in game development and innovation. The event likely featured new game releases, trends, and technologies. Attendees and speakers shared their insights and experiences.",
+            "whyItMatters": "The GDC Festival of Gaming is a significant event in the game development industry, showcasing the latest trends and innovations. It provides valuable insights for game developers, publishers, and industry professionals.",
+            "howToUse": "Game developers and industry professionals can learn from the GDC 2026 wrap-up by analyzing the trends and innovations presented at the event, and applying them to their own work.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
