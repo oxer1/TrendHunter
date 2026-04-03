@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-03T02:04:09.823Z",
+        "scanDate": "2026-04-03T05:02:57.160Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,95 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-j3bi4f4ae",
+            "title": "Belgium Market Declines",
+            "subtitle": "Belgium's regulated gambling market contracted in 2024, marking the first decline after years of expansion",
+            "category": "iGaming",
+            "tags": [
+                "Regulated Market",
+                "Gambling Decline",
+                "Belgium"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/belgiums-regulated-gambling-market-declines/",
+                "date": "2026-04-02T12:21:27.000Z"
+            },
+            "whatsNew": "Belgium's licensed gambling market experienced its first decline in 2024 after years of growth. The regulator's data suggests a contraction in the market.",
+            "whyItMatters": "This decline may impact the revenue of gambling operators and the overall iGaming industry in Belgium. It could also lead to changes in regulation or marketing strategies.",
+            "howToUse": "Operators should reassess their strategies in the Belgian market and consider adapting to the changing regulatory and consumer landscape.",
+            "beneficiaries": [
+                "Regulators",
+                "Gambling Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-ek1koeh1m",
+            "title": "1xBet Wins Award",
+            "subtitle": "1xBet participated in AGE Africa 2026 and won the African Sports Betting Operator of the Year award",
+            "category": "iGaming",
+            "tags": [
+                "1xBet",
+                "AGE Africa",
+                "African Sports Betting Operator"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/triumph-in-lagos-1xbet-participated-in-age-africa-2026-and-won-prestigious-award/",
+                "date": "2026-04-02T12:13:10.000Z"
+            },
+            "whatsNew": "1xBet was recognized for its contribution to the development of the iGaming industry in Africa, winning a prestigious award at AGE Africa 2026. The award ceremony highlighted industry leaders who have made significant contributions through bold ideas and digital transformation. 1xBet's win demonstrates its growing presence in the African market.",
+            "whyItMatters": "The award win showcases 1xBet's commitment to innovation and customer satisfaction in the African iGaming market, further solidifying its position as a key player in the region. This recognition can lead to increased brand loyalty and market share for 1xBet.",
+            "howToUse": "Operators can learn from 1xBet's success by focusing on digital transformation and innovative products to enhance the gaming experience for African customers. This can involve investing in localized content, user-friendly interfaces, and secure payment options.",
+            "beneficiaries": [
+                "iGaming operators",
+                "African gamers"
+            ],
+            "companies": [
+                "1xBet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-4gs8f7nd3",
+            "title": "Australia Limits Ads",
+            "subtitle": "Australia proposes new measures to control gambling by limiting harm",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Regulation",
+                "Australia",
+                "Advertising"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/australia-tightens-gambling-ad-rules/",
+                "date": "2026-04-02T10:50:06.000Z"
+            },
+            "whatsNew": "The Australian Government has proposed new measures to control gambling by limiting harm, including limiting gambling ads. Critics are split on the potential impact of these measures.",
+            "whyItMatters": "These new measures could significantly impact the iGaming industry in Australia, affecting how companies advertise and operate. The split among critics suggests uncertainty about the effectiveness of these reforms.",
+            "howToUse": "Companies operating in Australia should review and adapt their advertising strategies to comply with the proposed regulations, while also monitoring the ongoing debate about their impact.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Companies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-f1uck8foj",
             "title": "Kentucky Betting Reform",
@@ -47,7 +136,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-onazxrfco",
@@ -79,7 +168,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-szu9e4t1w",
@@ -2530,7 +2619,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-03T02:04:09.823Z",
+            "lastScan": "2026-04-03T05:02:57.160Z",
             "note": null
         },
         {
@@ -2539,7 +2628,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-03T02:04:09.823Z",
+            "lastScan": "2026-04-03T05:02:57.160Z",
             "note": null
         },
         {
