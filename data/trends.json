@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-04T01:56:42.839Z",
+        "scanDate": "2026-04-04T04:19:37.574Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-h6oetcch7",
+            "title": "Spribe Licence Lifted",
+            "subtitle": "UKGC lifts Spribe licence suspension, Aviator remains unavailable",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Spribe",
+                "Aviator",
+                "Licensing"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/aviator-ukgc-lifts-spribe-licence-suspension/",
+                "date": "2026-04-02T09:46:58.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has lifted the licence suspension of Spribe. However, the popular game Aviator remains unavailable.",
+            "whyItMatters": "The lifting of the suspension is a significant development for Spribe, but the continued unavailability of Aviator may impact player engagement.",
+            "howToUse": "Operators can now reintegrate Spribe's offerings, excluding Aviator, into their platforms.",
+            "beneficiaries": [
+                "Operators",
+                "Players"
+            ],
+            "companies": [
+                "Spribe",
+                "UKGC"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-p4249su3h",
             "title": "Take-Two AI Layoffs",
@@ -2501,7 +2534,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-04T01:56:42.839Z",
+            "lastScan": "2026-04-04T04:19:37.574Z",
             "note": null
         },
         {
@@ -2510,7 +2543,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-04T01:56:42.839Z",
+            "lastScan": "2026-04-04T04:19:37.574Z",
             "note": null
         },
         {
