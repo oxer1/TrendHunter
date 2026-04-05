@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-04T23:28:05.483Z",
+        "scanDate": "2026-04-05T02:09:53.754Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3jf4ug6nf",
+            "title": "Gamanza Partners",
+            "subtitle": "Gamanza Engage partners with Apuestas Royal to bring CRM and gamification tools to Latin America",
+            "category": "iGaming",
+            "tags": [
+                "Gamanza Engage",
+                "Apuestas Royal",
+                "CRM",
+                "Gamification"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/gamanza-engage-partners-with-apuestas-royal/",
+                "date": "2026-04-02T07:57:59.000Z"
+            },
+            "whatsNew": "Gamanza Engage has partnered with Apuestas Royal to provide CRM, gamification, and engagement tools. The partnership will cover five brands and include real-time CRM, loyalty, and gamification toolkit, as well as free-to-play mini-games.",
+            "whyItMatters": "This partnership will enhance player interaction and retention for Apuestas Royal, and demonstrates the growing importance of CRM and gamification in the iGaming industry.",
+            "howToUse": "Operators can leverage Gamanza Engage's tools to improve player engagement and loyalty, while developers can focus on creating more interactive and immersive experiences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Gamanza Engage",
+                "Apuestas Royal"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-h6oetcch7",
             "title": "Spribe Licence Lifted",
@@ -2534,7 +2567,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-04T23:28:05.483Z",
+            "lastScan": "2026-04-05T02:09:53.754Z",
             "note": null
         },
         {
@@ -2543,7 +2576,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-04T04:19:37.574Z",
+            "lastScan": "2026-04-05T02:09:53.754Z",
             "note": null
         },
         {
