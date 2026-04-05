@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-05T02:09:53.754Z",
+        "scanDate": "2026-04-05T05:10:06.759Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-x5wq8p7dg",
+            "title": "Alberta iGaming Market",
+            "subtitle": "Alberta's new regulated online gambling framework to open on July 13, 2026, with a focus on geolocation-led strategy for success",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Canada",
+                "Geolocation",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/a-geolocation-led-strategy-for-success/",
+                "date": "2026-04-01T12:53:20.000Z"
+            },
+            "whatsNew": "Alberta's new regulated online gambling framework will open on July 13, 2026, marking a significant shift away from its former single-operator model. GeoLocs, a geolocation platform, is well-positioned to support operators in the market.",
+            "whyItMatters": "The opening of Alberta's iGaming market presents a significant opportunity for operators, and a geolocation-led strategy is crucial for success. The market's competitive landscape and regulatory requirements make it essential for operators to partner with experienced providers like GeoLocs.",
+            "howToUse": "Operators should prioritize geolocation and compliance solutions to ensure a smooth entry into the Alberta market. Partnering with experienced providers like GeoLocs can help operators navigate the regulatory landscape and capitalize on the market's potential.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Geolocation Service Providers"
+            ],
+            "companies": [
+                "GeoLocs",
+                "mkodo"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-e1sd21y9c",
+            "title": "Sports Betting",
+            "subtitle": "Americans view sports prediction markets as a form of gambling, according to a new survey.",
+            "category": "iGaming",
+            "tags": [
+                "sports betting",
+                "prediction markets",
+                "gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/survey-americans-view-sports-prediction-markets-gambling/",
+                "date": "2026-04-01T12:25:29.000Z"
+            },
+            "whatsNew": "A recent survey shows that Americans are concerned about prediction markets and their connection to betting. The survey was commissioned by Gambling is Not Investing. The results indicate a growing awareness of the risks associated with sports prediction markets.",
+            "whyItMatters": "The survey's findings have significant implications for the sports betting industry, as they highlight the need for clearer regulations and distinctions between investing and gambling. This could lead to changes in how prediction markets are perceived and regulated.",
+            "howToUse": "Operators in the sports betting industry should take note of these findings and consider how they can better educate their users about the risks associated with prediction markets. This could involve implementing clearer guidelines and warnings.",
+            "beneficiaries": [
+                "sports betting operators",
+                "regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-3jf4ug6nf",
             "title": "Gamanza Partners",
@@ -51,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-h6oetcch7",
@@ -2567,7 +2629,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-05T02:09:53.754Z",
+            "lastScan": "2026-04-05T05:10:06.759Z",
             "note": null
         },
         {
@@ -2576,7 +2638,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-05T02:09:53.754Z",
+            "lastScan": "2026-04-05T05:10:06.759Z",
             "note": null
         },
         {
