@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-06T13:04:11.327Z",
+        "scanDate": "2026-04-06T14:43:41.812Z",
         "version": "2.5.0",
-        "totalTrends": 82,
+        "totalTrends": 83,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-718w7zgmq",
+            "title": "Storytelling Wins",
+            "subtitle": "Using storytelling to capture audience attention in games",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Storytelling",
+                "Player Engagement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-can-your-game-win-the-attention-war-focus-on-its-writing",
+                "date": "2026-04-06T13:56:24.000Z"
+            },
+            "whatsNew": "The article emphasizes the importance of storytelling in games to win the 'attention war'. It suggests that audiences are capable of nuance, implying that complex, engaging stories can be effective. This approach can set games apart in a crowded market.",
+            "whyItMatters": "Effective storytelling can significantly enhance player engagement and loyalty, leading to better game performance and reputation. By leveraging storytelling, game developers can differentiate their products and attract a dedicated audience.",
+            "howToUse": "Developers can incorporate nuanced storytelling into their games by focusing on character development, plot depth, and player choice. This can involve creating immersive narratives, memorable characters, and interactive story elements.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-xek7j7jfz",
             "title": "1win Wins Award",
@@ -2694,7 +2723,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-06T13:04:11.327Z",
+            "lastScan": "2026-04-06T14:43:41.812Z",
             "note": null
         },
         {
