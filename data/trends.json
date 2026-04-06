@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-05T23:31:12.174Z",
+        "scanDate": "2026-04-06T02:11:17.417Z",
         "version": "2.5.0",
-        "totalTrends": 80,
+        "totalTrends": 81,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-bm2hzzqlp",
+            "title": "SOFTSWISS Automation",
+            "subtitle": "SOFTSWISS introduces no-code automation tool for CRM and retention teams",
+            "category": "iGaming",
+            "tags": [
+                "SOFTSWISS",
+                "no-code automation",
+                "CRM"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-cuts-crm-overhead-with-built-in-no-code-automation/",
+                "date": "2026-04-01T09:32:19.000Z"
+            },
+            "whatsNew": "SOFTSWISS has launched Motion, a no-code workflow automation tool, to reduce CRM overhead and allow operators to launch bonus campaigns and manage player segmentation more efficiently. The tool minimizes the need for technical involvement in everyday workflows. This innovation enables operators to work faster and more independently.",
+            "whyItMatters": "The introduction of Motion by SOFTSWISS can significantly impact the iGaming industry by streamlining operations and enhancing customer retention through more efficient campaign management. It reduces the dependency on technical teams for routine tasks, allowing for more strategic focus.",
+            "howToUse": "Operators can utilize Motion to automate routine CRM tasks such as bonus issuance and player tagging, thereby reducing manual execution time and increasing the speed of campaign launches.",
+            "beneficiaries": [
+                "iGaming operators",
+                "CRM teams"
+            ],
+            "companies": [
+                "SOFTSWISS"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-x5wq8p7dg",
             "title": "Alberta iGaming Market",
@@ -2629,7 +2660,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-05T23:31:12.174Z",
+            "lastScan": "2026-04-06T02:11:17.417Z",
             "note": null
         },
         {
@@ -2638,7 +2669,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-05T05:10:06.759Z",
+            "lastScan": "2026-04-06T02:11:17.417Z",
             "note": null
         },
         {
