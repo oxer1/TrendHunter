@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-06T02:11:17.417Z",
+        "scanDate": "2026-04-06T05:21:47.890Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 83,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xek7j7jfz",
+            "title": "1win Wins Award",
+            "subtitle": "1win named Crypto Casino of the Year at BWIGA Awards",
+            "category": "iGaming",
+            "tags": [
+                "Crypto Casino",
+                "BWIGA Awards",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/1win-named-crypto-casino-of-the-year-and-takes-top-honors-at-bwiga/",
+                "date": "2026-04-01T08:38:20.000Z"
+            },
+            "whatsNew": "1win has been recognized as Crypto Casino of the Year, highlighting its influence in the global crypto iGaming ecosystem. The company also received awards for Best Affiliate Program and Best CMO. This acknowledges 1win's efforts in balancing entertainment and blockchain technology.",
+            "whyItMatters": "The award showcases 1win's growing presence in the crypto iGaming space and its commitment to innovative technologies. This recognition can impact the company's reputation and attract more users to its platform.",
+            "howToUse": "Operators in the iGaming industry can take note of 1win's approach to integrating blockchain technology and focus on creating user-friendly, crypto-friendly platforms to stay competitive.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Crypto Enthusiasts"
+            ],
+            "companies": [
+                "1win"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-w3v6t5hks",
+            "title": "Gemma 4 Released",
+            "subtitle": "Hugging Face introduces Gemma 4, a frontier multimodal intelligence model for on-device applications",
+            "category": "AI",
+            "tags": [
+                "Multimodal Intelligence",
+                "On-Device AI",
+                "Gemma 4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/gemma4",
+                "date": "2026-04-02T00:00:00.000Z"
+            },
+            "whatsNew": "Gemma 4 brings advanced multimodal capabilities to on-device applications, enabling more sophisticated AI interactions. This model is designed to process and generate multiple forms of data, such as text, images, and audio, directly on user devices. The release of Gemma 4 signifies a significant step forward in making AI more accessible and private.",
+            "whyItMatters": "Gemma 4's on-device capabilities enhance user privacy and reduce latency, making it a crucial development for applications requiring real-time, secure AI processing. This technology has the potential to revolutionize how AI is integrated into various products and services, especially in the creative and gaming industries.",
+            "howToUse": "Developers can leverage Gemma 4 by integrating it into their applications to enable multimodal interactions, enhancing user experience through more natural and intuitive interfaces. This can be particularly beneficial for game development and AI-assisted content creation tools.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers",
+                "App Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-bm2hzzqlp",
             "title": "SOFTSWISS Automation",
@@ -49,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x5wq8p7dg",
@@ -2660,7 +2723,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-06T02:11:17.417Z",
+            "lastScan": "2026-04-06T05:21:47.890Z",
             "note": null
         },
         {
@@ -2669,7 +2732,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-06T02:11:17.417Z",
+            "lastScan": "2026-04-06T05:21:47.890Z",
             "note": null
         },
         {
@@ -2678,7 +2741,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T07:23:45.749Z",
+            "lastScan": "2026-04-06T05:21:47.890Z",
             "note": null
         },
         {
@@ -2865,7 +2928,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T07:23:45.749Z",
+            "lastScan": "2026-04-06T05:21:47.890Z",
             "note": null
         },
         {
