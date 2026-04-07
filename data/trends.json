@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-07T10:12:09.976Z",
+        "scanDate": "2026-04-07T11:52:14.620Z",
         "version": "2.5.0",
-        "totalTrends": 82,
+        "totalTrends": 79,
         "categories": [
             "iGaming",
             "AI",
@@ -2372,66 +2372,6 @@
             "isNew": false
         },
         {
-            "id": "t-ynn88hlmm",
-            "title": "Australia Funds Games",
-            "subtitle": "Screen Australia supports local game developers with $1.4 million for 26 projects",
-            "category": "Community",
-            "tags": [
-                "Game Development",
-                "Funding",
-                "Australia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/screen-australia-hands-out-1-4-million-to-local-developers",
-                "date": "2026-03-24T10:25:41.000Z"
-            },
-            "whatsNew": "Screen Australia is providing $1.4 million to support 26 local game development projects. These projects focus on Australian stories and ideas, promoting local content creation.",
-            "whyItMatters": "This funding will help boost the Australian game development industry, encouraging the creation of unique and culturally relevant content. It also highlights the importance of government support for local game developers.",
-            "howToUse": "Local game developers can apply for funding to support their projects, while international developers can look into partnerships or collaborations with Australian studios to tap into this funding opportunity.",
-            "beneficiaries": [
-                "Local Game Developers",
-                "Australian Gaming Industry"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-20g0iokt8",
-            "title": "Gambling Normalized",
-            "subtitle": "Australian women think marketing and CSR campaigns have normalized gambling, according to a study",
-            "category": "iGaming",
-            "tags": [
-                "Gambling",
-                "Marketing",
-                "CSR",
-                "Australia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFpZVXZwRjMwZ2tvMFN5NjdMdjMyUzBlblV1SjRrLXRmUGxBWHdpUTBSYS1IVzFGbDRpeF9RTnpyTUZoc0NjUnRxVDFNNVJxTmVfRlgteEhQbEIyWmFrWHVvMFp2cTdPMjBoeWlPZFd0bDZvaEJrd0tadXB6Tkd1Rmhtc0lBRlBhVU5lckpBQkhKNEdPc3pjNUlRZmVwcXZDWHFUSG9TcXo3RmdrR08teHdTS3VwS3laTUFlTU5WVkNRc1BqYnJyd2c4UFdaUHBU?oc=5",
-                "date": "2026-03-24T11:52:08.000Z"
-            },
-            "whatsNew": "A study found that Australian women believe marketing and CSR campaigns have contributed to the normalization of gambling. This perception could impact the iGaming industry's approach to advertising and social responsibility. The study's findings may lead to changes in how gambling is marketed and regulated.",
-            "whyItMatters": "The normalization of gambling can have significant social and economic implications, and the iGaming industry must consider these concerns when developing marketing and CSR strategies. This study's findings may influence regulatory changes and industry practices.",
-            "howToUse": "iGaming companies should reassess their marketing and CSR campaigns to ensure they are not inadvertently normalizing gambling, and instead promote responsible gaming practices.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Regulators",
-                "Gambling Awareness Organizations"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-xyw62rmil",
             "title": "Philippines Targets Roblox",
             "subtitle": "Philippine authorities are targeting Roblox as part of a broader effort to combat gaming cybercrime.",
@@ -2523,40 +2463,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-1xtla8913",
-            "title": "Studios File Insolvency",
-            "subtitle": "French game studios Spiders, Kylotonn, and Cyanide face financial difficulties",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Insolvency",
-                "Nacon"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/french-studios-spiders-kylotonn-and-cyanide-have-filed-for-insolvency",
-                "date": "2026-03-24T11:14:21.000Z"
-            },
-            "whatsNew": "French studios Spiders, Kylotonn, and Cyanide have filed for insolvency due to financial difficulties. This comes after their parent company Nacon also filed for insolvency earlier this year.",
-            "whyItMatters": "The insolvency filings may impact the game development industry, potentially leading to job losses and project cancellations. This could also affect Nacon's ability to publish new games.",
-            "howToUse": "Game developers and publishers should monitor the situation and consider potential partnerships or collaborations with other studios to mitigate risks.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Nacon",
-                "Spiders",
-                "Kylotonn",
-                "Cyanide"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
             "isNew": false
         }
     ],
@@ -2694,7 +2600,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-07T10:12:09.976Z",
+            "lastScan": "2026-04-07T11:52:14.620Z",
             "note": null
         },
         {
@@ -14262,6 +14168,100 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-ynn88hlmm",
+            "title": "Australia Funds Games",
+            "subtitle": "Screen Australia supports local game developers with $1.4 million for 26 projects",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "Funding",
+                "Australia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/screen-australia-hands-out-1-4-million-to-local-developers",
+                "date": "2026-03-24T10:25:41.000Z"
+            },
+            "whatsNew": "Screen Australia is providing $1.4 million to support 26 local game development projects. These projects focus on Australian stories and ideas, promoting local content creation.",
+            "whyItMatters": "This funding will help boost the Australian game development industry, encouraging the creation of unique and culturally relevant content. It also highlights the importance of government support for local game developers.",
+            "howToUse": "Local game developers can apply for funding to support their projects, while international developers can look into partnerships or collaborations with Australian studios to tap into this funding opportunity.",
+            "beneficiaries": [
+                "Local Game Developers",
+                "Australian Gaming Industry"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-20g0iokt8",
+            "title": "Gambling Normalized",
+            "subtitle": "Australian women think marketing and CSR campaigns have normalized gambling, according to a study",
+            "category": "iGaming",
+            "tags": [
+                "Gambling",
+                "Marketing",
+                "CSR",
+                "Australia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFpZVXZwRjMwZ2tvMFN5NjdMdjMyUzBlblV1SjRrLXRmUGxBWHdpUTBSYS1IVzFGbDRpeF9RTnpyTUZoc0NjUnRxVDFNNVJxTmVfRlgteEhQbEIyWmFrWHVvMFp2cTdPMjBoeWlPZFd0bDZvaEJrd0tadXB6Tkd1Rmhtc0lBRlBhVU5lckpBQkhKNEdPc3pjNUlRZmVwcXZDWHFUSG9TcXo3RmdrR08teHdTS3VwS3laTUFlTU5WVkNRc1BqYnJyd2c4UFdaUHBU?oc=5",
+                "date": "2026-03-24T11:52:08.000Z"
+            },
+            "whatsNew": "A study found that Australian women believe marketing and CSR campaigns have contributed to the normalization of gambling. This perception could impact the iGaming industry's approach to advertising and social responsibility. The study's findings may lead to changes in how gambling is marketed and regulated.",
+            "whyItMatters": "The normalization of gambling can have significant social and economic implications, and the iGaming industry must consider these concerns when developing marketing and CSR strategies. This study's findings may influence regulatory changes and industry practices.",
+            "howToUse": "iGaming companies should reassess their marketing and CSR campaigns to ensure they are not inadvertently normalizing gambling, and instead promote responsible gaming practices.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Regulators",
+                "Gambling Awareness Organizations"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1xtla8913",
+            "title": "Studios File Insolvency",
+            "subtitle": "French game studios Spiders, Kylotonn, and Cyanide face financial difficulties",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Insolvency",
+                "Nacon"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/french-studios-spiders-kylotonn-and-cyanide-have-filed-for-insolvency",
+                "date": "2026-03-24T11:14:21.000Z"
+            },
+            "whatsNew": "French studios Spiders, Kylotonn, and Cyanide have filed for insolvency due to financial difficulties. This comes after their parent company Nacon also filed for insolvency earlier this year.",
+            "whyItMatters": "The insolvency filings may impact the game development industry, potentially leading to job losses and project cancellations. This could also affect Nacon's ability to publish new games.",
+            "howToUse": "Game developers and publishers should monitor the situation and consider potential partnerships or collaborations with other studios to mitigate risks.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Nacon",
+                "Spiders",
+                "Kylotonn",
+                "Cyanide"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
