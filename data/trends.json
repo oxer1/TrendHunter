@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-07T16:55:07.420Z",
+        "scanDate": "2026-04-07T17:57:09.467Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jfvq0bqei",
+            "title": "Overwatch Visual Update",
+            "subtitle": "Blizzard explains visual updates to Overwatch's Anran after community backlash",
+            "category": "Art",
+            "tags": [
+                "Overwatch",
+                "Visual Update",
+                "Game Art"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/blizzard-explains-the-visual-update-to-overwatch-character-anran",
+                "date": "2026-04-07T16:02:15.000Z"
+            },
+            "whatsNew": "Blizzard has made visual updates to Overwatch's Anran following community feedback. The updates aim to improve the character's design and address previous concerns.",
+            "whyItMatters": "The updates demonstrate Blizzard's commitment to community feedback and its impact on game development. This move may set a precedent for future character design changes in response to player input.",
+            "howToUse": "Game developers can take note of the importance of community engagement and incorporate player feedback into their design decisions to improve player satisfaction.",
+            "beneficiaries": [
+                "Game Developers",
+                "Overwatch Players"
+            ],
+            "companies": [
+                "Blizzard"
+            ],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
+        {
+            "id": "t-h977o25av",
+            "title": "Sony Acquires AI Firm",
+            "subtitle": "Sony acquires Cinemersive Labs to enhance gameplay visuals with machine learning",
+            "category": "AI",
+            "tags": [
+                "Machine Learning",
+                "Game Development",
+                "Visual Computing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/sony-to-acquire-machine-learning-company-cinemersive-labs",
+                "date": "2026-04-07T14:38:11.000Z"
+            },
+            "whatsNew": "Sony is acquiring Cinemersive Labs, a machine learning company, to improve gameplay visuals and rendering techniques. This acquisition will enable Sony to leverage machine learning for enhanced visual computing. The technology will be applied to create more realistic and engaging gameplay experiences.",
+            "whyItMatters": "The acquisition highlights the growing importance of AI in the gaming industry, particularly in enhancing visual quality and gameplay. This move is expected to give Sony a competitive edge in the market.",
+            "howToUse": "Game developers can utilize machine learning algorithms to create more realistic visuals and improve rendering techniques, leading to enhanced gameplay experiences. By integrating AI into their development pipelines, studios can stay ahead of the curve.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [
+                "Sony",
+                "Cinemersive Labs"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-5m2dpqizj",
             "title": "Musical RPG Design",
@@ -47,7 +110,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0ivwj6g7v",
@@ -2506,7 +2569,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-07T16:55:07.420Z",
+            "lastScan": "2026-04-07T17:57:09.467Z",
             "note": null
         },
         {
