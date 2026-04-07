@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-07T13:16:45.118Z",
+        "scanDate": "2026-04-07T15:05:47.382Z",
         "version": "2.5.0",
-        "totalTrends": 79,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -2341,129 +2341,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-514wucp5y",
-            "title": "Maryland Gambling",
-            "subtitle": "Maryland Senate reviews two gambling bills near deadline",
-            "category": "iGaming",
-            "tags": [
-                "Maryland",
-                "Gambling Bills",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/maryland-senate-two-gambling-bills-tight-deadline/",
-                "date": "2026-03-24T14:55:02.000Z"
-            },
-            "whatsNew": "The Maryland House has passed two gambling bills, which are now headed to the Senate for review. The bills are under a tight deadline for consideration.",
-            "whyItMatters": "The outcome of these bills could significantly impact the gambling industry in Maryland, affecting both operators and consumers. Regulatory changes can influence the overall iGaming landscape.",
-            "howToUse": "Operators should monitor the progress of these bills to prepare for potential regulatory changes, while consumers should be aware of how these changes might affect their gaming experiences.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Maryland Residents"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-xyw62rmil",
-            "title": "Philippines Targets Roblox",
-            "subtitle": "Philippine authorities are targeting Roblox as part of a broader effort to combat gaming cybercrime.",
-            "category": "iGaming",
-            "tags": [
-                "Roblox",
-                "Gaming Cybercrime",
-                "Philippines"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "iGB",
-                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkRSZTBnajlJVU12X0J1OEZMVmRVZTJrZXlSeG5QQXlBS3hScnR6bnlnM3hLWGFjWEdOZTBPd0owR0Q0LXIzeFUxZTM1Y0VpcWhjM2tlM1hGT2cxNlNwOXo0OEszQU4tcl9ITVMxMkRNZnZJYVlpTFlEN2w3RU1nVFVMZEJ0eXpBckxKVVRFNXlLUVlXNTVSX0wzZXhva0RHaTFIbWFmaVp4X1R0NnF1Zm1KYll4YTVBUHhWNE4yclU?oc=5",
-                "date": "2026-03-24T13:40:55.000Z"
-            },
-            "whatsNew": "The Philippine authorities' move against Roblox is part of a larger push to tackle cybercrime in the gaming sector. This effort highlights growing concerns over online safety and security. Regulatory actions are becoming more common in the gaming industry.",
-            "whyItMatters": "This development matters because it shows how governments are increasingly focusing on regulating online gaming platforms to prevent cybercrime. It could set a precedent for similar actions in other countries.",
-            "howToUse": "Gaming companies should review their security measures and ensure compliance with local regulations to avoid similar targeting. They should also be prepared for increased scrutiny from authorities.",
-            "beneficiaries": [
-                "Gaming Companies",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Roblox"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-5p7xy0r3l",
-            "title": "Epic Games Layoffs",
-            "subtitle": "Epic Games is cutting over 1,000 jobs despite Fortnite's success",
-            "category": "Tech",
-            "tags": [
-                "Epic Games",
-                "Fortnite",
-                "Job Cuts"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/fortnite-developer-epic-games-is-cutting-1-000-jobs",
-                "date": "2026-03-24T14:56:52.000Z"
-            },
-            "whatsNew": "Epic Games is laying off over 1,000 employees, a significant reduction in its workforce. This move comes despite the continued success of Fortnite, one of the most successful games globally. The layoffs indicate a shift in the company's strategy or response to market conditions.",
-            "whyItMatters": "The layoffs at Epic Games reflect broader trends in the gaming industry, where companies are adjusting to changing market conditions and consumer behaviors. This move could have implications for game development and the overall gaming ecosystem.",
-            "howToUse": "Game developers and industry observers should monitor such shifts in major gaming companies to understand the evolving landscape and potential opportunities or challenges. This could involve adapting strategies or exploring new markets.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Epic Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-bvdwyovpx",
-            "title": "Tencent AI Tools",
-            "subtitle": "Tencent's genAI animation tools technically impressive but lacking in fun factor for games",
-            "category": "AI",
-            "tags": [
-                "Tencent",
-                "genAI",
-                "animation tools",
-                "GDC"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-seem-to-make-games-more-fun",
-                "date": "2026-03-24T14:15:35.000Z"
-            },
-            "whatsNew": "Tencent showcased its generative AI tools at GDC, demonstrating technical capabilities in animation. However, the tools' ability to enhance gameplay remains uncertain. The focus is on the potential of AI in game development.",
-            "whyItMatters": "The integration of AI in game development could significantly impact the industry, but it must offer tangible benefits to developers and players. The fun factor and overall gaming experience are crucial for the success of AI-powered games.",
-            "howToUse": "Developers can explore Tencent's genAI tools for animation to potentially streamline their workflow and create more realistic graphics, but they should also consider the tools' limitations and the need for engaging gameplay.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Tencent"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2600,7 +2477,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-07T13:16:45.118Z",
+            "lastScan": "2026-04-07T15:05:47.382Z",
             "note": null
         },
         {
@@ -14262,6 +14139,129 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-514wucp5y",
+            "title": "Maryland Gambling",
+            "subtitle": "Maryland Senate reviews two gambling bills near deadline",
+            "category": "iGaming",
+            "tags": [
+                "Maryland",
+                "Gambling Bills",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/maryland-senate-two-gambling-bills-tight-deadline/",
+                "date": "2026-03-24T14:55:02.000Z"
+            },
+            "whatsNew": "The Maryland House has passed two gambling bills, which are now headed to the Senate for review. The bills are under a tight deadline for consideration.",
+            "whyItMatters": "The outcome of these bills could significantly impact the gambling industry in Maryland, affecting both operators and consumers. Regulatory changes can influence the overall iGaming landscape.",
+            "howToUse": "Operators should monitor the progress of these bills to prepare for potential regulatory changes, while consumers should be aware of how these changes might affect their gaming experiences.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Maryland Residents"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xyw62rmil",
+            "title": "Philippines Targets Roblox",
+            "subtitle": "Philippine authorities are targeting Roblox as part of a broader effort to combat gaming cybercrime.",
+            "category": "iGaming",
+            "tags": [
+                "Roblox",
+                "Gaming Cybercrime",
+                "Philippines"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "iGB",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkRSZTBnajlJVU12X0J1OEZMVmRVZTJrZXlSeG5QQXlBS3hScnR6bnlnM3hLWGFjWEdOZTBPd0owR0Q0LXIzeFUxZTM1Y0VpcWhjM2tlM1hGT2cxNlNwOXo0OEszQU4tcl9ITVMxMkRNZnZJYVlpTFlEN2w3RU1nVFVMZEJ0eXpBckxKVVRFNXlLUVlXNTVSX0wzZXhva0RHaTFIbWFmaVp4X1R0NnF1Zm1KYll4YTVBUHhWNE4yclU?oc=5",
+                "date": "2026-03-24T13:40:55.000Z"
+            },
+            "whatsNew": "The Philippine authorities' move against Roblox is part of a larger push to tackle cybercrime in the gaming sector. This effort highlights growing concerns over online safety and security. Regulatory actions are becoming more common in the gaming industry.",
+            "whyItMatters": "This development matters because it shows how governments are increasingly focusing on regulating online gaming platforms to prevent cybercrime. It could set a precedent for similar actions in other countries.",
+            "howToUse": "Gaming companies should review their security measures and ensure compliance with local regulations to avoid similar targeting. They should also be prepared for increased scrutiny from authorities.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Roblox"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-5p7xy0r3l",
+            "title": "Epic Games Layoffs",
+            "subtitle": "Epic Games is cutting over 1,000 jobs despite Fortnite's success",
+            "category": "Tech",
+            "tags": [
+                "Epic Games",
+                "Fortnite",
+                "Job Cuts"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-developer-epic-games-is-cutting-1-000-jobs",
+                "date": "2026-03-24T14:56:52.000Z"
+            },
+            "whatsNew": "Epic Games is laying off over 1,000 employees, a significant reduction in its workforce. This move comes despite the continued success of Fortnite, one of the most successful games globally. The layoffs indicate a shift in the company's strategy or response to market conditions.",
+            "whyItMatters": "The layoffs at Epic Games reflect broader trends in the gaming industry, where companies are adjusting to changing market conditions and consumer behaviors. This move could have implications for game development and the overall gaming ecosystem.",
+            "howToUse": "Game developers and industry observers should monitor such shifts in major gaming companies to understand the evolving landscape and potential opportunities or challenges. This could involve adapting strategies or exploring new markets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-bvdwyovpx",
+            "title": "Tencent AI Tools",
+            "subtitle": "Tencent's genAI animation tools technically impressive but lacking in fun factor for games",
+            "category": "AI",
+            "tags": [
+                "Tencent",
+                "genAI",
+                "animation tools",
+                "GDC"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-seem-to-make-games-more-fun",
+                "date": "2026-03-24T14:15:35.000Z"
+            },
+            "whatsNew": "Tencent showcased its generative AI tools at GDC, demonstrating technical capabilities in animation. However, the tools' ability to enhance gameplay remains uncertain. The focus is on the potential of AI in game development.",
+            "whyItMatters": "The integration of AI in game development could significantly impact the industry, but it must offer tangible benefits to developers and players. The fun factor and overall gaming experience are crucial for the success of AI-powered games.",
+            "howToUse": "Developers can explore Tencent's genAI tools for animation to potentially streamline their workflow and create more realistic graphics, but they should also consider the tools' limitations and the need for engaging gameplay.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Tencent"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
