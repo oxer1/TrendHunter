@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-08T02:07:42.286Z",
+        "scanDate": "2026-04-08T05:09:19.480Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-z59ekya7q",
+            "title": "UKGC Misleads",
+            "subtitle": "UKGC may have misled policymakers over problem gambling survey data",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Problem Gambling",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ukgc-misled-policymakers-problem-gambling-survey-data/",
+                "date": "2026-04-07T16:03:48.000Z"
+            },
+            "whatsNew": "A report by Regulus Partners claims the UKGC may have knowingly misrepresented findings of a major research study on problem gambling. This could have significant implications for policymaking in the iGaming industry.",
+            "whyItMatters": "The potential misrepresentation of data could lead to ineffective or misguided policies, impacting both the industry and those affected by problem gambling.",
+            "howToUse": "Industry stakeholders should closely monitor developments and ensure transparency in data reporting to maintain public trust.",
+            "beneficiaries": [
+                "Policymakers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "UKGC"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-hu58vqma0",
+            "title": "Sweepstakes Casino Ban",
+            "subtitle": "Maine Governor Janet Mills signs law banning online sweepstakes casinos",
+            "category": "iGaming",
+            "tags": [
+                "Sweepstakes Casino",
+                "Online Gaming",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/maine-governor-signs-sweepstakes-casino-ban/",
+                "date": "2026-04-07T14:28:31.000Z"
+            },
+            "whatsNew": "Maine has become the latest state to block sweepstake-based gaming with the Governor signing a law banning online sweepstakes casinos. This move follows similar actions by other states, indicating a growing trend towards stricter online gaming regulations.",
+            "whyItMatters": "The ban on sweepstakes casinos in Maine reflects a broader regulatory shift in the US, potentially impacting the operations of online gaming companies and shaping the future of the iGaming industry.",
+            "howToUse": "Operators should review and comply with the new regulations, while also exploring alternative, compliant gaming options for their users.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-jfvq0bqei",
             "title": "Overwatch Visual Update",
@@ -2569,7 +2629,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-08T02:07:42.286Z",
+            "lastScan": "2026-04-08T05:09:19.480Z",
             "note": null
         },
         {
@@ -2578,7 +2638,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-07T05:07:38.569Z",
+            "lastScan": "2026-04-08T05:09:19.480Z",
             "note": null
         },
         {
