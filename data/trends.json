@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-08T15:07:25.379Z",
+        "scanDate": "2026-04-08T16:58:26.540Z",
         "version": "2.5.0",
-        "totalTrends": 74,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2zo8w1dfx",
+            "title": "Indie Game Funding",
+            "subtitle": "Landfall's Evil Landfall publishing label to finance indie games with short development cycles",
+            "category": "Tech",
+            "tags": [
+                "Indie Games",
+                "Game Development",
+                "Publishing Label"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/peak-co-developer-landfall-might-finance-your-next-indie-game",
+                "date": "2026-04-08T15:28:17.000Z"
+            },
+            "whatsNew": "Landfall's new publishing label, Evil Landfall, is looking to invest in indie games with short development cycles, focusing on silly titles. This move indicates a growing interest in supporting unique and innovative game projects. The label's focus on short development cycles may lead to more experimental and creative games.",
+            "whyItMatters": "This development could lead to more opportunities for indie game developers to bring their ideas to life, potentially resulting in a surge of innovative and creative games. It may also signal a shift in the industry towards more experimental and niche titles.",
+            "howToUse": "Indie game developers can look into Evil Landfall's publishing label for potential funding opportunities, while gamers can expect a wider variety of unique and creative games in the future.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Landfall"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-z59ekya7q",
             "title": "UKGC Misleads",
@@ -2214,66 +2245,6 @@
             "isNew": false
         },
         {
-            "id": "t-l3yvd6upg",
-            "title": "UK Levy Unchanged",
-            "subtitle": "UK government decides not to increase Horserace Betting Levy rate",
-            "category": "iGaming",
-            "tags": [
-                "Horserace Betting Levy",
-                "UK Government",
-                "iGaming Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/uk-government-opts-not-increase-horserace-betting-levy/",
-                "date": "2026-03-25T16:48:43.000Z"
-            },
-            "whatsNew": "The UK government has concluded its review of the Horserace Betting Levy with no changes to the 10% rate. This decision follows a long-delayed review process.",
-            "whyItMatters": "The unchanged levy rate may impact the revenue of horse racing organizations and have implications for the UK's iGaming industry. It reflects the government's stance on betting taxation and its potential effects on the sector.",
-            "howToUse": "iGaming operators should be aware of the stable levy rate and its implications for their business operations and revenue projections in the UK market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Horse Racing Organizations"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-5o4h7vaah",
-            "title": "Fortnite Modes Ending",
-            "subtitle": "Fortnite Rocket Racing and other modes are being discontinued due to layoffs and restructuring",
-            "category": "Tech",
-            "tags": [
-                "Fortnite",
-                "Gaming",
-                "Layoffs"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/fortnite-rocket-racing-and-more-are-being-sunsetted-amidst-layoffs",
-                "date": "2026-03-25T16:20:35.000Z"
-            },
-            "whatsNew": "Epic Games is sunsetting several Fortnite modes, including Rocket Racing, and removing Horizon Chase games from download. This move comes amidst company layoffs.",
-            "whyItMatters": "The discontinuation of these modes and games reflects the current state of the gaming industry, where companies are streamlining their offerings and reducing staff to stay competitive.",
-            "howToUse": "Developers can learn from Epic's decision by reassessing their own game portfolios and focusing on the most popular and profitable titles.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Epic Games"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-pi7b63mk4",
             "title": "Crowdfunding Lessons",
             "subtitle": "Niina Fujioka shares experiences from a successful campaign for Stars Reach",
@@ -2439,7 +2410,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-08T15:07:25.379Z",
+            "lastScan": "2026-04-08T16:58:26.540Z",
             "note": null
         },
         {
@@ -14414,6 +14385,66 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-l3yvd6upg",
+            "title": "UK Levy Unchanged",
+            "subtitle": "UK government decides not to increase Horserace Betting Levy rate",
+            "category": "iGaming",
+            "tags": [
+                "Horserace Betting Levy",
+                "UK Government",
+                "iGaming Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/uk-government-opts-not-increase-horserace-betting-levy/",
+                "date": "2026-03-25T16:48:43.000Z"
+            },
+            "whatsNew": "The UK government has concluded its review of the Horserace Betting Levy with no changes to the 10% rate. This decision follows a long-delayed review process.",
+            "whyItMatters": "The unchanged levy rate may impact the revenue of horse racing organizations and have implications for the UK's iGaming industry. It reflects the government's stance on betting taxation and its potential effects on the sector.",
+            "howToUse": "iGaming operators should be aware of the stable levy rate and its implications for their business operations and revenue projections in the UK market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Horse Racing Organizations"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-5o4h7vaah",
+            "title": "Fortnite Modes Ending",
+            "subtitle": "Fortnite Rocket Racing and other modes are being discontinued due to layoffs and restructuring",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Gaming",
+                "Layoffs"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/fortnite-rocket-racing-and-more-are-being-sunsetted-amidst-layoffs",
+                "date": "2026-03-25T16:20:35.000Z"
+            },
+            "whatsNew": "Epic Games is sunsetting several Fortnite modes, including Rocket Racing, and removing Horizon Chase games from download. This move comes amidst company layoffs.",
+            "whyItMatters": "The discontinuation of these modes and games reflects the current state of the gaming industry, where companies are streamlining their offerings and reducing staff to stay competitive.",
+            "howToUse": "Developers can learn from Epic's decision by reassessing their own game portfolios and focusing on the most popular and profitable titles.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Epic Games"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
