@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-08T11:53:20.163Z",
+        "scanDate": "2026-04-08T13:15:36.267Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -2243,36 +2243,6 @@
             "isNew": false
         },
         {
-            "id": "t-vlijjp7cj",
-            "title": "Collegiate Gambling",
-            "subtitle": "University of Mississippi introduces new Centre on Collegiate Gambling to study college-level gambling",
-            "category": "iGaming",
-            "tags": [
-                "Collegiate Gambling",
-                "University of Mississippi",
-                "Gambling Study"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/university-mississippi-introduces-centre-collegiate-gambling/",
-                "date": "2026-03-25T12:45:38.000Z"
-            },
-            "whatsNew": "The University of Mississippi has launched a new center to study gambling at the college level, focusing on its impact and implications. This center aims to provide insights into collegiate gambling behaviors and patterns. The establishment of this center reflects growing concerns about gambling among college students.",
-            "whyItMatters": "The center's research could inform policies and programs to address problem gambling among college students, ultimately contributing to a safer and more responsible gambling environment. This initiative may also encourage other institutions to follow suit, leading to a broader understanding of collegiate gambling.",
-            "howToUse": "Institutions and policymakers can utilize the research and findings from the center to develop targeted interventions and support services for students struggling with gambling issues. By collaborating with the center, stakeholders can work towards creating a more supportive and informed community.",
-            "beneficiaries": [
-                "College Students",
-                "Policymakers",
-                "Gambling Researchers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-5o4h7vaah",
             "title": "Fortnite Modes Ending",
             "subtitle": "Fortnite Rocket Racing and other modes are being discontinued due to layoffs and restructuring",
@@ -2500,7 +2470,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-08T11:53:20.163Z",
+            "lastScan": "2026-04-08T13:15:36.267Z",
             "note": null
         },
         {
@@ -14414,6 +14384,36 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-vlijjp7cj",
+            "title": "Collegiate Gambling",
+            "subtitle": "University of Mississippi introduces new Centre on Collegiate Gambling to study college-level gambling",
+            "category": "iGaming",
+            "tags": [
+                "Collegiate Gambling",
+                "University of Mississippi",
+                "Gambling Study"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/university-mississippi-introduces-centre-collegiate-gambling/",
+                "date": "2026-03-25T12:45:38.000Z"
+            },
+            "whatsNew": "The University of Mississippi has launched a new center to study gambling at the college level, focusing on its impact and implications. This center aims to provide insights into collegiate gambling behaviors and patterns. The establishment of this center reflects growing concerns about gambling among college students.",
+            "whyItMatters": "The center's research could inform policies and programs to address problem gambling among college students, ultimately contributing to a safer and more responsible gambling environment. This initiative may also encourage other institutions to follow suit, leading to a broader understanding of collegiate gambling.",
+            "howToUse": "Institutions and policymakers can utilize the research and findings from the center to develop targeted interventions and support services for students struggling with gambling issues. By collaborating with the center, stakeholders can work towards creating a more supportive and informed community.",
+            "beneficiaries": [
+                "College Students",
+                "Policymakers",
+                "Gambling Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
