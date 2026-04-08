@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-08T16:58:26.540Z",
+        "scanDate": "2026-04-08T18:09:22.618Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-z59ekya7q",
@@ -2243,37 +2243,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-pi7b63mk4",
-            "title": "Crowdfunding Lessons",
-            "subtitle": "Niina Fujioka shares experiences from a successful campaign for Stars Reach",
-            "category": "Community",
-            "tags": [
-                "Crowdfunding",
-                "Game Development",
-                "Stars Reach"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/marketing/important-lessons-from-running-a-successful-video-game-crowdfunding-campaign",
-                "date": "2026-03-25T17:30:00.000Z"
-            },
-            "whatsNew": "Niina Fujioka from Playable Worlds, Inc. discusses key takeaways from running a successful crowdfunding campaign for the game Stars Reach. The campaign's success highlights the importance of community engagement and strategic planning. Fujioka's insights can help other developers navigate the crowdfunding process.",
-            "whyItMatters": "The lessons learned from this campaign can help game developers better understand how to engage with their audience and secure funding for their projects. This knowledge can be crucial for the success of independent game studios.",
-            "howToUse": "Developers can apply these lessons by focusing on building a strong community and creating a compelling pitch for their game. They should also be prepared to adapt their strategy based on feedback from backers.",
-            "beneficiaries": [
-                "Game Developers",
-                "Crowdfunding Platforms"
-            ],
-            "companies": [
-                "Playable Worlds, Inc"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2410,7 +2379,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-08T16:58:26.540Z",
+            "lastScan": "2026-04-08T18:09:22.619Z",
             "note": null
         },
         {
@@ -14445,6 +14414,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-pi7b63mk4",
+            "title": "Crowdfunding Lessons",
+            "subtitle": "Niina Fujioka shares experiences from a successful campaign for Stars Reach",
+            "category": "Community",
+            "tags": [
+                "Crowdfunding",
+                "Game Development",
+                "Stars Reach"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/marketing/important-lessons-from-running-a-successful-video-game-crowdfunding-campaign",
+                "date": "2026-03-25T17:30:00.000Z"
+            },
+            "whatsNew": "Niina Fujioka from Playable Worlds, Inc. discusses key takeaways from running a successful crowdfunding campaign for the game Stars Reach. The campaign's success highlights the importance of community engagement and strategic planning. Fujioka's insights can help other developers navigate the crowdfunding process.",
+            "whyItMatters": "The lessons learned from this campaign can help game developers better understand how to engage with their audience and secure funding for their projects. This knowledge can be crucial for the success of independent game studios.",
+            "howToUse": "Developers can apply these lessons by focusing on building a strong community and creating a compelling pitch for their game. They should also be prepared to adapt their strategy based on feedback from backers.",
+            "beneficiaries": [
+                "Game Developers",
+                "Crowdfunding Platforms"
+            ],
+            "companies": [
+                "Playable Worlds, Inc"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
