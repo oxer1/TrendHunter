@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-08T13:15:36.267Z",
+        "scanDate": "2026-04-08T15:07:25.379Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -2303,37 +2303,6 @@
             "visualStyle": null,
             "cluster": "community-ai-ethics",
             "isNew": false
-        },
-        {
-            "id": "t-jvqxb9c4s",
-            "title": "Plot vs Narrative",
-            "subtitle": "AdHoc developer distinguishes between plot and narrative in game development",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Narrative Design",
-                "Storytelling"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/dispatch-developer-adhoc-says-don-t-confuse-your-plot-for-narrative",
-                "date": "2026-03-25T13:57:31.000Z"
-            },
-            "whatsNew": "AdHoc developer emphasizes the importance of understanding the difference between plot and narrative in game development. The developer notes that plot refers to the events that occur, while narrative is about how those events are presented. This distinction can significantly impact the player's experience and engagement.",
-            "whyItMatters": "The distinction between plot and narrative is crucial for game developers as it can affect the overall quality and impact of the game. By understanding this difference, developers can create more engaging and immersive stories.",
-            "howToUse": "Developers can apply this understanding by focusing on crafting a compelling narrative that enhances the player's experience, rather than just focusing on the plot. This can involve using techniques such as character development, pacing, and dialogue to create a more engaging story.",
-            "beneficiaries": [
-                "Game Developers",
-                "Narrative Designers"
-            ],
-            "companies": [
-                "AdHoc"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2470,7 +2439,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-08T13:15:36.267Z",
+            "lastScan": "2026-04-08T15:07:25.379Z",
             "note": null
         },
         {
@@ -14414,6 +14383,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-jvqxb9c4s",
+            "title": "Plot vs Narrative",
+            "subtitle": "AdHoc developer distinguishes between plot and narrative in game development",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Narrative Design",
+                "Storytelling"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/dispatch-developer-adhoc-says-don-t-confuse-your-plot-for-narrative",
+                "date": "2026-03-25T13:57:31.000Z"
+            },
+            "whatsNew": "AdHoc developer emphasizes the importance of understanding the difference between plot and narrative in game development. The developer notes that plot refers to the events that occur, while narrative is about how those events are presented. This distinction can significantly impact the player's experience and engagement.",
+            "whyItMatters": "The distinction between plot and narrative is crucial for game developers as it can affect the overall quality and impact of the game. By understanding this difference, developers can create more engaging and immersive stories.",
+            "howToUse": "Developers can apply this understanding by focusing on crafting a compelling narrative that enhances the player's experience, rather than just focusing on the plot. This can involve using techniques such as character development, pacing, and dialogue to create a more engaging story.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [
+                "AdHoc"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
