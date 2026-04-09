@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-09T13:21:19.743Z",
+        "scanDate": "2026-04-09T15:20:37.514Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -1960,37 +1960,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-4z49ex9tg",
-            "title": "Kambi Revenue Dip",
-            "subtitle": "Kambi Group PLC reports 8% revenue decline in FY 2025",
-            "category": "iGaming",
-            "tags": [
-                "Kambi",
-                "Revenue",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/fy25-kambi-8pc-revenue-dip-not-cause-concern/",
-                "date": "2026-03-26T14:34:51.000Z"
-            },
-            "whatsNew": "Kambi Group PLC has reported an 8% decline in revenue for FY 2025, alongside delays in key market entries. The company remains optimistic despite the decline.",
-            "whyItMatters": "The decline in revenue may impact Kambi's market position and influence the iGaming industry as a whole. The company's optimism despite the decline is noteworthy.",
-            "howToUse": "Operators and investors should monitor Kambi's future performance and market developments to assess potential opportunities and challenges.",
-            "beneficiaries": [
-                "Investors",
-                "Operators"
-            ],
-            "companies": [
-                "Kambi Group PLC"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2127,7 +2096,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-09T13:21:19.743Z",
+            "lastScan": "2026-04-09T15:20:37.514Z",
             "note": null
         },
         {
@@ -14445,6 +14414,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-4z49ex9tg",
+            "title": "Kambi Revenue Dip",
+            "subtitle": "Kambi Group PLC reports 8% revenue decline in FY 2025",
+            "category": "iGaming",
+            "tags": [
+                "Kambi",
+                "Revenue",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-kambi-8pc-revenue-dip-not-cause-concern/",
+                "date": "2026-03-26T14:34:51.000Z"
+            },
+            "whatsNew": "Kambi Group PLC has reported an 8% decline in revenue for FY 2025, alongside delays in key market entries. The company remains optimistic despite the decline.",
+            "whyItMatters": "The decline in revenue may impact Kambi's market position and influence the iGaming industry as a whole. The company's optimism despite the decline is noteworthy.",
+            "howToUse": "Operators and investors should monitor Kambi's future performance and market developments to assess potential opportunities and challenges.",
+            "beneficiaries": [
+                "Investors",
+                "Operators"
+            ],
+            "companies": [
+                "Kambi Group PLC"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
