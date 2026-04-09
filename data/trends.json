@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-09T17:04:47.426Z",
+        "scanDate": "2026-04-09T19:01:43.568Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-vqx0iveqr",
+            "title": "Universal Video Codec",
+            "subtitle": "Game industry needs a universal video codec for FMV games, says 1000xResist creator",
+            "category": "Tech",
+            "tags": [
+                "FMV games",
+                "Video Codec",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/programming/1000xresist-creator-the-game-industry-needs-a-universal-codec-for-fmv-games",
+                "date": "2026-04-09T18:00:00.000Z"
+            },
+            "whatsNew": "The creator of 1000xResist is calling for a universal video codec to support FMV games across all platforms. Current codecs are not suitable, leading to compromises in video quality.",
+            "whyItMatters": "A universal video codec would enable smoother game development and better video quality for FMV games, enhancing the overall gaming experience.",
+            "howToUse": "Game developers can advocate for the adoption of a universal video codec and explore existing alternatives to improve video quality in their FMV games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
+        {
+            "id": "t-e03mukca6",
+            "title": "Hazelight Sales",
+            "subtitle": "Hazelight Studios reaches 50M total sales, largely due to It Takes Two",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Sales Figures",
+                "Hazelight Studios"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/split-fiction-dev-hazelight-studios-accrues-50m-total-sales",
+                "date": "2026-04-09T16:37:57.000Z"
+            },
+            "whatsNew": "Hazelight Studios has achieved 50 million total sales, with It Takes Two contributing 30 million of those sales. This milestone underscores the game's commercial success and the studio's growing influence.",
+            "whyItMatters": "The significant sales figure highlights the impact of cooperative gameplay and innovative storytelling in the gaming industry, setting a precedent for future game development.",
+            "howToUse": "Game developers can take note of Hazelight's success by incorporating cooperative elements and unique narratives into their own projects, potentially appealing to a wider audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Hazelight Studios"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-0i3ay2uo7",
+            "title": "eFootball Milestone",
+            "subtitle": "Konami's eFootball reaches 1 billion downloads since its launch in 2021",
+            "category": "Tech",
+            "tags": [
+                "eFootball",
+                "Konami",
+                "PES",
+                "Free-to-play",
+                "Milestones"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/konami-s-efootball-tops-1-billion-downloads",
+                "date": "2026-04-09T14:45:21.000Z"
+            },
+            "whatsNew": "Konami's eFootball has achieved a significant milestone of 1 billion downloads. The game, a rebrand of Pro Evolution Soccer (PES), was launched in late 2021 as a free-to-play title.",
+            "whyItMatters": "This milestone indicates the game's popularity and the potential for free-to-play models in the gaming industry. It also reflects Konami's successful strategy in rebranding and relaunching a classic franchise.",
+            "howToUse": "Game developers can take note of the success of free-to-play models and consider adopting similar strategies for their own titles. Additionally, the use of rebranding and relaunching existing IPs can be an effective way to revitalize a franchise.",
+            "beneficiaries": [
+                "Game Developers",
+                "Konami"
+            ],
+            "companies": [
+                "Konami"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-2zo8w1dfx",
             "title": "Indie Game Funding",
@@ -1803,35 +1896,6 @@
             "visualStyle": null,
             "cluster": "frontend-tools",
             "isNew": false
-        },
-        {
-            "id": "t-ob9vr1f6k",
-            "title": "Donkey Kong Asset",
-            "subtitle": "Donkey Kong Bananza reuses 3D models instead of remaking them",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Asset Recycling",
-                "3D Modeling"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/art/donkey-kong-bananza-has-a-big-brained-approach-to-asset-recycling",
-                "date": "2026-03-26T18:25:11.000Z"
-            },
-            "whatsNew": "Donkey Kong Bananza is using an innovative approach to asset recycling, reusing 3D models instead of remaking them. This approach can save time and resources. The game is applying this method to reduce development costs.",
-            "whyItMatters": "This approach can significantly reduce game development costs and time. It also promotes sustainability in game development by reducing the need for creating new assets from scratch.",
-            "howToUse": "Game developers can apply this approach by identifying reusable assets in their games and implementing a system to recycle them. This can be done by creating a library of reusable assets and using tools to modify and adapt them for different games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Game Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1968,7 +2032,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-09T17:04:47.426Z",
+            "lastScan": "2026-04-09T19:01:43.568Z",
             "note": null
         },
         {
@@ -14445,6 +14509,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ob9vr1f6k",
+            "title": "Donkey Kong Asset",
+            "subtitle": "Donkey Kong Bananza reuses 3D models instead of remaking them",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Asset Recycling",
+                "3D Modeling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/art/donkey-kong-bananza-has-a-big-brained-approach-to-asset-recycling",
+                "date": "2026-03-26T18:25:11.000Z"
+            },
+            "whatsNew": "Donkey Kong Bananza is using an innovative approach to asset recycling, reusing 3D models instead of remaking them. This approach can save time and resources. The game is applying this method to reduce development costs.",
+            "whyItMatters": "This approach can significantly reduce game development costs and time. It also promotes sustainability in game development by reducing the need for creating new assets from scratch.",
+            "howToUse": "Game developers can apply this approach by identifying reusable assets in their games and implementing a system to recycle them. This can be done by creating a library of reusable assets and using tools to modify and adapt them for different games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
             "isNew": false
         }
     ]
