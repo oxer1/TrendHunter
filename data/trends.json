@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-10T13:03:39.655Z",
+        "scanDate": "2026-04-10T14:45:14.071Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 56,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-uhc9vjeh7",
@@ -1721,66 +1721,6 @@
             "isNew": false
         },
         {
-            "id": "t-0s6ximkfy",
-            "title": "1xBet at SiGMA",
-            "subtitle": "1xBet participates in SiGMA Americas 2026 to strengthen its iGaming presence",
-            "category": "iGaming",
-            "tags": [
-                "SiGMA Americas",
-                "1xBet",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/1xbet-in-the-heart-of-business-activity-at-sigma-americas-2026/",
-                "date": "2026-03-27T14:28:32.000Z"
-            },
-            "whatsNew": "1xBet is attending SiGMA Americas 2026, a major iGaming forum, to expand its market presence. The event expects over 18,500 delegates and 250 speakers. This participation highlights 1xBet's strategy to strengthen its position in the Latin American market.",
-            "whyItMatters": "1xBet's attendance at SiGMA Americas 2026 signifies its commitment to the rapidly growing Latin American iGaming market, potentially influencing market trends and operator strategies.",
-            "howToUse": "Operators and industry professionals can leverage such events to network, learn about market trends, and explore new business opportunities.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Industry professionals"
-            ],
-            "companies": [
-                "1xBet"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-ed5snzzaq",
-            "title": "Gambling Charities Funded",
-            "subtitle": "British gambling harms charities receive temporary funding extension",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Charities",
-                "Funding Extension",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/gambling-charities-eleventh-hour-funding-extension/",
-                "date": "2026-03-27T13:38:04.000Z"
-            },
-            "whatsNew": "British gambling harms charities have been given a three-month transitional fund after being rejected from statutory levy funding. The situation is described as critical by sources.",
-            "whyItMatters": "The funding extension is crucial for the charities to continue their work in addressing gambling harms. It highlights the ongoing challenges in securing stable funding for such organizations.",
-            "howToUse": "Charities can apply for the transitional fund to secure temporary financial support. This move may also prompt discussions on long-term funding solutions for gambling harm prevention.",
-            "beneficiaries": [
-                "Gambling Charities",
-                "Problem Gamblers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-cuswvo7ba",
             "title": "Gaming Crash",
             "subtitle": "Industry legends Brenda and John Romero express concerns over the current state of the gaming industry, drawing comparisons to the 1980s crash.",
@@ -1807,68 +1747,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-qkq373ce4",
-            "title": "AI in Game Dev",
-            "subtitle": "Owlcat Games uses generative AI for faster iteration on The Expanse game",
-            "category": "AI",
-            "tags": [
-                "AI in gaming",
-                "Game development",
-                "Generative AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/owlcat-games-is-using-gen-ai-to-iterate-faster-on-the-expanse",
-                "date": "2026-03-27T14:21:07.000Z"
-            },
-            "whatsNew": "Owlcat Games is leveraging generative AI for prototyping and creating temporary assets in The Expanse game development. This approach aims to speed up the development process.",
-            "whyItMatters": "The use of generative AI in game development can significantly reduce production time and costs, allowing for more rapid iteration and innovation. This can be a game-changer for the gaming industry.",
-            "howToUse": "Game developers can explore using generative AI for prototyping, placeholder creation, and other areas where rapid iteration is beneficial, while ensuring final assets meet quality standards.",
-            "beneficiaries": [
-                "Game developers",
-                "Game studios"
-            ],
-            "companies": [
-                "Owlcat Games"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-ltankbnb1",
-            "title": "Unity Shifts Focus",
-            "subtitle": "Unity is sunsetting its Ads Network and divesting Supersonic to drive revenue growth",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Game Development",
-                "Revenue Growth"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/unity-sunsetting-ads-network-and-divesting-publishing-label-supersonic",
-                "date": "2026-03-27T14:20:18.000Z"
-            },
-            "whatsNew": "Unity is sunsetting its Ads Network and divesting its publishing label Supersonic. This move is expected to help the company drive revenue growth by focusing on its core business.",
-            "whyItMatters": "This decision reflects Unity's strategy to concentrate on its core game engine and development tools, potentially impacting the game development industry as a whole.",
-            "howToUse": "Game developers should monitor Unity's future developments and adjust their strategies accordingly, considering alternative ad networks and publishing options.",
-            "beneficiaries": [
-                "Game Developers",
-                "Unity Investors"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
             "isNew": false
         }
     ],
@@ -2006,7 +1884,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-10T13:03:39.655Z",
+            "lastScan": "2026-04-10T14:45:14.071Z",
             "note": null
         },
         {
@@ -14633,6 +14511,128 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-0s6ximkfy",
+            "title": "1xBet at SiGMA",
+            "subtitle": "1xBet participates in SiGMA Americas 2026 to strengthen its iGaming presence",
+            "category": "iGaming",
+            "tags": [
+                "SiGMA Americas",
+                "1xBet",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/1xbet-in-the-heart-of-business-activity-at-sigma-americas-2026/",
+                "date": "2026-03-27T14:28:32.000Z"
+            },
+            "whatsNew": "1xBet is attending SiGMA Americas 2026, a major iGaming forum, to expand its market presence. The event expects over 18,500 delegates and 250 speakers. This participation highlights 1xBet's strategy to strengthen its position in the Latin American market.",
+            "whyItMatters": "1xBet's attendance at SiGMA Americas 2026 signifies its commitment to the rapidly growing Latin American iGaming market, potentially influencing market trends and operator strategies.",
+            "howToUse": "Operators and industry professionals can leverage such events to network, learn about market trends, and explore new business opportunities.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Industry professionals"
+            ],
+            "companies": [
+                "1xBet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ed5snzzaq",
+            "title": "Gambling Charities Funded",
+            "subtitle": "British gambling harms charities receive temporary funding extension",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Charities",
+                "Funding Extension",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/gambling-charities-eleventh-hour-funding-extension/",
+                "date": "2026-03-27T13:38:04.000Z"
+            },
+            "whatsNew": "British gambling harms charities have been given a three-month transitional fund after being rejected from statutory levy funding. The situation is described as critical by sources.",
+            "whyItMatters": "The funding extension is crucial for the charities to continue their work in addressing gambling harms. It highlights the ongoing challenges in securing stable funding for such organizations.",
+            "howToUse": "Charities can apply for the transitional fund to secure temporary financial support. This move may also prompt discussions on long-term funding solutions for gambling harm prevention.",
+            "beneficiaries": [
+                "Gambling Charities",
+                "Problem Gamblers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qkq373ce4",
+            "title": "AI in Game Dev",
+            "subtitle": "Owlcat Games uses generative AI for faster iteration on The Expanse game",
+            "category": "AI",
+            "tags": [
+                "AI in gaming",
+                "Game development",
+                "Generative AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/owlcat-games-is-using-gen-ai-to-iterate-faster-on-the-expanse",
+                "date": "2026-03-27T14:21:07.000Z"
+            },
+            "whatsNew": "Owlcat Games is leveraging generative AI for prototyping and creating temporary assets in The Expanse game development. This approach aims to speed up the development process.",
+            "whyItMatters": "The use of generative AI in game development can significantly reduce production time and costs, allowing for more rapid iteration and innovation. This can be a game-changer for the gaming industry.",
+            "howToUse": "Game developers can explore using generative AI for prototyping, placeholder creation, and other areas where rapid iteration is beneficial, while ensuring final assets meet quality standards.",
+            "beneficiaries": [
+                "Game developers",
+                "Game studios"
+            ],
+            "companies": [
+                "Owlcat Games"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-ltankbnb1",
+            "title": "Unity Shifts Focus",
+            "subtitle": "Unity is sunsetting its Ads Network and divesting Supersonic to drive revenue growth",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/unity-sunsetting-ads-network-and-divesting-publishing-label-supersonic",
+                "date": "2026-03-27T14:20:18.000Z"
+            },
+            "whatsNew": "Unity is sunsetting its Ads Network and divesting its publishing label Supersonic. This move is expected to help the company drive revenue growth by focusing on its core business.",
+            "whyItMatters": "This decision reflects Unity's strategy to concentrate on its core game engine and development tools, potentially impacting the game development industry as a whole.",
+            "howToUse": "Game developers should monitor Unity's future developments and adjust their strategies accordingly, considering alternative ad networks and publishing options.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Investors"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
             "isNew": false
         }
     ]
