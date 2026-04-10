@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-10T18:47:53.313Z",
+        "scanDate": "2026-04-10T19:41:49.017Z",
         "version": "2.5.0",
-        "totalTrends": 56,
+        "totalTrends": 55,
         "categories": [
             "iGaming",
             "AI",
@@ -1719,35 +1719,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-cuswvo7ba",
-            "title": "Gaming Crash",
-            "subtitle": "Industry legends Brenda and John Romero express concerns over the current state of the gaming industry, drawing comparisons to the 1980s crash.",
-            "category": "Tech",
-            "tags": [
-                "Gaming Industry",
-                "Market Crash",
-                "Romero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/the-industry-is-in-a-really-horrible-place-say-brenda-and-john-romero",
-                "date": "2026-03-27T19:37:48.000Z"
-            },
-            "whatsNew": "Brenda and John Romero, renowned game developers, have voiced their concerns about the current state of the gaming industry, likening it to the 1980s crash. They suggest the industry is in a worse place now than it was back then.",
-            "whyItMatters": "Their comments highlight the potential for a significant downturn in the gaming industry, which could have far-reaching consequences for developers, publishers, and gamers alike. The Romeros' insight, given their experience during the 1980s crash, adds weight to the concern.",
-            "howToUse": "Developers and investors should be cautious and prepare for potential market fluctuations, while also considering the lessons from past industry crashes to navigate the current challenges.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1884,7 +1855,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-10T18:47:53.313Z",
+            "lastScan": "2026-04-10T19:41:49.017Z",
             "note": null
         },
         {
@@ -14633,6 +14604,35 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-cuswvo7ba",
+            "title": "Gaming Crash",
+            "subtitle": "Industry legends Brenda and John Romero express concerns over the current state of the gaming industry, drawing comparisons to the 1980s crash.",
+            "category": "Tech",
+            "tags": [
+                "Gaming Industry",
+                "Market Crash",
+                "Romero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/the-industry-is-in-a-really-horrible-place-say-brenda-and-john-romero",
+                "date": "2026-03-27T19:37:48.000Z"
+            },
+            "whatsNew": "Brenda and John Romero, renowned game developers, have voiced their concerns about the current state of the gaming industry, likening it to the 1980s crash. They suggest the industry is in a worse place now than it was back then.",
+            "whyItMatters": "Their comments highlight the potential for a significant downturn in the gaming industry, which could have far-reaching consequences for developers, publishers, and gamers alike. The Romeros' insight, given their experience during the 1980s crash, adds weight to the concern.",
+            "howToUse": "Developers and investors should be cautious and prepare for potential market fluctuations, while also considering the lessons from past industry crashes to navigate the current challenges.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
