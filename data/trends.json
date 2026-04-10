@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-10T09:05:59.389Z",
+        "scanDate": "2026-04-10T10:51:57.084Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -1690,38 +1690,6 @@
             "isNew": false
         },
         {
-            "id": "t-gq6uzjw6x",
-            "title": "Live Roulette Performance",
-            "subtitle": "TESTA reports on live dealer roulette performance in Mexico",
-            "category": "iGaming",
-            "tags": [
-                "Live Dealer",
-                "Roulette",
-                "Performance",
-                "Stake Mexico"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/testa-field-report-four-weeks-of-live-dealer-roulette-performance-on-stake-mexico/",
-                "date": "2026-03-27T10:15:23.000Z"
-            },
-            "whatsNew": "TESTA conducted a four-week test of live dealer roulette performance on Stake Mexico, evaluating multiple providers. The test revealed varying levels of performance and resilience under pressure.",
-            "whyItMatters": "The report highlights the importance of consistent and high-performance live dealer experiences for players, and how some providers are better equipped to handle pressure than others.",
-            "howToUse": "Operators can use this report to inform their decisions when selecting live dealer providers, prioritizing those that demonstrate consistent high-performance and resilience.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Live Dealer Providers"
-            ],
-            "companies": [
-                "Stake Mexico"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-qeibkyqi6",
             "title": "SOFTSWISS Wins Awards",
             "subtitle": "SOFTSWISS wins two titles at GamingTECH CEE Awards 2026, reinforcing its position in the iGaming market",
@@ -1750,35 +1718,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-jha4dztyd",
-            "title": "SGA Director General",
-            "subtitle": "Swedish advertising ombudsman appointed as SGA director general",
-            "category": "iGaming",
-            "tags": [
-                "SGA",
-                "Swedish Gambling Authority",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/swedish-advertising-ombudsman-director-general-sga/",
-                "date": "2026-03-27T10:51:19.000Z"
-            },
-            "whatsNew": "The Swedish Gambling Authority has appointed a new director general, effective 17 August 2026. The appointee is the country's current advertising ombudsman.",
-            "whyItMatters": "This appointment may impact the regulation of the Swedish gambling industry. The new director general's background in advertising could influence the authority's approach to gambling advertising.",
-            "howToUse": "Operators in the Swedish market should monitor the SGA's regulatory updates and adjust their advertising strategies accordingly.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Regulatory bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -2096,7 +2035,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-10T09:05:59.389Z",
+            "lastScan": "2026-04-10T10:51:57.084Z",
             "note": null
         },
         {
@@ -14602,6 +14541,67 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-gq6uzjw6x",
+            "title": "Live Roulette Performance",
+            "subtitle": "TESTA reports on live dealer roulette performance in Mexico",
+            "category": "iGaming",
+            "tags": [
+                "Live Dealer",
+                "Roulette",
+                "Performance",
+                "Stake Mexico"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/testa-field-report-four-weeks-of-live-dealer-roulette-performance-on-stake-mexico/",
+                "date": "2026-03-27T10:15:23.000Z"
+            },
+            "whatsNew": "TESTA conducted a four-week test of live dealer roulette performance on Stake Mexico, evaluating multiple providers. The test revealed varying levels of performance and resilience under pressure.",
+            "whyItMatters": "The report highlights the importance of consistent and high-performance live dealer experiences for players, and how some providers are better equipped to handle pressure than others.",
+            "howToUse": "Operators can use this report to inform their decisions when selecting live dealer providers, prioritizing those that demonstrate consistent high-performance and resilience.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Live Dealer Providers"
+            ],
+            "companies": [
+                "Stake Mexico"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-jha4dztyd",
+            "title": "SGA Director General",
+            "subtitle": "Swedish advertising ombudsman appointed as SGA director general",
+            "category": "iGaming",
+            "tags": [
+                "SGA",
+                "Swedish Gambling Authority",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/swedish-advertising-ombudsman-director-general-sga/",
+                "date": "2026-03-27T10:51:19.000Z"
+            },
+            "whatsNew": "The Swedish Gambling Authority has appointed a new director general, effective 17 August 2026. The appointee is the country's current advertising ombudsman.",
+            "whyItMatters": "This appointment may impact the regulation of the Swedish gambling industry. The new director general's background in advertising could influence the authority's approach to gambling advertising.",
+            "howToUse": "Operators in the Swedish market should monitor the SGA's regulatory updates and adjust their advertising strategies accordingly.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Regulatory bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
