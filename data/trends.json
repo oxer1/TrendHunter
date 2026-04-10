@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-10T11:45:26.835Z",
+        "scanDate": "2026-04-10T13:03:39.655Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-upwzt2erp",
+            "title": "Doki Doki Removal",
+            "subtitle": "Doki Doki Literature Club removed from Google Play due to sensitive themes",
+            "category": "Tech",
+            "tags": [
+                "Visual Novels",
+                "Google Play",
+                "Censorship"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/doki-doki-literature-club-removed-from-google-play-over-depiction-of-sensitive-themes",
+                "date": "2026-04-10T12:25:55.000Z"
+            },
+            "whatsNew": "Doki Doki Literature Club has been removed from Google Play due to its depiction of sensitive themes. The publisher, Serenity Forge, is working to reinstate the game.",
+            "whyItMatters": "The removal of Doki Doki Literature Club from Google Play highlights the ongoing challenges of game censorship and the impact on developers and players. It also raises questions about the consistency of platform policies.",
+            "howToUse": "Developers should be aware of platform policies and guidelines when creating games that tackle sensitive themes, and consider alternative distribution channels.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Novel Fans"
+            ],
+            "companies": [
+                "Serenity Forge"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-uhc9vjeh7",
             "title": "Evolution Sues Playtech",
@@ -1690,37 +1721,6 @@
             "isNew": false
         },
         {
-            "id": "t-qeibkyqi6",
-            "title": "SOFTSWISS Wins Awards",
-            "subtitle": "SOFTSWISS wins two titles at GamingTECH CEE Awards 2026, reinforcing its position in the iGaming market",
-            "category": "iGaming",
-            "tags": [
-                "SOFTSWISS",
-                "GamingTECH CEE Awards",
-                "iGaming software"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/softswiss-wins-double-at-gamingtech-cee-awards-2026/",
-                "date": "2026-03-27T12:09:20.000Z"
-            },
-            "whatsNew": "SOFTSWISS has won two titles at the GamingTECH CEE Awards 2026, including Best Casino Aggregator and CEE Influencer of the Year. The SOFTSWISS Game Aggregator was recognized for its scale, reliability, and engagement capabilities.",
-            "whyItMatters": "This win reinforces SOFTSWISS' position in the Central and Eastern Europe iGaming market and highlights the company's influence in the industry. It also demonstrates the quality and reliability of the SOFTSWISS Game Aggregator.",
-            "howToUse": "Operators can consider integrating the SOFTSWISS Game Aggregator into their platforms to enhance their gaming offerings and improve user engagement.",
-            "beneficiaries": [
-                "iGaming operators",
-                "game developers"
-            ],
-            "companies": [
-                "SOFTSWISS"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-0s6ximkfy",
             "title": "1xBet at SiGMA",
             "subtitle": "1xBet participates in SiGMA Americas 2026 to strengthen its iGaming presence",
@@ -1774,35 +1774,6 @@
             "beneficiaries": [
                 "Gambling Charities",
                 "Problem Gamblers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-j2t4wndp2",
-            "title": "EGBA Fights Fraud",
-            "subtitle": "EGBA supports European Commission's call for evidence on online fraud in the gambling sector",
-            "category": "iGaming",
-            "tags": [
-                "EGBA",
-                "Online Fraud",
-                "European Commission"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/egba-supports-ec-call-for-evidence-online-fraud/",
-                "date": "2026-03-27T12:39:30.000Z"
-            },
-            "whatsNew": "The EGBA has provided a detailed response to the European Commission's call for evidence on online fraud, highlighting the gambling sector's experiences and concerns. This move is part of a broader effort to combat online fraud across the EU. The EGBA's input will likely inform future regulatory measures.",
-            "whyItMatters": "The EGBA's support for the EC's call for evidence underscores the importance of addressing online fraud in the gambling sector, which can have significant implications for player safety and industry integrity. Effective measures against online fraud can enhance trust in online gambling platforms.",
-            "howToUse": "Operators and regulators can use the EGBA's response as a guide to understand the complexities of online fraud in the gambling sector and to develop more effective strategies for combating it.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulators"
             ],
             "companies": [],
             "visualStyle": null,
@@ -2035,7 +2006,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-10T11:45:26.835Z",
+            "lastScan": "2026-04-10T13:03:39.655Z",
             "note": null
         },
         {
@@ -14598,6 +14569,66 @@
             "beneficiaries": [
                 "iGaming operators",
                 "Regulatory bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qeibkyqi6",
+            "title": "SOFTSWISS Wins Awards",
+            "subtitle": "SOFTSWISS wins two titles at GamingTECH CEE Awards 2026, reinforcing its position in the iGaming market",
+            "category": "iGaming",
+            "tags": [
+                "SOFTSWISS",
+                "GamingTECH CEE Awards",
+                "iGaming software"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-wins-double-at-gamingtech-cee-awards-2026/",
+                "date": "2026-03-27T12:09:20.000Z"
+            },
+            "whatsNew": "SOFTSWISS has won two titles at the GamingTECH CEE Awards 2026, including Best Casino Aggregator and CEE Influencer of the Year. The SOFTSWISS Game Aggregator was recognized for its scale, reliability, and engagement capabilities.",
+            "whyItMatters": "This win reinforces SOFTSWISS' position in the Central and Eastern Europe iGaming market and highlights the company's influence in the industry. It also demonstrates the quality and reliability of the SOFTSWISS Game Aggregator.",
+            "howToUse": "Operators can consider integrating the SOFTSWISS Game Aggregator into their platforms to enhance their gaming offerings and improve user engagement.",
+            "beneficiaries": [
+                "iGaming operators",
+                "game developers"
+            ],
+            "companies": [
+                "SOFTSWISS"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-j2t4wndp2",
+            "title": "EGBA Fights Fraud",
+            "subtitle": "EGBA supports European Commission's call for evidence on online fraud in the gambling sector",
+            "category": "iGaming",
+            "tags": [
+                "EGBA",
+                "Online Fraud",
+                "European Commission"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/egba-supports-ec-call-for-evidence-online-fraud/",
+                "date": "2026-03-27T12:39:30.000Z"
+            },
+            "whatsNew": "The EGBA has provided a detailed response to the European Commission's call for evidence on online fraud, highlighting the gambling sector's experiences and concerns. This move is part of a broader effort to combat online fraud across the EU. The EGBA's input will likely inform future regulatory measures.",
+            "whyItMatters": "The EGBA's support for the EC's call for evidence underscores the importance of addressing online fraud in the gambling sector, which can have significant implications for player safety and industry integrity. Effective measures against online fraud can enhance trust in online gambling platforms.",
+            "howToUse": "Operators and regulators can use the EGBA's response as a guide to understand the complexities of online fraud in the gambling sector and to develop more effective strategies for combating it.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators"
             ],
             "companies": [],
             "visualStyle": null,
