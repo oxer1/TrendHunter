@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-12T02:15:02.072Z",
+        "scanDate": "2026-04-12T05:21:51.047Z",
         "version": "2.5.0",
-        "totalTrends": 55,
+        "totalTrends": 56,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-q90r3wo4x",
+            "title": "Curaçao Gaming Update",
+            "subtitle": "Curaçao Gaming Authority issues new guidance for operator terms and conditions",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Curaçao Gaming Authority",
+                "Operator Terms"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/curacao-gaming-authority-new-guidance-tcs/",
+                "date": "2026-04-10T16:25:57.000Z"
+            },
+            "whatsNew": "The Curaçao Gaming Authority has introduced new guidance for B2C operator terms and conditions, aiming to tighten its policies. This move is expected to impact how operators conduct their business in the region.",
+            "whyItMatters": "The new guidance from the Curaçao Gaming Authority will likely influence the regulatory landscape for iGaming operators, potentially leading to more stringent compliance requirements. This could affect operators' ability to offer services in the region.",
+            "howToUse": "Operators should review and update their terms and conditions to ensure compliance with the new guidance from the Curaçao Gaming Authority, consulting with regulatory experts if necessary.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Compliance Officers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-upwzt2erp",
             "title": "Doki Doki Removal",
@@ -1855,7 +1884,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-12T02:15:02.072Z",
+            "lastScan": "2026-04-12T05:21:51.047Z",
             "note": null
         },
         {
@@ -1864,7 +1893,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-11T04:52:54.073Z",
+            "lastScan": "2026-04-12T05:21:51.047Z",
             "note": null
         },
         {
