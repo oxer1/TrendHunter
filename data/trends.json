@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-13T02:27:36.450Z",
+        "scanDate": "2026-04-13T05:39:21.356Z",
         "version": "2.5.0",
-        "totalTrends": 56,
+        "totalTrends": 57,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-l4be8mve7",
+            "title": "AI Sports Betting",
+            "subtitle": "OpticOdds integrates betting odds into Claude using AI",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "AI Integration",
+                "Claude"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/qa-opticodds-vp-integrating-betting-odds-claude/",
+                "date": "2026-04-10T15:15:20.000Z"
+            },
+            "whatsNew": "OpticOdds has integrated its sportsbook data API into Claude, leveraging AI for sports betting data. This integration marks a new step in applying AI to sports betting.",
+            "whyItMatters": "The integration of AI into sports betting can enhance the user experience and provide more accurate predictions. This development can significantly impact the iGaming industry.",
+            "howToUse": "Operators can utilize this integration to offer more personalized and data-driven betting experiences to their users, potentially increasing engagement and revenue.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Bettors"
+            ],
+            "companies": [
+                "OpticOdds"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-q90r3wo4x",
             "title": "Curaçao Gaming Update",
@@ -1884,7 +1915,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-13T02:27:36.450Z",
+            "lastScan": "2026-04-13T05:39:21.356Z",
             "note": null
         },
         {
@@ -1893,7 +1924,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-12T05:21:51.047Z",
+            "lastScan": "2026-04-13T05:39:21.356Z",
             "note": null
         },
         {
