@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-13T12:00:52.869Z",
+        "scanDate": "2026-04-13T14:45:21.865Z",
         "version": "2.5.0",
-        "totalTrends": 54,
+        "totalTrends": 53,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-r72jrtyn2",
+            "title": "Roblox Age Accounts",
+            "subtitle": "Roblox introduces age-based accounts for children and teens with restricted access to certain experiences and features.",
+            "category": "Community",
+            "tags": [
+                "Roblox",
+                "Age-Based Accounts",
+                "Child Safety"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/roblox-is-introducing-age-based-accounts-for-children-and-teens",
+                "date": "2026-04-13T14:30:32.000Z"
+            },
+            "whatsNew": "Roblox is rolling out two new account types, Roblox Kids and Roblox Select, designed for children and teens respectively. These accounts will have limited access to certain experiences and communication features to ensure a safer environment.",
+            "whyItMatters": "This move by Roblox aims to enhance child safety and provide parents with more control over their children's online activities. It reflects a growing trend towards prioritizing safety and responsibility in online gaming platforms.",
+            "howToUse": "Parents can sign their children up for these new account types to restrict access to mature content and limit interactions with strangers. This can be done through the Roblox website or mobile app.",
+            "beneficiaries": [
+                "Parents",
+                "Children",
+                "Teens"
+            ],
+            "companies": [
+                "Roblox"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-yeb2d7lan",
             "title": "Fortnite Disney",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-l4be8mve7",
@@ -1622,69 +1654,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-ketwkf4b6",
-            "title": "Virgin Bet Expands",
-            "subtitle": "Virgin Bet launches in South Africa, its first market outside the UK",
-            "category": "iGaming",
-            "tags": [
-                "Virgin Bet",
-                "South Africa",
-                "iGaming Expansion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/virgin-bet-expansion-south-africa-launch/",
-                "date": "2026-03-30T13:45:04.000Z"
-            },
-            "whatsNew": "Virgin Bet has launched in South Africa, marking its first international expansion. This move signifies the brand's growth beyond the UK market.",
-            "whyItMatters": "The expansion into South Africa indicates a strategic move by Virgin Bet to tap into new markets and increase its global presence. This could set a precedent for other iGaming companies to explore similar expansions.",
-            "howToUse": "Operators can consider South Africa as a potential market for expansion, given its growing demand for online gaming services. Researching local regulations and consumer preferences is crucial for a successful launch.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "South African Gamers"
-            ],
-            "companies": [
-                "Virgin Bet",
-                "LiveScore Group"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-56gtr967n",
-            "title": "Kalshi Sued",
-            "subtitle": "Washington State sues Kalshi over illegal online gambling",
-            "category": "iGaming",
-            "tags": [
-                "Kalshi",
-                "Online Gambling",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/prediction-markets/washington-state-becomes-latest-sue-kalshi/",
-                "date": "2026-03-30T12:10:29.000Z"
-            },
-            "whatsNew": "Washington State has sued Kalshi for allegedly operating illegal online gambling in the state. This lawsuit is part of a broader regulatory crackdown on unauthorized gaming activities.",
-            "whyItMatters": "The lawsuit highlights the ongoing challenges faced by online gaming operators in navigating complex and varying regulatory landscapes across different states.",
-            "howToUse": "Operators should ensure compliance with all relevant state and federal regulations to avoid similar legal issues.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliant Operators"
-            ],
-            "companies": [
-                "Kalshi"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1821,7 +1790,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-13T12:00:52.869Z",
+            "lastScan": "2026-04-13T14:45:21.865Z",
             "note": null
         },
         {
@@ -14725,6 +14694,69 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ketwkf4b6",
+            "title": "Virgin Bet Expands",
+            "subtitle": "Virgin Bet launches in South Africa, its first market outside the UK",
+            "category": "iGaming",
+            "tags": [
+                "Virgin Bet",
+                "South Africa",
+                "iGaming Expansion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/virgin-bet-expansion-south-africa-launch/",
+                "date": "2026-03-30T13:45:04.000Z"
+            },
+            "whatsNew": "Virgin Bet has launched in South Africa, marking its first international expansion. This move signifies the brand's growth beyond the UK market.",
+            "whyItMatters": "The expansion into South Africa indicates a strategic move by Virgin Bet to tap into new markets and increase its global presence. This could set a precedent for other iGaming companies to explore similar expansions.",
+            "howToUse": "Operators can consider South Africa as a potential market for expansion, given its growing demand for online gaming services. Researching local regulations and consumer preferences is crucial for a successful launch.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "South African Gamers"
+            ],
+            "companies": [
+                "Virgin Bet",
+                "LiveScore Group"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-56gtr967n",
+            "title": "Kalshi Sued",
+            "subtitle": "Washington State sues Kalshi over illegal online gambling",
+            "category": "iGaming",
+            "tags": [
+                "Kalshi",
+                "Online Gambling",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/washington-state-becomes-latest-sue-kalshi/",
+                "date": "2026-03-30T12:10:29.000Z"
+            },
+            "whatsNew": "Washington State has sued Kalshi for allegedly operating illegal online gambling in the state. This lawsuit is part of a broader regulatory crackdown on unauthorized gaming activities.",
+            "whyItMatters": "The lawsuit highlights the ongoing challenges faced by online gaming operators in navigating complex and varying regulatory landscapes across different states.",
+            "howToUse": "Operators should ensure compliance with all relevant state and federal regulations to avoid similar legal issues.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Operators"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
