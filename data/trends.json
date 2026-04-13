@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-13T10:01:36.743Z",
+        "scanDate": "2026-04-13T12:00:52.869Z",
         "version": "2.5.0",
-        "totalTrends": 56,
+        "totalTrends": 54,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-yeb2d7lan",
+            "title": "Fortnite Disney",
+            "subtitle": "Epic Games is developing a Disney-themed extraction shooter for Fortnite, set to launch in November 2026.",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Disney",
+                "Epic Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-epic-hoping-to-reinvigorate-fortnite-with-disney-themed-extraction-shooter",
+                "date": "2026-04-13T11:38:12.000Z"
+            },
+            "whatsNew": "Epic Games is collaborating with Disney on a new extraction shooter for Fortnite, with a planned launch in November 2026. The project is part of Disney's $1.5 billion collaboration with Epic. This new game mode aims to reinvigorate Fortnite's player base.",
+            "whyItMatters": "The partnership between Epic and Disney could bring a significant boost to Fortnite's popularity and attract a new audience. It also highlights the growing trend of collaborations between major gaming and entertainment companies.",
+            "howToUse": "Game developers can take note of the success of collaborations between gaming and entertainment companies, and consider similar partnerships to revitalize their own games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Fortnite Players"
+            ],
+            "companies": [
+                "Epic Games",
+                "Disney"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-l4be8mve7",
             "title": "AI Sports Betting",
@@ -1500,68 +1532,6 @@
             "isNew": false
         },
         {
-            "id": "t-whuyvpcfa",
-            "title": "Nazar Wishes",
-            "subtitle": "Endorphina releases a new immersive online slot game with an Arabian fantasy theme",
-            "category": "iGaming",
-            "tags": [
-                "Endorphina",
-                "Nazar Wishes",
-                "Online Slot Game"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/nazar-wishes-awaits-your-command/",
-                "date": "2026-03-30T10:30:51.000Z"
-            },
-            "whatsNew": "Nazar Wishes is a new online slot game with a unique Arabian fantasy theme, offering players a mystical journey with a 96.07% RTP and high volatility. The game features a 5-reel, 3-row, 20-fixed payline adventure with a good luck amulet to protect players.",
-            "whyItMatters": "The release of Nazar Wishes showcases Endorphina's continued innovation in the iGaming industry, providing players with a fresh and exciting gaming experience. The game's unique theme and features are likely to attract a new audience and retain existing players.",
-            "howToUse": "Players can access Nazar Wishes through online casinos that offer Endorphina games, and experience the game's immersive features and potential for big wins.",
-            "beneficiaries": [
-                "Players",
-                "Online Casinos"
-            ],
-            "companies": [
-                "Endorphina"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-3lvuo3iz3",
-            "title": "FanDuel TV Closes",
-            "subtitle": "FanDuel TV is shutting down with over 100 job losses by November 2026",
-            "category": "iGaming",
-            "tags": [
-                "FanDuel",
-                "iGaming",
-                "Job Cuts"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/fanduel-tv-closing-down-over-100-jobs-axed/",
-                "date": "2026-03-30T10:10:37.000Z"
-            },
-            "whatsNew": "FanDuel TV is being shut down, resulting in significant job losses. The decision is expected to be completed by November 2026.",
-            "whyItMatters": "The closure of FanDuel TV indicates a shift in the company's strategy, potentially impacting the iGaming industry. It also affects over 100 employees who will be looking for new opportunities.",
-            "howToUse": "Companies in the iGaming sector should be aware of the changing landscape and adjust their strategies accordingly. Employees affected by the closure should start exploring new job opportunities within the industry.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Job Seekers"
-            ],
-            "companies": [
-                "FanDuel"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-n6yajk15z",
             "title": "Gambling Losses Rise",
             "subtitle": "UK university students show increased gambling losses",
@@ -1715,37 +1685,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-x1hu04oj8",
-            "title": "Kalshi Margin Trading",
-            "subtitle": "Kalshi secures NFA approval for margin trading, attracting institutional traders",
-            "category": "iGaming",
-            "tags": [
-                "Kalshi",
-                "NFA approval",
-                "margin trading"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/prediction-markets/kalshi-secures-nfa-approval-margin-trading/",
-                "date": "2026-03-30T10:42:14.000Z"
-            },
-            "whatsNew": "Kalshi has secured NFA approval for the introduction of margin trading, a significant milestone. This move could make the platform more appealing to institutional traders. The approval indicates a growing interest in advanced trading features within the industry.",
-            "whyItMatters": "The introduction of margin trading can significantly enhance the trading experience for institutional traders, potentially leading to increased engagement and revenue. It also reflects the evolving regulatory landscape, accommodating more sophisticated trading practices.",
-            "howToUse": "Institutional traders can leverage Kalshi's new margin trading feature to amplify their trading capabilities, while the platform can attract a broader range of traders with this advanced feature.",
-            "beneficiaries": [
-                "Institutional traders",
-                "Kalshi"
-            ],
-            "companies": [
-                "Kalshi"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1882,7 +1821,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-13T10:01:36.743Z",
+            "lastScan": "2026-04-13T12:00:52.869Z",
             "note": null
         },
         {
@@ -14693,6 +14632,99 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-whuyvpcfa",
+            "title": "Nazar Wishes",
+            "subtitle": "Endorphina releases a new immersive online slot game with an Arabian fantasy theme",
+            "category": "iGaming",
+            "tags": [
+                "Endorphina",
+                "Nazar Wishes",
+                "Online Slot Game"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/nazar-wishes-awaits-your-command/",
+                "date": "2026-03-30T10:30:51.000Z"
+            },
+            "whatsNew": "Nazar Wishes is a new online slot game with a unique Arabian fantasy theme, offering players a mystical journey with a 96.07% RTP and high volatility. The game features a 5-reel, 3-row, 20-fixed payline adventure with a good luck amulet to protect players.",
+            "whyItMatters": "The release of Nazar Wishes showcases Endorphina's continued innovation in the iGaming industry, providing players with a fresh and exciting gaming experience. The game's unique theme and features are likely to attract a new audience and retain existing players.",
+            "howToUse": "Players can access Nazar Wishes through online casinos that offer Endorphina games, and experience the game's immersive features and potential for big wins.",
+            "beneficiaries": [
+                "Players",
+                "Online Casinos"
+            ],
+            "companies": [
+                "Endorphina"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-3lvuo3iz3",
+            "title": "FanDuel TV Closes",
+            "subtitle": "FanDuel TV is shutting down with over 100 job losses by November 2026",
+            "category": "iGaming",
+            "tags": [
+                "FanDuel",
+                "iGaming",
+                "Job Cuts"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/fanduel-tv-closing-down-over-100-jobs-axed/",
+                "date": "2026-03-30T10:10:37.000Z"
+            },
+            "whatsNew": "FanDuel TV is being shut down, resulting in significant job losses. The decision is expected to be completed by November 2026.",
+            "whyItMatters": "The closure of FanDuel TV indicates a shift in the company's strategy, potentially impacting the iGaming industry. It also affects over 100 employees who will be looking for new opportunities.",
+            "howToUse": "Companies in the iGaming sector should be aware of the changing landscape and adjust their strategies accordingly. Employees affected by the closure should start exploring new job opportunities within the industry.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Job Seekers"
+            ],
+            "companies": [
+                "FanDuel"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-x1hu04oj8",
+            "title": "Kalshi Margin Trading",
+            "subtitle": "Kalshi secures NFA approval for margin trading, attracting institutional traders",
+            "category": "iGaming",
+            "tags": [
+                "Kalshi",
+                "NFA approval",
+                "margin trading"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/kalshi-secures-nfa-approval-margin-trading/",
+                "date": "2026-03-30T10:42:14.000Z"
+            },
+            "whatsNew": "Kalshi has secured NFA approval for the introduction of margin trading, a significant milestone. This move could make the platform more appealing to institutional traders. The approval indicates a growing interest in advanced trading features within the industry.",
+            "whyItMatters": "The introduction of margin trading can significantly enhance the trading experience for institutional traders, potentially leading to increased engagement and revenue. It also reflects the evolving regulatory landscape, accommodating more sophisticated trading practices.",
+            "howToUse": "Institutional traders can leverage Kalshi's new margin trading feature to amplify their trading capabilities, while the platform can attract a broader range of traders with this advanced feature.",
+            "beneficiaries": [
+                "Institutional traders",
+                "Kalshi"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
