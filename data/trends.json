@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T14:49:34.207Z",
+        "scanDate": "2026-04-14T16:09:24.618Z",
         "version": "2.5.0",
-        "totalTrends": 47,
+        "totalTrends": 46,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-g59s448wg",
@@ -1414,35 +1414,6 @@
             "isNew": false
         },
         {
-            "id": "t-9qrr6ls2q",
-            "title": "Sweden Gambling Update",
-            "subtitle": "Swedish market expansion has not increased problem gambling, according to a new report",
-            "category": "iGaming",
-            "tags": [
-                "Swedish market",
-                "problem gambling",
-                "online gambling"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/bos-market-expansion-not-increased-problem-gambling/",
-                "date": "2026-03-31T14:58:11.000Z"
-            },
-            "whatsNew": "A new report by the Swedish Trade Association for Online Gambling indicates that problem gambling in Sweden has decreased. The report suggests that the expansion of the Swedish market has not led to an increase in problem gambling.",
-            "whyItMatters": "This report is significant as it provides insight into the impact of market expansion on problem gambling, which is a major concern for the iGaming industry. The findings can inform regulatory decisions and industry practices.",
-            "howToUse": "Operators and regulators can use this information to refine their responsible gaming strategies and ensure that market expansion does not compromise player protection.",
-            "beneficiaries": [
-                "iGaming operators",
-                "regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-b5qrqhwm8",
             "title": "Absolum Storytelling",
             "subtitle": "Absolum's narrative serves its art direction, enhancing player engagement",
@@ -1606,7 +1577,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T14:49:34.207Z",
+            "lastScan": "2026-04-14T16:09:24.618Z",
             "note": null
         },
         {
@@ -14849,6 +14820,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-9qrr6ls2q",
+            "title": "Sweden Gambling Update",
+            "subtitle": "Swedish market expansion has not increased problem gambling, according to a new report",
+            "category": "iGaming",
+            "tags": [
+                "Swedish market",
+                "problem gambling",
+                "online gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/bos-market-expansion-not-increased-problem-gambling/",
+                "date": "2026-03-31T14:58:11.000Z"
+            },
+            "whatsNew": "A new report by the Swedish Trade Association for Online Gambling indicates that problem gambling in Sweden has decreased. The report suggests that the expansion of the Swedish market has not led to an increase in problem gambling.",
+            "whyItMatters": "This report is significant as it provides insight into the impact of market expansion on problem gambling, which is a major concern for the iGaming industry. The findings can inform regulatory decisions and industry practices.",
+            "howToUse": "Operators and regulators can use this information to refine their responsible gaming strategies and ensure that market expansion does not compromise player protection.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
