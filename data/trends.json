@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T20:03:54.801Z",
+        "scanDate": "2026-04-14T21:49:25.999Z",
         "version": "2.5.0",
-        "totalTrends": 48,
+        "totalTrends": 49,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-v6e8lpqbp",
+            "title": "LGBTQ Narratives",
+            "subtitle": "Data highlights the value of authentic LGBTQ narratives in games",
+            "category": "Community",
+            "tags": [
+                "LGBTQ",
+                "Game Development",
+                "Inclusion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/data-and-player-sentiment-highlight-the-value-of-authentic-lgbtq-narratives",
+                "date": "2026-04-14T19:42:44.000Z"
+            },
+            "whatsNew": "New data shows the importance of authentic LGBTQ representation in games, with player sentiment supporting the inclusion of diverse narratives. Developers are now more determined to create authentic experiences. The value of such narratives is becoming increasingly recognized.",
+            "whyItMatters": "Authentic representation in games can significantly impact player engagement and satisfaction, particularly for underrepresented groups. It also reflects the gaming industry's growing commitment to diversity and inclusion.",
+            "howToUse": "Developers can incorporate authentic LGBTQ narratives by engaging with the community, conducting thorough research, and ensuring that representation is respectful and meaningful.",
+            "beneficiaries": [
+                "Game Developers",
+                "LGBTQ Community"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-e7uwtpldf",
             "title": "Pragmata Game",
@@ -1641,7 +1670,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T20:03:54.801Z",
+            "lastScan": "2026-04-14T21:49:25.999Z",
             "note": null
         },
         {
