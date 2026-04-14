@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T12:04:22.018Z",
+        "scanDate": "2026-04-14T14:49:34.207Z",
         "version": "2.5.0",
-        "totalTrends": 48,
+        "totalTrends": 47,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-obw96cvq9",
+            "title": "TR-49 Breaks Even",
+            "subtitle": "Inkle's narrative deduction title breaks even in three hours",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Indie Games",
+                "Financial Success"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/inkle-co-founder-explains-how-tr-49-broke-even-in-three-hours",
+                "date": "2026-04-14T14:27:51.000Z"
+            },
+            "whatsNew": "TR-49, a narrative deduction title, broke even in just three hours after its release. The game is available on multiple platforms, including Steam, Nintendo Switch, and the App Store, for $7.",
+            "whyItMatters": "The rapid financial success of TR-49 indicates a strong market for narrative-driven games and highlights the potential for indie game developers to achieve significant returns on investment.",
+            "howToUse": "Developers can learn from Inkle's success by focusing on creating engaging narrative experiences and targeting multiple platforms for release.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Game Publishers"
+            ],
+            "companies": [
+                "Inkle"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-g59s448wg",
             "title": "UK Game Funding",
@@ -1383,37 +1414,6 @@
             "isNew": false
         },
         {
-            "id": "t-pmj6jy70m",
-            "title": "William Hill Closures",
-            "subtitle": "William Hill to close 200 betting shops due to UK tax hikes",
-            "category": "iGaming",
-            "tags": [
-                "William Hill",
-                "UK Betting",
-                "Tax Hikes"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/william-hill-close-200-shops-24-may/",
-                "date": "2026-03-31T14:31:36.000Z"
-            },
-            "whatsNew": "William Hill is set to close 200 betting shops from 24 May, citing major tax hikes in the UK's Autumn Budget as the reason. This move is expected to impact the UK's betting landscape. The closures are part of a larger restructuring effort.",
-            "whyItMatters": "The closure of these shops will have a significant impact on the UK's betting industry, affecting both employees and customers. It also highlights the challenges faced by betting companies due to regulatory changes.",
-            "howToUse": "Betting companies should reassess their business strategies in light of changing regulations and tax environments. This includes exploring online platforms and optimizing retail operations.",
-            "beneficiaries": [
-                "Online Betting Platforms",
-                "Regulatory Consultants"
-            ],
-            "companies": [
-                "William Hill"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-9qrr6ls2q",
             "title": "Sweden Gambling Update",
             "subtitle": "Swedish market expansion has not increased problem gambling, according to a new report",
@@ -1469,35 +1469,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "visual-style-trends",
-            "isNew": false
-        },
-        {
-            "id": "t-bnl898kf6",
-            "title": "Roblox Titles Acquired",
-            "subtitle": "An Emmy-winning animation studio buys rights to multiple Roblox titles for movie and TV development",
-            "category": "Tech",
-            "tags": [
-                "Roblox",
-                "Animation",
-                "Movie Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/an-emmy-winning-animation-studio-just-bought-the-rights-to-multiple-roblox-titles",
-                "date": "2026-03-31T14:38:31.000Z"
-            },
-            "whatsNew": "An Emmy-winning animation studio has acquired the rights to multiple Roblox titles, with plans to develop feature-length movies and television shows. This acquisition marks a significant move into the gaming space for the studio. The development of these titles is expected to bring new content to the Roblox platform.",
-            "whyItMatters": "This acquisition highlights the growing intersection of gaming and entertainment, with Roblox titles being adapted into mainstream media. It also demonstrates the increasing value of user-generated content in the gaming industry.",
-            "howToUse": "Game developers and studios can explore similar opportunities by creating engaging and adaptable content that can be leveraged across different platforms and media forms.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Studios"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
             "isNew": false
         }
     ],
@@ -1635,7 +1606,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T12:04:22.018Z",
+            "lastScan": "2026-04-14T14:49:34.207Z",
             "note": null
         },
         {
@@ -14816,6 +14787,66 @@
             "companies": [
                 "Rec Room"
             ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-pmj6jy70m",
+            "title": "William Hill Closures",
+            "subtitle": "William Hill to close 200 betting shops due to UK tax hikes",
+            "category": "iGaming",
+            "tags": [
+                "William Hill",
+                "UK Betting",
+                "Tax Hikes"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/william-hill-close-200-shops-24-may/",
+                "date": "2026-03-31T14:31:36.000Z"
+            },
+            "whatsNew": "William Hill is set to close 200 betting shops from 24 May, citing major tax hikes in the UK's Autumn Budget as the reason. This move is expected to impact the UK's betting landscape. The closures are part of a larger restructuring effort.",
+            "whyItMatters": "The closure of these shops will have a significant impact on the UK's betting industry, affecting both employees and customers. It also highlights the challenges faced by betting companies due to regulatory changes.",
+            "howToUse": "Betting companies should reassess their business strategies in light of changing regulations and tax environments. This includes exploring online platforms and optimizing retail operations.",
+            "beneficiaries": [
+                "Online Betting Platforms",
+                "Regulatory Consultants"
+            ],
+            "companies": [
+                "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-bnl898kf6",
+            "title": "Roblox Titles Acquired",
+            "subtitle": "An Emmy-winning animation studio buys rights to multiple Roblox titles for movie and TV development",
+            "category": "Tech",
+            "tags": [
+                "Roblox",
+                "Animation",
+                "Movie Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/an-emmy-winning-animation-studio-just-bought-the-rights-to-multiple-roblox-titles",
+                "date": "2026-03-31T14:38:31.000Z"
+            },
+            "whatsNew": "An Emmy-winning animation studio has acquired the rights to multiple Roblox titles, with plans to develop feature-length movies and television shows. This acquisition marks a significant move into the gaming space for the studio. The development of these titles is expected to bring new content to the Roblox platform.",
+            "whyItMatters": "This acquisition highlights the growing intersection of gaming and entertainment, with Roblox titles being adapted into mainstream media. It also demonstrates the increasing value of user-generated content in the gaming industry.",
+            "howToUse": "Game developers and studios can explore similar opportunities by creating engaging and adaptable content that can be leveraged across different platforms and media forms.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
