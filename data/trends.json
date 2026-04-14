@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T09:15:18.685Z",
+        "scanDate": "2026-04-14T11:00:33.991Z",
         "version": "2.5.0",
         "totalTrends": 48,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g59s448wg",
+            "title": "UK Game Funding",
+            "subtitle": "UK government commits £28.5 million to support local game developers through targeted grants via the UK Games Fund",
+            "category": "Community",
+            "tags": [
+                "Game Development",
+                "UK Games Fund",
+                "Government Funding"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/uk-government-commits-28-5-million-to-supporting-local-game-developers",
+                "date": "2026-04-14T09:26:44.000Z"
+            },
+            "whatsNew": "The UK government has allocated £28.5 million to support local game developers. The funds will be distributed through the UK Games Fund, aiming to boost the local gaming industry.",
+            "whyItMatters": "This investment is expected to stimulate growth and innovation within the UK's game development sector, potentially leading to new game releases and job creation.",
+            "howToUse": "Local game developers can apply for grants through the UK Games Fund to support their projects and businesses.",
+            "beneficiaries": [
+                "Game Developers",
+                "Local Gaming Industry"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-4hj6a0w63",
             "title": "Kalshi IC360 Integration",
@@ -1470,36 +1499,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-4yq6tgutu",
-            "title": "Rec Room Closes",
-            "subtitle": "Rec Room shuts down due to unsustainable profitability",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Studio Closure"
-            ],
-            "trendStrength": 3,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/rec-room-shutting-down-after-failing-to-become-sustainability-profitable-",
-                "date": "2026-03-31T10:12:06.000Z"
-            },
-            "whatsNew": "Rec Room is shutting down after failing to achieve sustainable profitability. The studio's costs consistently outweighed its revenue.",
-            "whyItMatters": "The closure of Rec Room highlights the challenges faced by game development studios in achieving financial sustainability. It may impact the gaming industry's landscape and influence future development strategies.",
-            "howToUse": "Game developers can learn from Rec Room's experience by prioritizing cost management and revenue growth strategies to ensure sustainable profitability.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Rec Room"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1636,7 +1635,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T09:15:18.685Z",
+            "lastScan": "2026-04-14T11:00:33.991Z",
             "note": null
         },
         {
@@ -14786,6 +14785,36 @@
             "companies": [
                 "Embracer Group",
                 "Eidos Montreal"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-4yq6tgutu",
+            "title": "Rec Room Closes",
+            "subtitle": "Rec Room shuts down due to unsustainable profitability",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Studio Closure"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/rec-room-shutting-down-after-failing-to-become-sustainability-profitable-",
+                "date": "2026-03-31T10:12:06.000Z"
+            },
+            "whatsNew": "Rec Room is shutting down after failing to achieve sustainable profitability. The studio's costs consistently outweighed its revenue.",
+            "whyItMatters": "The closure of Rec Room highlights the challenges faced by game development studios in achieving financial sustainability. It may impact the gaming industry's landscape and influence future development strategies.",
+            "howToUse": "Game developers can learn from Rec Room's experience by prioritizing cost management and revenue growth strategies to ensure sustainable profitability.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Rec Room"
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
