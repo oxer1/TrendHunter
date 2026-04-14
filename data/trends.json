@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T02:13:28.779Z",
+        "scanDate": "2026-04-14T05:21:32.610Z",
         "version": "2.5.0",
-        "totalTrends": 49,
+        "totalTrends": 50,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-4hj6a0w63",
+            "title": "Kalshi IC360 Integration",
+            "subtitle": "Kalshi integrates IC360 self-exclusion tool for compliance",
+            "category": "iGaming",
+            "tags": [
+                "self-exclusion",
+                "compliance",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/kalshi-integrates-self-exclusion-tool-industry-first/",
+                "date": "2026-04-13T16:08:09.000Z"
+            },
+            "whatsNew": "Kalshi has integrated IC360's self-exclusion tool, a first in the industry, to enhance compliance. This tool allows for US-spanning prediction market self-exclusion.",
+            "whyItMatters": "This integration sets a new standard for responsible gaming and compliance in the iGaming industry. It demonstrates Kalshi's commitment to player protection and regulatory adherence.",
+            "howToUse": "Operators can follow Kalshi's lead by integrating similar self-exclusion tools to ensure compliance and promote responsible gaming practices.",
+            "beneficiaries": [
+                "iGaming operators",
+                "players"
+            ],
+            "companies": [
+                "Kalshi",
+                "IC360"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-r72jrtyn2",
             "title": "Roblox Age Accounts",
@@ -1667,7 +1699,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T02:13:28.780Z",
+            "lastScan": "2026-04-14T05:21:32.611Z",
             "note": null
         },
         {
@@ -1676,7 +1708,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T02:13:28.780Z",
+            "lastScan": "2026-04-14T05:21:32.611Z",
             "note": null
         },
         {
