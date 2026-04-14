@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T16:09:24.618Z",
+        "scanDate": "2026-04-14T18:02:25.275Z",
         "version": "2.5.0",
-        "totalTrends": 46,
+        "totalTrends": 48,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-e7uwtpldf",
+            "title": "Pragmata Game",
+            "subtitle": "Capcom discusses crafting a new franchise with puzzle-solving and sci-fi combat",
+            "category": "Tech",
+            "tags": [
+                "Capcom",
+                "Pragmata",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-capcom-s-pragmata-blends-puzzle-solving-with-sci-fi-combat",
+                "date": "2026-04-14T17:34:03.000Z"
+            },
+            "whatsNew": "Capcom's new franchise Pragmata combines puzzle-solving with sci-fi combat, offering a unique gaming experience. The game's development process involved careful crafting of its unusual hook. The blend of genres is expected to attract a wide range of players.",
+            "whyItMatters": "The success of Pragmata could pave the way for more experimental game development in the industry, encouraging other studios to combine different genres. This innovative approach may attract new audiences and set a new standard for game design.",
+            "howToUse": "Game developers can take inspiration from Pragmata's genre-bending approach and experiment with unique combinations of gameplay mechanics in their own projects. By doing so, they can potentially create fresh and engaging experiences for players.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Capcom"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-b24xpcz9f",
+            "title": "Bloober Team",
+            "subtitle": "Bloober Team discusses risks of relying on one title in today's market",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Risk Management",
+                "Bloober Team"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/chronos-the-new-dawn-dev-bloober-team-transitions-to-a-multi-project-structure",
+                "date": "2026-04-14T16:16:48.000Z"
+            },
+            "whatsNew": "Bloober Team is adopting a multi-project structure to mitigate risk. The company is sharing insights on its expanded leadership. This approach allows for diversification of projects and revenue streams.",
+            "whyItMatters": "This strategy can help game development companies reduce financial risk and increase their chances of success in a competitive market. It also highlights the importance of adaptability in the gaming industry.",
+            "howToUse": "Game developers can apply this strategy by diversifying their project portfolio and exploring different genres and platforms. This can help them stay competitive and reduce dependence on a single title.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Investors"
+            ],
+            "companies": [
+                "Bloober Team"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-gftkygexm",
+            "title": "Luna Downscaling",
+            "subtitle": "Amazon's cloud video game service Luna is being downscaled, affecting previously purchased titles",
+            "category": "Tech",
+            "tags": [
+                "Cloud Gaming",
+                "Luna",
+                "Amazon"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/amazon-is-downscaling-video-game-service-luna",
+                "date": "2026-04-14T14:26:12.000Z"
+            },
+            "whatsNew": "Amazon is downscaling its cloud video game service Luna, with previously purchased titles stopping work on June 10. No refunds will be offered. This move indicates a shift in Amazon's gaming strategy.",
+            "whyItMatters": "The downscaling of Luna affects gamers who have invested in the platform and may indicate a broader trend in the cloud gaming market. It also raises questions about the long-term viability of cloud gaming services.",
+            "howToUse": "Gamers should explore alternative cloud gaming options and consider the potential risks of investing in new platforms. Developers should be cautious when choosing cloud gaming partners.",
+            "beneficiaries": [
+                "Gamers",
+                "Developers"
+            ],
+            "companies": [
+                "Amazon"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-obw96cvq9",
             "title": "TR-49 Breaks Even",
@@ -1412,35 +1505,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-b5qrqhwm8",
-            "title": "Absolum Storytelling",
-            "subtitle": "Absolum's narrative serves its art direction, enhancing player engagement",
-            "category": "Art",
-            "tags": [
-                "Game Development",
-                "Narrative Design",
-                "Art Direction"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/what-happens-when-story-serves-art-direction-in-absolum-narrative-notebook-2",
-                "date": "2026-03-31T17:12:36.000Z"
-            },
-            "whatsNew": "Absolum's storytelling approach focuses on directing player attention to surroundings, showcasing innovative narrative techniques. This method enhances immersion and engagement. The game's art direction is deeply intertwined with its storytelling.",
-            "whyItMatters": "This approach can set a new standard for narrative-driven games, influencing how developers balance story and art direction. It highlights the importance of considering the player's perspective in game design.",
-            "howToUse": "Developers can apply this technique by prioritizing environmental storytelling and using narrative to guide the player's attention, creating a more immersive experience.",
-            "beneficiaries": [
-                "Game Developers",
-                "Narrative Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "visual-style-trends",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1577,7 +1641,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T16:09:24.618Z",
+            "lastScan": "2026-04-14T18:02:25.275Z",
             "note": null
         },
         {
@@ -14849,6 +14913,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-b5qrqhwm8",
+            "title": "Absolum Storytelling",
+            "subtitle": "Absolum's narrative serves its art direction, enhancing player engagement",
+            "category": "Art",
+            "tags": [
+                "Game Development",
+                "Narrative Design",
+                "Art Direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/what-happens-when-story-serves-art-direction-in-absolum-narrative-notebook-2",
+                "date": "2026-03-31T17:12:36.000Z"
+            },
+            "whatsNew": "Absolum's storytelling approach focuses on directing player attention to surroundings, showcasing innovative narrative techniques. This method enhances immersion and engagement. The game's art direction is deeply intertwined with its storytelling.",
+            "whyItMatters": "This approach can set a new standard for narrative-driven games, influencing how developers balance story and art direction. It highlights the importance of considering the player's perspective in game design.",
+            "howToUse": "Developers can apply this technique by prioritizing environmental storytelling and using narrative to guide the player's attention, creating a more immersive experience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Narrative Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
             "isNew": false
         }
     ]
