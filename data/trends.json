@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-14T07:26:56.757Z",
+        "scanDate": "2026-04-14T09:15:18.685Z",
         "version": "2.5.0",
-        "totalTrends": 50,
+        "totalTrends": 48,
         "categories": [
             "iGaming",
             "AI",
@@ -545,37 +545,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-0ivwj6g7v",
-            "title": "WinSpirit RG",
-            "subtitle": "WinSpirit integrates Responsible Gaming into its core product",
-            "category": "iGaming",
-            "tags": [
-                "Responsible Gaming",
-                "WinSpirit",
-                "iGaming Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVB1bHhiMlFJNU85Z1pZbmpnUnhPQW5PVDJUYzdteVBVY3hEWkhlN2FFX3FWenMzUWlPUldVclNHUVBDSFlGSU1hU09vemp6U0FfZjh2a19JeTFfTVRjQWM5cE5jbzRmeGNIQ3pfMVdYRjNDOGRKZFJKd1FGS29wdkxFa0pFekZoRjlUYlZhdWRVcGg5NTl3?oc=5",
-                "date": "2026-03-31T08:02:04.000Z"
-            },
-            "whatsNew": "WinSpirit is shifting its approach to Responsible Gaming by integrating it into its core product, moving beyond mere compliance. This approach is expected to enhance player protection and experience.",
-            "whyItMatters": "The integration of RG into the core product can significantly impact player safety and the company's reputation, setting a new standard in the iGaming industry.",
-            "howToUse": "Operators can follow WinSpirit's lead by reassessing their RG strategies and incorporating more proactive, integrated approaches to player protection.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [
-                "WinSpirit"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
             "isNew": false
         },
         {
@@ -1531,38 +1500,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-0jc8yaxem",
-            "title": "Eidos Layoffs",
-            "subtitle": "Embracer Group lays off 124 employees at Eidos Montreal",
-            "category": "Tech",
-            "tags": [
-                "Eidos Montreal",
-                "Embracer Group",
-                "Layoffs"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/embracer-has-laid-off-124-employees-at-eidos-montreal",
-                "date": "2026-03-31T09:09:34.000Z"
-            },
-            "whatsNew": "Embracer Group has laid off 124 employees at Eidos Montreal, adding to the 300 roles cut since 2024. This move indicates a significant restructuring within the company. The layoffs may impact game development projects at the studio.",
-            "whyItMatters": "The layoffs at Eidos Montreal may affect the development and release of upcoming games, potentially altering the gaming landscape. This move also reflects the current state of the gaming industry, where companies are adapting to changing market conditions.",
-            "howToUse": "Game developers and industry professionals should monitor the situation and consider the potential implications for their own projects and partnerships. Companies can learn from Embracer Group's restructuring efforts to inform their own strategic decisions.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Embracer Group",
-                "Eidos Montreal"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1699,7 +1636,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-14T07:26:56.758Z",
+            "lastScan": "2026-04-14T09:15:18.685Z",
             "note": null
         },
         {
@@ -14786,6 +14723,69 @@
             ],
             "companies": [
                 "Bethesda"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-0ivwj6g7v",
+            "title": "WinSpirit RG",
+            "subtitle": "WinSpirit integrates Responsible Gaming into its core product",
+            "category": "iGaming",
+            "tags": [
+                "Responsible Gaming",
+                "WinSpirit",
+                "iGaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVB1bHhiMlFJNU85Z1pZbmpnUnhPQW5PVDJUYzdteVBVY3hEWkhlN2FFX3FWenMzUWlPUldVclNHUVBDSFlGSU1hU09vemp6U0FfZjh2a19JeTFfTVRjQWM5cE5jbzRmeGNIQ3pfMVdYRjNDOGRKZFJKd1FGS29wdkxFa0pFekZoRjlUYlZhdWRVcGg5NTl3?oc=5",
+                "date": "2026-03-31T08:02:04.000Z"
+            },
+            "whatsNew": "WinSpirit is shifting its approach to Responsible Gaming by integrating it into its core product, moving beyond mere compliance. This approach is expected to enhance player protection and experience.",
+            "whyItMatters": "The integration of RG into the core product can significantly impact player safety and the company's reputation, setting a new standard in the iGaming industry.",
+            "howToUse": "Operators can follow WinSpirit's lead by reassessing their RG strategies and incorporating more proactive, integrated approaches to player protection.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "WinSpirit"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0jc8yaxem",
+            "title": "Eidos Layoffs",
+            "subtitle": "Embracer Group lays off 124 employees at Eidos Montreal",
+            "category": "Tech",
+            "tags": [
+                "Eidos Montreal",
+                "Embracer Group",
+                "Layoffs"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/embracer-has-laid-off-124-employees-at-eidos-montreal",
+                "date": "2026-03-31T09:09:34.000Z"
+            },
+            "whatsNew": "Embracer Group has laid off 124 employees at Eidos Montreal, adding to the 300 roles cut since 2024. This move indicates a significant restructuring within the company. The layoffs may impact game development projects at the studio.",
+            "whyItMatters": "The layoffs at Eidos Montreal may affect the development and release of upcoming games, potentially altering the gaming landscape. This move also reflects the current state of the gaming industry, where companies are adapting to changing market conditions.",
+            "howToUse": "Game developers and industry professionals should monitor the situation and consider the potential implications for their own projects and partnerships. Companies can learn from Embracer Group's restructuring efforts to inform their own strategic decisions.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Embracer Group",
+                "Eidos Montreal"
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
