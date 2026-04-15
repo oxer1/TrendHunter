@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-15T02:10:41.528Z",
+        "scanDate": "2026-04-15T05:21:56.561Z",
         "version": "2.5.0",
-        "totalTrends": 49,
+        "totalTrends": 50,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nz6r5cgb7",
+            "title": "High Roller Soars",
+            "subtitle": "High Roller's share price doubles after announcing a prediction market offering in partnership with Crypto.com",
+            "category": "iGaming",
+            "tags": [
+                "High Roller",
+                "Crypto.com",
+                "Prediction Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/high-roller-share-price-doubles-crypto-com-partnership/",
+                "date": "2026-04-14T16:35:13.000Z"
+            },
+            "whatsNew": "High Roller launched its prediction market offering, leading to a significant increase in its share price. The partnership with Crypto.com is expected to further boost the company's growth.",
+            "whyItMatters": "The partnership between High Roller and Crypto.com marks a significant development in the iGaming industry, potentially paving the way for more innovative offerings. This move is likely to impact the industry's landscape and attract new investors.",
+            "howToUse": "Investors and iGaming companies can take note of the potential of prediction markets and explore similar partnerships to drive growth and innovation.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "High Roller",
+                "Crypto.com"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-v6e8lpqbp",
             "title": "LGBTQ Narratives",
@@ -1670,7 +1702,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T02:10:41.529Z",
+            "lastScan": "2026-04-15T05:21:56.561Z",
             "note": null
         },
         {
@@ -1679,7 +1711,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T02:10:41.529Z",
+            "lastScan": "2026-04-15T05:21:56.561Z",
             "note": null
         },
         {
