@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-15T17:00:29.209Z",
+        "scanDate": "2026-04-15T18:11:48.027Z",
         "version": "2.5.0",
-        "totalTrends": 41,
+        "totalTrends": 42,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dtzp59isp",
+            "title": "RuneScape Expansion",
+            "subtitle": "RuneScape developer expands IP to Asia-Pacific region with localized versions",
+            "category": "Tech",
+            "tags": [
+                "RuneScape",
+                "Expansion",
+                "Localization"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/runescape-developer-to-expand-its-ip-to-the-asian-pacific-region",
+                "date": "2026-04-15T17:20:43.000Z"
+            },
+            "whatsNew": "RuneScape: Dragonwilds will be localized into Simplified Chinese, Japanese, and Korean this year, marking a significant expansion into the Asia-Pacific region. The move aims to tap into the region's vast gaming market. This expansion is part of the developer's strategy to increase its global presence.",
+            "whyItMatters": "The expansion into the Asia-Pacific region could significantly increase RuneScape's player base and revenue. It also highlights the growing importance of localization in the gaming industry.",
+            "howToUse": "Game developers can learn from this example by considering localization as a key strategy for expanding their own games into new markets. They should research local preferences and tailor their games accordingly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Jagex"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-w5avut2t7",
             "title": "AI Law Advice",
@@ -1421,7 +1452,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T17:00:29.209Z",
+            "lastScan": "2026-04-15T18:11:48.027Z",
             "note": null
         },
         {
