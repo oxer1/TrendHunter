@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-15T10:56:48.792Z",
+        "scanDate": "2026-04-15T11:56:02.685Z",
         "version": "2.5.0",
-        "totalTrends": 47,
+        "totalTrends": 48,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-emapkwik2",
+            "title": "Xbox Game Pass",
+            "subtitle": "ID@Xbox global director discusses the discovery benefits of Xbox Game Pass",
+            "category": "Tech",
+            "tags": [
+                "Xbox Game Pass",
+                "Game Development",
+                "Subscription Service"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/id-xbox-global-director-says-xbox-game-pass-is-a-discovery-multiplier",
+                "date": "2026-04-15T09:42:51.000Z"
+            },
+            "whatsNew": "The ID@Xbox global director highlights the positive impact of Xbox Game Pass on game discovery, creating a snowball effect for developers. This service allows for increased visibility and accessibility of games. The director's statement underscores the importance of such platforms in the gaming industry.",
+            "whyItMatters": "The success of Xbox Game Pass can influence the strategy of game developers and publishers, potentially leading to more titles being released on the platform. This, in turn, can affect the overall gaming landscape and consumer behavior.",
+            "howToUse": "Developers can leverage Xbox Game Pass to increase their game's visibility and reach a broader audience, while also considering the service's impact on their revenue models and marketing strategies.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Microsoft"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-nz6r5cgb7",
             "title": "High Roller Soars",
@@ -1608,7 +1639,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T10:56:48.792Z",
+            "lastScan": "2026-04-15T11:56:02.685Z",
             "note": null
         },
         {
