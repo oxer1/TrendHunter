@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-15T13:22:33.724Z",
+        "scanDate": "2026-04-15T15:04:08.882Z",
         "version": "2.5.0",
-        "totalTrends": 45,
+        "totalTrends": 43,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-w5avut2t7",
+            "title": "AI Law Advice",
+            "subtitle": "Lawyer warns game devs about generative AI ownership issues",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "Law"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/video-game-lawyer-implores-devs-to-understand-ownership-and-swerve-generative-ai",
+                "date": "2026-04-15T13:32:01.000Z"
+            },
+            "whatsNew": "A lawyer is advising game developers to understand ownership rights when using generative AI. This comes as the use of AI in game development is increasing. The lawyer's warning highlights potential legal issues with AI-generated content.",
+            "whyItMatters": "Understanding ownership rights is crucial for game developers to avoid legal disputes. The increasing use of generative AI in game development makes this advice particularly relevant.",
+            "howToUse": "Game developers should seek legal advice to ensure they understand ownership rights when using generative AI. They should also establish clear guidelines for AI use in their development process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Publishers"
+            ],
+            "companies": [
+                "Mishcon de Reya"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-emapkwik2",
             "title": "Xbox Game Pass",
@@ -1256,68 +1287,6 @@
             "isNew": false
         },
         {
-            "id": "t-wpn0u12xc",
-            "title": "Robinhood Sues",
-            "subtitle": "Robinhood files lawsuit against Washington over prediction markets regulation",
-            "category": "iGaming",
-            "tags": [
-                "prediction markets",
-                "regulation",
-                "gambling"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/prediction-markets/robinhood-files-suit-washington-prediction-markets/",
-                "date": "2026-04-01T14:27:53.000Z"
-            },
-            "whatsNew": "Robinhood has filed a lawsuit in federal court in response to Washington's moves against prediction markets, highlighting the growing tension between these markets and gambling regulators. The lawsuit is a significant development in the ongoing debate over the regulation of prediction markets.",
-            "whyItMatters": "The outcome of this lawsuit could have significant implications for the future of prediction markets and online gambling, potentially setting a precedent for how these markets are regulated. It also underscores the challenges faced by companies operating in this space as they navigate complex and evolving regulatory landscapes.",
-            "howToUse": "Companies in the iGaming industry should closely monitor the outcome of this lawsuit and adjust their strategies accordingly, considering the potential impact on their operations and the broader regulatory environment.",
-            "beneficiaries": [
-                "iGaming operators",
-                "regulators"
-            ],
-            "companies": [
-                "Robinhood"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-3pn2s7l05",
-            "title": "Alea Leads Brazil",
-            "subtitle": "Alea partners with NEXT Focus: Brazil to discuss the country's iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Brazil",
-                "NEXT Focus"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/alea-leads-the-conversation-sao-paulo-as-headline-partner-next-focus-brazil/",
-                "date": "2026-04-01T15:03:54.000Z"
-            },
-            "whatsNew": "Alea is partnering with NEXT Focus: Brazil for the second consecutive year, indicating a growing interest in the Brazilian iGaming market. The event will bring together key decision-makers to discuss the industry's performance and sustainability.",
-            "whyItMatters": "The partnership highlights the importance of the Brazilian iGaming market and the need for industry leaders to discuss its growth and challenges. It also showcases Alea's commitment to the region and its desire to shape the conversation around iGaming in Brazil.",
-            "howToUse": "Industry professionals can attend the NEXT Focus: Brazil event to network with key decision-makers and stay informed about the latest developments in the Brazilian iGaming market.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Industry professionals"
-            ],
-            "companies": [
-                "Alea"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-p4zw8qrfm",
             "title": "Ubisoft Sued",
             "subtitle": "French consumer group sues Ubisoft over The Crew shutdown",
@@ -1380,37 +1349,6 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-pi535clyd",
-            "title": "Nexon AI Innovation",
-            "subtitle": "Nexon chairman Patrick Soderlund implements company reset and AI integration to increase innovation and reduce coding time",
-            "category": "AI",
-            "tags": [
-                "AI",
-                "Game Development",
-                "Nexon"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/-more-time-innovating-less-time-writing-code-arc-raiders-publisher-nexon-believes-ai-is-the-answer",
-                "date": "2026-04-01T14:07:19.000Z"
-            },
-            "whatsNew": "Nexon is integrating AI to reduce coding time and increase innovation. The company is also undergoing a reset, resulting in some project cancellations. This move is expected to liberate the workforce and allow for more creative focus.",
-            "whyItMatters": "The integration of AI in game development can significantly impact the efficiency and creativity of the workforce, allowing for more innovative and complex games to be developed. This move by Nexon can set a precedent for the industry.",
-            "howToUse": "Game developers can explore AI tools to automate repetitive coding tasks and focus on creative aspects of game development. Companies can also consider implementing AI-driven workflows to increase efficiency and innovation.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Nexon"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ],
@@ -1548,7 +1486,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T13:22:33.724Z",
+            "lastScan": "2026-04-15T15:04:08.882Z",
             "note": null
         },
         {
@@ -15034,6 +14972,99 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-wpn0u12xc",
+            "title": "Robinhood Sues",
+            "subtitle": "Robinhood files lawsuit against Washington over prediction markets regulation",
+            "category": "iGaming",
+            "tags": [
+                "prediction markets",
+                "regulation",
+                "gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/robinhood-files-suit-washington-prediction-markets/",
+                "date": "2026-04-01T14:27:53.000Z"
+            },
+            "whatsNew": "Robinhood has filed a lawsuit in federal court in response to Washington's moves against prediction markets, highlighting the growing tension between these markets and gambling regulators. The lawsuit is a significant development in the ongoing debate over the regulation of prediction markets.",
+            "whyItMatters": "The outcome of this lawsuit could have significant implications for the future of prediction markets and online gambling, potentially setting a precedent for how these markets are regulated. It also underscores the challenges faced by companies operating in this space as they navigate complex and evolving regulatory landscapes.",
+            "howToUse": "Companies in the iGaming industry should closely monitor the outcome of this lawsuit and adjust their strategies accordingly, considering the potential impact on their operations and the broader regulatory environment.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [
+                "Robinhood"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-3pn2s7l05",
+            "title": "Alea Leads Brazil",
+            "subtitle": "Alea partners with NEXT Focus: Brazil to discuss the country's iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Brazil",
+                "NEXT Focus"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/alea-leads-the-conversation-sao-paulo-as-headline-partner-next-focus-brazil/",
+                "date": "2026-04-01T15:03:54.000Z"
+            },
+            "whatsNew": "Alea is partnering with NEXT Focus: Brazil for the second consecutive year, indicating a growing interest in the Brazilian iGaming market. The event will bring together key decision-makers to discuss the industry's performance and sustainability.",
+            "whyItMatters": "The partnership highlights the importance of the Brazilian iGaming market and the need for industry leaders to discuss its growth and challenges. It also showcases Alea's commitment to the region and its desire to shape the conversation around iGaming in Brazil.",
+            "howToUse": "Industry professionals can attend the NEXT Focus: Brazil event to network with key decision-makers and stay informed about the latest developments in the Brazilian iGaming market.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Industry professionals"
+            ],
+            "companies": [
+                "Alea"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-pi535clyd",
+            "title": "Nexon AI Innovation",
+            "subtitle": "Nexon chairman Patrick Soderlund implements company reset and AI integration to increase innovation and reduce coding time",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Game Development",
+                "Nexon"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-more-time-innovating-less-time-writing-code-arc-raiders-publisher-nexon-believes-ai-is-the-answer",
+                "date": "2026-04-01T14:07:19.000Z"
+            },
+            "whatsNew": "Nexon is integrating AI to reduce coding time and increase innovation. The company is also undergoing a reset, resulting in some project cancellations. This move is expected to liberate the workforce and allow for more creative focus.",
+            "whyItMatters": "The integration of AI in game development can significantly impact the efficiency and creativity of the workforce, allowing for more innovative and complex games to be developed. This move by Nexon can set a precedent for the industry.",
+            "howToUse": "Game developers can explore AI tools to automate repetitive coding tasks and focus on creative aspects of game development. Companies can also consider implementing AI-driven workflows to increase efficiency and innovation.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Nexon"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
