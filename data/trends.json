@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-15T23:39:19.903Z",
+        "scanDate": "2026-04-16T02:26:33.487Z",
         "version": "2.5.0",
-        "totalTrends": 42,
+        "totalTrends": 43,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-tpqc89vh4",
+            "title": "US Online Gambling",
+            "subtitle": "Stifel's US Online Gambling Tracker shows volatile results in March",
+            "category": "iGaming",
+            "tags": [
+                "US Online Gambling",
+                "Sports Betting",
+                "Market Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/stifels-us-online-gambling-tracker-volatile-results-march/",
+                "date": "2026-04-15T15:00:06.000Z"
+            },
+            "whatsNew": "US online sports betting volumes showed uneven movement through February and March. The market continues to adjust, indicating volatility in the industry.",
+            "whyItMatters": "The volatility in the US online gambling market affects the entire iGaming industry, influencing investor decisions and operator strategies. It highlights the need for adaptable business models.",
+            "howToUse": "Operators should closely monitor market trends and adjust their strategies accordingly to remain competitive in the volatile US online gambling market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Stifel"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-1uul8bcis",
+            "title": "NEXT.io Launches",
+            "subtitle": "NEXT.io expands into prediction markets with NEXTPredict.io and hosts the world's first prediction markets summit",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "NEXT.io",
+                "NEXTPredict.io"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/next-io-launches-prediction-markets-summit/",
+                "date": "2026-04-15T14:03:48.000Z"
+            },
+            "whatsNew": "NEXT.io has launched NEXTPredict.io, a new platform for prediction markets, and is hosting the world's first prediction markets summit in New York. This move marks NEXT.io's expansion into the prediction markets space.",
+            "whyItMatters": "The launch of NEXTPredict.io and the prediction markets summit indicates a growing interest in prediction markets, which could have significant implications for the iGaming industry. This development may attract new players and create new opportunities for innovation.",
+            "howToUse": "Operators and developers in the iGaming industry can explore NEXTPredict.io to understand its features and potential applications, and consider attending the prediction markets summit to learn more about the latest trends and opportunities.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-dtzp59isp",
             "title": "RuneScape Expansion",
@@ -884,38 +946,6 @@
             "isNew": false
         },
         {
-            "id": "t-w3v6t5hks",
-            "title": "Gemma 4 Released",
-            "subtitle": "Hugging Face introduces Gemma 4, a frontier multimodal intelligence model for on-device applications",
-            "category": "AI",
-            "tags": [
-                "Multimodal Intelligence",
-                "On-Device AI",
-                "Gemma 4"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/gemma4",
-                "date": "2026-04-02T00:00:00.000Z"
-            },
-            "whatsNew": "Gemma 4 brings advanced multimodal capabilities to on-device applications, enabling more sophisticated AI interactions. This model is designed to process and generate multiple forms of data, such as text, images, and audio, directly on user devices. The release of Gemma 4 signifies a significant step forward in making AI more accessible and private.",
-            "whyItMatters": "Gemma 4's on-device capabilities enhance user privacy and reduce latency, making it a crucial development for applications requiring real-time, secure AI processing. This technology has the potential to revolutionize how AI is integrated into various products and services, especially in the creative and gaming industries.",
-            "howToUse": "Developers can leverage Gemma 4 by integrating it into their applications to enable multimodal interactions, enhancing user experience through more natural and intuitive interfaces. This can be particularly beneficial for game development and AI-assisted content creation tools.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers",
-                "App Developers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-3jf4ug6nf",
             "title": "Gamanza Partners",
             "subtitle": "Gamanza Engage partners with Apuestas Royal to bring CRM and gamification tools to Latin America",
@@ -1452,7 +1482,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T23:39:19.903Z",
+            "lastScan": "2026-04-16T02:26:33.487Z",
             "note": null
         },
         {
@@ -1461,7 +1491,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-15T05:21:56.561Z",
+            "lastScan": "2026-04-16T02:26:33.487Z",
             "note": null
         },
         {
@@ -15096,6 +15126,38 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-w3v6t5hks",
+            "title": "Gemma 4 Released",
+            "subtitle": "Hugging Face introduces Gemma 4, a frontier multimodal intelligence model for on-device applications",
+            "category": "AI",
+            "tags": [
+                "Multimodal Intelligence",
+                "On-Device AI",
+                "Gemma 4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/gemma4",
+                "date": "2026-04-02T00:00:00.000Z"
+            },
+            "whatsNew": "Gemma 4 brings advanced multimodal capabilities to on-device applications, enabling more sophisticated AI interactions. This model is designed to process and generate multiple forms of data, such as text, images, and audio, directly on user devices. The release of Gemma 4 signifies a significant step forward in making AI more accessible and private.",
+            "whyItMatters": "Gemma 4's on-device capabilities enhance user privacy and reduce latency, making it a crucial development for applications requiring real-time, secure AI processing. This technology has the potential to revolutionize how AI is integrated into various products and services, especially in the creative and gaming industries.",
+            "howToUse": "Developers can leverage Gemma 4 by integrating it into their applications to enable multimodal interactions, enhancing user experience through more natural and intuitive interfaces. This can be particularly beneficial for game development and AI-assisted content creation tools.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers",
+                "App Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
