@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-16T09:16:23.685Z",
+        "scanDate": "2026-04-16T11:00:12.026Z",
         "version": "2.5.0",
-        "totalTrends": 45,
+        "totalTrends": 43,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p005xfz3y",
@@ -1072,39 +1072,6 @@
             "isNew": false
         },
         {
-            "id": "t-h6oetcch7",
-            "title": "Spribe Licence Lifted",
-            "subtitle": "UKGC lifts Spribe licence suspension, Aviator remains unavailable",
-            "category": "iGaming",
-            "tags": [
-                "UKGC",
-                "Spribe",
-                "Aviator",
-                "Licensing"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/aviator-ukgc-lifts-spribe-licence-suspension/",
-                "date": "2026-04-02T09:46:58.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has lifted the licence suspension of Spribe. However, the popular game Aviator remains unavailable.",
-            "whyItMatters": "The lifting of the suspension is a significant development for Spribe, but the continued unavailability of Aviator may impact player engagement.",
-            "howToUse": "Operators can now reintegrate Spribe's offerings, excluding Aviator, into their platforms.",
-            "beneficiaries": [
-                "Operators",
-                "Players"
-            ],
-            "companies": [
-                "Spribe",
-                "UKGC"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-p4249su3h",
             "title": "Take-Two AI Layoffs",
             "subtitle": "Take-Two lays off head of AI and team members",
@@ -1193,35 +1160,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-4gs8f7nd3",
-            "title": "Australia Limits Ads",
-            "subtitle": "Australia proposes new measures to control gambling by limiting harm",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Regulation",
-                "Australia",
-                "Advertising"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/australia-tightens-gambling-ad-rules/",
-                "date": "2026-04-02T10:50:06.000Z"
-            },
-            "whatsNew": "The Australian Government has proposed new measures to control gambling by limiting harm, including limiting gambling ads. Critics are split on the potential impact of these measures.",
-            "whyItMatters": "These new measures could significantly impact the iGaming industry in Australia, affecting how companies advertise and operate. The split among critics suggests uncertainty about the effectiveness of these reforms.",
-            "howToUse": "Companies operating in Australia should review and adapt their advertising strategies to comply with the proposed regulations, while also monitoring the ongoing debate about their impact.",
-            "beneficiaries": [
-                "Regulators",
-                "iGaming Companies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1544,7 +1482,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T09:16:23.685Z",
+            "lastScan": "2026-04-16T11:00:12.026Z",
             "note": null
         },
         {
@@ -15284,6 +15222,68 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-h6oetcch7",
+            "title": "Spribe Licence Lifted",
+            "subtitle": "UKGC lifts Spribe licence suspension, Aviator remains unavailable",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Spribe",
+                "Aviator",
+                "Licensing"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/aviator-ukgc-lifts-spribe-licence-suspension/",
+                "date": "2026-04-02T09:46:58.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has lifted the licence suspension of Spribe. However, the popular game Aviator remains unavailable.",
+            "whyItMatters": "The lifting of the suspension is a significant development for Spribe, but the continued unavailability of Aviator may impact player engagement.",
+            "howToUse": "Operators can now reintegrate Spribe's offerings, excluding Aviator, into their platforms.",
+            "beneficiaries": [
+                "Operators",
+                "Players"
+            ],
+            "companies": [
+                "Spribe",
+                "UKGC"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-4gs8f7nd3",
+            "title": "Australia Limits Ads",
+            "subtitle": "Australia proposes new measures to control gambling by limiting harm",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Regulation",
+                "Australia",
+                "Advertising"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/australia-tightens-gambling-ad-rules/",
+                "date": "2026-04-02T10:50:06.000Z"
+            },
+            "whatsNew": "The Australian Government has proposed new measures to control gambling by limiting harm, including limiting gambling ads. Critics are split on the potential impact of these measures.",
+            "whyItMatters": "These new measures could significantly impact the iGaming industry in Australia, affecting how companies advertise and operate. The split among critics suggests uncertainty about the effectiveness of these reforms.",
+            "howToUse": "Companies operating in Australia should review and adapt their advertising strategies to comply with the proposed regulations, while also monitoring the ongoing debate about their impact.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Companies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
