@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-16T02:26:33.487Z",
+        "scanDate": "2026-04-16T05:28:48.950Z",
         "version": "2.5.0",
-        "totalTrends": 43,
+        "totalTrends": 46,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-p005xfz3y",
+            "title": "Swintt New Director",
+            "subtitle": "Etienne Azzopardi appointed as managing director of Swintt after a successful interim stint",
+            "category": "iGaming",
+            "tags": [
+                "Swintt",
+                "Etienne Azzopardi",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/swintt-announce-etienne-azzopardi-as-new-managing-director/",
+                "date": "2026-04-15T13:25:04.000Z"
+            },
+            "whatsNew": "Swintt has appointed Etienne Azzopardi as its new managing director, following a successful three-month interim period. He will lead the company's product strategy and market expansion plans.",
+            "whyItMatters": "This appointment reflects Swintt's commitment to strategic growth and development in the iGaming industry. Azzopardi's experience as COO will likely influence the company's future direction.",
+            "howToUse": "Industry professionals can expect Swintt to continue innovating under Azzopardi's leadership, potentially leading to new partnerships and product releases.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Software Providers"
+            ],
+            "companies": [
+                "Swintt"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-hyn49pq3l",
+            "title": "Amusnet Czech Expansion",
+            "subtitle": "Amusnet partners with Paradise Casino Admiral to grow its presence in the Czech Republic",
+            "category": "iGaming",
+            "tags": [
+                "Amusnet",
+                "Paradise Casino Admiral",
+                "Czech Republic",
+                "Online Gaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/amusnet-grows-its-czech-republic-presence-with-paradise-casino-admiral-partnership/",
+                "date": "2026-04-15T13:16:01.000Z"
+            },
+            "whatsNew": "Amusnet has partnered with Paradise Casino Admiral to expand its presence in the Czech Republic. The partnership will bring Amusnet's portfolio of games to the Czech market. This move is part of Amusnet's strategy to expand across regulated European markets.",
+            "whyItMatters": "The partnership is significant for Amusnet as it marks another step in the company's expansion across Europe. It also highlights the growing importance of regulated markets in the iGaming industry.",
+            "howToUse": "Operators can leverage partnerships like this to expand their reach in new markets. Game developers can also use this as an opportunity to distribute their content to a wider audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Online Operators"
+            ],
+            "companies": [
+                "Amusnet",
+                "Paradise Casino Admiral"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-q8m122eyp",
+            "title": "Ladbrokes Advert Ruling",
+            "subtitle": "ASA overturns previous ruling against Ladbrokes advert from 2024",
+            "category": "iGaming",
+            "tags": [
+                "Ladbrokes",
+                "ASA",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/asa-overturns-ruling-ladbrokes-advert/",
+                "date": "2026-04-15T12:35:33.000Z"
+            },
+            "whatsNew": "The Advertising Standards Authority (ASA) has overturned a previous ruling against a 2024 Ladbrokes advert. The original ruling was made in June 2025.",
+            "whyItMatters": "This decision may impact how gambling companies approach advertising, potentially leading to changes in marketing strategies. It also reflects the evolving regulatory landscape in the iGaming industry.",
+            "howToUse": "iGaming companies should review their advertising strategies to ensure compliance with current regulations and consider the implications of this ruling on their marketing efforts.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Advertising Agencies"
+            ],
+            "companies": [
+                "Ladbrokes"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-tpqc89vh4",
             "title": "US Online Gambling",
@@ -49,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1uul8bcis",
@@ -80,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dtzp59isp",
@@ -1482,7 +1577,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T02:26:33.487Z",
+            "lastScan": "2026-04-16T05:28:48.950Z",
             "note": null
         },
         {
@@ -1491,7 +1586,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T02:26:33.487Z",
+            "lastScan": "2026-04-16T05:28:48.950Z",
             "note": null
         },
         {
