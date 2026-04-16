@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-16T07:28:14.489Z",
+        "scanDate": "2026-04-16T09:16:23.685Z",
         "version": "2.5.0",
-        "totalTrends": 46,
+        "totalTrends": 45,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-oo3433x8y",
+            "title": "Ubisoft Union Deal",
+            "subtitle": "Ubisoft Halifax union members agree to a settlement after studio closure",
+            "category": "Community",
+            "tags": [
+                "Ubisoft",
+                "Union",
+                "Studio Closure"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/ubisoft-halifax-union-members-agree-settlement-after-studio-closure",
+                "date": "2026-04-16T08:29:29.000Z"
+            },
+            "whatsNew": "Ubisoft Halifax union members have reached a settlement after the studio's closure, thanks to negotiations by their union. The settlement package details are not disclosed. This event highlights the importance of union representation in the game development industry.",
+            "whyItMatters": "The settlement shows the impact of union negotiation on protecting workers' rights in the gaming industry. It sets a precedent for future studio closures and union negotiations.",
+            "howToUse": "Game developers and studio managers can learn from this example by prioritizing union representation and negotiation to protect workers' rights during studio closures or restructuring.",
+            "beneficiaries": [
+                "Game Developers",
+                "Studio Managers"
+            ],
+            "companies": [
+                "Ubisoft"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-p005xfz3y",
             "title": "Swintt New Director",
@@ -1041,39 +1072,6 @@
             "isNew": false
         },
         {
-            "id": "t-3jf4ug6nf",
-            "title": "Gamanza Partners",
-            "subtitle": "Gamanza Engage partners with Apuestas Royal to bring CRM and gamification tools to Latin America",
-            "category": "iGaming",
-            "tags": [
-                "Gamanza Engage",
-                "Apuestas Royal",
-                "CRM",
-                "Gamification"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/gamanza-engage-partners-with-apuestas-royal/",
-                "date": "2026-04-02T07:57:59.000Z"
-            },
-            "whatsNew": "Gamanza Engage has partnered with Apuestas Royal to provide CRM, gamification, and engagement tools. The partnership will cover five brands and include real-time CRM, loyalty, and gamification toolkit, as well as free-to-play mini-games.",
-            "whyItMatters": "This partnership will enhance player interaction and retention for Apuestas Royal, and demonstrates the growing importance of CRM and gamification in the iGaming industry.",
-            "howToUse": "Operators can leverage Gamanza Engage's tools to improve player engagement and loyalty, while developers can focus on creating more interactive and immersive experiences.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Gamanza Engage",
-                "Apuestas Royal"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-h6oetcch7",
             "title": "Spribe Licence Lifted",
             "subtitle": "UKGC lifts Spribe licence suspension, Aviator remains unavailable",
@@ -1410,37 +1408,6 @@
             "visualStyle": null,
             "cluster": "community-ai-ethics",
             "isNew": false
-        },
-        {
-            "id": "t-0lmogvwi5",
-            "title": "Coffee Stain Closes",
-            "subtitle": "Goat Simulator maker Coffee Stain shuts down Malmo studio with 17 employees",
-            "category": "Community",
-            "tags": [
-                "Studio Closure",
-                "Coffee Stain",
-                "Game Development"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/goat-simulator-maker-coffee-stain-shutters-malmo-studio",
-                "date": "2026-04-02T09:15:16.000Z"
-            },
-            "whatsNew": "Coffee Stain, the developer behind Goat Simulator, has closed its Malmo studio. The studio had 17 employees. This move may indicate a shift in the company's focus or restructuring.",
-            "whyItMatters": "The closure of the Malmo studio may impact the game development industry, particularly for those who follow Coffee Stain's projects. It could also signal changes in the company's strategy or priorities.",
-            "howToUse": "Developers and industry observers should monitor Coffee Stain's future announcements for insight into their strategy and potential new projects.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Coffee Stain"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1577,7 +1544,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T07:28:14.489Z",
+            "lastScan": "2026-04-16T09:16:23.685Z",
             "note": null
         },
         {
@@ -15253,6 +15220,70 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-3jf4ug6nf",
+            "title": "Gamanza Partners",
+            "subtitle": "Gamanza Engage partners with Apuestas Royal to bring CRM and gamification tools to Latin America",
+            "category": "iGaming",
+            "tags": [
+                "Gamanza Engage",
+                "Apuestas Royal",
+                "CRM",
+                "Gamification"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/gamanza-engage-partners-with-apuestas-royal/",
+                "date": "2026-04-02T07:57:59.000Z"
+            },
+            "whatsNew": "Gamanza Engage has partnered with Apuestas Royal to provide CRM, gamification, and engagement tools. The partnership will cover five brands and include real-time CRM, loyalty, and gamification toolkit, as well as free-to-play mini-games.",
+            "whyItMatters": "This partnership will enhance player interaction and retention for Apuestas Royal, and demonstrates the growing importance of CRM and gamification in the iGaming industry.",
+            "howToUse": "Operators can leverage Gamanza Engage's tools to improve player engagement and loyalty, while developers can focus on creating more interactive and immersive experiences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Gamanza Engage",
+                "Apuestas Royal"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0lmogvwi5",
+            "title": "Coffee Stain Closes",
+            "subtitle": "Goat Simulator maker Coffee Stain shuts down Malmo studio with 17 employees",
+            "category": "Community",
+            "tags": [
+                "Studio Closure",
+                "Coffee Stain",
+                "Game Development"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/goat-simulator-maker-coffee-stain-shutters-malmo-studio",
+                "date": "2026-04-02T09:15:16.000Z"
+            },
+            "whatsNew": "Coffee Stain, the developer behind Goat Simulator, has closed its Malmo studio. The studio had 17 employees. This move may indicate a shift in the company's focus or restructuring.",
+            "whyItMatters": "The closure of the Malmo studio may impact the game development industry, particularly for those who follow Coffee Stain's projects. It could also signal changes in the company's strategy or priorities.",
+            "howToUse": "Developers and industry observers should monitor Coffee Stain's future announcements for insight into their strategy and potential new projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Coffee Stain"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
