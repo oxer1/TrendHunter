@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-16T12:04:48.310Z",
+        "scanDate": "2026-04-16T14:53:42.679Z",
         "version": "2.5.0",
-        "totalTrends": 43,
+        "totalTrends": 41,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,127 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-iw1guauxm",
+            "title": "Ludum Dare Ends",
+            "subtitle": "Ludum Dare game jam to officially end in October 2028 after spawning successful titles like Celeste and Inscryption",
+            "category": "Community",
+            "tags": [
+                "Game Jam",
+                "Ludum Dare",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/ludum-dare-will-officially-end-in-october-2028",
+                "date": "2026-04-16T14:24:51.000Z"
+            },
+            "whatsNew": "Ludum Dare, a long-running game jam, has announced its official end in October 2028. The event has been instrumental in the creation of several successful games.",
+            "whyItMatters": "The end of Ludum Dare marks a significant change in the game development community, potentially impacting indie game development and innovation. It has been a platform for developers to create and showcase their work, leading to the discovery of new talent and ideas.",
+            "howToUse": "Developers can utilize the remaining time to participate in Ludum Dare and leverage its platform for networking and showcasing their projects. They can also explore other game jams and community events to fill the gap left by Ludum Dare.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
+        {
+            "id": "t-tf936p5ci",
+            "title": "Triple Action Cash",
+            "subtitle": "Blueprint Gaming releases Triple Action Cash Strike with pots mechanic",
+            "category": "iGaming",
+            "tags": [
+                "Blueprint Gaming",
+                "Cash Strike series",
+                "pots mechanic"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/blueprint-gaming-triple-action-cash-strike/",
+                "date": "2026-04-16T14:20:03.000Z"
+            },
+            "whatsNew": "Blueprint Gaming's latest release, Triple Action Cash Strike, integrates the popular pots mechanic, enhancing the base play with the new Action Strike symbol. The 6×4, 5,000x max win offering is expected to build on the series' momentum. The Cash Strike family has consistently ranked in the supplier's top 10 revenue-generating markets.",
+            "whyItMatters": "The integration of the pots mechanic in Triple Action Cash Strike is likely to attract players and increase revenue for operators, given the series' strong performance in regulated territories worldwide. This development also highlights the importance of innovative mechanics in driving player engagement and retention.",
+            "howToUse": "Operators can leverage the popularity of the Cash Strike series and the pots mechanic to promote Triple Action Cash Strike and attract new players. Game developers can take note of the successful integration of the pots mechanic and consider incorporating similar features in their own games.",
+            "beneficiaries": [
+                "Game operators",
+                "Players"
+            ],
+            "companies": [
+                "Blueprint Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-w5b1epi0u",
+            "title": "Dutch Gambling",
+            "subtitle": "Licensed gambling in the Netherlands is experiencing stagnation while the black market grows.",
+            "category": "iGaming",
+            "tags": [
+                "Netherlands",
+                "Gaming Regulation",
+                "Black Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/legal-gambling-stagnates-netherlands-black-market-grows/",
+                "date": "2026-04-16T13:29:29.000Z"
+            },
+            "whatsNew": "The Dutch Gaming Authority's spring report highlights the decline in Gross Gaming Revenue (GGR) within the licensed industry, indicating a long-term trend. The black market, meanwhile, continues to grow, posing a challenge to regulatory efforts.",
+            "whyItMatters": "The stagnation of legal gambling and the growth of the black market in the Netherlands have significant implications for the country's gaming regulation and revenue. It underscores the need for effective measures to combat illegal gambling and promote a healthy, regulated market.",
+            "howToUse": "Regulators and operators can use this information to reassess their strategies and collaborate on more effective measures to combat the black market and stimulate growth in the licensed sector.",
+            "beneficiaries": [
+                "Regulators",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-2if1700ih",
+            "title": "Star Adds CEO",
+            "subtitle": "Star Entertainment appoints former MGM China CEO to board",
+            "category": "iGaming",
+            "tags": [
+                "Star Entertainment",
+                "MGM China",
+                "Gaming Industry"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/star-adds-former-mgm-china-ceo-board/",
+                "date": "2026-04-16T13:20:59.000Z"
+            },
+            "whatsNew": "Grant Bowie, former CEO of MGM China, joins Star Entertainment Group as a non-executive director. This move may indicate a strategic shift in the company's direction. The appointment could bring new insights and expertise to the board.",
+            "whyItMatters": "The addition of Grant Bowie to the board may lead to new business opportunities and partnerships for Star Entertainment. His experience in the gaming industry could be beneficial for the company's growth.",
+            "howToUse": "Companies in the gaming industry can consider appointing experienced professionals to their boards to gain new perspectives and expertise. This can help them stay competitive and adapt to changing market conditions.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "Star Entertainment Group",
+                "MGM China"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-oo3433x8y",
             "title": "Ubisoft Union Deal",
@@ -1103,127 +1224,6 @@
             "isNew": false
         },
         {
-            "id": "t-j3bi4f4ae",
-            "title": "Belgium Market Declines",
-            "subtitle": "Belgium's regulated gambling market contracted in 2024, marking the first decline after years of expansion",
-            "category": "iGaming",
-            "tags": [
-                "Regulated Market",
-                "Gambling Decline",
-                "Belgium"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/belgiums-regulated-gambling-market-declines/",
-                "date": "2026-04-02T12:21:27.000Z"
-            },
-            "whatsNew": "Belgium's licensed gambling market experienced its first decline in 2024 after years of growth. The regulator's data suggests a contraction in the market.",
-            "whyItMatters": "This decline may impact the revenue of gambling operators and the overall iGaming industry in Belgium. It could also lead to changes in regulation or marketing strategies.",
-            "howToUse": "Operators should reassess their strategies in the Belgian market and consider adapting to the changing regulatory and consumer landscape.",
-            "beneficiaries": [
-                "Regulators",
-                "Gambling Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-ek1koeh1m",
-            "title": "1xBet Wins Award",
-            "subtitle": "1xBet participated in AGE Africa 2026 and won the African Sports Betting Operator of the Year award",
-            "category": "iGaming",
-            "tags": [
-                "1xBet",
-                "AGE Africa",
-                "African Sports Betting Operator"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/triumph-in-lagos-1xbet-participated-in-age-africa-2026-and-won-prestigious-award/",
-                "date": "2026-04-02T12:13:10.000Z"
-            },
-            "whatsNew": "1xBet was recognized for its contribution to the development of the iGaming industry in Africa, winning a prestigious award at AGE Africa 2026. The award ceremony highlighted industry leaders who have made significant contributions through bold ideas and digital transformation. 1xBet's win demonstrates its growing presence in the African market.",
-            "whyItMatters": "The award win showcases 1xBet's commitment to innovation and customer satisfaction in the African iGaming market, further solidifying its position as a key player in the region. This recognition can lead to increased brand loyalty and market share for 1xBet.",
-            "howToUse": "Operators can learn from 1xBet's success by focusing on digital transformation and innovative products to enhance the gaming experience for African customers. This can involve investing in localized content, user-friendly interfaces, and secure payment options.",
-            "beneficiaries": [
-                "iGaming operators",
-                "African gamers"
-            ],
-            "companies": [
-                "1xBet"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-f1uck8foj",
-            "title": "Kentucky Betting Reform",
-            "subtitle": "Kentucky lawmakers send sports betting reform bill to governor",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "Regulation",
-                "Kentucky"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/kentucky-betting-reforms-sent-to-governor/",
-                "date": "2026-04-02T14:15:48.000Z"
-            },
-            "whatsNew": "The Kentucky legislature has passed a major sports betting and prediction markets reform bill, sending it to the governor for approval. This bill aims to reform the current betting landscape in Kentucky. The move is expected to expand betting opportunities in the state.",
-            "whyItMatters": "The reform bill has the potential to significantly impact the sports betting industry in Kentucky, providing more opportunities for operators and bettors alike. It also reflects a broader trend of states re-examining their betting laws and regulations.",
-            "howToUse": "Operators should prepare for potential changes in Kentucky's betting laws, while bettors should stay informed about the evolving landscape. Lawmakers and regulators can use this as a model for their own reform efforts.",
-            "beneficiaries": [
-                "Sports Betting Operators",
-                "Kentucky Bettors"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-onazxrfco",
-            "title": "Altenar vs Sportradar",
-            "subtitle": "Altenar accuses Sportradar of blocking US market entry in lawsuit",
-            "category": "iGaming",
-            "tags": [
-                "Sportradar",
-                "Altenar",
-                "Antitrust lawsuit"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/altenar-files-us-lawsuit-against-sportradar/",
-                "date": "2026-04-02T12:23:02.000Z"
-            },
-            "whatsNew": "Altenar has filed an antitrust lawsuit against Sportradar, alleging the company is using its control over official league data to block competition in the US market. This lawsuit highlights the ongoing competition and regulatory challenges in the US sports betting market. The lawsuit's outcome could significantly impact the US sports betting landscape.",
-            "whyItMatters": "The lawsuit's outcome could have significant implications for the US sports betting market, potentially affecting how official league data is distributed and used by sports betting operators. This could lead to increased competition and innovation in the market.",
-            "howToUse": "Companies operating in the US sports betting market should closely monitor the lawsuit's progress and consider how the outcome could impact their operations and market strategy.",
-            "beneficiaries": [
-                "Sports betting operators",
-                "Regulatory bodies"
-            ],
-            "companies": [
-                "Altenar",
-                "Sportradar"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-szu9e4t1w",
             "title": "Stormgate Offline Mode",
             "subtitle": "Stormgate rushes to implement offline mode after losing server access",
@@ -1285,66 +1285,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-pq41zbvk7",
-            "title": "The Last of Us",
-            "subtitle": "Naughty Dog's canceled multiplayer project was nearly complete after seven years of development",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Naughty Dog",
-                "The Last of Us"
-            ],
-            "trendStrength": 3,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/the-last-of-us-online-was-around-80-complete-when-naughty-dog-canceled-it",
-                "date": "2026-04-02T14:20:52.000Z"
-            },
-            "whatsNew": "The Last of Us Online was around 80% complete before its cancellation. The project's director spent seven years working on the multiplayer spinoff. The cancellation highlights the challenges and risks in game development.",
-            "whyItMatters": "The cancellation of The Last of Us Online shows the difficulties game developers face in bringing projects to fruition. It also underscores the importance of project management and resource allocation in the gaming industry.",
-            "howToUse": "Game developers can learn from Naughty Dog's experience by prioritizing project planning, setting realistic goals, and maintaining flexibility in their development process.",
-            "beneficiaries": [
-                "Game Developers",
-                "Project Managers"
-            ],
-            "companies": [
-                "Naughty Dog"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-h9nxb8l65",
-            "title": "GDC Dev Insights",
-            "subtitle": "Developers share responses to industry challenges at GDC",
-            "category": "Community",
-            "tags": [
-                "GDC",
-                "Game Development",
-                "Industry Trends"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/on-the-ground-at-gdc-how-are-devs-responding-to-industry-turmoil-",
-                "date": "2026-04-02T13:59:34.000Z"
-            },
-            "whatsNew": "Developers are discussing their strategies for navigating industry hardships at GDC. The event provides a platform for sharing experiences and solutions. Insights from the conference highlight the resilience of game developers.",
-            "whyItMatters": "Understanding how developers respond to industry challenges can inform strategies for innovation and growth. The collective response can shape the future of the gaming industry.",
-            "howToUse": "Attendees can apply the insights shared at GDC to their own development processes, fostering a community-driven approach to overcoming challenges.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ],
@@ -1482,7 +1422,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T12:04:48.310Z",
+            "lastScan": "2026-04-16T14:53:42.679Z",
             "note": null
         },
         {
@@ -1491,7 +1431,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T07:28:14.489Z",
+            "lastScan": "2026-04-16T14:53:42.679Z",
             "note": null
         },
         {
@@ -15284,6 +15224,187 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-j3bi4f4ae",
+            "title": "Belgium Market Declines",
+            "subtitle": "Belgium's regulated gambling market contracted in 2024, marking the first decline after years of expansion",
+            "category": "iGaming",
+            "tags": [
+                "Regulated Market",
+                "Gambling Decline",
+                "Belgium"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/belgiums-regulated-gambling-market-declines/",
+                "date": "2026-04-02T12:21:27.000Z"
+            },
+            "whatsNew": "Belgium's licensed gambling market experienced its first decline in 2024 after years of growth. The regulator's data suggests a contraction in the market.",
+            "whyItMatters": "This decline may impact the revenue of gambling operators and the overall iGaming industry in Belgium. It could also lead to changes in regulation or marketing strategies.",
+            "howToUse": "Operators should reassess their strategies in the Belgian market and consider adapting to the changing regulatory and consumer landscape.",
+            "beneficiaries": [
+                "Regulators",
+                "Gambling Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-ek1koeh1m",
+            "title": "1xBet Wins Award",
+            "subtitle": "1xBet participated in AGE Africa 2026 and won the African Sports Betting Operator of the Year award",
+            "category": "iGaming",
+            "tags": [
+                "1xBet",
+                "AGE Africa",
+                "African Sports Betting Operator"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/triumph-in-lagos-1xbet-participated-in-age-africa-2026-and-won-prestigious-award/",
+                "date": "2026-04-02T12:13:10.000Z"
+            },
+            "whatsNew": "1xBet was recognized for its contribution to the development of the iGaming industry in Africa, winning a prestigious award at AGE Africa 2026. The award ceremony highlighted industry leaders who have made significant contributions through bold ideas and digital transformation. 1xBet's win demonstrates its growing presence in the African market.",
+            "whyItMatters": "The award win showcases 1xBet's commitment to innovation and customer satisfaction in the African iGaming market, further solidifying its position as a key player in the region. This recognition can lead to increased brand loyalty and market share for 1xBet.",
+            "howToUse": "Operators can learn from 1xBet's success by focusing on digital transformation and innovative products to enhance the gaming experience for African customers. This can involve investing in localized content, user-friendly interfaces, and secure payment options.",
+            "beneficiaries": [
+                "iGaming operators",
+                "African gamers"
+            ],
+            "companies": [
+                "1xBet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-f1uck8foj",
+            "title": "Kentucky Betting Reform",
+            "subtitle": "Kentucky lawmakers send sports betting reform bill to governor",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Regulation",
+                "Kentucky"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/kentucky-betting-reforms-sent-to-governor/",
+                "date": "2026-04-02T14:15:48.000Z"
+            },
+            "whatsNew": "The Kentucky legislature has passed a major sports betting and prediction markets reform bill, sending it to the governor for approval. This bill aims to reform the current betting landscape in Kentucky. The move is expected to expand betting opportunities in the state.",
+            "whyItMatters": "The reform bill has the potential to significantly impact the sports betting industry in Kentucky, providing more opportunities for operators and bettors alike. It also reflects a broader trend of states re-examining their betting laws and regulations.",
+            "howToUse": "Operators should prepare for potential changes in Kentucky's betting laws, while bettors should stay informed about the evolving landscape. Lawmakers and regulators can use this as a model for their own reform efforts.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Kentucky Bettors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-onazxrfco",
+            "title": "Altenar vs Sportradar",
+            "subtitle": "Altenar accuses Sportradar of blocking US market entry in lawsuit",
+            "category": "iGaming",
+            "tags": [
+                "Sportradar",
+                "Altenar",
+                "Antitrust lawsuit"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/altenar-files-us-lawsuit-against-sportradar/",
+                "date": "2026-04-02T12:23:02.000Z"
+            },
+            "whatsNew": "Altenar has filed an antitrust lawsuit against Sportradar, alleging the company is using its control over official league data to block competition in the US market. This lawsuit highlights the ongoing competition and regulatory challenges in the US sports betting market. The lawsuit's outcome could significantly impact the US sports betting landscape.",
+            "whyItMatters": "The lawsuit's outcome could have significant implications for the US sports betting market, potentially affecting how official league data is distributed and used by sports betting operators. This could lead to increased competition and innovation in the market.",
+            "howToUse": "Companies operating in the US sports betting market should closely monitor the lawsuit's progress and consider how the outcome could impact their operations and market strategy.",
+            "beneficiaries": [
+                "Sports betting operators",
+                "Regulatory bodies"
+            ],
+            "companies": [
+                "Altenar",
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-pq41zbvk7",
+            "title": "The Last of Us",
+            "subtitle": "Naughty Dog's canceled multiplayer project was nearly complete after seven years of development",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Naughty Dog",
+                "The Last of Us"
+            ],
+            "trendStrength": 3,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/the-last-of-us-online-was-around-80-complete-when-naughty-dog-canceled-it",
+                "date": "2026-04-02T14:20:52.000Z"
+            },
+            "whatsNew": "The Last of Us Online was around 80% complete before its cancellation. The project's director spent seven years working on the multiplayer spinoff. The cancellation highlights the challenges and risks in game development.",
+            "whyItMatters": "The cancellation of The Last of Us Online shows the difficulties game developers face in bringing projects to fruition. It also underscores the importance of project management and resource allocation in the gaming industry.",
+            "howToUse": "Game developers can learn from Naughty Dog's experience by prioritizing project planning, setting realistic goals, and maintaining flexibility in their development process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Project Managers"
+            ],
+            "companies": [
+                "Naughty Dog"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-h9nxb8l65",
+            "title": "GDC Dev Insights",
+            "subtitle": "Developers share responses to industry challenges at GDC",
+            "category": "Community",
+            "tags": [
+                "GDC",
+                "Game Development",
+                "Industry Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/on-the-ground-at-gdc-how-are-devs-responding-to-industry-turmoil-",
+                "date": "2026-04-02T13:59:34.000Z"
+            },
+            "whatsNew": "Developers are discussing their strategies for navigating industry hardships at GDC. The event provides a platform for sharing experiences and solutions. Insights from the conference highlight the resilience of game developers.",
+            "whyItMatters": "Understanding how developers respond to industry challenges can inform strategies for innovation and growth. The collective response can shape the future of the gaming industry.",
+            "howToUse": "Attendees can apply the insights shared at GDC to their own development processes, fostering a community-driven approach to overcoming challenges.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
