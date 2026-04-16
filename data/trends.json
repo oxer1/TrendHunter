@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-16T14:53:42.679Z",
+        "scanDate": "2026-04-16T16:20:58.199Z",
         "version": "2.5.0",
         "totalTrends": 41,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g1aazymn9",
+            "title": "EA Saudi Buyout",
+            "subtitle": "US representative protests Saudi buyout of EA over AI job replacement concerns",
+            "category": "Tech",
+            "tags": [
+                "EA",
+                "Saudi Buyout",
+                "AI Job Replacement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/us-representative-maxwell-frost-voices-protest-over-saudi-buyout-of-ea",
+                "date": "2026-04-15T16:13:19.000Z"
+            },
+            "whatsNew": "US representative Maxwell Frost is protesting the Saudi buyout of EA, citing concerns over the company's potential use of AI to replace human workers. Frost claims that EA will utilize AI to 'essentially fire loads of people.' This protest highlights the growing concern over the impact of AI on employment in the gaming industry.",
+            "whyItMatters": "The protest by Maxwell Frost brings attention to the potential consequences of AI adoption in the gaming industry, particularly in terms of job replacement. This could have significant implications for the industry's workforce and the future of game development.",
+            "howToUse": "Game developers and industry leaders should consider the potential impact of AI on their workforce and explore strategies for mitigating job replacement, such as upskilling and reskilling programs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Leaders"
+            ],
+            "companies": [
+                "EA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-iw1guauxm",
             "title": "Ludum Dare Ends",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tf936p5ci",
@@ -78,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w5b1epi0u",
@@ -107,7 +138,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2if1700ih",
@@ -139,7 +170,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oo3433x8y",
@@ -1253,39 +1284,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-rqzpvxrd3",
-            "title": "Nexon Publishes Overwatch",
-            "subtitle": "Nexon partners with Blizzard for Korean Overwatch release",
-            "category": "iGaming",
-            "tags": [
-                "Overwatch",
-                "Nexon",
-                "Blizzard",
-                "Korea"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/nexon-agrees-to-publish-overwatch-in-korea",
-                "date": "2026-04-02T15:40:41.000Z"
-            },
-            "whatsNew": "Nexon has agreed to publish Overwatch in Korea, tailoring services for local players. This partnership aims to deliver a customized experience. The move is expected to boost the game's popularity in the region.",
-            "whyItMatters": "The partnership between Nexon and Blizzard signifies a strategic expansion into the Korean market, potentially increasing Overwatch's global player base. This deal may also set a precedent for future collaborations between Western game developers and Asian publishers.",
-            "howToUse": "Game developers can learn from this partnership by considering regional preferences when expanding into new markets. They should focus on tailoring their services to meet local demands and preferences.",
-            "beneficiaries": [
-                "Game Developers",
-                "Korean Players"
-            ],
-            "companies": [
-                "Nexon",
-                "Blizzard"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1422,7 +1420,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T14:53:42.679Z",
+            "lastScan": "2026-04-16T16:20:58.199Z",
             "note": null
         },
         {
@@ -15405,6 +15403,39 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-rqzpvxrd3",
+            "title": "Nexon Publishes Overwatch",
+            "subtitle": "Nexon partners with Blizzard for Korean Overwatch release",
+            "category": "iGaming",
+            "tags": [
+                "Overwatch",
+                "Nexon",
+                "Blizzard",
+                "Korea"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/nexon-agrees-to-publish-overwatch-in-korea",
+                "date": "2026-04-02T15:40:41.000Z"
+            },
+            "whatsNew": "Nexon has agreed to publish Overwatch in Korea, tailoring services for local players. This partnership aims to deliver a customized experience. The move is expected to boost the game's popularity in the region.",
+            "whyItMatters": "The partnership between Nexon and Blizzard signifies a strategic expansion into the Korean market, potentially increasing Overwatch's global player base. This deal may also set a precedent for future collaborations between Western game developers and Asian publishers.",
+            "howToUse": "Game developers can learn from this partnership by considering regional preferences when expanding into new markets. They should focus on tailoring their services to meet local demands and preferences.",
+            "beneficiaries": [
+                "Game Developers",
+                "Korean Players"
+            ],
+            "companies": [
+                "Nexon",
+                "Blizzard"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
