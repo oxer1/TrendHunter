@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-17T13:13:30.225Z",
+        "scanDate": "2026-04-17T14:53:57.941Z",
         "version": "2.5.0",
-        "totalTrends": 44,
+        "totalTrends": 45,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-j6rp8u7cx",
+            "title": "AI Use Limited",
+            "subtitle": "Panic restricts certain generative AI uses in Playdate titles",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Playdate",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai",
+                "date": "2026-04-17T13:39:33.000Z"
+            },
+            "whatsNew": "Panic has announced it won't release Playdate titles that utilize specific forms of generative AI, with exceptions for AI-assisted coding. This move reflects growing discussions around AI's role in game development. Developers must now adapt to these guidelines for future releases.",
+            "whyItMatters": "This decision impacts game developers who rely on generative AI, forcing them to reconsider their development strategies. It also highlights the evolving landscape of AI in gaming, where companies are setting boundaries on its use.",
+            "howToUse": "Developers should review Panic's guidelines and explore AI-assisted coding as an alternative to ensure compliance with the new policy.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Panic"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-jbfz38jc6",
+            "title": "Egosoft's Space Sims",
+            "subtitle": "Egosoft's three decades of experience in making space sims offers insights into serving niche audiences",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Space Sims",
+                "Niche Audiences"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/pc/what-egosoft-s-three-decades-of-making-space-sims-tells-us-about-serving-niche-audiences",
+                "date": "2026-04-17T13:32:33.000Z"
+            },
+            "whatsNew": "Egosoft's long-standing presence in the space sim genre highlights the consistent appeal of such games to specific age groups. The company's experience shows that certain game types can retain their allure over time. This suggests that understanding and catering to niche audiences can be a viable long-term strategy.",
+            "whyItMatters": "Egosoft's approach demonstrates the importance of recognizing and serving dedicated fan bases, even in genres that might be considered niche. This can lead to sustained success and loyalty from the target audience.",
+            "howToUse": "Game developers can apply Egosoft's strategy by identifying and focusing on specific niches within the gaming community, tailoring their games to meet the unique preferences and expectations of these groups.",
+            "beneficiaries": [
+                "Game Developers",
+                "Niche Gamers"
+            ],
+            "companies": [
+                "Egosoft"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-15bn0uhni",
             "title": "Entain Targets UK",
@@ -1348,37 +1410,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-p4249su3h",
-            "title": "Take-Two AI Layoffs",
-            "subtitle": "Take-Two lays off head of AI and team members",
-            "category": "AI",
-            "tags": [
-                "Take-Two",
-                "AI Layoffs",
-                "Gaming Industry"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/report-take-two-lays-off-the-head-of-ai-and-unknown-number-of-team-members",
-                "date": "2026-04-03T14:20:24.000Z"
-            },
-            "whatsNew": "Take-Two has laid off the head of AI and multiple team members, indicating potential shifts in the company's AI strategy. The layoffs may impact the development of AI-powered games. This move could signal a change in the company's focus on AI integration.",
-            "whyItMatters": "The layoffs may affect the gaming industry's adoption of AI technology and could influence other companies' AI investment decisions. This change may also impact the development of future games that rely on AI.",
-            "howToUse": "Game developers should monitor Take-Two's future moves and adjust their own AI strategies accordingly. Companies can also learn from Take-Two's experience and reassess their AI investments.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Take-Two"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1515,7 +1546,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-17T13:13:30.225Z",
+            "lastScan": "2026-04-17T14:53:57.941Z",
             "note": null
         },
         {
@@ -15562,6 +15593,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-p4249su3h",
+            "title": "Take-Two AI Layoffs",
+            "subtitle": "Take-Two lays off head of AI and team members",
+            "category": "AI",
+            "tags": [
+                "Take-Two",
+                "AI Layoffs",
+                "Gaming Industry"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-take-two-lays-off-the-head-of-ai-and-unknown-number-of-team-members",
+                "date": "2026-04-03T14:20:24.000Z"
+            },
+            "whatsNew": "Take-Two has laid off the head of AI and multiple team members, indicating potential shifts in the company's AI strategy. The layoffs may impact the development of AI-powered games. This move could signal a change in the company's focus on AI integration.",
+            "whyItMatters": "The layoffs may affect the gaming industry's adoption of AI technology and could influence other companies' AI investment decisions. This change may also impact the development of future games that rely on AI.",
+            "howToUse": "Game developers should monitor Take-Two's future moves and adjust their own AI strategies accordingly. Companies can also learn from Take-Two's experience and reassess their AI investments.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Take-Two"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
