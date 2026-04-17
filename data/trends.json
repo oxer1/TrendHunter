@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-16T23:38:00.460Z",
+        "scanDate": "2026-04-17T02:14:34.431Z",
         "version": "2.5.0",
-        "totalTrends": 40,
+        "totalTrends": 42,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ne1b5w2xa",
+            "title": "iGaming Self-Exclusion",
+            "subtitle": "iGaming Ontario introduces a centralised self-exclusion system across its regulated market",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Regulation",
+                "Self-Exclusion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/igaming-ontario-introduce-centralised-self-exclusion-system/",
+                "date": "2026-04-16T12:05:20.000Z"
+            },
+            "whatsNew": "iGaming Ontario is launching a centralised self-exclusion system in May, applying to its entire regulated market. This system aims to promote responsible gaming practices. The launch is part of ongoing efforts to enhance player protection.",
+            "whyItMatters": "The introduction of a centralised self-exclusion system is significant for promoting responsible gaming and protecting players. It demonstrates iGaming Ontario's commitment to regulatory compliance and player safety.",
+            "howToUse": "Operators and players can utilize this system to exclude themselves from gaming activities across all regulated platforms in Ontario, enhancing control over gaming habits.",
+            "beneficiaries": [
+                "Players",
+                "Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "iGaming Ontario"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-m0lgy77fx",
+            "title": "EU Ruling",
+            "subtitle": "Players can sue to reclaim losses from Malta-licensed operators",
+            "category": "iGaming",
+            "tags": [
+                "EU Ruling",
+                "Lottoland",
+                "Malta-licensed operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/landmark-eu-ruling-confirms-players-sue-reclaim-losses/",
+                "date": "2026-04-16T10:59:10.000Z"
+            },
+            "whatsNew": "The EU court ruling allows players to sue Malta-licensed operators to reclaim losses, setting a new precedent. This decision could impact the operations of online gaming operators in the EU. The ruling may lead to increased scrutiny of Malta-licensed operators.",
+            "whyItMatters": "This ruling could lead to significant financial implications for Malta-licensed operators and may prompt changes in the way they operate in the EU. It also gives players more power to reclaim losses.",
+            "howToUse": "Operators should review their terms and conditions to ensure compliance with EU regulations, and players should be aware of their rights to reclaim losses.",
+            "beneficiaries": [
+                "EU Players",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Lottoland"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-g1aazymn9",
             "title": "EA Saudi Buyout",
@@ -1389,7 +1452,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T23:38:00.460Z",
+            "lastScan": "2026-04-17T02:14:34.431Z",
             "note": null
         },
         {
@@ -1398,7 +1461,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-16T14:53:42.679Z",
+            "lastScan": "2026-04-17T02:14:34.431Z",
             "note": null
         },
         {
