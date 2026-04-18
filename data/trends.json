@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-18T02:05:36.160Z",
+        "scanDate": "2026-04-18T05:04:46.088Z",
         "version": "2.5.0",
-        "totalTrends": 47,
+        "totalTrends": 51,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,130 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ec64qmwgt",
+            "title": "Brazil Betting Ban",
+            "subtitle": "Brazilian politician proposes bill to shut down betting market",
+            "category": "iGaming",
+            "tags": [
+                "Brazil",
+                "Betting Market",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/brazilian-betting-market-shutdown-proposed-new-bill/",
+                "date": "2026-04-17T13:59:53.000Z"
+            },
+            "whatsNew": "A new bill has been proposed to comprehensively shut down the betting market in Brazil. The bill is led by politician Pedro Uczai of the governing Workers Party. This move could significantly impact the iGaming industry in Brazil.",
+            "whyItMatters": "The proposed shutdown could lead to a significant loss of revenue for betting companies operating in Brazil and affect the livelihoods of those employed in the industry. It also reflects a growing trend of regulatory scrutiny in the iGaming sector.",
+            "howToUse": "Companies operating in the Brazilian betting market should prepare for potential regulatory changes and consider diversifying their operations to mitigate risk. They should also monitor the progress of the bill and engage with stakeholders to understand the implications.",
+            "beneficiaries": [
+                "Regulators",
+                "Anti-gambling advocates"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-tcvza4z7e",
+            "title": "Fanatics Adds Combos",
+            "subtitle": "Fanatics Markets expands prediction market platform with Combos feature",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "Sports Betting",
+                "Fanatics Markets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/fanatics-adds-combos-prediction-markets-platform/",
+                "date": "2026-04-17T13:40:13.000Z"
+            },
+            "whatsNew": "Fanatics Markets has introduced Combos, a new feature that allows users to trade sports outcomes in more varied ways on its prediction market platform. This expansion aims to enhance user experience and engagement. The Combos feature is part of the company's efforts to innovate and stay competitive in the sports betting market.",
+            "whyItMatters": "The introduction of Combos by Fanatics Markets reflects the growing demand for more sophisticated and engaging sports betting experiences. This move can potentially attract more users to the platform and set a new standard for prediction markets.",
+            "howToUse": "Users can leverage the Combos feature by exploring different combinations of sports outcomes to trade on the Fanatics Markets platform, potentially increasing their engagement and winnings.",
+            "beneficiaries": [
+                "Sports Bettors",
+                "Platform Developers"
+            ],
+            "companies": [
+                "Fanatics Markets"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-nxwkhtpgh",
+            "title": "DraftKings Alberta",
+            "subtitle": "DraftKings plans to launch online sports betting and casino in Alberta pending approval",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Alberta",
+                "Online Betting",
+                "Casino"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/draftkings-reveals-online-betting-casino-plans-alberta/",
+                "date": "2026-04-17T13:29:24.000Z"
+            },
+            "whatsNew": "DraftKings is expanding into Alberta with online sports betting and casino products. The launch is pending licensure and regulatory approval. This move is part of the company's broader expansion into new markets.",
+            "whyItMatters": "The expansion into Alberta represents a significant opportunity for DraftKings to tap into a new market and increase its customer base. It also highlights the growing demand for online gaming and sports betting in the region.",
+            "howToUse": "Operators and affiliates can prepare for the launch by reviewing Alberta's regulatory requirements and ensuring compliance. Players can look forward to a new platform for online gaming and sports betting.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-52o8hqapc",
+            "title": "Amusnet Brazil Insights",
+            "subtitle": "Marco Pequeno discusses market realities and global lessons in the casino industry",
+            "category": "iGaming",
+            "tags": [
+                "Amusnet",
+                "Brazil",
+                "Casino Industry",
+                "SiGMA Sao Paulo"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/on-stage-with-marco-pequeno-amusnet-brazil/",
+                "date": "2026-04-17T13:15:14.000Z"
+            },
+            "whatsNew": "Amusnet's country manager for Brazil, Marco Pequeno, shared his perspective on the convergence of physical and digital casinos. He highlighted the importance of understanding market realities and applying global lessons to the industry.",
+            "whyItMatters": "The discussion sheds light on the evolving landscape of the casino industry, emphasizing the need for a balanced approach between physical and digital platforms. This insight is crucial for industry stakeholders to navigate the changing market dynamics.",
+            "howToUse": "Industry professionals can apply Pequeno's market-driven perspective to inform their strategic decisions, ensuring a competitive edge in the Brazilian gaming market.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gaming Industry Professionals"
+            ],
+            "companies": [
+                "Amusnet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-ax3iqb9jx",
             "title": "UKGC Risk Checks",
@@ -49,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hfgviozmd",
@@ -78,7 +202,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-j6rp8u7cx",
@@ -1606,7 +1730,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-18T02:05:36.160Z",
+            "lastScan": "2026-04-18T05:04:46.088Z",
             "note": null
         },
         {
@@ -1615,7 +1739,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-18T02:05:36.160Z",
+            "lastScan": "2026-04-18T05:04:46.088Z",
             "note": null
         },
         {
