@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-18T05:04:46.088Z",
+        "scanDate": "2026-04-18T07:03:52.224Z",
         "version": "2.5.0",
-        "totalTrends": 51,
+        "totalTrends": 52,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wnr2nqpyc",
+            "title": "Amusnet SiGMA",
+            "subtitle": "Amusnet celebrates 10th anniversary at SiGMA São Paulo, driving industry engagement",
+            "category": "iGaming",
+            "tags": [
+                "Amusnet",
+                "SiGMA",
+                "iGaming",
+                "Esports"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/amusnet-at-sigma-sao-paulo-driving-industry-presence-and-engagement/",
+                "date": "2026-04-17T12:52:57.000Z"
+            },
+            "whatsNew": "Amusnet marked its 10th anniversary at SiGMA São Paulo, highlighting a decade of growth and a forward-looking vision. The company's stand was a focal point for industry conversation and connection.",
+            "whyItMatters": "Amusnet's presence at SiGMA São Paulo demonstrates the company's commitment to the iGaming industry and its desire to engage with key stakeholders. This can lead to new partnerships and opportunities for growth.",
+            "howToUse": "Industry professionals can leverage events like SiGMA São Paulo to connect with companies like Amusnet and stay updated on the latest iGaming trends and innovations.",
+            "beneficiaries": [
+                "iGaming professionals",
+                "Esports organizations"
+            ],
+            "companies": [
+                "Amusnet",
+                "LOUD"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-ec64qmwgt",
             "title": "Brazil Betting Ban",
@@ -47,7 +80,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tcvza4z7e",
@@ -78,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nxwkhtpgh",
@@ -110,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-52o8hqapc",
@@ -142,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ax3iqb9jx",
@@ -1730,7 +1763,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-18T05:04:46.088Z",
+            "lastScan": "2026-04-18T07:03:52.224Z",
             "note": null
         },
         {
@@ -1739,7 +1772,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-18T05:04:46.088Z",
+            "lastScan": "2026-04-18T07:03:52.224Z",
             "note": null
         },
         {
