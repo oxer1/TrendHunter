@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-19T05:26:56.578Z",
+        "scanDate": "2026-04-19T07:15:28.467Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,40 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-b0qwehhlp",
+            "title": "SPRIBE Wins Injunction",
+            "subtitle": "Court orders Betnacional to stop using 'AVIATOR' brand in Brazil",
+            "category": "iGaming",
+            "tags": [
+                "SPRIBE",
+                "AVIATOR",
+                "Betnacional",
+                "Brazil",
+                "Injunction"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/spribe-wins-interim-injunction-in-brazil/",
+                "date": "2026-04-17T11:46:11.000Z"
+            },
+            "whatsNew": "SPRIBE has won an interim injunction in Brazil against NSX Brasil S.A. for unauthorized use of the 'AVIATOR' brand. The court has ordered NSX Brasil S.A. to immediately cease using the trademark and associated visual elements.",
+            "whyItMatters": "This ruling protects SPRIBE's intellectual property and brand identity in the Brazilian market, setting a precedent for similar cases in the iGaming industry.",
+            "howToUse": "iGaming companies should prioritize trademark protection and monitoring to prevent unauthorized use, and consider seeking legal action when necessary.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Game developers"
+            ],
+            "companies": [
+                "SPRIBE OÜ",
+                "NSX Brasil S.A."
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-7urgekxd7",
             "title": "Rank Q3 Revenue",
@@ -49,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-z86lfhkxs",
@@ -82,7 +116,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-57bbs8xkr",
@@ -113,7 +147,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p8ze5cq0x",
@@ -1978,7 +2012,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-19T05:26:56.578Z",
+            "lastScan": "2026-04-19T07:15:28.467Z",
             "note": null
         },
         {
@@ -1987,7 +2021,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-19T05:26:56.578Z",
+            "lastScan": "2026-04-19T07:15:28.467Z",
             "note": null
         },
         {
