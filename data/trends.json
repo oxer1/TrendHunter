@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-19T02:27:11.866Z",
+        "scanDate": "2026-04-19T05:26:56.578Z",
         "version": "2.5.0",
-        "totalTrends": 56,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7urgekxd7",
+            "title": "Rank Q3 Revenue",
+            "subtitle": "Rank maintains £100m operating profit goal as Q3 revenue hits £205m",
+            "category": "iGaming",
+            "tags": [
+                "Rank",
+                "Q3 Revenue",
+                "Operating Profit"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmt1aFp1MTJhbzVlMjlMdTdSZGpNdWg0aEdsS2hfY252UC1RUVY2M3cxZWFONTh2YmVQSTVOV0U2b3JtMGZIVzJsTWNnUnB6LUhMdnJtaXdOSWlYdm5SWDhfcFl4d0oyZHlvTkNZVll0WW53UElCTlJURHdRcUVXQUtubw?oc=5",
+                "date": "2026-04-15T08:10:27.000Z"
+            },
+            "whatsNew": "Rank has announced its Q3 revenue, reaching £205m, and maintains its £100m operating profit goal. This indicates a stable financial performance for the company. The revenue growth is a positive sign for the iGaming industry.",
+            "whyItMatters": "The maintained operating profit goal and revenue growth signify a strong position for Rank in the iGaming market, influencing investor confidence and industry trends.",
+            "howToUse": "Investors and industry analysts can use this information to assess Rank's financial health and make informed decisions about investments in the iGaming sector.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Rank"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-z86lfhkxs",
+            "title": "ADI Partners DAZN",
+            "subtitle": "ADI Predictstreet partners with DAZN, expanding its reach in the sports and iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "ADI Predictstreet",
+                "DAZN",
+                "iGaming",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWJZa0lTRFgybGhpZ2lyM01vV1pJakNoQ3JaeGVVNWVrZzFqY0UyOVhsWU05TzFLU0NXNmFOaHdoZW16U1RMYlVtTnlPazU5ZHZ1MWVNZm9xTk9KdWJma3ljaFhGTV9ISHVXaVdaR3BoTGh4ZXItUHBGa0Rabm1hY1VncHlMTWxSal9IVUJB?oc=5",
+                "date": "2026-04-15T11:10:54.000Z"
+            },
+            "whatsNew": "ADI Predictstreet has partnered with DAZN, a leading sports streaming platform, to expand its services in the iGaming and sports betting sector. This partnership aims to enhance the user experience and provide more accurate predictions. The collaboration is expected to increase ADI's presence in the market.",
+            "whyItMatters": "This partnership is significant as it brings together two major players in the sports and iGaming industry, potentially leading to more innovative and engaging experiences for users. The integration of ADI's predictive technology with DAZN's platform can lead to increased user engagement and revenue.",
+            "howToUse": "Operators and providers in the iGaming industry can leverage this partnership to enhance their services and provide more accurate predictions to their users, potentially increasing user engagement and revenue.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Betting Providers"
+            ],
+            "companies": [
+                "ADI Predictstreet",
+                "DAZN"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-57bbs8xkr",
+            "title": "Suspicious Betting Alerts",
+            "subtitle": "IBIA reports 70 suspicious betting alerts in Q1 2026",
+            "category": "iGaming",
+            "tags": [
+                "IBIA",
+                "Sports Betting",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXYxRzFfQTNoSU5RcTlGb092LXRjWGVBb21KdlVUNzJ4YzdrNkdHc0VZQXctVWUtb0owaHZvVFlocGFtTS11ZVk4X2ROSlNJbnpiMHZ3Z3ptRU1sMDJBdzdZSmJIQ3dfQ1E2TUx1WkFEQXdMNkFQdlZmWjBYN2hBbGk4eUFCUQ?oc=5",
+                "date": "2026-04-08T07:00:00.000Z"
+            },
+            "whatsNew": "The International Betting Integrity Association (IBIA) has reported 70 suspicious betting alerts in the first quarter of 2026. This indicates ongoing efforts to combat betting fraud and maintain integrity in the sports betting industry.",
+            "whyItMatters": "The high number of suspicious betting alerts highlights the need for continued vigilance and cooperation between betting operators, regulatory bodies, and integrity monitors to prevent match-fixing and other forms of betting corruption.",
+            "howToUse": "Operators should continue to work closely with IBIA and other integrity bodies to share information and best practices in identifying and reporting suspicious betting activity.",
+            "beneficiaries": [
+                "Betting Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "IBIA"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-p8ze5cq0x",
             "title": "Prediction Markets",
@@ -49,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9s3aql212",
@@ -78,7 +173,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xz2k04kue",
@@ -107,7 +202,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1nbjns0ku",
@@ -138,7 +233,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wnr2nqpyc",
@@ -1883,7 +1978,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-19T02:27:11.866Z",
+            "lastScan": "2026-04-19T05:26:56.578Z",
             "note": null
         },
         {
@@ -1892,7 +1987,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-19T02:27:11.866Z",
+            "lastScan": "2026-04-19T05:26:56.578Z",
             "note": null
         },
         {
