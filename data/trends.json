@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-20T05:38:39.095Z",
+        "scanDate": "2026-04-20T08:02:55.290Z",
         "version": "2.5.0",
-        "totalTrends": 67,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ygvsgi98z",
+            "title": "Evoke Takeover",
+            "subtitle": "Evoke confirms takeover talks with Bally's Intralot",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "iGaming",
+                "Bally's Intralot"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/evoke-confirms-ballys-intralot-takeover-talks/",
+                "date": "2026-04-20T06:33:48.000Z"
+            },
+            "whatsNew": "Evoke has confirmed talks with Bally's Intralot over a possible takeover, with a potential offer of £0.50 per share. The offer would comprise an all-share combination with a partial cash alternative, covering the entire issued and to be issued share capital of the business.",
+            "whyItMatters": "This potential takeover could significantly impact the iGaming industry, leading to changes in market dynamics and potentially affecting other companies in the sector. The deal could also lead to increased consolidation in the industry.",
+            "howToUse": "Companies in the iGaming sector should monitor this development closely, as it may present opportunities for partnerships or acquisitions. Investors should also be aware of the potential impact on share prices.",
+            "beneficiaries": [
+                "iGaming companies",
+                "Investors"
+            ],
+            "companies": [
+                "Evoke",
+                "Bally's Intralot",
+                "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-lpw7qn6y8",
+            "title": "Curated Content Ecosystems",
+            "subtitle": "Operators are moving beyond aggregators to refine player retention with curated content ecosystems",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "player retention",
+                "curated content"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/how-curated-content-ecosystems-are-refining-player-retention/",
+                "date": "2026-04-20T06:00:00.000Z"
+            },
+            "whatsNew": "The Dual-Layered Lobby approach combines global scale with boutique, emotion-driven content to differentiate operators and combat player fatigue. This strategy moves beyond traditional aggregation methods, focusing on curated content ecosystems to enhance player experience.",
+            "whyItMatters": "The shift towards curated content ecosystems can significantly impact player retention and operator growth in the iGaming industry, as it addresses the issue of content fatigue and provides a more personalized experience. This approach can help operators stand out in a competitive market.",
+            "howToUse": "Operators can implement curated content ecosystems by adopting a Dual-Layered Lobby approach, combining global scale with precision-driven, boutique content that resonates with players on an emotional level.",
+            "beneficiaries": [
+                "iGaming operators",
+                "game developers"
+            ],
+            "companies": [
+                "VeliGames"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-r0wi21cxv",
+            "title": "AI Tech",
+            "subtitle": "Hugging Face Blog discusses AI advancements",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Hugging Face",
+                "Tech"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/transformers-to-mlx",
+                "date": "2026-04-16T00:00:00.000Z"
+            },
+            "whatsNew": "The Hugging Face Blog shares insights on the latest AI developments, highlighting their potential impact on various industries. The blog post explores the capabilities and applications of AI technology. It also touches upon the role of AI in shaping the future of different sectors.",
+            "whyItMatters": "The advancements in AI technology have significant implications for industries, including iGaming and game development, as they can be leveraged to create more immersive and engaging experiences. The integration of AI can also lead to improved efficiency and innovation in these fields.",
+            "howToUse": "Developers and industry professionals can utilize the insights from the Hugging Face Blog to explore the potential applications of AI in their respective domains, such as integrating AI-powered tools to enhance game development or improving player experiences in iGaming.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Industry Professionals"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-xa09st4rg",
             "title": "SOFTSWISS Updates",
@@ -49,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rhs1b4v1p",
@@ -80,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-yg2a7h56z",
@@ -112,7 +207,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-11agiyfom",
@@ -2229,7 +2324,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T05:38:39.095Z",
+            "lastScan": "2026-04-20T08:02:55.290Z",
             "note": null
         },
         {
@@ -2238,7 +2333,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T05:38:39.095Z",
+            "lastScan": "2026-04-20T08:02:55.290Z",
             "note": null
         },
         {
@@ -2247,7 +2342,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T05:38:39.095Z",
+            "lastScan": "2026-04-20T08:02:55.290Z",
             "note": null
         },
         {
@@ -2434,7 +2529,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T05:38:39.095Z",
+            "lastScan": "2026-04-20T08:02:55.290Z",
             "note": null
         },
         {
