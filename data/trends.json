@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-20T16:06:23.930Z",
+        "scanDate": "2026-04-20T17:55:41.481Z",
         "version": "2.5.0",
         "totalTrends": 75,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0xhzi5adt",
+            "title": "Bally's Revenue Growth",
+            "subtitle": "Bally's deal with Intralot drives 35% revenue growth in FY 2025",
+            "category": "iGaming",
+            "tags": [
+                "Intralot",
+                "Bally's",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-ballys-deal-drives-35pc-growth-intralot/",
+                "date": "2026-04-20T10:56:40.000Z"
+            },
+            "whatsNew": "Bally's merger with Intralot in Q4 led to a significant increase in revenue. The deal has positively impacted the company's financial performance.",
+            "whyItMatters": "The revenue growth indicates a successful integration of the two companies, potentially setting a precedent for future mergers in the iGaming industry.",
+            "howToUse": "Companies can consider strategic mergers to drive revenue growth and expand their market presence.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Bally's",
+                "Intralot"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-gmmhgl3tt",
             "title": "Pragmata Sales",
@@ -2315,35 +2347,6 @@
             "visualStyle": null,
             "cluster": "ai-in-igaming",
             "isNew": false
-        },
-        {
-            "id": "t-5m2dpqizj",
-            "title": "Musical RPG Design",
-            "subtitle": "People of Note focuses on player freedom in turn-based musical RPG",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "RPG",
-                "Player Freedom"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/behind-people-of-note-s-methods-for-luring-players-into-enjoying-a-musical",
-                "date": "2026-04-06T16:33:07.000Z"
-            },
-            "whatsNew": "People of Note is developing a turn-based musical RPG with a focus on player freedom, allowing players to play how they want. The game's design approach prioritizes flexibility and creativity.",
-            "whyItMatters": "This approach can lead to increased player engagement and satisfaction, as players are able to express themselves and play the game in a way that suits their preferences. It also highlights the importance of flexibility in game design.",
-            "howToUse": "Game developers can apply this approach by incorporating more flexible gameplay mechanics and allowing players to customize their experience. This can be achieved through branching storylines, multiple playable characters, or dynamic difficulty adjustment.",
-            "beneficiaries": [
-                "Game Developers",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2480,7 +2483,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T16:06:23.930Z",
+            "lastScan": "2026-04-20T17:55:41.481Z",
             "note": null
         },
         {
@@ -2489,7 +2492,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T16:06:23.930Z",
+            "lastScan": "2026-04-20T17:55:41.481Z",
             "note": null
         },
         {
@@ -2498,7 +2501,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T10:45:43.999Z",
+            "lastScan": "2026-04-20T17:55:41.481Z",
             "note": null
         },
         {
@@ -2685,7 +2688,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T10:45:43.999Z",
+            "lastScan": "2026-04-20T17:55:41.481Z",
             "note": null
         },
         {
@@ -16583,6 +16586,35 @@
             "beneficiaries": [
                 "Game Developers",
                 "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-5m2dpqizj",
+            "title": "Musical RPG Design",
+            "subtitle": "People of Note focuses on player freedom in turn-based musical RPG",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "RPG",
+                "Player Freedom"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/behind-people-of-note-s-methods-for-luring-players-into-enjoying-a-musical",
+                "date": "2026-04-06T16:33:07.000Z"
+            },
+            "whatsNew": "People of Note is developing a turn-based musical RPG with a focus on player freedom, allowing players to play how they want. The game's design approach prioritizes flexibility and creativity.",
+            "whyItMatters": "This approach can lead to increased player engagement and satisfaction, as players are able to express themselves and play the game in a way that suits their preferences. It also highlights the importance of flexibility in game design.",
+            "howToUse": "Game developers can apply this approach by incorporating more flexible gameplay mechanics and allowing players to customize their experience. This can be achieved through branching storylines, multiple playable characters, or dynamic difficulty adjustment.",
+            "beneficiaries": [
+                "Game Developers",
+                "Players"
             ],
             "companies": [],
             "visualStyle": null,
