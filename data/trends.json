@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-20T02:27:39.752Z",
+        "scanDate": "2026-04-20T05:38:39.095Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 67,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xa09st4rg",
+            "title": "SOFTSWISS Updates",
+            "subtitle": "SOFTSWISS launches new tournament features for iGaming operators",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "SOFTSWISS",
+                "Game Aggregator"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-game-aggregator-gives-operators-tighter-campaign-control/",
+                "date": "2026-04-17T08:40:10.000Z"
+            },
+            "whatsNew": "SOFTSWISS has introduced the Tournaments Report and Instant Tournaments features to its Game Aggregator, enhancing campaign control and measurement for operators. These features provide full campaign visibility and allow for more precise campaign management.",
+            "whyItMatters": "The new features enable iGaming operators to run campaigns more effectively and make data-driven decisions. This can lead to improved player engagement and revenue growth.",
+            "howToUse": "Operators can utilize the Tournaments Report to compare campaigns and understand player behavior, while Instant Tournaments enable them to create and manage tournaments more efficiently.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Game developers"
+            ],
+            "companies": [
+                "SOFTSWISS"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-rhs1b4v1p",
+            "title": "Gems Crown Released",
+            "subtitle": "SmartSoft introduces Gems Crown with a unique Charging Wilds mechanic",
+            "category": "iGaming",
+            "tags": [
+                "SmartSoft",
+                "Gems Crown",
+                "Charging Wilds"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/smartsoft-gems-crown-charging-wilds/",
+                "date": "2026-04-17T08:33:57.000Z"
+            },
+            "whatsNew": "SmartSoft's Gems Crown features a Charging Wilds mechanic where the Wild symbol's multiplier increases over time, creating a persistent growth mechanic. This mechanic sets it apart from other slot games. The game builds value over time, rather than resetting after each spin.",
+            "whyItMatters": "The introduction of Gems Crown with its unique mechanic may attract players looking for innovative gameplay, potentially increasing engagement and revenue for iGaming operators. This could also influence the development of future slot games.",
+            "howToUse": "Operators can integrate Gems Crown into their platforms to offer players a fresh gaming experience, while developers can study the Charging Wilds mechanic for inspiration in creating their own unique features.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Game developers"
+            ],
+            "companies": [
+                "SmartSoft"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-yg2a7h56z",
+            "title": "Ontario License",
+            "subtitle": "Imagine Live secures B2B license for Ontario, expanding iGaming presence",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "regulation",
+                "licensing",
+                "Ontario"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/imagine-live-secures-ontario-b2b-license-expanding-presence-in-regulated-markets/",
+                "date": "2026-04-17T08:20:27.000Z"
+            },
+            "whatsNew": "Imagine Live has secured a B2B license for Ontario, allowing them to offer their live casino portfolio to licensed operators in the province. This expansion marks a significant step in their growth across regulated markets.",
+            "whyItMatters": "The license approval reflects Imagine Live's ability to meet regulatory standards, increasing their credibility and competitiveness in the iGaming industry. This move is expected to strengthen their position in the global market.",
+            "howToUse": "Operators in Ontario can now partner with Imagine Live to offer their live casino products, enhancing their gaming portfolios and user experience.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Imagine Live"
+            ],
+            "companies": [
+                "Imagine Live"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-11agiyfom",
             "title": "Australian Ad Restrictions",
@@ -47,7 +141,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8ovioevcw",
@@ -78,7 +172,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gxpnoq0hk",
@@ -109,7 +203,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-z0kprl3k0",
@@ -141,7 +235,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-b0qwehhlp",
@@ -2135,7 +2229,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T02:27:39.752Z",
+            "lastScan": "2026-04-20T05:38:39.095Z",
             "note": null
         },
         {
@@ -2144,7 +2238,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T02:27:39.752Z",
+            "lastScan": "2026-04-20T05:38:39.095Z",
             "note": null
         },
         {
@@ -2153,7 +2247,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-06T05:21:47.890Z",
+            "lastScan": "2026-04-20T05:38:39.095Z",
             "note": null
         },
         {
@@ -2340,7 +2434,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-06T05:21:47.890Z",
+            "lastScan": "2026-04-20T05:38:39.095Z",
             "note": null
         },
         {
