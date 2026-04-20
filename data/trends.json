@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-19T23:33:43.724Z",
+        "scanDate": "2026-04-20T02:27:39.752Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,129 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-11agiyfom",
+            "title": "Australian Ad Restrictions",
+            "subtitle": "Australian ad restrictions may impact regulated and unregulated markets",
+            "category": "iGaming",
+            "tags": [
+                "Australian market",
+                "ad restrictions",
+                "regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/features/waterhouse-vc-australian-ad-restrictions-black-market/",
+                "date": "2026-04-17T10:49:45.000Z"
+            },
+            "whatsNew": "Australia's upcoming ad restrictions may bolster the black market, affecting both regulated and unregulated gaming sectors. The restrictions aim to limit advertising, but their impact on the market remains uncertain. This development could lead to significant changes in the Australian gaming landscape.",
+            "whyItMatters": "The ad restrictions could inadvertently drive players to unregulated markets, posing a challenge to the regulated iGaming industry. This might lead to a loss of revenue and player protection concerns.",
+            "howToUse": "Operators should monitor the situation closely and adapt their marketing strategies to comply with the new regulations, while also mitigating potential risks to their business.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-8ovioevcw",
+            "title": "UK Lottery Licence",
+            "subtitle": "High Court rejects challenge to National Lottery licence award",
+            "category": "iGaming",
+            "tags": [
+                "UK National Lottery",
+                "Gambling Commission",
+                "Allwyn"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/high-court-rejects-legal-challenge-national-lottery-licence/",
+                "date": "2026-04-17T10:40:39.000Z"
+            },
+            "whatsNew": "The High Court has rejected a legal challenge to the Gambling Commission's decision to award the National Lottery licence to Allwyn. This decision confirms Allwyn as the operator of the UK National Lottery.",
+            "whyItMatters": "This ruling has significant implications for the UK's gambling industry, as it solidifies Allwyn's position as the National Lottery operator. The decision may also impact future licensing decisions and the overall regulatory landscape.",
+            "howToUse": "Operators and stakeholders should monitor the developments following this ruling, as it may influence their strategies and compliance with UK gambling regulations.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Allwyn"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-gxpnoq0hk",
+            "title": "White Hat Gaming Probe",
+            "subtitle": "Finland reopens enforcement action against White Hat Gaming",
+            "category": "iGaming",
+            "tags": [
+                "White Hat Gaming",
+                "Finland",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/white-hat-gaming-finland-probe/",
+                "date": "2026-04-17T10:23:05.000Z"
+            },
+            "whatsNew": "Finland's National Police Board has reopened enforcement action against White Hat Gaming due to alleged targeting of Finnish consumers. White Hat Gaming blames 'rogue' copycats for the issue.",
+            "whyItMatters": "The probe highlights regulatory challenges in the iGaming industry, particularly in regards to consumer protection and licensing. It may impact White Hat Gaming's operations and reputation.",
+            "howToUse": "iGaming operators should ensure compliance with local regulations and implement measures to prevent unauthorized targeting of consumers.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Regulatory bodies"
+            ],
+            "companies": [
+                "White Hat Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-z0kprl3k0",
+            "title": "iGaming Demand",
+            "subtitle": "Culturally close countries have different iGaming demands",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Market Trends",
+                "Regional Demand"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/features/blask-culturally-close-countries-rarely-share-igaming-demand/",
+                "date": "2026-04-17T10:00:34.000Z"
+            },
+            "whatsNew": "Blask data reveals that culturally close countries rarely produce similar iGaming demand, with markets evolving independently across five regions.",
+            "whyItMatters": "Understanding regional iGaming demand is crucial for operators to tailor their offerings and maximize market share.",
+            "howToUse": "Operators can use this insight to develop region-specific strategies and games that cater to local preferences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Market Researchers"
+            ],
+            "companies": [
+                "Blask",
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-b0qwehhlp",
             "title": "SPRIBE Wins Injunction",
@@ -2012,7 +2135,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-19T23:33:43.724Z",
+            "lastScan": "2026-04-20T02:27:39.752Z",
             "note": null
         },
         {
@@ -2021,7 +2144,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-19T07:15:28.467Z",
+            "lastScan": "2026-04-20T02:27:39.752Z",
             "note": null
         },
         {
