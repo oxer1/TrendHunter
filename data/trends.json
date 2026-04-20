@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-20T12:02:02.368Z",
+        "scanDate": "2026-04-20T14:47:06.225Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,128 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-gmmhgl3tt",
+            "title": "Pragmata Sales",
+            "subtitle": "Capcom's new IP Pragmata tops 1 million sales in two days",
+            "category": "Tech",
+            "tags": [
+                "Game Sales",
+                "Capcom",
+                "Pragmata"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/pragmata-has-topped-1-million-sales-in-two-days",
+                "date": "2026-04-20T12:50:35.000Z"
+            },
+            "whatsNew": "Pragmata, a new IP from Capcom, has achieved over 1 million sales within two days of its release, indicating a strong market reception. This milestone underscores the potential of new IPs in the gaming market. The game's success may influence future game development strategies.",
+            "whyItMatters": "The rapid sales of Pragmata demonstrate the viability of investing in new gaming IPs, which can inspire innovation and growth in the gaming industry. This success story may encourage other developers to explore fresh ideas and genres.",
+            "howToUse": "Game developers can take note of the elements that contributed to Pragmata's success, such as its unique gameplay mechanics or engaging storyline, to inform their own development decisions. By analyzing the market's response to new IPs, developers can better understand what resonates with gamers.",
+            "beneficiaries": [
+                "Game Developers",
+                "Capcom"
+            ],
+            "companies": [
+                "Capcom"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-ih7ui296l",
+            "title": "Black Market Betting",
+            "subtitle": "The Grand National festival saw £100m in unlicensed bets, according to the BGC.",
+            "category": "iGaming",
+            "tags": [
+                "BGC",
+                "Grand National",
+                "Black Market Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/bgc-grand-national-100m-black-market-betting/",
+                "date": "2026-04-20T13:37:12.000Z"
+            },
+            "whatsNew": "The BGC has reported a significant amount of black market betting during the Grand National festival, with up to £100m in total wagers. This highlights the ongoing issue of unlicensed betting in the UK. The figures suggest that black market betting remains a substantial problem.",
+            "whyItMatters": "The large scale of black market betting undermines the regulated betting industry and poses risks to consumers. It also highlights the need for stricter regulation and enforcement to combat unlicensed betting.",
+            "howToUse": "Operators can use this information to advocate for stronger regulations and to educate consumers about the risks of black market betting. Regulators can use these figures to inform their enforcement strategies.",
+            "beneficiaries": [
+                "Regulators",
+                "Licensed Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-3i9lybx5e",
+            "title": "Brazil Gambling Decree",
+            "subtitle": "President Lula to publish decree on gambling with new restrictions in mid-May",
+            "category": "iGaming",
+            "tags": [
+                "Brazil",
+                "Gambling Regulation",
+                "Decree"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/brazil-president-lula-prepares-decree-gambling/",
+                "date": "2026-04-20T13:19:30.000Z"
+            },
+            "whatsNew": "Brazil's President Lula is set to publish a decree on gambling, introducing new restrictions on the industry. The decree is expected to be published in mid-May. This move aims to regulate the gambling sector in Brazil.",
+            "whyItMatters": "The new decree will impact the Brazilian gambling industry, affecting operators and players alike. It may lead to increased regulatory oversight and potential changes in the market landscape.",
+            "howToUse": "Operators should prepare for potential changes in regulations and ensure compliance with the new decree. Players should be aware of the new restrictions and their implications.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliance Officers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-1qfpl0dxn",
+            "title": "Amusnet Enters NA",
+            "subtitle": "Amusnet secures Ontario licence for North American market entry",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Licensing",
+                "Ontario",
+                "North America"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/amusnet-marks-strategic-entry-into-north-america-with-ontario-licence/",
+                "date": "2026-04-20T12:09:58.000Z"
+            },
+            "whatsNew": "Amusnet has secured a Gaming-Related Supplier–Manufacturer Registration from the AGCO in Ontario, allowing it to enter the North American iGaming market. The company will offer online gaming content to licensed operators in the province. This marks a strategic milestone in Amusnet's global expansion.",
+            "whyItMatters": "Amusnet's entry into the North American market is significant due to Ontario's established and fast-growing iGaming jurisdiction, offering robust regulatory framework and strong long-term growth potential. This move is expected to increase competition and innovation in the region.",
+            "howToUse": "Operators in Ontario can now consider Amusnet as a supplier for online gaming content, while Amusnet can leverage the licence to expand its customer base and revenue streams.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Amusnet"
+            ],
+            "companies": [
+                "Amusnet",
+                "AGCO"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-19rez2xkz",
             "title": "Bet365 US Expansion",
@@ -2222,35 +2344,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-718w7zgmq",
-            "title": "Storytelling Wins",
-            "subtitle": "Using storytelling to capture audience attention in games",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Storytelling",
-                "Player Engagement"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/how-can-your-game-win-the-attention-war-focus-on-its-writing",
-                "date": "2026-04-06T13:56:24.000Z"
-            },
-            "whatsNew": "The article emphasizes the importance of storytelling in games to win the 'attention war'. It suggests that audiences are capable of nuance, implying that complex, engaging stories can be effective. This approach can set games apart in a crowded market.",
-            "whyItMatters": "Effective storytelling can significantly enhance player engagement and loyalty, leading to better game performance and reputation. By leveraging storytelling, game developers can differentiate their products and attract a dedicated audience.",
-            "howToUse": "Developers can incorporate nuanced storytelling into their games by focusing on character development, plot depth, and player choice. This can involve creating immersive narratives, memorable characters, and interactive story elements.",
-            "beneficiaries": [
-                "Game Developers",
-                "Game Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2387,7 +2480,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T12:02:02.368Z",
+            "lastScan": "2026-04-20T14:47:06.225Z",
             "note": null
         },
         {
@@ -2396,7 +2489,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T10:45:43.999Z",
+            "lastScan": "2026-04-20T14:47:06.225Z",
             "note": null
         },
         {
@@ -16465,6 +16558,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-718w7zgmq",
+            "title": "Storytelling Wins",
+            "subtitle": "Using storytelling to capture audience attention in games",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Storytelling",
+                "Player Engagement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-can-your-game-win-the-attention-war-focus-on-its-writing",
+                "date": "2026-04-06T13:56:24.000Z"
+            },
+            "whatsNew": "The article emphasizes the importance of storytelling in games to win the 'attention war'. It suggests that audiences are capable of nuance, implying that complex, engaging stories can be effective. This approach can set games apart in a crowded market.",
+            "whyItMatters": "Effective storytelling can significantly enhance player engagement and loyalty, leading to better game performance and reputation. By leveraging storytelling, game developers can differentiate their products and attract a dedicated audience.",
+            "howToUse": "Developers can incorporate nuanced storytelling into their games by focusing on character development, plot depth, and player choice. This can involve creating immersive narratives, memorable characters, and interactive story elements.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
