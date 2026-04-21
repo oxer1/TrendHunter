@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T13:20:13.606Z",
+        "scanDate": "2026-04-21T15:10:27.363Z",
         "version": "2.5.0",
-        "totalTrends": 82,
+        "totalTrends": 81,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-lb10kt150",
+            "title": "Live Table Games",
+            "subtitle": "Resorts World New York to launch live table games, the first of the state's newly licensed downstate casinos to do so",
+            "category": "iGaming",
+            "tags": [
+                "Live Table Games",
+                "Resorts World New York",
+                "Downstate Casinos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/casino/resorts-world-new-york-launch-table-games/",
+                "date": "2026-04-21T15:04:51.000Z"
+            },
+            "whatsNew": "Resorts World New York City is set to launch live table games, marking a significant development in the state's gaming industry. This move makes it the first of the three newly licensed downstate casinos to offer live table games. The launch is scheduled for next week.",
+            "whyItMatters": "The introduction of live table games at Resorts World New York is expected to enhance the gaming experience for patrons and potentially increase revenue for the casino. This development could also set a precedent for other casinos in the region.",
+            "howToUse": "Casinos can take note of this trend to stay competitive by considering the addition of live table games to their offerings. This can help attract a wider audience and increase customer engagement.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "Resorts World New York"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-p56et0fmz",
             "title": "PlayStation Age Verification",
@@ -2479,35 +2510,6 @@
             "isNew": false
         },
         {
-            "id": "t-hu58vqma0",
-            "title": "Sweepstakes Casino Ban",
-            "subtitle": "Maine Governor Janet Mills signs law banning online sweepstakes casinos",
-            "category": "iGaming",
-            "tags": [
-                "Sweepstakes Casino",
-                "Online Gaming",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/maine-governor-signs-sweepstakes-casino-ban/",
-                "date": "2026-04-07T14:28:31.000Z"
-            },
-            "whatsNew": "Maine has become the latest state to block sweepstake-based gaming with the Governor signing a law banning online sweepstakes casinos. This move follows similar actions by other states, indicating a growing trend towards stricter online gaming regulations.",
-            "whyItMatters": "The ban on sweepstakes casinos in Maine reflects a broader regulatory shift in the US, potentially impacting the operations of online gaming companies and shaping the future of the iGaming industry.",
-            "howToUse": "Operators should review and comply with the new regulations, while also exploring alternative, compliant gaming options for their users.",
-            "beneficiaries": [
-                "Regulators",
-                "Compliant Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-jfvq0bqei",
             "title": "Overwatch Visual Update",
             "subtitle": "Blizzard explains visual updates to Overwatch's Anran after community backlash",
@@ -2536,38 +2538,6 @@
             ],
             "visualStyle": null,
             "cluster": "visual-style-trends",
-            "isNew": false
-        },
-        {
-            "id": "t-h977o25av",
-            "title": "Sony Acquires AI Firm",
-            "subtitle": "Sony acquires Cinemersive Labs to enhance gameplay visuals with machine learning",
-            "category": "AI",
-            "tags": [
-                "Machine Learning",
-                "Game Development",
-                "Visual Computing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/sony-to-acquire-machine-learning-company-cinemersive-labs",
-                "date": "2026-04-07T14:38:11.000Z"
-            },
-            "whatsNew": "Sony is acquiring Cinemersive Labs, a machine learning company, to improve gameplay visuals and rendering techniques. This acquisition will enable Sony to leverage machine learning for enhanced visual computing. The technology will be applied to create more realistic and engaging gameplay experiences.",
-            "whyItMatters": "The acquisition highlights the growing importance of AI in the gaming industry, particularly in enhancing visual quality and gameplay. This move is expected to give Sony a competitive edge in the market.",
-            "howToUse": "Game developers can utilize machine learning algorithms to create more realistic visuals and improve rendering techniques, leading to enhanced gameplay experiences. By integrating AI into their development pipelines, studios can stay ahead of the curve.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gaming Industry"
-            ],
-            "companies": [
-                "Sony",
-                "Cinemersive Labs"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ],
@@ -2705,7 +2675,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T13:20:13.606Z",
+            "lastScan": "2026-04-21T15:10:27.363Z",
             "note": null
         },
         {
@@ -2714,7 +2684,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T13:20:13.606Z",
+            "lastScan": "2026-04-21T15:10:27.363Z",
             "note": null
         },
         {
@@ -16841,6 +16811,67 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-hu58vqma0",
+            "title": "Sweepstakes Casino Ban",
+            "subtitle": "Maine Governor Janet Mills signs law banning online sweepstakes casinos",
+            "category": "iGaming",
+            "tags": [
+                "Sweepstakes Casino",
+                "Online Gaming",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/maine-governor-signs-sweepstakes-casino-ban/",
+                "date": "2026-04-07T14:28:31.000Z"
+            },
+            "whatsNew": "Maine has become the latest state to block sweepstake-based gaming with the Governor signing a law banning online sweepstakes casinos. This move follows similar actions by other states, indicating a growing trend towards stricter online gaming regulations.",
+            "whyItMatters": "The ban on sweepstakes casinos in Maine reflects a broader regulatory shift in the US, potentially impacting the operations of online gaming companies and shaping the future of the iGaming industry.",
+            "howToUse": "Operators should review and comply with the new regulations, while also exploring alternative, compliant gaming options for their users.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-h977o25av",
+            "title": "Sony Acquires AI Firm",
+            "subtitle": "Sony acquires Cinemersive Labs to enhance gameplay visuals with machine learning",
+            "category": "AI",
+            "tags": [
+                "Machine Learning",
+                "Game Development",
+                "Visual Computing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/sony-to-acquire-machine-learning-company-cinemersive-labs",
+                "date": "2026-04-07T14:38:11.000Z"
+            },
+            "whatsNew": "Sony is acquiring Cinemersive Labs, a machine learning company, to improve gameplay visuals and rendering techniques. This acquisition will enable Sony to leverage machine learning for enhanced visual computing. The technology will be applied to create more realistic and engaging gameplay experiences.",
+            "whyItMatters": "The acquisition highlights the growing importance of AI in the gaming industry, particularly in enhancing visual quality and gameplay. This move is expected to give Sony a competitive edge in the market.",
+            "howToUse": "Game developers can utilize machine learning algorithms to create more realistic visuals and improve rendering techniques, leading to enhanced gameplay experiences. By integrating AI into their development pipelines, studios can stay ahead of the curve.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [
+                "Sony",
+                "Cinemersive Labs"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
