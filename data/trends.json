@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T15:10:27.363Z",
+        "scanDate": "2026-04-21T16:58:08.410Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-j9q07nup9",
+            "title": "Romania Funding",
+            "subtitle": "Romania regulator launches €5m funding round for gambling harm prevention projects",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Harm",
+                "Romania"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/romania-regulator-5m-funding-round-harm-prevention/",
+                "date": "2026-04-21T13:26:09.000Z"
+            },
+            "whatsNew": "The National Office for Gambling in Romania has initiated a funding round of €5m aimed at supporting projects that focus on the prevention of gambling-related harms. This move underscores the regulator's commitment to ensuring a safer gaming environment.",
+            "whyItMatters": "This funding round demonstrates Romania's proactive approach to addressing gambling harm, potentially setting a precedent for other regulatory bodies. It highlights the importance of responsible gaming practices and the need for comprehensive support systems.",
+            "howToUse": "Companies and organizations can apply for funding by submitting projects that align with the regulator's goals for harm prevention, potentially gaining financial support for their initiatives.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Problem Gambling Support Groups"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-lb10kt150",
             "title": "Live Table Games",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p56et0fmz",
@@ -2477,68 +2506,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-z59ekya7q",
-            "title": "UKGC Misleads",
-            "subtitle": "UKGC may have misled policymakers over problem gambling survey data",
-            "category": "iGaming",
-            "tags": [
-                "UKGC",
-                "Problem Gambling",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/ukgc-misled-policymakers-problem-gambling-survey-data/",
-                "date": "2026-04-07T16:03:48.000Z"
-            },
-            "whatsNew": "A report by Regulus Partners claims the UKGC may have knowingly misrepresented findings of a major research study on problem gambling. This could have significant implications for policymaking in the iGaming industry.",
-            "whyItMatters": "The potential misrepresentation of data could lead to ineffective or misguided policies, impacting both the industry and those affected by problem gambling.",
-            "howToUse": "Industry stakeholders should closely monitor developments and ensure transparency in data reporting to maintain public trust.",
-            "beneficiaries": [
-                "Policymakers",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "UKGC"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-jfvq0bqei",
-            "title": "Overwatch Visual Update",
-            "subtitle": "Blizzard explains visual updates to Overwatch's Anran after community backlash",
-            "category": "Art",
-            "tags": [
-                "Overwatch",
-                "Visual Update",
-                "Game Art"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/blizzard-explains-the-visual-update-to-overwatch-character-anran",
-                "date": "2026-04-07T16:02:15.000Z"
-            },
-            "whatsNew": "Blizzard has made visual updates to Overwatch's Anran following community feedback. The updates aim to improve the character's design and address previous concerns.",
-            "whyItMatters": "The updates demonstrate Blizzard's commitment to community feedback and its impact on game development. This move may set a precedent for future character design changes in response to player input.",
-            "howToUse": "Game developers can take note of the importance of community engagement and incorporate player feedback into their design decisions to improve player satisfaction.",
-            "beneficiaries": [
-                "Game Developers",
-                "Overwatch Players"
-            ],
-            "companies": [
-                "Blizzard"
-            ],
-            "visualStyle": null,
-            "cluster": "visual-style-trends",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2675,7 +2642,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T15:10:27.363Z",
+            "lastScan": "2026-04-21T16:58:08.410Z",
             "note": null
         },
         {
@@ -2684,7 +2651,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T15:10:27.363Z",
+            "lastScan": "2026-04-21T16:58:08.410Z",
             "note": null
         },
         {
@@ -16872,6 +16839,68 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-z59ekya7q",
+            "title": "UKGC Misleads",
+            "subtitle": "UKGC may have misled policymakers over problem gambling survey data",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Problem Gambling",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ukgc-misled-policymakers-problem-gambling-survey-data/",
+                "date": "2026-04-07T16:03:48.000Z"
+            },
+            "whatsNew": "A report by Regulus Partners claims the UKGC may have knowingly misrepresented findings of a major research study on problem gambling. This could have significant implications for policymaking in the iGaming industry.",
+            "whyItMatters": "The potential misrepresentation of data could lead to ineffective or misguided policies, impacting both the industry and those affected by problem gambling.",
+            "howToUse": "Industry stakeholders should closely monitor developments and ensure transparency in data reporting to maintain public trust.",
+            "beneficiaries": [
+                "Policymakers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "UKGC"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-jfvq0bqei",
+            "title": "Overwatch Visual Update",
+            "subtitle": "Blizzard explains visual updates to Overwatch's Anran after community backlash",
+            "category": "Art",
+            "tags": [
+                "Overwatch",
+                "Visual Update",
+                "Game Art"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/blizzard-explains-the-visual-update-to-overwatch-character-anran",
+                "date": "2026-04-07T16:02:15.000Z"
+            },
+            "whatsNew": "Blizzard has made visual updates to Overwatch's Anran following community feedback. The updates aim to improve the character's design and address previous concerns.",
+            "whyItMatters": "The updates demonstrate Blizzard's commitment to community feedback and its impact on game development. This move may set a precedent for future character design changes in response to player input.",
+            "howToUse": "Game developers can take note of the importance of community engagement and incorporate player feedback into their design decisions to improve player satisfaction.",
+            "beneficiaries": [
+                "Game Developers",
+                "Overwatch Players"
+            ],
+            "companies": [
+                "Blizzard"
+            ],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
             "isNew": false
         }
     ]
