@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T05:25:19.172Z",
+        "scanDate": "2026-04-21T07:45:38.887Z",
         "version": "2.5.0",
-        "totalTrends": 79,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,41 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wg2jqp10a",
+            "title": "Unity Joins TCF",
+            "subtitle": "Unity becomes one of the first in-game ad networks to join IAB Europe's Transparency & Consent Framework, enhancing transparency and compliance for advertisers in the EEA",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "IAB Europe",
+                "Transparency & Consent Framework",
+                "GDPR",
+                "EEA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/unity-joins-iab-europe-tcf-compliant-data-use-advertising",
+                "date": "2026-04-15T00:00:00.000Z"
+            },
+            "whatsNew": "Unity has joined the Transparency & Consent Framework, allowing for compliant and transparent data use across the digital advertising ecosystem in the EEA. This move enhances transparency and compliance for advertisers, providing consent-verified inventory and standardized consent signals. Unity's participation in the TCF also supports GDPR-aligned user consent flows and interoperability with TCF-enabled partners.",
+            "whyItMatters": "This development is significant as it demonstrates Unity's commitment to transparency, compliance, and trust in the digital advertising space, particularly in the EEA where data privacy regulations are stringent. It also contributes to a more unified, user-centric standard for consent across Europe.",
+            "howToUse": "Advertisers and agencies can leverage Unity's TCF participation to reach engaged mobile gaming audiences in the EEA through TCF-verified pipelines, ensuring compliance with industry GDPR standards. Developers can also benefit from Unity's commitment to transparency and compliance, building confidence with their audiences.",
+            "beneficiaries": [
+                "Advertisers",
+                "Agencies",
+                "Developers"
+            ],
+            "companies": [
+                "Unity",
+                "IAB Europe"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-118t9ut7c",
             "title": "Waypoint 1.5",
@@ -49,7 +84,7 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6erzadwie",
@@ -80,7 +115,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-42mep06it",
@@ -2607,7 +2642,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T05:25:19.172Z",
+            "lastScan": "2026-04-21T07:45:38.887Z",
             "note": null
         },
         {
@@ -2616,7 +2651,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T05:25:19.172Z",
+            "lastScan": "2026-04-21T07:45:38.887Z",
             "note": null
         },
         {
@@ -2625,7 +2660,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T05:25:19.172Z",
+            "lastScan": "2026-04-21T07:45:38.887Z",
             "note": null
         },
         {
@@ -2644,7 +2679,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-03-16T14:58:16.594Z",
+            "lastScan": "2026-04-21T07:45:38.887Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2812,7 +2847,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T05:25:19.172Z",
+            "lastScan": "2026-04-21T07:45:38.887Z",
             "note": null
         },
         {
@@ -2911,7 +2946,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T05:25:19.172Z",
+            "lastScan": "2026-04-21T07:45:38.887Z",
             "note": null
         },
         {
