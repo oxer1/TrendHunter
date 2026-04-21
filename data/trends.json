@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-20T23:39:51.703Z",
+        "scanDate": "2026-04-21T02:23:44.332Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-42mep06it",
+            "title": "AI Demographics",
+            "subtitle": "Grounding AI agents in real demographics using synthetic personas",
+            "category": "AI",
+            "tags": [
+                "AI Agents",
+                "Synthetic Personas",
+                "Demographics"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+                "date": "2026-04-21T00:40:10.000Z"
+            },
+            "whatsNew": "The article discusses a novel approach to grounding AI agents in real demographics using synthetic personas, allowing for more realistic and diverse AI interactions. This method involves creating artificial personas based on real demographic data to train AI agents. The technique has potential applications in various fields, including gaming and simulation.",
+            "whyItMatters": "This approach can significantly improve the realism and diversity of AI interactions, making it a crucial development for industries that rely on AI agents, such as gaming and simulation. It also raises important questions about the ethics of using synthetic personas and the potential impact on AI development.",
+            "howToUse": "Developers can utilize this technique by integrating synthetic personas into their AI training data, allowing for more nuanced and realistic AI interactions. This can be particularly useful in games or simulations that require diverse and realistic character interactions.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-6paisaz6g",
+            "title": "AI Model Training",
+            "subtitle": "Hugging Face discusses multimodal embedding and reranker models with sentence transformers",
+            "category": "AI",
+            "tags": [
+                "Multimodal Embedding",
+                "Reranker Models",
+                "Sentence Transformers"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+                "date": "2026-04-16T00:00:00.000Z"
+            },
+            "whatsNew": "The article introduces a new approach to training and finetuning multimodal embedding and reranker models using sentence transformers, enabling more accurate and efficient natural language processing. This technique has potential applications in various AI-powered tools, including those used in the iGaming industry for chatbots and content generation. The use of multimodal embedding allows for the integration of text and image data, enhancing the capabilities of AI models.",
+            "whyItMatters": "The development of more sophisticated multimodal embedding and reranker models can significantly impact the iGaming industry by improving player engagement through personalized content and more intuitive interfaces. It also contributes to the advancement of AI for creative work, enabling the generation of more complex and realistic content.",
+            "howToUse": "Developers can utilize the techniques outlined in the article to enhance their AI models, particularly in applications requiring natural language understanding and generation, such as chatbots and game narratives. By integrating multimodal embedding, developers can create more immersive and interactive experiences.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-0xhzi5adt",
             "title": "Bally's Revenue Growth",
@@ -2483,7 +2545,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T23:39:51.703Z",
+            "lastScan": "2026-04-21T02:23:44.332Z",
             "note": null
         },
         {
@@ -2492,7 +2554,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T23:39:51.703Z",
+            "lastScan": "2026-04-21T02:23:44.332Z",
             "note": null
         },
         {
@@ -2501,7 +2563,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T17:55:41.481Z",
+            "lastScan": "2026-04-21T02:23:44.332Z",
             "note": null
         },
         {
@@ -2688,7 +2750,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-20T17:55:41.481Z",
+            "lastScan": "2026-04-21T02:23:44.332Z",
             "note": null
         },
         {
