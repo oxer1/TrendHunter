@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T19:24:14.098Z",
+        "scanDate": "2026-04-21T20:49:43.892Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 83,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-iqh2m2ibh",
+            "title": "Kiln Game Dev",
+            "subtitle": "Double Fine's Kiln balances fun with pottery sculpting, from game jam to full release",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Double Fine",
+                "Kiln"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-double-fine-balances-fun-with-pottery-sculpting-in-kiln",
+                "date": "2026-04-21T19:28:47.000Z"
+            },
+            "whatsNew": "Double Fine's Kiln started as a game jam prototype and evolved into a full game, focusing on balancing fun with pottery sculpting mechanics. The game's development involved refining the core concept and adding engaging features. Kiln's unique blend of creativity and gameplay is set to captivate players.",
+            "whyItMatters": "Kiln's development showcases the potential of game jam prototypes to become full-fledged games, highlighting the importance of iterative design and player feedback. The game's success could inspire other developers to explore similar creative projects.",
+            "howToUse": "Developers can apply Kiln's development approach by starting with simple, engaging prototypes and iteratively refining them based on player feedback, focusing on balancing fun with core mechanics.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Double Fine"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-wlpjxcnz9",
+            "title": "Sanrio Games",
+            "subtitle": "Sanrio launches self-publishing label to release new titles",
+            "category": "Tech",
+            "tags": [
+                "Sanrio",
+                "Self-Publishing",
+                "Gaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/sanrio-launches-self-publishing-label-sanrio-games",
+                "date": "2026-04-21T14:00:40.000Z"
+            },
+            "whatsNew": "Sanrio is launching a self-publishing label called Sanrio Games, aiming to release approximately 10 titles over the next three years. This move marks a new direction for the company, known for its popular characters like Hello Kitty. The label will focus on developing and publishing its own games.",
+            "whyItMatters": "Sanrio's entry into self-publishing could lead to more innovative and character-driven games, potentially expanding the company's reach in the gaming market. This move may also inspire other character-based companies to explore self-publishing options.",
+            "howToUse": "Game developers and publishers can take note of Sanrio's strategy and consider self-publishing as a viable option for their own titles, especially those with strong character IPs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Sanrio"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-jqiqz4ux1",
             "title": "Windrose Sales",
@@ -47,7 +109,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-j9q07nup9",
@@ -2671,7 +2733,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T19:24:14.098Z",
+            "lastScan": "2026-04-21T20:49:43.892Z",
             "note": null
         },
         {
