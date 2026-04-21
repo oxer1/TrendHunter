@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T02:23:44.332Z",
+        "scanDate": "2026-04-21T05:25:19.172Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 79,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-118t9ut7c",
+            "title": "Waypoint 1.5",
+            "subtitle": "Hugging Face releases Waypoint-1.5 for higher-fidelity interactive worlds on everyday GPUs",
+            "category": "Tech",
+            "tags": [
+                "Waypoint-1.5",
+                "GPU",
+                "Interactive Worlds"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/waypoint-1-5",
+                "date": "2026-04-09T00:00:00.000Z"
+            },
+            "whatsNew": "Waypoint-1.5 enables higher-fidelity interactive worlds on everyday GPUs, improving performance and accessibility. This update allows for more complex and detailed environments. The technology has potential applications in gaming and simulation.",
+            "whyItMatters": "The release of Waypoint-1.5 matters because it brings high-fidelity interactive worlds within reach of more devices, expanding the possibilities for game development and interactive simulations. This can lead to more immersive and engaging experiences.",
+            "howToUse": "Developers can utilize Waypoint-1.5 to create more detailed and interactive environments, leveraging the improved performance on everyday GPUs. This can be particularly useful for indie game developers and those working on simulation projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Simulation Creators"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
+        {
+            "id": "t-6erzadwie",
+            "title": "Safetensors PyTorch",
+            "subtitle": "Safetensors joins PyTorch Foundation to enhance AI model security and interoperability",
+            "category": "AI",
+            "tags": [
+                "Safetensors",
+                "PyTorch",
+                "AI Security"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+                "date": "2026-04-08T00:00:00.000Z"
+            },
+            "whatsNew": "Safetensors is joining the PyTorch Foundation to improve the security and interoperability of AI models. This move aims to standardize and enhance the way AI models are shared and used across different frameworks.",
+            "whyItMatters": "The integration of Safetensors into the PyTorch ecosystem can significantly impact the development and deployment of AI models, particularly in terms of security and collaboration. It can also influence the broader AI community by setting new standards for model sharing and usage.",
+            "howToUse": "Developers can leverage Safetensors within PyTorch to secure and share AI models more efficiently, while also benefiting from the foundation's resources and community support.",
+            "beneficiaries": [
+                "AI Developers",
+                "Data Scientists"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-42mep06it",
             "title": "AI Demographics",
@@ -49,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6paisaz6g",
@@ -80,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0xhzi5adt",
@@ -2545,7 +2607,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T02:23:44.332Z",
+            "lastScan": "2026-04-21T05:25:19.172Z",
             "note": null
         },
         {
@@ -2554,7 +2616,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T02:23:44.332Z",
+            "lastScan": "2026-04-21T05:25:19.172Z",
             "note": null
         },
         {
@@ -2563,7 +2625,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T02:23:44.332Z",
+            "lastScan": "2026-04-21T05:25:19.172Z",
             "note": null
         },
         {
@@ -2750,7 +2812,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T02:23:44.332Z",
+            "lastScan": "2026-04-21T05:25:19.172Z",
             "note": null
         },
         {
@@ -2849,7 +2911,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-03-30T05:22:28.632Z",
+            "lastScan": "2026-04-21T05:25:19.172Z",
             "note": null
         },
         {
