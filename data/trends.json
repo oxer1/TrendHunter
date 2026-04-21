@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T09:23:13.046Z",
+        "scanDate": "2026-04-21T11:04:03.839Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 82,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-p56et0fmz",
+            "title": "PlayStation Age Verification",
+            "subtitle": "Sony introduces age verification for UK and Ireland PlayStation users, restricting unverified accounts' access to certain features",
+            "category": "iGaming",
+            "tags": [
+                "Age Verification",
+                "PlayStation",
+                "Gaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/sony-rolls-out-age-verification-for-playstation-users-in-the-uk-and-ireland",
+                "date": "2026-04-21T10:20:29.000Z"
+            },
+            "whatsNew": "Sony has implemented age verification for PlayStation users in the UK and Ireland, aiming to enhance user safety and comply with regulatory requirements. Users who fail to verify their age will face restrictions on communication features and some third-party services. This move is part of a broader effort to improve online safety and protection for minors.",
+            "whyItMatters": "The introduction of age verification highlights the growing importance of regulatory compliance in the gaming industry, particularly in regions with strict age-related laws. This development may influence other gaming platforms to adopt similar measures, enhancing overall user protection and safety.",
+            "howToUse": "Gaming companies should prioritize age verification to ensure compliance with regional regulations and maintain a safe environment for all users. Implementing robust age verification processes can help prevent access to inappropriate content and protect minors.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Regulatory Bodies",
+                "Users"
+            ],
+            "companies": [
+                "Sony"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-4mok0bofs",
             "title": "iGaming Hiring Trends",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wg2jqp10a",
@@ -2673,7 +2705,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T09:23:13.046Z",
+            "lastScan": "2026-04-21T11:04:03.839Z",
             "note": null
         },
         {
@@ -2682,7 +2714,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T09:23:13.046Z",
+            "lastScan": "2026-04-21T11:04:03.839Z",
             "note": null
         },
         {
