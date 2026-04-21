@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-21T18:00:22.666Z",
+        "scanDate": "2026-04-21T19:24:14.098Z",
         "version": "2.5.0",
-        "totalTrends": 80,
+        "totalTrends": 81,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jqiqz4ux1",
+            "title": "Windrose Sales",
+            "subtitle": "Windrose surpasses 1M sales within a week with 200,000 concurrent players",
+            "category": "Tech",
+            "tags": [
+                "Game Sales",
+                "Pirate Adventure",
+                "Gaming Milestone"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/windrose-surpasses-1m-sales-within-a-week",
+                "date": "2026-04-21T16:31:27.000Z"
+            },
+            "whatsNew": "Windrose, a pirate adventure game, has achieved a significant milestone by surpassing 1 million sales within a week. The game also saw over 200,000 concurrent players, indicating its popularity and engagement.",
+            "whyItMatters": "This achievement showcases the game's success and appeal, potentially setting a new standard for the gaming industry. It also highlights the growing interest in pirate-themed adventure games.",
+            "howToUse": "Game developers can take note of the elements that contributed to Windrose's success, such as its engaging gameplay and immersive theme, to inform their own game development strategies.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-j9q07nup9",
             "title": "Romania Funding",
@@ -2642,7 +2671,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-21T18:00:22.666Z",
+            "lastScan": "2026-04-21T19:24:14.098Z",
             "note": null
         },
         {
