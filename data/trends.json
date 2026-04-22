@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-22T18:00:33.336Z",
+        "scanDate": "2026-04-22T20:03:17.320Z",
         "version": "2.5.0",
-        "totalTrends": 91,
+        "totalTrends": 92,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hyvw06w6q",
+            "title": "BAFTA Indie Game Snub",
+            "subtitle": "BAFTA pulls indie game trailer from awards ceremony, citing guest wellbeing",
+            "category": "Community",
+            "tags": [
+                "BAFTA",
+                "Indie Games",
+                "Awards Ceremony"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-i-was-ignored-bafta-criticised-after-pulling-indie-game-trailer-from-awards-ceremony",
+                "date": "2026-04-20T10:20:49.000Z"
+            },
+            "whatsNew": "BAFTA pulled a trailer for The Quiet Things, an upcoming narrative title, from its awards ceremony. The decision was made to prioritize guest wellbeing. The move has been criticized by the indie game community.",
+            "whyItMatters": "The incident highlights the challenges indie game developers face in getting recognition for their work. It also raises questions about the role of awards ceremonies in promoting diversity and inclusivity in the gaming industry.",
+            "howToUse": "Indie game developers can use this incident as a reminder to seek out alternative platforms and communities to showcase their work. They can also engage with gaming organizations to advocate for greater inclusivity and recognition.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Gaming Community"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": true
+        },
         {
             "id": "t-arwkxuzvt",
             "title": "AI Live Dealer",
@@ -2984,7 +3013,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T18:00:33.336Z",
+            "lastScan": "2026-04-22T20:03:17.320Z",
             "note": null
         },
         {
