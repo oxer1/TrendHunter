@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-22T07:28:51.255Z",
+        "scanDate": "2026-04-22T09:17:57.799Z",
         "version": "2.5.0",
-        "totalTrends": 87,
+        "totalTrends": 88,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rgoswnd4p",
+            "title": "Real-Time Matters",
+            "subtitle": "The iGaming industry's varying definitions of real-time data and operations",
+            "category": "iGaming",
+            "tags": [
+                "Real-Time Data",
+                "iGaming Operations",
+                "Live Systems"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/flows-on-when-real-time-really-matters/",
+                "date": "2026-04-22T08:24:10.000Z"
+            },
+            "whatsNew": "The iGaming industry has different definitions of real-time, ranging from instant to within the hour. This discrepancy can significantly impact live operations and system expectations.",
+            "whyItMatters": "The varying definitions of real-time can lead to confusion and inconsistencies in iGaming operations, affecting the overall player experience and system reliability.",
+            "howToUse": "Operators and providers should clearly define and communicate their understanding of real-time data and operations to ensure seamless integration and player satisfaction.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Providers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-vhim91yn7",
             "title": "Bet365 US Expansion",
@@ -2859,7 +2888,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T07:28:51.255Z",
+            "lastScan": "2026-04-22T09:17:57.799Z",
             "note": null
         },
         {
@@ -2868,7 +2897,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T07:28:51.255Z",
+            "lastScan": "2026-04-22T09:17:57.799Z",
             "note": null
         },
         {
@@ -2877,7 +2906,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T07:28:51.255Z",
+            "lastScan": "2026-04-22T09:17:57.799Z",
             "note": null
         },
         {
@@ -3064,7 +3093,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T07:28:51.255Z",
+            "lastScan": "2026-04-22T09:17:57.799Z",
             "note": null
         },
         {
