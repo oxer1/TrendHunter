@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-22T15:11:35.215Z",
+        "scanDate": "2026-04-22T16:56:41.597Z",
         "version": "2.5.0",
-        "totalTrends": 92,
+        "totalTrends": 91,
         "categories": [
             "iGaming",
             "AI",
@@ -2848,37 +2848,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-2zo8w1dfx",
-            "title": "Indie Game Funding",
-            "subtitle": "Landfall's Evil Landfall publishing label to finance indie games with short development cycles",
-            "category": "Tech",
-            "tags": [
-                "Indie Games",
-                "Game Development",
-                "Publishing Label"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/peak-co-developer-landfall-might-finance-your-next-indie-game",
-                "date": "2026-04-08T15:28:17.000Z"
-            },
-            "whatsNew": "Landfall's new publishing label, Evil Landfall, is looking to invest in indie games with short development cycles, focusing on silly titles. This move indicates a growing interest in supporting unique and innovative game projects. The label's focus on short development cycles may lead to more experimental and creative games.",
-            "whyItMatters": "This development could lead to more opportunities for indie game developers to bring their ideas to life, potentially resulting in a surge of innovative and creative games. It may also signal a shift in the industry towards more experimental and niche titles.",
-            "howToUse": "Indie game developers can look into Evil Landfall's publishing label for potential funding opportunities, while gamers can expect a wider variety of unique and creative games in the future.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Gamers"
-            ],
-            "companies": [
-                "Landfall"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3015,7 +2984,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T15:11:35.215Z",
+            "lastScan": "2026-04-22T16:56:41.597Z",
             "note": null
         },
         {
@@ -17336,6 +17305,37 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2zo8w1dfx",
+            "title": "Indie Game Funding",
+            "subtitle": "Landfall's Evil Landfall publishing label to finance indie games with short development cycles",
+            "category": "Tech",
+            "tags": [
+                "Indie Games",
+                "Game Development",
+                "Publishing Label"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/peak-co-developer-landfall-might-finance-your-next-indie-game",
+                "date": "2026-04-08T15:28:17.000Z"
+            },
+            "whatsNew": "Landfall's new publishing label, Evil Landfall, is looking to invest in indie games with short development cycles, focusing on silly titles. This move indicates a growing interest in supporting unique and innovative game projects. The label's focus on short development cycles may lead to more experimental and creative games.",
+            "whyItMatters": "This development could lead to more opportunities for indie game developers to bring their ideas to life, potentially resulting in a surge of innovative and creative games. It may also signal a shift in the industry towards more experimental and niche titles.",
+            "howToUse": "Indie game developers can look into Evil Landfall's publishing label for potential funding opportunities, while gamers can expect a wider variety of unique and creative games in the future.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Landfall"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
