@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-23T13:22:42.994Z",
+        "scanDate": "2026-04-23T15:50:58.668Z",
         "version": "2.5.0",
         "totalTrends": 104,
         "categories": [
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0mo4u5v4l",
+            "title": "Penn Revenue Grows",
+            "subtitle": "Penn Entertainment's Q1 2026 financial results show revenue growth and narrowing losses.",
+            "category": "iGaming",
+            "tags": [
+                "Penn Entertainment",
+                "Q1 2026",
+                "Financial Results"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-penn-losses-narrow-revenue-grows-6pc/",
+                "date": "2026-04-23T15:40:36.000Z"
+            },
+            "whatsNew": "Penn Entertainment's revenue grew 6% in Q1 2026, with losses continuing to narrow. CEO Jay Snowden described the quarter as 'solid'.",
+            "whyItMatters": "The growth in revenue and reduction in losses indicate a positive trend for Penn Entertainment, suggesting the company is on a path to recovery and potential expansion.",
+            "howToUse": "Investors and industry analysts can use this information to assess Penn Entertainment's financial health and potential for future growth.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Penn Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-f24y91ym5",
+            "title": "Malta Bill 55",
+            "subtitle": "Malta's Bill 55 may escape EU court scrutiny for now, according to the CJEU's advocate general",
+            "category": "iGaming",
+            "tags": [
+                "Malta",
+                "Bill 55",
+                "EU Court",
+                "iGaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/malta-bill-55-could-escape-eu-court-scrutiny/",
+                "date": "2026-04-23T15:32:16.000Z"
+            },
+            "whatsNew": "The CJEU's advocate general declined to rule on the legality of Malta's Bill 55, potentially allowing it to escape EU court scrutiny. The advocate general noted that if he had to rule, he would strike down the bill. This development may impact the iGaming industry in Malta.",
+            "whyItMatters": "The outcome of this case could significantly impact Malta's iGaming industry and its regulatory environment. It may also set a precedent for other EU countries with similar legislation.",
+            "howToUse": "iGaming operators and regulators should closely monitor the developments surrounding Bill 55 and its potential implications on the industry.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-l7ttylbog",
             "title": "Churchill Downs",
@@ -49,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vlntvgmvt",
@@ -78,7 +139,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-t6i3p0rvg",
@@ -107,7 +168,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9ttho5o11",
@@ -136,7 +197,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8gp5q9ba8",
@@ -167,7 +228,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6bk85vq5s",
@@ -3124,38 +3185,6 @@
             "isNew": false
         },
         {
-            "id": "t-uhc9vjeh7",
-            "title": "Evolution Sues Playtech",
-            "subtitle": "Evolution adds Playtech to defamation lawsuit over alleged smear campaign",
-            "category": "iGaming",
-            "tags": [
-                "Evolution",
-                "Playtech",
-                "Defamation Lawsuit"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEtJOVFSakt5aUpINklPUTRWUFRpZ2xOUDdsZ1VSSktOcGJIaVRSdUs4LWFzT0laR3l6NDkxZGhDelExR0cwM1ZBOGRHem5QTGZqUWx4aUpEOGFJaEVYdDl0M3JqbTliSGVjeXh2REhfTVdWcnFXYzRJMlpCemJOb3ZVeXZCV2RjN2plc18xYw?oc=5",
-                "date": "2026-04-09T14:53:39.000Z"
-            },
-            "whatsNew": "Evolution has added Playtech to its defamation lawsuit, alleging a smear campaign. The lawsuit highlights increasing tensions between major iGaming companies.",
-            "whyItMatters": "This lawsuit could have significant implications for the iGaming industry, affecting how companies interact and compete with each other.",
-            "howToUse": "Companies should be cautious of their public statements and marketing strategies to avoid similar lawsuits.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Legal Experts"
-            ],
-            "companies": [
-                "Evolution",
-                "Playtech"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-vqx0iveqr",
             "title": "Universal Video Codec",
             "subtitle": "Game industry needs a universal video codec for FMV games, says 1000xResist creator",
@@ -3210,39 +3239,6 @@
             ],
             "companies": [
                 "Hazelight Studios"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-0i3ay2uo7",
-            "title": "eFootball Milestone",
-            "subtitle": "Konami's eFootball reaches 1 billion downloads since its launch in 2021",
-            "category": "Tech",
-            "tags": [
-                "eFootball",
-                "Konami",
-                "PES",
-                "Free-to-play",
-                "Milestones"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/konami-s-efootball-tops-1-billion-downloads",
-                "date": "2026-04-09T14:45:21.000Z"
-            },
-            "whatsNew": "Konami's eFootball has achieved a significant milestone of 1 billion downloads. The game, a rebrand of Pro Evolution Soccer (PES), was launched in late 2021 as a free-to-play title.",
-            "whyItMatters": "This milestone indicates the game's popularity and the potential for free-to-play models in the gaming industry. It also reflects Konami's successful strategy in rebranding and relaunching a classic franchise.",
-            "howToUse": "Game developers can take note of the success of free-to-play models and consider adopting similar strategies for their own titles. Additionally, the use of rebranding and relaunching existing IPs can be an effective way to revitalize a franchise.",
-            "beneficiaries": [
-                "Game Developers",
-                "Konami"
-            ],
-            "companies": [
-                "Konami"
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
@@ -3393,7 +3389,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T13:22:42.994Z",
+            "lastScan": "2026-04-23T15:50:58.668Z",
             "note": null
         },
         {
@@ -3402,7 +3398,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T13:22:42.994Z",
+            "lastScan": "2026-04-23T15:50:58.668Z",
             "note": null
         },
         {
@@ -3589,7 +3585,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T13:22:42.994Z",
+            "lastScan": "2026-04-23T15:50:58.668Z",
             "note": null
         },
         {
@@ -3688,7 +3684,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T05:23:32.595Z",
+            "lastScan": "2026-04-23T15:50:58.668Z",
             "note": null
         },
         {
@@ -17799,6 +17795,71 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-uhc9vjeh7",
+            "title": "Evolution Sues Playtech",
+            "subtitle": "Evolution adds Playtech to defamation lawsuit over alleged smear campaign",
+            "category": "iGaming",
+            "tags": [
+                "Evolution",
+                "Playtech",
+                "Defamation Lawsuit"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEtJOVFSakt5aUpINklPUTRWUFRpZ2xOUDdsZ1VSSktOcGJIaVRSdUs4LWFzT0laR3l6NDkxZGhDelExR0cwM1ZBOGRHem5QTGZqUWx4aUpEOGFJaEVYdDl0M3JqbTliSGVjeXh2REhfTVdWcnFXYzRJMlpCemJOb3ZVeXZCV2RjN2plc18xYw?oc=5",
+                "date": "2026-04-09T14:53:39.000Z"
+            },
+            "whatsNew": "Evolution has added Playtech to its defamation lawsuit, alleging a smear campaign. The lawsuit highlights increasing tensions between major iGaming companies.",
+            "whyItMatters": "This lawsuit could have significant implications for the iGaming industry, affecting how companies interact and compete with each other.",
+            "howToUse": "Companies should be cautious of their public statements and marketing strategies to avoid similar lawsuits.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Legal Experts"
+            ],
+            "companies": [
+                "Evolution",
+                "Playtech"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0i3ay2uo7",
+            "title": "eFootball Milestone",
+            "subtitle": "Konami's eFootball reaches 1 billion downloads since its launch in 2021",
+            "category": "Tech",
+            "tags": [
+                "eFootball",
+                "Konami",
+                "PES",
+                "Free-to-play",
+                "Milestones"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/konami-s-efootball-tops-1-billion-downloads",
+                "date": "2026-04-09T14:45:21.000Z"
+            },
+            "whatsNew": "Konami's eFootball has achieved a significant milestone of 1 billion downloads. The game, a rebrand of Pro Evolution Soccer (PES), was launched in late 2021 as a free-to-play title.",
+            "whyItMatters": "This milestone indicates the game's popularity and the potential for free-to-play models in the gaming industry. It also reflects Konami's successful strategy in rebranding and relaunching a classic franchise.",
+            "howToUse": "Game developers can take note of the success of free-to-play models and consider adopting similar strategies for their own titles. Additionally, the use of rebranding and relaunching existing IPs can be an effective way to revitalize a franchise.",
+            "beneficiaries": [
+                "Game Developers",
+                "Konami"
+            ],
+            "companies": [
+                "Konami"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
