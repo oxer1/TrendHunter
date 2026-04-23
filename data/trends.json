@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-23T17:17:19.390Z",
+        "scanDate": "2026-04-23T19:04:05.611Z",
         "version": "2.5.0",
-        "totalTrends": 105,
+        "totalTrends": 104,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x52jpzkbt",
@@ -82,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0mo4u5v4l",
@@ -3247,35 +3247,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-vqx0iveqr",
-            "title": "Universal Video Codec",
-            "subtitle": "Game industry needs a universal video codec for FMV games, says 1000xResist creator",
-            "category": "Tech",
-            "tags": [
-                "FMV games",
-                "Video Codec",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/programming/1000xresist-creator-the-game-industry-needs-a-universal-codec-for-fmv-games",
-                "date": "2026-04-09T18:00:00.000Z"
-            },
-            "whatsNew": "The creator of 1000xResist is calling for a universal video codec to support FMV games across all platforms. Current codecs are not suitable, leading to compromises in video quality.",
-            "whyItMatters": "A universal video codec would enable smoother game development and better video quality for FMV games, enhancing the overall gaming experience.",
-            "howToUse": "Game developers can advocate for the adoption of a universal video codec and explore existing alternatives to improve video quality in their FMV games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gamers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3422,7 +3393,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T17:17:19.390Z",
+            "lastScan": "2026-04-23T19:04:05.611Z",
             "note": null
         },
         {
@@ -3431,7 +3402,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T17:17:19.390Z",
+            "lastScan": "2026-04-23T19:04:05.611Z",
             "note": null
         },
         {
@@ -3618,7 +3589,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T17:17:19.390Z",
+            "lastScan": "2026-04-23T19:04:05.611Z",
             "note": null
         },
         {
@@ -17924,6 +17895,35 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-vqx0iveqr",
+            "title": "Universal Video Codec",
+            "subtitle": "Game industry needs a universal video codec for FMV games, says 1000xResist creator",
+            "category": "Tech",
+            "tags": [
+                "FMV games",
+                "Video Codec",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/programming/1000xresist-creator-the-game-industry-needs-a-universal-codec-for-fmv-games",
+                "date": "2026-04-09T18:00:00.000Z"
+            },
+            "whatsNew": "The creator of 1000xResist is calling for a universal video codec to support FMV games across all platforms. Current codecs are not suitable, leading to compromises in video quality.",
+            "whyItMatters": "A universal video codec would enable smoother game development and better video quality for FMV games, enhancing the overall gaming experience.",
+            "howToUse": "Game developers can advocate for the adoption of a universal video codec and explore existing alternatives to improve video quality in their FMV games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
             "isNew": false
         }
     ]
