@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-22T23:43:07.211Z",
+        "scanDate": "2026-04-23T02:25:26.527Z",
         "version": "2.5.0",
-        "totalTrends": 92,
+        "totalTrends": 94,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3j78ekhfe",
+            "title": "Sweepstakes iGaming",
+            "subtitle": "Infigame brings strategic value to the iGaming market through sweepstakes",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Sweepstakes",
+                "Growth Opportunities"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/the-power-of-sweepstakes-infingame/",
+                "date": "2026-04-22T15:05:51.000Z"
+            },
+            "whatsNew": "Sweepstakes have gained significant traction in North America, particularly in the US, with growing interest in Canada and Australia. Infingame is leveraging its expertise to help operators and game developers unlock new growth opportunities.",
+            "whyItMatters": "The shift in player engagement with gaming products is driving the growth of sweepstakes, presenting new opportunities for the iGaming industry. Infingame's strategic approach can help operators and developers capitalize on this trend.",
+            "howToUse": "Operators and game developers can partner with Infingame to leverage its expertise in sweepstakes and unlock new growth opportunities in the iGaming market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Infigame"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-rhu1bfrif",
+            "title": "iGaming Ad Ban",
+            "subtitle": "Ontario lawmakers introduce bill to prohibit iGaming advertising",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Regulation",
+                "Advertising"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ontario-lawmakers-introduce-bill-prohibit-igaming-advertising/",
+                "date": "2026-04-22T14:56:28.000Z"
+            },
+            "whatsNew": "A new bill has been introduced in Ontario to ban most forms of iGaming advertising. This move aims to restrict the promotional activities of online gambling operators and their partners.",
+            "whyItMatters": "The proposed ban could significantly impact the iGaming industry in Ontario, affecting operators' marketing strategies and potentially influencing other jurisdictions to follow suit.",
+            "howToUse": "iGaming operators should review their advertising strategies and prepare for potential regulatory changes, while also exploring alternative marketing approaches.",
+            "beneficiaries": [
+                "Regulators",
+                "Problem Gamblers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-sexe971no",
+            "title": "iGaming Podcast",
+            "subtitle": "Pragmatic Solutions launches Season 2 of Connected Podcast for iGaming operator strategy and technology",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "PAM",
+                "podcast",
+                "operator strategy"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/pragmatic-solutions-launches-season-2-connected-podcast/",
+                "date": "2026-04-22T14:46:43.000Z"
+            },
+            "whatsNew": "Pragmatic Solutions has launched Season 2 of its Connected podcast, focusing on iGaming operator strategy and technology. The podcast brings together industry leaders for discussions on operational and strategic decisions. It aims to provide practical insights for operators navigating complex technology and regulatory environments.",
+            "whyItMatters": "The podcast provides valuable insights for iGaming operators, helping them make informed decisions about their businesses. It also highlights the importance of collaboration and knowledge-sharing in the iGaming industry.",
+            "howToUse": "iGaming operators can tune in to the podcast to gain practical insights and stay up-to-date on the latest industry trends and technologies. They can also use the podcast as a resource to inform their strategic decisions.",
+            "beneficiaries": [
+                "iGaming operators",
+                "industry leaders"
+            ],
+            "companies": [
+                "Pragmatic Solutions",
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-hyvw06w6q",
             "title": "BAFTA Indie Game Snub",
@@ -640,37 +733,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-118t9ut7c",
-            "title": "Waypoint 1.5",
-            "subtitle": "Hugging Face releases Waypoint-1.5 for higher-fidelity interactive worlds on everyday GPUs",
-            "category": "Tech",
-            "tags": [
-                "Waypoint-1.5",
-                "GPU",
-                "Interactive Worlds"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/waypoint-1-5",
-                "date": "2026-04-09T00:00:00.000Z"
-            },
-            "whatsNew": "Waypoint-1.5 enables higher-fidelity interactive worlds on everyday GPUs, improving performance and accessibility. This update allows for more complex and detailed environments. The technology has potential applications in gaming and simulation.",
-            "whyItMatters": "The release of Waypoint-1.5 matters because it brings high-fidelity interactive worlds within reach of more devices, expanding the possibilities for game development and interactive simulations. This can lead to more immersive and engaging experiences.",
-            "howToUse": "Developers can utilize Waypoint-1.5 to create more detailed and interactive environments, leveraging the improved performance on everyday GPUs. This can be particularly useful for indie game developers and those working on simulation projects.",
-            "beneficiaries": [
-                "Game Developers",
-                "Simulation Creators"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
             "isNew": false
         },
         {
@@ -3013,7 +3075,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T23:43:07.211Z",
+            "lastScan": "2026-04-23T02:25:26.527Z",
             "note": null
         },
         {
@@ -3022,7 +3084,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-22T15:11:35.215Z",
+            "lastScan": "2026-04-23T02:25:26.527Z",
             "note": null
         },
         {
@@ -17365,6 +17427,37 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-118t9ut7c",
+            "title": "Waypoint 1.5",
+            "subtitle": "Hugging Face releases Waypoint-1.5 for higher-fidelity interactive worlds on everyday GPUs",
+            "category": "Tech",
+            "tags": [
+                "Waypoint-1.5",
+                "GPU",
+                "Interactive Worlds"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/waypoint-1-5",
+                "date": "2026-04-09T00:00:00.000Z"
+            },
+            "whatsNew": "Waypoint-1.5 enables higher-fidelity interactive worlds on everyday GPUs, improving performance and accessibility. This update allows for more complex and detailed environments. The technology has potential applications in gaming and simulation.",
+            "whyItMatters": "The release of Waypoint-1.5 matters because it brings high-fidelity interactive worlds within reach of more devices, expanding the possibilities for game development and interactive simulations. This can lead to more immersive and engaging experiences.",
+            "howToUse": "Developers can utilize Waypoint-1.5 to create more detailed and interactive environments, leveraging the improved performance on everyday GPUs. This can be particularly useful for indie game developers and those working on simulation projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Simulation Creators"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
             "isNew": false
         }
     ]
