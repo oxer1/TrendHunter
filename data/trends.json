@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-23T15:50:58.668Z",
+        "scanDate": "2026-04-23T17:17:19.390Z",
         "version": "2.5.0",
-        "totalTrends": 104,
+        "totalTrends": 105,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qezvr9hda",
+            "title": "BGC New Chair",
+            "subtitle": "Gamesys MD Kane Purdy is appointed as the new Chair of the Betting and Gaming Council",
+            "category": "iGaming",
+            "tags": [
+                "BGC",
+                "Gamesys",
+                "Kane Purdy"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/gamesys-md-kane-purdy-appointed-as-new-bgc-chair/",
+                "date": "2026-04-23T16:06:33.000Z"
+            },
+            "whatsNew": "Kane Purdy, MD of Gamesys, has been appointed as the new Chair of the Betting and Gaming Council, replacing Michael Dugher. This change occurs three months after Dugher's departure. The appointment is expected to bring new leadership to the BGC.",
+            "whyItMatters": "The appointment of a new Chair can influence the direction and policies of the BGC, potentially impacting the iGaming industry. Purdy's experience as Gamesys MD could bring valuable insights to the role.",
+            "howToUse": "Industry professionals should monitor the BGC's future decisions and announcements under Purdy's leadership to understand potential changes in regulation or industry standards.",
+            "beneficiaries": [
+                "iGaming operators",
+                "BGC members"
+            ],
+            "companies": [
+                "Gamesys",
+                "Betting and Gaming Council"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-x52jpzkbt",
+            "title": "Gemma 4 VLA",
+            "subtitle": "Gemma 4 VLA demo showcased on Jetson Orin Nano Super, highlighting AI capabilities",
+            "category": "AI",
+            "tags": [
+                "Gemma 4 VLA",
+                "Jetson Orin Nano",
+                "AI Demo"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/gemma4",
+                "date": "2026-04-22T15:40:50.000Z"
+            },
+            "whatsNew": "The Gemma 4 VLA demo on Jetson Orin Nano Super showcases the potential of AI in processing and generating high-quality content. This demo highlights the advancements in AI technology and its applications in various fields. The use of Jetson Orin Nano Super demonstrates the ability to run complex AI models on compact devices.",
+            "whyItMatters": "This demo matters as it showcases the potential of AI in generating high-quality content and its ability to run on compact devices, making it accessible to a wider range of users. It also highlights the advancements in AI technology and its potential applications in various fields.",
+            "howToUse": "Developers can utilize the Gemma 4 VLA model and Jetson Orin Nano Super to create and deploy AI-powered applications, such as content generation and processing tools.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "NVIDIA",
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-0mo4u5v4l",
             "title": "Penn Revenue Grows",
@@ -49,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-f24y91ym5",
@@ -79,7 +143,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-l7ttylbog",
@@ -3212,37 +3276,6 @@
             "visualStyle": null,
             "cluster": "frontend-tools",
             "isNew": false
-        },
-        {
-            "id": "t-e03mukca6",
-            "title": "Hazelight Sales",
-            "subtitle": "Hazelight Studios reaches 50M total sales, largely due to It Takes Two",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Sales Figures",
-                "Hazelight Studios"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/split-fiction-dev-hazelight-studios-accrues-50m-total-sales",
-                "date": "2026-04-09T16:37:57.000Z"
-            },
-            "whatsNew": "Hazelight Studios has achieved 50 million total sales, with It Takes Two contributing 30 million of those sales. This milestone underscores the game's commercial success and the studio's growing influence.",
-            "whyItMatters": "The significant sales figure highlights the impact of cooperative gameplay and innovative storytelling in the gaming industry, setting a precedent for future game development.",
-            "howToUse": "Game developers can take note of Hazelight's success by incorporating cooperative elements and unique narratives into their own projects, potentially appealing to a wider audience.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Hazelight Studios"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3389,7 +3422,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T15:50:58.668Z",
+            "lastScan": "2026-04-23T17:17:19.390Z",
             "note": null
         },
         {
@@ -3398,7 +3431,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T15:50:58.668Z",
+            "lastScan": "2026-04-23T17:17:19.390Z",
             "note": null
         },
         {
@@ -3585,7 +3618,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T15:50:58.668Z",
+            "lastScan": "2026-04-23T17:17:19.390Z",
             "note": null
         },
         {
@@ -17857,6 +17890,37 @@
             ],
             "companies": [
                 "Konami"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-e03mukca6",
+            "title": "Hazelight Sales",
+            "subtitle": "Hazelight Studios reaches 50M total sales, largely due to It Takes Two",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Sales Figures",
+                "Hazelight Studios"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/split-fiction-dev-hazelight-studios-accrues-50m-total-sales",
+                "date": "2026-04-09T16:37:57.000Z"
+            },
+            "whatsNew": "Hazelight Studios has achieved 50 million total sales, with It Takes Two contributing 30 million of those sales. This milestone underscores the game's commercial success and the studio's growing influence.",
+            "whyItMatters": "The significant sales figure highlights the impact of cooperative gameplay and innovative storytelling in the gaming industry, setting a precedent for future game development.",
+            "howToUse": "Game developers can take note of Hazelight's success by incorporating cooperative elements and unique narratives into their own projects, potentially appealing to a wider audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Hazelight Studios"
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
