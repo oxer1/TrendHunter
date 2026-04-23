@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-23T09:25:00.394Z",
+        "scanDate": "2026-04-23T11:05:27.640Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 99,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,132 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6bk85vq5s",
+            "title": "Sportradar Shares Plummet",
+            "subtitle": "Short sellers accuse Sportradar of powering illegal sportsbooks, causing a 23% drop in shares.",
+            "category": "iGaming",
+            "tags": [
+                "Sportradar",
+                "Short Sellers",
+                "Illegal Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/sportradar-shares-drop-23pc-short-seller-claims/",
+                "date": "2026-04-23T10:31:37.000Z"
+            },
+            "whatsNew": "Short sellers have accused Sportradar of involvement with illegal sportsbooks, leading to a significant drop in the company's shares. This development may have implications for the regulatory environment of the iGaming industry. The accusations highlight the ongoing challenges of ensuring compliance with varying legal frameworks across different regions.",
+            "whyItMatters": "The accusations against Sportradar could lead to stricter regulations and increased scrutiny of companies operating in the iGaming sector, potentially affecting their operations and profitability. This situation underscores the importance of compliance and legal adherence in the industry.",
+            "howToUse": "Companies in the iGaming industry should review their compliance measures to ensure they are adhering to all relevant laws and regulations, and consider the potential impact of such accusations on their operations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-079g0izj6",
+            "title": "World Cup Casino Prep",
+            "subtitle": "GR8 Tech prepares casino for World Cup traffic with upgrades and integrations",
+            "category": "iGaming",
+            "tags": [
+                "World Cup",
+                "Casino",
+                "Sportsbook",
+                "GR8 Tech"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/gr8-tech-world-cup-ready-series-preparing-casino-for-biggest-traffic-window-of-the-year/",
+                "date": "2026-04-23T08:59:48.000Z"
+            },
+            "whatsNew": "GR8 Tech is upgrading its casino vertical to capitalize on World Cup traffic, focusing on bonuses, tournaments, content delivery, and provider integrations. This preparation aims to turn event-driven traffic into sustained casino revenue. The upgrades are designed to help operators maximize their profits during the tournament.",
+            "whyItMatters": "The World Cup presents a significant opportunity for operators to increase revenue, and a well-prepared casino can play a crucial role in monetization and retention. By upgrading its casino vertical, GR8 Tech is helping operators to capitalize on this opportunity.",
+            "howToUse": "Operators can leverage GR8 Tech's upgraded casino vertical to offer enhanced bonuses, tournaments, and content to attract and retain players during the World Cup. By integrating with multiple providers, operators can also expand their game offerings and improve the overall player experience.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Players"
+            ],
+            "companies": [
+                "GR8 Tech"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-kqb01mnwl",
+            "title": "Squeeze Baccarat",
+            "subtitle": "ICONIC21 launches a new RNG title with player-controlled card reveal",
+            "category": "iGaming",
+            "tags": [
+                "RNG",
+                "Baccarat",
+                "iGaming",
+                "Casino Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/iconic21-launches-squeeze-baccarat/",
+                "date": "2026-04-23T08:17:55.000Z"
+            },
+            "whatsNew": "ICONIC21's Squeeze Baccarat introduces a player-led card reveal, allowing players to control the pace of the game. This new feature recreates the tension of traditional squeeze baccarat in an RNG format.",
+            "whyItMatters": "This innovation enhances player engagement and immersion, potentially increasing the popularity of RNG baccarat games. It also showcases the evolving nature of iGaming content and the importance of interactive experiences.",
+            "howToUse": "Game developers can incorporate similar player-controlled mechanics into their own titles to boost engagement and create more immersive experiences.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "ICONIC21"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-5rp8qyhtk",
+            "title": "Rapper Fined",
+            "subtitle": "German rapper Capital Bra fined for promoting illegal online gambling",
+            "category": "iGaming",
+            "tags": [
+                "GGL",
+                "Germany",
+                "Online Gambling",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/germany-fines-rapper-250k-promoting-illegal-gambling/",
+                "date": "2026-04-23T08:05:18.000Z"
+            },
+            "whatsNew": "The Joint Gambling Authority of the German Federal States has imposed a significant fine on a public figure for promoting unauthorized gaming activities. This action highlights the regulatory body's efforts to enforce strict advertising guidelines in the iGaming sector.",
+            "whyItMatters": "The fine demonstrates the GGL's commitment to regulating the online gambling industry and sets a precedent for future enforcement actions against individuals and companies promoting unauthorized gaming activities.",
+            "howToUse": "Operators and affiliates should review their marketing strategies to ensure compliance with local regulations and avoid similar penalties.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Compliant Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-3w9ubuj8u",
             "title": "RubyPlay's Firerose",
@@ -2881,38 +3007,6 @@
             "isNew": false
         },
         {
-            "id": "t-cnxllmrdi",
-            "title": "UK Funding Allocation",
-            "subtitle": "New entrants prevail in UK funding for gambling harms space",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Harms",
-                "UK Funding",
-                "NEXT.io"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdG5ZejhGU2hUckIyRGVLd1F6SEhhTFM5NUZRWjFrdVFydFM5YTZkWG1SempibC14NHMwak9oQTVOOVlsb2EzU29XWnB6QzQwenBsLTlIaU5yazlSZ1NoVGRSTUdLc1pGMFVnRU1YN1o5Zm45N2ZJUXF5dWZSMGtiRFFsNFBlUUlpUEE?oc=5",
-                "date": "2026-04-09T09:47:54.000Z"
-            },
-            "whatsNew": "New companies are receiving funding to address gambling harms in the UK, indicating a shift in focus towards responsible gaming. The funding allocation highlights the growing importance of mitigating gambling-related issues. NEXT.io reports on the prevalence of new entrants in this space.",
-            "whyItMatters": "The funding allocation reflects the UK's commitment to reducing gambling harms and promoting responsible gaming practices. This development may lead to increased innovation and effectiveness in addressing gambling-related issues.",
-            "howToUse": "Companies can utilize this funding to develop innovative solutions for mitigating gambling harms, while also ensuring compliance with UK regulations. By prioritizing responsible gaming, businesses can contribute to a safer and more sustainable gaming environment.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Problem Gamblers",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-vqx0iveqr",
             "title": "Universal Video Codec",
             "subtitle": "Game industry needs a universal video codec for FMV games, says 1000xResist creator",
@@ -3138,10 +3232,11 @@
             "name": "Game Developer",
             "url": "https://www.gamedeveloper.com",
             "category": "Tech",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-04-23T09:25:00.394Z",
-            "note": null
+            "lastScan": "2026-04-23T11:05:27.640Z",
+            "note": null,
+            "errorReason": "Status code 404"
         },
         {
             "name": "Next.io",
@@ -3149,7 +3244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T07:47:31.402Z",
+            "lastScan": "2026-04-23T11:05:27.640Z",
             "note": null
         },
         {
@@ -17523,6 +17618,38 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-cnxllmrdi",
+            "title": "UK Funding Allocation",
+            "subtitle": "New entrants prevail in UK funding for gambling harms space",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Harms",
+                "UK Funding",
+                "NEXT.io"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdG5ZejhGU2hUckIyRGVLd1F6SEhhTFM5NUZRWjFrdVFydFM5YTZkWG1SempibC14NHMwak9oQTVOOVlsb2EzU29XWnB6QzQwenBsLTlIaU5yazlSZ1NoVGRSTUdLc1pGMFVnRU1YN1o5Zm45N2ZJUXF5dWZSMGtiRFFsNFBlUUlpUEE?oc=5",
+                "date": "2026-04-09T09:47:54.000Z"
+            },
+            "whatsNew": "New companies are receiving funding to address gambling harms in the UK, indicating a shift in focus towards responsible gaming. The funding allocation highlights the growing importance of mitigating gambling-related issues. NEXT.io reports on the prevalence of new entrants in this space.",
+            "whyItMatters": "The funding allocation reflects the UK's commitment to reducing gambling harms and promoting responsible gaming practices. This development may lead to increased innovation and effectiveness in addressing gambling-related issues.",
+            "howToUse": "Companies can utilize this funding to develop innovative solutions for mitigating gambling harms, while also ensuring compliance with UK regulations. By prioritizing responsible gaming, businesses can contribute to a safer and more sustainable gaming environment.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Problem Gamblers",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
