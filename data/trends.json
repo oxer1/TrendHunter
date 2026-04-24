@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-24T16:57:43.246Z",
+        "scanDate": "2026-04-24T17:51:37.770Z",
         "version": "2.5.0",
-        "totalTrends": 117,
+        "totalTrends": 118,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rbvlzzcj1",
+            "title": "Oklahoma Sports Betting",
+            "subtitle": "Oklahoma sports betting bill fails in Senate due to tribal amendment",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Oklahoma",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/oklahoma-sports-betting-bill-fails-in-senate/",
+                "date": "2026-04-23T14:47:40.000Z"
+            },
+            "whatsNew": "A bill to legalize sports betting in Oklahoma has failed to pass the Senate. The state remains one of 11 US jurisdictions without legal wagering.",
+            "whyItMatters": "The failure of the bill impacts the potential revenue and job creation in Oklahoma's gaming industry. It also leaves the state behind in terms of sports betting regulation compared to other US jurisdictions.",
+            "howToUse": "Operators and stakeholders should monitor future legislative developments and potential amendments that could revive the bill.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "State Revenue"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-869itxpt5",
             "title": "Tennessee Sweepstakes Ban",
@@ -3807,7 +3836,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T16:57:43.246Z",
+            "lastScan": "2026-04-24T17:51:37.770Z",
             "note": null
         },
         {
@@ -3816,7 +3845,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T16:57:43.246Z",
+            "lastScan": "2026-04-24T17:51:37.770Z",
             "note": null
         },
         {
@@ -4003,7 +4032,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T16:57:43.246Z",
+            "lastScan": "2026-04-24T17:51:37.770Z",
             "note": null
         },
         {
