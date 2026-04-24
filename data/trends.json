@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-23T23:42:16.182Z",
+        "scanDate": "2026-04-24T02:26:02.514Z",
         "version": "2.5.0",
-        "totalTrends": 104,
+        "totalTrends": 106,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2txhzz3y8",
+            "title": "Real-time Fluid",
+            "subtitle": "Ignitement's fire and lava VFX use real-time fluid simulation, creating a more immersive and reactive game world",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Fluid Simulation",
+                "Game Development",
+                "VFX"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/real-time-fluid-simulation-fire-vfx-ignitement-breakdown",
+                "date": "2026-04-23T00:00:00.000Z"
+            },
+            "whatsNew": "Ignitement uses a 2D fluid simulation to create realistic fire and lava effects, which also influence gameplay and UI. The simulation is optimized for performance and compatibility, using Graphics.Blit and fragment shaders.",
+            "whyItMatters": "This approach enables the creation of more immersive and reactive game worlds, where visuals and gameplay are deeply connected. It also showcases the potential of 2D fluid simulations in game development.",
+            "howToUse": "Developers can apply similar techniques to their own projects by using Unity's Graphics.Blit and fragment shaders to create custom fluid simulations, and by reusing simulation data to drive visuals, gameplay, and UI.",
+            "beneficiaries": [
+                "Game Developers",
+                "VFX Artists",
+                "Game Designers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-xhrz68rwu",
+            "title": "French Market Failure",
+            "subtitle": "EGR North America poll on the French market's performance",
+            "category": "iGaming",
+            "tags": [
+                "French market",
+                "iGaming",
+                "EGR North America"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HaDAzV01fM2ZCaEhQeS00amVadDZhZTkxUjlvNTJ4WUt6VG9DZnlORkhUZUFPbnJ2ajRfcnFZRC1YR2stUUpRZEhEbExmeU1tRXFad2kwQTcxTFJjcDNjT3lCaGxrNWxsSThFNWRzR0xvbmIxb0tR?oc=5",
+                "date": "2026-04-16T14:42:57.000Z"
+            },
+            "whatsNew": "A poll by EGR North America is asking if the French market has failed, indicating concerns about the market's performance. The poll suggests a need for evaluation of the French iGaming industry. The market's failure could have significant implications for operators and regulators.",
+            "whyItMatters": "The French market's performance is crucial for iGaming operators and regulators, as it can impact future investments and regulatory decisions. A perceived failure could lead to changes in the market's structure and operations.",
+            "howToUse": "Operators and regulators should closely monitor the poll's results and the market's performance to adjust their strategies and ensure compliance with potential regulatory changes.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-qezvr9hda",
             "title": "BGC New Chair",
@@ -3393,7 +3455,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T23:42:16.182Z",
+            "lastScan": "2026-04-24T02:26:02.514Z",
             "note": null
         },
         {
@@ -3402,7 +3464,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T23:42:16.182Z",
+            "lastScan": "2026-04-24T02:26:02.514Z",
             "note": null
         },
         {
@@ -3421,7 +3483,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-22T05:23:32.595Z",
+            "lastScan": "2026-04-24T02:26:02.514Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3589,7 +3651,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T23:42:16.182Z",
+            "lastScan": "2026-04-24T02:26:02.514Z",
             "note": null
         },
         {
@@ -3688,7 +3750,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-23T15:50:58.668Z",
+            "lastScan": "2026-04-24T02:26:02.515Z",
             "note": null
         },
         {
