@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-24T11:04:22.438Z",
+        "scanDate": "2026-04-24T13:17:54.041Z",
         "version": "2.5.0",
-        "totalTrends": 116,
+        "totalTrends": 117,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-76kw142ax",
+            "title": "Svenska Spel Q1",
+            "subtitle": "Online growth offsets retail decline for Svenska Spel in Q1 2026",
+            "category": "iGaming",
+            "tags": [
+                "Svenska Spel",
+                "Online Gaming",
+                "Q1 2026"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-svenska-spel-leans-online-retail-declines/",
+                "date": "2026-04-24T12:12:40.000Z"
+            },
+            "whatsNew": "Svenska Spel's Q1 2026 performance was steady, driven by growth in online and lottery segments. The company's online segment helped offset the decline in land-based sales.",
+            "whyItMatters": "The shift to online gaming continues to be a key factor for companies like Svenska Spel, as retail sales decline. This trend highlights the importance of a strong online presence in the iGaming industry.",
+            "howToUse": "Companies can focus on developing their online platforms and offerings to capitalize on this trend. Investing in digital infrastructure and marketing can help drive growth in the online segment.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Online gaming platforms"
+            ],
+            "companies": [
+                "Svenska Spel"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-kxw2gqmc4",
+            "title": "AI Context Upgrade",
+            "subtitle": "Hugging Face introduces DeepSeek-V4 with a million-token context for enhanced agent capabilities",
+            "category": "AI",
+            "tags": [
+                "AI Agents",
+                "Context Upgrade",
+                "DeepSeek-V4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/deepseekv4",
+                "date": "2026-04-24T00:00:00.000Z"
+            },
+            "whatsNew": "DeepSeek-V4 offers a significant increase in context size to a million tokens, enabling agents to process and understand more complex information. This upgrade has the potential to improve the performance of AI models in various applications. The introduction of DeepSeek-V4 demonstrates the ongoing advancements in AI technology, particularly in natural language processing.",
+            "whyItMatters": "The introduction of DeepSeek-V4 can significantly impact the development of more sophisticated AI agents, leading to improved performance in areas such as customer service, content generation, and data analysis. This can have far-reaching implications for industries that rely on AI-powered solutions.",
+            "howToUse": "Developers can integrate DeepSeek-V4 into their AI models to enhance context understanding and improve overall performance. This can be achieved by leveraging the Hugging Face platform and its resources for implementing the latest advancements in AI technology.",
+            "beneficiaries": [
+                "AI Developers",
+                "Data Analysts"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-5dlaj7fyf",
             "title": "Banijay Acquires Tipico",
@@ -3598,37 +3660,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-upwzt2erp",
-            "title": "Doki Doki Removal",
-            "subtitle": "Doki Doki Literature Club removed from Google Play due to sensitive themes",
-            "category": "Tech",
-            "tags": [
-                "Visual Novels",
-                "Google Play",
-                "Censorship"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/doki-doki-literature-club-removed-from-google-play-over-depiction-of-sensitive-themes",
-                "date": "2026-04-10T12:25:55.000Z"
-            },
-            "whatsNew": "Doki Doki Literature Club has been removed from Google Play due to its depiction of sensitive themes. The publisher, Serenity Forge, is working to reinstate the game.",
-            "whyItMatters": "The removal of Doki Doki Literature Club from Google Play highlights the ongoing challenges of game censorship and the impact on developers and players. It also raises questions about the consistency of platform policies.",
-            "howToUse": "Developers should be aware of platform policies and guidelines when creating games that tackle sensitive themes, and consider alternative distribution channels.",
-            "beneficiaries": [
-                "Game Developers",
-                "Visual Novel Fans"
-            ],
-            "companies": [
-                "Serenity Forge"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3775,7 +3806,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T11:04:22.438Z",
+            "lastScan": "2026-04-24T13:17:54.041Z",
             "note": null
         },
         {
@@ -3784,7 +3815,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T11:04:22.438Z",
+            "lastScan": "2026-04-24T13:17:54.041Z",
             "note": null
         },
         {
@@ -3971,7 +4002,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T11:04:22.438Z",
+            "lastScan": "2026-04-24T13:17:54.041Z",
             "note": null
         },
         {
@@ -18306,6 +18337,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-upwzt2erp",
+            "title": "Doki Doki Removal",
+            "subtitle": "Doki Doki Literature Club removed from Google Play due to sensitive themes",
+            "category": "Tech",
+            "tags": [
+                "Visual Novels",
+                "Google Play",
+                "Censorship"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/doki-doki-literature-club-removed-from-google-play-over-depiction-of-sensitive-themes",
+                "date": "2026-04-10T12:25:55.000Z"
+            },
+            "whatsNew": "Doki Doki Literature Club has been removed from Google Play due to its depiction of sensitive themes. The publisher, Serenity Forge, is working to reinstate the game.",
+            "whyItMatters": "The removal of Doki Doki Literature Club from Google Play highlights the ongoing challenges of game censorship and the impact on developers and players. It also raises questions about the consistency of platform policies.",
+            "howToUse": "Developers should be aware of platform policies and guidelines when creating games that tackle sensitive themes, and consider alternative distribution channels.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Novel Fans"
+            ],
+            "companies": [
+                "Serenity Forge"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
