@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-24T13:17:54.041Z",
+        "scanDate": "2026-04-24T15:06:02.032Z",
         "version": "2.5.0",
-        "totalTrends": 117,
+        "totalTrends": 119,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-869itxpt5",
+            "title": "Tennessee Sweepstakes Ban",
+            "subtitle": "Tennessee lawmakers push forward with sweepstakes gaming ban after initial rejection",
+            "category": "iGaming",
+            "tags": [
+                "Sweepstakes",
+                "Gaming Ban",
+                "Tennessee"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/tennessee-sweepstakes-ban-inches-forward-final-approval/",
+                "date": "2026-04-24T14:24:55.000Z"
+            },
+            "whatsNew": "Tennessee lawmakers have reversed their decision on a sweepstakes gaming ban, pushing it through the House after an initial rejection. The ban is now closer to final approval.",
+            "whyItMatters": "The ban could significantly impact the gaming industry in Tennessee, affecting businesses and players alike. It highlights the ongoing regulatory challenges faced by the iGaming sector.",
+            "howToUse": "Industry stakeholders should monitor the situation closely and prepare for potential changes in the regulatory landscape. Companies operating in Tennessee should review their operations and ensure compliance with upcoming regulations.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-flmkmbvvu",
+            "title": "VICI Acquires Casinos",
+            "subtitle": "VICI to close $1.2bn Golden Entertainment deal around 30 April",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "Casino Properties",
+                "Gaming Industry"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/vici-close-golden-entertainment-deal-30-april/",
+                "date": "2026-04-24T14:13:07.000Z"
+            },
+            "whatsNew": "VICI Properties is set to acquire seven Nevada casino properties from Golden Entertainment Inc. The deal, valued at $1.2 billion, is expected to close around 30 April. This acquisition expands VICI's portfolio in the Nevada gaming market.",
+            "whyItMatters": "The acquisition signifies a significant expansion of VICI's presence in the Nevada gaming market, potentially altering the competitive landscape. It also underscores the ongoing consolidation in the gaming industry.",
+            "howToUse": "Industry stakeholders should monitor the deal's closure and its implications on the market, while considering potential partnerships or investments in the region.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "VICI Properties",
+                "Golden Entertainment Inc"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-76kw142ax",
             "title": "Svenska Spel Q1",
@@ -49,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kxw2gqmc4",
@@ -80,7 +141,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5dlaj7fyf",
@@ -3806,7 +3867,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T13:17:54.041Z",
+            "lastScan": "2026-04-24T15:06:02.032Z",
             "note": null
         },
         {
@@ -3815,7 +3876,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T13:17:54.041Z",
+            "lastScan": "2026-04-24T15:06:02.032Z",
             "note": null
         },
         {
@@ -4002,7 +4063,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T13:17:54.041Z",
+            "lastScan": "2026-04-24T15:06:02.032Z",
             "note": null
         },
         {
