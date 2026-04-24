@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-24T15:06:02.032Z",
+        "scanDate": "2026-04-24T16:57:43.246Z",
         "version": "2.5.0",
-        "totalTrends": 119,
+        "totalTrends": 117,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-flmkmbvvu",
@@ -79,7 +79,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-76kw142ax",
@@ -3661,66 +3661,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-l4be8mve7",
-            "title": "AI Sports Betting",
-            "subtitle": "OpticOdds integrates betting odds into Claude using AI",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "AI Integration",
-                "Claude"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/qa-opticodds-vp-integrating-betting-odds-claude/",
-                "date": "2026-04-10T15:15:20.000Z"
-            },
-            "whatsNew": "OpticOdds has integrated its sportsbook data API into Claude, leveraging AI for sports betting data. This integration marks a new step in applying AI to sports betting.",
-            "whyItMatters": "The integration of AI into sports betting can enhance the user experience and provide more accurate predictions. This development can significantly impact the iGaming industry.",
-            "howToUse": "Operators can utilize this integration to offer more personalized and data-driven betting experiences to their users, potentially increasing engagement and revenue.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Sports Bettors"
-            ],
-            "companies": [
-                "OpticOdds"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-q90r3wo4x",
-            "title": "Curaçao Gaming Update",
-            "subtitle": "Curaçao Gaming Authority issues new guidance for operator terms and conditions",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Curaçao Gaming Authority",
-                "Operator Terms"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/curacao-gaming-authority-new-guidance-tcs/",
-                "date": "2026-04-10T16:25:57.000Z"
-            },
-            "whatsNew": "The Curaçao Gaming Authority has introduced new guidance for B2C operator terms and conditions, aiming to tighten its policies. This move is expected to impact how operators conduct their business in the region.",
-            "whyItMatters": "The new guidance from the Curaçao Gaming Authority will likely influence the regulatory landscape for iGaming operators, potentially leading to more stringent compliance requirements. This could affect operators' ability to offer services in the region.",
-            "howToUse": "Operators should review and update their terms and conditions to ensure compliance with the new guidance from the Curaçao Gaming Authority, consulting with regulatory experts if necessary.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Compliance Officers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3867,7 +3807,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T15:06:02.032Z",
+            "lastScan": "2026-04-24T16:57:43.246Z",
             "note": null
         },
         {
@@ -3876,7 +3816,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T15:06:02.032Z",
+            "lastScan": "2026-04-24T16:57:43.246Z",
             "note": null
         },
         {
@@ -4063,7 +4003,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-24T15:06:02.032Z",
+            "lastScan": "2026-04-24T16:57:43.246Z",
             "note": null
         },
         {
@@ -18427,6 +18367,66 @@
             "companies": [
                 "Serenity Forge"
             ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-l4be8mve7",
+            "title": "AI Sports Betting",
+            "subtitle": "OpticOdds integrates betting odds into Claude using AI",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "AI Integration",
+                "Claude"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/qa-opticodds-vp-integrating-betting-odds-claude/",
+                "date": "2026-04-10T15:15:20.000Z"
+            },
+            "whatsNew": "OpticOdds has integrated its sportsbook data API into Claude, leveraging AI for sports betting data. This integration marks a new step in applying AI to sports betting.",
+            "whyItMatters": "The integration of AI into sports betting can enhance the user experience and provide more accurate predictions. This development can significantly impact the iGaming industry.",
+            "howToUse": "Operators can utilize this integration to offer more personalized and data-driven betting experiences to their users, potentially increasing engagement and revenue.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Bettors"
+            ],
+            "companies": [
+                "OpticOdds"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-q90r3wo4x",
+            "title": "Curaçao Gaming Update",
+            "subtitle": "Curaçao Gaming Authority issues new guidance for operator terms and conditions",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Curaçao Gaming Authority",
+                "Operator Terms"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/curacao-gaming-authority-new-guidance-tcs/",
+                "date": "2026-04-10T16:25:57.000Z"
+            },
+            "whatsNew": "The Curaçao Gaming Authority has introduced new guidance for B2C operator terms and conditions, aiming to tighten its policies. This move is expected to impact how operators conduct their business in the region.",
+            "whyItMatters": "The new guidance from the Curaçao Gaming Authority will likely influence the regulatory landscape for iGaming operators, potentially leading to more stringent compliance requirements. This could affect operators' ability to offer services in the region.",
+            "howToUse": "Operators should review and update their terms and conditions to ensure compliance with the new guidance from the Curaçao Gaming Authority, consulting with regulatory experts if necessary.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Compliance Officers"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
