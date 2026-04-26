@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-26T02:30:15.514Z",
+        "scanDate": "2026-04-26T05:37:24.395Z",
         "version": "2.5.0",
-        "totalTrends": 125,
+        "totalTrends": 127,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dek5sril4",
+            "title": "RocketPlay Social Sportsbook",
+            "subtitle": "RocketPlay launches a social sportsbook on the Zynga platform, expanding its reach in the iGaming industry.",
+            "category": "iGaming",
+            "tags": [
+                "RocketPlay",
+                "Zynga",
+                "Social Sportsbook"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWJhWnFEdWZDcVZFSDRLY19DblFuYm81N01GRm9TZTc2blF4SXJnRzlmQ1VZb0RwSnY3Zm5pclVnQmg1MXZsS1pncG5lQzhyeVZnLVFueGFzazUtMjdFcnR2Z0lPMTV0WEFDaWZLUEZUSVNPUU5DVnRSS3hTbzR2SGluUWNqQ1REZUExNDktbFpmTkZX?oc=5",
+                "date": "2026-04-24T02:41:55.000Z"
+            },
+            "whatsNew": "RocketPlay has launched a social sportsbook on the Zynga platform, marking a significant expansion in the iGaming space. This move combines social gaming with sports betting, offering a unique experience. The partnership aims to leverage Zynga's vast user base to grow RocketPlay's presence.",
+            "whyItMatters": "This launch signifies a growing trend of social gaming platforms integrating sports betting, potentially attracting new demographics to the iGaming industry. It also highlights the strategic importance of partnerships in expanding market reach.",
+            "howToUse": "Operators can leverage such partnerships to tap into broader audiences, while developers can focus on creating engaging, social sportsbook experiences. This can involve integrating social features, such as leaderboards and challenges, into sports betting platforms.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "RocketPlay",
+                "Zynga"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-t9107ypra",
+            "title": "Gambling Risk Update",
+            "subtitle": "UK Gambling Commission updates on financial risk assessments pilot post-pilot analysis",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUdTNWROLTZlTE1TbE1kdHVjQWJFeExrZFVmY1RnQ0lQOXVEaWlaR2ZONTVvSkpoeWl2bEVqeGp3Y3lZdGk1VWlqQ1czRW1lZUF6YWhJTlZxZkg2OV9uQ1ozaEQxRC13Y2JZVFhrRlBheUVUamZ5NWFkNjhjbE8xQWt5cm81aTc5aTM2XzR0SmRxTGFyZk1VMW1KcGJ5cG1rbTR2MVk1dTZRZGx5RHhv?oc=5",
+                "date": "2026-04-16T12:02:45.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has provided an update on the post-pilot analysis of its financial risk assessments pilot. This analysis aims to enhance understanding and management of financial risks in the gambling sector.",
+            "whyItMatters": "The findings from this pilot and its analysis are crucial for shaping regulatory measures to protect consumers and ensure the integrity of the gambling industry. It reflects the commission's ongoing efforts to mitigate risks associated with gambling.",
+            "howToUse": "Operators and stakeholders should review the commission's findings to understand potential regulatory changes and adapt their risk management strategies accordingly.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-omvmrr3kk",
             "title": "iGaming M&A",
@@ -4054,7 +4115,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "note": null
         },
         {
@@ -4063,7 +4124,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "note": null
         },
         {
@@ -4082,7 +4143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4091,7 +4152,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4100,7 +4161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "note": "Regulatory updates"
         },
         {
@@ -4250,7 +4311,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "note": null
         },
         {
@@ -4349,7 +4410,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T02:30:15.514Z",
+            "lastScan": "2026-04-26T05:37:24.395Z",
             "note": null
         },
         {
