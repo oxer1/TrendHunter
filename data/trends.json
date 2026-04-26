@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-26T16:39:06.051Z",
+        "scanDate": "2026-04-26T17:36:04.255Z",
         "version": "2.5.0",
-        "totalTrends": 127,
+        "totalTrends": 128,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-vbna2yrlq",
+            "title": "Kentucky Betting Law",
+            "subtitle": "Kentucky lawmakers override governor's veto on betting and racing bill",
+            "category": "iGaming",
+            "tags": [
+                "Kentucky",
+                "Betting Law",
+                "Racing Bill"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGV6eU1JM0oxblFuOGNNb29sS2U0czJDVWxoeEF4cy1CaU1ScDQwVEJYSnBvTkpNcW9nSkxpWXpMVWVzbjVlc1FacHJ3V0toOUs0UlpyZW5nY1ZQR0d1amR6dkJkWUROcEJxN2xESHprenZYT2FGdWE4dldsSG5nMWhhQlpiS1k5clE?oc=5",
+                "date": "2026-04-15T11:00:52.000Z"
+            },
+            "whatsNew": "Kentucky lawmakers have overridden the governor's veto on a betting and racing bill, paving the way for potential changes in the state's gaming regulations. This move could have significant implications for the iGaming industry in Kentucky. The bill's specifics and its potential impact on the industry are still unfolding.",
+            "whyItMatters": "The override of the governor's veto could lead to expanded gaming options in Kentucky, affecting both local businesses and the broader iGaming industry. It reflects a shift in regulatory attitudes towards gaming and betting.",
+            "howToUse": "Industry stakeholders should monitor the bill's implementation and its effects on Kentucky's gaming landscape, adjusting their strategies accordingly. This includes considering new market opportunities and regulatory compliance.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Companies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-dek5sril4",
             "title": "RocketPlay Social Sportsbook",
@@ -4115,7 +4144,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T16:39:06.051Z",
+            "lastScan": "2026-04-26T17:36:04.255Z",
             "note": null
         },
         {
