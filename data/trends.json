@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-27T19:15:33.441Z",
+        "scanDate": "2026-04-27T20:59:28.512Z",
         "version": "2.5.0",
-        "totalTrends": 136,
+        "totalTrends": 137,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xjmucosil",
+            "title": "Dutch Licensing",
+            "subtitle": "Dutch MPs question third-party licensing structures in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Licensing",
+                "Regulation",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmloS0o4am5WRVozdEk4YjJZS1lTcTEtbXg3TjlER2ZMcHhMQWlUREhhR2E0eFN5SlBMNEtzbG9acmRwV3NlRnczRWNaeEJDMkpNSzkzMmdyTFJUVURBMHdueFh2U0hXUEpjdFRlLWpGekdraWdlcHZCUmhQMFl4UWgxeUMtNUU?oc=5",
+                "date": "2026-04-16T13:35:55.000Z"
+            },
+            "whatsNew": "Dutch MPs are raising concerns over third-party licensing structures, potentially impacting the iGaming industry. This could lead to changes in how companies operate in the region. The inquiry may result in stricter regulations or new guidelines for operators.",
+            "whyItMatters": "The inquiry into third-party licensing structures could significantly impact the iGaming industry, affecting how companies are licensed and operate in the Netherlands. This may lead to increased regulatory scrutiny and potential changes in the market.",
+            "howToUse": "Operators should monitor the situation closely and prepare for potential changes in licensing requirements. Companies may need to adapt their structures to comply with new regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-mdqbhpslc",
             "title": "Rivalry Resignations",
@@ -4393,7 +4422,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T19:15:33.441Z",
+            "lastScan": "2026-04-27T20:59:28.512Z",
             "note": null
         },
         {
