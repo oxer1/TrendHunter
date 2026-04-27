@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-27T13:46:44.696Z",
+        "scanDate": "2026-04-27T15:45:07.469Z",
         "version": "2.5.0",
-        "totalTrends": 132,
+        "totalTrends": 136,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,167 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-kwzku7yzl",
+            "title": "Michigan Self-Exclusion",
+            "subtitle": "Michigan regulator partners with Gamban for free self-exclusion software",
+            "category": "iGaming",
+            "tags": [
+                "self-exclusion",
+                "Gamban",
+                "MGCB",
+                "Michigan"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/michigan-regulator-partners-gamban-free-self-exclusion/",
+                "date": "2026-04-27T15:26:21.000Z"
+            },
+            "whatsNew": "The Michigan Gaming Control Board (MGCB) has partnered with Gamban to offer free self-exclusion software to bettors in Michigan. This software allows individuals to block access to gambling sites.",
+            "whyItMatters": "This partnership aims to promote responsible gambling and provide tools for individuals to manage their betting habits. It reflects a growing trend towards increased regulation and support for responsible gaming practices.",
+            "howToUse": "Bettors in Michigan can install the Gamban software for free, which will block access to gambling sites, helping them manage their betting habits more effectively.",
+            "beneficiaries": [
+                "Bettors",
+                "Regulators"
+            ],
+            "companies": [
+                "Gamban"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-kbzspc65t",
+            "title": "KSA Intervenes",
+            "subtitle": "Netherlands Gambling Authority targets Holland Casino and Vbet for prohibited sports bets",
+            "category": "iGaming",
+            "tags": [
+                "KSA",
+                "Holland Casino",
+                "Vbet",
+                "Sports Betting"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ksa-intervenes-holland-casino-vbet-own-goals/",
+                "date": "2026-04-27T15:10:06.000Z"
+            },
+            "whatsNew": "The Netherlands Gambling Authority has intervened against Holland Casino Online and Vbet for offering bets on own goals, which are considered prohibited sports bets. This move highlights the regulatory body's efforts to enforce betting rules in the Netherlands.",
+            "whyItMatters": "The intervention demonstrates the KSA's commitment to maintaining a fair and regulated sports betting environment, protecting consumers from potentially exploitative betting practices.",
+            "howToUse": "Operators should ensure they comply with local regulations and avoid offering prohibited bets to maintain their licenses and reputation.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Consumers"
+            ],
+            "companies": [
+                "Holland Casino",
+                "Vbet"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-wbdhppwpw",
+            "title": "Finland Opens iGaming",
+            "subtitle": "Finland transitions to an open iGaming market, reducing state monopoly",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Regulation",
+                "Finland"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/features/blask-finland-transition-shrinks-monopoly-club/",
+                "date": "2026-04-27T14:42:35.000Z"
+            },
+            "whatsNew": "Finland's move to an open iGaming market leaves only two countries with a state monopoly on online betting and casino. This change is expected to increase competition and innovation in the Finnish iGaming sector.",
+            "whyItMatters": "The shift towards an open market can lead to more choices for consumers and new business opportunities for operators. It also reflects a broader trend towards deregulation in the iGaming industry.",
+            "howToUse": "Operators should prepare to enter the Finnish market by ensuring compliance with local regulations and offering competitive products. Consumers can expect a wider range of gaming options and potentially better services.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Finnish Consumers"
+            ],
+            "companies": [
+                "Blask",
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-q7cka55hg",
+            "title": "Flutter Wins Appeal",
+            "subtitle": "Flutter Entertainment wins UK appeal over data consent claim related to problem gambler",
+            "category": "iGaming",
+            "tags": [
+                "Flutter Entertainment",
+                "Data Protection",
+                "UK Appeal"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/flutter-wins-uk-appeal-data-consent-claim/",
+                "date": "2026-04-27T13:04:34.000Z"
+            },
+            "whatsNew": "Flutter Entertainment-owned Sky Betting and Gaming has won a landmark data protection appeal in the UK. The appeal was related to a problem gambler's data consent claim.",
+            "whyItMatters": "This ruling sets a precedent for how iGaming companies handle data protection and problem gamblers, potentially impacting the industry's regulatory landscape.",
+            "howToUse": "iGaming companies should review their data protection policies to ensure compliance with UK regulations and consider the implications of this ruling on their operations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Flutter Entertainment",
+                "Sky Betting and Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-wyy5c6rm9",
+            "title": "Frogo Case",
+            "subtitle": "A critical logic failure in a third-party game integration led to a €26+ million loss for an iGaming operator",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Automation",
+                "Game Integration",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/the-frogo-case-stopping-a-e26-million-digital-gold-rush/",
+                "date": "2026-04-27T12:26:15.000Z"
+            },
+            "whatsNew": "A bug in an Amatic game integration caused a high-load operator's platform to pay out extra wins, resulting in a significant financial loss. The issue highlights the importance of proper testing and validation of third-party game integrations.",
+            "whyItMatters": "The incident underscores the need for robust guardrails and testing protocols to prevent similar losses in the future. It also emphasizes the importance of regulatory oversight in the iGaming industry.",
+            "howToUse": "Operators should prioritize thorough testing and validation of third-party game integrations, and implement robust automation guardrails to prevent similar incidents.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Amatic"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-s3llcxzsu",
             "title": "Huddle Entain Partnership",
@@ -50,7 +211,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-t70172za0",
@@ -4087,38 +4248,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-r72jrtyn2",
-            "title": "Roblox Age Accounts",
-            "subtitle": "Roblox introduces age-based accounts for children and teens with restricted access to certain experiences and features.",
-            "category": "Community",
-            "tags": [
-                "Roblox",
-                "Age-Based Accounts",
-                "Child Safety"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/roblox-is-introducing-age-based-accounts-for-children-and-teens",
-                "date": "2026-04-13T14:30:32.000Z"
-            },
-            "whatsNew": "Roblox is rolling out two new account types, Roblox Kids and Roblox Select, designed for children and teens respectively. These accounts will have limited access to certain experiences and communication features to ensure a safer environment.",
-            "whyItMatters": "This move by Roblox aims to enhance child safety and provide parents with more control over their children's online activities. It reflects a growing trend towards prioritizing safety and responsibility in online gaming platforms.",
-            "howToUse": "Parents can sign their children up for these new account types to restrict access to mature content and limit interactions with strangers. This can be done through the Roblox website or mobile app.",
-            "beneficiaries": [
-                "Parents",
-                "Children",
-                "Teens"
-            ],
-            "companies": [
-                "Roblox"
-            ],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4265,7 +4394,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T13:46:44.696Z",
+            "lastScan": "2026-04-27T15:45:07.469Z",
             "note": null
         },
         {
@@ -18950,6 +19079,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-r72jrtyn2",
+            "title": "Roblox Age Accounts",
+            "subtitle": "Roblox introduces age-based accounts for children and teens with restricted access to certain experiences and features.",
+            "category": "Community",
+            "tags": [
+                "Roblox",
+                "Age-Based Accounts",
+                "Child Safety"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/roblox-is-introducing-age-based-accounts-for-children-and-teens",
+                "date": "2026-04-13T14:30:32.000Z"
+            },
+            "whatsNew": "Roblox is rolling out two new account types, Roblox Kids and Roblox Select, designed for children and teens respectively. These accounts will have limited access to certain experiences and communication features to ensure a safer environment.",
+            "whyItMatters": "This move by Roblox aims to enhance child safety and provide parents with more control over their children's online activities. It reflects a growing trend towards prioritizing safety and responsibility in online gaming platforms.",
+            "howToUse": "Parents can sign their children up for these new account types to restrict access to mature content and limit interactions with strangers. This can be done through the Roblox website or mobile app.",
+            "beneficiaries": [
+                "Parents",
+                "Children",
+                "Teens"
+            ],
+            "companies": [
+                "Roblox"
+            ],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
             "isNew": false
         }
     ]
