@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-27T15:45:07.469Z",
+        "scanDate": "2026-04-27T17:19:39.302Z",
         "version": "2.5.0",
         "totalTrends": 136,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-mdqbhpslc",
+            "title": "Rivalry Resignations",
+            "subtitle": "Rivalry's C-suite and board resign after reducing operations",
+            "category": "iGaming",
+            "tags": [
+                "Rivalry",
+                "iGaming",
+                "Resignations"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/steven-salz-last-man-standing-rivalry/",
+                "date": "2026-04-27T10:19:03.000Z"
+            },
+            "whatsNew": "Rivalry's C-suite and board have resigned, leaving Steven Salz as the last man standing. This comes after the company significantly reduced its operations several months ago.",
+            "whyItMatters": "The mass resignation may indicate a significant shift in the company's direction or a loss of confidence in its current strategy. This could have implications for the iGaming industry as a whole.",
+            "howToUse": "Operators should monitor the situation and consider potential opportunities or challenges arising from Rivalry's restructuring.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Rivalry"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-kwzku7yzl",
             "title": "Michigan Self-Exclusion",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kbzspc65t",
@@ -83,7 +114,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wbdhppwpw",
@@ -115,7 +146,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-q7cka55hg",
@@ -147,7 +178,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wyy5c6rm9",
@@ -179,7 +210,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s3llcxzsu",
@@ -4216,38 +4247,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-4hj6a0w63",
-            "title": "Kalshi IC360 Integration",
-            "subtitle": "Kalshi integrates IC360 self-exclusion tool for compliance",
-            "category": "iGaming",
-            "tags": [
-                "self-exclusion",
-                "compliance",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/prediction-markets/kalshi-integrates-self-exclusion-tool-industry-first/",
-                "date": "2026-04-13T16:08:09.000Z"
-            },
-            "whatsNew": "Kalshi has integrated IC360's self-exclusion tool, a first in the industry, to enhance compliance. This tool allows for US-spanning prediction market self-exclusion.",
-            "whyItMatters": "This integration sets a new standard for responsible gaming and compliance in the iGaming industry. It demonstrates Kalshi's commitment to player protection and regulatory adherence.",
-            "howToUse": "Operators can follow Kalshi's lead by integrating similar self-exclusion tools to ensure compliance and promote responsible gaming practices.",
-            "beneficiaries": [
-                "iGaming operators",
-                "players"
-            ],
-            "companies": [
-                "Kalshi",
-                "IC360"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4394,7 +4393,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T15:45:07.469Z",
+            "lastScan": "2026-04-27T17:19:39.302Z",
             "note": null
         },
         {
@@ -4403,7 +4402,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T13:46:44.696Z",
+            "lastScan": "2026-04-27T17:19:39.302Z",
             "note": null
         },
         {
@@ -4590,7 +4589,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T13:46:44.696Z",
+            "lastScan": "2026-04-27T17:19:39.302Z",
             "note": null
         },
         {
@@ -19111,6 +19110,38 @@
             ],
             "visualStyle": null,
             "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-4hj6a0w63",
+            "title": "Kalshi IC360 Integration",
+            "subtitle": "Kalshi integrates IC360 self-exclusion tool for compliance",
+            "category": "iGaming",
+            "tags": [
+                "self-exclusion",
+                "compliance",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/kalshi-integrates-self-exclusion-tool-industry-first/",
+                "date": "2026-04-13T16:08:09.000Z"
+            },
+            "whatsNew": "Kalshi has integrated IC360's self-exclusion tool, a first in the industry, to enhance compliance. This tool allows for US-spanning prediction market self-exclusion.",
+            "whyItMatters": "This integration sets a new standard for responsible gaming and compliance in the iGaming industry. It demonstrates Kalshi's commitment to player protection and regulatory adherence.",
+            "howToUse": "Operators can follow Kalshi's lead by integrating similar self-exclusion tools to ensure compliance and promote responsible gaming practices.",
+            "beneficiaries": [
+                "iGaming operators",
+                "players"
+            ],
+            "companies": [
+                "Kalshi",
+                "IC360"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
