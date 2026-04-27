@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-26T23:36:16.109Z",
+        "scanDate": "2026-04-27T02:32:26.199Z",
         "version": "2.5.0",
-        "totalTrends": 128,
+        "totalTrends": 129,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-l87lb56t5",
+            "title": "Racing Rejects Coral",
+            "subtitle": "British Racing rejects Coral's ABP offer, reported by EGR North America",
+            "category": "iGaming",
+            "tags": [
+                "British Racing",
+                "Coral",
+                "ABP",
+                "EGR North America"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tR1FOLTQ0bEh6Q0lfSHp6Y1BvY1pOcVVkUTlZV0p3cjh4aXJSbWJUWnhuVnVTeTNKZU9NOTY4em1tMWFrd1JKTktncHhCOUM1WXNxWW80OERJM3FsU1RTcWllV0RudG5saFpkcllzS1k5amJsaEcyX1Jqd21WdlU?oc=5",
+                "date": "2026-04-24T12:57:49.000Z"
+            },
+            "whatsNew": "British Racing has rejected an offer from Coral regarding their ABP. This decision reflects the ongoing dynamics within the racing and betting industries.",
+            "whyItMatters": "The rejection of Coral's ABP offer by British Racing indicates significant strategic decisions within the iGaming sector, potentially influencing future partnerships and regulatory considerations.",
+            "howToUse": "Operators should monitor such developments to adjust their strategies and comply with evolving regulatory landscapes.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Racing Industry Stakeholders"
+            ],
+            "companies": [
+                "Coral"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-vbna2yrlq",
             "title": "Kentucky Betting Law",
@@ -4144,7 +4176,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T23:36:16.109Z",
+            "lastScan": "2026-04-27T02:32:26.199Z",
             "note": null
         },
         {
@@ -4153,7 +4185,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T23:36:16.109Z",
+            "lastScan": "2026-04-27T02:32:26.199Z",
             "note": null
         },
         {
@@ -4172,7 +4204,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-26T05:37:24.395Z",
+            "lastScan": "2026-04-27T02:32:26.199Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4340,7 +4372,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T23:36:16.109Z",
+            "lastScan": "2026-04-27T02:32:26.199Z",
             "note": null
         },
         {
@@ -4439,7 +4471,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-26T05:37:24.395Z",
+            "lastScan": "2026-04-27T02:32:26.199Z",
             "note": null
         },
         {
