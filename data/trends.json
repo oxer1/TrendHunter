@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-27T11:01:30.731Z",
+        "scanDate": "2026-04-27T13:46:44.696Z",
         "version": "2.5.0",
         "totalTrends": 132,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-s3llcxzsu",
+            "title": "Huddle Entain Partnership",
+            "subtitle": "Huddle agrees tennis and football trading partnership with Entain CEE",
+            "category": "iGaming",
+            "tags": [
+                "Entain CEE",
+                "Huddle",
+                "Sports Betting"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVDJrNHgtemRBeUJvZUZ2OExXS2RfTjV5ZnNKc09WamdUd3FyNk5jMTU0NlNsM3JqVlYwbGRQY2dLQjM0R3l3M01hNDJLdnFEMF9wbTdrVWt3RWZ6YlVMOV9HUnNRcTl1RGtqZDJnWkxuSGpxZUttZzkzUHUtZG8?oc=5",
+                "date": "2026-04-27T11:22:35.000Z"
+            },
+            "whatsNew": "Huddle has partnered with Entain CEE for tennis and football trading, expanding its reach in the sports betting market. This partnership aims to enhance the trading experience for users. The deal marks a significant collaboration in the iGaming industry.",
+            "whyItMatters": "The partnership between Huddle and Entain CEE signifies a growing trend of collaborations in the iGaming sector, potentially leading to more comprehensive and competitive sports betting services. This could impact the market by offering users more diverse betting options.",
+            "howToUse": "Operators can leverage such partnerships to broaden their sports betting offerings, attracting a wider audience and increasing market share. By integrating multiple trading platforms, they can provide a more dynamic experience for users.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "iGaming Platforms"
+            ],
+            "companies": [
+                "Huddle",
+                "Entain CEE"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-t70172za0",
             "title": "MGM Sells Northfield",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ngwfgusz3",
@@ -4087,38 +4119,6 @@
             "visualStyle": null,
             "cluster": "community-ai-ethics",
             "isNew": false
-        },
-        {
-            "id": "t-yeb2d7lan",
-            "title": "Fortnite Disney",
-            "subtitle": "Epic Games is developing a Disney-themed extraction shooter for Fortnite, set to launch in November 2026.",
-            "category": "Tech",
-            "tags": [
-                "Fortnite",
-                "Disney",
-                "Epic Games"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/report-epic-hoping-to-reinvigorate-fortnite-with-disney-themed-extraction-shooter",
-                "date": "2026-04-13T11:38:12.000Z"
-            },
-            "whatsNew": "Epic Games is collaborating with Disney on a new extraction shooter for Fortnite, with a planned launch in November 2026. The project is part of Disney's $1.5 billion collaboration with Epic. This new game mode aims to reinvigorate Fortnite's player base.",
-            "whyItMatters": "The partnership between Epic and Disney could bring a significant boost to Fortnite's popularity and attract a new audience. It also highlights the growing trend of collaborations between major gaming and entertainment companies.",
-            "howToUse": "Game developers can take note of the success of collaborations between gaming and entertainment companies, and consider similar partnerships to revitalize their own games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Fortnite Players"
-            ],
-            "companies": [
-                "Epic Games",
-                "Disney"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4265,7 +4265,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T11:01:30.731Z",
+            "lastScan": "2026-04-27T13:46:44.696Z",
             "note": null
         },
         {
@@ -4274,7 +4274,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T08:19:27.000Z",
+            "lastScan": "2026-04-27T13:46:44.696Z",
             "note": null
         },
         {
@@ -4461,7 +4461,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-27T08:19:27.000Z",
+            "lastScan": "2026-04-27T13:46:44.696Z",
             "note": null
         },
         {
@@ -18915,6 +18915,38 @@
             ],
             "companies": [
                 "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-yeb2d7lan",
+            "title": "Fortnite Disney",
+            "subtitle": "Epic Games is developing a Disney-themed extraction shooter for Fortnite, set to launch in November 2026.",
+            "category": "Tech",
+            "tags": [
+                "Fortnite",
+                "Disney",
+                "Epic Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/report-epic-hoping-to-reinvigorate-fortnite-with-disney-themed-extraction-shooter",
+                "date": "2026-04-13T11:38:12.000Z"
+            },
+            "whatsNew": "Epic Games is collaborating with Disney on a new extraction shooter for Fortnite, with a planned launch in November 2026. The project is part of Disney's $1.5 billion collaboration with Epic. This new game mode aims to reinvigorate Fortnite's player base.",
+            "whyItMatters": "The partnership between Epic and Disney could bring a significant boost to Fortnite's popularity and attract a new audience. It also highlights the growing trend of collaborations between major gaming and entertainment companies.",
+            "howToUse": "Game developers can take note of the success of collaborations between gaming and entertainment companies, and consider similar partnerships to revitalize their own games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Fortnite Players"
+            ],
+            "companies": [
+                "Epic Games",
+                "Disney"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
