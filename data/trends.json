@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-28T05:57:23.033Z",
+        "scanDate": "2026-04-28T08:27:24.158Z",
         "version": "2.5.0",
         "totalTrends": 137,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rly519g5p",
+            "title": "ATG Casino Growth",
+            "subtitle": "ATG leans on casino growth as horse betting stalls in Q1 2026",
+            "category": "iGaming",
+            "tags": [
+                "ATG",
+                "Casino Growth",
+                "Horse Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3dPc3pjLUlFaWxabUxmNC1ETUR2LUJmZjI3dTZHSXdGOUt3S2dqRjlEMWloLUtCb21IUDM1QmxpNjh1UjBPRlNmWV9TMERmc1ZCLTYtUll2ZjdEYzJ6ZEtUNjVwRU5NMFVQT2E2THVka1FJMk1GX0xtZWlVaUNYZnQ5cjJoUQ?oc=5",
+                "date": "2026-04-28T07:53:09.000Z"
+            },
+            "whatsNew": "ATG's casino segment shows growth, while horse betting stalls. This shift indicates a potential change in consumer preferences or market trends.",
+            "whyItMatters": "The growth in casino segment can impact ATG's revenue and influence the iGaming industry's direction. It may also lead to increased investment in casino technology and marketing.",
+            "howToUse": "Operators can analyze ATG's strategy and consider diversifying their offerings to include more casino games, while also monitoring consumer trends and preferences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Casino Game Developers"
+            ],
+            "companies": [
+                "ATG"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-xjmucosil",
             "title": "Dutch Licensing",
@@ -3195,37 +3226,6 @@
             "isNew": false
         },
         {
-            "id": "t-1nbjns0ku",
-            "title": "Powerball UK Launch",
-            "subtitle": "Allwyn adds Powerball to UK National Lottery, shaking up the games market",
-            "category": "iGaming",
-            "tags": [
-                "UK National Lottery",
-                "Powerball",
-                "Allwyn"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uUENXX1BjLW5zSGt1QTQ0LW8tMF9pZWJObWhRckVXTlZ1OVVudVBxZnNBUDlHa2tGNG1ieW8zcmpicG9DMWNRQmZlX0RzUmdzX3ZjWEx2VUtWS1ZaUDdOV2Y4dlN4eWxPZHN3QXJ6Vmd5ZW9iS2FmYzc4RQ?oc=5",
-                "date": "2026-04-14T08:06:52.000Z"
-            },
-            "whatsNew": "Allwyn has added Powerball to the UK National Lottery, marking a significant change in the UK gaming landscape. This move is expected to attract new players and increase revenue. The addition of Powerball brings a popular international lottery game to the UK market.",
-            "whyItMatters": "The introduction of Powerball to the UK National Lottery is expected to boost player engagement and revenue. This move also reflects the growing demand for diverse and exciting lottery games in the UK.",
-            "howToUse": "Players can participate in Powerball through the UK National Lottery website or mobile app, with the chance to win significant jackpots. Operators can leverage this addition to enhance their offerings and attract new customers.",
-            "beneficiaries": [
-                "Lottery Players",
-                "Gaming Operators"
-            ],
-            "companies": [
-                "Allwyn"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-wnr2nqpyc",
             "title": "Amusnet SiGMA",
             "subtitle": "Amusnet celebrates 10th anniversary at SiGMA São Paulo, driving industry engagement",
@@ -4422,7 +4422,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T05:57:23.033Z",
+            "lastScan": "2026-04-28T08:27:24.158Z",
             "note": null
         },
         {
@@ -4431,7 +4431,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T05:57:23.033Z",
+            "lastScan": "2026-04-28T08:27:24.158Z",
             "note": null
         },
         {
@@ -4618,7 +4618,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T05:57:23.033Z",
+            "lastScan": "2026-04-28T08:27:24.158Z",
             "note": null
         },
         {
@@ -19171,6 +19171,37 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1nbjns0ku",
+            "title": "Powerball UK Launch",
+            "subtitle": "Allwyn adds Powerball to UK National Lottery, shaking up the games market",
+            "category": "iGaming",
+            "tags": [
+                "UK National Lottery",
+                "Powerball",
+                "Allwyn"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uUENXX1BjLW5zSGt1QTQ0LW8tMF9pZWJObWhRckVXTlZ1OVVudVBxZnNBUDlHa2tGNG1ieW8zcmpicG9DMWNRQmZlX0RzUmdzX3ZjWEx2VUtWS1ZaUDdOV2Y4dlN4eWxPZHN3QXJ6Vmd5ZW9iS2FmYzc4RQ?oc=5",
+                "date": "2026-04-14T08:06:52.000Z"
+            },
+            "whatsNew": "Allwyn has added Powerball to the UK National Lottery, marking a significant change in the UK gaming landscape. This move is expected to attract new players and increase revenue. The addition of Powerball brings a popular international lottery game to the UK market.",
+            "whyItMatters": "The introduction of Powerball to the UK National Lottery is expected to boost player engagement and revenue. This move also reflects the growing demand for diverse and exciting lottery games in the UK.",
+            "howToUse": "Players can participate in Powerball through the UK National Lottery website or mobile app, with the chance to win significant jackpots. Operators can leverage this addition to enhance their offerings and attract new customers.",
+            "beneficiaries": [
+                "Lottery Players",
+                "Gaming Operators"
+            ],
+            "companies": [
+                "Allwyn"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
