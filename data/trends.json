@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-28T13:59:56.601Z",
+        "scanDate": "2026-04-28T16:10:03.154Z",
         "version": "2.5.0",
         "totalTrends": 141,
         "categories": [
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-lrqnts0am",
+            "title": "Sportradar Revenue",
+            "subtitle": "Sportradar's Q1 2026 revenue increases despite currency-related loss",
+            "category": "iGaming",
+            "tags": [
+                "Sportradar",
+                "Q1 2026",
+                "Revenue"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-sportradar-revenue-climbs-currency-hit-drags/",
+                "date": "2026-04-28T14:36:43.000Z"
+            },
+            "whatsNew": "Sportradar's revenue has increased in Q1 2026, but the company has reported a loss due to currency fluctuations. The company's growth is steady, but external factors are affecting its bottom line.",
+            "whyItMatters": "The report indicates the impact of currency swings on the financial performance of companies in the iGaming industry, highlighting the need for robust risk management strategies.",
+            "howToUse": "Companies can use this information to inform their own risk management strategies and prepare for potential currency fluctuations.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-akploztq4",
+            "title": "NVIDIA AI Breakthrough",
+            "subtitle": "NVIDIA introduces Nemotron 3 Nano Omni for multimodal intelligence in documents, audio, and video agents",
+            "category": "AI",
+            "tags": [
+                "NVIDIA",
+                "Nemotron 3",
+                "Multimodal Intelligence",
+                "AI Agents"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+                "date": "2026-04-28T15:58:57.000Z"
+            },
+            "whatsNew": "NVIDIA's Nemotron 3 Nano Omni enables long-context multimodal intelligence for various media types, including documents, audio, and video. This technology has potential applications in AI-powered game development and iGaming. It can be used to create more sophisticated AI agents in games.",
+            "whyItMatters": "The introduction of Nemotron 3 Nano Omni can significantly impact the development of AI-powered games and iGaming platforms, enabling more realistic and interactive experiences. This technology can also be applied to AI art generation and animation techniques.",
+            "howToUse": "Game developers can utilize Nemotron 3 Nano Omni to create more advanced AI-powered game agents, while iGaming platforms can leverage this technology to enhance user experience and provide more realistic interactions.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Platforms"
+            ],
+            "companies": [
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-9uflabls7",
             "title": "Sportradar COO",
@@ -50,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oycuh4nft",
@@ -81,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vkdm9lj70",
@@ -4347,68 +4410,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-gftkygexm",
-            "title": "Luna Downscaling",
-            "subtitle": "Amazon's cloud video game service Luna is being downscaled, affecting previously purchased titles",
-            "category": "Tech",
-            "tags": [
-                "Cloud Gaming",
-                "Luna",
-                "Amazon"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/amazon-is-downscaling-video-game-service-luna",
-                "date": "2026-04-14T14:26:12.000Z"
-            },
-            "whatsNew": "Amazon is downscaling its cloud video game service Luna, with previously purchased titles stopping work on June 10. No refunds will be offered. This move indicates a shift in Amazon's gaming strategy.",
-            "whyItMatters": "The downscaling of Luna affects gamers who have invested in the platform and may indicate a broader trend in the cloud gaming market. It also raises questions about the long-term viability of cloud gaming services.",
-            "howToUse": "Gamers should explore alternative cloud gaming options and consider the potential risks of investing in new platforms. Developers should be cautious when choosing cloud gaming partners.",
-            "beneficiaries": [
-                "Gamers",
-                "Developers"
-            ],
-            "companies": [
-                "Amazon"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-obw96cvq9",
-            "title": "TR-49 Breaks Even",
-            "subtitle": "Inkle's narrative deduction title breaks even in three hours",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Indie Games",
-                "Financial Success"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/inkle-co-founder-explains-how-tr-49-broke-even-in-three-hours",
-                "date": "2026-04-14T14:27:51.000Z"
-            },
-            "whatsNew": "TR-49, a narrative deduction title, broke even in just three hours after its release. The game is available on multiple platforms, including Steam, Nintendo Switch, and the App Store, for $7.",
-            "whyItMatters": "The rapid financial success of TR-49 indicates a strong market for narrative-driven games and highlights the potential for indie game developers to achieve significant returns on investment.",
-            "howToUse": "Developers can learn from Inkle's success by focusing on creating engaging narrative experiences and targeting multiple platforms for release.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Game Publishers"
-            ],
-            "companies": [
-                "Inkle"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4555,7 +4556,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T13:59:56.601Z",
+            "lastScan": "2026-04-28T16:10:03.154Z",
             "note": null
         },
         {
@@ -4564,7 +4565,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T13:59:56.601Z",
+            "lastScan": "2026-04-28T16:10:03.154Z",
             "note": null
         },
         {
@@ -4751,7 +4752,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T13:59:56.601Z",
+            "lastScan": "2026-04-28T16:10:03.154Z",
             "note": null
         },
         {
@@ -19362,6 +19363,68 @@
                 "Local Gaming Industry"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-gftkygexm",
+            "title": "Luna Downscaling",
+            "subtitle": "Amazon's cloud video game service Luna is being downscaled, affecting previously purchased titles",
+            "category": "Tech",
+            "tags": [
+                "Cloud Gaming",
+                "Luna",
+                "Amazon"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/amazon-is-downscaling-video-game-service-luna",
+                "date": "2026-04-14T14:26:12.000Z"
+            },
+            "whatsNew": "Amazon is downscaling its cloud video game service Luna, with previously purchased titles stopping work on June 10. No refunds will be offered. This move indicates a shift in Amazon's gaming strategy.",
+            "whyItMatters": "The downscaling of Luna affects gamers who have invested in the platform and may indicate a broader trend in the cloud gaming market. It also raises questions about the long-term viability of cloud gaming services.",
+            "howToUse": "Gamers should explore alternative cloud gaming options and consider the potential risks of investing in new platforms. Developers should be cautious when choosing cloud gaming partners.",
+            "beneficiaries": [
+                "Gamers",
+                "Developers"
+            ],
+            "companies": [
+                "Amazon"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-obw96cvq9",
+            "title": "TR-49 Breaks Even",
+            "subtitle": "Inkle's narrative deduction title breaks even in three hours",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Indie Games",
+                "Financial Success"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/inkle-co-founder-explains-how-tr-49-broke-even-in-three-hours",
+                "date": "2026-04-14T14:27:51.000Z"
+            },
+            "whatsNew": "TR-49, a narrative deduction title, broke even in just three hours after its release. The game is available on multiple platforms, including Steam, Nintendo Switch, and the App Store, for $7.",
+            "whyItMatters": "The rapid financial success of TR-49 indicates a strong market for narrative-driven games and highlights the potential for indie game developers to achieve significant returns on investment.",
+            "howToUse": "Developers can learn from Inkle's success by focusing on creating engaging narrative experiences and targeting multiple platforms for release.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Game Publishers"
+            ],
+            "companies": [
+                "Inkle"
+            ],
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
