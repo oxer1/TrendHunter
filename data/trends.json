@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-29T12:15:41.270Z",
+        "scanDate": "2026-04-29T15:10:57.839Z",
         "version": "2.5.0",
-        "totalTrends": 140,
+        "totalTrends": 138,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,135 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dwa2gps9r",
+            "title": "Betmakers Growth",
+            "subtitle": "BetMakers Technology Group reports higher revenue and stronger earnings for Q3 FY26 driven by LVDC and Crown deals",
+            "category": "iGaming",
+            "tags": [
+                "BetMakers",
+                "LVDC",
+                "Crown",
+                "iGaming Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q326-betmakers-lvdc-crown-deals-drive-growth/",
+                "date": "2026-04-29T12:32:50.000Z"
+            },
+            "whatsNew": "BetMakers Technology Group has seen significant growth in the third quarter of fiscal year 2026, driven by deals with LVDC and Crown. This growth is reflected in higher revenue, stronger earnings, and positive cash flow.",
+            "whyItMatters": "The growth of BetMakers indicates a strong performance in the iGaming industry, potentially setting a positive trend for other companies. This could lead to increased investment and innovation in the sector.",
+            "howToUse": "Companies in the iGaming industry can learn from BetMakers' success by focusing on strategic partnerships and deals to drive growth and revenue.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "BetMakers Technology Group",
+                "LVDC",
+                "Crown"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-lrtz65l04",
+            "title": "Rush Street Q1",
+            "subtitle": "Rush Street Interactive reports record quarter with 41% revenue increase and 81% EBITDA jump",
+            "category": "iGaming",
+            "tags": [
+                "Rush Street Interactive",
+                "Q1 2026",
+                "EBITDA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-rsi-hails-record-quarter/",
+                "date": "2026-04-29T12:01:08.000Z"
+            },
+            "whatsNew": "Rush Street Interactive achieved a record quarter in Q1 2026, with revenue up 41% and adjusted EBITDA up 81%. This significant growth indicates a strong start to the year for the company.",
+            "whyItMatters": "The substantial increase in revenue and EBITDA suggests Rush Street Interactive is successfully expanding its operations and improving profitability, which could impact the broader iGaming industry.",
+            "howToUse": "Operators and investors can take note of Rush Street Interactive's successful strategies and apply similar approaches to their own businesses, focusing on areas that drove the company's growth.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Rush Street Interactive"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-s1au68v5o",
+            "title": "Casino Guru Awards",
+            "subtitle": "Celebrating transparency and fairness in the iGaming industry with one month to go until the 2026 awards",
+            "category": "iGaming",
+            "tags": [
+                "Casino Guru Awards",
+                "iGaming industry",
+                "transparency",
+                "fairness"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/one-month-to-go-casino-guru-awards-2026-enters-final-countdown/",
+                "date": "2026-04-29T11:02:37.000Z"
+            },
+            "whatsNew": "The Casino Guru Awards 2026 is entering its final phase, recognizing brands and individuals driving transparency and fairness in the iGaming industry. The awards focus on trust and responsibility in online gambling, going beyond traditional marketing claims.",
+            "whyItMatters": "The Casino Guru Awards set a benchmark for trust and responsibility in the iGaming industry, promoting player protection and higher industry standards. This recognition can impact how companies operate and are perceived by players and regulators.",
+            "howToUse": "Industry professionals can use the Casino Guru Awards as a guide to identify trustworthy and responsible operators, while companies can strive to meet the awards' criteria to improve their reputation and player protection measures.",
+            "beneficiaries": [
+                "iGaming operators",
+                "players",
+                "regulators"
+            ],
+            "companies": [
+                "Casino Guru"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-xcwzy9t6p",
+            "title": "Granite 4.1 LLMs",
+            "subtitle": "Hugging Face reveals details on building Granite 4.1 Large Language Models",
+            "category": "AI",
+            "tags": [
+                "LLMs",
+                "Hugging Face",
+                "Granite 4.1"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+                "date": "2026-04-29T15:01:48.000Z"
+            },
+            "whatsNew": "Hugging Face's Granite 4.1 LLMs introduce new architecture and training methods, enhancing performance and efficiency. The models are designed to improve natural language understanding and generation capabilities. This update showcases the rapid advancements in LLM technology.",
+            "whyItMatters": "The development of more powerful and efficient LLMs like Granite 4.1 can significantly impact AI applications in gaming, content creation, and other industries, enabling more sophisticated and realistic interactions. This can lead to enhanced user experiences and new creative possibilities.",
+            "howToUse": "Developers can integrate Granite 4.1 LLMs into their applications to leverage advanced language processing capabilities, such as text generation, sentiment analysis, and conversational AI. This can be particularly useful in games that feature complex storytelling or interactive dialogue systems.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-kmnorxogx",
             "title": "Tech Race Summit",
@@ -4163,163 +4292,6 @@
             "isNew": false
         },
         {
-            "id": "t-p005xfz3y",
-            "title": "Swintt New Director",
-            "subtitle": "Etienne Azzopardi appointed as managing director of Swintt after a successful interim stint",
-            "category": "iGaming",
-            "tags": [
-                "Swintt",
-                "Etienne Azzopardi",
-                "iGaming Leadership"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/swintt-announce-etienne-azzopardi-as-new-managing-director/",
-                "date": "2026-04-15T13:25:04.000Z"
-            },
-            "whatsNew": "Swintt has appointed Etienne Azzopardi as its new managing director, following a successful three-month interim period. He will lead the company's product strategy and market expansion plans.",
-            "whyItMatters": "This appointment reflects Swintt's commitment to strategic growth and development in the iGaming industry. Azzopardi's experience as COO will likely influence the company's future direction.",
-            "howToUse": "Industry professionals can expect Swintt to continue innovating under Azzopardi's leadership, potentially leading to new partnerships and product releases.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Software Providers"
-            ],
-            "companies": [
-                "Swintt"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-hyn49pq3l",
-            "title": "Amusnet Czech Expansion",
-            "subtitle": "Amusnet partners with Paradise Casino Admiral to grow its presence in the Czech Republic",
-            "category": "iGaming",
-            "tags": [
-                "Amusnet",
-                "Paradise Casino Admiral",
-                "Czech Republic",
-                "Online Gaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/amusnet-grows-its-czech-republic-presence-with-paradise-casino-admiral-partnership/",
-                "date": "2026-04-15T13:16:01.000Z"
-            },
-            "whatsNew": "Amusnet has partnered with Paradise Casino Admiral to expand its presence in the Czech Republic. The partnership will bring Amusnet's portfolio of games to the Czech market. This move is part of Amusnet's strategy to expand across regulated European markets.",
-            "whyItMatters": "The partnership is significant for Amusnet as it marks another step in the company's expansion across Europe. It also highlights the growing importance of regulated markets in the iGaming industry.",
-            "howToUse": "Operators can leverage partnerships like this to expand their reach in new markets. Game developers can also use this as an opportunity to distribute their content to a wider audience.",
-            "beneficiaries": [
-                "Game Developers",
-                "Online Operators"
-            ],
-            "companies": [
-                "Amusnet",
-                "Paradise Casino Admiral"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-q8m122eyp",
-            "title": "Ladbrokes Advert Ruling",
-            "subtitle": "ASA overturns previous ruling against Ladbrokes advert from 2024",
-            "category": "iGaming",
-            "tags": [
-                "Ladbrokes",
-                "ASA",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/asa-overturns-ruling-ladbrokes-advert/",
-                "date": "2026-04-15T12:35:33.000Z"
-            },
-            "whatsNew": "The Advertising Standards Authority (ASA) has overturned a previous ruling against a 2024 Ladbrokes advert. The original ruling was made in June 2025.",
-            "whyItMatters": "This decision may impact how gambling companies approach advertising, potentially leading to changes in marketing strategies. It also reflects the evolving regulatory landscape in the iGaming industry.",
-            "howToUse": "iGaming companies should review their advertising strategies to ensure compliance with current regulations and consider the implications of this ruling on their marketing efforts.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Advertising Agencies"
-            ],
-            "companies": [
-                "Ladbrokes"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-tpqc89vh4",
-            "title": "US Online Gambling",
-            "subtitle": "Stifel's US Online Gambling Tracker shows volatile results in March",
-            "category": "iGaming",
-            "tags": [
-                "US Online Gambling",
-                "Sports Betting",
-                "Market Trends"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/stifels-us-online-gambling-tracker-volatile-results-march/",
-                "date": "2026-04-15T15:00:06.000Z"
-            },
-            "whatsNew": "US online sports betting volumes showed uneven movement through February and March. The market continues to adjust, indicating volatility in the industry.",
-            "whyItMatters": "The volatility in the US online gambling market affects the entire iGaming industry, influencing investor decisions and operator strategies. It highlights the need for adaptable business models.",
-            "howToUse": "Operators should closely monitor market trends and adjust their strategies accordingly to remain competitive in the volatile US online gambling market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Stifel"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-1uul8bcis",
-            "title": "NEXT.io Launches",
-            "subtitle": "NEXT.io expands into prediction markets with NEXTPredict.io and hosts the world's first prediction markets summit",
-            "category": "iGaming",
-            "tags": [
-                "Prediction Markets",
-                "NEXT.io",
-                "NEXTPredict.io"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/prediction-markets/next-io-launches-prediction-markets-summit/",
-                "date": "2026-04-15T14:03:48.000Z"
-            },
-            "whatsNew": "NEXT.io has launched NEXTPredict.io, a new platform for prediction markets, and is hosting the world's first prediction markets summit in New York. This move marks NEXT.io's expansion into the prediction markets space.",
-            "whyItMatters": "The launch of NEXTPredict.io and the prediction markets summit indicates a growing interest in prediction markets, which could have significant implications for the iGaming industry. This development may attract new players and create new opportunities for innovation.",
-            "howToUse": "Operators and developers in the iGaming industry can explore NEXTPredict.io to understand its features and potential applications, and consider attending the prediction markets summit to learn more about the latest trends and opportunities.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-dtzp59isp",
             "title": "RuneScape Expansion",
             "subtitle": "RuneScape developer expands IP to Asia-Pacific region with localized versions",
@@ -4348,37 +4320,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-w5avut2t7",
-            "title": "AI Law Advice",
-            "subtitle": "Lawyer warns game devs about generative AI ownership issues",
-            "category": "AI",
-            "tags": [
-                "Generative AI",
-                "Game Development",
-                "Law"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/video-game-lawyer-implores-devs-to-understand-ownership-and-swerve-generative-ai",
-                "date": "2026-04-15T13:32:01.000Z"
-            },
-            "whatsNew": "A lawyer is advising game developers to understand ownership rights when using generative AI. This comes as the use of AI in game development is increasing. The lawyer's warning highlights potential legal issues with AI-generated content.",
-            "whyItMatters": "Understanding ownership rights is crucial for game developers to avoid legal disputes. The increasing use of generative AI in game development makes this advice particularly relevant.",
-            "howToUse": "Game developers should seek legal advice to ensure they understand ownership rights when using generative AI. They should also establish clear guidelines for AI use in their development process.",
-            "beneficiaries": [
-                "Game Developers",
-                "Game Publishers"
-            ],
-            "companies": [
-                "Mishcon de Reya"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ],
@@ -4526,7 +4467,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T12:15:41.270Z",
+            "lastScan": "2026-04-29T15:10:57.839Z",
             "note": null
         },
         {
@@ -4535,7 +4476,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T10:53:44.348Z",
+            "lastScan": "2026-04-29T15:10:57.839Z",
             "note": null
         },
         {
@@ -4554,7 +4495,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-29T05:52:47.962Z",
+            "lastScan": "2026-04-29T15:10:57.839Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4722,7 +4663,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T10:53:44.348Z",
+            "lastScan": "2026-04-29T15:10:57.839Z",
             "note": null
         },
         {
@@ -4821,7 +4762,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T05:52:47.962Z",
+            "lastScan": "2026-04-29T15:10:57.839Z",
             "note": null
         },
         {
@@ -19740,6 +19681,194 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-p005xfz3y",
+            "title": "Swintt New Director",
+            "subtitle": "Etienne Azzopardi appointed as managing director of Swintt after a successful interim stint",
+            "category": "iGaming",
+            "tags": [
+                "Swintt",
+                "Etienne Azzopardi",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/swintt-announce-etienne-azzopardi-as-new-managing-director/",
+                "date": "2026-04-15T13:25:04.000Z"
+            },
+            "whatsNew": "Swintt has appointed Etienne Azzopardi as its new managing director, following a successful three-month interim period. He will lead the company's product strategy and market expansion plans.",
+            "whyItMatters": "This appointment reflects Swintt's commitment to strategic growth and development in the iGaming industry. Azzopardi's experience as COO will likely influence the company's future direction.",
+            "howToUse": "Industry professionals can expect Swintt to continue innovating under Azzopardi's leadership, potentially leading to new partnerships and product releases.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Software Providers"
+            ],
+            "companies": [
+                "Swintt"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-hyn49pq3l",
+            "title": "Amusnet Czech Expansion",
+            "subtitle": "Amusnet partners with Paradise Casino Admiral to grow its presence in the Czech Republic",
+            "category": "iGaming",
+            "tags": [
+                "Amusnet",
+                "Paradise Casino Admiral",
+                "Czech Republic",
+                "Online Gaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/amusnet-grows-its-czech-republic-presence-with-paradise-casino-admiral-partnership/",
+                "date": "2026-04-15T13:16:01.000Z"
+            },
+            "whatsNew": "Amusnet has partnered with Paradise Casino Admiral to expand its presence in the Czech Republic. The partnership will bring Amusnet's portfolio of games to the Czech market. This move is part of Amusnet's strategy to expand across regulated European markets.",
+            "whyItMatters": "The partnership is significant for Amusnet as it marks another step in the company's expansion across Europe. It also highlights the growing importance of regulated markets in the iGaming industry.",
+            "howToUse": "Operators can leverage partnerships like this to expand their reach in new markets. Game developers can also use this as an opportunity to distribute their content to a wider audience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Online Operators"
+            ],
+            "companies": [
+                "Amusnet",
+                "Paradise Casino Admiral"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-q8m122eyp",
+            "title": "Ladbrokes Advert Ruling",
+            "subtitle": "ASA overturns previous ruling against Ladbrokes advert from 2024",
+            "category": "iGaming",
+            "tags": [
+                "Ladbrokes",
+                "ASA",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/asa-overturns-ruling-ladbrokes-advert/",
+                "date": "2026-04-15T12:35:33.000Z"
+            },
+            "whatsNew": "The Advertising Standards Authority (ASA) has overturned a previous ruling against a 2024 Ladbrokes advert. The original ruling was made in June 2025.",
+            "whyItMatters": "This decision may impact how gambling companies approach advertising, potentially leading to changes in marketing strategies. It also reflects the evolving regulatory landscape in the iGaming industry.",
+            "howToUse": "iGaming companies should review their advertising strategies to ensure compliance with current regulations and consider the implications of this ruling on their marketing efforts.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Advertising Agencies"
+            ],
+            "companies": [
+                "Ladbrokes"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-tpqc89vh4",
+            "title": "US Online Gambling",
+            "subtitle": "Stifel's US Online Gambling Tracker shows volatile results in March",
+            "category": "iGaming",
+            "tags": [
+                "US Online Gambling",
+                "Sports Betting",
+                "Market Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/stifels-us-online-gambling-tracker-volatile-results-march/",
+                "date": "2026-04-15T15:00:06.000Z"
+            },
+            "whatsNew": "US online sports betting volumes showed uneven movement through February and March. The market continues to adjust, indicating volatility in the industry.",
+            "whyItMatters": "The volatility in the US online gambling market affects the entire iGaming industry, influencing investor decisions and operator strategies. It highlights the need for adaptable business models.",
+            "howToUse": "Operators should closely monitor market trends and adjust their strategies accordingly to remain competitive in the volatile US online gambling market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Stifel"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1uul8bcis",
+            "title": "NEXT.io Launches",
+            "subtitle": "NEXT.io expands into prediction markets with NEXTPredict.io and hosts the world's first prediction markets summit",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "NEXT.io",
+                "NEXTPredict.io"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/prediction-markets/next-io-launches-prediction-markets-summit/",
+                "date": "2026-04-15T14:03:48.000Z"
+            },
+            "whatsNew": "NEXT.io has launched NEXTPredict.io, a new platform for prediction markets, and is hosting the world's first prediction markets summit in New York. This move marks NEXT.io's expansion into the prediction markets space.",
+            "whyItMatters": "The launch of NEXTPredict.io and the prediction markets summit indicates a growing interest in prediction markets, which could have significant implications for the iGaming industry. This development may attract new players and create new opportunities for innovation.",
+            "howToUse": "Operators and developers in the iGaming industry can explore NEXTPredict.io to understand its features and potential applications, and consider attending the prediction markets summit to learn more about the latest trends and opportunities.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-w5avut2t7",
+            "title": "AI Law Advice",
+            "subtitle": "Lawyer warns game devs about generative AI ownership issues",
+            "category": "AI",
+            "tags": [
+                "Generative AI",
+                "Game Development",
+                "Law"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/video-game-lawyer-implores-devs-to-understand-ownership-and-swerve-generative-ai",
+                "date": "2026-04-15T13:32:01.000Z"
+            },
+            "whatsNew": "A lawyer is advising game developers to understand ownership rights when using generative AI. This comes as the use of AI in game development is increasing. The lawyer's warning highlights potential legal issues with AI-generated content.",
+            "whyItMatters": "Understanding ownership rights is crucial for game developers to avoid legal disputes. The increasing use of generative AI in game development makes this advice particularly relevant.",
+            "howToUse": "Game developers should seek legal advice to ensure they understand ownership rights when using generative AI. They should also establish clear guidelines for AI use in their development process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Publishers"
+            ],
+            "companies": [
+                "Mishcon de Reya"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
