@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-29T08:12:08.118Z",
+        "scanDate": "2026-04-29T10:53:44.348Z",
         "version": "2.5.0",
-        "totalTrends": 140,
+        "totalTrends": 142,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,103 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-kmnorxogx",
+            "title": "Tech Race Summit",
+            "subtitle": "SOFTSWISS launches a conference to address high-load infrastructure challenges in iGaming",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "infrastructure",
+                "Tech Race Summit"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-launches-tech-race-summit-2026/",
+                "date": "2026-04-29T10:50:32.000Z"
+            },
+            "whatsNew": "SOFTSWISS is launching Tech Race Summit 2026, a conference focused on solving high-load infrastructure challenges in the iGaming industry. The event will feature speakers from Amazon, Gcore, and Fastly. The summit aims to address the growing complexity of iGaming infrastructure.",
+            "whyItMatters": "The summit addresses a gap in the current conference landscape, providing a platform for industry leaders to discuss high-load infrastructure challenges. This can lead to innovations and improvements in the iGaming industry's technology and infrastructure.",
+            "howToUse": "Attend the Tech Race Summit 2026 to learn from industry leaders and stay updated on the latest trends and solutions for high-load infrastructure challenges in iGaming.",
+            "beneficiaries": [
+                "iGaming operators",
+                "technology leaders"
+            ],
+            "companies": [
+                "SOFTSWISS",
+                "Amazon",
+                "Gcore",
+                "Fastly"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-9nk4njnof",
+            "title": "iGaming Partnership",
+            "subtitle": "Infigame partners with Penguin King to enhance player engagement with unique slot games",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Partnership",
+                "Slot Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/infingame-and-penguin-king-join-forces-to-deliver-stronger-player-engagement/",
+                "date": "2026-04-29T09:32:26.000Z"
+            },
+            "whatsNew": "Infigame and Penguin King have partnered to bring fresh and engaging slot games to the iGaming market, focusing on bold visual design and player experience. This partnership expands Infigame's offerings with over 16,000 games from 150+ providers. Penguin King's unique approach to game development adds variety to the platform.",
+            "whyItMatters": "This partnership matters because it enhances player engagement and provides operators with more tools to differentiate their offerings in a competitive market. The combination of Infigame's extensive game library and Penguin King's innovative slot games can lead to increased market share and revenue.",
+            "howToUse": "Operators can leverage this partnership to offer unique and engaging slot games to their players, enhancing the overall gaming experience and driving player retention. By integrating Penguin King's games into their platforms, operators can differentiate themselves from competitors and attract new players.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "Infigame",
+                "Penguin King"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-2o3g7wyxa",
+            "title": "Latam Core Market",
+            "subtitle": "Betsson CEO views Latin America as a core pillar of the group's business",
+            "category": "iGaming",
+            "tags": [
+                "Betsson",
+                "Latin America",
+                "iGaming Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/features/pontus-lindwall-latam-core-pillar-not-growth-market/",
+                "date": "2026-04-29T09:14:20.000Z"
+            },
+            "whatsNew": "Betsson CEO Pontus Lindwall now considers Latin America a core part of the business, indicating a significant shift in strategy. This change reflects the growing importance of the Latin American market in the iGaming industry. The region's potential for further expansion is highlighted by this move.",
+            "whyItMatters": "This shift in perspective underscores the increasing maturity and potential of the Latin American iGaming market, making it a crucial area for industry players. It also signals Betsson's commitment to expanding its presence in the region.",
+            "howToUse": "Operators should consider Latin America as a key market for growth and investment, focusing on tailored products and services to meet local demands. This includes adapting to regulatory changes and consumer preferences in the region.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Investors"
+            ],
+            "companies": [
+                "Betsson"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-4qx8l4uxp",
             "title": "Caesars Q1 Success",
@@ -49,7 +146,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tamc4eahc",
@@ -80,7 +177,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-llm2mx1t0",
@@ -4345,37 +4442,6 @@
             "visualStyle": null,
             "cluster": "ai-in-igaming",
             "isNew": false
-        },
-        {
-            "id": "t-emapkwik2",
-            "title": "Xbox Game Pass",
-            "subtitle": "ID@Xbox global director discusses the discovery benefits of Xbox Game Pass",
-            "category": "Tech",
-            "tags": [
-                "Xbox Game Pass",
-                "Game Development",
-                "Subscription Service"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/id-xbox-global-director-says-xbox-game-pass-is-a-discovery-multiplier",
-                "date": "2026-04-15T09:42:51.000Z"
-            },
-            "whatsNew": "The ID@Xbox global director highlights the positive impact of Xbox Game Pass on game discovery, creating a snowball effect for developers. This service allows for increased visibility and accessibility of games. The director's statement underscores the importance of such platforms in the gaming industry.",
-            "whyItMatters": "The success of Xbox Game Pass can influence the strategy of game developers and publishers, potentially leading to more titles being released on the platform. This, in turn, can affect the overall gaming landscape and consumer behavior.",
-            "howToUse": "Developers can leverage Xbox Game Pass to increase their game's visibility and reach a broader audience, while also considering the service's impact on their revenue models and marketing strategies.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Microsoft"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4522,7 +4588,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T08:12:08.118Z",
+            "lastScan": "2026-04-29T10:53:44.348Z",
             "note": null
         },
         {
@@ -4531,7 +4597,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T08:12:08.118Z",
+            "lastScan": "2026-04-29T10:53:44.348Z",
             "note": null
         },
         {
@@ -4718,7 +4784,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T08:12:08.118Z",
+            "lastScan": "2026-04-29T10:53:44.348Z",
             "note": null
         },
         {
@@ -19641,6 +19707,37 @@
                 "Casinos"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-emapkwik2",
+            "title": "Xbox Game Pass",
+            "subtitle": "ID@Xbox global director discusses the discovery benefits of Xbox Game Pass",
+            "category": "Tech",
+            "tags": [
+                "Xbox Game Pass",
+                "Game Development",
+                "Subscription Service"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/id-xbox-global-director-says-xbox-game-pass-is-a-discovery-multiplier",
+                "date": "2026-04-15T09:42:51.000Z"
+            },
+            "whatsNew": "The ID@Xbox global director highlights the positive impact of Xbox Game Pass on game discovery, creating a snowball effect for developers. This service allows for increased visibility and accessibility of games. The director's statement underscores the importance of such platforms in the gaming industry.",
+            "whyItMatters": "The success of Xbox Game Pass can influence the strategy of game developers and publishers, potentially leading to more titles being released on the platform. This, in turn, can affect the overall gaming landscape and consumer behavior.",
+            "howToUse": "Developers can leverage Xbox Game Pass to increase their game's visibility and reach a broader audience, while also considering the service's impact on their revenue models and marketing strategies.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Microsoft"
+            ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
