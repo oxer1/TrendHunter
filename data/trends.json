@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-29T15:10:57.839Z",
+        "scanDate": "2026-04-29T17:26:10.197Z",
         "version": "2.5.0",
-        "totalTrends": 138,
+        "totalTrends": 140,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,131 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-n5dc3gyoo",
+            "title": "Amatic Hack",
+            "subtitle": "A cybersecurity incident at Amatic Industries led to a free money glitch in their games",
+            "category": "iGaming",
+            "tags": [
+                "Amatic Industries",
+                "Cybersecurity",
+                "Glitch"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/casino/exclusive-hack-amatic-free-money-glitch/",
+                "date": "2026-04-29T15:28:34.000Z"
+            },
+            "whatsNew": "A hack at Amatic Industries' server caused a glitch resulting in unintended large winnings for some players. The incident highlights the importance of robust cybersecurity in the iGaming industry.",
+            "whyItMatters": "This incident can impact player trust and the financial stability of iGaming companies. It underscores the need for enhanced security measures to prevent such glitches.",
+            "howToUse": "iGaming companies should review and strengthen their cybersecurity protocols to prevent similar incidents, ensuring the integrity of their games and protecting player funds.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Players"
+            ],
+            "companies": [
+                "Amatic Industries"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-kxnlr1zzh",
+            "title": "DoubleU Acquires DoubleDown",
+            "subtitle": "DoubleU Games aims to privatize its social gaming subsidiary DoubleDown Interactive by acquiring remaining shares.",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "Social Gaming",
+                "Privatization"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/doubleu-games-acquire-remaining-shares-doubledown/",
+                "date": "2026-04-29T15:13:10.000Z"
+            },
+            "whatsNew": "DoubleU Games is moving to acquire the remaining shares of DoubleDown Interactive, aiming to privatize the social gaming company. This move indicates a strategic decision to consolidate ownership and potentially streamline operations.",
+            "whyItMatters": "The acquisition could impact the social gaming market by altering the competitive landscape and potentially affecting the development and release of new games. It also reflects the ongoing trend of consolidation in the gaming industry.",
+            "howToUse": "Game developers and industry observers should monitor the acquisition's progress and its implications for the market, considering potential opportunities for collaboration or competition.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Investors"
+            ],
+            "companies": [
+                "DoubleU Games",
+                "DoubleDown Interactive"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-as9tui4s3",
+            "title": "AI Compute Bottleneck",
+            "subtitle": "AI evaluations are becoming a new compute bottleneck, according to Hugging Face Blog",
+            "category": "AI",
+            "tags": [
+                "AI Evaluation",
+                "Compute Bottleneck",
+                "Hugging Face"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+                "date": "2026-04-29T16:45:09.000Z"
+            },
+            "whatsNew": "The increasing complexity of AI models is leading to a new compute bottleneck in AI evaluations. This bottleneck is becoming a significant challenge for AI development and deployment. Hugging Face is highlighting this issue and its potential impact on the field.",
+            "whyItMatters": "The AI compute bottleneck can significantly slow down AI development and deployment, making it harder to achieve desired results. This can have a major impact on the field of AI and its applications.",
+            "howToUse": "To mitigate this issue, developers can explore optimized AI evaluation methods and utilize specialized hardware for AI computations. This can help reduce the bottleneck and improve overall AI performance.",
+            "beneficiaries": [
+                "AI Developers",
+                "Data Scientists"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-lxi53cplw",
+            "title": "AI Inference",
+            "subtitle": "Hugging Face introduces DeepInfra on Inference Providers",
+            "category": "AI",
+            "tags": [
+                "Hugging Face",
+                "DeepInfra",
+                "Inference Providers"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+                "date": "2026-04-29T00:00:00.000Z"
+            },
+            "whatsNew": "Hugging Face has introduced DeepInfra, a new solution for inference providers, enhancing AI model deployment efficiency. This development aims to streamline AI workflows and improve performance. DeepInfra is designed to work seamlessly with Hugging Face's existing tools.",
+            "whyItMatters": "The introduction of DeepInfra can significantly impact the efficiency and scalability of AI model deployment, benefiting developers and organizations working with AI. It has the potential to reduce deployment times and increase model performance.",
+            "howToUse": "Developers can leverage DeepInfra by integrating it into their existing AI workflows, utilizing Hugging Face's documentation and support resources for seamless implementation. This can be particularly useful for optimizing AI model inference in applications such as game development and iGaming.",
+            "beneficiaries": [
+                "AI Developers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-dwa2gps9r",
             "title": "Betmakers Growth",
@@ -52,7 +177,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-lrtz65l04",
@@ -83,7 +208,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s1au68v5o",
@@ -116,7 +241,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xcwzy9t6p",
@@ -147,7 +272,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kmnorxogx",
@@ -4109,37 +4234,6 @@
             "isNew": false
         },
         {
-            "id": "t-g1aazymn9",
-            "title": "EA Saudi Buyout",
-            "subtitle": "US representative protests Saudi buyout of EA over AI job replacement concerns",
-            "category": "Tech",
-            "tags": [
-                "EA",
-                "Saudi Buyout",
-                "AI Job Replacement"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/us-representative-maxwell-frost-voices-protest-over-saudi-buyout-of-ea",
-                "date": "2026-04-15T16:13:19.000Z"
-            },
-            "whatsNew": "US representative Maxwell Frost is protesting the Saudi buyout of EA, citing concerns over the company's potential use of AI to replace human workers. Frost claims that EA will utilize AI to 'essentially fire loads of people.' This protest highlights the growing concern over the impact of AI on employment in the gaming industry.",
-            "whyItMatters": "The protest by Maxwell Frost brings attention to the potential consequences of AI adoption in the gaming industry, particularly in terms of job replacement. This could have significant implications for the industry's workforce and the future of game development.",
-            "howToUse": "Game developers and industry leaders should consider the potential impact of AI on their workforce and explore strategies for mitigating job replacement, such as upskilling and reskilling programs.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Leaders"
-            ],
-            "companies": [
-                "EA"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-iw1guauxm",
             "title": "Ludum Dare Ends",
             "subtitle": "Ludum Dare game jam to officially end in October 2028 after spawning successful titles like Celeste and Inscryption",
@@ -4290,37 +4384,6 @@
             "visualStyle": null,
             "cluster": "community-ai-ethics",
             "isNew": false
-        },
-        {
-            "id": "t-dtzp59isp",
-            "title": "RuneScape Expansion",
-            "subtitle": "RuneScape developer expands IP to Asia-Pacific region with localized versions",
-            "category": "Tech",
-            "tags": [
-                "RuneScape",
-                "Expansion",
-                "Localization"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/runescape-developer-to-expand-its-ip-to-the-asian-pacific-region",
-                "date": "2026-04-15T17:20:43.000Z"
-            },
-            "whatsNew": "RuneScape: Dragonwilds will be localized into Simplified Chinese, Japanese, and Korean this year, marking a significant expansion into the Asia-Pacific region. The move aims to tap into the region's vast gaming market. This expansion is part of the developer's strategy to increase its global presence.",
-            "whyItMatters": "The expansion into the Asia-Pacific region could significantly increase RuneScape's player base and revenue. It also highlights the growing importance of localization in the gaming industry.",
-            "howToUse": "Game developers can learn from this example by considering localization as a key strategy for expanding their own games into new markets. They should research local preferences and tailor their games accordingly.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gamers"
-            ],
-            "companies": [
-                "Jagex"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4467,7 +4530,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T15:10:57.839Z",
+            "lastScan": "2026-04-29T17:26:10.197Z",
             "note": null
         },
         {
@@ -4476,7 +4539,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T15:10:57.839Z",
+            "lastScan": "2026-04-29T17:26:10.197Z",
             "note": null
         },
         {
@@ -4663,7 +4726,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T15:10:57.839Z",
+            "lastScan": "2026-04-29T17:26:10.197Z",
             "note": null
         },
         {
@@ -19869,6 +19932,68 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-g1aazymn9",
+            "title": "EA Saudi Buyout",
+            "subtitle": "US representative protests Saudi buyout of EA over AI job replacement concerns",
+            "category": "Tech",
+            "tags": [
+                "EA",
+                "Saudi Buyout",
+                "AI Job Replacement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/us-representative-maxwell-frost-voices-protest-over-saudi-buyout-of-ea",
+                "date": "2026-04-15T16:13:19.000Z"
+            },
+            "whatsNew": "US representative Maxwell Frost is protesting the Saudi buyout of EA, citing concerns over the company's potential use of AI to replace human workers. Frost claims that EA will utilize AI to 'essentially fire loads of people.' This protest highlights the growing concern over the impact of AI on employment in the gaming industry.",
+            "whyItMatters": "The protest by Maxwell Frost brings attention to the potential consequences of AI adoption in the gaming industry, particularly in terms of job replacement. This could have significant implications for the industry's workforce and the future of game development.",
+            "howToUse": "Game developers and industry leaders should consider the potential impact of AI on their workforce and explore strategies for mitigating job replacement, such as upskilling and reskilling programs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Leaders"
+            ],
+            "companies": [
+                "EA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-dtzp59isp",
+            "title": "RuneScape Expansion",
+            "subtitle": "RuneScape developer expands IP to Asia-Pacific region with localized versions",
+            "category": "Tech",
+            "tags": [
+                "RuneScape",
+                "Expansion",
+                "Localization"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/runescape-developer-to-expand-its-ip-to-the-asian-pacific-region",
+                "date": "2026-04-15T17:20:43.000Z"
+            },
+            "whatsNew": "RuneScape: Dragonwilds will be localized into Simplified Chinese, Japanese, and Korean this year, marking a significant expansion into the Asia-Pacific region. The move aims to tap into the region's vast gaming market. This expansion is part of the developer's strategy to increase its global presence.",
+            "whyItMatters": "The expansion into the Asia-Pacific region could significantly increase RuneScape's player base and revenue. It also highlights the growing importance of localization in the gaming industry.",
+            "howToUse": "Game developers can learn from this example by considering localization as a key strategy for expanding their own games into new markets. They should research local preferences and tailor their games accordingly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gamers"
+            ],
+            "companies": [
+                "Jagex"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
