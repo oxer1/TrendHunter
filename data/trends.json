@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-29T02:39:55.951Z",
+        "scanDate": "2026-04-29T05:52:47.961Z",
         "version": "2.5.0",
-        "totalTrends": 139,
+        "totalTrends": 141,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-llm2mx1t0",
+            "title": "ICE Day Two",
+            "subtitle": "EGR North America reports on the second day of the ICE event, likely covering iGaming industry developments and trends.",
+            "category": "iGaming",
+            "tags": [
+                "ICE",
+                "EGR North America",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmQS1BaVI0dHY1UWRvbDJuOWJ0WVp4MnhGWlRqMFppck5XZTlBQjVLMS1rM1ZOQVNacDRTZWtEY1RCVk1aU01tdVR5OEtCbVVXblJoQTFUMmY4S0ZCdDhhOS1CajVQQQ?oc=5",
+                "date": "2026-04-27T18:42:19.000Z"
+            },
+            "whatsNew": "The article provides an update on the ICE event, focusing on its second day. It likely includes insights into new iGaming technologies, regulatory discussions, and industry networking. The event is a significant platform for the iGaming sector to showcase innovations and trends.",
+            "whyItMatters": "The ICE event is crucial for the iGaming industry as it brings together key stakeholders to discuss future directions, technological advancements, and regulatory changes. The insights from this event can shape the industry's landscape in the coming year.",
+            "howToUse": "Industry professionals can use the information from the ICE round-up to stay updated on the latest trends and technologies in the iGaming sector, potentially informing their business strategies and product development.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "EGR Global"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-3vxzwnbso",
+            "title": "BetVictor New Campaign",
+            "subtitle": "BetVictor launches its largest audio-visual investment campaign to date",
+            "category": "iGaming",
+            "tags": [
+                "BetVictor",
+                "Audio-Visual",
+                "iGaming Campaign"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUhBVGpLOXpuZkJ6eVRxbDczLWRLTVRsWEhkSndqY0c0RTktOVdFSzhGV28wdW1qN1hvM0Myc0pNYjlEaWZNWmZXOE05MjRxaGZ2Ukpqb3BBTnJ4TzY2QzZoWU1MVmlSM3I1cHVLbzVsbjllVElBWEdHODRzZ1owN2R5QTl5bFk3MnpFU3luNG5VbDM0NWJMNUdmb1QxSDlJWEVvQXZqMnJ2dw?oc=5",
+                "date": "2026-04-28T16:43:11.000Z"
+            },
+            "whatsNew": "BetVictor has unveiled a new campaign representing its largest audio-visual investment to date, indicating a significant push into enhanced user experience. The campaign is expected to elevate the brand's presence in the iGaming market. Details on the campaign's specifics are awaited for a deeper analysis.",
+            "whyItMatters": "This investment by BetVictor signifies the growing importance of audio-visual elements in the iGaming industry, potentially setting a new standard for user engagement and experience. It reflects the industry's shift towards more immersive and interactive platforms.",
+            "howToUse": "Operators in the iGaming sector can take cue from BetVictor's strategy by prioritizing investments in audio-visual technologies to enhance their platforms and attract a wider audience. This could involve developing more engaging interfaces, interactive games, and immersive experiences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "BetVictor"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-rso8c2ugv",
             "title": "Jackpota Casino",
@@ -50,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rhn30uj07",
@@ -79,7 +141,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-chazzy9yl",
@@ -4490,7 +4552,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T02:39:55.951Z",
+            "lastScan": "2026-04-29T05:52:47.962Z",
             "note": null
         },
         {
@@ -4499,7 +4561,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T02:39:55.951Z",
+            "lastScan": "2026-04-29T05:52:47.962Z",
             "note": null
         },
         {
@@ -4518,7 +4580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-28T05:57:23.033Z",
+            "lastScan": "2026-04-29T05:52:47.962Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4686,7 +4748,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-29T02:39:55.951Z",
+            "lastScan": "2026-04-29T05:52:47.962Z",
             "note": null
         },
         {
@@ -4785,7 +4847,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-28T05:57:23.033Z",
+            "lastScan": "2026-04-29T05:52:47.962Z",
             "note": null
         },
         {
