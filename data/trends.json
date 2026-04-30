@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-30T12:13:16.886Z",
+        "scanDate": "2026-04-30T15:07:51.163Z",
         "version": "2.5.0",
-        "totalTrends": 143,
+        "totalTrends": 139,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wngvwc4v6",
+            "title": "Regulators Unite",
+            "subtitle": "Ireland and Alderney gambling regulators collaborate with new MoU",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Licensing",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/irish-alderney-gambling-regulators-collaborate-mou/",
+                "date": "2026-04-30T13:47:46.000Z"
+            },
+            "whatsNew": "Ireland and Alderney's gambling regulators have signed a Memorandum of Understanding to enhance collaboration on regulation. This move aims to strengthen oversight and enforcement in the iGaming sector.",
+            "whyItMatters": "The collaboration is expected to improve regulatory standards and protect consumers in the online gambling market. It also reflects the increasing need for cooperation among regulators to tackle challenges in the industry.",
+            "howToUse": "Operators should prepare for potential changes in regulatory requirements and ensure compliance with the new collaborative framework. Regulators can utilize this partnership to share best practices and enhance their regulatory capacities.",
+            "beneficiaries": [
+                "Regulators",
+                "Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-1oagacs5q",
+            "title": "BetMGM COO Move",
+            "subtitle": "BetMGM COO joins Yahoo Sports as general manager",
+            "category": "iGaming",
+            "tags": [
+                "BetMGM",
+                "Yahoo Sports",
+                "Executive Move"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlHNHp1SEFrb0RSWWk3T2VpNjBhSUdmVmxiZnlqeG5oVGxJNW9jNXkyZEk3M3drbnBrT2UxYW5QS2FjZUtzRmV3eDVleUR3LVRfLWl3OWF6QnYybUxEVlJkanRhUC14R0VNX1RlbV9wc0d0UkJuSkE3NkZ2VTVHS3NTZWdxMWdGaDhQMjE3VktUMHU3UnJV?oc=5",
+                "date": "2026-04-29T14:47:15.000Z"
+            },
+            "whatsNew": "BetMGM's COO is leaving to join Yahoo Sports as a general manager, indicating a shift in leadership and potential collaboration between the two companies. This move may signal a deeper integration of sports betting into Yahoo's offerings. The change could impact the iGaming industry's landscape.",
+            "whyItMatters": "This move highlights the growing importance of online sports betting and the blurring of lines between traditional sports media and iGaming. It may lead to new opportunities for innovation and growth in the sector.",
+            "howToUse": "Companies in the iGaming space should monitor this development for potential partnerships or collaborations that could enhance their offerings and reach. This could also signal a need for similar strategic moves within their own organizations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Media Companies"
+            ],
+            "companies": [
+                "BetMGM",
+                "Yahoo Sports"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-g9i154ucn",
             "title": "Raketech Q1 Report",
@@ -1220,35 +1282,6 @@
             "isNew": false
         },
         {
-            "id": "t-xjmucosil",
-            "title": "Dutch Licensing",
-            "subtitle": "Dutch MPs question third-party licensing structures in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Licensing",
-                "Regulation",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmloS0o4am5WRVozdEk4YjJZS1lTcTEtbXg3TjlER2ZMcHhMQWlUREhhR2E0eFN5SlBMNEtzbG9acmRwV3NlRnczRWNaeEJDMkpNSzkzMmdyTFJUVURBMHdueFh2U0hXUEpjdFRlLWpGekdraWdlcHZCUmhQMFl4UWgxeUMtNUU?oc=5",
-                "date": "2026-04-16T13:35:55.000Z"
-            },
-            "whatsNew": "Dutch MPs are raising concerns over third-party licensing structures, potentially impacting the iGaming industry. This could lead to changes in how companies operate in the region. The inquiry may result in stricter regulations or new guidelines for operators.",
-            "whyItMatters": "The inquiry into third-party licensing structures could significantly impact the iGaming industry, affecting how companies are licensed and operate in the Netherlands. This may lead to increased regulatory scrutiny and potential changes in the market.",
-            "howToUse": "Operators should monitor the situation closely and prepare for potential changes in licensing requirements. Companies may need to adapt their structures to comply with new regulations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-mdqbhpslc",
             "title": "Rivalry Resignations",
             "subtitle": "Rivalry's C-suite and board resign after reducing operations",
@@ -2345,35 +2378,6 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-xhrz68rwu",
-            "title": "French Market Failure",
-            "subtitle": "EGR North America poll on the French market's performance",
-            "category": "iGaming",
-            "tags": [
-                "French market",
-                "iGaming",
-                "EGR North America"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HaDAzV01fM2ZCaEhQeS00amVadDZhZTkxUjlvNTJ4WUt6VG9DZnlORkhUZUFPbnJ2ajRfcnFZRC1YR2stUUpRZEhEbExmeU1tRXFad2kwQTcxTFJjcDNjT3lCaGxrNWxsSThFNWRzR0xvbmIxb0tR?oc=5",
-                "date": "2026-04-16T14:42:57.000Z"
-            },
-            "whatsNew": "A poll by EGR North America is asking if the French market has failed, indicating concerns about the market's performance. The poll suggests a need for evaluation of the French iGaming industry. The market's failure could have significant implications for operators and regulators.",
-            "whyItMatters": "The French market's performance is crucial for iGaming operators and regulators, as it can impact future investments and regulatory decisions. A perceived failure could lead to changes in the market's structure and operations.",
-            "howToUse": "Operators and regulators should closely monitor the poll's results and the market's performance to adjust their strategies and ensure compliance with potential regulatory changes.",
-            "beneficiaries": [
-                "iGaming operators",
-                "regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -4362,127 +4366,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-iw1guauxm",
-            "title": "Ludum Dare Ends",
-            "subtitle": "Ludum Dare game jam to officially end in October 2028 after spawning successful titles like Celeste and Inscryption",
-            "category": "Community",
-            "tags": [
-                "Game Jam",
-                "Ludum Dare",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/production/ludum-dare-will-officially-end-in-october-2028",
-                "date": "2026-04-16T14:24:51.000Z"
-            },
-            "whatsNew": "Ludum Dare, a long-running game jam, has announced its official end in October 2028. The event has been instrumental in the creation of several successful games.",
-            "whyItMatters": "The end of Ludum Dare marks a significant change in the game development community, potentially impacting indie game development and innovation. It has been a platform for developers to create and showcase their work, leading to the discovery of new talent and ideas.",
-            "howToUse": "Developers can utilize the remaining time to participate in Ludum Dare and leverage its platform for networking and showcasing their projects. They can also explore other game jams and community events to fill the gap left by Ludum Dare.",
-            "beneficiaries": [
-                "Game Developers",
-                "Indie Game Studios"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
-            "id": "t-tf936p5ci",
-            "title": "Triple Action Cash",
-            "subtitle": "Blueprint Gaming releases Triple Action Cash Strike with pots mechanic",
-            "category": "iGaming",
-            "tags": [
-                "Blueprint Gaming",
-                "Cash Strike series",
-                "pots mechanic"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/blueprint-gaming-triple-action-cash-strike/",
-                "date": "2026-04-16T14:20:03.000Z"
-            },
-            "whatsNew": "Blueprint Gaming's latest release, Triple Action Cash Strike, integrates the popular pots mechanic, enhancing the base play with the new Action Strike symbol. The 6×4, 5,000x max win offering is expected to build on the series' momentum. The Cash Strike family has consistently ranked in the supplier's top 10 revenue-generating markets.",
-            "whyItMatters": "The integration of the pots mechanic in Triple Action Cash Strike is likely to attract players and increase revenue for operators, given the series' strong performance in regulated territories worldwide. This development also highlights the importance of innovative mechanics in driving player engagement and retention.",
-            "howToUse": "Operators can leverage the popularity of the Cash Strike series and the pots mechanic to promote Triple Action Cash Strike and attract new players. Game developers can take note of the successful integration of the pots mechanic and consider incorporating similar features in their own games.",
-            "beneficiaries": [
-                "Game operators",
-                "Players"
-            ],
-            "companies": [
-                "Blueprint Gaming"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-w5b1epi0u",
-            "title": "Dutch Gambling",
-            "subtitle": "Licensed gambling in the Netherlands is experiencing stagnation while the black market grows.",
-            "category": "iGaming",
-            "tags": [
-                "Netherlands",
-                "Gaming Regulation",
-                "Black Market"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/legal-gambling-stagnates-netherlands-black-market-grows/",
-                "date": "2026-04-16T13:29:29.000Z"
-            },
-            "whatsNew": "The Dutch Gaming Authority's spring report highlights the decline in Gross Gaming Revenue (GGR) within the licensed industry, indicating a long-term trend. The black market, meanwhile, continues to grow, posing a challenge to regulatory efforts.",
-            "whyItMatters": "The stagnation of legal gambling and the growth of the black market in the Netherlands have significant implications for the country's gaming regulation and revenue. It underscores the need for effective measures to combat illegal gambling and promote a healthy, regulated market.",
-            "howToUse": "Regulators and operators can use this information to reassess their strategies and collaborate on more effective measures to combat the black market and stimulate growth in the licensed sector.",
-            "beneficiaries": [
-                "Regulators",
-                "Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-2if1700ih",
-            "title": "Star Adds CEO",
-            "subtitle": "Star Entertainment appoints former MGM China CEO to board",
-            "category": "iGaming",
-            "tags": [
-                "Star Entertainment",
-                "MGM China",
-                "Gaming Industry"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/star-adds-former-mgm-china-ceo-board/",
-                "date": "2026-04-16T13:20:59.000Z"
-            },
-            "whatsNew": "Grant Bowie, former CEO of MGM China, joins Star Entertainment Group as a non-executive director. This move may indicate a strategic shift in the company's direction. The appointment could bring new insights and expertise to the board.",
-            "whyItMatters": "The addition of Grant Bowie to the board may lead to new business opportunities and partnerships for Star Entertainment. His experience in the gaming industry could be beneficial for the company's growth.",
-            "howToUse": "Companies in the gaming industry can consider appointing experienced professionals to their boards to gain new perspectives and expertise. This can help them stay competitive and adapt to changing market conditions.",
-            "beneficiaries": [
-                "Gaming Companies",
-                "Investors"
-            ],
-            "companies": [
-                "Star Entertainment Group",
-                "MGM China"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4629,7 +4512,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T12:13:16.886Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": null
         },
         {
@@ -4638,7 +4521,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T12:13:16.886Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": null
         },
         {
@@ -4657,7 +4540,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4666,7 +4549,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4675,7 +4558,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": "Regulatory updates"
         },
         {
@@ -4693,7 +4576,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4702,7 +4585,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4825,7 +4708,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T12:13:16.886Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": null
         },
         {
@@ -4924,7 +4807,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T15:07:51.163Z",
             "note": null
         },
         {
@@ -20399,6 +20282,185 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xjmucosil",
+            "title": "Dutch Licensing",
+            "subtitle": "Dutch MPs question third-party licensing structures in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Licensing",
+                "Regulation",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmloS0o4am5WRVozdEk4YjJZS1lTcTEtbXg3TjlER2ZMcHhMQWlUREhhR2E0eFN5SlBMNEtzbG9acmRwV3NlRnczRWNaeEJDMkpNSzkzMmdyTFJUVURBMHdueFh2U0hXUEpjdFRlLWpGekdraWdlcHZCUmhQMFl4UWgxeUMtNUU?oc=5",
+                "date": "2026-04-16T13:35:55.000Z"
+            },
+            "whatsNew": "Dutch MPs are raising concerns over third-party licensing structures, potentially impacting the iGaming industry. This could lead to changes in how companies operate in the region. The inquiry may result in stricter regulations or new guidelines for operators.",
+            "whyItMatters": "The inquiry into third-party licensing structures could significantly impact the iGaming industry, affecting how companies are licensed and operate in the Netherlands. This may lead to increased regulatory scrutiny and potential changes in the market.",
+            "howToUse": "Operators should monitor the situation closely and prepare for potential changes in licensing requirements. Companies may need to adapt their structures to comply with new regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xhrz68rwu",
+            "title": "French Market Failure",
+            "subtitle": "EGR North America poll on the French market's performance",
+            "category": "iGaming",
+            "tags": [
+                "French market",
+                "iGaming",
+                "EGR North America"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HaDAzV01fM2ZCaEhQeS00amVadDZhZTkxUjlvNTJ4WUt6VG9DZnlORkhUZUFPbnJ2ajRfcnFZRC1YR2stUUpRZEhEbExmeU1tRXFad2kwQTcxTFJjcDNjT3lCaGxrNWxsSThFNWRzR0xvbmIxb0tR?oc=5",
+                "date": "2026-04-16T14:42:57.000Z"
+            },
+            "whatsNew": "A poll by EGR North America is asking if the French market has failed, indicating concerns about the market's performance. The poll suggests a need for evaluation of the French iGaming industry. The market's failure could have significant implications for operators and regulators.",
+            "whyItMatters": "The French market's performance is crucial for iGaming operators and regulators, as it can impact future investments and regulatory decisions. A perceived failure could lead to changes in the market's structure and operations.",
+            "howToUse": "Operators and regulators should closely monitor the poll's results and the market's performance to adjust their strategies and ensure compliance with potential regulatory changes.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-iw1guauxm",
+            "title": "Ludum Dare Ends",
+            "subtitle": "Ludum Dare game jam to officially end in October 2028 after spawning successful titles like Celeste and Inscryption",
+            "category": "Community",
+            "tags": [
+                "Game Jam",
+                "Ludum Dare",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/production/ludum-dare-will-officially-end-in-october-2028",
+                "date": "2026-04-16T14:24:51.000Z"
+            },
+            "whatsNew": "Ludum Dare, a long-running game jam, has announced its official end in October 2028. The event has been instrumental in the creation of several successful games.",
+            "whyItMatters": "The end of Ludum Dare marks a significant change in the game development community, potentially impacting indie game development and innovation. It has been a platform for developers to create and showcase their work, leading to the discovery of new talent and ideas.",
+            "howToUse": "Developers can utilize the remaining time to participate in Ludum Dare and leverage its platform for networking and showcasing their projects. They can also explore other game jams and community events to fill the gap left by Ludum Dare.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-tf936p5ci",
+            "title": "Triple Action Cash",
+            "subtitle": "Blueprint Gaming releases Triple Action Cash Strike with pots mechanic",
+            "category": "iGaming",
+            "tags": [
+                "Blueprint Gaming",
+                "Cash Strike series",
+                "pots mechanic"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/blueprint-gaming-triple-action-cash-strike/",
+                "date": "2026-04-16T14:20:03.000Z"
+            },
+            "whatsNew": "Blueprint Gaming's latest release, Triple Action Cash Strike, integrates the popular pots mechanic, enhancing the base play with the new Action Strike symbol. The 6×4, 5,000x max win offering is expected to build on the series' momentum. The Cash Strike family has consistently ranked in the supplier's top 10 revenue-generating markets.",
+            "whyItMatters": "The integration of the pots mechanic in Triple Action Cash Strike is likely to attract players and increase revenue for operators, given the series' strong performance in regulated territories worldwide. This development also highlights the importance of innovative mechanics in driving player engagement and retention.",
+            "howToUse": "Operators can leverage the popularity of the Cash Strike series and the pots mechanic to promote Triple Action Cash Strike and attract new players. Game developers can take note of the successful integration of the pots mechanic and consider incorporating similar features in their own games.",
+            "beneficiaries": [
+                "Game operators",
+                "Players"
+            ],
+            "companies": [
+                "Blueprint Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-w5b1epi0u",
+            "title": "Dutch Gambling",
+            "subtitle": "Licensed gambling in the Netherlands is experiencing stagnation while the black market grows.",
+            "category": "iGaming",
+            "tags": [
+                "Netherlands",
+                "Gaming Regulation",
+                "Black Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/legal-gambling-stagnates-netherlands-black-market-grows/",
+                "date": "2026-04-16T13:29:29.000Z"
+            },
+            "whatsNew": "The Dutch Gaming Authority's spring report highlights the decline in Gross Gaming Revenue (GGR) within the licensed industry, indicating a long-term trend. The black market, meanwhile, continues to grow, posing a challenge to regulatory efforts.",
+            "whyItMatters": "The stagnation of legal gambling and the growth of the black market in the Netherlands have significant implications for the country's gaming regulation and revenue. It underscores the need for effective measures to combat illegal gambling and promote a healthy, regulated market.",
+            "howToUse": "Regulators and operators can use this information to reassess their strategies and collaborate on more effective measures to combat the black market and stimulate growth in the licensed sector.",
+            "beneficiaries": [
+                "Regulators",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-2if1700ih",
+            "title": "Star Adds CEO",
+            "subtitle": "Star Entertainment appoints former MGM China CEO to board",
+            "category": "iGaming",
+            "tags": [
+                "Star Entertainment",
+                "MGM China",
+                "Gaming Industry"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/star-adds-former-mgm-china-ceo-board/",
+                "date": "2026-04-16T13:20:59.000Z"
+            },
+            "whatsNew": "Grant Bowie, former CEO of MGM China, joins Star Entertainment Group as a non-executive director. This move may indicate a strategic shift in the company's direction. The appointment could bring new insights and expertise to the board.",
+            "whyItMatters": "The addition of Grant Bowie to the board may lead to new business opportunities and partnerships for Star Entertainment. His experience in the gaming industry could be beneficial for the company's growth.",
+            "howToUse": "Companies in the gaming industry can consider appointing experienced professionals to their boards to gain new perspectives and expertise. This can help them stay competitive and adapt to changing market conditions.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "Star Entertainment Group",
+                "MGM China"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
