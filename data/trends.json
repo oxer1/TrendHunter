@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-04-30T19:16:37.402Z",
+        "scanDate": "2026-04-30T20:59:52.261Z",
         "version": "2.5.0",
         "totalTrends": 140,
         "categories": [
@@ -4541,10 +4541,11 @@
             "name": "Next.io",
             "url": "https://next.io",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-04-30T19:16:37.402Z",
-            "note": null
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": null,
+            "errorReason": "Direct: Invalid character in entity name\nLine: 0\nColumn: 120\nChar: = | Fallback: Fallback HTTP 503"
         },
         {
             "name": "VentureBeat AI",
@@ -4552,7 +4553,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T19:16:37.402Z",
+            "lastScan": "2026-04-30T20:59:52.261Z",
             "note": null
         },
         {
@@ -4569,28 +4570,31 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "metadata-only",
-            "lastScan": "2026-04-30T17:17:39.472Z",
-            "fallbackUsed": "metadata-only"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "fallbackUsed": "metadata-only",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-04-30T15:07:51.163Z",
-            "fallbackUsed": "search-summary"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "fallbackUsed": "search-summary",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-04-30T15:07:51.163Z",
-            "note": "Regulatory updates"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": "Regulatory updates",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -4605,20 +4609,22 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-04-30T15:07:51.163Z",
-            "note": "EU regulatory insights"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": "EU regulatory insights",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-04-30T15:07:51.163Z",
+            "lastScan": "2026-04-30T20:59:52.261Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop"
+            "fallbackUsed": "manual_link_drop",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "X / Twitter",
@@ -4634,10 +4640,11 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "api",
-            "lastScan": "2026-04-30T05:56:57.096Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "r/StableDiffusion",
@@ -4692,28 +4699,31 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-03-10T05:43:39.872Z",
-            "note": "Prompt gallery signal — style/trend detection"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": "Prompt gallery signal — style/trend detection",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-03-10T05:43:39.872Z",
-            "note": "Promptbook — style/prompt signal"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": "Promptbook — style/prompt signal",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-03-09T05:56:34.631Z",
-            "note": "Style browsing signal"
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": "Style browsing signal",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -4739,35 +4749,38 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T19:16:37.402Z",
+            "lastScan": "2026-04-30T20:59:52.261Z",
             "note": null
         },
         {
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-03-09T05:56:34.631Z",
-            "note": null
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": null,
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "search-summary",
-            "lastScan": "2026-03-09T04:16:19.361Z",
-            "note": null
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": null,
+            "errorReason": "HTTP 503"
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "search-summary",
-            "lastScan": "2026-03-08T04:10:28.832Z",
-            "note": null
+            "lastScan": "2026-04-30T20:59:52.261Z",
+            "note": null,
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Nano-banana",
@@ -4791,10 +4804,11 @@
             "name": "PixiJS Blog",
             "url": "https://pixijs.com/blog",
             "category": "Tech",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-02-27T15:56:53+03:00",
-            "note": "Release notes, migrations"
+            "lastScan": "2026-04-30T20:59:52.262Z",
+            "note": "Release notes, migrations",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "PixiJS Discord",
@@ -4838,7 +4852,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T17:17:39.472Z",
+            "lastScan": "2026-04-30T20:59:52.262Z",
             "note": null
         },
         {
