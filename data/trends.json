@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-30T02:40:48.011Z",
+        "scanDate": "2026-04-30T05:56:57.096Z",
         "version": "2.5.0",
-        "totalTrends": 142,
+        "totalTrends": 145,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-l51bp67hi",
+            "title": "NJ Gaming Update",
+            "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for March 2026",
+            "category": "iGaming",
+            "tags": [
+                "Gaming Regulation",
+                "New Jersey",
+                "DGE"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5heUtJbVlPaEFhMUtJWEtXVHFkQ245NEc4dERxSkJuWFNWUE9TLUgxVkUzeVA3akxub2Fzel94bno0VFk1bEY0QXotQlgwNUU4RE5nVFUyYzJCdk5vM0l2bWRjZlE2S0VzSThnVUlabjlzb0dITlMzanpjS2g?oc=5",
+                "date": "2026-04-16T07:00:00.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has announced updates for March 2026, indicating ongoing regulatory activity in the state's gaming sector. The announcement involves Jennifer Davenport and Attorney General Mary Jo Flaherty. The specifics of the update are not detailed in the provided content.",
+            "whyItMatters": "This update matters because it reflects the ongoing regulatory environment in New Jersey's gaming industry, which can impact operators and players alike. Regulatory changes can influence the market's dynamics and legal compliance requirements.",
+            "howToUse": "Operators and stakeholders in New Jersey's gaming industry should monitor these updates closely to ensure compliance with any new or changed regulations. Legal and compliance teams should review the announcement for specific details and implications.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Legal Teams"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-18unqowds",
+            "title": "Civitai AI",
+            "subtitle": "Civitai announces a new AI model that doubles output for every generation",
+            "category": "AI",
+            "tags": [
+                "AI models",
+                "Civitai",
+                "AI output"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0tXbEowR0JMcmtCWGpMLXBCd2M0SVhTVzBEVzcxQTkyQ0htNVJWRy1oZkFMRlVzZkVRSjkxZUU2dEZsTi0wandRZ0dMNHVSNk9YZm93TWhJWFlDcUNiZ29wLUZQLXRBNldVOXM5bE5IWmNHbFdhLWZwcnJGbVgtcXhqU1pJQTQ?oc=5",
+                "date": "2026-04-24T23:42:50.000Z"
+            },
+            "whatsNew": "Civitai has introduced a new AI model that generates twice the output for every generation, potentially revolutionizing AI content creation. This model aims to increase productivity and efficiency in AI-generated content. The details of the model are yet to be fully disclosed.",
+            "whyItMatters": "This development could significantly impact the field of AI-generated content, allowing for faster and more efficient creation of AI art, videos, and other media. It could also influence the iGaming industry by enabling the rapid creation of new game assets and content.",
+            "howToUse": "Developers and content creators can utilize this new model to accelerate their workflow and produce more content in less time, potentially integrating it into their existing AI pipelines for gaming and art generation.",
+            "beneficiaries": [
+                "AI developers",
+                "Content creators",
+                "Game developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-2eztviwb2",
+            "title": "Anima Turbo LoRA",
+            "subtitle": "Civitai releases Anima Turbo LoRA version 0.1, an AI model for art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "LoRA",
+                "Anima Turbo"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZUjI4aWZ6anFwNGRkRFE1Zk5nOXRjS0ZPaTNSWkgxalllUDRVaEREZDV6NHJIdzhTYkp5cGJPeER0dmFpQU52LVRoSGRMU0NsMHJzSUxTYTBubV91cUd1NQ?oc=5",
+                "date": "2026-04-20T07:00:00.000Z"
+            },
+            "whatsNew": "Anima Turbo LoRA is a new AI model that enables faster and more efficient art generation. Version 0.1 is the first release of this model. It uses LoRA technology for improved performance.",
+            "whyItMatters": "This release matters because it showcases the rapid advancement in AI art generation capabilities, potentially disrupting the gaming and art industries. It also highlights Civitai's commitment to innovation in AI technology.",
+            "howToUse": "Artists and developers can utilize Anima Turbo LoRA for generating high-quality art assets, such as characters, environments, and objects, which can be used in various applications including games and animations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-fjjlwnecv",
             "title": "iGaming Expansion",
@@ -48,7 +140,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-r1vaerqu7",
@@ -79,7 +171,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1ru31c7gx",
@@ -110,7 +202,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-npql9gvfo",
@@ -4592,7 +4684,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": null
         },
         {
@@ -4601,7 +4693,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": null
         },
         {
@@ -4620,7 +4712,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4629,7 +4721,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4638,7 +4730,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": "Regulatory updates"
         },
         {
@@ -4656,7 +4748,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4665,7 +4757,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4685,7 +4777,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-03-16T05:13:20.173Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4788,7 +4880,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": null
         },
         {
@@ -4887,7 +4979,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T02:40:48.011Z",
+            "lastScan": "2026-04-30T05:56:57.096Z",
             "note": null
         },
         {
