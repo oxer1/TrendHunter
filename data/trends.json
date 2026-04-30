@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-30T05:56:57.096Z",
+        "scanDate": "2026-04-30T08:21:44.400Z",
         "version": "2.5.0",
-        "totalTrends": 145,
+        "totalTrends": 147,
         "categories": [
             "iGaming",
             "AI",
@@ -21,32 +21,98 @@
     },
     "trends": [
         {
-            "id": "t-l51bp67hi",
-            "title": "NJ Gaming Update",
-            "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for March 2026",
+            "id": "t-unn3lt0rt",
+            "title": "MGM Digital Surges",
+            "subtitle": "MGM Resorts International reports a 4% year-on-year rise in revenue during Q1, driven by digital growth",
             "category": "iGaming",
             "tags": [
-                "Gaming Regulation",
-                "New Jersey",
-                "DGE"
+                "MGM Resorts",
+                "Digital Gaming",
+                "Revenue Growth"
             ],
             "trendStrength": 4,
-            "velocity": "stable",
+            "velocity": "rising",
             "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5heUtJbVlPaEFhMUtJWEtXVHFkQ245NEc4dERxSkJuWFNWUE9TLUgxVkUzeVA3akxub2Fzel94bno0VFk1bEY0QXotQlgwNUU4RE5nVFUyYzJCdk5vM0l2bWRjZlE2S0VzSThnVUlabjlzb0dITlMzanpjS2g?oc=5",
-                "date": "2026-04-16T07:00:00.000Z"
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-mgm-reworks-vegas-playbook/",
+                "date": "2026-04-30T08:18:01.000Z"
             },
-            "whatsNew": "The New Jersey Division of Gaming Enforcement has announced updates for March 2026, indicating ongoing regulatory activity in the state's gaming sector. The announcement involves Jennifer Davenport and Attorney General Mary Jo Flaherty. The specifics of the update are not detailed in the provided content.",
-            "whyItMatters": "This update matters because it reflects the ongoing regulatory environment in New Jersey's gaming industry, which can impact operators and players alike. Regulatory changes can influence the market's dynamics and legal compliance requirements.",
-            "howToUse": "Operators and stakeholders in New Jersey's gaming industry should monitor these updates closely to ensure compliance with any new or changed regulations. Legal and compliance teams should review the announcement for specific details and implications.",
+            "whatsNew": "MGM Resorts International saw a 4% year-on-year increase in revenue during Q1 2026, largely due to significant growth in its digital division. This indicates a shift in strategy towards digital gaming. The company is reworking its approach in Vegas, possibly incorporating more digital elements.",
+            "whyItMatters": "The growth in digital revenue suggests a strong potential for online gaming and a shift in consumer behavior towards digital platforms. This could influence the strategies of other companies in the iGaming industry.",
+            "howToUse": "Companies can leverage this trend by investing in digital gaming platforms and enhancing their online presence to attract a wider audience. This might involve developing more engaging digital content and improving user experience.",
             "beneficiaries": [
-                "Gaming Operators",
-                "Legal Teams"
+                "Gaming Companies",
+                "Investors"
             ],
-            "companies": [],
+            "companies": [
+                "MGM Resorts International"
+            ],
             "visualStyle": null,
-            "cluster": "regulation",
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-15ba51k8z",
+            "title": "Slotegrator Trends",
+            "subtitle": "Slotegrator COO Olga Ivanchik discusses industry trends and transformation",
+            "category": "iGaming",
+            "tags": [
+                "Slotegrator",
+                "iGaming Trends",
+                "User Experience"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/slotegrator-coo-olga-ivanchik-on-transformation-trends-and-igamings-biggest-stories/",
+                "date": "2026-04-30T06:00:00.000Z"
+            },
+            "whatsNew": "Slotegrator's COO Olga Ivanchik shares insights on the company's rebranding and staying ahead of industry trends. She emphasizes the importance of prioritizing user experience in both physical and virtual spaces.",
+            "whyItMatters": "The iGaming industry is rapidly evolving, and companies like Slotegrator must adapt to changing trends and user expectations to remain competitive. Prioritizing user experience is crucial for success.",
+            "howToUse": "iGaming companies can apply Olga Ivanchik's perspective by focusing on user-centric design and continuously monitoring industry trends to inform their business strategies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Slotegrator"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-a5quqp4m1",
+            "title": "Vyking KA Gaming",
+            "subtitle": "Vyking partners with KA Gaming to expand its iGaming portfolio",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "KA Gaming",
+                "Vyking",
+                "Game Aggregation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/vyking-boosts-game-portfolio-with-ka-gaming-partnership/",
+                "date": "2026-04-29T13:05:01.000Z"
+            },
+            "whatsNew": "Vyking has partnered with KA Gaming to integrate over 700 new titles into its platform, including slots, table games, and arcade-style experiences. This partnership expands Vyking's content ecosystem and strengthens its aggregation layer. The integration will provide operators with a more diverse portfolio of games.",
+            "whyItMatters": "This partnership is significant for the iGaming industry as it increases the availability of high-quality content for operators and players. It also demonstrates Vyking's commitment to expanding its platform and improving its offerings.",
+            "howToUse": "Operators can leverage this partnership to enhance their game portfolios and attract a wider audience. They can integrate KA Gaming's titles into their existing platforms using Vyking's aggregation layer.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Vyking",
+                "KA Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": true
         },
         {
@@ -79,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2eztviwb2",
@@ -110,7 +176,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fjjlwnecv",
@@ -4684,7 +4750,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T08:21:44.400Z",
             "note": null
         },
         {
@@ -4693,7 +4759,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T08:21:44.400Z",
             "note": null
         },
         {
@@ -4880,7 +4946,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T05:56:57.096Z",
+            "lastScan": "2026-04-30T08:21:44.400Z",
             "note": null
         },
         {
@@ -20210,6 +20276,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-l51bp67hi",
+            "title": "NJ Gaming Update",
+            "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for March 2026",
+            "category": "iGaming",
+            "tags": [
+                "Gaming Regulation",
+                "New Jersey",
+                "DGE"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5heUtJbVlPaEFhMUtJWEtXVHFkQ245NEc4dERxSkJuWFNWUE9TLUgxVkUzeVA3akxub2Fzel94bno0VFk1bEY0QXotQlgwNUU4RE5nVFUyYzJCdk5vM0l2bWRjZlE2S0VzSThnVUlabjlzb0dITlMzanpjS2g?oc=5",
+                "date": "2026-04-16T07:00:00.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has announced updates for March 2026, indicating ongoing regulatory activity in the state's gaming sector. The announcement involves Jennifer Davenport and Attorney General Mary Jo Flaherty. The specifics of the update are not detailed in the provided content.",
+            "whyItMatters": "This update matters because it reflects the ongoing regulatory environment in New Jersey's gaming industry, which can impact operators and players alike. Regulatory changes can influence the market's dynamics and legal compliance requirements.",
+            "howToUse": "Operators and stakeholders in New Jersey's gaming industry should monitor these updates closely to ensure compliance with any new or changed regulations. Legal and compliance teams should review the announcement for specific details and implications.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Legal Teams"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
