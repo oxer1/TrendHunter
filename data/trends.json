@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-01T14:52:56.686Z",
+        "scanDate": "2026-05-01T15:55:28.772Z",
         "version": "2.5.0",
-        "totalTrends": 129,
+        "totalTrends": 127,
         "categories": [
             "iGaming",
             "AI",
@@ -3990,66 +3990,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-ax3iqb9jx",
-            "title": "UKGC Risk Checks",
-            "subtitle": "UKGC financial risk assessments show better than expected results from 2025 pilot scheme",
-            "category": "iGaming",
-            "tags": [
-                "UKGC",
-                "Financial Risk",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/ukgc-financial-risk-checks-better-than-expected/",
-                "date": "2026-04-17T15:49:39.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission's pilot scheme for financial risk assessments has yielded better results than anticipated. This indicates a potential shift towards more effective responsible gambling measures.",
-            "whyItMatters": "The success of financial risk checks can lead to enhanced player protection and more stringent regulatory oversight in the iGaming industry.",
-            "howToUse": "Operators can leverage these findings to improve their own risk assessment protocols, ensuring better compliance with regulatory requirements.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "UK Gambling Commission"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-hfgviozmd",
-            "title": "Player Claims Spread",
-            "subtitle": "European player claims cases may increase after recent ruling",
-            "category": "iGaming",
-            "tags": [
-                "Player Claims",
-                "Europe",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/will-historic-player-claims-cases-spread-europe/",
-                "date": "2026-04-17T15:35:50.000Z"
-            },
-            "whatsNew": "A recent European-level ruling on player claims may lead to an increase in similar cases across the continent. This could have significant implications for the iGaming industry. The ruling may set a precedent for future cases.",
-            "whyItMatters": "The potential spread of player claims cases could impact iGaming operators' bottom line and lead to increased regulatory scrutiny. It may also lead to changes in how operators handle player claims and disputes.",
-            "howToUse": "iGaming operators should review their current practices and procedures for handling player claims and disputes to ensure compliance with the recent ruling and potential future regulations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4206,7 +4146,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T14:52:56.686Z",
+            "lastScan": "2026-05-01T15:55:28.772Z",
             "note": null
         },
         {
@@ -4396,7 +4336,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T14:52:56.686Z",
+            "lastScan": "2026-05-01T15:55:28.772Z",
             "note": null
         },
         {
@@ -20685,6 +20625,66 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-ax3iqb9jx",
+            "title": "UKGC Risk Checks",
+            "subtitle": "UKGC financial risk assessments show better than expected results from 2025 pilot scheme",
+            "category": "iGaming",
+            "tags": [
+                "UKGC",
+                "Financial Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ukgc-financial-risk-checks-better-than-expected/",
+                "date": "2026-04-17T15:49:39.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission's pilot scheme for financial risk assessments has yielded better results than anticipated. This indicates a potential shift towards more effective responsible gambling measures.",
+            "whyItMatters": "The success of financial risk checks can lead to enhanced player protection and more stringent regulatory oversight in the iGaming industry.",
+            "howToUse": "Operators can leverage these findings to improve their own risk assessment protocols, ensuring better compliance with regulatory requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-hfgviozmd",
+            "title": "Player Claims Spread",
+            "subtitle": "European player claims cases may increase after recent ruling",
+            "category": "iGaming",
+            "tags": [
+                "Player Claims",
+                "Europe",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/will-historic-player-claims-cases-spread-europe/",
+                "date": "2026-04-17T15:35:50.000Z"
+            },
+            "whatsNew": "A recent European-level ruling on player claims may lead to an increase in similar cases across the continent. This could have significant implications for the iGaming industry. The ruling may set a precedent for future cases.",
+            "whyItMatters": "The potential spread of player claims cases could impact iGaming operators' bottom line and lead to increased regulatory scrutiny. It may also lead to changes in how operators handle player claims and disputes.",
+            "howToUse": "iGaming operators should review their current practices and procedures for handling player claims and disputes to ensure compliance with the recent ruling and potential future regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
