@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-04-30T23:51:22.447Z",
+        "scanDate": "2026-05-01T02:47:19.541Z",
         "version": "2.5.0",
-        "totalTrends": 140,
+        "totalTrends": 141,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-lcajxuctj",
+            "title": "Hacksaw Gaming",
+            "subtitle": "Hacksaw Gaming shares increase 17% after beating Q1 market estimates",
+            "category": "iGaming",
+            "tags": [
+                "Hacksaw Gaming",
+                "Q1 estimates",
+                "iGaming stocks"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3JveHFhMlpGa2pXZ3VxUlItajh6Rkp3ZkVKekl0VlRYazctNUpPdk9pYWxMbWhWSmpjTzdlQnBraEpvVEk1UVY1T1FseXdwMmFpZnpjV0NTcEJxVEg4eV8xdm5UQUN5akUzVC05ZDhvUGpteGJEaUpFbWNqR2FWTlVBWnhaRlFGTklOTm1IZW1ZU1pnRFhSRGJB?oc=5",
+                "date": "2026-04-28T10:33:14.000Z"
+            },
+            "whatsNew": "Hacksaw Gaming's Q1 performance exceeded market expectations, leading to a 17% increase in shares. This indicates a strong start to the year for the company. The increase in shares reflects investor confidence in Hacksaw Gaming's growth prospects.",
+            "whyItMatters": "The surge in Hacksaw Gaming's shares is a positive indicator for the iGaming industry, suggesting growing investor interest and confidence in the sector. This could lead to increased investment and expansion in the industry.",
+            "howToUse": "Investors and industry stakeholders can capitalize on this trend by monitoring Hacksaw Gaming's performance and exploring potential investment opportunities in the iGaming sector.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming companies"
+            ],
+            "companies": [
+                "Hacksaw Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-rcfjri5c5",
             "title": "Hacksaw CEO Change",
@@ -4553,7 +4584,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T23:51:22.447Z",
+            "lastScan": "2026-05-01T02:47:19.541Z",
             "note": null
         },
         {
@@ -4570,31 +4601,28 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "fallbackUsed": "metadata-only",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-01T02:47:19.541Z",
+            "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "fallbackUsed": "search-summary",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-01T02:47:19.541Z",
+            "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-01T02:47:19.541Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -4609,22 +4637,20 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": "EU regulatory insights",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-01T02:47:19.541Z",
+            "note": "EU regulatory insights"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
+            "lastScan": "2026-05-01T02:47:19.541Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop",
-            "errorReason": "HTTP 503"
+            "fallbackUsed": "manual_link_drop"
         },
         {
             "name": "X / Twitter",
@@ -4640,11 +4666,10 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "api",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-01T02:47:19.541Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
             "name": "r/StableDiffusion",
@@ -4749,7 +4774,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T23:51:22.447Z",
+            "lastScan": "2026-05-01T02:47:19.541Z",
             "note": null
         },
         {
@@ -4852,7 +4877,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.262Z",
+            "lastScan": "2026-05-01T02:47:19.541Z",
             "note": null
         },
         {
