@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-01T20:49:19.180Z",
+        "scanDate": "2026-05-01T21:51:21.572Z",
         "version": "2.5.0",
-        "totalTrends": 127,
+        "totalTrends": 128,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-sgf45sfrm",
+            "title": "Unity Games",
+            "subtitle": "April 2026 game releases made with Unity, featuring various genres and developers",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "April 2026"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/games-made-with-unity-april-2026-releases",
+                "date": "2026-05-01T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity blog highlights numerous game releases from April 2026, showcasing the diversity of games made with the Unity engine, including REPLACED, MOUSE: P.I. For Hire, and Vampire Crawlers. Many of these games are now available in early access or full release on platforms like Steam.",
+            "whyItMatters": "The wide range of games developed with Unity demonstrates the engine's versatility and popularity among game developers, contributing to the growth of the gaming industry. This also reflects the increasing demand for Unity skills in game development.",
+            "howToUse": "Developers can utilize Unity to create games across various genres, from shooters and strategy games to casual and party games, by leveraging Unity's features and assets. They can also submit their projects for inclusion in Unity's release round-ups.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [
+                "Unity",
+                "Ubisoft",
+                "Fumi Games"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
         {
             "id": "t-5wvjj4oev",
             "title": "iGaming Marketing",
@@ -4146,7 +4179,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T20:49:19.180Z",
+            "lastScan": "2026-05-01T21:51:21.572Z",
             "note": null
         },
         {
@@ -4165,7 +4198,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-01T13:23:36.987Z",
+            "lastScan": "2026-05-01T21:51:21.572Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4334,10 +4367,11 @@
             "name": "Hugging Face Blog",
             "url": "https://huggingface.co/blog",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-05-01T20:49:19.180Z",
-            "note": null
+            "lastScan": "2026-05-01T21:51:21.572Z",
+            "note": null,
+            "errorReason": "Status code 500"
         },
         {
             "name": "Futurepedia",
@@ -4439,7 +4473,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T20:49:19.180Z",
+            "lastScan": "2026-05-01T21:51:21.572Z",
             "note": null
         },
         {
