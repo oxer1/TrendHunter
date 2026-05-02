@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-02T17:41:12.004Z",
+        "scanDate": "2026-05-02T18:55:36.560Z",
         "version": "2.5.0",
-        "totalTrends": 137,
+        "totalTrends": 139,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nblqr77yx",
+            "title": "AI Art Updates",
+            "subtitle": "Civitai releases new workflows for AI art generation, including I2V, SVI 2.0, and more.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Workflows"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3N1TVFQaEstQXZ0ZzVyclM0b3BtRDJOWXpacDF1cVl6QUlUSFpxbFN3cl9UQUtlalpyWHpFNm1ISFlUN1BTOE1UY0ZqcHU0dWt4WHZIb05Ib2RiU042Q1RmR2JuZ2FZeGM3UGY5bWJnSWk3SkRrZDdVZkRteEpfYXBIUTFPbTM4UFFqeGRuYnZub0JsajN4Zl9QSndBWjZIMEpCZVJjUDNicVBxMnhV?oc=5",
+                "date": "2026-04-30T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced new workflows for AI art generation, including image-to-video and style-to-video capabilities. These updates aim to enhance the creative process for artists and developers. The inclusion of audio and combine features further expands the possibilities for AI-generated content.",
+            "whyItMatters": "These updates can significantly impact the field of AI art generation, offering more versatile and powerful tools for creators. This can lead to more innovative and engaging content across various industries, including gaming and visual design.",
+            "howToUse": "Artists and developers can utilize these new workflows by exploring Civitai's platform and integrating the updated features into their projects, potentially streamlining their creative processes and enhancing their outputs.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-ete2l2jqe",
+            "title": "AI Art Update",
+            "subtitle": "PPPAnimix-IL version 20.0 released on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "PPPAnimix-IL"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTFlVR2VEMUNxNUFOek9CY3FBZUNyVHFLa1hHS0RGOWtrTmswSGo4SnZjV2ZEZEE2N2gtRldZY2VRMHBvXy1lYW5TUURNQmxqaDVIOUdMNlJjOWM?oc=5",
+                "date": "2026-04-26T07:00:00.000Z"
+            },
+            "whatsNew": "PPPAnimix-IL version 20.0 has been released, marking a significant update in AI art generation capabilities. This version is dubbed the Illustrious Checkpoint, indicating notable improvements. The update is available on Civitai, a platform known for AI models and tools.",
+            "whyItMatters": "This update matters because it showcases the continuous advancement in AI art generation, potentially offering more sophisticated and detailed art outputs. It reflects the growing importance of AI in creative fields.",
+            "howToUse": "Artists and developers can utilize this updated version by accessing it through Civitai, integrating it into their workflows to generate high-quality, unique art pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-y7w952nhe",
             "title": "AI Art Prompt",
@@ -4456,7 +4518,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": null
         },
         {
@@ -4475,7 +4537,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4484,7 +4546,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4493,7 +4555,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": "Regulatory updates"
         },
         {
@@ -4511,7 +4573,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4520,7 +4582,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4540,7 +4602,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-02T17:41:12.004Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4598,7 +4660,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T13:04:40.106Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4748,7 +4810,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T17:41:12.005Z",
+            "lastScan": "2026-05-02T18:55:36.560Z",
             "note": null
         },
         {
