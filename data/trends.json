@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-02T22:37:55.727Z",
+        "scanDate": "2026-05-02T23:39:44.999Z",
         "version": "2.5.0",
-        "totalTrends": 140,
+        "totalTrends": 141,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-w9h5bzhi1",
+            "title": "AniMayhem Update",
+            "subtitle": "Civitai releases AniMayhem - Pale Rider - v3.0 Plains Drifter",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "AniMayhem"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9INUFRTkswblI2dnFTUkE4X2JUaWFBN2t6ZHdudEZEUmVOV1lkbmgyRFJJQ3FjZ2p6ZXBQaGF3dEJ2akR0ODAxTFhsTExQc3owRUM5VEM0ZHNjQkV6UDJvTTNWSlBpQQ?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update to AniMayhem, introducing version 3.0 Plains Drifter. This update is part of the Illustrious Checkpoint series.",
+            "whyItMatters": "The update signifies the ongoing development and refinement of AI-powered art tools, potentially expanding creative possibilities for artists and designers.",
+            "howToUse": "Artists can utilize this update to explore new styles and themes in their work, leveraging the capabilities of AniMayhem for innovative art generation.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-vhswpcktp",
             "title": "AI Art Workflow",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nblqr77yx",
@@ -4549,7 +4580,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": null
         },
         {
@@ -4568,7 +4599,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4577,7 +4608,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4586,7 +4617,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": "Regulatory updates"
         },
         {
@@ -4604,7 +4635,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4613,7 +4644,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4633,7 +4664,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4691,7 +4722,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4841,7 +4872,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T22:37:55.727Z",
+            "lastScan": "2026-05-02T23:39:44.999Z",
             "note": null
         },
         {
