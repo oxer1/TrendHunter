@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-01T23:49:55.927Z",
+        "scanDate": "2026-05-02T02:29:43.654Z",
         "version": "2.5.0",
-        "totalTrends": 129,
+        "totalTrends": 133,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,129 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-evxrlscrw",
+            "title": "NJ Gaming Help",
+            "subtitle": "New Jersey provides toll-free hotlines for gaming support",
+            "category": "iGaming",
+            "tags": [
+                "Responsible Gaming",
+                "New Jersey",
+                "Helplines"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW1fMzlNaUZUNHY2SzltN3BaREFmbHU0Wmd5WEdxamxmQVVIZXBaa254VF9Tc1FQYVp5UGxQNXRhS2l6Q1A2U0E2RVMxQllnRm9BZkZ3S1FnckgzZzhaNkRtVWZ3U3dldXFyOFNBblpXTU50OWw1Y1lCTU9hZUNMTnQ2cUdPTXM?oc=5",
+                "date": "2026-04-23T02:28:06.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has listed toll-free hotlines for individuals seeking help with gaming-related issues. These hotlines offer support for problem gaming and addiction.",
+            "whyItMatters": "The availability of these hotlines underscores the importance of responsible gaming practices and the need for support services in the iGaming industry. It reflects a proactive approach by regulatory bodies to address potential negative impacts of gaming.",
+            "howToUse": "Individuals can use these hotlines to seek help and guidance on managing their gaming activities responsibly. Operators can also use this information to enhance their customer support and responsible gaming initiatives.",
+            "beneficiaries": [
+                "Problem Gamers",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-knsasou45",
+            "title": "ZImage Workflow",
+            "subtitle": "Civitai releases Moody Simple Zimage Turbo/Distilled Workflow - v6.0 with SDA",
+            "category": "AI",
+            "tags": [
+                "ZImage",
+                "Workflow",
+                "SDA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkVWSXJxTjBjc0dvR2FoeXVwX2tFV0tuZlFsX1Nyb0JvS1FnYWlTWG1ZYTQ3bVJ1UThEa09UYlNYUTlLUmZJNlZibHlrMEUxV2dBOUM2U3Y1LVdDVnptN182dk90RXk3b2FWdC04eEROdDRQVWZjWkhvUVBXZFlHYS1BLTc?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "The Moody Simple Zimage Turbo/Distilled Workflow - v6.0 includes SDA, offering enhanced image generation capabilities. This update aims to improve the efficiency and quality of AI-generated images. The workflow is now available on Civitai.",
+            "whyItMatters": "This update is significant for AI art generation, as it provides users with more advanced tools for creating high-quality images. The inclusion of SDA in the workflow can lead to more realistic and detailed generated images.",
+            "howToUse": "Artists and developers can utilize this workflow by accessing it through Civitai and following the provided guidelines for implementation. Experimenting with different settings and parameters can help optimize results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-8cr2yv449",
+            "title": "NoobAI Update",
+            "subtitle": "NoobAI v3.3 released on Civitai with new features",
+            "category": "AI",
+            "tags": [
+                "NoobAI",
+                "Civitai",
+                "AI Updates"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdlBwUjI5OU5INWNDdUdIQ2RueGRCTGVHNE1hSFZpMERleFlMWkhwUmpJT3hyYTVJWjJFRTd5WFZjN3BMbkRSRXZOa1ZES1hCWXBrV2tpeDBfQmxZUkR6aVU3NEtjVHB6d1g4UnVQVElqUjhnZk5WUDRpbldzUQ?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "NoobAI v3.3 has been released, featuring the Indigo Void Furry Fused XL and Furry NoobAI models. This update is available on Civitai.",
+            "whyItMatters": "The update showcases advancements in AI art generation, particularly in the realm of furry art, indicating growing capabilities in niche art styles.",
+            "howToUse": "Artists and enthusiasts can utilize NoobAI v3.3 on Civitai to generate unique furry-themed artwork, exploring the potential of AI in creative projects.",
+            "beneficiaries": [
+                "Artists",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-cssyrdsf1",
+            "title": "AI Art Prompts",
+            "subtitle": "FLUX.1 prompts for generating a young goddess with long wavy hair",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "FLUX.1",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSThvVHk5RmhnNC1wdl91X2ZmS0RtcFFHWUl2bWtUcVdLTWJjeVBNOU1nb0tfNXFFeDYyTVZmS3dyVWZ0WVlwa0Y1c0F3M21KSjVXTnFPWEhJd1drRkFuQW5RcXNXNEJJc1d6WWJ2RFhHRjFPRHFKVXo1SWtvM3FtNktuYmZtOXc?oc=5",
+                "date": "2026-04-23T16:10:01.000Z"
+            },
+            "whatsNew": "New prompts are available for FLUX.1, an AI art generation tool, allowing users to create images of a young goddess with long wavy hair. These prompts enable more detailed and specific image generation. The use of such prompts showcases the evolving capabilities of AI in art creation.",
+            "whyItMatters": "The development of specific prompts for AI art generation tools like FLUX.1 indicates a growing interest in using AI for creative work, potentially changing the landscape of digital art. This could impact artists, designers, and the broader creative industry.",
+            "howToUse": "To utilize these prompts, users can input them into FLUX.1, adjusting parameters to generate unique images of a young goddess with long wavy hair, which can be used for various artistic or design purposes.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-rdjxoh5yg",
             "title": "CFTC Prediction",
@@ -4208,7 +4331,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "note": null
         },
         {
@@ -4227,7 +4350,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4236,7 +4359,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4245,7 +4368,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "note": "Regulatory updates"
         },
         {
@@ -4263,7 +4386,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4272,7 +4395,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4292,7 +4415,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-01T08:58:50.103Z",
+            "lastScan": "2026-05-02T02:29:43.654Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4348,21 +4471,19 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": "Prompt gallery signal — style/trend detection",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-02T02:29:43.655Z",
+            "note": "Prompt gallery signal — style/trend detection"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": "Promptbook — style/prompt signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-02T02:29:43.655Z",
+            "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
@@ -4502,7 +4623,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-01T23:49:55.927Z",
+            "lastScan": "2026-05-02T02:29:43.655Z",
             "note": null
         },
         {
