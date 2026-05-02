@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-02T21:37:43.519Z",
+        "scanDate": "2026-05-02T22:37:55.727Z",
         "version": "2.5.0",
-        "totalTrends": 139,
+        "totalTrends": 140,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-vhswpcktp",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces professional grade workflow for SFW and NSFW content creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnNqZm5pV1hJcEJ1bUwyS3k1UWV2OVl1Uktla3dLeGxvcGVlbUdRMEo5N2RwdHV6SzdXTE1MODRsOElKR2ZQd2FSVDh2SjFKOGJ0QjZYOVJubV93RlNjdmNwOXB1Y1ZaTk9pWHpOWUd2UFpySUMyRG40Zjh2YXIyRHZyTzNkU0paWVBRWkZuM0lNME5yYllrQzVLb1FwUFMxWHdIT2VnUU5fdGdhajdPZFZJWm5mQQ?oc=5",
+                "date": "2026-04-24T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, enabling creators to produce professional-grade content with ease. The workflow caters to both SFW and NSFW content creation. It is designed to be efficient and adaptable to different hardware configurations.",
+            "whyItMatters": "This development matters because it democratizes access to professional-grade AI art generation, allowing more creators to produce high-quality content. It also highlights the growing importance of AI in the creative industries.",
+            "howToUse": "Creators can utilize Civitai's workflow by adjusting parameters to suit their specific needs, whether working with limited VRAM or pushing the boundaries of high-end hardware. Experimenting with different settings can help optimize results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-nblqr77yx",
             "title": "AI Art Updates",
@@ -4518,7 +4549,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": null
         },
         {
@@ -4537,7 +4568,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4546,7 +4577,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4555,7 +4586,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": "Regulatory updates"
         },
         {
@@ -4573,7 +4604,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4582,7 +4613,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4602,7 +4633,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4660,7 +4691,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T20:38:52.342Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4810,7 +4841,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T21:37:43.519Z",
+            "lastScan": "2026-05-02T22:37:55.727Z",
             "note": null
         },
         {
