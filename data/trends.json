@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-02T23:39:44.999Z",
+        "scanDate": "2026-05-03T02:38:47.439Z",
         "version": "2.5.0",
-        "totalTrends": 141,
+        "totalTrends": 145,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,131 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6n3vxbnh1",
+            "title": "AI Photo Restoration",
+            "subtitle": "OpenArt introduces AI-powered online photo restoration tool",
+            "category": "AI",
+            "tags": [
+                "AI Image Restoration",
+                "OpenArt",
+                "Photo Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01LWJvOVdpaVRlZEZmaUZuN3RjVGkwWks5ZWwzYXM4QU91QWR0SUNTYm4yVWtSMS1WZ3BLaWNpejB3T0dSeVMtU29UVGlQYmpwOWFMS2V5OHJWcTZQS0E?oc=5",
+                "date": "2026-04-29T04:21:11.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI-powered tool for restoring old photos online. This tool utilizes AI to enhance and repair damaged or aged photographs.",
+            "whyItMatters": "The introduction of this tool by OpenArt signifies a growing trend in using AI for creative and restorative purposes, making photo editing more accessible and efficient.",
+            "howToUse": "Users can upload their old photos to the OpenArt platform and utilize the AI image restoration tool to enhance and restore them.",
+            "beneficiaries": [
+                "Photographers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-p38wkoq8z",
+            "title": "AI Character",
+            "subtitle": "OpenArt introduces an AI character generator for creating consistent lifelike characters",
+            "category": "AI",
+            "tags": [
+                "AI Character Generator",
+                "OpenArt",
+                "Lifelike Characters"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWDRnbndvYlNXUURXbTlWaWlTOER4VVBqcFRhbEVFTmMydGNrdk9QckVjcVRWUW50R2JFUlRDNmNHakE5enVpSlVZYVlUVllqQUxJ?oc=5",
+                "date": "2026-04-27T09:07:29.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI character generator that can create consistent and lifelike characters. This tool utilizes AI technology to produce high-quality characters. The generator aims to simplify the character creation process.",
+            "whyItMatters": "The AI character generator has the potential to revolutionize the game development and animation industries by streamlining the character creation process. It can help artists and developers create consistent and engaging characters.",
+            "howToUse": "Developers and artists can utilize the AI character generator to create characters for their games, animations, or other projects. The tool can be used to generate characters with specific traits and features.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-78nrjtc3b",
+            "title": "AI Image Generator",
+            "subtitle": "Synthesia offers a free AI image generator tool",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU2Zxd3VRaXlzenNoN1hvUnBWNVM5SGVpVHBpejEzVVhUaDZaeGR2Qk55TjJLNWJEbWFyUGRNT2JocmppMjJEYmtYejVVUllKUUVPNlpPOHhlS191eEE?oc=5",
+                "date": "2026-04-25T05:10:44.000Z"
+            },
+            "whatsNew": "Synthesia's AI image generator allows users to create images for free, leveraging AI technology for creative purposes. This tool can be used for various applications, including gaming and visual design. The accessibility of such a tool can democratize image creation.",
+            "whyItMatters": "The availability of free AI image generation tools can significantly impact the gaming and visual design industries by providing easy access to high-quality images. This can be particularly beneficial for indie game developers and small studios with limited budgets.",
+            "howToUse": "Users can utilize Synthesia's AI image generator by accessing the tool on their website and following the prompts to create their desired images. This can be a valuable resource for those looking to integrate AI-generated images into their projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Designers",
+                "Indie Studios"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-t0j3hcdhm",
+            "title": "AI Video SOP",
+            "subtitle": "Creating video standard operating procedures with AI tools",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video SOP",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVEpiRmExRmdSY2xsdTJLOEVQWWtzN1ZlZHdGVjBGMTV2Ynp0OU9mZGpzaXJ2YlBnblhjR3dsUnhtaGZhOWtVUGE4OXJkd3lD?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "The use of AI in creating video standard operating procedures (SOPs) is becoming more prevalent, with tools like Synthesia offering solutions. This trend is expected to continue as more businesses adopt AI-powered video creation. AI-driven video SOPs can streamline video production and improve consistency.",
+            "whyItMatters": "The ability to create video SOPs with AI can significantly reduce production time and costs, making it an important development for businesses and creators. This technology can also enhance the quality and uniformity of video content.",
+            "howToUse": "To leverage AI for video SOP creation, identify your specific needs and explore tools like Synthesia that offer AI-powered video production capabilities. Start by simplifying your video production process and then integrate AI tools to automate and enhance your workflow.",
+            "beneficiaries": [
+                "Content Creators",
+                "Business Owners"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-w9h5bzhi1",
             "title": "AniMayhem Update",
@@ -49,7 +174,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vhswpcktp",
@@ -4580,7 +4705,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": null
         },
         {
@@ -4599,7 +4724,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4608,7 +4733,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4617,7 +4742,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": "Regulatory updates"
         },
         {
@@ -4635,7 +4760,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4644,7 +4769,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4664,7 +4789,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4722,7 +4847,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4731,18 +4856,17 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T10:48:50.924Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": "Style browsing signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-03T02:38:47.439Z",
+            "note": "Style browsing signal"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -4776,21 +4900,19 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-03T02:38:47.439Z",
+            "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-04-30T20:59:52.261Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-03T02:38:47.439Z",
+            "note": null
         },
         {
             "name": "HeyGen",
@@ -4872,7 +4994,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-02T23:39:44.999Z",
+            "lastScan": "2026-05-03T02:38:47.439Z",
             "note": null
         },
         {
