@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-03T08:01:00.342Z",
+        "scanDate": "2026-05-03T10:01:55.660Z",
         "version": "2.5.0",
-        "totalTrends": 151,
+        "totalTrends": 152,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-8sb2t8q49",
+            "title": "AI Video Generator",
+            "subtitle": "OpenArt introduces Smart Shot, a multi-cut cinematic AI video generator",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Cinematic AI",
+                "Video Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FLWs3Vkc3UHlDX2xYMWQwWnlLdkdnd1lQWkhFYjhDem1fV1RodzdxSjZvYmttXzkyOFZ0N0VjQlljd3ZXakZyTDBRNl9sMEh1?oc=5",
+                "date": "2026-04-27T09:07:30.000Z"
+            },
+            "whatsNew": "OpenArt's Smart Shot is a new AI-powered video generator that can create multi-cut cinematic videos. This tool leverages AI to automate video production, making it easier to generate high-quality video content. The introduction of Smart Shot marks a significant advancement in AI video generation technology.",
+            "whyItMatters": "The Smart Shot AI video generator has the potential to revolutionize the video production industry by reducing production time and costs. It also enables creators to focus on high-level creative decisions rather than manual video editing tasks.",
+            "howToUse": "Content creators can utilize Smart Shot to generate cinematic videos for various applications, such as social media, advertising, or entertainment. By providing the AI tool with input parameters, users can produce customized video content that meets their specific needs.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-w2id6q0y0",
             "title": "LTX Video Workflows",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6oan5j4y1",
@@ -4894,7 +4925,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": null
         },
         {
@@ -4913,7 +4944,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4922,7 +4953,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4931,7 +4962,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "Regulatory updates"
         },
         {
@@ -4949,7 +4980,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4958,7 +4989,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4978,7 +5009,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5036,7 +5067,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5045,7 +5076,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5054,7 +5085,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T05:56:52.346Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": "Style browsing signal"
         },
         {
@@ -5091,7 +5122,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T05:56:52.346Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": null
         },
         {
@@ -5100,7 +5131,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-03T05:56:52.346Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": null
         },
         {
@@ -5183,7 +5214,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T08:01:00.342Z",
+            "lastScan": "2026-05-03T10:01:55.660Z",
             "note": null
         },
         {
