@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-03T02:38:47.439Z",
+        "scanDate": "2026-05-03T05:56:52.346Z",
         "version": "2.5.0",
-        "totalTrends": 145,
+        "totalTrends": 150,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,163 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6oan5j4y1",
+            "title": "Prediction Market",
+            "subtitle": "A create-your-own prediction market startup has secured $6m in seed funding",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Market",
+                "Funding",
+                "Startup"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3htbnFZbkRJRXlJeVNyTkp5TzhabXBwbVR3QlVoZG1uQ0hYTDYxR1F0b1lYSVNZVkh0NkdodjNfWTEzLUxWQ1N3YTBUUDhreEthcldMSUFKaWttVVdvcTZRUVduYUYwM0VCTV9HV1N4OHVkNllZdkthUlp4Vm82T0d3UEhlZVRjNmtQUF9pVW5hWEIyVnBNNUV1NVViOXBfdWYwRQ?oc=5",
+                "date": "2026-05-01T13:09:30.000Z"
+            },
+            "whatsNew": "A startup allowing users to create their own prediction markets has received significant funding, indicating growing interest in customizable betting experiences. This investment could lead to further innovation in the online betting sector. The funding will likely be used to expand the platform's capabilities and user base.",
+            "whyItMatters": "This development could significantly impact the iGaming industry by providing more personalized betting options for users, potentially increasing engagement and revenue for operators. It also highlights the growing importance of adaptable and user-centric platforms in the betting market.",
+            "howToUse": "Operators can leverage this trend by integrating customizable prediction markets into their platforms, enhancing user experience and attracting a wider audience. Developers can explore creating similar platforms or features, focusing on user customization and real-time data analytics.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Enthusiasts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-5e2gmp6rw",
+            "title": "ERNIE RedMIX",
+            "subtitle": "Civitai introduces ERNIE RedMIX, a checkpoint for AI models",
+            "category": "AI",
+            "tags": [
+                "ERNIE",
+                "RedMIX",
+                "Civitai",
+                "AI Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qRmVPc05TNk44MFpZLU0zSEZxYVBBYTVEQndYX1BrNXdXSTFua0U0RHFZc19SWTF4QXFSbkM5czhhWUxwbDc2ZTdsRnRiY1VHcEJYb0djal8?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released ERNIE RedMIX, a new checkpoint for AI models. This checkpoint is part of the RedCraft project. The introduction of ERNIE RedMIX indicates advancements in AI model development.",
+            "whyItMatters": "ERNIE RedMIX has the potential to improve AI model performance and efficiency. This could lead to breakthroughs in AI-powered applications and tools.",
+            "howToUse": "Developers can utilize ERNIE RedMIX by integrating it into their AI models to enhance performance and explore new capabilities.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-c0v97hquq",
+            "title": "GonzaLomo AI Update",
+            "subtitle": "Civitai releases GonzaLomo XL/Flux/Pony v3.0 Flux D AIO with Flux.1 Checkpoint",
+            "category": "AI",
+            "tags": [
+                "AI Update",
+                "Civitai",
+                "GonzaLomo"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJa1lYb3Bka1ZreERRLVNSSm1ybUhRY2ZBOEVkelZQenpsQ1YzcElvVU5iaHYyX2M4eWNCNmNaWTFSMlFHWTlxSlA1c0hjd0VJZUVFVkpHcGVMcFRjbDRJSFNxemsxUQ?oc=5",
+                "date": "2026-04-26T07:00:00.000Z"
+            },
+            "whatsNew": "The latest version of GonzaLomo XL/Flux/Pony, v3.0 Flux D AIO, has been released with a Flux.1 Checkpoint. This update is part of Civitai's ongoing efforts to improve AI capabilities. The new checkpoint is expected to enhance performance and functionality.",
+            "whyItMatters": "This update matters because it showcases the continuous development and improvement of AI tools, which can have significant impacts on various industries, including gaming and art. The advancements in AI technology can lead to more sophisticated and realistic experiences.",
+            "howToUse": "Developers and artists can utilize this updated version to create more complex and detailed AI-generated content, such as images, videos, or even game assets. By leveraging the enhanced capabilities of GonzaLomo XL/Flux/Pony, users can push the boundaries of what is possible with AI-assisted creative work.",
+            "beneficiaries": [
+                "AI Developers",
+                "Game Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-wzlp9t6kk",
+            "title": "Midjourney Prompts",
+            "subtitle": "Empty Midjourney prompts for creative work",
+            "category": "AI",
+            "tags": [
+                "Midjourney",
+                "AI Prompts",
+                "Creative Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Cb1FrQXBYX0VuNWh3azlPTHVtN1NnV0xzNU5UY1JrS24wX0Y1ajRmSDVRSVEtbGxlY2lneVNuNUR3QWticndVNkZzYUJpZ1F2MXpEMDk5SFVHOTJ3djE3Nmd5OUI?oc=5",
+                "date": "2026-04-23T18:03:33.000Z"
+            },
+            "whatsNew": "The article discusses the best empty Midjourney prompts, which can be used for AI art generation and other creative tasks. These prompts can help users get started with Midjourney and explore its capabilities. The prompts are empty, meaning they can be filled with user-specific details to generate unique results.",
+            "whyItMatters": "The use of effective prompts is crucial in AI art generation, as it can significantly impact the quality and relevance of the generated output. By using the best empty Midjourney prompts, users can unlock the full potential of the tool and create high-quality art and designs.",
+            "howToUse": "To use these prompts, simply fill in the empty fields with your desired details and input them into Midjourney. This will generate a unique output based on your specifications. Experiment with different prompts and inputs to achieve the desired results.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Midjourney"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-04j0row8d",
+            "title": "Rethinking AI Art",
+            "subtitle": "OpenArt challenges common misconceptions about AI-generated art",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "OpenArt",
+                "Creative Tech"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RUTZtd3dGM0JNVGZvd1owYnlxMTY1SHROSDhGX2I2azNPdEtvaEpZOFlfMm15b3dPR0trOGpOelg2TnR1QlE?oc=5",
+                "date": "2026-04-24T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt's recent article highlights the need to reassess our understanding of AI art, emphasizing the importance of clarity in terminology and the role of human creativity. The piece sparks a necessary conversation about the intersection of technology and art. It encourages readers to think critically about the implications of AI on the art world.",
+            "whyItMatters": "This discussion matters because it influences how we perceive and interact with AI-generated content, impacting both the art and tech industries. It also raises questions about authorship and the future of creative work.",
+            "howToUse": "To navigate this evolving landscape, artists and technologists should engage in open dialogue, focusing on collaboration and the ethical development of AI tools. By doing so, they can harness the potential of AI to enhance, rather than replace, human creativity.",
+            "beneficiaries": [
+                "Artists",
+                "Technologists",
+                "Art Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-6n3vxbnh1",
             "title": "AI Photo Restoration",
@@ -49,7 +206,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p38wkoq8z",
@@ -80,7 +237,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-78nrjtc3b",
@@ -112,7 +269,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-t0j3hcdhm",
@@ -143,7 +300,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w9h5bzhi1",
@@ -4705,7 +4862,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": null
         },
         {
@@ -4724,7 +4881,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4733,7 +4890,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4742,7 +4899,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "Regulatory updates"
         },
         {
@@ -4760,7 +4917,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4769,7 +4926,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4789,7 +4946,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4847,7 +5004,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4856,7 +5013,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4865,7 +5022,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": "Style browsing signal"
         },
         {
@@ -4902,7 +5059,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": null
         },
         {
@@ -4911,7 +5068,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": null
         },
         {
@@ -4994,7 +5151,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-03T02:38:47.439Z",
+            "lastScan": "2026-05-03T05:56:52.346Z",
             "note": null
         },
         {
