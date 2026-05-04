@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-04T02:36:50.342Z",
+        "scanDate": "2026-05-04T06:10:05.153Z",
         "version": "2.5.0",
         "totalTrends": 155,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ryxjyntpf",
+            "title": "AI Art Remix",
+            "subtitle": "Civitai releases Duel_ILL_AniReal - EdgePaint_Remix, an AI-generated art piece",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "EdgePaint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uMWF0em5hSEwxQjVsSHU0cW5oVFVKWWNURTJEdFJqaFkwV01XVEg0WGI1UXpzSncxQ05xSGtJRUxKclBfR2NjdjhlSi1TSGpPcGFfc1JJbEpMUm55dEE?oc=5",
+                "date": "2026-04-23T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's latest release, Duel_ILL_AniReal - EdgePaint_Remix, showcases the capabilities of AI in generating unique art pieces. The remix combines different styles to create a distinctive visual effect. This demonstrates the evolving role of AI in artistic creation.",
+            "whyItMatters": "The ability of AI to generate and remix art has significant implications for the creative industry, enabling new forms of artistic expression and collaboration. This development can inspire game developers and artists to explore AI-generated content in their work.",
+            "howToUse": "Artists and game developers can utilize AI tools like those provided by Civitai to generate unique art pieces or integrate AI-generated elements into their projects, enhancing visual design and creativity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-pnfwdrhgt",
             "title": "HeyGen Avatars",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o6bfcjhw6",
@@ -4831,37 +4862,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-lpw7qn6y8",
-            "title": "Curated Content Ecosystems",
-            "subtitle": "Operators are moving beyond aggregators to refine player retention with curated content ecosystems",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "player retention",
-                "curated content"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/how-curated-content-ecosystems-are-refining-player-retention/",
-                "date": "2026-04-20T06:00:00.000Z"
-            },
-            "whatsNew": "The Dual-Layered Lobby approach combines global scale with boutique, emotion-driven content to differentiate operators and combat player fatigue. This strategy moves beyond traditional aggregation methods, focusing on curated content ecosystems to enhance player experience.",
-            "whyItMatters": "The shift towards curated content ecosystems can significantly impact player retention and operator growth in the iGaming industry, as it addresses the issue of content fatigue and provides a more personalized experience. This approach can help operators stand out in a competitive market.",
-            "howToUse": "Operators can implement curated content ecosystems by adopting a Dual-Layered Lobby approach, combining global scale with precision-driven, boutique content that resonates with players on an emotional level.",
-            "beneficiaries": [
-                "iGaming operators",
-                "game developers"
-            ],
-            "companies": [
-                "VeliGames"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -5018,7 +5018,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": null
         },
         {
@@ -5037,7 +5037,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -5046,7 +5046,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -5055,7 +5055,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "Regulatory updates"
         },
         {
@@ -5073,7 +5073,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "EU regulatory insights"
         },
         {
@@ -5082,7 +5082,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -5102,7 +5102,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5160,7 +5160,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5169,7 +5169,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5178,7 +5178,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": "Style browsing signal"
         },
         {
@@ -5215,7 +5215,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": null
         },
         {
@@ -5224,7 +5224,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": null
         },
         {
@@ -5233,7 +5233,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": null
         },
         {
@@ -5306,7 +5306,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T02:36:50.342Z",
+            "lastScan": "2026-05-04T06:10:05.153Z",
             "note": null
         },
         {
@@ -21614,6 +21614,37 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-lpw7qn6y8",
+            "title": "Curated Content Ecosystems",
+            "subtitle": "Operators are moving beyond aggregators to refine player retention with curated content ecosystems",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "player retention",
+                "curated content"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/how-curated-content-ecosystems-are-refining-player-retention/",
+                "date": "2026-04-20T06:00:00.000Z"
+            },
+            "whatsNew": "The Dual-Layered Lobby approach combines global scale with boutique, emotion-driven content to differentiate operators and combat player fatigue. This strategy moves beyond traditional aggregation methods, focusing on curated content ecosystems to enhance player experience.",
+            "whyItMatters": "The shift towards curated content ecosystems can significantly impact player retention and operator growth in the iGaming industry, as it addresses the issue of content fatigue and provides a more personalized experience. This approach can help operators stand out in a competitive market.",
+            "howToUse": "Operators can implement curated content ecosystems by adopting a Dual-Layered Lobby approach, combining global scale with precision-driven, boutique content that resonates with players on an emotional level.",
+            "beneficiaries": [
+                "iGaming operators",
+                "game developers"
+            ],
+            "companies": [
+                "VeliGames"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
