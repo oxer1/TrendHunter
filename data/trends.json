@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-04T09:15:52.575Z",
+        "scanDate": "2026-05-04T11:46:11.820Z",
         "version": "2.5.0",
-        "totalTrends": 151,
+        "totalTrends": 148,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ay5yzk6qz",
+            "title": "Pony Diffusion V6",
+            "subtitle": "New Pony Diffusion checkpoint released on Civitai",
+            "category": "AI",
+            "tags": [
+                "Pony Diffusion",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PTFFCcHVqQTNkNG10X2pvSHZ0N2dGSlREbXJERi05QkFlY2NaVW00MmRXUjlNWDROZHhsMmM4c3dqZ3I5eHp5Q1JTM0lvcDlXdUROeE5Ba2Y4djMxVzV1bnNkYkI?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Pony Diffusion V6 XL is a new checkpoint for generating art, available on Civitai. This update indicates ongoing development in AI art generation. The V6 model is highlighted as a starting point, suggesting it may offer improved performance or features.",
+            "whyItMatters": "The release of Pony Diffusion V6 XL demonstrates the rapid advancement in AI art generation capabilities, offering users more powerful tools for creative work. This can impact the visual design trends in various industries, including gaming and digital art.",
+            "howToUse": "Artists and developers can utilize Pony Diffusion V6 XL by accessing it through Civitai, integrating it into their workflows to generate high-quality, unique art pieces. Experimenting with different prompts and settings can help unlock its full potential.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ryxjyntpf",
             "title": "AI Art Remix",
@@ -3933,35 +3964,6 @@
             "isNew": false
         },
         {
-            "id": "t-hyvw06w6q",
-            "title": "BAFTA Indie Game Snub",
-            "subtitle": "BAFTA pulls indie game trailer from awards ceremony, citing guest wellbeing",
-            "category": "Community",
-            "tags": [
-                "BAFTA",
-                "Indie Games",
-                "Awards Ceremony"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/-i-was-ignored-bafta-criticised-after-pulling-indie-game-trailer-from-awards-ceremony",
-                "date": "2026-04-20T10:20:49.000Z"
-            },
-            "whatsNew": "BAFTA pulled a trailer for The Quiet Things, an upcoming narrative title, from its awards ceremony. The decision was made to prioritize guest wellbeing. The move has been criticized by the indie game community.",
-            "whyItMatters": "The incident highlights the challenges indie game developers face in getting recognition for their work. It also raises questions about the role of awards ceremonies in promoting diversity and inclusivity in the gaming industry.",
-            "howToUse": "Indie game developers can use this incident as a reminder to seek out alternative platforms and communities to showcase their work. They can also engage with gaming organizations to advocate for greater inclusivity and recognition.",
-            "beneficiaries": [
-                "Indie Game Developers",
-                "Gaming Community"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "community-ai-ethics",
-            "isNew": false
-        },
-        {
             "id": "t-arwkxuzvt",
             "title": "AI Live Dealer",
             "subtitle": "BetHog raises $10m for AI live dealer platform and launches Sentient Studios",
@@ -4520,38 +4522,6 @@
             "isNew": false
         },
         {
-            "id": "t-0xhzi5adt",
-            "title": "Bally's Revenue Growth",
-            "subtitle": "Bally's deal with Intralot drives 35% revenue growth in FY 2025",
-            "category": "iGaming",
-            "tags": [
-                "Intralot",
-                "Bally's",
-                "Revenue Growth"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/fy25-ballys-deal-drives-35pc-growth-intralot/",
-                "date": "2026-04-20T10:56:40.000Z"
-            },
-            "whatsNew": "Bally's merger with Intralot in Q4 led to a significant increase in revenue. The deal has positively impacted the company's financial performance.",
-            "whyItMatters": "The revenue growth indicates a successful integration of the two companies, potentially setting a precedent for future mergers in the iGaming industry.",
-            "howToUse": "Companies can consider strategic mergers to drive revenue growth and expand their market presence.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Bally's",
-                "Intralot"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-gmmhgl3tt",
             "title": "Pragmata Sales",
             "subtitle": "Capcom's new IP Pragmata tops 1 million sales in two days",
@@ -4671,69 +4641,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-19rez2xkz",
-            "title": "Bet365 US Expansion",
-            "subtitle": "Bet365 launches in Michigan, its 17th US state",
-            "category": "iGaming",
-            "tags": [
-                "Bet365",
-                "US Expansion",
-                "Michigan"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/betting/bet365-continues-us-expansion-michigan-launch/",
-                "date": "2026-04-20T10:38:21.000Z"
-            },
-            "whatsNew": "Bet365 has launched in Michigan, marking its 17th US state. This expansion is part of the company's ongoing efforts to increase its presence in the US market.",
-            "whyItMatters": "The launch in Michigan demonstrates Bet365's commitment to expanding its US operations and increasing its market share. This move is likely to have a significant impact on the US iGaming industry.",
-            "howToUse": "Operators can learn from Bet365's strategic expansion into new US markets, while players in Michigan can now access Bet365's services.",
-            "beneficiaries": [
-                "iGaming operators",
-                "US players"
-            ],
-            "companies": [
-                "Bet365"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-9nq5yydy3",
-            "title": "Esports Betting Launch",
-            "subtitle": "JugaMax partners with Oddin.gg to integrate esports betting in Paraguay",
-            "category": "iGaming",
-            "tags": [
-                "esports betting",
-                "Paraguay",
-                "iFrame solution"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/jugamax-partners-with-oddin-gg-to-launch-esports-in-paraguay/",
-                "date": "2026-04-20T10:08:01.000Z"
-            },
-            "whatsNew": "JugaMax has partnered with Oddin.gg to launch esports betting in Paraguay, offering a comprehensive esports product with 24/7 eSims content. This deal expands JugaMax's content verticals in the country's regulated gaming market.",
-            "whyItMatters": "The partnership marks a significant expansion of JugaMax's offerings in Paraguay, tapping into the growing demand for esports betting. This move is expected to strengthen JugaMax's position in the country's gaming market.",
-            "howToUse": "Operators can leverage iFrame solutions like Oddin.gg's to integrate esports betting into their platforms, enhancing their product offerings and attracting new customers.",
-            "beneficiaries": [
-                "casino operators",
-                "esports enthusiasts"
-            ],
-            "companies": [
-                "JugaMax",
-                "Oddin.gg"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ],
@@ -4891,7 +4798,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": null
         },
         {
@@ -4910,7 +4817,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4919,7 +4826,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4928,7 +4835,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "Regulatory updates"
         },
         {
@@ -4946,7 +4853,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4955,7 +4862,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4975,7 +4882,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -5033,7 +4940,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -5042,7 +4949,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -5051,7 +4958,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": "Style browsing signal"
         },
         {
@@ -5088,7 +4995,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": null
         },
         {
@@ -5097,7 +5004,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": null
         },
         {
@@ -5179,7 +5086,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-04T11:46:11.820Z",
             "note": null
         },
         {
@@ -21642,6 +21549,130 @@
                 "Evoke",
                 "Bally's Intralot",
                 "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-hyvw06w6q",
+            "title": "BAFTA Indie Game Snub",
+            "subtitle": "BAFTA pulls indie game trailer from awards ceremony, citing guest wellbeing",
+            "category": "Community",
+            "tags": [
+                "BAFTA",
+                "Indie Games",
+                "Awards Ceremony"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/-i-was-ignored-bafta-criticised-after-pulling-indie-game-trailer-from-awards-ceremony",
+                "date": "2026-04-20T10:20:49.000Z"
+            },
+            "whatsNew": "BAFTA pulled a trailer for The Quiet Things, an upcoming narrative title, from its awards ceremony. The decision was made to prioritize guest wellbeing. The move has been criticized by the indie game community.",
+            "whyItMatters": "The incident highlights the challenges indie game developers face in getting recognition for their work. It also raises questions about the role of awards ceremonies in promoting diversity and inclusivity in the gaming industry.",
+            "howToUse": "Indie game developers can use this incident as a reminder to seek out alternative platforms and communities to showcase their work. They can also engage with gaming organizations to advocate for greater inclusivity and recognition.",
+            "beneficiaries": [
+                "Indie Game Developers",
+                "Gaming Community"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "community-ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-0xhzi5adt",
+            "title": "Bally's Revenue Growth",
+            "subtitle": "Bally's deal with Intralot drives 35% revenue growth in FY 2025",
+            "category": "iGaming",
+            "tags": [
+                "Intralot",
+                "Bally's",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/fy25-ballys-deal-drives-35pc-growth-intralot/",
+                "date": "2026-04-20T10:56:40.000Z"
+            },
+            "whatsNew": "Bally's merger with Intralot in Q4 led to a significant increase in revenue. The deal has positively impacted the company's financial performance.",
+            "whyItMatters": "The revenue growth indicates a successful integration of the two companies, potentially setting a precedent for future mergers in the iGaming industry.",
+            "howToUse": "Companies can consider strategic mergers to drive revenue growth and expand their market presence.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Bally's",
+                "Intralot"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-19rez2xkz",
+            "title": "Bet365 US Expansion",
+            "subtitle": "Bet365 launches in Michigan, its 17th US state",
+            "category": "iGaming",
+            "tags": [
+                "Bet365",
+                "US Expansion",
+                "Michigan"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/betting/bet365-continues-us-expansion-michigan-launch/",
+                "date": "2026-04-20T10:38:21.000Z"
+            },
+            "whatsNew": "Bet365 has launched in Michigan, marking its 17th US state. This expansion is part of the company's ongoing efforts to increase its presence in the US market.",
+            "whyItMatters": "The launch in Michigan demonstrates Bet365's commitment to expanding its US operations and increasing its market share. This move is likely to have a significant impact on the US iGaming industry.",
+            "howToUse": "Operators can learn from Bet365's strategic expansion into new US markets, while players in Michigan can now access Bet365's services.",
+            "beneficiaries": [
+                "iGaming operators",
+                "US players"
+            ],
+            "companies": [
+                "Bet365"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9nq5yydy3",
+            "title": "Esports Betting Launch",
+            "subtitle": "JugaMax partners with Oddin.gg to integrate esports betting in Paraguay",
+            "category": "iGaming",
+            "tags": [
+                "esports betting",
+                "Paraguay",
+                "iFrame solution"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/jugamax-partners-with-oddin-gg-to-launch-esports-in-paraguay/",
+                "date": "2026-04-20T10:08:01.000Z"
+            },
+            "whatsNew": "JugaMax has partnered with Oddin.gg to launch esports betting in Paraguay, offering a comprehensive esports product with 24/7 eSims content. This deal expands JugaMax's content verticals in the country's regulated gaming market.",
+            "whyItMatters": "The partnership marks a significant expansion of JugaMax's offerings in Paraguay, tapping into the growing demand for esports betting. This move is expected to strengthen JugaMax's position in the country's gaming market.",
+            "howToUse": "Operators can leverage iFrame solutions like Oddin.gg's to integrate esports betting into their platforms, enhancing their product offerings and attracting new customers.",
+            "beneficiaries": [
+                "casino operators",
+                "esports enthusiasts"
+            ],
+            "companies": [
+                "JugaMax",
+                "Oddin.gg"
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
