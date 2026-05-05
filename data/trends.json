@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T10:43:59.094Z",
+        "scanDate": "2026-05-05T11:59:16.163Z",
         "version": "2.5.0",
-        "totalTrends": 141,
+        "totalTrends": 138,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ikgn8p3fv",
+            "title": "FurryToonMix XL",
+            "subtitle": "Civitai releases FurryToonMix - XL-illustrious-V2, an illustrious checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "FurryToonMix"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtUU5EeWh4RzRaVUI5SGdVdXJqNVA2b0hSZGl1M01CbGNiQXVKRWhkaUpCcnlsSTFqdk4ya3RRMEYwYjBleEJwcFZ6RlRrMzlXZ1pQR2tOOU4?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's FurryToonMix - XL-illustrious-V2 is a new checkpoint for AI art generation, focusing on illustrious and detailed artwork. This release showcases advancements in AI-generated art. The checkpoint is designed to produce high-quality, stylized images.",
+            "whyItMatters": "This release demonstrates the growing capabilities of AI in art generation, potentially impacting the visual design trends in the gaming and art industries. It also highlights Civitai's contributions to the development of AI art tools.",
+            "howToUse": "Artists and developers can utilize this checkpoint to generate unique, detailed artworks, potentially integrating them into games, animations, or other visual projects. Experimenting with the checkpoint can help users understand its capabilities and limitations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-s9osv3z27",
             "title": "Games Global Hire",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mkswdo8cw",
@@ -81,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-c5z1g3pq8",
@@ -112,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2r6w64tqy",
@@ -143,7 +174,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-t40jcjm04",
@@ -3373,40 +3404,6 @@
             "isNew": false
         },
         {
-            "id": "t-egrvspplt",
-            "title": "Bally's Intralot CEO",
-            "subtitle": "Bally's Intralot CEO comments on evoke's international footprint",
-            "category": "iGaming",
-            "tags": [
-                "Bally's",
-                "Intralot",
-                "evoke",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEJFb3VxZkF2UU1WLTUtTWFVaVd4c01ZTTVjeENqdWp1ZG5DRWxQU25FUmpNa18yUVVvSFhxQm9nTkgwOHFOMmxwaEVBMk5IZzE3WGtscmFONVl5cWljR1Y1TVUtQjZpS1d3dzYzUWNXR1pQZ3E4ckpMTjVPNDNXQW1NWG1mMjZ0UkNhakdEV2tKMU9KeEhwam1rRlQ5S20yZzlSa0pLLXNpalgyMWxkUXN0eUZQQnRpNExF?oc=5",
-                "date": "2026-04-21T10:46:11.000Z"
-            },
-            "whatsNew": "Bally's Intralot CEO states that matching evoke's international footprint would take many years, indicating a significant challenge in expanding globally.",
-            "whyItMatters": "This statement highlights the complexity and time required for iGaming companies to establish a strong international presence, impacting their growth strategies.",
-            "howToUse": "iGaming companies should carefully plan and execute their international expansion strategies, considering the time and resources required to establish a strong footprint.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Industry analysts"
-            ],
-            "companies": [
-                "Bally's",
-                "Intralot",
-                "evoke"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ak3ibecji",
             "title": "NZ Online Casino",
             "subtitle": "New Zealand moves closer to regulating online casinos",
@@ -4183,100 +4180,6 @@
             "isNew": false
         },
         {
-            "id": "t-skoxx4jz0",
-            "title": "Caesars Acquisition",
-            "subtitle": "Caesars extends talks with Tilman Fertitta over $18bn acquisition",
-            "category": "iGaming",
-            "tags": [
-                "Mergers and Acquisitions",
-                "iGaming",
-                "Casinos"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/investment/caesars-extends-talks-fertitta-18bn-acquisition/",
-                "date": "2026-04-21T11:48:36.000Z"
-            },
-            "whatsNew": "Caesars has extended its exclusivity talks with billionaire Tilman Fertitta regarding a potential $18 billion acquisition. The prolonged talks indicate a serious consideration of the deal.",
-            "whyItMatters": "The potential acquisition could significantly impact the iGaming industry, leading to changes in market dynamics and competition. It may also influence the future of Caesars and its operations.",
-            "howToUse": "Industry stakeholders should monitor the developments closely, as the acquisition could lead to new opportunities or challenges. Companies should assess how the deal might affect their own operations and strategies.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Caesars",
-                "Fertitta Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-9243sf47g",
-            "title": "New Casino Tax",
-            "subtitle": "Scottish Greens propose land-based tax to support gambling harm reduction",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Tax",
-                "Scotland",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/scottish-greens-target-land-based-tax-fund-harm-support/",
-                "date": "2026-04-21T11:27:20.000Z"
-            },
-            "whatsNew": "The Scottish Greens have proposed a new tax on land-based casinos and betting shops to fund support for gambling-related harms. This move aims to address the social impacts of gambling. The tax is part of a broader strategy to mitigate gambling harms.",
-            "whyItMatters": "This proposed tax could significantly impact the iGaming industry, particularly land-based operators, and influence regulatory approaches to gambling in other regions. It reflects growing concerns about gambling harms and the need for sustainable funding for support services.",
-            "howToUse": "Operators should monitor regulatory developments and consider the potential financial implications of such taxes on their business models. They may also need to adapt their responsible gaming practices in response to evolving regulatory requirements.",
-            "beneficiaries": [
-                "Regulatory Bodies",
-                "Gambling Support Services"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-6giv0m4uc",
-            "title": "Endorphina Ontario License",
-            "subtitle": "Endorphina obtains Gaming-Related Supplier registration in Ontario, Canada",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "licensing",
-                "Ontario",
-                "Endorphina"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/endorphina-now-licensed-b2b-gaming-supplier-in-ontario/",
-                "date": "2026-04-21T11:02:15.000Z"
-            },
-            "whatsNew": "Endorphina Limited has obtained a Gaming-Related Supplier registration in Ontario, Canada, allowing it to supply gaming content to licensed operators. This registration is a key step in the company's expansion strategy in North America. The move strengthens Endorphina's presence in regulated markets globally.",
-            "whyItMatters": "The registration enhances Endorphina's global footprint and marks a significant step in its long-term expansion strategy. It also highlights the growing importance of regulated markets in the iGaming industry.",
-            "howToUse": "Operators in Ontario can now integrate Endorphina's certified online slot games into their platforms, while Endorphina can expand its customer base in the region.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Endorphina"
-            ],
-            "companies": [
-                "Endorphina Limited",
-                "Alcohol and Gaming Commission of Ontario"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-iqh2m2ibh",
             "title": "Kiln Game Dev",
             "subtitle": "Double Fine's Kiln balances fun with pottery sculpting, from game jam to full release",
@@ -4582,7 +4485,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": null
         },
         {
@@ -4601,7 +4504,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4610,7 +4513,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4619,7 +4522,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": "Regulatory updates"
         },
         {
@@ -4637,7 +4540,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4646,7 +4549,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4666,7 +4569,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4724,7 +4627,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4870,7 +4773,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T10:43:59.094Z",
+            "lastScan": "2026-05-05T11:59:16.163Z",
             "note": null
         },
         {
@@ -21925,6 +21828,134 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-egrvspplt",
+            "title": "Bally's Intralot CEO",
+            "subtitle": "Bally's Intralot CEO comments on evoke's international footprint",
+            "category": "iGaming",
+            "tags": [
+                "Bally's",
+                "Intralot",
+                "evoke",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEJFb3VxZkF2UU1WLTUtTWFVaVd4c01ZTTVjeENqdWp1ZG5DRWxQU25FUmpNa18yUVVvSFhxQm9nTkgwOHFOMmxwaEVBMk5IZzE3WGtscmFONVl5cWljR1Y1TVUtQjZpS1d3dzYzUWNXR1pQZ3E4ckpMTjVPNDNXQW1NWG1mMjZ0UkNhakdEV2tKMU9KeEhwam1rRlQ5S20yZzlSa0pLLXNpalgyMWxkUXN0eUZQQnRpNExF?oc=5",
+                "date": "2026-04-21T10:46:11.000Z"
+            },
+            "whatsNew": "Bally's Intralot CEO states that matching evoke's international footprint would take many years, indicating a significant challenge in expanding globally.",
+            "whyItMatters": "This statement highlights the complexity and time required for iGaming companies to establish a strong international presence, impacting their growth strategies.",
+            "howToUse": "iGaming companies should carefully plan and execute their international expansion strategies, considering the time and resources required to establish a strong footprint.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Industry analysts"
+            ],
+            "companies": [
+                "Bally's",
+                "Intralot",
+                "evoke"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-skoxx4jz0",
+            "title": "Caesars Acquisition",
+            "subtitle": "Caesars extends talks with Tilman Fertitta over $18bn acquisition",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "iGaming",
+                "Casinos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/caesars-extends-talks-fertitta-18bn-acquisition/",
+                "date": "2026-04-21T11:48:36.000Z"
+            },
+            "whatsNew": "Caesars has extended its exclusivity talks with billionaire Tilman Fertitta regarding a potential $18 billion acquisition. The prolonged talks indicate a serious consideration of the deal.",
+            "whyItMatters": "The potential acquisition could significantly impact the iGaming industry, leading to changes in market dynamics and competition. It may also influence the future of Caesars and its operations.",
+            "howToUse": "Industry stakeholders should monitor the developments closely, as the acquisition could lead to new opportunities or challenges. Companies should assess how the deal might affect their own operations and strategies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Caesars",
+                "Fertitta Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9243sf47g",
+            "title": "New Casino Tax",
+            "subtitle": "Scottish Greens propose land-based tax to support gambling harm reduction",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Tax",
+                "Scotland",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/scottish-greens-target-land-based-tax-fund-harm-support/",
+                "date": "2026-04-21T11:27:20.000Z"
+            },
+            "whatsNew": "The Scottish Greens have proposed a new tax on land-based casinos and betting shops to fund support for gambling-related harms. This move aims to address the social impacts of gambling. The tax is part of a broader strategy to mitigate gambling harms.",
+            "whyItMatters": "This proposed tax could significantly impact the iGaming industry, particularly land-based operators, and influence regulatory approaches to gambling in other regions. It reflects growing concerns about gambling harms and the need for sustainable funding for support services.",
+            "howToUse": "Operators should monitor regulatory developments and consider the potential financial implications of such taxes on their business models. They may also need to adapt their responsible gaming practices in response to evolving regulatory requirements.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Gambling Support Services"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-6giv0m4uc",
+            "title": "Endorphina Ontario License",
+            "subtitle": "Endorphina obtains Gaming-Related Supplier registration in Ontario, Canada",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "licensing",
+                "Ontario",
+                "Endorphina"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/endorphina-now-licensed-b2b-gaming-supplier-in-ontario/",
+                "date": "2026-04-21T11:02:15.000Z"
+            },
+            "whatsNew": "Endorphina Limited has obtained a Gaming-Related Supplier registration in Ontario, Canada, allowing it to supply gaming content to licensed operators. This registration is a key step in the company's expansion strategy in North America. The move strengthens Endorphina's presence in regulated markets globally.",
+            "whyItMatters": "The registration enhances Endorphina's global footprint and marks a significant step in its long-term expansion strategy. It also highlights the growing importance of regulated markets in the iGaming industry.",
+            "howToUse": "Operators in Ontario can now integrate Endorphina's certified online slot games into their platforms, while Endorphina can expand its customer base in the region.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Endorphina"
+            ],
+            "companies": [
+                "Endorphina Limited",
+                "Alcohol and Gaming Commission of Ontario"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
