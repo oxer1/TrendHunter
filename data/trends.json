@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T18:08:31.677Z",
+        "scanDate": "2026-05-05T20:05:30.226Z",
         "version": "2.5.0",
         "totalTrends": 136,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dyc229pz2",
+            "title": "AI Art Model",
+            "subtitle": "Illustrious releases v5.0 of their pony realistic model using NoobAI on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Model Updates",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBYXJYcTFFYjRhV3ZIZzRFOXZjRkJxSUxTcWNUTVVPOXVlX3hsd19lZXdEVWNZeE0wOHBTZm9kSFgzWDc0clB3dHJGbVNqMjhSaTl2TUZWVEhVSGZOVHVLZlFSaXdmMENlZ3ZXeVVzQURPeGoxY2tydXNB?oc=5",
+                "date": "2026-04-26T07:00:00.000Z"
+            },
+            "whatsNew": "The v5.0 update of the Illustrious pony realistic model is now available, showcasing advancements in AI-generated art. This model utilizes NoobAI, highlighting the growing integration of AI in art creation. The update is hosted on Civitai, a platform known for AI model sharing.",
+            "whyItMatters": "This update demonstrates the rapid evolution of AI art generation capabilities, potentially impacting the visual design trends in various industries, including gaming and animation. It also underscores the importance of platforms like Civitai in facilitating the development and sharing of AI models.",
+            "howToUse": "Artists and developers can utilize this model for generating realistic pony characters, exploring its potential for custom art projects or integrating it into larger creative works. The model's availability on Civitai makes it accessible for those looking to experiment with AI art generation.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-mo3ez8opu",
             "title": "LTX Video Update",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4mc00wg0u",
@@ -4242,37 +4273,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-iqh2m2ibh",
-            "title": "Kiln Game Dev",
-            "subtitle": "Double Fine's Kiln balances fun with pottery sculpting, from game jam to full release",
-            "category": "Tech",
-            "tags": [
-                "Game Development",
-                "Double Fine",
-                "Kiln"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/design/how-double-fine-balances-fun-with-pottery-sculpting-in-kiln",
-                "date": "2026-04-21T19:28:47.000Z"
-            },
-            "whatsNew": "Double Fine's Kiln started as a game jam prototype and evolved into a full game, focusing on balancing fun with pottery sculpting mechanics. The game's development involved refining the core concept and adding engaging features. Kiln's unique blend of creativity and gameplay is set to captivate players.",
-            "whyItMatters": "Kiln's development showcases the potential of game jam prototypes to become full-fledged games, highlighting the importance of iterative design and player feedback. The game's success could inspire other developers to explore similar creative projects.",
-            "howToUse": "Developers can apply Kiln's development approach by starting with simple, engaging prototypes and iteratively refining them based on player feedback, focusing on balancing fun with core mechanics.",
-            "beneficiaries": [
-                "Game Developers",
-                "Indie Game Studios"
-            ],
-            "companies": [
-                "Double Fine"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4429,7 +4429,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": null
         },
         {
@@ -4448,7 +4448,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4457,7 +4457,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4466,7 +4466,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": "Regulatory updates"
         },
         {
@@ -4484,7 +4484,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4493,7 +4493,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4513,7 +4513,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4571,7 +4571,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4717,7 +4717,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T18:08:31.677Z",
+            "lastScan": "2026-05-05T20:05:30.226Z",
             "note": null
         },
         {
@@ -22047,6 +22047,37 @@
                 "Gaming Industry"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-iqh2m2ibh",
+            "title": "Kiln Game Dev",
+            "subtitle": "Double Fine's Kiln balances fun with pottery sculpting, from game jam to full release",
+            "category": "Tech",
+            "tags": [
+                "Game Development",
+                "Double Fine",
+                "Kiln"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/design/how-double-fine-balances-fun-with-pottery-sculpting-in-kiln",
+                "date": "2026-04-21T19:28:47.000Z"
+            },
+            "whatsNew": "Double Fine's Kiln started as a game jam prototype and evolved into a full game, focusing on balancing fun with pottery sculpting mechanics. The game's development involved refining the core concept and adding engaging features. Kiln's unique blend of creativity and gameplay is set to captivate players.",
+            "whyItMatters": "Kiln's development showcases the potential of game jam prototypes to become full-fledged games, highlighting the importance of iterative design and player feedback. The game's success could inspire other developers to explore similar creative projects.",
+            "howToUse": "Developers can apply Kiln's development approach by starting with simple, engaging prototypes and iteratively refining them based on player feedback, focusing on balancing fun with core mechanics.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Double Fine"
+            ],
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
