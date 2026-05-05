@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T14:12:55.615Z",
+        "scanDate": "2026-05-05T16:22:33.470Z",
         "version": "2.5.0",
-        "totalTrends": 135,
+        "totalTrends": 136,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-4mc00wg0u",
+            "title": "BetMGM CMO Departs",
+            "subtitle": "BetMGM's chief marketing officer steps down after 18 months in the role.",
+            "category": "iGaming",
+            "tags": [
+                "BetMGM",
+                "Marketing",
+                "iGaming"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFU2Q0ZhSW4weTRybFVWLUczejJmMFpicnVyQVAteHZFZ2xwdmt4NThQdUpVWkZuLWpaMWhaMmRDUWgyLXlpSmlUSmZoN0xoV05SU3loT2YzTXRuSm54UGZMbjFJYXdoSzk1RXpPMHVvLU1aenJteG1GYlMzU0w4RFhrREJyNHVvU0JrakR1VjFJYUxveF9Z?oc=5",
+                "date": "2026-05-05T11:33:28.000Z"
+            },
+            "whatsNew": "The chief marketing officer of BetMGM has stepped down from their position after 18 months. This change may impact the company's marketing strategy and direction.",
+            "whyItMatters": "The departure of a key executive can influence a company's overall marketing approach and potentially impact its market position.",
+            "howToUse": "Companies in the iGaming sector should monitor such changes to anticipate shifts in the competitive landscape and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Marketing Professionals"
+            ],
+            "companies": [
+                "BetMGM"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-bnetyipqv",
+            "title": "MJ Style AI",
+            "subtitle": "Civitai releases MJ Style Distilled 206, a new AI model for art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "MJ Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdVpEUlZkS3hlMzBzVXBVdUc3OXlocDM0alBEUUhfQW1aMk05NnliWEJjdUYyUkxuTkhGMHlBM1RUcTUwSXRxMG5xaVJKd0dVZ25MRXhOd09SQVNIOVBJZTVNTUM4RlY0?oc=5",
+                "date": "2026-05-02T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced MJ Style Distilled 206, a novel AI model for generating art. This model utilizes the Flux.2 Klein LoRA architecture, indicating advancements in AI art generation capabilities.",
+            "whyItMatters": "The release of MJ Style Distilled 206 signifies the continuous evolution of AI in creative work, potentially impacting the visual design trends in gaming and art. It offers new possibilities for generating unique and stylized artwork.",
+            "howToUse": "Developers and artists can utilize MJ Style Distilled 206 for generating distinctive art styles, integrating it into their workflows for enhanced creativity and efficiency.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ikgn8p3fv",
             "title": "FurryToonMix XL",
@@ -4209,37 +4271,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-lb10kt150",
-            "title": "Live Table Games",
-            "subtitle": "Resorts World New York to launch live table games, the first of the state's newly licensed downstate casinos to do so",
-            "category": "iGaming",
-            "tags": [
-                "Live Table Games",
-                "Resorts World New York",
-                "Downstate Casinos"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/casino/resorts-world-new-york-launch-table-games/",
-                "date": "2026-04-21T15:04:51.000Z"
-            },
-            "whatsNew": "Resorts World New York City is set to launch live table games, marking a significant development in the state's gaming industry. This move makes it the first of the three newly licensed downstate casinos to offer live table games. The launch is scheduled for next week.",
-            "whyItMatters": "The introduction of live table games at Resorts World New York is expected to enhance the gaming experience for patrons and potentially increase revenue for the casino. This development could also set a precedent for other casinos in the region.",
-            "howToUse": "Casinos can take note of this trend to stay competitive by considering the addition of live table games to their offerings. This can help attract a wider audience and increase customer engagement.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Gamers"
-            ],
-            "companies": [
-                "Resorts World New York"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4396,7 +4427,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": null
         },
         {
@@ -4415,7 +4446,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4424,7 +4455,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4433,7 +4464,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": "Regulatory updates"
         },
         {
@@ -4451,7 +4482,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4460,7 +4491,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4480,7 +4511,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4538,7 +4569,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4684,7 +4715,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T14:12:55.615Z",
+            "lastScan": "2026-05-05T16:22:33.470Z",
             "note": null
         },
         {
@@ -21956,6 +21987,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-lb10kt150",
+            "title": "Live Table Games",
+            "subtitle": "Resorts World New York to launch live table games, the first of the state's newly licensed downstate casinos to do so",
+            "category": "iGaming",
+            "tags": [
+                "Live Table Games",
+                "Resorts World New York",
+                "Downstate Casinos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/casino/resorts-world-new-york-launch-table-games/",
+                "date": "2026-04-21T15:04:51.000Z"
+            },
+            "whatsNew": "Resorts World New York City is set to launch live table games, marking a significant development in the state's gaming industry. This move makes it the first of the three newly licensed downstate casinos to offer live table games. The launch is scheduled for next week.",
+            "whyItMatters": "The introduction of live table games at Resorts World New York is expected to enhance the gaming experience for patrons and potentially increase revenue for the casino. This development could also set a precedent for other casinos in the region.",
+            "howToUse": "Casinos can take note of this trend to stay competitive by considering the addition of live table games to their offerings. This can help attract a wider audience and increase customer engagement.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "Resorts World New York"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
