@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-04T23:52:32.124Z",
+        "scanDate": "2026-05-05T02:30:46.113Z",
         "version": "2.5.0",
-        "totalTrends": 147,
+        "totalTrends": 146,
         "categories": [
             "iGaming",
             "AI",
@@ -4582,37 +4582,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-42mep06it",
-            "title": "AI Demographics",
-            "subtitle": "Grounding AI agents in real demographics using synthetic personas",
-            "category": "AI",
-            "tags": [
-                "AI Agents",
-                "Synthetic Personas",
-                "Demographics"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-                "date": "2026-04-21T00:40:10.000Z"
-            },
-            "whatsNew": "The article discusses a novel approach to grounding AI agents in real demographics using synthetic personas, allowing for more realistic and diverse AI interactions. This method involves creating artificial personas based on real demographic data to train AI agents. The technique has potential applications in various fields, including gaming and simulation.",
-            "whyItMatters": "This approach can significantly improve the realism and diversity of AI interactions, making it a crucial development for industries that rely on AI agents, such as gaming and simulation. It also raises important questions about the ethics of using synthetic personas and the potential impact on AI development.",
-            "howToUse": "Developers can utilize this technique by integrating synthetic personas into their AI training data, allowing for more nuanced and realistic AI interactions. This can be particularly useful in games or simulations that require diverse and realistic character interactions.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4769,7 +4738,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": null
         },
         {
@@ -4788,7 +4757,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4797,7 +4766,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4806,7 +4775,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "Regulatory updates"
         },
         {
@@ -4824,7 +4793,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4833,7 +4802,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4853,7 +4822,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4911,7 +4880,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.124Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4920,7 +4889,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T22:55:40.055Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4929,7 +4898,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T22:55:40.055Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": "Style browsing signal"
         },
         {
@@ -4966,7 +4935,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T22:55:40.055Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": null
         },
         {
@@ -4975,7 +4944,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-04T22:55:40.055Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": null
         },
         {
@@ -4984,7 +4953,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-04T09:15:52.575Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": null
         },
         {
@@ -5057,7 +5026,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-04T23:52:32.125Z",
+            "lastScan": "2026-05-05T02:30:46.113Z",
             "note": null
         },
         {
@@ -21769,6 +21738,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-42mep06it",
+            "title": "AI Demographics",
+            "subtitle": "Grounding AI agents in real demographics using synthetic personas",
+            "category": "AI",
+            "tags": [
+                "AI Agents",
+                "Synthetic Personas",
+                "Demographics"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+                "date": "2026-04-21T00:40:10.000Z"
+            },
+            "whatsNew": "The article discusses a novel approach to grounding AI agents in real demographics using synthetic personas, allowing for more realistic and diverse AI interactions. This method involves creating artificial personas based on real demographic data to train AI agents. The technique has potential applications in various fields, including gaming and simulation.",
+            "whyItMatters": "This approach can significantly improve the realism and diversity of AI interactions, making it a crucial development for industries that rely on AI agents, such as gaming and simulation. It also raises important questions about the ethics of using synthetic personas and the potential impact on AI development.",
+            "howToUse": "Developers can utilize this technique by integrating synthetic personas into their AI training data, allowing for more nuanced and realistic AI interactions. This can be particularly useful in games or simulations that require diverse and realistic character interactions.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
