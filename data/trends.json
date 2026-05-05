@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T11:59:16.163Z",
+        "scanDate": "2026-05-05T14:12:55.615Z",
         "version": "2.5.0",
-        "totalTrends": 138,
+        "totalTrends": 135,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s9osv3z27",
@@ -2778,35 +2778,6 @@
             "isNew": false
         },
         {
-            "id": "t-w6us1e2y3",
-            "title": "Gambling Budget",
-            "subtitle": "UK Gambling Commission releases business plan and budget for 2026-2027",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Regulation",
-                "Budget"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjh1aWR3Q2xhR1FkMFZ1YkFfRlBKOVl5RldNUUJZVmxIbkREVkdNc0RrUFlsc0RpOFVhNEQ1cnp5MnM5ZG9UNnRRd2x2cWRhckdvV3JQdTl3cmEwTW9CSEFuNG9QVFFCVWlfb3Z5Z3Q1bEoyUlN4eWxvWkxVRGJseHZCVFhVZEJRNE84alV4bC1sSXk5?oc=5",
-                "date": "2026-04-21T12:35:03.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has published its business plan and budget for the period of 2026 to 2027, outlining its priorities and financial allocations. This plan is expected to shape the regulatory landscape of the iGaming industry in the UK. The budget will likely impact operators and consumers alike.",
-            "whyItMatters": "The business plan and budget will have significant implications for the iGaming industry, influencing regulatory compliance, licensing, and consumer protection. It may also impact the overall growth and development of the sector.",
-            "howToUse": "Operators should review the plan to understand upcoming regulatory changes and allocate resources accordingly. Consumers should be aware of how these changes may affect their gaming experiences.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-l87lb56t5",
             "title": "Racing Rejects Coral",
             "subtitle": "British Racing rejects Coral's ABP offer, reported by EGR North America",
@@ -4211,37 +4182,6 @@
             "isNew": false
         },
         {
-            "id": "t-wlpjxcnz9",
-            "title": "Sanrio Games",
-            "subtitle": "Sanrio launches self-publishing label to release new titles",
-            "category": "Tech",
-            "tags": [
-                "Sanrio",
-                "Self-Publishing",
-                "Gaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/sanrio-launches-self-publishing-label-sanrio-games",
-                "date": "2026-04-21T14:00:40.000Z"
-            },
-            "whatsNew": "Sanrio is launching a self-publishing label called Sanrio Games, aiming to release approximately 10 titles over the next three years. This move marks a new direction for the company, known for its popular characters like Hello Kitty. The label will focus on developing and publishing its own games.",
-            "whyItMatters": "Sanrio's entry into self-publishing could lead to more innovative and character-driven games, potentially expanding the company's reach in the gaming market. This move may also inspire other character-based companies to explore self-publishing options.",
-            "howToUse": "Game developers and publishers can take note of Sanrio's strategy and consider self-publishing as a viable option for their own titles, especially those with strong character IPs.",
-            "beneficiaries": [
-                "Game Developers",
-                "Publishers"
-            ],
-            "companies": [
-                "Sanrio"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-jqiqz4ux1",
             "title": "Windrose Sales",
             "subtitle": "Windrose surpasses 1M sales within a week with 200,000 concurrent players",
@@ -4268,35 +4208,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-j9q07nup9",
-            "title": "Romania Funding",
-            "subtitle": "Romania regulator launches €5m funding round for gambling harm prevention projects",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Gambling Harm",
-                "Romania"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/romania-regulator-5m-funding-round-harm-prevention/",
-                "date": "2026-04-21T13:26:09.000Z"
-            },
-            "whatsNew": "The National Office for Gambling in Romania has initiated a funding round of €5m aimed at supporting projects that focus on the prevention of gambling-related harms. This move underscores the regulator's commitment to ensuring a safer gaming environment.",
-            "whyItMatters": "This funding round demonstrates Romania's proactive approach to addressing gambling harm, potentially setting a precedent for other regulatory bodies. It highlights the importance of responsible gaming practices and the need for comprehensive support systems.",
-            "howToUse": "Companies and organizations can apply for funding by submitting projects that align with the regulator's goals for harm prevention, potentially gaining financial support for their initiatives.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Problem Gambling Support Groups"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -4485,7 +4396,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": null
         },
         {
@@ -4504,7 +4415,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4513,7 +4424,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4522,7 +4433,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": "Regulatory updates"
         },
         {
@@ -4540,7 +4451,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4549,7 +4460,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4569,7 +4480,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4627,7 +4538,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4773,7 +4684,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T11:59:16.163Z",
+            "lastScan": "2026-05-05T14:12:55.615Z",
             "note": null
         },
         {
@@ -21954,6 +21865,95 @@
                 "Endorphina Limited",
                 "Alcohol and Gaming Commission of Ontario"
             ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-w6us1e2y3",
+            "title": "Gambling Budget",
+            "subtitle": "UK Gambling Commission releases business plan and budget for 2026-2027",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "Budget"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjh1aWR3Q2xhR1FkMFZ1YkFfRlBKOVl5RldNUUJZVmxIbkREVkdNc0RrUFlsc0RpOFVhNEQ1cnp5MnM5ZG9UNnRRd2x2cWRhckdvV3JQdTl3cmEwTW9CSEFuNG9QVFFCVWlfb3Z5Z3Q1bEoyUlN4eWxvWkxVRGJseHZCVFhVZEJRNE84alV4bC1sSXk5?oc=5",
+                "date": "2026-04-21T12:35:03.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has published its business plan and budget for the period of 2026 to 2027, outlining its priorities and financial allocations. This plan is expected to shape the regulatory landscape of the iGaming industry in the UK. The budget will likely impact operators and consumers alike.",
+            "whyItMatters": "The business plan and budget will have significant implications for the iGaming industry, influencing regulatory compliance, licensing, and consumer protection. It may also impact the overall growth and development of the sector.",
+            "howToUse": "Operators should review the plan to understand upcoming regulatory changes and allocate resources accordingly. Consumers should be aware of how these changes may affect their gaming experiences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-wlpjxcnz9",
+            "title": "Sanrio Games",
+            "subtitle": "Sanrio launches self-publishing label to release new titles",
+            "category": "Tech",
+            "tags": [
+                "Sanrio",
+                "Self-Publishing",
+                "Gaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/sanrio-launches-self-publishing-label-sanrio-games",
+                "date": "2026-04-21T14:00:40.000Z"
+            },
+            "whatsNew": "Sanrio is launching a self-publishing label called Sanrio Games, aiming to release approximately 10 titles over the next three years. This move marks a new direction for the company, known for its popular characters like Hello Kitty. The label will focus on developing and publishing its own games.",
+            "whyItMatters": "Sanrio's entry into self-publishing could lead to more innovative and character-driven games, potentially expanding the company's reach in the gaming market. This move may also inspire other character-based companies to explore self-publishing options.",
+            "howToUse": "Game developers and publishers can take note of Sanrio's strategy and consider self-publishing as a viable option for their own titles, especially those with strong character IPs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Publishers"
+            ],
+            "companies": [
+                "Sanrio"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-j9q07nup9",
+            "title": "Romania Funding",
+            "subtitle": "Romania regulator launches €5m funding round for gambling harm prevention projects",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Harm",
+                "Romania"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/romania-regulator-5m-funding-round-harm-prevention/",
+                "date": "2026-04-21T13:26:09.000Z"
+            },
+            "whatsNew": "The National Office for Gambling in Romania has initiated a funding round of €5m aimed at supporting projects that focus on the prevention of gambling-related harms. This move underscores the regulator's commitment to ensuring a safer gaming environment.",
+            "whyItMatters": "This funding round demonstrates Romania's proactive approach to addressing gambling harm, potentially setting a precedent for other regulatory bodies. It highlights the importance of responsible gaming practices and the need for comprehensive support systems.",
+            "howToUse": "Companies and organizations can apply for funding by submitting projects that align with the regulator's goals for harm prevention, potentially gaining financial support for their initiatives.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Problem Gambling Support Groups"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
