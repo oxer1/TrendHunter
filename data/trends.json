@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T08:05:08.952Z",
+        "scanDate": "2026-05-05T10:43:59.094Z",
         "version": "2.5.0",
         "totalTrends": 141,
         "categories": [
@@ -20,6 +20,131 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-s9osv3z27",
+            "title": "Games Global Hire",
+            "subtitle": "Games Global appoints former 888 head as chief studio officer",
+            "category": "iGaming",
+            "tags": [
+                "Games Global",
+                "888",
+                "Chief Studio Officer"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUlhtRTUxQlNLV0U4SEt1anlSMGVfaUdSbC0tdTNBTWtKTExjUUJBejlta3JUQnIwc2psY3Q4bGtLOWtubERoaFBkZ1M2VWppbmlwMmxhZnJkYUJrblhjUjh2bHBaM3NZNDFHZTdYNzBBOERuWnppRTEyRnkxZ0VMMkxPYjc5Mzd1UGRQclhOX1BoQQ?oc=5",
+                "date": "2026-05-05T10:23:26.000Z"
+            },
+            "whatsNew": "Games Global has appointed a former 888 head as its chief studio officer, indicating a strategic move to enhance its studio operations. This appointment may lead to new game developments and partnerships. The move reflects the company's efforts to strengthen its position in the iGaming industry.",
+            "whyItMatters": "The appointment can impact Games Global's game development and innovation, potentially leading to new releases and improved market presence. It also signifies the importance of experienced leadership in the iGaming sector.",
+            "howToUse": "Game developers and iGaming companies can take note of this strategic move and consider similar appointments to enhance their operations. This can involve seeking experienced professionals from within the industry to lead key departments.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "Games Global",
+                "888"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-mkswdo8cw",
+            "title": "MJ Style AI",
+            "subtitle": "Civitai releases MJ Style Distilled 206, a new AI model for art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Stable Diffusion",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU00TnZEVGRIOU9SbUxnbnQwOS1MYzlIMFVaM3FUWDdhMDhmOEVIUWx6WGVJcG1PR1FHamROc3VDRXBUdG5lWU54c3FUQmxWRlhLNnl5ZzlaMWRfd0NfWG5vY3NXajU3QzFGX0ZqeWZDd05wMEN4UjZZcnRaeUFnTUI3Y0xDMk0?oc=5",
+                "date": "2026-05-02T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces MJ Style Distilled 206, a novel AI model for generating art. This model utilizes the Flux.2 Klein LoRA architecture, showcasing advancements in AI art generation. The release is version 1.0, indicating a significant milestone in its development.",
+            "whyItMatters": "This release matters because it demonstrates the ongoing progress in AI art generation, potentially impacting the visual design trends in various industries, including gaming and entertainment. It also highlights Civitai's contributions to the field of AI art.",
+            "howToUse": "Artists and developers can utilize MJ Style Distilled 206 for generating unique art pieces, exploring its capabilities in creating diverse styles and themes, and integrating it into their projects for enhanced visual effects.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-c5z1g3pq8",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows - V34, enhancing image processing for artists and designers",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows - V34 introduces new features and improvements for image processing and generation. The update focuses on enhancing user experience and workflow efficiency. Civitai's ComfyUI aims to simplify complex image manipulation tasks.",
+            "whyItMatters": "This update matters because it can significantly impact the productivity and creativity of artists and designers working with images. By streamlining image workflows, ComfyUI contributes to the broader adoption of AI in creative fields.",
+            "howToUse": "Artists and designers can utilize ComfyUI Image Workflows - V34 by integrating it into their existing workflows, leveraging its features to automate and enhance image processing tasks, and exploring new creative possibilities enabled by the update.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-2r6w64tqy",
+            "title": "AI Swap Anything",
+            "subtitle": "Flux2 Klein enables swapping of various objects using AI, including faces, outfits, and more, with Sam3.1 native support on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Flux2 Klein"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFFNT0dkdmgyUVBYbzViaWhDV19wZXlxbmc4cFJ6R1BEQVVwSk5pQlg0VzI1TWtFMWFEbGlwMnhjVmVybEJIb0RwYlpmM3hGUnI0Q0lBNWMxa1otVmFZdjN5dUVKUGFLWUtOV0hRdnEzTUxRVXpGT0xtZVZHMHFPbmlOd3Q2TC0x?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Flux2 Klein introduces the ability to swap anything, including faces, outfits, and objects, using AI. This feature is natively supported by Sam3.1 on the Civitai platform.",
+            "whyItMatters": "This technology has significant implications for AI-generated art and content creation, allowing for more flexibility and customization. It also raises questions about the potential applications and ethics of such technology.",
+            "howToUse": "Users can utilize Flux2 Klein on Civitai to create and experiment with AI-generated content, exploring the possibilities of object swapping and manipulation.",
+            "beneficiaries": [
+                "Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-t40jcjm04",
             "title": "Ali Akaash Licence",
@@ -49,7 +174,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vdwhad4ea",
@@ -4152,69 +4277,6 @@
             "isNew": false
         },
         {
-            "id": "t-ozzubkb6a",
-            "title": "UK Tote Adds Director",
-            "subtitle": "Former Rank Group CEO joins UK Tote Group's board",
-            "category": "iGaming",
-            "tags": [
-                "UK Tote Group",
-                "Rank Group",
-                "Appointments"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/uk-tote-group-adds-oreilly-board/",
-                "date": "2026-04-21T09:45:33.000Z"
-            },
-            "whatsNew": "The UK Tote Group has appointed John O'Reilly, former CEO of Rank Group, as a non-executive director to its board. This move indicates strategic planning within the company. O'Reilly's experience could bring new insights to the group.",
-            "whyItMatters": "This appointment could signal a shift in strategy for the UK Tote Group, leveraging O'Reilly's experience in the gaming industry. It may impact the group's operations and future developments.",
-            "howToUse": "Companies in the iGaming sector can observe this move as a potential strategy to enhance their boards with experienced professionals from related fields.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Investors"
-            ],
-            "companies": [
-                "UK Tote Group",
-                "Rank Group"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-d44ra2zwk",
-            "title": "Sportsbook Launch",
-            "subtitle": "Experts discuss barriers to launching a sportsbook for casino operators",
-            "category": "iGaming",
-            "tags": [
-                "sportsbook",
-                "iGaming",
-                "casino operators"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/what-stops-casino-operators-from-launching-a-sportsbook/",
-                "date": "2026-04-21T08:07:21.000Z"
-            },
-            "whatsNew": "SOFTSWISS hosts a LinkedIn Live Panel to discuss the hesitation of casino operators to launch a sportsbook, exploring real barriers versus myths. The panel brings together experts from various fields to provide actionable insights.",
-            "whyItMatters": "Understanding the barriers to launching a sportsbook can help casino operators make informed decisions and capitalize on the growing sports betting market. This can lead to increased revenue and competitiveness in the iGaming industry.",
-            "howToUse": "Casino operators can tune into the LinkedIn Live Panel to gain insights from experts and make informed decisions about launching a sportsbook. They can also assess their own operations and identify potential barriers to entry.",
-            "beneficiaries": [
-                "Casino operators",
-                "iGaming industry professionals"
-            ],
-            "companies": [
-                "SOFTSWISS"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-iqh2m2ibh",
             "title": "Kiln Game Dev",
             "subtitle": "Double Fine's Kiln balances fun with pottery sculpting, from game jam to full release",
@@ -4360,69 +4422,6 @@
             ],
             "companies": [
                 "Resorts World New York"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-p56et0fmz",
-            "title": "PlayStation Age Verification",
-            "subtitle": "Sony introduces age verification for UK and Ireland PlayStation users, restricting unverified accounts' access to certain features",
-            "category": "iGaming",
-            "tags": [
-                "Age Verification",
-                "PlayStation",
-                "Gaming Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/sony-rolls-out-age-verification-for-playstation-users-in-the-uk-and-ireland",
-                "date": "2026-04-21T10:20:29.000Z"
-            },
-            "whatsNew": "Sony has implemented age verification for PlayStation users in the UK and Ireland, aiming to enhance user safety and comply with regulatory requirements. Users who fail to verify their age will face restrictions on communication features and some third-party services. This move is part of a broader effort to improve online safety and protection for minors.",
-            "whyItMatters": "The introduction of age verification highlights the growing importance of regulatory compliance in the gaming industry, particularly in regions with strict age-related laws. This development may influence other gaming platforms to adopt similar measures, enhancing overall user protection and safety.",
-            "howToUse": "Gaming companies should prioritize age verification to ensure compliance with regional regulations and maintain a safe environment for all users. Implementing robust age verification processes can help prevent access to inappropriate content and protect minors.",
-            "beneficiaries": [
-                "Gaming Companies",
-                "Regulatory Bodies",
-                "Users"
-            ],
-            "companies": [
-                "Sony"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-4mok0bofs",
-            "title": "iGaming Hiring Trends",
-            "subtitle": "SOFTSWISS discusses changes in hiring across the iGaming industry, including shifting candidate expectations and the role of AI",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Hiring Trends",
-                "AI in iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/softswiss-hiring-is-no-longer-a-process-its-a-strategy/",
-                "date": "2026-04-21T09:10:38.000Z"
-            },
-            "whatsNew": "SOFTSWISS has released its 2026 iGaming Talent Trends report, highlighting the need for companies to rethink their hiring strategies in light of shifting candidate expectations and the increasing role of AI. The report emphasizes that hiring is no longer just a process, but a strategic imperative for success in the industry.",
-            "whyItMatters": "The report's findings have significant implications for iGaming companies, as they must adapt to changing candidate expectations and leverage AI to remain competitive. Effective hiring strategies will be crucial for companies to attract and retain top talent in the industry.",
-            "howToUse": "iGaming companies can use the report's insights to inform their hiring strategies, prioritizing flexibility, diversity, and the use of AI-powered tools to streamline recruitment processes and improve candidate experiences.",
-            "beneficiaries": [
-                "iGaming companies",
-                "HR professionals"
-            ],
-            "companies": [
-                "SOFTSWISS"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
@@ -4583,7 +4582,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": null
         },
         {
@@ -4602,7 +4601,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4611,7 +4610,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4620,7 +4619,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": "Regulatory updates"
         },
         {
@@ -4638,7 +4637,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4647,7 +4646,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4667,7 +4666,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4725,7 +4724,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4871,7 +4870,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T08:05:08.952Z",
+            "lastScan": "2026-05-05T10:43:59.094Z",
             "note": null
         },
         {
@@ -21800,6 +21799,132 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ozzubkb6a",
+            "title": "UK Tote Adds Director",
+            "subtitle": "Former Rank Group CEO joins UK Tote Group's board",
+            "category": "iGaming",
+            "tags": [
+                "UK Tote Group",
+                "Rank Group",
+                "Appointments"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/uk-tote-group-adds-oreilly-board/",
+                "date": "2026-04-21T09:45:33.000Z"
+            },
+            "whatsNew": "The UK Tote Group has appointed John O'Reilly, former CEO of Rank Group, as a non-executive director to its board. This move indicates strategic planning within the company. O'Reilly's experience could bring new insights to the group.",
+            "whyItMatters": "This appointment could signal a shift in strategy for the UK Tote Group, leveraging O'Reilly's experience in the gaming industry. It may impact the group's operations and future developments.",
+            "howToUse": "Companies in the iGaming sector can observe this move as a potential strategy to enhance their boards with experienced professionals from related fields.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "UK Tote Group",
+                "Rank Group"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-d44ra2zwk",
+            "title": "Sportsbook Launch",
+            "subtitle": "Experts discuss barriers to launching a sportsbook for casino operators",
+            "category": "iGaming",
+            "tags": [
+                "sportsbook",
+                "iGaming",
+                "casino operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/what-stops-casino-operators-from-launching-a-sportsbook/",
+                "date": "2026-04-21T08:07:21.000Z"
+            },
+            "whatsNew": "SOFTSWISS hosts a LinkedIn Live Panel to discuss the hesitation of casino operators to launch a sportsbook, exploring real barriers versus myths. The panel brings together experts from various fields to provide actionable insights.",
+            "whyItMatters": "Understanding the barriers to launching a sportsbook can help casino operators make informed decisions and capitalize on the growing sports betting market. This can lead to increased revenue and competitiveness in the iGaming industry.",
+            "howToUse": "Casino operators can tune into the LinkedIn Live Panel to gain insights from experts and make informed decisions about launching a sportsbook. They can also assess their own operations and identify potential barriers to entry.",
+            "beneficiaries": [
+                "Casino operators",
+                "iGaming industry professionals"
+            ],
+            "companies": [
+                "SOFTSWISS"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-p56et0fmz",
+            "title": "PlayStation Age Verification",
+            "subtitle": "Sony introduces age verification for UK and Ireland PlayStation users, restricting unverified accounts' access to certain features",
+            "category": "iGaming",
+            "tags": [
+                "Age Verification",
+                "PlayStation",
+                "Gaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/sony-rolls-out-age-verification-for-playstation-users-in-the-uk-and-ireland",
+                "date": "2026-04-21T10:20:29.000Z"
+            },
+            "whatsNew": "Sony has implemented age verification for PlayStation users in the UK and Ireland, aiming to enhance user safety and comply with regulatory requirements. Users who fail to verify their age will face restrictions on communication features and some third-party services. This move is part of a broader effort to improve online safety and protection for minors.",
+            "whyItMatters": "The introduction of age verification highlights the growing importance of regulatory compliance in the gaming industry, particularly in regions with strict age-related laws. This development may influence other gaming platforms to adopt similar measures, enhancing overall user protection and safety.",
+            "howToUse": "Gaming companies should prioritize age verification to ensure compliance with regional regulations and maintain a safe environment for all users. Implementing robust age verification processes can help prevent access to inappropriate content and protect minors.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Regulatory Bodies",
+                "Users"
+            ],
+            "companies": [
+                "Sony"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-4mok0bofs",
+            "title": "iGaming Hiring Trends",
+            "subtitle": "SOFTSWISS discusses changes in hiring across the iGaming industry, including shifting candidate expectations and the role of AI",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Hiring Trends",
+                "AI in iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/softswiss-hiring-is-no-longer-a-process-its-a-strategy/",
+                "date": "2026-04-21T09:10:38.000Z"
+            },
+            "whatsNew": "SOFTSWISS has released its 2026 iGaming Talent Trends report, highlighting the need for companies to rethink their hiring strategies in light of shifting candidate expectations and the increasing role of AI. The report emphasizes that hiring is no longer just a process, but a strategic imperative for success in the industry.",
+            "whyItMatters": "The report's findings have significant implications for iGaming companies, as they must adapt to changing candidate expectations and leverage AI to remain competitive. Effective hiring strategies will be crucial for companies to attract and retain top talent in the industry.",
+            "howToUse": "iGaming companies can use the report's insights to inform their hiring strategies, prioritizing flexibility, diversity, and the use of AI-powered tools to streamline recruitment processes and improve candidate experiences.",
+            "beneficiaries": [
+                "iGaming companies",
+                "HR professionals"
+            ],
+            "companies": [
+                "SOFTSWISS"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
