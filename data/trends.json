@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T16:22:33.470Z",
+        "scanDate": "2026-05-05T18:08:31.677Z",
         "version": "2.5.0",
         "totalTrends": 136,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-mo3ez8opu",
+            "title": "LTX Video Update",
+            "subtitle": "Civitai releases LTX-2.3 video checkpoint update",
+            "category": "AI",
+            "tags": [
+                "LTX",
+                "Civitai",
+                "Video Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OeWpYRF9BZXJCcDhzZEUtcWtMNVFoUGp1WmJ5Q1ZZNDMwY0NoV2g4MjJCUDEtOUhacFJ0a3dka3dSMlFzVzBuYVhZOFdyMGk0N0Z3?oc=5",
+                "date": "2026-05-01T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the LTX-2.3 update, which includes a full video checkpoint. This update is part of Civitai's ongoing efforts to improve its AI video tools. The LTX-2.3 update aims to enhance video processing capabilities.",
+            "whyItMatters": "The LTX-2.3 update is significant for AI video tool development, as it demonstrates Civitai's commitment to advancing AI technology. This update can benefit content creators and developers who rely on AI video tools.",
+            "howToUse": "Developers can utilize the LTX-2.3 update to improve their AI video processing workflows, while content creators can leverage the enhanced capabilities to produce higher-quality video content.",
+            "beneficiaries": [
+                "Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-4mc00wg0u",
             "title": "BetMGM CMO Departs",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bnetyipqv",
@@ -80,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ikgn8p3fv",
@@ -4242,35 +4273,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-jqiqz4ux1",
-            "title": "Windrose Sales",
-            "subtitle": "Windrose surpasses 1M sales within a week with 200,000 concurrent players",
-            "category": "Tech",
-            "tags": [
-                "Game Sales",
-                "Pirate Adventure",
-                "Gaming Milestone"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Game Developer",
-                "url": "https://www.gamedeveloper.com/business/windrose-surpasses-1m-sales-within-a-week",
-                "date": "2026-04-21T16:31:27.000Z"
-            },
-            "whatsNew": "Windrose, a pirate adventure game, has achieved a significant milestone by surpassing 1 million sales within a week. The game also saw over 200,000 concurrent players, indicating its popularity and engagement.",
-            "whyItMatters": "This achievement showcases the game's success and appeal, potentially setting a new standard for the gaming industry. It also highlights the growing interest in pirate-themed adventure games.",
-            "howToUse": "Game developers can take note of the elements that contributed to Windrose's success, such as its engaging gameplay and immersive theme, to inform their own game development strategies.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gaming Industry"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4427,7 +4429,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": null
         },
         {
@@ -4446,7 +4448,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4455,7 +4457,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4464,7 +4466,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": "Regulatory updates"
         },
         {
@@ -4482,7 +4484,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4491,7 +4493,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4511,7 +4513,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4569,7 +4571,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4715,7 +4717,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T16:22:33.470Z",
+            "lastScan": "2026-05-05T18:08:31.677Z",
             "note": null
         },
         {
@@ -22018,6 +22020,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-jqiqz4ux1",
+            "title": "Windrose Sales",
+            "subtitle": "Windrose surpasses 1M sales within a week with 200,000 concurrent players",
+            "category": "Tech",
+            "tags": [
+                "Game Sales",
+                "Pirate Adventure",
+                "Gaming Milestone"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Game Developer",
+                "url": "https://www.gamedeveloper.com/business/windrose-surpasses-1m-sales-within-a-week",
+                "date": "2026-04-21T16:31:27.000Z"
+            },
+            "whatsNew": "Windrose, a pirate adventure game, has achieved a significant milestone by surpassing 1 million sales within a week. The game also saw over 200,000 concurrent players, indicating its popularity and engagement.",
+            "whyItMatters": "This achievement showcases the game's success and appeal, potentially setting a new standard for the gaming industry. It also highlights the growing interest in pirate-themed adventure games.",
+            "howToUse": "Game developers can take note of the elements that contributed to Windrose's success, such as its engaging gameplay and immersive theme, to inform their own game development strategies.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
