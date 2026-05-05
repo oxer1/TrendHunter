@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-05T05:41:13.733Z",
+        "scanDate": "2026-05-05T08:05:08.952Z",
         "version": "2.5.0",
-        "totalTrends": 145,
+        "totalTrends": 141,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-t40jcjm04",
+            "title": "Ali Akaash Licence",
+            "subtitle": "UK Gambling Commission issues licence summary for Ali Akaash",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licence Summary",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalNVV1RyamNMekgzNlpLOFB4QkZJQXhiamxYSElnUXlkZWVobXM2NHJRbjZTd3M3VEFndllLR1BxN1l6eFdac1d5UXR3ZllCUzEzUmF1M0g2QmwxdUxvOU1aZTFaNGhZd0xxSXplYW8xcWNJWWZicVBKdHFBdlF3NFFR?oc=5",
+                "date": "2026-05-02T11:25:26.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has issued a licence summary for Ali Akaash, providing an overview of the operator's licensing status. This summary is part of the Commission's efforts to maintain transparency in the iGaming industry. The licence summary includes details on the operator's licence number, licensed activities, and any relevant conditions.",
+            "whyItMatters": "The licence summary is important for ensuring that operators in the iGaming industry are compliant with regulatory requirements. It also provides consumers with information on the operator's licensing status, helping to build trust in the industry.",
+            "howToUse": "Operators can use the licence summary to ensure they are meeting all regulatory requirements, while consumers can use it to make informed decisions about which operators to use.",
+            "beneficiaries": [
+                "Operators",
+                "Consumers"
+            ],
+            "companies": [
+                "Ali Akaash"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-vdwhad4ea",
             "title": "MGA AML Update",
@@ -300,38 +331,6 @@
             "isNew": false
         },
         {
-            "id": "t-w2id6q0y0",
-            "title": "LTX Video Workflows",
-            "subtitle": "Civitai releases LTX-2.3 22B GGUF WORKFLOWS with 12GB VRAM",
-            "category": "AI",
-            "tags": [
-                "LTX",
-                "GGUF",
-                "Civitai",
-                "Video Workflows"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zaHgxS1I3SlJoZ2J3dXJsa2MxNmJSWFVKeVVON2p5OFNLMEFuc1EwYVhoaUxrb2VXVlZWdXEyMkZwaW9UV1dpSG92akdublJGMUlkRXBfYWlNSkstQS1nNHc4TFhOMGNKcUQ2Y2xTZmp6QVI3VTZkUjdR?oc=5",
-                "date": "2026-04-21T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an updated version of LTX-2.3 22B GGUF WORKFLOWS, now supporting 12GB VRAM. This update enhances video processing capabilities. The new version is labeled as v1.1.",
-            "whyItMatters": "This update is significant for AI video generation and processing, offering improved performance and capacity. It can benefit developers and users working with AI video tools.",
-            "howToUse": "Developers can integrate LTX-2.3 22B GGUF WORKFLOWS into their projects to leverage enhanced video processing. Users can explore Civitai's resources to learn more about utilizing this workflow.",
-            "beneficiaries": [
-                "AI Developers",
-                "Video Editors"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-6oan5j4y1",
             "title": "Prediction Market",
             "subtitle": "A create-your-own prediction market startup has secured $6m in seed funding",
@@ -583,68 +582,6 @@
             "isNew": false
         },
         {
-            "id": "t-t0j3hcdhm",
-            "title": "AI Video SOP",
-            "subtitle": "Creating video standard operating procedures with AI tools",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Video SOP",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVEpiRmExRmdSY2xsdTJLOEVQWWtzN1ZlZHdGVjBGMTV2Ynp0OU9mZGpzaXJ2YlBnblhjR3dsUnhtaGZhOWtVUGE4OXJkd3lD?oc=5",
-                "date": "2026-04-21T07:00:00.000Z"
-            },
-            "whatsNew": "The use of AI in creating video standard operating procedures (SOPs) is becoming more prevalent, with tools like Synthesia offering solutions. This trend is expected to continue as more businesses adopt AI-powered video creation. AI-driven video SOPs can streamline video production and improve consistency.",
-            "whyItMatters": "The ability to create video SOPs with AI can significantly reduce production time and costs, making it an important development for businesses and creators. This technology can also enhance the quality and uniformity of video content.",
-            "howToUse": "To leverage AI for video SOP creation, identify your specific needs and explore tools like Synthesia that offer AI-powered video production capabilities. Start by simplifying your video production process and then integrate AI tools to automate and enhance your workflow.",
-            "beneficiaries": [
-                "Content Creators",
-                "Business Owners"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-w9h5bzhi1",
-            "title": "AniMayhem Update",
-            "subtitle": "Civitai releases AniMayhem - Pale Rider - v3.0 Plains Drifter",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "AniMayhem"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9INUFRTkswblI2dnFTUkE4X2JUaWFBN2t6ZHdudEZEUmVOV1lkbmgyRFJJQ3FjZ2p6ZXBQaGF3dEJ2akR0ODAxTFhsTExQc3owRUM5VEM0ZHNjQkV6UDJvTTNWSlBpQQ?oc=5",
-                "date": "2026-04-21T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an update to AniMayhem, introducing version 3.0 Plains Drifter. This update is part of the Illustrious Checkpoint series.",
-            "whyItMatters": "The update signifies the ongoing development and refinement of AI-powered art tools, potentially expanding creative possibilities for artists and designers.",
-            "howToUse": "Artists can utilize this update to explore new styles and themes in their work, leveraging the capabilities of AniMayhem for innovative art generation.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-vhswpcktp",
             "title": "AI Art Workflow",
             "subtitle": "Civitai introduces professional grade workflow for SFW and NSFW content creation",
@@ -798,37 +735,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-gfbhleur3",
-            "title": "Klein LoRA Update",
-            "subtitle": "Civitai releases Ultra Real - Klein 9b - KL_9B_V4 | Flux.2 Klein LoRA",
-            "category": "AI",
-            "tags": [
-                "Klein LoRA",
-                "Civitai",
-                "AI Models"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rT3hRcG92UzFvVnpNdHZXZEVHd2ZJa21EMTBTVDliSDhSd1VveG5SdXpHeWJUTjI2dm85U182d1c1NUhXbXBhdG9iSVRYaHJ4SkRFVkpGUHZhcURTXzAtZ083ams?oc=5",
-                "date": "2026-04-21T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an update to the Klein LoRA model, dubbed Ultra Real - Klein 9b - KL_9B_V4 | Flux.2. This update likely brings improvements to the model's performance and capabilities.",
-            "whyItMatters": "The update to Klein LoRA can impact the development of AI-powered tools and applications, particularly in the creative and gaming industries. It may offer improved efficiency and quality in AI-generated content.",
-            "howToUse": "Developers and artists can utilize the updated Klein LoRA model to generate high-quality, realistic content, such as images or videos, by integrating it into their workflows and applications.",
-            "beneficiaries": [
-                "AI Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1162,37 +1068,6 @@
             "beneficiaries": [
                 "Game Developers",
                 "Visual Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-hpmtxs5wm",
-            "title": "ComfyUI Update",
-            "subtitle": "Civitai releases ComfyUI Image Workflows - V34, enhancing image processing capabilities",
-            "category": "AI",
-            "tags": [
-                "ComfyUI",
-                "Image Workflows",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
-                "date": "2026-04-21T07:00:00.000Z"
-            },
-            "whatsNew": "ComfyUI Image Workflows - V34 introduces new features and improvements to image processing. This update aims to streamline workflows and enhance user experience. Civitai's commitment to innovation is evident in this release.",
-            "whyItMatters": "This update matters because it showcases Civitai's dedication to providing cutting-edge tools for image processing, which can significantly impact the field of AI art generation and related applications.",
-            "howToUse": "To leverage this update, users can explore the new features and capabilities of ComfyUI Image Workflows - V34, integrating them into their existing workflows to improve efficiency and output quality.",
-            "beneficiaries": [
-                "AI Artists",
-                "Graphic Designers"
             ],
             "companies": [
                 "Civitai"
@@ -4708,7 +4583,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": null
         },
         {
@@ -4727,7 +4602,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4736,7 +4611,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4745,7 +4620,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": "Regulatory updates"
         },
         {
@@ -4763,7 +4638,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4772,7 +4647,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4792,7 +4667,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4850,7 +4725,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4859,7 +4734,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4996,7 +4871,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-05T05:41:13.733Z",
+            "lastScan": "2026-05-05T08:05:08.952Z",
             "note": null
         },
         {
@@ -21769,6 +21644,162 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-w2id6q0y0",
+            "title": "LTX Video Workflows",
+            "subtitle": "Civitai releases LTX-2.3 22B GGUF WORKFLOWS with 12GB VRAM",
+            "category": "AI",
+            "tags": [
+                "LTX",
+                "GGUF",
+                "Civitai",
+                "Video Workflows"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zaHgxS1I3SlJoZ2J3dXJsa2MxNmJSWFVKeVVON2p5OFNLMEFuc1EwYVhoaUxrb2VXVlZWdXEyMkZwaW9UV1dpSG92akdublJGMUlkRXBfYWlNSkstQS1nNHc4TFhOMGNKcUQ2Y2xTZmp6QVI3VTZkUjdR?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an updated version of LTX-2.3 22B GGUF WORKFLOWS, now supporting 12GB VRAM. This update enhances video processing capabilities. The new version is labeled as v1.1.",
+            "whyItMatters": "This update is significant for AI video generation and processing, offering improved performance and capacity. It can benefit developers and users working with AI video tools.",
+            "howToUse": "Developers can integrate LTX-2.3 22B GGUF WORKFLOWS into their projects to leverage enhanced video processing. Users can explore Civitai's resources to learn more about utilizing this workflow.",
+            "beneficiaries": [
+                "AI Developers",
+                "Video Editors"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-t0j3hcdhm",
+            "title": "AI Video SOP",
+            "subtitle": "Creating video standard operating procedures with AI tools",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video SOP",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVEpiRmExRmdSY2xsdTJLOEVQWWtzN1ZlZHdGVjBGMTV2Ynp0OU9mZGpzaXJ2YlBnblhjR3dsUnhtaGZhOWtVUGE4OXJkd3lD?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "The use of AI in creating video standard operating procedures (SOPs) is becoming more prevalent, with tools like Synthesia offering solutions. This trend is expected to continue as more businesses adopt AI-powered video creation. AI-driven video SOPs can streamline video production and improve consistency.",
+            "whyItMatters": "The ability to create video SOPs with AI can significantly reduce production time and costs, making it an important development for businesses and creators. This technology can also enhance the quality and uniformity of video content.",
+            "howToUse": "To leverage AI for video SOP creation, identify your specific needs and explore tools like Synthesia that offer AI-powered video production capabilities. Start by simplifying your video production process and then integrate AI tools to automate and enhance your workflow.",
+            "beneficiaries": [
+                "Content Creators",
+                "Business Owners"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-w9h5bzhi1",
+            "title": "AniMayhem Update",
+            "subtitle": "Civitai releases AniMayhem - Pale Rider - v3.0 Plains Drifter",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "AniMayhem"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9INUFRTkswblI2dnFTUkE4X2JUaWFBN2t6ZHdudEZEUmVOV1lkbmgyRFJJQ3FjZ2p6ZXBQaGF3dEJ2akR0ODAxTFhsTExQc3owRUM5VEM0ZHNjQkV6UDJvTTNWSlBpQQ?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update to AniMayhem, introducing version 3.0 Plains Drifter. This update is part of the Illustrious Checkpoint series.",
+            "whyItMatters": "The update signifies the ongoing development and refinement of AI-powered art tools, potentially expanding creative possibilities for artists and designers.",
+            "howToUse": "Artists can utilize this update to explore new styles and themes in their work, leveraging the capabilities of AniMayhem for innovative art generation.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gfbhleur3",
+            "title": "Klein LoRA Update",
+            "subtitle": "Civitai releases Ultra Real - Klein 9b - KL_9B_V4 | Flux.2 Klein LoRA",
+            "category": "AI",
+            "tags": [
+                "Klein LoRA",
+                "Civitai",
+                "AI Models"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rT3hRcG92UzFvVnpNdHZXZEVHd2ZJa21EMTBTVDliSDhSd1VveG5SdXpHeWJUTjI2dm85U182d1c1NUhXbXBhdG9iSVRYaHJ4SkRFVkpGUHZhcURTXzAtZ083ams?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update to the Klein LoRA model, dubbed Ultra Real - Klein 9b - KL_9B_V4 | Flux.2. This update likely brings improvements to the model's performance and capabilities.",
+            "whyItMatters": "The update to Klein LoRA can impact the development of AI-powered tools and applications, particularly in the creative and gaming industries. It may offer improved efficiency and quality in AI-generated content.",
+            "howToUse": "Developers and artists can utilize the updated Klein LoRA model to generate high-quality, realistic content, such as images or videos, by integrating it into their workflows and applications.",
+            "beneficiaries": [
+                "AI Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-hpmtxs5wm",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows - V34, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-04-21T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows - V34 introduces new features and improvements to image processing. This update aims to streamline workflows and enhance user experience. Civitai's commitment to innovation is evident in this release.",
+            "whyItMatters": "This update matters because it showcases Civitai's dedication to providing cutting-edge tools for image processing, which can significantly impact the field of AI art generation and related applications.",
+            "howToUse": "To leverage this update, users can explore the new features and capabilities of ComfyUI Image Workflows - V34, integrating them into their existing workflows to improve efficiency and output quality.",
+            "beneficiaries": [
+                "AI Artists",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
