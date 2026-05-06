@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-06T03:22:48.101Z",
+        "scanDate": "2026-05-06T06:28:03.356Z",
         "version": "2.5.0",
-        "totalTrends": 137,
+        "totalTrends": 139,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-n182eovtd",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases Holy Furry! - v1.0IL, an illustrious checkpoint in AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Holy Furry"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10N1BFak8xNURTc09uZTdNcWlONDNLRGNjc3V6ZXlxM2pxUjN4a1EwY0hFMFJMaWlMOHQ1cG1Ibi1qbk9aMzdTVlNpUlNBaldzNW8wVnV0cUw?oc=5",
+                "date": "2026-05-04T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released a new version of their AI art generation model, Holy Furry! - v1.0IL, marking a significant checkpoint in their development. This update brings improved art generation capabilities. The model is now more proficient in creating detailed and realistic artwork.",
+            "whyItMatters": "This update showcases the rapid advancements in AI art generation, providing artists and developers with more powerful tools for creative work. The improved capabilities of Holy Furry! - v1.0IL can lead to more realistic and engaging visual content in various industries, including gaming and entertainment.",
+            "howToUse": "Developers and artists can utilize Holy Furry! - v1.0IL to generate high-quality artwork for their projects, exploring new possibilities in visual design and content creation. By integrating this technology, they can streamline their workflow and focus on higher-level creative decisions.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-8cpnu09ao",
+            "title": "Synthesia Interactive",
+            "subtitle": "Adding interactive questions to Synthesia videos",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Interactive Videos",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVZHS1hfcEpwVGd6V2hNcVNTNWN6NjRPMUpKVmlRQWtxQWxROExhU2JhV0R2a25tMnhOeURnbk1SY3hSajNQc2dVLVY3eVNYanlFQi1TS1ZZZTBoempoVkhaZmM2VEpmV0U2NGtpVVdWQzlycEVLVVlKb1kyWTBlVnlSWGlhbENJakFTMDBKVUUtVjd3YmtmMFpacUI5M1YxX3NxbFktSQ?oc=5",
+                "date": "2026-04-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia now allows users to add interactive questions to their videos, enhancing viewer engagement. This feature is part of Synthesia's efforts to expand its video creation capabilities. It enables creators to make their content more dynamic and interactive.",
+            "whyItMatters": "The ability to add interactive questions can significantly increase viewer engagement and retention, making Synthesia a more attractive platform for content creators. This feature aligns with the broader trend of incorporating interactivity into video content.",
+            "howToUse": "To add interactive questions, users can follow the steps outlined in the Synthesia Knowledge Base, which provides detailed instructions and guidelines. This feature can be particularly useful for educational content, quizzes, and surveys.",
+            "beneficiaries": [
+                "Content Creators",
+                "Educators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-rka8940cs",
             "title": "RIN Featherfall",
@@ -49,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dyc229pz2",
@@ -4460,7 +4523,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": null
         },
         {
@@ -4479,7 +4542,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4488,7 +4551,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4497,7 +4560,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "Regulatory updates"
         },
         {
@@ -4515,7 +4578,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4524,7 +4587,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4544,7 +4607,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4602,7 +4665,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4611,7 +4674,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4620,7 +4683,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": "Style browsing signal"
         },
         {
@@ -4657,7 +4720,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": null
         },
         {
@@ -4666,7 +4729,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": null
         },
         {
@@ -4748,7 +4811,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T03:22:48.101Z",
+            "lastScan": "2026-05-06T06:28:03.356Z",
             "note": null
         },
         {
