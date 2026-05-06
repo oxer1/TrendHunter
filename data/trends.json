@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-06T14:04:35.519Z",
+        "scanDate": "2026-05-06T16:26:15.327Z",
         "version": "2.5.0",
-        "totalTrends": 131,
+        "totalTrends": 130,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,128 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-s9n8tursq",
+            "title": "Regulation Update",
+            "subtitle": "Recent regulatory changes in Washington DC, Louisiana, Oklahoma, and other regions",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3F6WHhucllsNlVBdUgzb1lJbmdleTcxWG84cEdrakMwcmo3bVFlcHlsVW53YjJCYjFQaU1GNlpkMmFERFNjMFNPTzVNVklxd2lKaUE2c21lRHkxaUVya0FzMm5BQVcyUXRadGJQelROZk5lSzBnOUw2LWtsRUtPRDFJTU95YV9KRHBROG9NTFoyWGd2Wm85N28tWlRYS1lNeEVPQw?oc=5",
+                "date": "2026-05-06T14:30:18.000Z"
+            },
+            "whatsNew": "Washington DC, Louisiana, and Oklahoma have introduced new regulatory changes affecting the iGaming industry. These changes aim to provide a clearer framework for operators and players alike.",
+            "whyItMatters": "The updated regulations will impact the operations of iGaming companies, influencing their ability to offer services in these regions. This, in turn, affects the overall growth and development of the iGaming market.",
+            "howToUse": "Operators should review and adapt to the new regulations to ensure compliance and maintain their licenses. This may involve updating their terms of service, age verification processes, and responsible gaming policies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-2j8udj7bx",
+            "title": "Dragon Ball Style",
+            "subtitle": "Anima P3 version 1.0 release on Civitai",
+            "category": "Art",
+            "tags": [
+                "Anima LoRA",
+                "Dragon Ball",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUXNIT2ZkYmpLQWhid0hSWGZIZzYxc1pRN0I3ZXVXc3NwSUVFN1IzeHM3QzJ3T09Qb0E0bERBQUpTVlRkVVdzazd0LU50cnJ2OUI0TVNZeFJPbWJZa0pNVA?oc=5",
+                "date": "2026-05-02T07:00:00.000Z"
+            },
+            "whatsNew": "The release of Anima P3 version 1.0 brings a new style inspired by Dragon Ball to the Anima LoRA platform. This version is available on Civitai, expanding the creative possibilities for users. The style is reminiscent of the popular anime series, allowing for unique art generation.",
+            "whyItMatters": "This release matters because it showcases the growing capabilities of AI in generating art inspired by specific styles, in this case, Dragon Ball. It also highlights the collaboration between platforms like Civitai and the development of tools like Anima LoRA.",
+            "howToUse": "Users can utilize this new style by accessing the Anima P3 version 1.0 on Civitai and experimenting with the Dragon Ball-inspired art generation capabilities. This can be particularly useful for fans of the series and artists looking to create unique content.",
+            "beneficiaries": [
+                "Artists",
+                "Fans of Dragon Ball"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-g4jr4xp1a",
+            "title": "Spine Animator Issue",
+            "subtitle": "Animator transitions in Spine ignore duration and no longer blend",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Animation",
+                "Bug"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFhNMkVKR2U5akxxSE1xMHljaThaVkNSQWd4R0hqZm1aZkZQSkNaN19WYzBNYl9paW12Vmo1S0dPQ0g5STdWN3lVZ2JiS3hQcWhYN0JMbWFfQ1pGTW11NFZKOU8tOWZWWHBieXBPRHJCWXFoSHJCSjFUUUdGX043Sl9JVU1HejNuRXdwVlBTUFJHS3VDMnJuMVhwT3B2VjlveEVqNA?oc=5",
+                "date": "2026-04-24T06:54:18.000Z"
+            },
+            "whatsNew": "A recent issue has been reported with Spine's animator transitions, where they ignore duration and no longer blend. This affects the animation workflow in Spine. The issue is currently being discussed on the Spine forum.",
+            "whyItMatters": "This issue impacts game and animation developers who rely on Spine for their projects, potentially disrupting their workflow and animation quality.",
+            "howToUse": "Developers can monitor the Spine forum for updates on the issue and potential workarounds, and adjust their animation workflow accordingly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-22569i3jx",
+            "title": "Spine 2D Animation",
+            "subtitle": "Optimizing draw calls for 2D mesh animations in Spine",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Draw Call Optimization"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2hIaDlDOU9RaUxCQU9Icmw2U0ZlUlY0WVJaRHl6SXFvZHhialV0TE9neXFaUVdDRjdMQ1pCa2Q1M25NTTJNRUFjSm05YjhGaXNMRUVkSnZhQWtLaVlLSzh2d2cyRHp6allMRTRwRHF5V1lic1g4MjBLNVlWTnpNYUpFR3RNQVdWWW9FMUJOVTNaVlFTSzZheUxFZ3FKVjh1S1lyaGUxaGFFWVhoU29mVE1rSzdwLWN4Ul9IeEM5NFlMb0Zs?oc=5",
+                "date": "2026-04-30T14:10:26.000Z"
+            },
+            "whatsNew": "The article discusses optimizing draw calls for 2D mesh animations in Spine, a popular game development tool. It highlights the issue of repeated draw calls and its impact on performance. The solution involves using Spine's built-in features to reduce draw calls.",
+            "whyItMatters": "Optimizing draw calls can significantly improve the performance of 2D games and animations, leading to a better user experience. This is particularly important for games with complex animations and large numbers of objects on the screen.",
+            "howToUse": "Developers can use Spine's built-in features, such as batching and caching, to reduce draw calls and improve performance. They can also optimize their animation techniques to minimize the number of draw calls required.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-n182eovtd",
             "title": "AI Art Update",
@@ -3593,38 +3715,6 @@
             "isNew": false
         },
         {
-            "id": "t-x52jpzkbt",
-            "title": "Gemma 4 VLA",
-            "subtitle": "Gemma 4 VLA demo showcased on Jetson Orin Nano Super, highlighting AI capabilities",
-            "category": "AI",
-            "tags": [
-                "Gemma 4 VLA",
-                "Jetson Orin Nano",
-                "AI Demo"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/nvidia/gemma4",
-                "date": "2026-04-22T15:40:50.000Z"
-            },
-            "whatsNew": "The Gemma 4 VLA demo on Jetson Orin Nano Super showcases the potential of AI in processing and generating high-quality content. This demo highlights the advancements in AI technology and its applications in various fields. The use of Jetson Orin Nano Super demonstrates the ability to run complex AI models on compact devices.",
-            "whyItMatters": "This demo matters as it showcases the potential of AI in generating high-quality content and its ability to run on compact devices, making it accessible to a wider range of users. It also highlights the advancements in AI technology and its potential applications in various fields.",
-            "howToUse": "Developers can utilize the Gemma 4 VLA model and Jetson Orin Nano Super to create and deploy AI-powered applications, such as content generation and processing tools.",
-            "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "NVIDIA",
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-0mo4u5v4l",
             "title": "Penn Revenue Grows",
             "subtitle": "Penn Entertainment's Q1 2026 financial results show revenue growth and narrowing losses.",
@@ -3991,132 +4081,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-bjez4zfg0",
-            "title": "SPRIBE Evolves",
-            "subtitle": "SPRIBE shifts focus from individual games to building a comprehensive iGaming ecosystem",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Ecosystem",
-                "SPRIBE",
-                "Aviator"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/from-game-to-ecosystem-spribes-next-chapter/",
-                "date": "2026-04-22T14:18:02.000Z"
-            },
-            "whatsNew": "SPRIBE is transitioning from focusing on individual game successes to creating a holistic ecosystem that integrates games, operators, and players. This shift aims to provide a seamless and scalable experience. The ecosystem approach is expected to redefine success in the iGaming industry.",
-            "whyItMatters": "This shift matters because it indicates a significant change in how iGaming companies measure success, moving from standalone product launches to comprehensive ecosystem development. It could set a new standard for the industry, emphasizing connectivity and scalability.",
-            "howToUse": "To leverage this trend, iGaming companies should consider adopting an ecosystem approach, focusing on integrating their products and services to provide a unified experience for players and operators. This might involve investing in platform development and strategic partnerships.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers",
-                "Players"
-            ],
-            "companies": [
-                "SPRIBE"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-3j78ekhfe",
-            "title": "Sweepstakes iGaming",
-            "subtitle": "Infigame brings strategic value to the iGaming market through sweepstakes",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Sweepstakes",
-                "Growth Opportunities"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/the-power-of-sweepstakes-infingame/",
-                "date": "2026-04-22T15:05:51.000Z"
-            },
-            "whatsNew": "Sweepstakes have gained significant traction in North America, particularly in the US, with growing interest in Canada and Australia. Infingame is leveraging its expertise to help operators and game developers unlock new growth opportunities.",
-            "whyItMatters": "The shift in player engagement with gaming products is driving the growth of sweepstakes, presenting new opportunities for the iGaming industry. Infingame's strategic approach can help operators and developers capitalize on this trend.",
-            "howToUse": "Operators and game developers can partner with Infingame to leverage its expertise in sweepstakes and unlock new growth opportunities in the iGaming market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Infigame"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-rhu1bfrif",
-            "title": "iGaming Ad Ban",
-            "subtitle": "Ontario lawmakers introduce bill to prohibit iGaming advertising",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Regulation",
-                "Advertising"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/ontario-lawmakers-introduce-bill-prohibit-igaming-advertising/",
-                "date": "2026-04-22T14:56:28.000Z"
-            },
-            "whatsNew": "A new bill has been introduced in Ontario to ban most forms of iGaming advertising. This move aims to restrict the promotional activities of online gambling operators and their partners.",
-            "whyItMatters": "The proposed ban could significantly impact the iGaming industry in Ontario, affecting operators' marketing strategies and potentially influencing other jurisdictions to follow suit.",
-            "howToUse": "iGaming operators should review their advertising strategies and prepare for potential regulatory changes, while also exploring alternative marketing approaches.",
-            "beneficiaries": [
-                "Regulators",
-                "Problem Gamblers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-sexe971no",
-            "title": "iGaming Podcast",
-            "subtitle": "Pragmatic Solutions launches Season 2 of Connected Podcast for iGaming operator strategy and technology",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "PAM",
-                "podcast",
-                "operator strategy"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/pragmatic-solutions-launches-season-2-connected-podcast/",
-                "date": "2026-04-22T14:46:43.000Z"
-            },
-            "whatsNew": "Pragmatic Solutions has launched Season 2 of its Connected podcast, focusing on iGaming operator strategy and technology. The podcast brings together industry leaders for discussions on operational and strategic decisions. It aims to provide practical insights for operators navigating complex technology and regulatory environments.",
-            "whyItMatters": "The podcast provides valuable insights for iGaming operators, helping them make informed decisions about their businesses. It also highlights the importance of collaboration and knowledge-sharing in the iGaming industry.",
-            "howToUse": "iGaming operators can tune in to the podcast to gain practical insights and stay up-to-date on the latest industry trends and technologies. They can also use the podcast as a resource to inform their strategic decisions.",
-            "beneficiaries": [
-                "iGaming operators",
-                "industry leaders"
-            ],
-            "companies": [
-                "Pragmatic Solutions",
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4273,7 +4237,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
+            "lastScan": "2026-05-06T16:26:15.327Z",
             "note": null
         },
         {
@@ -4290,31 +4254,28 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "fallbackUsed": "metadata-only",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "fallbackUsed": "search-summary",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -4329,22 +4290,20 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "EU regulatory insights",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "EU regulatory insights"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
+            "lastScan": "2026-05-06T16:26:15.327Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop",
-            "errorReason": "HTTP 503"
+            "fallbackUsed": "manual_link_drop"
         },
         {
             "name": "X / Twitter",
@@ -4360,11 +4319,10 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
             "name": "r/StableDiffusion",
@@ -4419,31 +4377,28 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "Prompt gallery signal — style/trend detection",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "Prompt gallery signal — style/trend detection"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "Promptbook — style/prompt signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "Style browsing signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "Style browsing signal"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -4477,31 +4432,28 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": null
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": null
         },
         {
             "name": "Nano-banana",
@@ -4525,11 +4477,10 @@
             "name": "PixiJS Blog",
             "url": "https://pixijs.com/blog",
             "category": "Tech",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
-            "note": "Release notes, migrations",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-05-06T16:26:15.327Z",
+            "note": "Release notes, migrations"
         },
         {
             "name": "PixiJS Discord",
@@ -4573,7 +4524,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T14:04:35.519Z",
+            "lastScan": "2026-05-06T16:26:15.327Z",
             "note": null
         },
         {
@@ -22186,6 +22137,164 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-x52jpzkbt",
+            "title": "Gemma 4 VLA",
+            "subtitle": "Gemma 4 VLA demo showcased on Jetson Orin Nano Super, highlighting AI capabilities",
+            "category": "AI",
+            "tags": [
+                "Gemma 4 VLA",
+                "Jetson Orin Nano",
+                "AI Demo"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/gemma4",
+                "date": "2026-04-22T15:40:50.000Z"
+            },
+            "whatsNew": "The Gemma 4 VLA demo on Jetson Orin Nano Super showcases the potential of AI in processing and generating high-quality content. This demo highlights the advancements in AI technology and its applications in various fields. The use of Jetson Orin Nano Super demonstrates the ability to run complex AI models on compact devices.",
+            "whyItMatters": "This demo matters as it showcases the potential of AI in generating high-quality content and its ability to run on compact devices, making it accessible to a wider range of users. It also highlights the advancements in AI technology and its potential applications in various fields.",
+            "howToUse": "Developers can utilize the Gemma 4 VLA model and Jetson Orin Nano Super to create and deploy AI-powered applications, such as content generation and processing tools.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "NVIDIA",
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-bjez4zfg0",
+            "title": "SPRIBE Evolves",
+            "subtitle": "SPRIBE shifts focus from individual games to building a comprehensive iGaming ecosystem",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Ecosystem",
+                "SPRIBE",
+                "Aviator"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/from-game-to-ecosystem-spribes-next-chapter/",
+                "date": "2026-04-22T14:18:02.000Z"
+            },
+            "whatsNew": "SPRIBE is transitioning from focusing on individual game successes to creating a holistic ecosystem that integrates games, operators, and players. This shift aims to provide a seamless and scalable experience. The ecosystem approach is expected to redefine success in the iGaming industry.",
+            "whyItMatters": "This shift matters because it indicates a significant change in how iGaming companies measure success, moving from standalone product launches to comprehensive ecosystem development. It could set a new standard for the industry, emphasizing connectivity and scalability.",
+            "howToUse": "To leverage this trend, iGaming companies should consider adopting an ecosystem approach, focusing on integrating their products and services to provide a unified experience for players and operators. This might involve investing in platform development and strategic partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers",
+                "Players"
+            ],
+            "companies": [
+                "SPRIBE"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-3j78ekhfe",
+            "title": "Sweepstakes iGaming",
+            "subtitle": "Infigame brings strategic value to the iGaming market through sweepstakes",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Sweepstakes",
+                "Growth Opportunities"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/the-power-of-sweepstakes-infingame/",
+                "date": "2026-04-22T15:05:51.000Z"
+            },
+            "whatsNew": "Sweepstakes have gained significant traction in North America, particularly in the US, with growing interest in Canada and Australia. Infingame is leveraging its expertise to help operators and game developers unlock new growth opportunities.",
+            "whyItMatters": "The shift in player engagement with gaming products is driving the growth of sweepstakes, presenting new opportunities for the iGaming industry. Infingame's strategic approach can help operators and developers capitalize on this trend.",
+            "howToUse": "Operators and game developers can partner with Infingame to leverage its expertise in sweepstakes and unlock new growth opportunities in the iGaming market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Infigame"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-rhu1bfrif",
+            "title": "iGaming Ad Ban",
+            "subtitle": "Ontario lawmakers introduce bill to prohibit iGaming advertising",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Regulation",
+                "Advertising"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ontario-lawmakers-introduce-bill-prohibit-igaming-advertising/",
+                "date": "2026-04-22T14:56:28.000Z"
+            },
+            "whatsNew": "A new bill has been introduced in Ontario to ban most forms of iGaming advertising. This move aims to restrict the promotional activities of online gambling operators and their partners.",
+            "whyItMatters": "The proposed ban could significantly impact the iGaming industry in Ontario, affecting operators' marketing strategies and potentially influencing other jurisdictions to follow suit.",
+            "howToUse": "iGaming operators should review their advertising strategies and prepare for potential regulatory changes, while also exploring alternative marketing approaches.",
+            "beneficiaries": [
+                "Regulators",
+                "Problem Gamblers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-sexe971no",
+            "title": "iGaming Podcast",
+            "subtitle": "Pragmatic Solutions launches Season 2 of Connected Podcast for iGaming operator strategy and technology",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "PAM",
+                "podcast",
+                "operator strategy"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/pragmatic-solutions-launches-season-2-connected-podcast/",
+                "date": "2026-04-22T14:46:43.000Z"
+            },
+            "whatsNew": "Pragmatic Solutions has launched Season 2 of its Connected podcast, focusing on iGaming operator strategy and technology. The podcast brings together industry leaders for discussions on operational and strategic decisions. It aims to provide practical insights for operators navigating complex technology and regulatory environments.",
+            "whyItMatters": "The podcast provides valuable insights for iGaming operators, helping them make informed decisions about their businesses. It also highlights the importance of collaboration and knowledge-sharing in the iGaming industry.",
+            "howToUse": "iGaming operators can tune in to the podcast to gain practical insights and stay up-to-date on the latest industry trends and technologies. They can also use the podcast as a resource to inform their strategic decisions.",
+            "beneficiaries": [
+                "iGaming operators",
+                "industry leaders"
+            ],
+            "companies": [
+                "Pragmatic Solutions",
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
