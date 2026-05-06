@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-06T18:13:58.654Z",
+        "scanDate": "2026-05-06T20:20:00.483Z",
         "version": "2.5.0",
-        "totalTrends": 128,
+        "totalTrends": 129,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6qmxi30ck",
+            "title": "LTX2.3 Released",
+            "subtitle": "Civitai launches LTX2.3 with multiple AI tools integration",
+            "category": "AI",
+            "tags": [
+                "AI Tools",
+                "LTX2.3",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObVBtTjRzSVNwRDRQTWtZRi1uLTZudnQxWVlVcDBwT1J6bFV2VGJVaDVyd0ZBRlhReTQyZUhmcTZaQ0V2dDNLQVRqQUd2OTFDY3ZPdGJtT0NuV1ViQnBmNVU1V2xJUWNMbDJWZmFueW1kdzNzLU1HdVFneXNyNUNIdDVEcXVUVG5BRWwxdlFiMlNqdmdyU0t4c2tHeU9rN3hJeFFLb3lnQlhnOHc0cGQxdlBQdVRMZXRqQ3h3VDFYVTlEZw?oc=5",
+                "date": "2026-05-06T17:09:43.000Z"
+            },
+            "whatsNew": "LTX2.3 integrates Prompt Relay, ID LoRA, ControlNet, Detailer, Upscaler, Custom Audio, and Keyframes into one platform. This all-in-one solution aims to streamline AI workflows. Civitai's release signifies a major update in AI tool integration.",
+            "whyItMatters": "The integration of multiple AI tools into LTX2.3 can significantly enhance productivity and efficiency for users, especially in creative and development fields. This could set a new standard for AI tool suites.",
+            "howToUse": "Users can leverage LTX2.3 by exploring its various integrated tools to automate and enhance their workflows, from prompt relaying to custom audio and keyframe management.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-s9n8tursq",
             "title": "Regulation Update",
@@ -4175,7 +4206,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": null
         },
         {
@@ -4194,7 +4225,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4203,7 +4234,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4212,7 +4243,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "Regulatory updates"
         },
         {
@@ -4230,7 +4261,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4239,7 +4270,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4259,7 +4290,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4317,7 +4348,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4326,7 +4357,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4335,7 +4366,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": "Style browsing signal"
         },
         {
@@ -4372,7 +4403,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": null
         },
         {
@@ -4462,7 +4493,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-06T20:20:00.483Z",
             "note": null
         },
         {
