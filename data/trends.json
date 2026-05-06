@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-06T06:28:03.356Z",
+        "scanDate": "2026-05-06T09:21:49.749Z",
         "version": "2.5.0",
-        "totalTrends": 139,
+        "totalTrends": 137,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8cpnu09ao",
@@ -81,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rka8940cs",
@@ -485,37 +485,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-xuri8sydz",
-            "title": "Anima Preview",
-            "subtitle": "Civitai releases Anima preview3-base, a checkpoint for AI art generation",
-            "category": "AI",
-            "tags": [
-                "Anima",
-                "AI Art",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoeURERWUwckFIOEp3N1VxdGgwS1FISEdZNnI0cXZ5eGlmdGhHRlZMLXhWcWlJSmcyY0xxVFBKVENFMTZqQ0FzX0piZU5IZHJ5SEZPdERsVHJCQkp2eVE?oc=5",
-                "date": "2026-04-22T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released a new preview of Anima, a significant update to their AI art generation model. This preview3-base checkpoint offers improved capabilities for generating art. Anima is expected to enhance AI-powered creative tools.",
-            "whyItMatters": "The release of Anima preview3-base is important for the development of AI art generation, potentially impacting the iGaming and game development industries. It could lead to more sophisticated and realistic visuals in games and interactive applications.",
-            "howToUse": "Developers can utilize Anima preview3-base to generate high-quality art for their projects, integrating it into their pipelines for enhanced visual content creation.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -4338,35 +4307,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-rgoswnd4p",
-            "title": "Real-Time Matters",
-            "subtitle": "The iGaming industry's varying definitions of real-time data and operations",
-            "category": "iGaming",
-            "tags": [
-                "Real-Time Data",
-                "iGaming Operations",
-                "Live Systems"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/flows-on-when-real-time-really-matters/",
-                "date": "2026-04-22T08:24:10.000Z"
-            },
-            "whatsNew": "The iGaming industry has different definitions of real-time, ranging from instant to within the hour. This discrepancy can significantly impact live operations and system expectations.",
-            "whyItMatters": "The varying definitions of real-time can lead to confusion and inconsistencies in iGaming operations, affecting the overall player experience and system reliability.",
-            "howToUse": "Operators and providers should clearly define and communicate their understanding of real-time data and operations to ensure seamless integration and player satisfaction.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Providers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -4523,7 +4463,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": null
         },
         {
@@ -4542,7 +4482,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4551,7 +4491,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4560,7 +4500,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "Regulatory updates"
         },
         {
@@ -4578,7 +4518,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4587,7 +4527,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4607,7 +4547,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4665,7 +4605,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4674,7 +4614,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4683,7 +4623,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": "Style browsing signal"
         },
         {
@@ -4720,7 +4660,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": null
         },
         {
@@ -4729,7 +4669,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": null
         },
         {
@@ -4811,7 +4751,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T06:28:03.356Z",
+            "lastScan": "2026-05-06T09:21:49.749Z",
             "note": null
         },
         {
@@ -22174,6 +22114,66 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-xuri8sydz",
+            "title": "Anima Preview",
+            "subtitle": "Civitai releases Anima preview3-base, a checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "Anima",
+                "AI Art",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoeURERWUwckFIOEp3N1VxdGgwS1FISEdZNnI0cXZ5eGlmdGhHRlZMLXhWcWlJSmcyY0xxVFBKVENFMTZqQ0FzX0piZU5IZHJ5SEZPdERsVHJCQkp2eVE?oc=5",
+                "date": "2026-04-22T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released a new preview of Anima, a significant update to their AI art generation model. This preview3-base checkpoint offers improved capabilities for generating art. Anima is expected to enhance AI-powered creative tools.",
+            "whyItMatters": "The release of Anima preview3-base is important for the development of AI art generation, potentially impacting the iGaming and game development industries. It could lead to more sophisticated and realistic visuals in games and interactive applications.",
+            "howToUse": "Developers can utilize Anima preview3-base to generate high-quality art for their projects, integrating it into their pipelines for enhanced visual content creation.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-rgoswnd4p",
+            "title": "Real-Time Matters",
+            "subtitle": "The iGaming industry's varying definitions of real-time data and operations",
+            "category": "iGaming",
+            "tags": [
+                "Real-Time Data",
+                "iGaming Operations",
+                "Live Systems"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/flows-on-when-real-time-really-matters/",
+                "date": "2026-04-22T08:24:10.000Z"
+            },
+            "whatsNew": "The iGaming industry has different definitions of real-time, ranging from instant to within the hour. This discrepancy can significantly impact live operations and system expectations.",
+            "whyItMatters": "The varying definitions of real-time can lead to confusion and inconsistencies in iGaming operations, affecting the overall player experience and system reliability.",
+            "howToUse": "Operators and providers should clearly define and communicate their understanding of real-time data and operations to ensure seamless integration and player satisfaction.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Providers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
