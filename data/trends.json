@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-06T16:26:15.327Z",
+        "scanDate": "2026-05-06T18:13:58.654Z",
         "version": "2.5.0",
-        "totalTrends": 130,
+        "totalTrends": 128,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2j8udj7bx",
@@ -78,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-g4jr4xp1a",
@@ -109,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-22569i3jx",
@@ -140,7 +140,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-n182eovtd",
@@ -700,37 +700,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-o6bfcjhw6",
-            "title": "Voice Cloning",
-            "subtitle": "Synthesia's voice cloning feature explained in their knowledge base",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "Voice Cloning",
-                "AI Voice"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTN1bGNiQkhENEtXZ1lXVFlFNjNtQzB5bm1DNURsR2VHSS1yNkI4ODE3OFV4RmxSdzBtcEVWX1pDcjlzY1J0SDJZV0V3WS1uSjM0R3piZy1pUFRsMWpzS3lQb3M2a0NDOHhHU0xpZG1SVHFkbHlMUXFheVF3SkdNdmxtZU5JeWlOdmc?oc=5",
-                "date": "2026-04-22T16:45:38.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides a guide on how to clone a voice using their platform. This feature utilizes AI to mimic human voices. The process involves recording and uploading a voice sample to Synthesia.",
-            "whyItMatters": "The ability to clone voices has significant implications for content creation, allowing for more personalized and engaging experiences. This technology can be used in various applications, including video production and virtual assistants.",
-            "howToUse": "To clone a voice in Synthesia, users need to record a voice sample and upload it to the platform, then follow the provided instructions in the knowledge base to generate a cloned voice.",
-            "beneficiaries": [
-                "Content Creators",
-                "Developers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -3119,37 +3088,6 @@
             "isNew": false
         },
         {
-            "id": "t-omvmrr3kk",
-            "title": "iGaming M&A",
-            "subtitle": "Building business value through mergers and acquisitions in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Mergers and Acquisitions",
-                "iGaming",
-                "Business Value"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbldNem9Ncl9kbnFpUEw0S0hhazN3UWhYSTk5a0p6ZnRrVkxwaU1ydVBLWDg2UUdjTUtBY2tqMUxJVGdUVGpQeHJWcS1PY2p5YkZEV0hzSHBiT3VUazlXU3RIT0RIUk04SFFKckZRbG5zWEVwX24ycVJrRVBBNFZfNmR1QWp1aUNEZHljRzlZRWpvLXlfQ1VuekJ6cXRLV2hjT2ZOZg?oc=5",
-                "date": "2026-04-22T17:46:35.000Z"
-            },
-            "whatsNew": "The iGaming industry is experiencing a surge in mergers and acquisitions, with companies looking to build business value through strategic partnerships. NEXT.io provides insights on how to navigate this landscape. The article highlights key considerations for building business value in the iGaming sector.",
-            "whyItMatters": "Understanding M&A strategies is crucial for iGaming companies looking to expand their market share and stay competitive. This knowledge can help businesses make informed decisions and drive growth.",
-            "howToUse": "iGaming companies can leverage M&A strategies to expand their offerings, improve operational efficiency, and increase their customer base. By understanding the key drivers of business value, companies can make strategic decisions to drive growth and success.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-589sqoify",
             "title": "Betsson AB Expansion",
             "subtitle": "Betsson AB CEO discusses potential acquisition of crypto operators and B2B arm confidence",
@@ -4237,7 +4175,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": null
         },
         {
@@ -4256,7 +4194,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4265,7 +4203,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4274,7 +4212,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "Regulatory updates"
         },
         {
@@ -4292,7 +4230,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4301,7 +4239,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4321,7 +4259,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4379,7 +4317,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4388,7 +4326,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4397,7 +4335,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": "Style browsing signal"
         },
         {
@@ -4434,7 +4372,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": null
         },
         {
@@ -4443,7 +4381,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": null
         },
         {
@@ -4524,7 +4462,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T16:26:15.327Z",
+            "lastScan": "2026-05-06T18:13:58.654Z",
             "note": null
         },
         {
@@ -22291,6 +22229,68 @@
             ],
             "companies": [
                 "Pragmatic Solutions",
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-o6bfcjhw6",
+            "title": "Voice Cloning",
+            "subtitle": "Synthesia's voice cloning feature explained in their knowledge base",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Voice Cloning",
+                "AI Voice"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTN1bGNiQkhENEtXZ1lXVFlFNjNtQzB5bm1DNURsR2VHSS1yNkI4ODE3OFV4RmxSdzBtcEVWX1pDcjlzY1J0SDJZV0V3WS1uSjM0R3piZy1pUFRsMWpzS3lQb3M2a0NDOHhHU0xpZG1SVHFkbHlMUXFheVF3SkdNdmxtZU5JeWlOdmc?oc=5",
+                "date": "2026-04-22T16:45:38.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides a guide on how to clone a voice using their platform. This feature utilizes AI to mimic human voices. The process involves recording and uploading a voice sample to Synthesia.",
+            "whyItMatters": "The ability to clone voices has significant implications for content creation, allowing for more personalized and engaging experiences. This technology can be used in various applications, including video production and virtual assistants.",
+            "howToUse": "To clone a voice in Synthesia, users need to record a voice sample and upload it to the platform, then follow the provided instructions in the knowledge base to generate a cloned voice.",
+            "beneficiaries": [
+                "Content Creators",
+                "Developers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-omvmrr3kk",
+            "title": "iGaming M&A",
+            "subtitle": "Building business value through mergers and acquisitions in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "iGaming",
+                "Business Value"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbldNem9Ncl9kbnFpUEw0S0hhazN3UWhYSTk5a0p6ZnRrVkxwaU1ydVBLWDg2UUdjTUtBY2tqMUxJVGdUVGpQeHJWcS1PY2p5YkZEV0hzSHBiT3VUazlXU3RIT0RIUk04SFFKckZRbG5zWEVwX24ycVJrRVBBNFZfNmR1QWp1aUNEZHljRzlZRWpvLXlfQ1VuekJ6cXRLV2hjT2ZOZg?oc=5",
+                "date": "2026-04-22T17:46:35.000Z"
+            },
+            "whatsNew": "The iGaming industry is experiencing a surge in mergers and acquisitions, with companies looking to build business value through strategic partnerships. NEXT.io provides insights on how to navigate this landscape. The article highlights key considerations for building business value in the iGaming sector.",
+            "whyItMatters": "Understanding M&A strategies is crucial for iGaming companies looking to expand their market share and stay competitive. This knowledge can help businesses make informed decisions and drive growth.",
+            "howToUse": "iGaming companies can leverage M&A strategies to expand their offerings, improve operational efficiency, and increase their customer base. By understanding the key drivers of business value, companies can make strategic decisions to drive growth and success.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
                 "NEXT.io"
             ],
             "visualStyle": null,
