@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-06T23:47:02.156Z",
+        "scanDate": "2026-05-07T02:37:26.146Z",
         "version": "2.5.0",
-        "totalTrends": 130,
+        "totalTrends": 127,
         "categories": [
             "iGaming",
             "AI",
@@ -1324,35 +1324,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-evxrlscrw",
-            "title": "NJ Gaming Help",
-            "subtitle": "New Jersey provides toll-free hotlines for gaming support",
-            "category": "iGaming",
-            "tags": [
-                "Responsible Gaming",
-                "New Jersey",
-                "Helplines"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW1fMzlNaUZUNHY2SzltN3BaREFmbHU0Wmd5WEdxamxmQVVIZXBaa254VF9Tc1FQYVp5UGxQNXRhS2l6Q1A2U0E2RVMxQllnRm9BZkZ3S1FnckgzZzhaNkRtVWZ3U3dldXFyOFNBblpXTU50OWw1Y1lCTU9hZUNMTnQ2cUdPTXM?oc=5",
-                "date": "2026-04-23T02:28:06.000Z"
-            },
-            "whatsNew": "The New Jersey Division of Gaming Enforcement has listed toll-free hotlines for individuals seeking help with gaming-related issues. These hotlines offer support for problem gaming and addiction.",
-            "whyItMatters": "The availability of these hotlines underscores the importance of responsible gaming practices and the need for support services in the iGaming industry. It reflects a proactive approach by regulatory bodies to address potential negative impacts of gaming.",
-            "howToUse": "Individuals can use these hotlines to seek help and guidance on managing their gaming activities responsibly. Operators can also use this information to enhance their customer support and responsible gaming initiatives.",
-            "beneficiaries": [
-                "Problem Gamers",
-                "Gaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -3559,37 +3530,6 @@
             "isNew": false
         },
         {
-            "id": "t-qs29gduhc",
-            "title": "Intertain Review",
-            "subtitle": "Key takeaways from Intertain's strategic review",
-            "category": "iGaming",
-            "tags": [
-                "Intertain",
-                "Strategic Review",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTJBVld6ajVlZUFSOUdma0lvVElibkh0eUJrUnJ5Ym5KZ0R6eFRTVV9QZGl6WTdIM25aTWtQMjducG9Nd0I4aG4tdFlWWFUzR1BhZXFmcGNLTHo4ODRKVGluV1gyNzhnMzhiYjFjOXdQOFZGZ2w0QnZzMmk1em9Ib2dZSm5OMFEwYmdHNHlEWjRIR1hI?oc=5",
-                "date": "2026-04-23T01:00:51.000Z"
-            },
-            "whatsNew": "Intertain's strategic review reveals insights into the company's future plans and industry trends. The review highlights key areas of focus for the company. Intertain's approach may influence other industry players.",
-            "whyItMatters": "The review provides valuable insights into Intertain's strategy and its potential impact on the iGaming industry. It may indicate future trends and shifts in the market.",
-            "howToUse": "Industry professionals can use the review's findings to inform their own strategic decisions and stay ahead of industry trends. Companies can analyze Intertain's approach to identify potential opportunities and challenges.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Industry analysts"
-            ],
-            "companies": [
-                "Intertain"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-16rw7xjm4",
             "title": "3et Irish Licence",
             "subtitle": "3et secures Irish licence and launches low-margin sportsbook",
@@ -3647,39 +3587,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-2txhzz3y8",
-            "title": "Real-time Fluid",
-            "subtitle": "Ignitement's fire and lava VFX use real-time fluid simulation, creating a more immersive and reactive game world",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Fluid Simulation",
-                "Game Development",
-                "VFX"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/real-time-fluid-simulation-fire-vfx-ignitement-breakdown",
-                "date": "2026-04-23T00:00:00.000Z"
-            },
-            "whatsNew": "Ignitement uses a 2D fluid simulation to create realistic fire and lava effects, which also influence gameplay and UI. The simulation is optimized for performance and compatibility, using Graphics.Blit and fragment shaders.",
-            "whyItMatters": "This approach enables the creation of more immersive and reactive game worlds, where visuals and gameplay are deeply connected. It also showcases the potential of 2D fluid simulations in game development.",
-            "howToUse": "Developers can apply similar techniques to their own projects by using Unity's Graphics.Blit and fragment shaders to create custom fluid simulations, and by reusing simulation data to drive visuals, gameplay, and UI.",
-            "beneficiaries": [
-                "Game Developers",
-                "VFX Artists",
-                "Game Designers"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
             "isNew": false
         },
         {
@@ -4237,7 +4144,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": null
         },
         {
@@ -4256,7 +4163,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -4265,7 +4172,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -4274,7 +4181,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "Regulatory updates"
         },
         {
@@ -4292,7 +4199,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "EU regulatory insights"
         },
         {
@@ -4301,7 +4208,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -4321,7 +4228,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -4379,7 +4286,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4388,7 +4295,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T21:54:39.404Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -4397,7 +4304,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T21:54:39.404Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": "Style browsing signal"
         },
         {
@@ -4434,7 +4341,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T21:54:39.404Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": null
         },
         {
@@ -4443,7 +4350,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-06T18:13:58.654Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": null
         },
         {
@@ -4524,7 +4431,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-06T23:47:02.156Z",
+            "lastScan": "2026-05-07T02:37:26.146Z",
             "note": null
         },
         {
@@ -22357,6 +22264,99 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-evxrlscrw",
+            "title": "NJ Gaming Help",
+            "subtitle": "New Jersey provides toll-free hotlines for gaming support",
+            "category": "iGaming",
+            "tags": [
+                "Responsible Gaming",
+                "New Jersey",
+                "Helplines"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW1fMzlNaUZUNHY2SzltN3BaREFmbHU0Wmd5WEdxamxmQVVIZXBaa254VF9Tc1FQYVp5UGxQNXRhS2l6Q1A2U0E2RVMxQllnRm9BZkZ3S1FnckgzZzhaNkRtVWZ3U3dldXFyOFNBblpXTU50OWw1Y1lCTU9hZUNMTnQ2cUdPTXM?oc=5",
+                "date": "2026-04-23T02:28:06.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has listed toll-free hotlines for individuals seeking help with gaming-related issues. These hotlines offer support for problem gaming and addiction.",
+            "whyItMatters": "The availability of these hotlines underscores the importance of responsible gaming practices and the need for support services in the iGaming industry. It reflects a proactive approach by regulatory bodies to address potential negative impacts of gaming.",
+            "howToUse": "Individuals can use these hotlines to seek help and guidance on managing their gaming activities responsibly. Operators can also use this information to enhance their customer support and responsible gaming initiatives.",
+            "beneficiaries": [
+                "Problem Gamers",
+                "Gaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qs29gduhc",
+            "title": "Intertain Review",
+            "subtitle": "Key takeaways from Intertain's strategic review",
+            "category": "iGaming",
+            "tags": [
+                "Intertain",
+                "Strategic Review",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTJBVld6ajVlZUFSOUdma0lvVElibkh0eUJrUnJ5Ym5KZ0R6eFRTVV9QZGl6WTdIM25aTWtQMjducG9Nd0I4aG4tdFlWWFUzR1BhZXFmcGNLTHo4ODRKVGluV1gyNzhnMzhiYjFjOXdQOFZGZ2w0QnZzMmk1em9Ib2dZSm5OMFEwYmdHNHlEWjRIR1hI?oc=5",
+                "date": "2026-04-23T01:00:51.000Z"
+            },
+            "whatsNew": "Intertain's strategic review reveals insights into the company's future plans and industry trends. The review highlights key areas of focus for the company. Intertain's approach may influence other industry players.",
+            "whyItMatters": "The review provides valuable insights into Intertain's strategy and its potential impact on the iGaming industry. It may indicate future trends and shifts in the market.",
+            "howToUse": "Industry professionals can use the review's findings to inform their own strategic decisions and stay ahead of industry trends. Companies can analyze Intertain's approach to identify potential opportunities and challenges.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Industry analysts"
+            ],
+            "companies": [
+                "Intertain"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2txhzz3y8",
+            "title": "Real-time Fluid",
+            "subtitle": "Ignitement's fire and lava VFX use real-time fluid simulation, creating a more immersive and reactive game world",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Fluid Simulation",
+                "Game Development",
+                "VFX"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/real-time-fluid-simulation-fire-vfx-ignitement-breakdown",
+                "date": "2026-04-23T00:00:00.000Z"
+            },
+            "whatsNew": "Ignitement uses a 2D fluid simulation to create realistic fire and lava effects, which also influence gameplay and UI. The simulation is optimized for performance and compatibility, using Graphics.Blit and fragment shaders.",
+            "whyItMatters": "This approach enables the creation of more immersive and reactive game worlds, where visuals and gameplay are deeply connected. It also showcases the potential of 2D fluid simulations in game development.",
+            "howToUse": "Developers can apply similar techniques to their own projects by using Unity's Graphics.Blit and fragment shaders to create custom fluid simulations, and by reusing simulation data to drive visuals, gameplay, and UI.",
+            "beneficiaries": [
+                "Game Developers",
+                "VFX Artists",
+                "Game Designers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
