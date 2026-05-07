@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-07T11:08:28.119Z",
+        "scanDate": "2026-05-07T14:00:33.499Z",
         "version": "2.5.0",
-        "totalTrends": 117,
+        "totalTrends": 115,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ko4f97esy",
+            "title": "Video Editing",
+            "subtitle": "Editing elements at a specific point in time in video using Synthesia",
+            "category": "AI",
+            "tags": [
+                "Video Editing",
+                "Synthesia",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3JhcnMzZ1VPel9vb3VHS1p1U0IwZFQwUzJXQjBoektzZ0QzbXZlQngxVGh2ak44T09JTmo1REpyTUZsYWg1VVFIYjFGaUlfX0hqLXMxVEZtMTJ1MlJRZjFuV0lxbDZ2SkxuS3dVaVotQzZfaW1FMHlXLS1NSzRJdFlURFJyOEdNaE5qa2dfZFhTSnBKa1NES3BJZF9ydUNpbUF4Zmh5ZEdHMGpMV2pr?oc=5",
+                "date": "2026-04-29T22:00:21.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides guidance on editing elements at specific points in time in videos. This feature is crucial for precise video editing. It reflects the growing need for advanced video editing capabilities.",
+            "whyItMatters": "The ability to edit elements at specific points in time enhances video production quality and flexibility. It matters for content creators who need precise control over their video content.",
+            "howToUse": "Use Synthesia's video editing tools to select and edit elements at specific times, enhancing your video's narrative and visual flow.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Editors"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-vae9mnt5l",
             "title": "New Head Sought",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-suf1drx71",
@@ -3587,95 +3618,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-l7ttylbog",
-            "title": "Churchill Downs",
-            "subtitle": "Churchill Downs reports record quarterly revenue in Q1 2026",
-            "category": "iGaming",
-            "tags": [
-                "Churchill Downs",
-                "Q1 2026",
-                "Revenue Growth"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q126-churchill-downs-record-quarterly-revenue/",
-                "date": "2026-04-23T12:23:44.000Z"
-            },
-            "whatsNew": "Churchill Downs Incorporated has reported a record quarterly revenue and earnings growth in Q1 2026, driven by its racing and wagering operations. The growth signifies a strong start to the year for the company. This uptrend is likely to continue as the industry expands.",
-            "whyItMatters": "The record revenue indicates a positive outlook for the iGaming industry, particularly in racing and wagering operations. This growth can lead to increased investment and innovation in the sector.",
-            "howToUse": "Investors and industry stakeholders can use this information to gauge the health of the iGaming market and make informed decisions about investments and partnerships.",
-            "beneficiaries": [
-                "Investors",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "Churchill Downs Incorporated"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-vlntvgmvt",
-            "title": "NZ iGaming Law",
-            "subtitle": "New Zealand's Online Casino Gambling Bill awaits Royal assent",
-            "category": "iGaming",
-            "tags": [
-                "iGaming regulation",
-                "New Zealand",
-                "online casino"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/online-casino-bill-passes-final-reading-new-zealand/",
-                "date": "2026-04-23T12:07:07.000Z"
-            },
-            "whatsNew": "New Zealand's Online Casino Gambling Bill has passed its third and final reading, paving the way for a newly regulated iGaming framework. The bill now awaits Royal assent to become law. This development is expected to significantly impact the country's online gaming industry.",
-            "whyItMatters": "The new law will provide a regulated framework for online casinos in New Zealand, offering a safer environment for players and new opportunities for operators. This move is likely to attract international iGaming companies to the market.",
-            "howToUse": "Operators should prepare to comply with the new regulations, while players can expect a more secure and diverse online gaming experience. Companies should review the bill's provisions to understand the requirements for licensing and operation.",
-            "beneficiaries": [
-                "iGaming operators",
-                "online casino players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-t6i3p0rvg",
-            "title": "Gambling Ad Ban",
-            "subtitle": "UK's APPG proposes strict restrictions on gambling advertising, nearing a full ban",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Regulation",
-                "Advertising Restrictions",
-                "UK iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/uk-appg-advertising-proposals-edge-toward-full-ban/",
-                "date": "2026-04-23T11:19:10.000Z"
-            },
-            "whatsNew": "The UK's APPG on Gambling Reform has proposed a significant escalation of restrictions on gambling advertising, targeting major marketing channels. The proposals aim to reduce the impact of gambling advertising on children and young people.",
-            "whyItMatters": "The proposed restrictions could significantly impact the iGaming industry's marketing strategies and revenue. A full ban on gambling advertising would require operators to adapt and find alternative marketing channels.",
-            "howToUse": "iGaming operators should review their marketing strategies and consider alternative channels to prepare for potential restrictions. They should also monitor regulatory updates and engage with industry associations to stay informed.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3832,7 +3774,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": null
         },
         {
@@ -3851,7 +3793,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3860,7 +3802,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3869,7 +3811,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "Regulatory updates"
         },
         {
@@ -3887,7 +3829,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3896,7 +3838,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3916,7 +3858,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3974,7 +3916,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3983,7 +3925,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3992,7 +3934,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": "Style browsing signal"
         },
         {
@@ -4029,7 +3971,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": null
         },
         {
@@ -4038,7 +3980,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": null
         },
         {
@@ -4047,7 +3989,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-07T05:59:52.799Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": null
         },
         {
@@ -4119,7 +4061,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T11:08:28.119Z",
+            "lastScan": "2026-05-07T14:00:33.499Z",
             "note": null
         },
         {
@@ -22386,6 +22328,95 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-l7ttylbog",
+            "title": "Churchill Downs",
+            "subtitle": "Churchill Downs reports record quarterly revenue in Q1 2026",
+            "category": "iGaming",
+            "tags": [
+                "Churchill Downs",
+                "Q1 2026",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-churchill-downs-record-quarterly-revenue/",
+                "date": "2026-04-23T12:23:44.000Z"
+            },
+            "whatsNew": "Churchill Downs Incorporated has reported a record quarterly revenue and earnings growth in Q1 2026, driven by its racing and wagering operations. The growth signifies a strong start to the year for the company. This uptrend is likely to continue as the industry expands.",
+            "whyItMatters": "The record revenue indicates a positive outlook for the iGaming industry, particularly in racing and wagering operations. This growth can lead to increased investment and innovation in the sector.",
+            "howToUse": "Investors and industry stakeholders can use this information to gauge the health of the iGaming market and make informed decisions about investments and partnerships.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Churchill Downs Incorporated"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-vlntvgmvt",
+            "title": "NZ iGaming Law",
+            "subtitle": "New Zealand's Online Casino Gambling Bill awaits Royal assent",
+            "category": "iGaming",
+            "tags": [
+                "iGaming regulation",
+                "New Zealand",
+                "online casino"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/online-casino-bill-passes-final-reading-new-zealand/",
+                "date": "2026-04-23T12:07:07.000Z"
+            },
+            "whatsNew": "New Zealand's Online Casino Gambling Bill has passed its third and final reading, paving the way for a newly regulated iGaming framework. The bill now awaits Royal assent to become law. This development is expected to significantly impact the country's online gaming industry.",
+            "whyItMatters": "The new law will provide a regulated framework for online casinos in New Zealand, offering a safer environment for players and new opportunities for operators. This move is likely to attract international iGaming companies to the market.",
+            "howToUse": "Operators should prepare to comply with the new regulations, while players can expect a more secure and diverse online gaming experience. Companies should review the bill's provisions to understand the requirements for licensing and operation.",
+            "beneficiaries": [
+                "iGaming operators",
+                "online casino players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-t6i3p0rvg",
+            "title": "Gambling Ad Ban",
+            "subtitle": "UK's APPG proposes strict restrictions on gambling advertising, nearing a full ban",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Regulation",
+                "Advertising Restrictions",
+                "UK iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/uk-appg-advertising-proposals-edge-toward-full-ban/",
+                "date": "2026-04-23T11:19:10.000Z"
+            },
+            "whatsNew": "The UK's APPG on Gambling Reform has proposed a significant escalation of restrictions on gambling advertising, targeting major marketing channels. The proposals aim to reduce the impact of gambling advertising on children and young people.",
+            "whyItMatters": "The proposed restrictions could significantly impact the iGaming industry's marketing strategies and revenue. A full ban on gambling advertising would require operators to adapt and find alternative marketing channels.",
+            "howToUse": "iGaming operators should review their marketing strategies and consider alternative channels to prepare for potential restrictions. They should also monitor regulatory updates and engage with industry associations to stay informed.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
