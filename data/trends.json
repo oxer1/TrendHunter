@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-07T14:00:33.499Z",
+        "scanDate": "2026-05-07T16:11:07.108Z",
         "version": "2.5.0",
-        "totalTrends": 115,
+        "totalTrends": 111,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qeeynsq2m",
+            "title": "Entain Seeks Ban",
+            "subtitle": "Entain calls for a ban on unlicensed gambling sponsorships in English football",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "English Football",
+                "Unlicensed Sponsorships"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWG52aVN4eTkyMzlMT1U4VmFsejlQa1ZwdVd2TnRHNFBZcTVBcmV2d2lnaGpnYllOMk96RERaQVRfTVcybGxlam13MnNyUzFJQjB0OE42VTdtY05ha0dVRk1neTZ0ejhMWEJkUGlzNXRDUDlmQ1NNVGFNU05oSG9OOXg2LVpGWm1ZS0Zka3REUWctRTBuclNtLXR4YVh4TmszdVJEbEU3SUxwSm9aakNVZWlYUlVIQ0Yw?oc=5",
+                "date": "2026-05-07T14:18:08.000Z"
+            },
+            "whatsNew": "Entain is urging the English football regulator to prohibit sponsorships from unlicensed gambling operators. This move aims to promote a safer and more regulated gambling environment.",
+            "whyItMatters": "The ban could significantly impact the English football industry by reducing the presence of unlicensed operators and promoting responsible gambling practices. It may also set a precedent for other sports and jurisdictions.",
+            "howToUse": "Operators should ensure they hold the necessary licenses to sponsor English football teams, and regulators should enforce strict guidelines to prevent unlicensed sponsorships.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "English Football Regulator"
+            ],
+            "companies": [
+                "Entain"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-ko4f97esy",
             "title": "Video Editing",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vae9mnt5l",
@@ -1413,37 +1444,6 @@
             ],
             "companies": [
                 "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-cssyrdsf1",
-            "title": "AI Art Prompts",
-            "subtitle": "FLUX.1 prompts for generating a young goddess with long wavy hair",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "FLUX.1",
-                "Prompts"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSThvVHk5RmhnNC1wdl91X2ZmS0RtcFFHWUl2bWtUcVdLTWJjeVBNOU1nb0tfNXFFeDYyTVZmS3dyVWZ0WVlwa0Y1c0F3M21KSjVXTnFPWEhJd1drRkFuQW5RcXNXNEJJc1d6WWJ2RFhHRjFPRHFKVXo1SWtvM3FtNktuYmZtOXc?oc=5",
-                "date": "2026-04-23T16:10:01.000Z"
-            },
-            "whatsNew": "New prompts are available for FLUX.1, an AI art generation tool, allowing users to create images of a young goddess with long wavy hair. These prompts enable more detailed and specific image generation. The use of such prompts showcases the evolving capabilities of AI in art creation.",
-            "whyItMatters": "The development of specific prompts for AI art generation tools like FLUX.1 indicates a growing interest in using AI for creative work, potentially changing the landscape of digital art. This could impact artists, designers, and the broader creative industry.",
-            "howToUse": "To utilize these prompts, users can input them into FLUX.1, adjusting parameters to generate unique images of a young goddess with long wavy hair, which can be used for various artistic or design purposes.",
-            "beneficiaries": [
-                "Digital Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -3211,35 +3211,6 @@
             "isNew": false
         },
         {
-            "id": "t-rbvlzzcj1",
-            "title": "Oklahoma Sports Betting",
-            "subtitle": "Oklahoma sports betting bill fails in Senate due to tribal amendment",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "Oklahoma",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/oklahoma-sports-betting-bill-fails-in-senate/",
-                "date": "2026-04-23T14:47:40.000Z"
-            },
-            "whatsNew": "A bill to legalize sports betting in Oklahoma has failed to pass the Senate. The state remains one of 11 US jurisdictions without legal wagering.",
-            "whyItMatters": "The failure of the bill impacts the potential revenue and job creation in Oklahoma's gaming industry. It also leaves the state behind in terms of sports betting regulation compared to other US jurisdictions.",
-            "howToUse": "Operators and stakeholders should monitor future legislative developments and potential amendments that could revive the bill.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "State Revenue"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-869itxpt5",
             "title": "Tennessee Sweepstakes Ban",
             "subtitle": "Tennessee lawmakers push forward with sweepstakes gaming ban after initial rejection",
@@ -3525,99 +3496,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-qezvr9hda",
-            "title": "BGC New Chair",
-            "subtitle": "Gamesys MD Kane Purdy is appointed as the new Chair of the Betting and Gaming Council",
-            "category": "iGaming",
-            "tags": [
-                "BGC",
-                "Gamesys",
-                "Kane Purdy"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/gamesys-md-kane-purdy-appointed-as-new-bgc-chair/",
-                "date": "2026-04-23T16:06:33.000Z"
-            },
-            "whatsNew": "Kane Purdy, MD of Gamesys, has been appointed as the new Chair of the Betting and Gaming Council, replacing Michael Dugher. This change occurs three months after Dugher's departure. The appointment is expected to bring new leadership to the BGC.",
-            "whyItMatters": "The appointment of a new Chair can influence the direction and policies of the BGC, potentially impacting the iGaming industry. Purdy's experience as Gamesys MD could bring valuable insights to the role.",
-            "howToUse": "Industry professionals should monitor the BGC's future decisions and announcements under Purdy's leadership to understand potential changes in regulation or industry standards.",
-            "beneficiaries": [
-                "iGaming operators",
-                "BGC members"
-            ],
-            "companies": [
-                "Gamesys",
-                "Betting and Gaming Council"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-0mo4u5v4l",
-            "title": "Penn Revenue Grows",
-            "subtitle": "Penn Entertainment's Q1 2026 financial results show revenue growth and narrowing losses.",
-            "category": "iGaming",
-            "tags": [
-                "Penn Entertainment",
-                "Q1 2026",
-                "Financial Results"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q126-penn-losses-narrow-revenue-grows-6pc/",
-                "date": "2026-04-23T15:40:36.000Z"
-            },
-            "whatsNew": "Penn Entertainment's revenue grew 6% in Q1 2026, with losses continuing to narrow. CEO Jay Snowden described the quarter as 'solid'.",
-            "whyItMatters": "The growth in revenue and reduction in losses indicate a positive trend for Penn Entertainment, suggesting the company is on a path to recovery and potential expansion.",
-            "howToUse": "Investors and industry analysts can use this information to assess Penn Entertainment's financial health and potential for future growth.",
-            "beneficiaries": [
-                "Investors",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Penn Entertainment"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-f24y91ym5",
-            "title": "Malta Bill 55",
-            "subtitle": "Malta's Bill 55 may escape EU court scrutiny for now, according to the CJEU's advocate general",
-            "category": "iGaming",
-            "tags": [
-                "Malta",
-                "Bill 55",
-                "EU Court",
-                "iGaming Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/malta-bill-55-could-escape-eu-court-scrutiny/",
-                "date": "2026-04-23T15:32:16.000Z"
-            },
-            "whatsNew": "The CJEU's advocate general declined to rule on the legality of Malta's Bill 55, potentially allowing it to escape EU court scrutiny. The advocate general noted that if he had to rule, he would strike down the bill. This development may impact the iGaming industry in Malta.",
-            "whyItMatters": "The outcome of this case could significantly impact Malta's iGaming industry and its regulatory environment. It may also set a precedent for other EU countries with similar legislation.",
-            "howToUse": "iGaming operators and regulators should closely monitor the developments surrounding Bill 55 and its potential implications on the industry.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3774,7 +3652,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": null
         },
         {
@@ -3793,7 +3671,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3802,7 +3680,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3811,7 +3689,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": "Regulatory updates"
         },
         {
@@ -3829,7 +3707,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3838,7 +3716,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3858,7 +3736,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3916,7 +3794,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -4061,7 +3939,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-07T16:11:07.108Z",
             "note": null
         },
         {
@@ -22413,6 +22291,159 @@
             "beneficiaries": [
                 "iGaming Operators",
                 "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-cssyrdsf1",
+            "title": "AI Art Prompts",
+            "subtitle": "FLUX.1 prompts for generating a young goddess with long wavy hair",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "FLUX.1",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSThvVHk5RmhnNC1wdl91X2ZmS0RtcFFHWUl2bWtUcVdLTWJjeVBNOU1nb0tfNXFFeDYyTVZmS3dyVWZ0WVlwa0Y1c0F3M21KSjVXTnFPWEhJd1drRkFuQW5RcXNXNEJJc1d6WWJ2RFhHRjFPRHFKVXo1SWtvM3FtNktuYmZtOXc?oc=5",
+                "date": "2026-04-23T16:10:01.000Z"
+            },
+            "whatsNew": "New prompts are available for FLUX.1, an AI art generation tool, allowing users to create images of a young goddess with long wavy hair. These prompts enable more detailed and specific image generation. The use of such prompts showcases the evolving capabilities of AI in art creation.",
+            "whyItMatters": "The development of specific prompts for AI art generation tools like FLUX.1 indicates a growing interest in using AI for creative work, potentially changing the landscape of digital art. This could impact artists, designers, and the broader creative industry.",
+            "howToUse": "To utilize these prompts, users can input them into FLUX.1, adjusting parameters to generate unique images of a young goddess with long wavy hair, which can be used for various artistic or design purposes.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-rbvlzzcj1",
+            "title": "Oklahoma Sports Betting",
+            "subtitle": "Oklahoma sports betting bill fails in Senate due to tribal amendment",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Oklahoma",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/oklahoma-sports-betting-bill-fails-in-senate/",
+                "date": "2026-04-23T14:47:40.000Z"
+            },
+            "whatsNew": "A bill to legalize sports betting in Oklahoma has failed to pass the Senate. The state remains one of 11 US jurisdictions without legal wagering.",
+            "whyItMatters": "The failure of the bill impacts the potential revenue and job creation in Oklahoma's gaming industry. It also leaves the state behind in terms of sports betting regulation compared to other US jurisdictions.",
+            "howToUse": "Operators and stakeholders should monitor future legislative developments and potential amendments that could revive the bill.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "State Revenue"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qezvr9hda",
+            "title": "BGC New Chair",
+            "subtitle": "Gamesys MD Kane Purdy is appointed as the new Chair of the Betting and Gaming Council",
+            "category": "iGaming",
+            "tags": [
+                "BGC",
+                "Gamesys",
+                "Kane Purdy"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/gamesys-md-kane-purdy-appointed-as-new-bgc-chair/",
+                "date": "2026-04-23T16:06:33.000Z"
+            },
+            "whatsNew": "Kane Purdy, MD of Gamesys, has been appointed as the new Chair of the Betting and Gaming Council, replacing Michael Dugher. This change occurs three months after Dugher's departure. The appointment is expected to bring new leadership to the BGC.",
+            "whyItMatters": "The appointment of a new Chair can influence the direction and policies of the BGC, potentially impacting the iGaming industry. Purdy's experience as Gamesys MD could bring valuable insights to the role.",
+            "howToUse": "Industry professionals should monitor the BGC's future decisions and announcements under Purdy's leadership to understand potential changes in regulation or industry standards.",
+            "beneficiaries": [
+                "iGaming operators",
+                "BGC members"
+            ],
+            "companies": [
+                "Gamesys",
+                "Betting and Gaming Council"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0mo4u5v4l",
+            "title": "Penn Revenue Grows",
+            "subtitle": "Penn Entertainment's Q1 2026 financial results show revenue growth and narrowing losses.",
+            "category": "iGaming",
+            "tags": [
+                "Penn Entertainment",
+                "Q1 2026",
+                "Financial Results"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-penn-losses-narrow-revenue-grows-6pc/",
+                "date": "2026-04-23T15:40:36.000Z"
+            },
+            "whatsNew": "Penn Entertainment's revenue grew 6% in Q1 2026, with losses continuing to narrow. CEO Jay Snowden described the quarter as 'solid'.",
+            "whyItMatters": "The growth in revenue and reduction in losses indicate a positive trend for Penn Entertainment, suggesting the company is on a path to recovery and potential expansion.",
+            "howToUse": "Investors and industry analysts can use this information to assess Penn Entertainment's financial health and potential for future growth.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Penn Entertainment"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-f24y91ym5",
+            "title": "Malta Bill 55",
+            "subtitle": "Malta's Bill 55 may escape EU court scrutiny for now, according to the CJEU's advocate general",
+            "category": "iGaming",
+            "tags": [
+                "Malta",
+                "Bill 55",
+                "EU Court",
+                "iGaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/malta-bill-55-could-escape-eu-court-scrutiny/",
+                "date": "2026-04-23T15:32:16.000Z"
+            },
+            "whatsNew": "The CJEU's advocate general declined to rule on the legality of Malta's Bill 55, potentially allowing it to escape EU court scrutiny. The advocate general noted that if he had to rule, he would strike down the bill. This development may impact the iGaming industry in Malta.",
+            "whyItMatters": "The outcome of this case could significantly impact Malta's iGaming industry and its regulatory environment. It may also set a precedent for other EU countries with similar legislation.",
+            "howToUse": "iGaming operators and regulators should closely monitor the developments surrounding Bill 55 and its potential implications on the industry.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
             ],
             "companies": [],
             "visualStyle": null,
