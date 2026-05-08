@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-08T05:54:49.366Z",
+        "scanDate": "2026-05-08T07:26:08.533Z",
         "version": "2.5.0",
-        "totalTrends": 108,
+        "totalTrends": 104,
         "categories": [
             "iGaming",
             "AI",
@@ -295,37 +295,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-g4jr4xp1a",
-            "title": "Spine Animator Issue",
-            "subtitle": "Animator transitions in Spine ignore duration and no longer blend",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "Animation",
-                "Bug"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFhNMkVKR2U5akxxSE1xMHljaThaVkNSQWd4R0hqZm1aZkZQSkNaN19WYzBNYl9paW12Vmo1S0dPQ0g5STdWN3lVZ2JiS3hQcWhYN0JMbWFfQ1pGTW11NFZKOU8tOWZWWHBieXBPRHJCWXFoSHJCSjFUUUdGX043Sl9JVU1HejNuRXdwVlBTUFJHS3VDMnJuMVhwT3B2VjlveEVqNA?oc=5",
-                "date": "2026-04-24T06:54:18.000Z"
-            },
-            "whatsNew": "A recent issue has been reported with Spine's animator transitions, where they ignore duration and no longer blend. This affects the animation workflow in Spine. The issue is currently being discussed on the Spine forum.",
-            "whyItMatters": "This issue impacts game and animation developers who rely on Spine for their projects, potentially disrupting their workflow and animation quality.",
-            "howToUse": "Developers can monitor the Spine forum for updates on the issue and potential workarounds, and adjust their animation workflow accordingly.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Artists"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
             "isNew": false
         },
         {
@@ -1044,38 +1013,6 @@
             "isNew": false
         },
         {
-            "id": "t-04j0row8d",
-            "title": "Rethinking AI Art",
-            "subtitle": "OpenArt challenges common misconceptions about AI-generated art",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "OpenArt",
-                "Creative Tech"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RUTZtd3dGM0JNVGZvd1owYnlxMTY1SHROSDhGX2I2azNPdEtvaEpZOFlfMm15b3dPR0trOGpOelg2TnR1QlE?oc=5",
-                "date": "2026-04-24T07:00:00.000Z"
-            },
-            "whatsNew": "OpenArt's recent article highlights the need to reassess our understanding of AI art, emphasizing the importance of clarity in terminology and the role of human creativity. The piece sparks a necessary conversation about the intersection of technology and art. It encourages readers to think critically about the implications of AI on the art world.",
-            "whyItMatters": "This discussion matters because it influences how we perceive and interact with AI-generated content, impacting both the art and tech industries. It also raises questions about authorship and the future of creative work.",
-            "howToUse": "To navigate this evolving landscape, artists and technologists should engage in open dialogue, focusing on collaboration and the ethical development of AI tools. By doing so, they can harness the potential of AI to enhance, rather than replace, human creativity.",
-            "beneficiaries": [
-                "Artists",
-                "Technologists",
-                "Art Enthusiasts"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-6n3vxbnh1",
             "title": "AI Photo Restoration",
             "subtitle": "OpenArt introduces AI-powered online photo restoration tool",
@@ -1164,37 +1101,6 @@
             ],
             "companies": [
                 "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-vhswpcktp",
-            "title": "AI Art Workflow",
-            "subtitle": "Civitai introduces professional grade workflow for SFW and NSFW content creation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Workflow"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnNqZm5pV1hJcEJ1bUwyS3k1UWV2OVl1Uktla3dLeGxvcGVlbUdRMEo5N2RwdHV6SzdXTE1MODRsOElKR2ZQd2FSVDh2SjFKOGJ0QjZYOVJubV93RlNjdmNwOXB1Y1ZaTk9pWHpOWUd2UFpySUMyRG40Zjh2YXIyRHZyTzNkU0paWVBRWkZuM0lNME5yYllrQzVLb1FwUFMxWHdIT2VnUU5fdGdhajdPZFZJWm5mQQ?oc=5",
-                "date": "2026-04-24T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai's new workflow supports both low and high VRAM, enabling creators to produce professional-grade content with ease. The workflow caters to both SFW and NSFW content creation. It is designed to be efficient and adaptable to different hardware configurations.",
-            "whyItMatters": "This development matters because it democratizes access to professional-grade AI art generation, allowing more creators to produce high-quality content. It also highlights the growing importance of AI in the creative industries.",
-            "howToUse": "Creators can utilize Civitai's workflow by adjusting parameters to suit their specific needs, whether working with limited VRAM or pushing the boundaries of high-end hardware. Experimenting with different settings can help optimize results.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -3372,39 +3278,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-twrtmziyt",
-            "title": "Red Papaya Innovates",
-            "subtitle": "Red Papaya redefines the flagship studio model in the B2B slot market with a new approach to game design and studio identity.",
-            "category": "iGaming",
-            "tags": [
-                "Red Papaya",
-                "B2B slot market",
-                "game design",
-                "studio model"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/red-papaya-is-redefining-the-flagship-studio-model/",
-                "date": "2026-04-24T06:00:00.000Z"
-            },
-            "whatsNew": "Red Papaya is fusing agile creativity with industrial-grade distribution to deliver a new blueprint for the B2B slot market. Their approach focuses on 'colourful disruption' to stand out in a saturated landscape.",
-            "whyItMatters": "Red Papaya's innovative approach could disrupt the traditional B2B slot market and influence other studios to adopt similar models. This could lead to more diverse and engaging game designs.",
-            "howToUse": "Game developers and studios can learn from Red Papaya's model by embracing agile creativity and partnering with established platforms for distribution and compliance.",
-            "beneficiaries": [
-                "Game developers",
-                "B2B slot market studios"
-            ],
-            "companies": [
-                "Red Papaya",
-                "Microgaming"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3561,7 +3434,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": null
         },
         {
@@ -3580,7 +3453,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3589,7 +3462,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3598,7 +3471,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": "Regulatory updates"
         },
         {
@@ -3616,7 +3489,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3625,7 +3498,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3645,7 +3518,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3703,7 +3576,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3848,7 +3721,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T05:54:49.366Z",
+            "lastScan": "2026-05-08T07:26:08.533Z",
             "note": null
         },
         {
@@ -22512,6 +22385,133 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-g4jr4xp1a",
+            "title": "Spine Animator Issue",
+            "subtitle": "Animator transitions in Spine ignore duration and no longer blend",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Animation",
+                "Bug"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFhNMkVKR2U5akxxSE1xMHljaThaVkNSQWd4R0hqZm1aZkZQSkNaN19WYzBNYl9paW12Vmo1S0dPQ0g5STdWN3lVZ2JiS3hQcWhYN0JMbWFfQ1pGTW11NFZKOU8tOWZWWHBieXBPRHJCWXFoSHJCSjFUUUdGX043Sl9JVU1HejNuRXdwVlBTUFJHS3VDMnJuMVhwT3B2VjlveEVqNA?oc=5",
+                "date": "2026-04-24T06:54:18.000Z"
+            },
+            "whatsNew": "A recent issue has been reported with Spine's animator transitions, where they ignore duration and no longer blend. This affects the animation workflow in Spine. The issue is currently being discussed on the Spine forum.",
+            "whyItMatters": "This issue impacts game and animation developers who rely on Spine for their projects, potentially disrupting their workflow and animation quality.",
+            "howToUse": "Developers can monitor the Spine forum for updates on the issue and potential workarounds, and adjust their animation workflow accordingly.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-04j0row8d",
+            "title": "Rethinking AI Art",
+            "subtitle": "OpenArt challenges common misconceptions about AI-generated art",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "OpenArt",
+                "Creative Tech"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RUTZtd3dGM0JNVGZvd1owYnlxMTY1SHROSDhGX2I2azNPdEtvaEpZOFlfMm15b3dPR0trOGpOelg2TnR1QlE?oc=5",
+                "date": "2026-04-24T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt's recent article highlights the need to reassess our understanding of AI art, emphasizing the importance of clarity in terminology and the role of human creativity. The piece sparks a necessary conversation about the intersection of technology and art. It encourages readers to think critically about the implications of AI on the art world.",
+            "whyItMatters": "This discussion matters because it influences how we perceive and interact with AI-generated content, impacting both the art and tech industries. It also raises questions about authorship and the future of creative work.",
+            "howToUse": "To navigate this evolving landscape, artists and technologists should engage in open dialogue, focusing on collaboration and the ethical development of AI tools. By doing so, they can harness the potential of AI to enhance, rather than replace, human creativity.",
+            "beneficiaries": [
+                "Artists",
+                "Technologists",
+                "Art Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-vhswpcktp",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces professional grade workflow for SFW and NSFW content creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnNqZm5pV1hJcEJ1bUwyS3k1UWV2OVl1Uktla3dLeGxvcGVlbUdRMEo5N2RwdHV6SzdXTE1MODRsOElKR2ZQd2FSVDh2SjFKOGJ0QjZYOVJubV93RlNjdmNwOXB1Y1ZaTk9pWHpOWUd2UFpySUMyRG40Zjh2YXIyRHZyTzNkU0paWVBRWkZuM0lNME5yYllrQzVLb1FwUFMxWHdIT2VnUU5fdGdhajdPZFZJWm5mQQ?oc=5",
+                "date": "2026-04-24T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, enabling creators to produce professional-grade content with ease. The workflow caters to both SFW and NSFW content creation. It is designed to be efficient and adaptable to different hardware configurations.",
+            "whyItMatters": "This development matters because it democratizes access to professional-grade AI art generation, allowing more creators to produce high-quality content. It also highlights the growing importance of AI in the creative industries.",
+            "howToUse": "Creators can utilize Civitai's workflow by adjusting parameters to suit their specific needs, whether working with limited VRAM or pushing the boundaries of high-end hardware. Experimenting with different settings can help optimize results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-twrtmziyt",
+            "title": "Red Papaya Innovates",
+            "subtitle": "Red Papaya redefines the flagship studio model in the B2B slot market with a new approach to game design and studio identity.",
+            "category": "iGaming",
+            "tags": [
+                "Red Papaya",
+                "B2B slot market",
+                "game design",
+                "studio model"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/red-papaya-is-redefining-the-flagship-studio-model/",
+                "date": "2026-04-24T06:00:00.000Z"
+            },
+            "whatsNew": "Red Papaya is fusing agile creativity with industrial-grade distribution to deliver a new blueprint for the B2B slot market. Their approach focuses on 'colourful disruption' to stand out in a saturated landscape.",
+            "whyItMatters": "Red Papaya's innovative approach could disrupt the traditional B2B slot market and influence other studios to adopt similar models. This could lead to more diverse and engaging game designs.",
+            "howToUse": "Game developers and studios can learn from Red Papaya's model by embracing agile creativity and partnering with established platforms for distribution and compliance.",
+            "beneficiaries": [
+                "Game developers",
+                "B2B slot market studios"
+            ],
+            "companies": [
+                "Red Papaya",
+                "Microgaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
