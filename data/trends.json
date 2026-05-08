@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-08T17:14:05.045Z",
+        "scanDate": "2026-05-08T19:13:44.325Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 95,
         "categories": [
             "iGaming",
             "AI",
@@ -1917,37 +1917,6 @@
             "isNew": false
         },
         {
-            "id": "t-r1vaerqu7",
-            "title": "MGA Seal Update",
-            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Licensing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ2Nzb1FKMzBxTDRjcXp6ckY5YU1vVzJjOUFUQl92NkpPamxjdjU0LUUzcHJzcmduNllCd0d0bm5IS1FMV2dtVzZTNWFKVmJYTmloTmF5RWlrUHIzTnNXTXdrOWx4cGpYQVA4X3FyWXhJSXBqNWZNbGR1X25Pb1JNcnZaaU1jUm1NUl9KdFNOTnhXQ203QUZUa01TR2x3b1Z2bFZWV2JXd09BaWM1elM5VExWcw?oc=5",
-                "date": "2026-04-24T18:57:02.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This move aims to provide a more secure and reliable way to verify the licensing status of gaming operators. The Dynamic Seal is expected to reduce fraud and increase player trust.",
-            "whyItMatters": "The introduction of the Dynamic Seal Of Authorisation by the MGA is significant as it sets a new standard for regulatory compliance and player protection in the iGaming sector. It demonstrates the authority's commitment to innovation and security.",
-            "howToUse": "Gaming operators can use the Dynamic Seal to demonstrate their compliance with MGA regulations, while players can verify the authenticity of their preferred gaming platforms.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Players"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-1ru31c7gx",
             "title": "MGA Regulation Update",
             "subtitle": "Malta Gaming Authority proposes enhancements to the Recognition Notice Framework",
@@ -3180,7 +3149,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": null
         },
         {
@@ -3199,7 +3168,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3208,7 +3177,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3217,7 +3186,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": "Regulatory updates"
         },
         {
@@ -3235,7 +3204,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3244,7 +3213,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3264,7 +3233,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3322,7 +3291,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3467,7 +3436,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-08T19:13:44.325Z",
             "note": null
         },
         {
@@ -22575,6 +22544,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-r1vaerqu7",
+            "title": "MGA Seal Update",
+            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ2Nzb1FKMzBxTDRjcXp6ckY5YU1vVzJjOUFUQl92NkpPamxjdjU0LUUzcHJzcmduNllCd0d0bm5IS1FMV2dtVzZTNWFKVmJYTmloTmF5RWlrUHIzTnNXTXdrOWx4cGpYQVA4X3FyWXhJSXBqNWZNbGR1X25Pb1JNcnZaaU1jUm1NUl9KdFNOTnhXQ203QUZUa01TR2x3b1Z2bFZWV2JXd09BaWM1elM5VExWcw?oc=5",
+                "date": "2026-04-24T18:57:02.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This move aims to provide a more secure and reliable way to verify the licensing status of gaming operators. The Dynamic Seal is expected to reduce fraud and increase player trust.",
+            "whyItMatters": "The introduction of the Dynamic Seal Of Authorisation by the MGA is significant as it sets a new standard for regulatory compliance and player protection in the iGaming sector. It demonstrates the authority's commitment to innovation and security.",
+            "howToUse": "Gaming operators can use the Dynamic Seal to demonstrate their compliance with MGA regulations, while players can verify the authenticity of their preferred gaming platforms.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
