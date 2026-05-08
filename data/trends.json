@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-08T19:13:44.325Z",
+        "scanDate": "2026-05-08T20:57:05.040Z",
         "version": "2.5.0",
         "totalTrends": 95,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-u7yzvz31j",
+            "title": "Graham License",
+            "subtitle": "Wayne Newman Graham's trading names updated by UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmZHYlA5TW5vY1NQNkE2SHJMZUEwWmRoNXFPaFIzMEFaYmh4M1luNGxNTWhZcGlzbjI1Rm1PTUIyUnpldmt5OVZPVWFUMVZRbzZxcks5T2dVWC1qRktFQXJHM2VYMGJaZ0RORDR0bzRsQVBLT081TnJLREhUS21SZmF1dWQ5QVpjVjkyLWRER29LRnlY?oc=5",
+                "date": "2026-05-08T12:35:36.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated the trading names for Wayne Newman Graham, indicating a potential change in operations or compliance.",
+            "whyItMatters": "This update reflects the ongoing regulatory efforts to ensure transparency and compliance within the iGaming industry.",
+            "howToUse": "Operators should review and ensure their trading names are up-to-date and compliant with regulatory requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Wayne Newman Graham"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-fwx4ha8si",
             "title": "Stake Mexico Launch",
@@ -1348,37 +1379,6 @@
                 "Game Developers",
                 "Content Creators",
                 "Marketers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-8dnbp5vly",
-            "title": "AI Video Creation",
-            "subtitle": "OpenArt offers free AI video creation tools",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "OpenArt",
-                "Free Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MVEFTal9aSU4wcl85OEkyeUFfRTlTRGJWNjBNd2N3a293Rmwta2tkY041VG9STUgweG1RZlBNc1BxalplbHZuaExRUjNVU2xkU3ZDX0JhcUVYdUk?oc=5",
-                "date": "2026-04-24T20:19:46.000Z"
-            },
-            "whatsNew": "OpenArt introduces free AI video creation, allowing users to generate videos using AI. This tool is expected to democratize video creation. The platform provides an accessible way to produce high-quality videos.",
-            "whyItMatters": "The availability of free AI video creation tools can significantly impact the content creation landscape, making it more accessible to individuals and small businesses. This can lead to an increase in innovative content and new forms of storytelling.",
-            "howToUse": "Users can access OpenArt's free AI video creation tool by visiting their website and following the prompts to generate their videos. Experimenting with different inputs and settings can help users achieve desired outcomes.",
-            "beneficiaries": [
-                "Content Creators",
-                "Small Businesses"
             ],
             "companies": [
                 "OpenArt"
@@ -3149,7 +3149,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": null
         },
         {
@@ -3168,7 +3168,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3177,7 +3177,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3186,7 +3186,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": "Regulatory updates"
         },
         {
@@ -3204,7 +3204,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3213,7 +3213,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3233,7 +3233,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3291,7 +3291,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3436,7 +3436,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T19:13:44.325Z",
+            "lastScan": "2026-05-08T20:57:05.040Z",
             "note": null
         },
         {
@@ -22575,6 +22575,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-8dnbp5vly",
+            "title": "AI Video Creation",
+            "subtitle": "OpenArt offers free AI video creation tools",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "OpenArt",
+                "Free Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MVEFTal9aSU4wcl85OEkyeUFfRTlTRGJWNjBNd2N3a293Rmwta2tkY041VG9STUgweG1RZlBNc1BxalplbHZuaExRUjNVU2xkU3ZDX0JhcUVYdUk?oc=5",
+                "date": "2026-04-24T20:19:46.000Z"
+            },
+            "whatsNew": "OpenArt introduces free AI video creation, allowing users to generate videos using AI. This tool is expected to democratize video creation. The platform provides an accessible way to produce high-quality videos.",
+            "whyItMatters": "The availability of free AI video creation tools can significantly impact the content creation landscape, making it more accessible to individuals and small businesses. This can lead to an increase in innovative content and new forms of storytelling.",
+            "howToUse": "Users can access OpenArt's free AI video creation tool by visiting their website and following the prompts to generate their videos. Experimenting with different inputs and settings can help users achieve desired outcomes.",
+            "beneficiaries": [
+                "Content Creators",
+                "Small Businesses"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
