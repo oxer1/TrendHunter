@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-08T07:26:08.533Z",
+        "scanDate": "2026-05-08T09:16:24.806Z",
         "version": "2.5.0",
-        "totalTrends": 104,
+        "totalTrends": 102,
         "categories": [
             "iGaming",
             "AI",
@@ -3211,73 +3211,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-t1hpc3lb7",
-            "title": "World Cup Impact",
-            "subtitle": "SOFTSWISS and SBC host webinar on sportsbook performance in Latin America during World Cup 2026",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "Latin America",
-                "World Cup 2026"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/softswiss-and-sbc-host-world-cup-2026-webinar-for-latam-sportsbook-markets/",
-                "date": "2026-04-24T09:12:03.000Z"
-            },
-            "whatsNew": "The webinar discussed the unique infrastructure pressure Latin America faces during the World Cup and strategies for operators to stay stable and retain players. Experts from SOFTSWISS, Stellar Gaming, and Gamewiz shared insights on preparing for the demanding betting period.",
-            "whyItMatters": "The World Cup 2026 is expected to have a significant impact on sportsbook performance in Latin America, and operators must prepare to handle the increased demand and maintain stability. The webinar provided valuable insights for operators to stay competitive.",
-            "howToUse": "Operators can use the insights from the webinar to optimize their infrastructure and strategies for the World Cup 2026, ensuring a stable and engaging experience for players.",
-            "beneficiaries": [
-                "Sportsbook Operators",
-                "Gaming Industry Experts"
-            ],
-            "companies": [
-                "SOFTSWISS",
-                "SBC",
-                "Stellar Gaming",
-                "Gamewiz"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-xmgqtrjda",
-            "title": "Sportradar CEO",
-            "subtitle": "Sportradar CEO defends company against short seller reports",
-            "category": "iGaming",
-            "tags": [
-                "Sportradar",
-                "short seller reports",
-                "governance concerns"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/investment/take-this-personally-sportradar-ceo-short-sellers/",
-                "date": "2026-04-24T08:00:05.000Z"
-            },
-            "whatsNew": "Sportradar CEO Carsten Koerl responds to short seller reports alleging governance and compliance concerns. The reports were published by Muddy Waters and Callisto Research, prompting a personal response from Koerl.",
-            "whyItMatters": "The dispute reflects the ongoing scrutiny of the sports betting industry and its key players, with potential implications for regulatory oversight and market confidence.",
-            "howToUse": "Industry stakeholders should monitor the situation for potential regulatory developments and assess the impact on their own operations and partnerships.",
-            "beneficiaries": [
-                "iGaming operators",
-                "regulators"
-            ],
-            "companies": [
-                "Sportradar",
-                "Muddy Waters",
-                "Callisto Research"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3434,7 +3367,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": null
         },
         {
@@ -3453,7 +3386,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3462,7 +3395,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3471,7 +3404,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": "Regulatory updates"
         },
         {
@@ -3489,7 +3422,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3498,7 +3431,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3518,7 +3451,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3576,7 +3509,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3721,7 +3654,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T07:26:08.533Z",
+            "lastScan": "2026-05-08T09:16:24.806Z",
             "note": null
         },
         {
@@ -22512,6 +22445,73 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-t1hpc3lb7",
+            "title": "World Cup Impact",
+            "subtitle": "SOFTSWISS and SBC host webinar on sportsbook performance in Latin America during World Cup 2026",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Latin America",
+                "World Cup 2026"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-and-sbc-host-world-cup-2026-webinar-for-latam-sportsbook-markets/",
+                "date": "2026-04-24T09:12:03.000Z"
+            },
+            "whatsNew": "The webinar discussed the unique infrastructure pressure Latin America faces during the World Cup and strategies for operators to stay stable and retain players. Experts from SOFTSWISS, Stellar Gaming, and Gamewiz shared insights on preparing for the demanding betting period.",
+            "whyItMatters": "The World Cup 2026 is expected to have a significant impact on sportsbook performance in Latin America, and operators must prepare to handle the increased demand and maintain stability. The webinar provided valuable insights for operators to stay competitive.",
+            "howToUse": "Operators can use the insights from the webinar to optimize their infrastructure and strategies for the World Cup 2026, ensuring a stable and engaging experience for players.",
+            "beneficiaries": [
+                "Sportsbook Operators",
+                "Gaming Industry Experts"
+            ],
+            "companies": [
+                "SOFTSWISS",
+                "SBC",
+                "Stellar Gaming",
+                "Gamewiz"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-xmgqtrjda",
+            "title": "Sportradar CEO",
+            "subtitle": "Sportradar CEO defends company against short seller reports",
+            "category": "iGaming",
+            "tags": [
+                "Sportradar",
+                "short seller reports",
+                "governance concerns"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/take-this-personally-sportradar-ceo-short-sellers/",
+                "date": "2026-04-24T08:00:05.000Z"
+            },
+            "whatsNew": "Sportradar CEO Carsten Koerl responds to short seller reports alleging governance and compliance concerns. The reports were published by Muddy Waters and Callisto Research, prompting a personal response from Koerl.",
+            "whyItMatters": "The dispute reflects the ongoing scrutiny of the sports betting industry and its key players, with potential implications for regulatory oversight and market confidence.",
+            "howToUse": "Industry stakeholders should monitor the situation for potential regulatory developments and assess the impact on their own operations and partnerships.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators"
+            ],
+            "companies": [
+                "Sportradar",
+                "Muddy Waters",
+                "Callisto Research"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
