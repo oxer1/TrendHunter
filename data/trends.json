@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-07T23:59:36.508Z",
+        "scanDate": "2026-05-08T03:44:58.770Z",
         "version": "2.5.0",
-        "totalTrends": 109,
+        "totalTrends": 108,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-71cw3tq8u",
+            "title": "AI Avatar Creation",
+            "subtitle": "A complete guide on creating AI avatars from photos using HeyGen",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "HeyGen",
+                "Photo Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOdmxIeWhISlJxczhZNl9OcVB6eGRtb0RiUm4ycFgtZV8yT29WQ1djRVlWcDA3c0FhYUYzMmxROTUteWwzQldMR1YwY0pQaEpZcVBNUFZLSjd3TktoUHFBTVRuR21aQQ?oc=5",
+                "date": "2026-05-04T07:00:00.000Z"
+            },
+            "whatsNew": "HeyGen provides a comprehensive guide on creating AI avatars from photos, utilizing AI technology for innovative visual effects. The process involves uploading a photo and using AI algorithms to generate a personalized avatar. This technology has potential applications in gaming, social media, and virtual reality.",
+            "whyItMatters": "The ability to create AI avatars from photos can revolutionize the gaming and social media industries, providing users with personalized and interactive experiences. This technology also raises important questions about AI ethics and digital identity.",
+            "howToUse": "To create an AI avatar, users can upload a photo to HeyGen's platform and follow the provided guide to generate a personalized avatar. This can be used in various applications, such as gaming, social media, and virtual reality.",
+            "beneficiaries": [
+                "Game Developers",
+                "Social Media Users",
+                "Virtual Reality Creators"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-mj70j33p5",
             "title": "Juggernaut Z Released",
@@ -3057,38 +3089,6 @@
             "isNew": false
         },
         {
-            "id": "t-dek5sril4",
-            "title": "RocketPlay Social Sportsbook",
-            "subtitle": "RocketPlay launches a social sportsbook on the Zynga platform, expanding its reach in the iGaming industry.",
-            "category": "iGaming",
-            "tags": [
-                "RocketPlay",
-                "Zynga",
-                "Social Sportsbook"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWJhWnFEdWZDcVZFSDRLY19DblFuYm81N01GRm9TZTc2blF4SXJnRzlmQ1VZb0RwSnY3Zm5pclVnQmg1MXZsS1pncG5lQzhyeVZnLVFueGFzazUtMjdFcnR2Z0lPMTV0WEFDaWZLUEZUSVNPUU5DVnRSS3hTbzR2SGluUWNqQ1REZUExNDktbFpmTkZX?oc=5",
-                "date": "2026-04-24T02:41:55.000Z"
-            },
-            "whatsNew": "RocketPlay has launched a social sportsbook on the Zynga platform, marking a significant expansion in the iGaming space. This move combines social gaming with sports betting, offering a unique experience. The partnership aims to leverage Zynga's vast user base to grow RocketPlay's presence.",
-            "whyItMatters": "This launch signifies a growing trend of social gaming platforms integrating sports betting, potentially attracting new demographics to the iGaming industry. It also highlights the strategic importance of partnerships in expanding market reach.",
-            "howToUse": "Operators can leverage such partnerships to tap into broader audiences, while developers can focus on creating engaging, social sportsbook experiences. This can involve integrating social features, such as leaderboards and challenges, into sports betting platforms.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "RocketPlay",
-                "Zynga"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-589sqoify",
             "title": "Betsson AB Expansion",
             "subtitle": "Betsson AB CEO discusses potential acquisition of crypto operators and B2B arm confidence",
@@ -3240,37 +3240,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-kxw2gqmc4",
-            "title": "AI Context Upgrade",
-            "subtitle": "Hugging Face introduces DeepSeek-V4 with a million-token context for enhanced agent capabilities",
-            "category": "AI",
-            "tags": [
-                "AI Agents",
-                "Context Upgrade",
-                "DeepSeek-V4"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/deepseekv4",
-                "date": "2026-04-24T00:00:00.000Z"
-            },
-            "whatsNew": "DeepSeek-V4 offers a significant increase in context size to a million tokens, enabling agents to process and understand more complex information. This upgrade has the potential to improve the performance of AI models in various applications. The introduction of DeepSeek-V4 demonstrates the ongoing advancements in AI technology, particularly in natural language processing.",
-            "whyItMatters": "The introduction of DeepSeek-V4 can significantly impact the development of more sophisticated AI agents, leading to improved performance in areas such as customer service, content generation, and data analysis. This can have far-reaching implications for industries that rely on AI-powered solutions.",
-            "howToUse": "Developers can integrate DeepSeek-V4 into their AI models to enhance context understanding and improve overall performance. This can be achieved by leveraging the Hugging Face platform and its resources for implementing the latest advancements in AI technology.",
-            "beneficiaries": [
-                "AI Developers",
-                "Data Analysts"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -3592,7 +3561,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T23:59:36.508Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": null
         },
         {
@@ -3611,7 +3580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-07T23:59:36.508Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3620,7 +3589,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T23:59:36.508Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3629,7 +3598,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T21:55:04.998Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "Regulatory updates"
         },
         {
@@ -3647,7 +3616,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T21:55:04.998Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3656,7 +3625,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T21:55:04.998Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3676,7 +3645,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-07T21:55:04.998Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3734,7 +3703,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T21:55:04.998Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3743,7 +3712,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T18:21:54.274Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3752,7 +3721,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T18:21:54.274Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": "Style browsing signal"
         },
         {
@@ -3789,7 +3758,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T18:21:54.274Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": null
         },
         {
@@ -3798,7 +3767,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-07T18:21:54.274Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": null
         },
         {
@@ -3807,7 +3776,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-07T14:00:33.499Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": null
         },
         {
@@ -3879,7 +3848,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-07T23:59:36.508Z",
+            "lastScan": "2026-05-08T03:44:58.770Z",
             "note": null
         },
         {
@@ -22480,6 +22449,69 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-dek5sril4",
+            "title": "RocketPlay Social Sportsbook",
+            "subtitle": "RocketPlay launches a social sportsbook on the Zynga platform, expanding its reach in the iGaming industry.",
+            "category": "iGaming",
+            "tags": [
+                "RocketPlay",
+                "Zynga",
+                "Social Sportsbook"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWJhWnFEdWZDcVZFSDRLY19DblFuYm81N01GRm9TZTc2blF4SXJnRzlmQ1VZb0RwSnY3Zm5pclVnQmg1MXZsS1pncG5lQzhyeVZnLVFueGFzazUtMjdFcnR2Z0lPMTV0WEFDaWZLUEZUSVNPUU5DVnRSS3hTbzR2SGluUWNqQ1REZUExNDktbFpmTkZX?oc=5",
+                "date": "2026-04-24T02:41:55.000Z"
+            },
+            "whatsNew": "RocketPlay has launched a social sportsbook on the Zynga platform, marking a significant expansion in the iGaming space. This move combines social gaming with sports betting, offering a unique experience. The partnership aims to leverage Zynga's vast user base to grow RocketPlay's presence.",
+            "whyItMatters": "This launch signifies a growing trend of social gaming platforms integrating sports betting, potentially attracting new demographics to the iGaming industry. It also highlights the strategic importance of partnerships in expanding market reach.",
+            "howToUse": "Operators can leverage such partnerships to tap into broader audiences, while developers can focus on creating engaging, social sportsbook experiences. This can involve integrating social features, such as leaderboards and challenges, into sports betting platforms.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "RocketPlay",
+                "Zynga"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kxw2gqmc4",
+            "title": "AI Context Upgrade",
+            "subtitle": "Hugging Face introduces DeepSeek-V4 with a million-token context for enhanced agent capabilities",
+            "category": "AI",
+            "tags": [
+                "AI Agents",
+                "Context Upgrade",
+                "DeepSeek-V4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/deepseekv4",
+                "date": "2026-04-24T00:00:00.000Z"
+            },
+            "whatsNew": "DeepSeek-V4 offers a significant increase in context size to a million tokens, enabling agents to process and understand more complex information. This upgrade has the potential to improve the performance of AI models in various applications. The introduction of DeepSeek-V4 demonstrates the ongoing advancements in AI technology, particularly in natural language processing.",
+            "whyItMatters": "The introduction of DeepSeek-V4 can significantly impact the development of more sophisticated AI agents, leading to improved performance in areas such as customer service, content generation, and data analysis. This can have far-reaching implications for industries that rely on AI-powered solutions.",
+            "howToUse": "Developers can integrate DeepSeek-V4 into their AI models to enhance context understanding and improve overall performance. This can be achieved by leveraging the Hugging Face platform and its resources for implementing the latest advancements in AI technology.",
+            "beneficiaries": [
+                "AI Developers",
+                "Data Analysts"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
