@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-09T05:46:59.268Z",
+        "scanDate": "2026-05-09T07:52:48.163Z",
         "version": "2.5.0",
-        "totalTrends": 95,
+        "totalTrends": 97,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-x0kapazvg",
+            "title": "Gambling Research",
+            "subtitle": "UK Gambling Commission introduces research governance framework",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Commission",
+                "Research"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEphU0pyTS1mbEwxOFFGdkFqZ081SmJsUk81dUZ2eXhGd2piOFlUX0Z6QVFpb3N5Y2lKYVJyX1BVYUJXb1N0QUItTWFzUDlUNl91bDItWTlqUFpaZjk2NFM5T1FhNXFaWE1Ibl82cERaczRIS3V4SWx6bm4ydmxmNUN4N3VSXzlnZTg0Mk5DbmRJbzlXajVJeHI4WU1tUXlIMTY2WWllSHRfT1BNaVFLa2FxSU1DcUdKLUxUa3VadU9mRFozNGtFVjlUZkR4ZEdLNzgwZA?oc=5",
+                "date": "2026-04-30T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has introduced a research governance framework to ensure high standards in research related to gambling. This framework aims to promote integrity and transparency in gambling research.",
+            "whyItMatters": "The introduction of this framework is significant as it will help in making informed decisions about gambling regulation and policy. It will also enhance the credibility of research in the field.",
+            "howToUse": "Operators and researchers can use this framework to ensure their research meets the required standards, and to identify areas for improvement in their research practices.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-dlsmaehjn",
+            "title": "AI Anime Update",
+            "subtitle": "Civitai releases Illustrious Anime v5.0 with CyberRealistic features",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anime",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNnlZU0wyT1NhNE5ZeURzRDlYY1VoNVlPaWRWaklKcElsaXlXS3ZFVk5Ca2NkRkFQVGJWVzhDclBXeEtySVVORGRoZkdCeXExNFBMSjRnLWJSRjFOYUllVlpnclNvRWtYZGk1UDVZdG53M0QzbmJYWDhlNDU?oc=5",
+                "date": "2026-04-27T07:00:00.000Z"
+            },
+            "whatsNew": "Illustrious Anime v5.0 introduces CyberRealistic features, enhancing anime-style art generation. This update is part of Civitai's ongoing efforts to improve AI art tools. The new version promises more realistic and detailed anime art.",
+            "whyItMatters": "This update impacts AI art generation, particularly for anime fans and creators, by providing more realistic and detailed art. It also reflects the growing capabilities of AI in creative fields.",
+            "howToUse": "Artists and fans can utilize Illustrious Anime v5.0 to generate high-quality anime art with CyberRealistic features, exploring new creative possibilities.",
+            "beneficiaries": [
+                "AI Artists",
+                "Anime Fans"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ch96hu323",
             "title": "AI Video Community",
@@ -49,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-22rz5icwb",
@@ -3147,7 +3207,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": null
         },
         {
@@ -3166,7 +3226,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3175,7 +3235,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3184,7 +3244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": "Regulatory updates"
         },
         {
@@ -3202,7 +3262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3211,7 +3271,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3231,7 +3291,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3289,7 +3349,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3434,7 +3494,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-09T07:52:48.163Z",
             "note": null
         },
         {
