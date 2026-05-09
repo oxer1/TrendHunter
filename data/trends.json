@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-09T02:37:00.685Z",
+        "scanDate": "2026-05-09T05:46:59.268Z",
         "version": "2.5.0",
         "totalTrends": 95,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ch96hu323",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
+            "category": "AI",
+            "tags": [
+                "AI video",
+                "Creative Content",
+                "Community"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nX2ZiU1RleWlUMmlsSkNmX25fbFBBOTRXdVg5d3ZYUVZxVjh3YkM0Z3pYNERTcnBBVUVvaFdMTUNCLXo4bDFDbjQxdjVIZV8yeVdPLUMwMElzNmVkMUVJUnJ4UkgtQQ?oc=5",
+                "date": "2026-05-03T23:01:42.000Z"
+            },
+            "whatsNew": "OpenArt introduces a community platform for AI video story sharing, enabling users to discover and share creative AI-generated content. This platform aims to foster innovation and collaboration among creators. The community is expected to drive the development of new AI video tools and techniques.",
+            "whyItMatters": "The launch of this platform is significant as it provides a dedicated space for creators to explore and showcase AI-generated video content, potentially leading to new trends and applications in the field. It also highlights the growing importance of community-driven initiatives in the development of AI creative tools.",
+            "howToUse": "Creators can join the OpenArt community to share their AI-generated video stories, engage with other users, and stay updated on the latest trends and techniques in AI video creation. By participating in the community, users can gain insights into the potential applications and future directions of AI video technology.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-22rz5icwb",
             "title": "GiG CTO Departs",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-euhky31kb",
@@ -81,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-u7yzvz31j",
@@ -1226,38 +1257,6 @@
             ],
             "companies": [
                 "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-78nrjtc3b",
-            "title": "AI Image Generator",
-            "subtitle": "Synthesia offers a free AI image generator tool",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU2Zxd3VRaXlzenNoN1hvUnBWNVM5SGVpVHBpejEzVVhUaDZaeGR2Qk55TjJLNWJEbWFyUGRNT2JocmppMjJEYmtYejVVUllKUUVPNlpPOHhlS191eEE?oc=5",
-                "date": "2026-04-25T05:10:44.000Z"
-            },
-            "whatsNew": "Synthesia's AI image generator allows users to create images for free, leveraging AI technology for creative purposes. This tool can be used for various applications, including gaming and visual design. The accessibility of such a tool can democratize image creation.",
-            "whyItMatters": "The availability of free AI image generation tools can significantly impact the gaming and visual design industries by providing easy access to high-quality images. This can be particularly beneficial for indie game developers and small studios with limited budgets.",
-            "howToUse": "Users can utilize Synthesia's AI image generator by accessing the tool on their website and following the prompts to create their desired images. This can be a valuable resource for those looking to integrate AI-generated images into their projects.",
-            "beneficiaries": [
-                "Game Developers",
-                "Visual Designers",
-                "Indie Studios"
-            ],
-            "companies": [
-                "Synthesia"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -3148,7 +3147,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": null
         },
         {
@@ -3167,7 +3166,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3176,7 +3175,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3185,7 +3184,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "Regulatory updates"
         },
         {
@@ -3203,7 +3202,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3212,7 +3211,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3232,7 +3231,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3290,7 +3289,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3299,7 +3298,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3308,7 +3307,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": "Style browsing signal"
         },
         {
@@ -3345,7 +3344,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": null
         },
         {
@@ -3354,7 +3353,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": null
         },
         {
@@ -3363,7 +3362,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-08T03:44:58.770Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": null
         },
         {
@@ -3435,7 +3434,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T02:37:00.685Z",
+            "lastScan": "2026-05-09T05:46:59.268Z",
             "note": null
         },
         {
@@ -22669,6 +22668,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-78nrjtc3b",
+            "title": "AI Image Generator",
+            "subtitle": "Synthesia offers a free AI image generator tool",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU2Zxd3VRaXlzenNoN1hvUnBWNVM5SGVpVHBpejEzVVhUaDZaeGR2Qk55TjJLNWJEbWFyUGRNT2JocmppMjJEYmtYejVVUllKUUVPNlpPOHhlS191eEE?oc=5",
+                "date": "2026-04-25T05:10:44.000Z"
+            },
+            "whatsNew": "Synthesia's AI image generator allows users to create images for free, leveraging AI technology for creative purposes. This tool can be used for various applications, including gaming and visual design. The accessibility of such a tool can democratize image creation.",
+            "whyItMatters": "The availability of free AI image generation tools can significantly impact the gaming and visual design industries by providing easy access to high-quality images. This can be particularly beneficial for indie game developers and small studios with limited budgets.",
+            "howToUse": "Users can utilize Synthesia's AI image generator by accessing the tool on their website and following the prompts to create their desired images. This can be a valuable resource for those looking to integrate AI-generated images into their projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Designers",
+                "Indie Studios"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
