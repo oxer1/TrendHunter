@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-08T23:01:15.250Z",
+        "scanDate": "2026-05-09T02:37:00.685Z",
         "version": "2.5.0",
         "totalTrends": 95,
         "categories": [
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-22rz5icwb",
+            "title": "GiG CTO Departs",
+            "subtitle": "GiG's chief technology officer announces departure as an active step toward retirement",
+            "category": "iGaming",
+            "tags": [
+                "GiG",
+                "CTO",
+                "Retirement"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMTNRZnU0Q1luZTNRTHhzZ1hScTFuOVdOYnZ2MGFmYlJfLThsQUFNVE1xeF9hMUZtOTBSYk1tQ0xBV0lZOW5VME8yZWUxbG5yLUhMWUpGblFtNE5FcmlsUG5tbGJXWTFERFh1SExmbVoxdkR2cHNLczZGS0RST1RzdG1CTGh3SF84UHM1bmwzWWw1bWNfOU96djZyUkRKLXZUTnhYeEZ5Ry12WjNCQzdSbHVtMVpBV0swaWFhemtJQ2stOEVaeVByUkR6N1kwTmJlQ2c?oc=5",
+                "date": "2026-05-07T08:43:30.000Z"
+            },
+            "whatsNew": "The chief technology officer of GiG has announced their departure in an active step toward retirement. This change may impact GiG's technology strategy and direction.",
+            "whyItMatters": "The departure of a key technology leader can influence the company's ability to innovate and adapt to changing market conditions, potentially affecting its competitiveness in the iGaming industry.",
+            "howToUse": "Companies in the iGaming sector should monitor leadership changes in key competitors and partners to anticipate potential shifts in strategy and technology adoption.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "GiG"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-euhky31kb",
+            "title": "AI Character Swap",
+            "subtitle": "OpenArt introduces AI tool to instantly replace characters in images and videos",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Image Generation",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHc3NTUTZEUmFKZ2VPNHZONXk2c1R0Q1NHZG1ZdzRaeW9vQ2N1bmZvcG1vdm04RHdEZ2huOHE4N280VUI5X2t4WVgyZUd1MTJhcGFiMDZlZDg4Zw?oc=5",
+                "date": "2026-04-27T09:07:29.000Z"
+            },
+            "whatsNew": "OpenArt's AI Character Swap allows for instant replacement of characters in images and videos, leveraging AI for creative work. This tool enables seamless editing and manipulation of visual content. It simplifies the process of altering characters in media, making it more accessible.",
+            "whyItMatters": "This innovation impacts the gaming and film industries by streamlining character customization and editing processes. It also opens up new creative possibilities for artists and designers.",
+            "howToUse": "Utilize OpenArt's AI Character Swap to instantly replace characters in your images and videos, enhancing your creative workflow and productivity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Video Editors"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-u7yzvz31j",
             "title": "Graham License",
@@ -1356,38 +1419,6 @@
             "isNew": false
         },
         {
-            "id": "t-y6q1qj6ib",
-            "title": "Text to Video",
-            "subtitle": "OpenArt introduces text-to-video technology",
-            "category": "AI",
-            "tags": [
-                "Text to Video",
-                "OpenArt",
-                "AI Video"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mV0NxVG9nTEVSakdJTU9iSU56SnpueXNTUFdTbnVEU3pSZE5MZERNNk1wZGJRdEFwU1VySHEyNVR2LXZDNF9URlc3Zw?oc=5",
-                "date": "2026-04-25T00:51:01.000Z"
-            },
-            "whatsNew": "OpenArt has introduced a new text-to-video feature, allowing users to generate videos from text prompts. This technology has the potential to revolutionize the way we create and consume video content. The feature is likely to be powered by AI algorithms that can understand and interpret text inputs.",
-            "whyItMatters": "The introduction of text-to-video technology by OpenArt can significantly impact the video creation industry, making it easier and more accessible for users to produce high-quality video content. This can also have implications for the gaming and iGaming industries, where video content is a crucial aspect of user engagement.",
-            "howToUse": "To use this feature, users can simply input their desired text prompt, and the AI algorithm will generate a corresponding video. This can be particularly useful for game developers, marketers, and content creators who need to produce video content quickly and efficiently.",
-            "beneficiaries": [
-                "Game Developers",
-                "Content Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-knsasou45",
             "title": "ZImage Workflow",
             "subtitle": "Civitai releases Moody Simple Zimage Turbo/Distilled Workflow - v6.0 with SDA",
@@ -1852,38 +1883,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-18unqowds",
-            "title": "Civitai AI",
-            "subtitle": "Civitai announces a new AI model that doubles output for every generation",
-            "category": "AI",
-            "tags": [
-                "AI models",
-                "Civitai",
-                "AI output"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0tXbEowR0JMcmtCWGpMLXBCd2M0SVhTVzBEVzcxQTkyQ0htNVJWRy1oZkFMRlVzZkVRSjkxZUU2dEZsTi0wandRZ0dMNHVSNk9YZm93TWhJWFlDcUNiZ29wLUZQLXRBNldVOXM5bE5IWmNHbFdhLWZwcnJGbVgtcXhqU1pJQTQ?oc=5",
-                "date": "2026-04-24T23:42:50.000Z"
-            },
-            "whatsNew": "Civitai has introduced a new AI model that generates twice the output for every generation, potentially revolutionizing AI content creation. This model aims to increase productivity and efficiency in AI-generated content. The details of the model are yet to be fully disclosed.",
-            "whyItMatters": "This development could significantly impact the field of AI-generated content, allowing for faster and more efficient creation of AI art, videos, and other media. It could also influence the iGaming industry by enabling the rapid creation of new game assets and content.",
-            "howToUse": "Developers and content creators can utilize this new model to accelerate their workflow and produce more content in less time, potentially integrating it into their existing AI pipelines for gaming and art generation.",
-            "beneficiaries": [
-                "AI developers",
-                "Content creators",
-                "Game developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         },
         {
@@ -3149,7 +3148,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": null
         },
         {
@@ -3168,7 +3167,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3177,7 +3176,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3186,7 +3185,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "Regulatory updates"
         },
         {
@@ -3204,7 +3203,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3213,7 +3212,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3233,7 +3232,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-08T20:57:05.040Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3291,7 +3290,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T20:57:05.040Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3300,7 +3299,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3309,7 +3308,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": "Style browsing signal"
         },
         {
@@ -3346,7 +3345,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T17:14:05.045Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": null
         },
         {
@@ -3436,7 +3435,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-08T23:01:15.250Z",
+            "lastScan": "2026-05-09T02:37:00.685Z",
             "note": null
         },
         {
@@ -22606,6 +22605,70 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-y6q1qj6ib",
+            "title": "Text to Video",
+            "subtitle": "OpenArt introduces text-to-video technology",
+            "category": "AI",
+            "tags": [
+                "Text to Video",
+                "OpenArt",
+                "AI Video"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mV0NxVG9nTEVSakdJTU9iSU56SnpueXNTUFdTbnVEU3pSZE5MZERNNk1wZGJRdEFwU1VySHEyNVR2LXZDNF9URlc3Zw?oc=5",
+                "date": "2026-04-25T00:51:01.000Z"
+            },
+            "whatsNew": "OpenArt has introduced a new text-to-video feature, allowing users to generate videos from text prompts. This technology has the potential to revolutionize the way we create and consume video content. The feature is likely to be powered by AI algorithms that can understand and interpret text inputs.",
+            "whyItMatters": "The introduction of text-to-video technology by OpenArt can significantly impact the video creation industry, making it easier and more accessible for users to produce high-quality video content. This can also have implications for the gaming and iGaming industries, where video content is a crucial aspect of user engagement.",
+            "howToUse": "To use this feature, users can simply input their desired text prompt, and the AI algorithm will generate a corresponding video. This can be particularly useful for game developers, marketers, and content creators who need to produce video content quickly and efficiently.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-18unqowds",
+            "title": "Civitai AI",
+            "subtitle": "Civitai announces a new AI model that doubles output for every generation",
+            "category": "AI",
+            "tags": [
+                "AI models",
+                "Civitai",
+                "AI output"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0tXbEowR0JMcmtCWGpMLXBCd2M0SVhTVzBEVzcxQTkyQ0htNVJWRy1oZkFMRlVzZkVRSjkxZUU2dEZsTi0wandRZ0dMNHVSNk9YZm93TWhJWFlDcUNiZ29wLUZQLXRBNldVOXM5bE5IWmNHbFdhLWZwcnJGbVgtcXhqU1pJQTQ?oc=5",
+                "date": "2026-04-24T23:42:50.000Z"
+            },
+            "whatsNew": "Civitai has introduced a new AI model that generates twice the output for every generation, potentially revolutionizing AI content creation. This model aims to increase productivity and efficiency in AI-generated content. The details of the model are yet to be fully disclosed.",
+            "whyItMatters": "This development could significantly impact the field of AI-generated content, allowing for faster and more efficient creation of AI art, videos, and other media. It could also influence the iGaming industry by enabling the rapid creation of new game assets and content.",
+            "howToUse": "Developers and content creators can utilize this new model to accelerate their workflow and produce more content in less time, potentially integrating it into their existing AI pipelines for gaming and art generation.",
+            "beneficiaries": [
+                "AI developers",
+                "Content creators",
+                "Game developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
