@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-09T22:39:39.205Z",
+        "scanDate": "2026-05-09T23:43:35.398Z",
         "version": "2.5.0",
-        "totalTrends": 98,
+        "totalTrends": 97,
         "categories": [
             "iGaming",
             "AI",
@@ -1632,35 +1632,6 @@
             "isNew": false
         },
         {
-            "id": "t-5wvjj4oev",
-            "title": "iGaming Marketing",
-            "subtitle": "Article discusses the 22 immutable laws of marketing for the iGaming industry, highlighting first winners.",
-            "category": "iGaming",
-            "tags": [
-                "iGaming Marketing",
-                "EGR Global",
-                "Gaming Industry"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0RjdWVXR3pTNHB5d09rY2gtaHZzX0hJWDRqQWs2Q3NiNmp5dkRHaDlEbngxUXltVlJIMGJtUDlyeWxxdms4VTlscWRqajM5eG9qNHNPRHRSdHlTVkJQLWtqdUNLWlIwNGJtSjJ0bFE0ZzFjZXg0b3I2ek5oOTlETFZVNnZCU0Q2V2Z6X21GRHZDOUxidUJVbTVlUUdpQnc?oc=5",
-                "date": "2026-04-25T23:21:42.000Z"
-            },
-            "whatsNew": "The article outlines key marketing principles for the iGaming sector, focusing on timeless strategies. It recognizes early adopters who have successfully applied these laws. The piece is part of a broader discussion on effective marketing in a highly competitive and regulated environment.",
-            "whyItMatters": "Understanding these immutable laws can significantly enhance a company's marketing strategy and competitiveness in the iGaming market. It provides insights into what works and what doesn't, based on proven principles.",
-            "howToUse": "Operators and marketers in the iGaming industry can apply these laws to refine their marketing strategies, improve customer engagement, and ultimately drive business growth.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Marketing Professionals"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-lcajxuctj",
             "title": "Hacksaw Gaming",
             "subtitle": "Hacksaw Gaming shares increase 17% after beating Q1 market estimates",
@@ -3236,7 +3207,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": null
         },
         {
@@ -3255,7 +3226,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3264,7 +3235,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3273,7 +3244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": "Regulatory updates"
         },
         {
@@ -3291,7 +3262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3300,7 +3271,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3320,7 +3291,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-09T20:49:43.917Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3378,7 +3349,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T20:49:43.917Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3523,7 +3494,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T22:39:39.205Z",
+            "lastScan": "2026-05-09T23:43:35.398Z",
             "note": null
         },
         {
@@ -22789,6 +22760,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-5wvjj4oev",
+            "title": "iGaming Marketing",
+            "subtitle": "Article discusses the 22 immutable laws of marketing for the iGaming industry, highlighting first winners.",
+            "category": "iGaming",
+            "tags": [
+                "iGaming Marketing",
+                "EGR Global",
+                "Gaming Industry"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0RjdWVXR3pTNHB5d09rY2gtaHZzX0hJWDRqQWs2Q3NiNmp5dkRHaDlEbngxUXltVlJIMGJtUDlyeWxxdms4VTlscWRqajM5eG9qNHNPRHRSdHlTVkJQLWtqdUNLWlIwNGJtSjJ0bFE0ZzFjZXg0b3I2ek5oOTlETFZVNnZCU0Q2V2Z6X21GRHZDOUxidUJVbTVlUUdpQnc?oc=5",
+                "date": "2026-04-25T23:21:42.000Z"
+            },
+            "whatsNew": "The article outlines key marketing principles for the iGaming sector, focusing on timeless strategies. It recognizes early adopters who have successfully applied these laws. The piece is part of a broader discussion on effective marketing in a highly competitive and regulated environment.",
+            "whyItMatters": "Understanding these immutable laws can significantly enhance a company's marketing strategy and competitiveness in the iGaming market. It provides insights into what works and what doesn't, based on proven principles.",
+            "howToUse": "Operators and marketers in the iGaming industry can apply these laws to refine their marketing strategies, improve customer engagement, and ultimately drive business growth.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Marketing Professionals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
