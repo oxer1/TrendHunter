@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-10T02:41:25.445Z",
+        "scanDate": "2026-05-10T06:09:11.280Z",
         "version": "2.5.0",
-        "totalTrends": 97,
+        "totalTrends": 101,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,130 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-f21xvd3ts",
+            "title": "AI Art Prompts",
+            "subtitle": "PromptHero offers best art prompts for all models",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Prompts",
+                "Art Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nMTlPLXpuYXpCamtscEkzazM2THVIXzY0Tm05NTBOXzJJU0hjTThGV3NjZkJlbThQZmg1UnVkeWRidXM5VkZKNTNFcUtYd0dDUk1EamtuTnBaQU1JQVNvOW53?oc=5",
+                "date": "2026-05-08T02:46:48.000Z"
+            },
+            "whatsNew": "PromptHero provides a collection of effective art prompts for various AI models, enhancing art generation capabilities. These prompts can help create stunning and unique art pieces. The availability of such prompts can streamline the art creation process.",
+            "whyItMatters": "Access to high-quality art prompts can significantly improve the output of AI art generation models, making them more useful for artists and designers. This can lead to increased adoption of AI art tools in creative industries.",
+            "howToUse": "Artists and designers can use these prompts to generate art with specific styles or themes, and experiment with different models to achieve desired results. By leveraging these prompts, users can unlock new creative possibilities.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-n2njnecz4",
+            "title": "AI Image Creation",
+            "subtitle": "OpenArt offers free AI image creation tools",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GbXlLemdXUk9iS1FiMFN4UkRpR1QwUURFaFd6Zno1b1NkV2Q3a0ZqR0VNa3lzb0ViVkZhZUNYLTM0ejUtUTdFbEVzMExobEFueDVPNkN3ZmdRc0syYlE?oc=5",
+                "date": "2026-05-04T09:05:18.000Z"
+            },
+            "whatsNew": "OpenArt introduces a free AI image creation platform, allowing users to generate images using artificial intelligence. This tool has the potential to revolutionize the field of digital art. The platform is accessible to all, making AI-generated art more mainstream.",
+            "whyItMatters": "The availability of free AI image creation tools can significantly impact the gaming and art industries, enabling developers and artists to create high-quality visuals without extensive resources. This can lead to increased innovation and creativity in these fields.",
+            "howToUse": "Artists and developers can utilize OpenArt's platform to generate unique images for their projects, exploring new styles and themes. By experimenting with AI-generated art, they can discover novel ways to enhance their work.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-w2vtyl690",
+            "title": "AI Avatars",
+            "subtitle": "Creating personal avatars from photos using Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "Synthesia",
+                "Personal Avatars"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnBkWXhkN21IdVVYdUdvVTkxclROVTVPc3RRdUZwUWtXcDhHc2VKU2lhU1lxak92djBYTU1sWXVmLVJzTWtkcjhER3Fnc212QTB6bDZxNUx5TFRpazBGdkJma1RZbWo5d20tY211bmxCRFZIRlUzaEVzUDduN1BIb3o3eHFLU1h2czZjNGY4NWRKZUlwRUZJ?oc=5",
+                "date": "2026-04-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia allows users to create personal avatars from photos, utilizing AI technology for avatar creation. This feature enables personalized digital representations. The process involves uploading a photo and using Synthesia's AI tools to generate an avatar.",
+            "whyItMatters": "The ability to create personal avatars from photos impacts digital representation and personalization in various industries, including gaming and entertainment. It also raises questions about AI ethics and digital identity.",
+            "howToUse": "To create a personal avatar, users can upload their photo to Synthesia's platform and follow the guided process to generate their avatar using AI tools.",
+            "beneficiaries": [
+                "Content Creators",
+                "Gamers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-zdbksovso",
+            "title": "AI Image Generator",
+            "subtitle": "Synthesia offers a free AI image generation tool",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU2Zxd3VRaXlzenNoN1hvUnBWNVM5SGVpVHBpejEzVVhUaDZaeGR2Qk55TjJLNWJEbWFyUGRNT2JocmppMjJEYmtYejVVUllKUUVPNlpPOHhlS191eEE?oc=5",
+                "date": "2026-05-08T21:33:43.000Z"
+            },
+            "whatsNew": "Synthesia's AI image generator allows users to create images for free, leveraging AI technology for creative purposes. This tool can be used for various applications, including gaming and visual design. The accessibility of such tools is increasing, making AI-generated content more mainstream.",
+            "whyItMatters": "The availability of free AI image generation tools like Synthesia's can significantly impact the gaming and visual design industries by providing easy access to AI-generated content, potentially changing how game and slot art are developed. This can also influence visual design trends and AI pipelines in gaming.",
+            "howToUse": "Game developers and designers can utilize Synthesia's AI image generator to create unique in-game assets or promotional materials, exploring new possibilities in AI-assisted content creation.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-l16mm4qpo",
             "title": "Gambling Budget",
@@ -3207,7 +3331,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": null
         },
         {
@@ -3226,7 +3350,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3235,7 +3359,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3244,7 +3368,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "Regulatory updates"
         },
         {
@@ -3262,7 +3386,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3271,7 +3395,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3291,7 +3415,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3349,7 +3473,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3358,7 +3482,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3367,7 +3491,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": "Style browsing signal"
         },
         {
@@ -3404,7 +3528,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": null
         },
         {
@@ -3413,7 +3537,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": null
         },
         {
@@ -3422,7 +3546,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-09T05:46:59.268Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": null
         },
         {
@@ -3494,7 +3618,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T02:41:25.445Z",
+            "lastScan": "2026-05-10T06:09:11.280Z",
             "note": null
         },
         {
