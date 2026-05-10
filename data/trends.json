@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-10T06:09:11.280Z",
+        "scanDate": "2026-05-10T08:51:22.390Z",
         "version": "2.5.0",
-        "totalTrends": 101,
+        "totalTrends": 100,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2shht6oj7",
+            "title": "Flutter Q1 Earnings",
+            "subtitle": "Key takeaways from Flutter's Q1 earnings report, focusing on iGaming industry performance and trends",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Q1 Earnings",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZLN0xEcFhld08yZmZYRVg1dkVMS2dPUEhyVTB3dDNaRVM5OHktSjI1MjE0NUZHTlNHckpMTjVzOWJMY3YzNDRpRDBqYUZ4c21VUllrRE5MWkotQ3hCNENUbXcta2hRVnVFSkY4RU82ZEJNTjZnYmFfNncwZkZtY0Z1NTlZWEJaem14TDhNQQ?oc=5",
+                "date": "2026-05-07T11:32:53.000Z"
+            },
+            "whatsNew": "Flutter's Q1 earnings report highlights the company's performance in the iGaming sector, with insights into revenue growth, market trends, and strategic developments. The report underscores the importance of adapting to regulatory changes and investing in innovative technologies. Flutter's earnings also reflect the impact of shifting consumer behaviors and preferences in the online gaming market.",
+            "whyItMatters": "The earnings report provides valuable insights into the current state of the iGaming industry, shedding light on opportunities, challenges, and future prospects. As a major player in the sector, Flutter's performance has significant implications for the industry as a whole.",
+            "howToUse": "Industry stakeholders can leverage the report's findings to inform their strategic decisions, optimize operations, and capitalize on emerging trends. By analyzing Flutter's earnings and performance, companies can gain a deeper understanding of the iGaming landscape and identify areas for growth and improvement.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Industry analysts"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-hvydz4so6",
+            "title": "DraftKings Revenue",
+            "subtitle": "DraftKings Q1 revenue increases by 17% due to strong sports betting performance",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Sports Betting",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONU1lQ182cHFPMHdFT1B5am96d0hKQVVuSkZNU2hjVU9KWjBnbUlsa01sOGlrcUVBenAzUkNmcFNHdHo3dVphY1pxb1Yzd3ZTNkppeER1dFNOak56OWg3OXo1cFFsVDF4VF9wcnk2dktUR1RvMDZucm52V3ZnX3BpN0tJQnIxM3hrRVlHMW03RkZCbklUVXB2Ri10NmlPanc?oc=5",
+                "date": "2026-05-08T09:59:28.000Z"
+            },
+            "whatsNew": "DraftKings reports a 17% increase in Q1 revenue, driven by a strong sports betting showing. This growth indicates a positive trend in the sports betting sector.",
+            "whyItMatters": "The revenue growth of DraftKings reflects the increasing popularity of sports betting and the potential for further expansion in the iGaming industry.",
+            "howToUse": "Operators can capitalize on this trend by investing in sports betting platforms and enhancing their user experience to attract more customers.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Betting Enthusiasts"
+            ],
+            "companies": [
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-f21xvd3ts",
             "title": "AI Art Prompts",
@@ -49,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-n2njnecz4",
@@ -80,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w2vtyl690",
@@ -111,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zdbksovso",
@@ -142,7 +204,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-l16mm4qpo",
@@ -824,37 +886,6 @@
             "isNew": false
         },
         {
-            "id": "t-dyc229pz2",
-            "title": "AI Art Model",
-            "subtitle": "Illustrious releases v5.0 of their pony realistic model using NoobAI on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Model Updates",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBYXJYcTFFYjRhV3ZIZzRFOXZjRkJxSUxTcWNUTVVPOXVlX3hsd19lZXdEVWNZeE0wOHBTZm9kSFgzWDc0clB3dHJGbVNqMjhSaTl2TUZWVEhVSGZOVHVLZlFSaXdmMENlZ3ZXeVVzQURPeGoxY2tydXNB?oc=5",
-                "date": "2026-04-26T07:00:00.000Z"
-            },
-            "whatsNew": "The v5.0 update of the Illustrious pony realistic model is now available, showcasing advancements in AI-generated art. This model utilizes NoobAI, highlighting the growing integration of AI in art creation. The update is hosted on Civitai, a platform known for AI model sharing.",
-            "whyItMatters": "This update demonstrates the rapid evolution of AI art generation capabilities, potentially impacting the visual design trends in various industries, including gaming and animation. It also underscores the importance of platforms like Civitai in facilitating the development and sharing of AI models.",
-            "howToUse": "Artists and developers can utilize this model for generating realistic pony characters, exploring its potential for custom art projects or integrating it into larger creative works. The model's availability on Civitai makes it accessible for those looking to experiment with AI art generation.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-mo3ez8opu",
             "title": "LTX Video Update",
             "subtitle": "Civitai releases LTX-2.3 video checkpoint update",
@@ -1382,38 +1413,6 @@
             "isNew": false
         },
         {
-            "id": "t-c0v97hquq",
-            "title": "GonzaLomo AI Update",
-            "subtitle": "Civitai releases GonzaLomo XL/Flux/Pony v3.0 Flux D AIO with Flux.1 Checkpoint",
-            "category": "AI",
-            "tags": [
-                "AI Update",
-                "Civitai",
-                "GonzaLomo"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJa1lYb3Bka1ZreERRLVNSSm1ybUhRY2ZBOEVkelZQenpsQ1YzcElvVU5iaHYyX2M4eWNCNmNaWTFSMlFHWTlxSlA1c0hjd0VJZUVFVkpHcGVMcFRjbDRJSFNxemsxUQ?oc=5",
-                "date": "2026-04-26T07:00:00.000Z"
-            },
-            "whatsNew": "The latest version of GonzaLomo XL/Flux/Pony, v3.0 Flux D AIO, has been released with a Flux.1 Checkpoint. This update is part of Civitai's ongoing efforts to improve AI capabilities. The new checkpoint is expected to enhance performance and functionality.",
-            "whyItMatters": "This update matters because it showcases the continuous development and improvement of AI tools, which can have significant impacts on various industries, including gaming and art. The advancements in AI technology can lead to more sophisticated and realistic experiences.",
-            "howToUse": "Developers and artists can utilize this updated version to create more complex and detailed AI-generated content, such as images, videos, or even game assets. By leveraging the enhanced capabilities of GonzaLomo XL/Flux/Pony, users can push the boundaries of what is possible with AI-assisted creative work.",
-            "beneficiaries": [
-                "AI Developers",
-                "Game Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-6n3vxbnh1",
             "title": "AI Photo Restoration",
             "subtitle": "OpenArt introduces AI-powered online photo restoration tool",
@@ -1495,37 +1494,6 @@
             "whatsNew": "Civitai has introduced new workflows for AI art generation, including image-to-video and style-to-video capabilities. These updates aim to enhance the creative process for artists and developers. The inclusion of audio and combine features further expands the possibilities for AI-generated content.",
             "whyItMatters": "These updates can significantly impact the field of AI art generation, offering more versatile and powerful tools for creators. This can lead to more innovative and engaging content across various industries, including gaming and visual design.",
             "howToUse": "Artists and developers can utilize these new workflows by exploring Civitai's platform and integrating the updated features into their projects, potentially streamlining their creative processes and enhancing their outputs.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-ete2l2jqe",
-            "title": "AI Art Update",
-            "subtitle": "PPPAnimix-IL version 20.0 released on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "PPPAnimix-IL"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTFlVR2VEMUNxNUFOek9CY3FBZUNyVHFLa1hHS0RGOWtrTmswSGo4SnZjV2ZEZEE2N2gtRldZY2VRMHBvXy1lYW5TUURNQmxqaDVIOUdMNlJjOWM?oc=5",
-                "date": "2026-04-26T07:00:00.000Z"
-            },
-            "whatsNew": "PPPAnimix-IL version 20.0 has been released, marking a significant update in AI art generation capabilities. This version is dubbed the Illustrious Checkpoint, indicating notable improvements. The update is available on Civitai, a platform known for AI models and tools.",
-            "whyItMatters": "This update matters because it showcases the continuous advancement in AI art generation, potentially offering more sophisticated and detailed art outputs. It reflects the growing importance of AI in creative fields.",
-            "howToUse": "Artists and developers can utilize this updated version by accessing it through Civitai, integrating it into their workflows to generate high-quality, unique art pieces.",
             "beneficiaries": [
                 "Artists",
                 "Developers"
@@ -3331,7 +3299,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": null
         },
         {
@@ -3350,7 +3318,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3359,7 +3327,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3368,7 +3336,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "Regulatory updates"
         },
         {
@@ -3386,7 +3354,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3395,7 +3363,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3415,7 +3383,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3473,7 +3441,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3482,7 +3450,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3491,7 +3459,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": "Style browsing signal"
         },
         {
@@ -3528,7 +3496,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": null
         },
         {
@@ -3537,7 +3505,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": null
         },
         {
@@ -3546,7 +3514,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": null
         },
         {
@@ -3618,7 +3586,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-10T06:09:11.280Z",
+            "lastScan": "2026-05-10T08:51:22.390Z",
             "note": null
         },
         {
@@ -22913,6 +22881,100 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-dyc229pz2",
+            "title": "AI Art Model",
+            "subtitle": "Illustrious releases v5.0 of their pony realistic model using NoobAI on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Model Updates",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBYXJYcTFFYjRhV3ZIZzRFOXZjRkJxSUxTcWNUTVVPOXVlX3hsd19lZXdEVWNZeE0wOHBTZm9kSFgzWDc0clB3dHJGbVNqMjhSaTl2TUZWVEhVSGZOVHVLZlFSaXdmMENlZ3ZXeVVzQURPeGoxY2tydXNB?oc=5",
+                "date": "2026-04-26T07:00:00.000Z"
+            },
+            "whatsNew": "The v5.0 update of the Illustrious pony realistic model is now available, showcasing advancements in AI-generated art. This model utilizes NoobAI, highlighting the growing integration of AI in art creation. The update is hosted on Civitai, a platform known for AI model sharing.",
+            "whyItMatters": "This update demonstrates the rapid evolution of AI art generation capabilities, potentially impacting the visual design trends in various industries, including gaming and animation. It also underscores the importance of platforms like Civitai in facilitating the development and sharing of AI models.",
+            "howToUse": "Artists and developers can utilize this model for generating realistic pony characters, exploring its potential for custom art projects or integrating it into larger creative works. The model's availability on Civitai makes it accessible for those looking to experiment with AI art generation.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-c0v97hquq",
+            "title": "GonzaLomo AI Update",
+            "subtitle": "Civitai releases GonzaLomo XL/Flux/Pony v3.0 Flux D AIO with Flux.1 Checkpoint",
+            "category": "AI",
+            "tags": [
+                "AI Update",
+                "Civitai",
+                "GonzaLomo"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJa1lYb3Bka1ZreERRLVNSSm1ybUhRY2ZBOEVkelZQenpsQ1YzcElvVU5iaHYyX2M4eWNCNmNaWTFSMlFHWTlxSlA1c0hjd0VJZUVFVkpHcGVMcFRjbDRJSFNxemsxUQ?oc=5",
+                "date": "2026-04-26T07:00:00.000Z"
+            },
+            "whatsNew": "The latest version of GonzaLomo XL/Flux/Pony, v3.0 Flux D AIO, has been released with a Flux.1 Checkpoint. This update is part of Civitai's ongoing efforts to improve AI capabilities. The new checkpoint is expected to enhance performance and functionality.",
+            "whyItMatters": "This update matters because it showcases the continuous development and improvement of AI tools, which can have significant impacts on various industries, including gaming and art. The advancements in AI technology can lead to more sophisticated and realistic experiences.",
+            "howToUse": "Developers and artists can utilize this updated version to create more complex and detailed AI-generated content, such as images, videos, or even game assets. By leveraging the enhanced capabilities of GonzaLomo XL/Flux/Pony, users can push the boundaries of what is possible with AI-assisted creative work.",
+            "beneficiaries": [
+                "AI Developers",
+                "Game Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-ete2l2jqe",
+            "title": "AI Art Update",
+            "subtitle": "PPPAnimix-IL version 20.0 released on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "PPPAnimix-IL"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTFlVR2VEMUNxNUFOek9CY3FBZUNyVHFLa1hHS0RGOWtrTmswSGo4SnZjV2ZEZEE2N2gtRldZY2VRMHBvXy1lYW5TUURNQmxqaDVIOUdMNlJjOWM?oc=5",
+                "date": "2026-04-26T07:00:00.000Z"
+            },
+            "whatsNew": "PPPAnimix-IL version 20.0 has been released, marking a significant update in AI art generation capabilities. This version is dubbed the Illustrious Checkpoint, indicating notable improvements. The update is available on Civitai, a platform known for AI models and tools.",
+            "whyItMatters": "This update matters because it showcases the continuous advancement in AI art generation, potentially offering more sophisticated and detailed art outputs. It reflects the growing importance of AI in creative fields.",
+            "howToUse": "Artists and developers can utilize this updated version by accessing it through Civitai, integrating it into their workflows to generate high-quality, unique art pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
