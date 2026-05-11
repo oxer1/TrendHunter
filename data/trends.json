@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-11T13:46:48.330Z",
+        "scanDate": "2026-05-11T16:31:02.707Z",
         "version": "2.5.0",
-        "totalTrends": 94,
+        "totalTrends": 93,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2ezxbn9zx",
+            "title": "Flutter Revenue",
+            "subtitle": "Flutter's revenue increases by 17%, but US performance affects share price",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Revenue",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2tKT1RWX3JUZE1RdUYyZGhvb0hrTEV0ZlhKWk54ZnhDcEVreHF2d0ozdFlsWnhOeDZUQUZ2TFBXbHNDVFhqc3ZNN2U1MW9QZGU4R0F4TlhBRS1faVFzMTBCak1BQ0gxZmVqdk1raE9vX0NMRDNrTjY5ems0NjVfeDVRWGFfcEdVNHpmY25BZlBNOWxtVlZfQXZiLVhTQnRCaVRpM3J3VzhPbkRuMWc?oc=5",
+                "date": "2026-05-07T15:18:14.000Z"
+            },
+            "whatsNew": "Flutter's revenue has increased by 17%, however, the company's share price has been impacted by softer performance in the US market. This indicates a mixed bag for the company's financials.",
+            "whyItMatters": "The performance of major iGaming companies like Flutter can indicate trends in the industry, and a softer US performance may signal challenges for other operators. This can impact the overall growth and investment in the iGaming sector.",
+            "howToUse": "Operators can use this information to assess their own performance in the US market and adjust their strategies accordingly. Investors can also use this data to make informed decisions about their investments in the iGaming industry.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-woxevqsip",
+            "title": "AI Model Release",
+            "subtitle": "Civitai releases Rebels Sulphur 2 GGUF, an NSFW AI model",
+            "category": "AI",
+            "tags": [
+                "AI Model",
+                "NSFW",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUUVmSktRR2daMkZjQmh5X0tOTXhYUWtQa095b2FLRnJ1TzRFYXhWdXNGd3VoSll0cXlXdXo1VEt4cWJuQVY3dEVKYXJ1Y3p5OHl1UTVMMTM0VThzS2xpVFhZTExWSDUyZXJxUXlrWHFnYzB1WXZ0WVJmeWJ0LW8?oc=5",
+                "date": "2026-05-08T09:40:21.000Z"
+            },
+            "whatsNew": "Civitai has released Rebels Sulphur 2 GGUF, a new NSFW AI model. This model is part of the LTX-2.3 series and is available on the Civitai platform.",
+            "whyItMatters": "The release of this model showcases the ongoing development of AI technology in generating content, including NSFW material, and its availability on platforms like Civitai.",
+            "howToUse": "Developers and researchers can utilize this model for various applications, including content generation and AI research, by accessing it through the Civitai platform.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Content Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-e4bxd83eb",
             "title": "Waterhouse VC Deal",
@@ -51,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ii9piu6fb",
@@ -2856,103 +2918,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-kwzku7yzl",
-            "title": "Michigan Self-Exclusion",
-            "subtitle": "Michigan regulator partners with Gamban for free self-exclusion software",
-            "category": "iGaming",
-            "tags": [
-                "self-exclusion",
-                "Gamban",
-                "MGCB",
-                "Michigan"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/michigan-regulator-partners-gamban-free-self-exclusion/",
-                "date": "2026-04-27T15:26:21.000Z"
-            },
-            "whatsNew": "The Michigan Gaming Control Board (MGCB) has partnered with Gamban to offer free self-exclusion software to bettors in Michigan. This software allows individuals to block access to gambling sites.",
-            "whyItMatters": "This partnership aims to promote responsible gambling and provide tools for individuals to manage their betting habits. It reflects a growing trend towards increased regulation and support for responsible gaming practices.",
-            "howToUse": "Bettors in Michigan can install the Gamban software for free, which will block access to gambling sites, helping them manage their betting habits more effectively.",
-            "beneficiaries": [
-                "Bettors",
-                "Regulators"
-            ],
-            "companies": [
-                "Gamban"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-kbzspc65t",
-            "title": "KSA Intervenes",
-            "subtitle": "Netherlands Gambling Authority targets Holland Casino and Vbet for prohibited sports bets",
-            "category": "iGaming",
-            "tags": [
-                "KSA",
-                "Holland Casino",
-                "Vbet",
-                "Sports Betting"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/ksa-intervenes-holland-casino-vbet-own-goals/",
-                "date": "2026-04-27T15:10:06.000Z"
-            },
-            "whatsNew": "The Netherlands Gambling Authority has intervened against Holland Casino Online and Vbet for offering bets on own goals, which are considered prohibited sports bets. This move highlights the regulatory body's efforts to enforce betting rules in the Netherlands.",
-            "whyItMatters": "The intervention demonstrates the KSA's commitment to maintaining a fair and regulated sports betting environment, protecting consumers from potentially exploitative betting practices.",
-            "howToUse": "Operators should ensure they comply with local regulations and avoid offering prohibited bets to maintain their licenses and reputation.",
-            "beneficiaries": [
-                "Regulatory Bodies",
-                "Consumers"
-            ],
-            "companies": [
-                "Holland Casino",
-                "Vbet"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-wbdhppwpw",
-            "title": "Finland Opens iGaming",
-            "subtitle": "Finland transitions to an open iGaming market, reducing state monopoly",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Regulation",
-                "Finland"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/features/blask-finland-transition-shrinks-monopoly-club/",
-                "date": "2026-04-27T14:42:35.000Z"
-            },
-            "whatsNew": "Finland's move to an open iGaming market leaves only two countries with a state monopoly on online betting and casino. This change is expected to increase competition and innovation in the Finnish iGaming sector.",
-            "whyItMatters": "The shift towards an open market can lead to more choices for consumers and new business opportunities for operators. It also reflects a broader trend towards deregulation in the iGaming industry.",
-            "howToUse": "Operators should prepare to enter the Finnish market by ensuring compliance with local regulations and offering competitive products. Consumers can expect a wider range of gaming options and potentially better services.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Finnish Consumers"
-            ],
-            "companies": [
-                "Blask",
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3109,7 +3074,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": null
         },
         {
@@ -3128,7 +3093,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3137,7 +3102,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3146,7 +3111,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": "Regulatory updates"
         },
         {
@@ -3164,7 +3129,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3173,7 +3138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3193,7 +3158,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3251,7 +3216,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3396,7 +3361,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T13:46:48.330Z",
+            "lastScan": "2026-05-11T16:31:02.708Z",
             "note": null
         },
         {
@@ -23099,6 +23064,103 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kwzku7yzl",
+            "title": "Michigan Self-Exclusion",
+            "subtitle": "Michigan regulator partners with Gamban for free self-exclusion software",
+            "category": "iGaming",
+            "tags": [
+                "self-exclusion",
+                "Gamban",
+                "MGCB",
+                "Michigan"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/michigan-regulator-partners-gamban-free-self-exclusion/",
+                "date": "2026-04-27T15:26:21.000Z"
+            },
+            "whatsNew": "The Michigan Gaming Control Board (MGCB) has partnered with Gamban to offer free self-exclusion software to bettors in Michigan. This software allows individuals to block access to gambling sites.",
+            "whyItMatters": "This partnership aims to promote responsible gambling and provide tools for individuals to manage their betting habits. It reflects a growing trend towards increased regulation and support for responsible gaming practices.",
+            "howToUse": "Bettors in Michigan can install the Gamban software for free, which will block access to gambling sites, helping them manage their betting habits more effectively.",
+            "beneficiaries": [
+                "Bettors",
+                "Regulators"
+            ],
+            "companies": [
+                "Gamban"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kbzspc65t",
+            "title": "KSA Intervenes",
+            "subtitle": "Netherlands Gambling Authority targets Holland Casino and Vbet for prohibited sports bets",
+            "category": "iGaming",
+            "tags": [
+                "KSA",
+                "Holland Casino",
+                "Vbet",
+                "Sports Betting"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/ksa-intervenes-holland-casino-vbet-own-goals/",
+                "date": "2026-04-27T15:10:06.000Z"
+            },
+            "whatsNew": "The Netherlands Gambling Authority has intervened against Holland Casino Online and Vbet for offering bets on own goals, which are considered prohibited sports bets. This move highlights the regulatory body's efforts to enforce betting rules in the Netherlands.",
+            "whyItMatters": "The intervention demonstrates the KSA's commitment to maintaining a fair and regulated sports betting environment, protecting consumers from potentially exploitative betting practices.",
+            "howToUse": "Operators should ensure they comply with local regulations and avoid offering prohibited bets to maintain their licenses and reputation.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Consumers"
+            ],
+            "companies": [
+                "Holland Casino",
+                "Vbet"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-wbdhppwpw",
+            "title": "Finland Opens iGaming",
+            "subtitle": "Finland transitions to an open iGaming market, reducing state monopoly",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Regulation",
+                "Finland"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/features/blask-finland-transition-shrinks-monopoly-club/",
+                "date": "2026-04-27T14:42:35.000Z"
+            },
+            "whatsNew": "Finland's move to an open iGaming market leaves only two countries with a state monopoly on online betting and casino. This change is expected to increase competition and innovation in the Finnish iGaming sector.",
+            "whyItMatters": "The shift towards an open market can lead to more choices for consumers and new business opportunities for operators. It also reflects a broader trend towards deregulation in the iGaming industry.",
+            "howToUse": "Operators should prepare to enter the Finnish market by ensuring compliance with local regulations and offering competitive products. Consumers can expect a wider range of gaming options and potentially better services.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Finnish Consumers"
+            ],
+            "companies": [
+                "Blask",
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
