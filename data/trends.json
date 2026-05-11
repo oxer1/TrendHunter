@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-11T06:37:51.801Z",
+        "scanDate": "2026-05-11T10:36:36.486Z",
         "version": "2.5.0",
-        "totalTrends": 102,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ii9piu6fb",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "The UK Gambling Commission imposes regulatory sanctions on Lee Dewry Walker.",
+            "category": "iGaming",
+            "tags": [
+                "Regulatory Sanctions",
+                "UK Gambling Commission",
+                "Compliance"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWt2T1pPUGpnb19zeFJrSEJYWXdxa3pQMk9JZkIzclZicVNna1otbHBYRE9UalhlXy0tRy10ZXlZbUhFQ3JPSzM0cVhqdFNMa19sM2gwdXBvaXVQOVBUOVBMTzJGQUViQWlPcWFYeVg5NmdpMjZzbk80VVJvODBGNEx1alJyX2pyazVF?oc=5",
+                "date": "2026-05-09T20:40:24.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken action against Lee Dewry Walker, imposing regulatory sanctions. The details of the sanctions are not specified in the provided content.",
+            "whyItMatters": "This action highlights the commission's ongoing efforts to enforce regulatory compliance within the iGaming industry. It underscores the importance of adhering to gambling regulations.",
+            "howToUse": "Operators should review and ensure compliance with all relevant UK gambling regulations to avoid similar sanctions.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-hpepvhtmp",
             "title": "UK Gambling Update",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ghqp1ffc2",
@@ -207,37 +236,6 @@
             "isNew": false
         },
         {
-            "id": "t-w2vtyl690",
-            "title": "AI Avatars",
-            "subtitle": "Creating personal avatars from photos using Synthesia",
-            "category": "AI",
-            "tags": [
-                "AI Avatars",
-                "Synthesia",
-                "Personal Avatars"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnBkWXhkN21IdVVYdUdvVTkxclROVTVPc3RRdUZwUWtXcDhHc2VKU2lhU1lxak92djBYTU1sWXVmLVJzTWtkcjhER3Fnc212QTB6bDZxNUx5TFRpazBGdkJma1RZbWo5d20tY211bmxCRFZIRlUzaEVzUDduN1BIb3o3eHFLU1h2czZjNGY4NWRKZUlwRUZJ?oc=5",
-                "date": "2026-04-27T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia allows users to create personal avatars from photos, utilizing AI technology for avatar creation. This feature enables personalized digital representations. The process involves uploading a photo and using Synthesia's AI tools to generate an avatar.",
-            "whyItMatters": "The ability to create personal avatars from photos impacts digital representation and personalization in various industries, including gaming and entertainment. It also raises questions about AI ethics and digital identity.",
-            "howToUse": "To create a personal avatar, users can upload their photo to Synthesia's platform and follow the guided process to generate their avatar using AI tools.",
-            "beneficiaries": [
-                "Content Creators",
-                "Gamers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-zdbksovso",
             "title": "AI Image Generator",
             "subtitle": "Synthesia offers a free AI image generation tool",
@@ -327,37 +325,6 @@
             "isNew": false
         },
         {
-            "id": "t-dlsmaehjn",
-            "title": "AI Anime Update",
-            "subtitle": "Civitai releases Illustrious Anime v5.0 with CyberRealistic features",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Anime",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNnlZU0wyT1NhNE5ZeURzRDlYY1VoNVlPaWRWaklKcElsaXlXS3ZFVk5Ca2NkRkFQVGJWVzhDclBXeEtySVVORGRoZkdCeXExNFBMSjRnLWJSRjFOYUllVlpnclNvRWtYZGk1UDVZdG53M0QzbmJYWDhlNDU?oc=5",
-                "date": "2026-04-27T07:00:00.000Z"
-            },
-            "whatsNew": "Illustrious Anime v5.0 introduces CyberRealistic features, enhancing anime-style art generation. This update is part of Civitai's ongoing efforts to improve AI art tools. The new version promises more realistic and detailed anime art.",
-            "whyItMatters": "This update impacts AI art generation, particularly for anime fans and creators, by providing more realistic and detailed art. It also reflects the growing capabilities of AI in creative fields.",
-            "howToUse": "Artists and fans can utilize Illustrious Anime v5.0 to generate high-quality anime art with CyberRealistic features, exploring new creative possibilities.",
-            "beneficiaries": [
-                "AI Artists",
-                "Anime Fans"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-ch96hu323",
             "title": "AI Video Community",
             "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
@@ -417,38 +384,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-euhky31kb",
-            "title": "AI Character Swap",
-            "subtitle": "OpenArt introduces AI tool to instantly replace characters in images and videos",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "Image Generation",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHc3NTUTZEUmFKZ2VPNHZONXk2c1R0Q1NHZG1ZdzRaeW9vQ2N1bmZvcG1vdm04RHdEZ2huOHE4N280VUI5X2t4WVgyZUd1MTJhcGFiMDZlZDg4Zw?oc=5",
-                "date": "2026-04-27T09:07:29.000Z"
-            },
-            "whatsNew": "OpenArt's AI Character Swap allows for instant replacement of characters in images and videos, leveraging AI for creative work. This tool enables seamless editing and manipulation of visual content. It simplifies the process of altering characters in media, making it more accessible.",
-            "whyItMatters": "This innovation impacts the gaming and film industries by streamlining character customization and editing processes. It also opens up new creative possibilities for artists and designers.",
-            "howToUse": "Utilize OpenArt's AI Character Swap to instantly replace characters in your images and videos, enhancing your creative workflow and productivity.",
-            "beneficiaries": [
-                "Game Developers",
-                "Graphic Designers",
-                "Video Editors"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -883,37 +818,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-8cpnu09ao",
-            "title": "Synthesia Interactive",
-            "subtitle": "Adding interactive questions to Synthesia videos",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "Interactive Videos",
-                "AI Video Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVZHS1hfcEpwVGd6V2hNcVNTNWN6NjRPMUpKVmlRQWtxQWxROExhU2JhV0R2a25tMnhOeURnbk1SY3hSajNQc2dVLVY3eVNYanlFQi1TS1ZZZTBoempoVkhaZmM2VEpmV0U2NGtpVVdWQzlycEVLVVlKb1kyWTBlVnlSWGlhbENJakFTMDBKVUUtVjd3YmtmMFpacUI5M1YxX3NxbFktSQ?oc=5",
-                "date": "2026-04-27T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia now allows users to add interactive questions to their videos, enhancing viewer engagement. This feature is part of Synthesia's efforts to expand its video creation capabilities. It enables creators to make their content more dynamic and interactive.",
-            "whyItMatters": "The ability to add interactive questions can significantly increase viewer engagement and retention, making Synthesia a more attractive platform for content creators. This feature aligns with the broader trend of incorporating interactivity into video content.",
-            "howToUse": "To add interactive questions, users can follow the steps outlined in the Synthesia Knowledge Base, which provides detailed instructions and guidelines. This feature can be particularly useful for educational content, quizzes, and surveys.",
-            "beneficiaries": [
-                "Content Creators",
-                "Educators"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1383,37 +1287,6 @@
             "isNew": false
         },
         {
-            "id": "t-8sb2t8q49",
-            "title": "AI Video Generator",
-            "subtitle": "OpenArt introduces Smart Shot, a multi-cut cinematic AI video generator",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "Cinematic AI",
-                "Video Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FLWs3Vkc3UHlDX2xYMWQwWnlLdkdnd1lQWkhFYjhDem1fV1RodzdxSjZvYmttXzkyOFZ0N0VjQlljd3ZXakZyTDBRNl9sMEh1?oc=5",
-                "date": "2026-04-27T09:07:30.000Z"
-            },
-            "whatsNew": "OpenArt's Smart Shot is a new AI-powered video generator that can create multi-cut cinematic videos. This tool leverages AI to automate video production, making it easier to generate high-quality video content. The introduction of Smart Shot marks a significant advancement in AI video generation technology.",
-            "whyItMatters": "The Smart Shot AI video generator has the potential to revolutionize the video production industry by reducing production time and costs. It also enables creators to focus on high-level creative decisions rather than manual video editing tasks.",
-            "howToUse": "Content creators can utilize Smart Shot to generate cinematic videos for various applications, such as social media, advertising, or entertainment. By providing the AI tool with input parameters, users can produce customized video content that meets their specific needs.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-6oan5j4y1",
             "title": "Prediction Market",
             "subtitle": "A create-your-own prediction market startup has secured $6m in seed funding",
@@ -1497,37 +1370,6 @@
             "beneficiaries": [
                 "Photographers",
                 "Graphic Designers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-p38wkoq8z",
-            "title": "AI Character",
-            "subtitle": "OpenArt introduces an AI character generator for creating consistent lifelike characters",
-            "category": "AI",
-            "tags": [
-                "AI Character Generator",
-                "OpenArt",
-                "Lifelike Characters"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWDRnbndvYlNXUURXbTlWaWlTOER4VVBqcFRhbEVFTmMydGNrdk9QckVjcVRWUW50R2JFUlRDNmNHakE5enVpSlVZYVlUVllqQUxJ?oc=5",
-                "date": "2026-04-27T09:07:29.000Z"
-            },
-            "whatsNew": "OpenArt has launched an AI character generator that can create consistent and lifelike characters. This tool utilizes AI technology to produce high-quality characters. The generator aims to simplify the character creation process.",
-            "whyItMatters": "The AI character generator has the potential to revolutionize the game development and animation industries by streamlining the character creation process. It can help artists and developers create consistent and engaging characters.",
-            "howToUse": "Developers and artists can utilize the AI character generator to create characters for their games, animations, or other projects. The tool can be used to generate characters with specific traits and features.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Artists"
             ],
             "companies": [
                 "OpenArt"
@@ -2983,37 +2825,6 @@
             "isNew": false
         },
         {
-            "id": "t-mdqbhpslc",
-            "title": "Rivalry Resignations",
-            "subtitle": "Rivalry's C-suite and board resign after reducing operations",
-            "category": "iGaming",
-            "tags": [
-                "Rivalry",
-                "iGaming",
-                "Resignations"
-            ],
-            "trendStrength": 4,
-            "velocity": "cooling",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/steven-salz-last-man-standing-rivalry/",
-                "date": "2026-04-27T10:19:03.000Z"
-            },
-            "whatsNew": "Rivalry's C-suite and board have resigned, leaving Steven Salz as the last man standing. This comes after the company significantly reduced its operations several months ago.",
-            "whyItMatters": "The mass resignation may indicate a significant shift in the company's direction or a loss of confidence in its current strategy. This could have implications for the iGaming industry as a whole.",
-            "howToUse": "Operators should monitor the situation and consider potential opportunities or challenges arising from Rivalry's restructuring.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Rivalry"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-kwzku7yzl",
             "title": "Michigan Self-Exclusion",
             "subtitle": "Michigan regulator partners with Gamban for free self-exclusion software",
@@ -3361,7 +3172,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": null
         },
         {
@@ -3380,7 +3191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3389,7 +3200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3398,7 +3209,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "Regulatory updates"
         },
         {
@@ -3416,7 +3227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3425,7 +3236,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3445,7 +3256,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3503,7 +3314,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3512,7 +3323,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3521,7 +3332,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": "Style browsing signal"
         },
         {
@@ -3558,7 +3369,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T02:51:12.382Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": null
         },
         {
@@ -3648,7 +3459,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T06:37:51.801Z",
+            "lastScan": "2026-05-11T10:36:36.486Z",
             "note": null
         },
         {
@@ -23037,6 +22848,224 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-w2vtyl690",
+            "title": "AI Avatars",
+            "subtitle": "Creating personal avatars from photos using Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "Synthesia",
+                "Personal Avatars"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnBkWXhkN21IdVVYdUdvVTkxclROVTVPc3RRdUZwUWtXcDhHc2VKU2lhU1lxak92djBYTU1sWXVmLVJzTWtkcjhER3Fnc212QTB6bDZxNUx5TFRpazBGdkJma1RZbWo5d20tY211bmxCRFZIRlUzaEVzUDduN1BIb3o3eHFLU1h2czZjNGY4NWRKZUlwRUZJ?oc=5",
+                "date": "2026-04-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia allows users to create personal avatars from photos, utilizing AI technology for avatar creation. This feature enables personalized digital representations. The process involves uploading a photo and using Synthesia's AI tools to generate an avatar.",
+            "whyItMatters": "The ability to create personal avatars from photos impacts digital representation and personalization in various industries, including gaming and entertainment. It also raises questions about AI ethics and digital identity.",
+            "howToUse": "To create a personal avatar, users can upload their photo to Synthesia's platform and follow the guided process to generate their avatar using AI tools.",
+            "beneficiaries": [
+                "Content Creators",
+                "Gamers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-dlsmaehjn",
+            "title": "AI Anime Update",
+            "subtitle": "Civitai releases Illustrious Anime v5.0 with CyberRealistic features",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anime",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNnlZU0wyT1NhNE5ZeURzRDlYY1VoNVlPaWRWaklKcElsaXlXS3ZFVk5Ca2NkRkFQVGJWVzhDclBXeEtySVVORGRoZkdCeXExNFBMSjRnLWJSRjFOYUllVlpnclNvRWtYZGk1UDVZdG53M0QzbmJYWDhlNDU?oc=5",
+                "date": "2026-04-27T07:00:00.000Z"
+            },
+            "whatsNew": "Illustrious Anime v5.0 introduces CyberRealistic features, enhancing anime-style art generation. This update is part of Civitai's ongoing efforts to improve AI art tools. The new version promises more realistic and detailed anime art.",
+            "whyItMatters": "This update impacts AI art generation, particularly for anime fans and creators, by providing more realistic and detailed art. It also reflects the growing capabilities of AI in creative fields.",
+            "howToUse": "Artists and fans can utilize Illustrious Anime v5.0 to generate high-quality anime art with CyberRealistic features, exploring new creative possibilities.",
+            "beneficiaries": [
+                "AI Artists",
+                "Anime Fans"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-euhky31kb",
+            "title": "AI Character Swap",
+            "subtitle": "OpenArt introduces AI tool to instantly replace characters in images and videos",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Image Generation",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHc3NTUTZEUmFKZ2VPNHZONXk2c1R0Q1NHZG1ZdzRaeW9vQ2N1bmZvcG1vdm04RHdEZ2huOHE4N280VUI5X2t4WVgyZUd1MTJhcGFiMDZlZDg4Zw?oc=5",
+                "date": "2026-04-27T09:07:29.000Z"
+            },
+            "whatsNew": "OpenArt's AI Character Swap allows for instant replacement of characters in images and videos, leveraging AI for creative work. This tool enables seamless editing and manipulation of visual content. It simplifies the process of altering characters in media, making it more accessible.",
+            "whyItMatters": "This innovation impacts the gaming and film industries by streamlining character customization and editing processes. It also opens up new creative possibilities for artists and designers.",
+            "howToUse": "Utilize OpenArt's AI Character Swap to instantly replace characters in your images and videos, enhancing your creative workflow and productivity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Video Editors"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-8cpnu09ao",
+            "title": "Synthesia Interactive",
+            "subtitle": "Adding interactive questions to Synthesia videos",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Interactive Videos",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVZHS1hfcEpwVGd6V2hNcVNTNWN6NjRPMUpKVmlRQWtxQWxROExhU2JhV0R2a25tMnhOeURnbk1SY3hSajNQc2dVLVY3eVNYanlFQi1TS1ZZZTBoempoVkhaZmM2VEpmV0U2NGtpVVdWQzlycEVLVVlKb1kyWTBlVnlSWGlhbENJakFTMDBKVUUtVjd3YmtmMFpacUI5M1YxX3NxbFktSQ?oc=5",
+                "date": "2026-04-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia now allows users to add interactive questions to their videos, enhancing viewer engagement. This feature is part of Synthesia's efforts to expand its video creation capabilities. It enables creators to make their content more dynamic and interactive.",
+            "whyItMatters": "The ability to add interactive questions can significantly increase viewer engagement and retention, making Synthesia a more attractive platform for content creators. This feature aligns with the broader trend of incorporating interactivity into video content.",
+            "howToUse": "To add interactive questions, users can follow the steps outlined in the Synthesia Knowledge Base, which provides detailed instructions and guidelines. This feature can be particularly useful for educational content, quizzes, and surveys.",
+            "beneficiaries": [
+                "Content Creators",
+                "Educators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-8sb2t8q49",
+            "title": "AI Video Generator",
+            "subtitle": "OpenArt introduces Smart Shot, a multi-cut cinematic AI video generator",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Cinematic AI",
+                "Video Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FLWs3Vkc3UHlDX2xYMWQwWnlLdkdnd1lQWkhFYjhDem1fV1RodzdxSjZvYmttXzkyOFZ0N0VjQlljd3ZXakZyTDBRNl9sMEh1?oc=5",
+                "date": "2026-04-27T09:07:30.000Z"
+            },
+            "whatsNew": "OpenArt's Smart Shot is a new AI-powered video generator that can create multi-cut cinematic videos. This tool leverages AI to automate video production, making it easier to generate high-quality video content. The introduction of Smart Shot marks a significant advancement in AI video generation technology.",
+            "whyItMatters": "The Smart Shot AI video generator has the potential to revolutionize the video production industry by reducing production time and costs. It also enables creators to focus on high-level creative decisions rather than manual video editing tasks.",
+            "howToUse": "Content creators can utilize Smart Shot to generate cinematic videos for various applications, such as social media, advertising, or entertainment. By providing the AI tool with input parameters, users can produce customized video content that meets their specific needs.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-p38wkoq8z",
+            "title": "AI Character",
+            "subtitle": "OpenArt introduces an AI character generator for creating consistent lifelike characters",
+            "category": "AI",
+            "tags": [
+                "AI Character Generator",
+                "OpenArt",
+                "Lifelike Characters"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWDRnbndvYlNXUURXbTlWaWlTOER4VVBqcFRhbEVFTmMydGNrdk9QckVjcVRWUW50R2JFUlRDNmNHakE5enVpSlVZYVlUVllqQUxJ?oc=5",
+                "date": "2026-04-27T09:07:29.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI character generator that can create consistent and lifelike characters. This tool utilizes AI technology to produce high-quality characters. The generator aims to simplify the character creation process.",
+            "whyItMatters": "The AI character generator has the potential to revolutionize the game development and animation industries by streamlining the character creation process. It can help artists and developers create consistent and engaging characters.",
+            "howToUse": "Developers and artists can utilize the AI character generator to create characters for their games, animations, or other projects. The tool can be used to generate characters with specific traits and features.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-mdqbhpslc",
+            "title": "Rivalry Resignations",
+            "subtitle": "Rivalry's C-suite and board resign after reducing operations",
+            "category": "iGaming",
+            "tags": [
+                "Rivalry",
+                "iGaming",
+                "Resignations"
+            ],
+            "trendStrength": 4,
+            "velocity": "cooling",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/steven-salz-last-man-standing-rivalry/",
+                "date": "2026-04-27T10:19:03.000Z"
+            },
+            "whatsNew": "Rivalry's C-suite and board have resigned, leaving Steven Salz as the last man standing. This comes after the company significantly reduced its operations several months ago.",
+            "whyItMatters": "The mass resignation may indicate a significant shift in the company's direction or a loss of confidence in its current strategy. This could have implications for the iGaming industry as a whole.",
+            "howToUse": "Operators should monitor the situation and consider potential opportunities or challenges arising from Rivalry's restructuring.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Rivalry"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
