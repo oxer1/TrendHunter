@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-11T16:31:02.707Z",
+        "scanDate": "2026-05-11T18:56:34.971Z",
         "version": "2.5.0",
-        "totalTrends": 93,
+        "totalTrends": 92,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-woxevqsip",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-e4bxd83eb",
@@ -2510,37 +2510,6 @@
             "isNew": false
         },
         {
-            "id": "t-llm2mx1t0",
-            "title": "ICE Day Two",
-            "subtitle": "EGR North America reports on the second day of the ICE event, likely covering iGaming industry developments and trends.",
-            "category": "iGaming",
-            "tags": [
-                "ICE",
-                "EGR North America",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmQS1BaVI0dHY1UWRvbDJuOWJ0WVp4MnhGWlRqMFppck5XZTlBQjVLMS1rM1ZOQVNacDRTZWtEY1RCVk1aU01tdVR5OEtCbVVXblJoQTFUMmY4S0ZCdDhhOS1CajVQQQ?oc=5",
-                "date": "2026-04-27T18:42:19.000Z"
-            },
-            "whatsNew": "The article provides an update on the ICE event, focusing on its second day. It likely includes insights into new iGaming technologies, regulatory discussions, and industry networking. The event is a significant platform for the iGaming sector to showcase innovations and trends.",
-            "whyItMatters": "The ICE event is crucial for the iGaming industry as it brings together key stakeholders to discuss future directions, technological advancements, and regulatory changes. The insights from this event can shape the industry's landscape in the coming year.",
-            "howToUse": "Industry professionals can use the information from the ICE round-up to stay updated on the latest trends and technologies in the iGaming sector, potentially informing their business strategies and product development.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "EGR Global"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-3vxzwnbso",
             "title": "BetVictor New Campaign",
             "subtitle": "BetVictor launches its largest audio-visual investment campaign to date",
@@ -3074,7 +3043,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": null
         },
         {
@@ -3093,7 +3062,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3102,7 +3071,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3111,7 +3080,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": "Regulatory updates"
         },
         {
@@ -3129,7 +3098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3138,7 +3107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3158,7 +3127,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3216,7 +3185,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3361,7 +3330,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T16:31:02.708Z",
+            "lastScan": "2026-05-11T18:56:34.972Z",
             "note": null
         },
         {
@@ -23161,6 +23130,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-llm2mx1t0",
+            "title": "ICE Day Two",
+            "subtitle": "EGR North America reports on the second day of the ICE event, likely covering iGaming industry developments and trends.",
+            "category": "iGaming",
+            "tags": [
+                "ICE",
+                "EGR North America",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmQS1BaVI0dHY1UWRvbDJuOWJ0WVp4MnhGWlRqMFppck5XZTlBQjVLMS1rM1ZOQVNacDRTZWtEY1RCVk1aU01tdVR5OEtCbVVXblJoQTFUMmY4S0ZCdDhhOS1CajVQQQ?oc=5",
+                "date": "2026-04-27T18:42:19.000Z"
+            },
+            "whatsNew": "The article provides an update on the ICE event, focusing on its second day. It likely includes insights into new iGaming technologies, regulatory discussions, and industry networking. The event is a significant platform for the iGaming sector to showcase innovations and trends.",
+            "whyItMatters": "The ICE event is crucial for the iGaming industry as it brings together key stakeholders to discuss future directions, technological advancements, and regulatory changes. The insights from this event can shape the industry's landscape in the coming year.",
+            "howToUse": "Industry professionals can use the information from the ICE round-up to stay updated on the latest trends and technologies in the iGaming sector, potentially informing their business strategies and product development.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "EGR Global"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
