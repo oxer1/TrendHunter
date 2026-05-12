@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-12T14:15:10.448Z",
+        "scanDate": "2026-05-12T17:08:10.765Z",
         "version": "2.5.0",
         "totalTrends": 86,
         "categories": [
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-89o5zoq5c",
+            "title": "Albion Online",
+            "subtitle": "Sandbox Interactive's approach to building a scalable, cross-platform MMO with Unity",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "MMO",
+                "Cross-platform",
+                "Game development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/albion-online-cross-platform-pvp-mmo-architecture",
+                "date": "2026-05-12T00:00:00.000Z"
+            },
+            "whatsNew": "Albion Online's success demonstrates how technical vision and a deep commitment to the player community combine to create longevity. The game operates seamlessly across PC, Mac, Linux, iOS, Android, and Xbox Series X|S via Xbox Game Pass. Sandbox Interactive plans to transition from Unity's Built-In Render Pipeline to the Scriptable Render Pipeline (SRP) to better tune graphics per device.",
+            "whyItMatters": "Albion Online's technical foundations and commitment to community engagement provide a model for long-term success in the gaming industry. The game's ability to scale across platforms and maintain a unified experience is a significant achievement.",
+            "howToUse": "Game developers can learn from Sandbox Interactive's approach to building a scalable, cross-platform game with Unity, including the use of a single Unity project, decoupling simulation from visualization, and continuous engagement with the player community.",
+            "beneficiaries": [
+                "Game developers",
+                "MMO enthusiasts"
+            ],
+            "companies": [
+                "Sandbox Interactive",
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-zqk5ss10w",
+            "title": "HiDream Image Dev",
+            "subtitle": "Rebels HiDream-01 introduces multi-reference editing for image development on Civitai",
+            "category": "AI",
+            "tags": [
+                "Image Editing",
+                "HiDream",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmQUIzbUVwcDEwWTNpbDl2dE1JRFZBUWx2Yko5a0hlcGZ0SFZGZHZJZElFU04zS19JZzh6VWptZnh6emhGeHRPaENZdUcxbF9uR0tRSmZmdnJWVm10QWtTcUtla0RqaGk1Z0JLOGhGTQ?oc=5",
+                "date": "2026-05-11T07:00:00.000Z"
+            },
+            "whatsNew": "The Rebels HiDream-01 introduces a new feature for multi-reference editing, enhancing image development capabilities on the Civitai platform. This update allows for more complex and detailed image generation. The HiDream workflow is designed to streamline image editing processes.",
+            "whyItMatters": "This development is significant for AI-powered image generation, offering users more control and flexibility in creating complex images. It has the potential to impact various creative fields, including gaming and visual design.",
+            "howToUse": "To leverage this feature, users can access the Rebels HiDream-01 on Civitai and explore the multi-reference editing capabilities to create detailed and customized images.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-pjop7wvrj",
+            "title": "FLUX MEGAPACK",
+            "subtitle": "Civitai releases FLUX MEGAPACK v4.0 with Flux.1 Workflows",
+            "category": "AI",
+            "tags": [
+                "AI Tools",
+                "Civitai",
+                "FLUX"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSzNZMUNxWmVWMDdBYldYVk5iS19SbWtMRTJzZzRXQWNIeHkyU0o3UWQ4RHVwaXdoMjFMcjg3SFl5LVBUNlFXZThOd2lUUTlubDRUS2xxcW51UQ?oc=5",
+                "date": "2026-05-09T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the FLUX MEGAPACK v4.0, which includes Flux.1 Workflows, a significant update to their AI toolset. This new version is expected to enhance workflow efficiency and AI model performance. The update is part of Civitai's ongoing efforts to improve their AI offerings.",
+            "whyItMatters": "The release of FLUX MEGAPACK v4.0 matters because it demonstrates Civitai's commitment to advancing AI technology and providing users with more powerful tools. This update can potentially impact the development of AI-powered games and art, making it a noteworthy event in the AI for creative work space.",
+            "howToUse": "Developers and artists can utilize the FLUX MEGAPACK v4.0 by integrating it into their existing workflows, leveraging the enhanced features and performance of Flux.1 Workflows to create more sophisticated AI models and art.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-5g3kau9m3",
             "title": "UK Horseracing Gains",
@@ -2510,37 +2605,6 @@
             "isNew": false
         },
         {
-            "id": "t-3vxzwnbso",
-            "title": "BetVictor New Campaign",
-            "subtitle": "BetVictor launches its largest audio-visual investment campaign to date",
-            "category": "iGaming",
-            "tags": [
-                "BetVictor",
-                "Audio-Visual",
-                "iGaming Campaign"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUhBVGpLOXpuZkJ6eVRxbDczLWRLTVRsWEhkSndqY0c0RTktOVdFSzhGV28wdW1qN1hvM0Myc0pNYjlEaWZNWmZXOE05MjRxaGZ2Ukpqb3BBTnJ4TzY2QzZoWU1MVmlSM3I1cHVLbzVsbjllVElBWEdHODRzZ1owN2R5QTl5bFk3MnpFU3luNG5VbDM0NWJMNUdmb1QxSDlJWEVvQXZqMnJ2dw?oc=5",
-                "date": "2026-04-28T16:43:11.000Z"
-            },
-            "whatsNew": "BetVictor has unveiled a new campaign representing its largest audio-visual investment to date, indicating a significant push into enhanced user experience. The campaign is expected to elevate the brand's presence in the iGaming market. Details on the campaign's specifics are awaited for a deeper analysis.",
-            "whyItMatters": "This investment by BetVictor signifies the growing importance of audio-visual elements in the iGaming industry, potentially setting a new standard for user engagement and experience. It reflects the industry's shift towards more immersive and interactive platforms.",
-            "howToUse": "Operators in the iGaming sector can take cue from BetVictor's strategy by prioritizing investments in audio-visual technologies to enhance their platforms and attract a wider audience. This could involve developing more engaging interfaces, interactive games, and immersive experiences.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Gamers"
-            ],
-            "companies": [
-                "BetVictor"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-rso8c2ugv",
             "title": "Jackpota Casino",
             "subtitle": "Jackpota Casino introduces Power Chance Games by Playson",
@@ -2630,69 +2694,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-lrqnts0am",
-            "title": "Sportradar Revenue",
-            "subtitle": "Sportradar's Q1 2026 revenue increases despite currency-related loss",
-            "category": "iGaming",
-            "tags": [
-                "Sportradar",
-                "Q1 2026",
-                "Revenue"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q126-sportradar-revenue-climbs-currency-hit-drags/",
-                "date": "2026-04-28T14:36:43.000Z"
-            },
-            "whatsNew": "Sportradar's revenue has increased in Q1 2026, but the company has reported a loss due to currency fluctuations. The company's growth is steady, but external factors are affecting its bottom line.",
-            "whyItMatters": "The report indicates the impact of currency swings on the financial performance of companies in the iGaming industry, highlighting the need for robust risk management strategies.",
-            "howToUse": "Companies can use this information to inform their own risk management strategies and prepare for potential currency fluctuations.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Investors"
-            ],
-            "companies": [
-                "Sportradar"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-akploztq4",
-            "title": "NVIDIA AI Breakthrough",
-            "subtitle": "NVIDIA introduces Nemotron 3 Nano Omni for multimodal intelligence in documents, audio, and video agents",
-            "category": "AI",
-            "tags": [
-                "NVIDIA",
-                "Nemotron 3",
-                "Multimodal Intelligence",
-                "AI Agents"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-                "date": "2026-04-28T15:58:57.000Z"
-            },
-            "whatsNew": "NVIDIA's Nemotron 3 Nano Omni enables long-context multimodal intelligence for various media types, including documents, audio, and video. This technology has potential applications in AI-powered game development and iGaming. It can be used to create more sophisticated AI agents in games.",
-            "whyItMatters": "The introduction of Nemotron 3 Nano Omni can significantly impact the development of AI-powered games and iGaming platforms, enabling more realistic and interactive experiences. This technology can also be applied to AI art generation and animation techniques.",
-            "howToUse": "Game developers can utilize Nemotron 3 Nano Omni to create more advanced AI-powered game agents, while iGaming platforms can leverage this technology to enhance user experience and provide more realistic interactions.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Platforms"
-            ],
-            "companies": [
-                "NVIDIA"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ],
@@ -2850,7 +2851,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": null
         },
         {
@@ -2869,7 +2870,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2878,7 +2879,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2887,7 +2888,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": "Regulatory updates"
         },
         {
@@ -2905,7 +2906,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2914,7 +2915,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2934,7 +2935,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2992,7 +2993,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3001,7 +3002,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T06:13:34.116Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3137,7 +3138,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T14:15:10.448Z",
+            "lastScan": "2026-05-12T17:08:10.765Z",
             "note": null
         },
         {
@@ -23255,6 +23256,100 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-3vxzwnbso",
+            "title": "BetVictor New Campaign",
+            "subtitle": "BetVictor launches its largest audio-visual investment campaign to date",
+            "category": "iGaming",
+            "tags": [
+                "BetVictor",
+                "Audio-Visual",
+                "iGaming Campaign"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUhBVGpLOXpuZkJ6eVRxbDczLWRLTVRsWEhkSndqY0c0RTktOVdFSzhGV28wdW1qN1hvM0Myc0pNYjlEaWZNWmZXOE05MjRxaGZ2Ukpqb3BBTnJ4TzY2QzZoWU1MVmlSM3I1cHVLbzVsbjllVElBWEdHODRzZ1owN2R5QTl5bFk3MnpFU3luNG5VbDM0NWJMNUdmb1QxSDlJWEVvQXZqMnJ2dw?oc=5",
+                "date": "2026-04-28T16:43:11.000Z"
+            },
+            "whatsNew": "BetVictor has unveiled a new campaign representing its largest audio-visual investment to date, indicating a significant push into enhanced user experience. The campaign is expected to elevate the brand's presence in the iGaming market. Details on the campaign's specifics are awaited for a deeper analysis.",
+            "whyItMatters": "This investment by BetVictor signifies the growing importance of audio-visual elements in the iGaming industry, potentially setting a new standard for user engagement and experience. It reflects the industry's shift towards more immersive and interactive platforms.",
+            "howToUse": "Operators in the iGaming sector can take cue from BetVictor's strategy by prioritizing investments in audio-visual technologies to enhance their platforms and attract a wider audience. This could involve developing more engaging interfaces, interactive games, and immersive experiences.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "BetVictor"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-lrqnts0am",
+            "title": "Sportradar Revenue",
+            "subtitle": "Sportradar's Q1 2026 revenue increases despite currency-related loss",
+            "category": "iGaming",
+            "tags": [
+                "Sportradar",
+                "Q1 2026",
+                "Revenue"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-sportradar-revenue-climbs-currency-hit-drags/",
+                "date": "2026-04-28T14:36:43.000Z"
+            },
+            "whatsNew": "Sportradar's revenue has increased in Q1 2026, but the company has reported a loss due to currency fluctuations. The company's growth is steady, but external factors are affecting its bottom line.",
+            "whyItMatters": "The report indicates the impact of currency swings on the financial performance of companies in the iGaming industry, highlighting the need for robust risk management strategies.",
+            "howToUse": "Companies can use this information to inform their own risk management strategies and prepare for potential currency fluctuations.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-akploztq4",
+            "title": "NVIDIA AI Breakthrough",
+            "subtitle": "NVIDIA introduces Nemotron 3 Nano Omni for multimodal intelligence in documents, audio, and video agents",
+            "category": "AI",
+            "tags": [
+                "NVIDIA",
+                "Nemotron 3",
+                "Multimodal Intelligence",
+                "AI Agents"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+                "date": "2026-04-28T15:58:57.000Z"
+            },
+            "whatsNew": "NVIDIA's Nemotron 3 Nano Omni enables long-context multimodal intelligence for various media types, including documents, audio, and video. This technology has potential applications in AI-powered game development and iGaming. It can be used to create more sophisticated AI agents in games.",
+            "whyItMatters": "The introduction of Nemotron 3 Nano Omni can significantly impact the development of AI-powered games and iGaming platforms, enabling more realistic and interactive experiences. This technology can also be applied to AI art generation and animation techniques.",
+            "howToUse": "Game developers can utilize Nemotron 3 Nano Omni to create more advanced AI-powered game agents, while iGaming platforms can leverage this technology to enhance user experience and provide more realistic interactions.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Platforms"
+            ],
+            "companies": [
+                "NVIDIA"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
