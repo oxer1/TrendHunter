@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-12T02:47:08.633Z",
+        "scanDate": "2026-05-12T06:13:34.116Z",
         "version": "2.5.0",
-        "totalTrends": 92,
+        "totalTrends": 91,
         "categories": [
             "iGaming",
             "AI",
@@ -1499,38 +1499,6 @@
             ],
             "companies": [
                 "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-y7w952nhe",
-            "title": "AI Art Prompt",
-            "subtitle": "Sleek and high-tech character portrait generated using AI",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Character Portrait"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTUc1QnhFbVc0Rl9CYzZ4V0RQN2ZRMlQ4WGx0dHVhM2JhbVc0b19fVWMzc0ZBM2RLWTRidHgyLV9fVGFKQkF0N3VCdGxJNEVvMXJmZGtRbk8wR1lQTW1sUUNhaDRscGpGMEJqbHhPVHIzc1duQS1PWk1abWM1THNCcWpHN2RKcjVTNXYxcEdoY2VYQ0lFUXpaSnV1cUIzVERudjhDX2l2MFJEQWRsTVZ4YzR2S01IUXdkbk9tMFU3bGpnNlVaLVZSTzBrU21lNENvUXEtSTEzRHI1Q01PX1MzMjU5UFJneWJJWFJ1UElxTlpvbGRnQ2FrN0lyLVB3SHcwVnc?oc=5",
-                "date": "2026-04-28T03:37:13.000Z"
-            },
-            "whatsNew": "The use of AI image prompts for generating high-tech character portraits is becoming increasingly popular. This trend is driven by advancements in AI technology and the growing demand for unique digital art. The ability to create custom portraits with specific styles and themes is a key factor in this trend.",
-            "whyItMatters": "The development of AI-powered image generation tools has significant implications for the art and design industries. It enables creators to produce high-quality, customized artwork quickly and efficiently, which can be used in various applications such as gaming, animation, and graphic design.",
-            "howToUse": "To utilize AI image prompts for generating character portraits, users can input specific keywords and phrases that describe the desired style and theme, and the AI algorithm will generate a unique image based on those prompts.",
-            "beneficiaries": [
-                "Digital Artists",
-                "Game Developers",
-                "Graphic Designers"
-            ],
-            "companies": [
-                "PromptHero"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -3043,7 +3011,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": null
         },
         {
@@ -3062,7 +3030,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3071,7 +3039,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3080,7 +3048,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": "Regulatory updates"
         },
         {
@@ -3098,7 +3066,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3107,7 +3075,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3127,7 +3095,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3185,7 +3153,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3194,7 +3162,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.116Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3330,7 +3298,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T02:47:08.633Z",
+            "lastScan": "2026-05-12T06:13:34.117Z",
             "note": null
         },
         {
@@ -23161,6 +23129,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-y7w952nhe",
+            "title": "AI Art Prompt",
+            "subtitle": "Sleek and high-tech character portrait generated using AI",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Character Portrait"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTUc1QnhFbVc0Rl9CYzZ4V0RQN2ZRMlQ4WGx0dHVhM2JhbVc0b19fVWMzc0ZBM2RLWTRidHgyLV9fVGFKQkF0N3VCdGxJNEVvMXJmZGtRbk8wR1lQTW1sUUNhaDRscGpGMEJqbHhPVHIzc1duQS1PWk1abWM1THNCcWpHN2RKcjVTNXYxcEdoY2VYQ0lFUXpaSnV1cUIzVERudjhDX2l2MFJEQWRsTVZ4YzR2S01IUXdkbk9tMFU3bGpnNlVaLVZSTzBrU21lNENvUXEtSTEzRHI1Q01PX1MzMjU5UFJneWJJWFJ1UElxTlpvbGRnQ2FrN0lyLVB3SHcwVnc?oc=5",
+                "date": "2026-04-28T03:37:13.000Z"
+            },
+            "whatsNew": "The use of AI image prompts for generating high-tech character portraits is becoming increasingly popular. This trend is driven by advancements in AI technology and the growing demand for unique digital art. The ability to create custom portraits with specific styles and themes is a key factor in this trend.",
+            "whyItMatters": "The development of AI-powered image generation tools has significant implications for the art and design industries. It enables creators to produce high-quality, customized artwork quickly and efficiently, which can be used in various applications such as gaming, animation, and graphic design.",
+            "howToUse": "To utilize AI image prompts for generating character portraits, users can input specific keywords and phrases that describe the desired style and theme, and the AI algorithm will generate a unique image based on those prompts.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Game Developers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
