@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-13T13:09:23.841Z",
+        "scanDate": "2026-05-13T16:16:39.669Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-o6zn0sunz",
+            "title": "Unity Grants",
+            "subtitle": "Unity for Humanity 2026 Grant winners announced, focusing on social impact and innovation",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Social Impact"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/unity-for-humanity-2026-winner-announcement",
+                "date": "2026-05-13T00:00:00.000Z"
+            },
+            "whatsNew": "The 2026 Unity for Humanity Grant winners have been announced, with 10 winners and 3 honorable mentions. The projects focus on using real-time 3D to drive positive change and address complex global challenges. The winners will receive a total of $600,000 in funding to support their projects.",
+            "whyItMatters": "The Unity for Humanity program supports innovative projects that use technology to drive positive social change. The winners of this year's grant demonstrate the potential for real-time 3D technology to address complex global challenges and improve people's lives.",
+            "howToUse": "Developers and creators can apply for the Unity for Humanity grant to support their own projects that focus on social impact and innovation. They can also join the Unity for Humanity Discord channel and sign up to receive updates on the program.",
+            "beneficiaries": [
+                "Game Developers",
+                "Social Impact Organizations"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-02ffvup1m",
+            "title": "Aviator Tops Latam",
+            "subtitle": "Aviator fends off Pragmatic Play in Latam slots market",
+            "category": "iGaming",
+            "tags": [
+                "Latam Slots",
+                "Aviator",
+                "Pragmatic Play"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaG1ud1lsWGt5SWp3bU1CNWtwcHZIZTg0TzFtWTlNMGF5eVM3alRRLW1mWlltc21zVlJ1LU42THV1OTlRWm8wWHFoQWh2cVpJUXlLLUt0Ujc4Rkx0a3k1cGVQV3d2am1feGdvN0FjMVVodG1wNVJYdk1lVWJ3aUJEZHUyaWs2UjVyTzZ3U2VIQkx3UkxTRUUxNkVoelYxcE81Mkkw?oc=5",
+                "date": "2026-05-13T14:03:21.000Z"
+            },
+            "whatsNew": "Aviator maintains its top position in the Latam slots market, outperforming Pragmatic Play. The game's popularity endures, solidifying its presence in the region.",
+            "whyItMatters": "The continued success of Aviator in Latam signifies a strong market presence and player preference, impacting the competitive landscape for slot game developers.",
+            "howToUse": "Game developers can analyze Aviator's success factors to inform their own game development strategies in the Latam market.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Pragmatic Play"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ovqny9qt1",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "ChatGPT",
+                "Image Generation",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DZGhZOEpZUkd0ZGFqUTJhQ3c0RTBQYTVlblR5UnVWSm1HdVFlYW9FbG9keXEtVEswUHhfbXd5SGhvb1dISVhveFhEUU80c0dBdDMxZjYzQ01razdLbjlvVWZ5VFQwTXE1cTNzMC1yclRReml2aWc?oc=5",
+                "date": "2026-05-05T20:45:01.000Z"
+            },
+            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
+            "whyItMatters": "The ability to generate images using AI has significant implications for the gaming and art industries, enabling new forms of creative expression and potentially streamlining content creation. This technology can also be used in the iGaming industry for creating engaging visuals and animations.",
+            "howToUse": "Developers and artists can utilize ChatGPT image prompts to generate unique and customized images for their projects, and game developers can leverage this technology to create immersive and interactive experiences.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-jy8ghtjct",
             "title": "Kalshi Compliance Hire",
@@ -50,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9w1ls74k4",
@@ -82,7 +176,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-7r83g3ozr",
@@ -1789,38 +1883,6 @@
             "isNew": false
         },
         {
-            "id": "t-1oagacs5q",
-            "title": "BetMGM COO Move",
-            "subtitle": "BetMGM COO joins Yahoo Sports as general manager",
-            "category": "iGaming",
-            "tags": [
-                "BetMGM",
-                "Yahoo Sports",
-                "Executive Move"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlHNHp1SEFrb0RSWWk3T2VpNjBhSUdmVmxiZnlqeG5oVGxJNW9jNXkyZEk3M3drbnBrT2UxYW5QS2FjZUtzRmV3eDVleUR3LVRfLWl3OWF6QnYybUxEVlJkanRhUC14R0VNX1RlbV9wc0d0UkJuSkE3NkZ2VTVHS3NTZWdxMWdGaDhQMjE3VktUMHU3UnJV?oc=5",
-                "date": "2026-04-29T14:47:15.000Z"
-            },
-            "whatsNew": "BetMGM's COO is leaving to join Yahoo Sports as a general manager, indicating a shift in leadership and potential collaboration between the two companies. This move may signal a deeper integration of sports betting into Yahoo's offerings. The change could impact the iGaming industry's landscape.",
-            "whyItMatters": "This move highlights the growing importance of online sports betting and the blurring of lines between traditional sports media and iGaming. It may lead to new opportunities for innovation and growth in the sector.",
-            "howToUse": "Companies in the iGaming space should monitor this development for potential partnerships or collaborations that could enhance their offerings and reach. This could also signal a need for similar strategic moves within their own organizations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Sports Media Companies"
-            ],
-            "companies": [
-                "BetMGM",
-                "Yahoo Sports"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-g9i154ucn",
             "title": "Raketech Q1 Report",
             "subtitle": "Raketech aims to rebuild profitability despite revenue drop in Q1 2026",
@@ -1977,130 +2039,6 @@
             "isNew": false
         },
         {
-            "id": "t-fjjlwnecv",
-            "title": "iGaming Expansion",
-            "subtitle": "Opinion piece on overcoming igaming sticking points in state expansion",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "regulation",
-                "state expansion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEtaOElYNm5HMXdPOEgtdG9iZG9kcmQta0ZsV0MzVXJVRnVZVTlBSHVjNEFvdnhseS11aVE5LXJkSDl4Z3lMb1NEUVZ2MjMzYWl1MXB5NkxsWjkzbjUxREtwNnpfX2x4OHVBeG8wVldLbzRoVXdpeE5JcE8wLWJDSXpJcUJiZEhSUjFoZ0pkZmZaNFpwbE9JdDg2c2pSSGtuenloQUExeDRGdExUUlFzUWR3LXg0Mjg?oc=5",
-                "date": "2026-04-29T15:02:15.000Z"
-            },
-            "whatsNew": "The article discusses the current challenges facing igaming expansion in North America, highlighting key sticking points that need to be addressed. It provides insight into the regulatory landscape and potential solutions for overcoming these obstacles.",
-            "whyItMatters": "The article's discussion on igaming expansion is crucial for industry stakeholders, as it sheds light on the potential for growth and the hurdles that must be cleared. Understanding these challenges can help inform strategic decisions and advocacy efforts.",
-            "howToUse": "Industry stakeholders can use the article's analysis to better navigate the regulatory environment and identify opportunities for expansion. By understanding the sticking points, companies can develop targeted strategies to address these challenges.",
-            "beneficiaries": [
-                "iGaming operators",
-                "regulators",
-                "industry stakeholders"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-1ru31c7gx",
-            "title": "MGA Regulation Update",
-            "subtitle": "Malta Gaming Authority proposes enhancements to the Recognition Notice Framework",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Gaming License"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDFZVTB3VDV2aVduMk43U2xtSV9QdTZzWnlZOTZHSld5TVNTMm1mcWdsZThYNFM5bG5UbUdxQmFMMUhFaDhJSERkbzFxMHVkVF9ZMnE5NUR3U1JveVkwdkZFR25TbHZpM2tUSmFzOHF3Uk4zZVRHSm15NDFGTzFzemk2ZjU2T0gtZ1FSMHd1RmpEdXVKQkRZZGZLZUJqX3hLNUFoU2h4Zld1aGR1R1ZOOXl6Qnl2Q0tv?oc=5",
-                "date": "2026-04-29T13:55:06.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has issued a targeted consultation on proposed enhancements to the Recognition Notice Framework. This aims to improve the regulatory environment for gaming operators. The consultation is open for feedback from stakeholders.",
-            "whyItMatters": "The proposed enhancements could impact how gaming operators are regulated in Malta, affecting their compliance and operational costs. This development is crucial for companies looking to operate or already operating in the Maltese gaming market.",
-            "howToUse": "Gaming operators and relevant stakeholders should review the proposed enhancements and provide feedback to the MGA during the consultation period to ensure their concerns and suggestions are considered.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-n5dc3gyoo",
-            "title": "Amatic Hack",
-            "subtitle": "A cybersecurity incident at Amatic Industries led to a free money glitch in their games",
-            "category": "iGaming",
-            "tags": [
-                "Amatic Industries",
-                "Cybersecurity",
-                "Glitch"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/casino/exclusive-hack-amatic-free-money-glitch/",
-                "date": "2026-04-29T15:28:34.000Z"
-            },
-            "whatsNew": "A hack at Amatic Industries' server caused a glitch resulting in unintended large winnings for some players. The incident highlights the importance of robust cybersecurity in the iGaming industry.",
-            "whyItMatters": "This incident can impact player trust and the financial stability of iGaming companies. It underscores the need for enhanced security measures to prevent such glitches.",
-            "howToUse": "iGaming companies should review and strengthen their cybersecurity protocols to prevent similar incidents, ensuring the integrity of their games and protecting player funds.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Players"
-            ],
-            "companies": [
-                "Amatic Industries"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-kxnlr1zzh",
-            "title": "DoubleU Acquires DoubleDown",
-            "subtitle": "DoubleU Games aims to privatize its social gaming subsidiary DoubleDown Interactive by acquiring remaining shares.",
-            "category": "iGaming",
-            "tags": [
-                "Mergers and Acquisitions",
-                "Social Gaming",
-                "Privatization"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/investment/doubleu-games-acquire-remaining-shares-doubledown/",
-                "date": "2026-04-29T15:13:10.000Z"
-            },
-            "whatsNew": "DoubleU Games is moving to acquire the remaining shares of DoubleDown Interactive, aiming to privatize the social gaming company. This move indicates a strategic decision to consolidate ownership and potentially streamline operations.",
-            "whyItMatters": "The acquisition could impact the social gaming market by altering the competitive landscape and potentially affecting the development and release of new games. It also reflects the ongoing trend of consolidation in the gaming industry.",
-            "howToUse": "Game developers and industry observers should monitor the acquisition's progress and its implications for the market, considering potential opportunities for collaboration or competition.",
-            "beneficiaries": [
-                "Game Developers",
-                "Industry Investors"
-            ],
-            "companies": [
-                "DoubleU Games",
-                "DoubleDown Interactive"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-as9tui4s3",
             "title": "AI Compute Bottleneck",
             "subtitle": "AI evaluations are becoming a new compute bottleneck, according to Hugging Face Blog",
@@ -2129,37 +2067,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-xcwzy9t6p",
-            "title": "Granite 4.1 LLMs",
-            "subtitle": "Hugging Face reveals details on building Granite 4.1 Large Language Models",
-            "category": "AI",
-            "tags": [
-                "LLMs",
-                "Hugging Face",
-                "Granite 4.1"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-                "date": "2026-04-29T15:01:48.000Z"
-            },
-            "whatsNew": "Hugging Face's Granite 4.1 LLMs introduce new architecture and training methods, enhancing performance and efficiency. The models are designed to improve natural language understanding and generation capabilities. This update showcases the rapid advancements in LLM technology.",
-            "whyItMatters": "The development of more powerful and efficient LLMs like Granite 4.1 can significantly impact AI applications in gaming, content creation, and other industries, enabling more sophisticated and realistic interactions. This can lead to enhanced user experiences and new creative possibilities.",
-            "howToUse": "Developers can integrate Granite 4.1 LLMs into their applications to leverage advanced language processing capabilities, such as text generation, sentiment analysis, and conversational AI. This can be particularly useful in games that feature complex storytelling or interactive dialogue systems.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ],
@@ -2317,7 +2224,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.669Z",
             "note": null
         },
         {
@@ -2336,7 +2243,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.669Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2345,7 +2252,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2354,7 +2261,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "note": "Regulatory updates"
         },
         {
@@ -2372,7 +2279,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2381,7 +2288,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2401,7 +2308,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2459,7 +2366,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2604,7 +2511,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-13T16:16:39.670Z",
             "note": null
         },
         {
@@ -23510,6 +23417,193 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1oagacs5q",
+            "title": "BetMGM COO Move",
+            "subtitle": "BetMGM COO joins Yahoo Sports as general manager",
+            "category": "iGaming",
+            "tags": [
+                "BetMGM",
+                "Yahoo Sports",
+                "Executive Move"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlHNHp1SEFrb0RSWWk3T2VpNjBhSUdmVmxiZnlqeG5oVGxJNW9jNXkyZEk3M3drbnBrT2UxYW5QS2FjZUtzRmV3eDVleUR3LVRfLWl3OWF6QnYybUxEVlJkanRhUC14R0VNX1RlbV9wc0d0UkJuSkE3NkZ2VTVHS3NTZWdxMWdGaDhQMjE3VktUMHU3UnJV?oc=5",
+                "date": "2026-04-29T14:47:15.000Z"
+            },
+            "whatsNew": "BetMGM's COO is leaving to join Yahoo Sports as a general manager, indicating a shift in leadership and potential collaboration between the two companies. This move may signal a deeper integration of sports betting into Yahoo's offerings. The change could impact the iGaming industry's landscape.",
+            "whyItMatters": "This move highlights the growing importance of online sports betting and the blurring of lines between traditional sports media and iGaming. It may lead to new opportunities for innovation and growth in the sector.",
+            "howToUse": "Companies in the iGaming space should monitor this development for potential partnerships or collaborations that could enhance their offerings and reach. This could also signal a need for similar strategic moves within their own organizations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Media Companies"
+            ],
+            "companies": [
+                "BetMGM",
+                "Yahoo Sports"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-fjjlwnecv",
+            "title": "iGaming Expansion",
+            "subtitle": "Opinion piece on overcoming igaming sticking points in state expansion",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "regulation",
+                "state expansion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEtaOElYNm5HMXdPOEgtdG9iZG9kcmQta0ZsV0MzVXJVRnVZVTlBSHVjNEFvdnhseS11aVE5LXJkSDl4Z3lMb1NEUVZ2MjMzYWl1MXB5NkxsWjkzbjUxREtwNnpfX2x4OHVBeG8wVldLbzRoVXdpeE5JcE8wLWJDSXpJcUJiZEhSUjFoZ0pkZmZaNFpwbE9JdDg2c2pSSGtuenloQUExeDRGdExUUlFzUWR3LXg0Mjg?oc=5",
+                "date": "2026-04-29T15:02:15.000Z"
+            },
+            "whatsNew": "The article discusses the current challenges facing igaming expansion in North America, highlighting key sticking points that need to be addressed. It provides insight into the regulatory landscape and potential solutions for overcoming these obstacles.",
+            "whyItMatters": "The article's discussion on igaming expansion is crucial for industry stakeholders, as it sheds light on the potential for growth and the hurdles that must be cleared. Understanding these challenges can help inform strategic decisions and advocacy efforts.",
+            "howToUse": "Industry stakeholders can use the article's analysis to better navigate the regulatory environment and identify opportunities for expansion. By understanding the sticking points, companies can develop targeted strategies to address these challenges.",
+            "beneficiaries": [
+                "iGaming operators",
+                "regulators",
+                "industry stakeholders"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1ru31c7gx",
+            "title": "MGA Regulation Update",
+            "subtitle": "Malta Gaming Authority proposes enhancements to the Recognition Notice Framework",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Gaming License"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDFZVTB3VDV2aVduMk43U2xtSV9QdTZzWnlZOTZHSld5TVNTMm1mcWdsZThYNFM5bG5UbUdxQmFMMUhFaDhJSERkbzFxMHVkVF9ZMnE5NUR3U1JveVkwdkZFR25TbHZpM2tUSmFzOHF3Uk4zZVRHSm15NDFGTzFzemk2ZjU2T0gtZ1FSMHd1RmpEdXVKQkRZZGZLZUJqX3hLNUFoU2h4Zld1aGR1R1ZOOXl6Qnl2Q0tv?oc=5",
+                "date": "2026-04-29T13:55:06.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has issued a targeted consultation on proposed enhancements to the Recognition Notice Framework. This aims to improve the regulatory environment for gaming operators. The consultation is open for feedback from stakeholders.",
+            "whyItMatters": "The proposed enhancements could impact how gaming operators are regulated in Malta, affecting their compliance and operational costs. This development is crucial for companies looking to operate or already operating in the Maltese gaming market.",
+            "howToUse": "Gaming operators and relevant stakeholders should review the proposed enhancements and provide feedback to the MGA during the consultation period to ensure their concerns and suggestions are considered.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-n5dc3gyoo",
+            "title": "Amatic Hack",
+            "subtitle": "A cybersecurity incident at Amatic Industries led to a free money glitch in their games",
+            "category": "iGaming",
+            "tags": [
+                "Amatic Industries",
+                "Cybersecurity",
+                "Glitch"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/casino/exclusive-hack-amatic-free-money-glitch/",
+                "date": "2026-04-29T15:28:34.000Z"
+            },
+            "whatsNew": "A hack at Amatic Industries' server caused a glitch resulting in unintended large winnings for some players. The incident highlights the importance of robust cybersecurity in the iGaming industry.",
+            "whyItMatters": "This incident can impact player trust and the financial stability of iGaming companies. It underscores the need for enhanced security measures to prevent such glitches.",
+            "howToUse": "iGaming companies should review and strengthen their cybersecurity protocols to prevent similar incidents, ensuring the integrity of their games and protecting player funds.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Players"
+            ],
+            "companies": [
+                "Amatic Industries"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kxnlr1zzh",
+            "title": "DoubleU Acquires DoubleDown",
+            "subtitle": "DoubleU Games aims to privatize its social gaming subsidiary DoubleDown Interactive by acquiring remaining shares.",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "Social Gaming",
+                "Privatization"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/investment/doubleu-games-acquire-remaining-shares-doubledown/",
+                "date": "2026-04-29T15:13:10.000Z"
+            },
+            "whatsNew": "DoubleU Games is moving to acquire the remaining shares of DoubleDown Interactive, aiming to privatize the social gaming company. This move indicates a strategic decision to consolidate ownership and potentially streamline operations.",
+            "whyItMatters": "The acquisition could impact the social gaming market by altering the competitive landscape and potentially affecting the development and release of new games. It also reflects the ongoing trend of consolidation in the gaming industry.",
+            "howToUse": "Game developers and industry observers should monitor the acquisition's progress and its implications for the market, considering potential opportunities for collaboration or competition.",
+            "beneficiaries": [
+                "Game Developers",
+                "Industry Investors"
+            ],
+            "companies": [
+                "DoubleU Games",
+                "DoubleDown Interactive"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-xcwzy9t6p",
+            "title": "Granite 4.1 LLMs",
+            "subtitle": "Hugging Face reveals details on building Granite 4.1 Large Language Models",
+            "category": "AI",
+            "tags": [
+                "LLMs",
+                "Hugging Face",
+                "Granite 4.1"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+                "date": "2026-04-29T15:01:48.000Z"
+            },
+            "whatsNew": "Hugging Face's Granite 4.1 LLMs introduce new architecture and training methods, enhancing performance and efficiency. The models are designed to improve natural language understanding and generation capabilities. This update showcases the rapid advancements in LLM technology.",
+            "whyItMatters": "The development of more powerful and efficient LLMs like Granite 4.1 can significantly impact AI applications in gaming, content creation, and other industries, enabling more sophisticated and realistic interactions. This can lead to enhanced user experiences and new creative possibilities.",
+            "howToUse": "Developers can integrate Granite 4.1 LLMs into their applications to leverage advanced language processing capabilities, such as text generation, sentiment analysis, and conversational AI. This can be particularly useful in games that feature complex storytelling or interactive dialogue systems.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
