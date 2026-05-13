@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-13T00:03:10.691Z",
+        "scanDate": "2026-05-13T04:41:35.713Z",
         "version": "2.5.0",
         "totalTrends": 84,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7r83g3ozr",
+            "title": "Synthesia Video",
+            "subtitle": "Synthesia explains video versioning in their knowledge base",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Video Versioning",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGRnQVZFYnBnQ1RYNEU1S3E2X2o1WnlqNWdpRElncWp4bU5IUEh1ampkc2F6cXB4Q0xXWVA0em50YWVFM2cxdjBwckx6ZzVnTUVJR1VTOXRMSjdqal9WSXdUQzNuUThoTG5vMFZaeW11ejNjcWdic0pIR0lVNENUbU1UQzBzNnJiREZWcUg3T0FZR2t5?oc=5",
+                "date": "2026-05-04T18:49:13.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides insight into video versioning, a key feature for AI video creation. This feature allows for efficient management of different video versions. Synthesia's explanation helps users understand how to utilize this feature effectively.",
+            "whyItMatters": "Understanding video versioning in Synthesia is crucial for creating and managing AI-generated video content efficiently. It impacts the workflow of content creators and video producers who use Synthesia for their projects.",
+            "howToUse": "To leverage video versioning in Synthesia, users should consult the Synthesia Knowledge Base for detailed instructions and best practices. This will enable them to manage their video content more effectively.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-6k0y75ppa",
             "title": "Unity Attain Partnership",
@@ -1666,37 +1697,6 @@
             "isNew": false
         },
         {
-            "id": "t-6n3vxbnh1",
-            "title": "AI Photo Restoration",
-            "subtitle": "OpenArt introduces AI-powered online photo restoration tool",
-            "category": "AI",
-            "tags": [
-                "AI Image Restoration",
-                "OpenArt",
-                "Photo Editing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01LWJvOVdpaVRlZEZmaUZuN3RjVGkwWks5ZWwzYXM4QU91QWR0SUNTYm4yVWtSMS1WZ3BLaWNpejB3T0dSeVMtU29UVGlQYmpwOWFMS2V5OHJWcTZQS0E?oc=5",
-                "date": "2026-04-29T04:21:11.000Z"
-            },
-            "whatsNew": "OpenArt has launched an AI-powered tool for restoring old photos online. This tool utilizes AI to enhance and repair damaged or aged photographs.",
-            "whyItMatters": "The introduction of this tool by OpenArt signifies a growing trend in using AI for creative and restorative purposes, making photo editing more accessible and efficient.",
-            "howToUse": "Users can upload their old photos to the OpenArt platform and utilize the AI image restoration tool to enhance and restore them.",
-            "beneficiaries": [
-                "Photographers",
-                "Graphic Designers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-nblqr77yx",
             "title": "AI Art Updates",
             "subtitle": "Civitai releases new workflows for AI art generation, including I2V, SVI 2.0, and more.",
@@ -2793,7 +2793,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": null
         },
         {
@@ -2812,7 +2812,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2821,7 +2821,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2830,7 +2830,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "Regulatory updates"
         },
         {
@@ -2848,7 +2848,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2857,7 +2857,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2877,7 +2877,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2935,7 +2935,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2944,7 +2944,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T19:46:31.634Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2953,7 +2953,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-12T19:46:31.634Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": "Style browsing signal"
         },
         {
@@ -2990,7 +2990,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T10:36:36.486Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": null
         },
         {
@@ -2999,7 +2999,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-11T02:51:12.382Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": null
         },
         {
@@ -3008,7 +3008,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-11T02:51:12.382Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": null
         },
         {
@@ -3080,7 +3080,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T00:03:10.691Z",
+            "lastScan": "2026-05-13T04:41:35.713Z",
             "note": null
         },
         {
@@ -23415,6 +23415,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-6n3vxbnh1",
+            "title": "AI Photo Restoration",
+            "subtitle": "OpenArt introduces AI-powered online photo restoration tool",
+            "category": "AI",
+            "tags": [
+                "AI Image Restoration",
+                "OpenArt",
+                "Photo Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01LWJvOVdpaVRlZEZmaUZuN3RjVGkwWks5ZWwzYXM4QU91QWR0SUNTYm4yVWtSMS1WZ3BLaWNpejB3T0dSeVMtU29UVGlQYmpwOWFMS2V5OHJWcTZQS0E?oc=5",
+                "date": "2026-04-29T04:21:11.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI-powered tool for restoring old photos online. This tool utilizes AI to enhance and repair damaged or aged photographs.",
+            "whyItMatters": "The introduction of this tool by OpenArt signifies a growing trend in using AI for creative and restorative purposes, making photo editing more accessible and efficient.",
+            "howToUse": "Users can upload their old photos to the OpenArt platform and utilize the AI image restoration tool to enhance and restore them.",
+            "beneficiaries": [
+                "Photographers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
