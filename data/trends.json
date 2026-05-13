@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-13T10:23:25.089Z",
+        "scanDate": "2026-05-13T13:09:23.841Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jy8ghtjct",
+            "title": "Kalshi Compliance Hire",
+            "subtitle": "Kalshi hires former Patomak partner as chief compliance officer, indicating a focus on regulatory adherence in the iGaming industry.",
+            "category": "iGaming",
+            "tags": [
+                "Compliance",
+                "Regulation",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFQ0cENMY25fS0F2ZkdsSm1CZ0ZWUjFDcnhUU1NvT3V2MlQ4eFpBMUdMOVQ0Q3hpeHBsSmJPdzNwb0hnSnpxR21kRExMeDdqVEh4dndSREc3WWdjWW1OcE9KWmx6OVR2eFJfS3NyR0s0eml5Vkl6QWl0a0tSRmdkLW9XbUJvQ0lwRUtSMUx4UVJqX3ZNNEpZMnFPRWFROHU1Q25n?oc=5",
+                "date": "2026-05-13T11:25:24.000Z"
+            },
+            "whatsNew": "Kalshi has appointed a former Patomak partner as its chief compliance officer, highlighting the importance of regulatory compliance in the iGaming sector. This move demonstrates Kalshi's commitment to adhering to industry standards and regulations. The appointment is part of the company's efforts to strengthen its compliance framework.",
+            "whyItMatters": "The hiring of a chief compliance officer with experience from a reputable firm like Patomak underscores the growing need for robust compliance measures in the iGaming industry. This development can impact how companies navigate regulatory landscapes.",
+            "howToUse": "Companies in the iGaming sector can learn from Kalshi's approach by prioritizing compliance and regulatory adherence, potentially through strategic hires or investments in compliance infrastructure.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Kalshi",
+                "Patomak"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-9w1ls74k4",
+            "title": "AI Video Generators",
+            "subtitle": "Top 10 free AI video generators tested and compared by HeyGen",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Free Tools",
+                "Video Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nRjBkdVlaVDBCQ2I2ZHFITlQwTkhSaTFTOVhiT2NGazczSDg2dkV6SmFxWHo4SHFvYnMtRE9TN2QtOVdYc3dDZFJSUlozZVhwR3ZWcDFNcnNGcGItdzZRTE9n?oc=5",
+                "date": "2026-05-08T07:00:00.000Z"
+            },
+            "whatsNew": "HeyGen has tested and compared the top 10 free AI video generators of 2026, providing an in-depth look at the capabilities of each tool. The comparison highlights the strengths and weaknesses of each generator, helping users choose the best one for their needs. The tools are expected to revolutionize video content creation with their ease of use and high-quality output.",
+            "whyItMatters": "The availability of free AI video generators can democratize video content creation, making it more accessible to individuals and small businesses. This can lead to a significant increase in the amount of video content being produced, and potentially disrupt the traditional video production industry.",
+            "howToUse": "Users can utilize these free AI video generators to create high-quality video content without requiring extensive video production experience or equipment. They can experiment with different tools to find the one that best suits their needs and skill level.",
+            "beneficiaries": [
+                "Content Creators",
+                "Small Businesses",
+                "Marketers"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-7r83g3ozr",
             "title": "Synthesia Video",
@@ -1913,39 +1977,6 @@
             "isNew": false
         },
         {
-            "id": "t-a5quqp4m1",
-            "title": "Vyking KA Gaming",
-            "subtitle": "Vyking partners with KA Gaming to expand its iGaming portfolio",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "KA Gaming",
-                "Vyking",
-                "Game Aggregation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/vyking-boosts-game-portfolio-with-ka-gaming-partnership/",
-                "date": "2026-04-29T13:05:01.000Z"
-            },
-            "whatsNew": "Vyking has partnered with KA Gaming to integrate over 700 new titles into its platform, including slots, table games, and arcade-style experiences. This partnership expands Vyking's content ecosystem and strengthens its aggregation layer. The integration will provide operators with a more diverse portfolio of games.",
-            "whyItMatters": "This partnership is significant for the iGaming industry as it increases the availability of high-quality content for operators and players. It also demonstrates Vyking's commitment to expanding its platform and improving its offerings.",
-            "howToUse": "Operators can leverage this partnership to enhance their game portfolios and attract a wider audience. They can integrate KA Gaming's titles into their existing platforms using Vyking's aggregation layer.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Vyking",
-                "KA Gaming"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-fjjlwnecv",
             "title": "iGaming Expansion",
             "subtitle": "Opinion piece on overcoming igaming sticking points in state expansion",
@@ -2101,104 +2132,6 @@
             "isNew": false
         },
         {
-            "id": "t-dwa2gps9r",
-            "title": "Betmakers Growth",
-            "subtitle": "BetMakers Technology Group reports higher revenue and stronger earnings for Q3 FY26 driven by LVDC and Crown deals",
-            "category": "iGaming",
-            "tags": [
-                "BetMakers",
-                "LVDC",
-                "Crown",
-                "iGaming Revenue"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q326-betmakers-lvdc-crown-deals-drive-growth/",
-                "date": "2026-04-29T12:32:50.000Z"
-            },
-            "whatsNew": "BetMakers Technology Group has seen significant growth in the third quarter of fiscal year 2026, driven by deals with LVDC and Crown. This growth is reflected in higher revenue, stronger earnings, and positive cash flow.",
-            "whyItMatters": "The growth of BetMakers indicates a strong performance in the iGaming industry, potentially setting a positive trend for other companies. This could lead to increased investment and innovation in the sector.",
-            "howToUse": "Companies in the iGaming industry can learn from BetMakers' success by focusing on strategic partnerships and deals to drive growth and revenue.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "BetMakers Technology Group",
-                "LVDC",
-                "Crown"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-lrtz65l04",
-            "title": "Rush Street Q1",
-            "subtitle": "Rush Street Interactive reports record quarter with 41% revenue increase and 81% EBITDA jump",
-            "category": "iGaming",
-            "tags": [
-                "Rush Street Interactive",
-                "Q1 2026",
-                "EBITDA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q126-rsi-hails-record-quarter/",
-                "date": "2026-04-29T12:01:08.000Z"
-            },
-            "whatsNew": "Rush Street Interactive achieved a record quarter in Q1 2026, with revenue up 41% and adjusted EBITDA up 81%. This significant growth indicates a strong start to the year for the company.",
-            "whyItMatters": "The substantial increase in revenue and EBITDA suggests Rush Street Interactive is successfully expanding its operations and improving profitability, which could impact the broader iGaming industry.",
-            "howToUse": "Operators and investors can take note of Rush Street Interactive's successful strategies and apply similar approaches to their own businesses, focusing on areas that drove the company's growth.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Investors"
-            ],
-            "companies": [
-                "Rush Street Interactive"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-s1au68v5o",
-            "title": "Casino Guru Awards",
-            "subtitle": "Celebrating transparency and fairness in the iGaming industry with one month to go until the 2026 awards",
-            "category": "iGaming",
-            "tags": [
-                "Casino Guru Awards",
-                "iGaming industry",
-                "transparency",
-                "fairness"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/one-month-to-go-casino-guru-awards-2026-enters-final-countdown/",
-                "date": "2026-04-29T11:02:37.000Z"
-            },
-            "whatsNew": "The Casino Guru Awards 2026 is entering its final phase, recognizing brands and individuals driving transparency and fairness in the iGaming industry. The awards focus on trust and responsibility in online gambling, going beyond traditional marketing claims.",
-            "whyItMatters": "The Casino Guru Awards set a benchmark for trust and responsibility in the iGaming industry, promoting player protection and higher industry standards. This recognition can impact how companies operate and are perceived by players and regulators.",
-            "howToUse": "Industry professionals can use the Casino Guru Awards as a guide to identify trustworthy and responsible operators, while companies can strive to meet the awards' criteria to improve their reputation and player protection measures.",
-            "beneficiaries": [
-                "iGaming operators",
-                "players",
-                "regulators"
-            ],
-            "companies": [
-                "Casino Guru"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-xcwzy9t6p",
             "title": "Granite 4.1 LLMs",
             "subtitle": "Hugging Face reveals details on building Granite 4.1 Large Language Models",
@@ -2227,40 +2160,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-kmnorxogx",
-            "title": "Tech Race Summit",
-            "subtitle": "SOFTSWISS launches a conference to address high-load infrastructure challenges in iGaming",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "infrastructure",
-                "Tech Race Summit"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/softswiss-launches-tech-race-summit-2026/",
-                "date": "2026-04-29T10:50:32.000Z"
-            },
-            "whatsNew": "SOFTSWISS is launching Tech Race Summit 2026, a conference focused on solving high-load infrastructure challenges in the iGaming industry. The event will feature speakers from Amazon, Gcore, and Fastly. The summit aims to address the growing complexity of iGaming infrastructure.",
-            "whyItMatters": "The summit addresses a gap in the current conference landscape, providing a platform for industry leaders to discuss high-load infrastructure challenges. This can lead to innovations and improvements in the iGaming industry's technology and infrastructure.",
-            "howToUse": "Attend the Tech Race Summit 2026 to learn from industry leaders and stay updated on the latest trends and solutions for high-load infrastructure challenges in iGaming.",
-            "beneficiaries": [
-                "iGaming operators",
-                "technology leaders"
-            ],
-            "companies": [
-                "SOFTSWISS",
-                "Amazon",
-                "Gcore",
-                "Fastly"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         }
     ],
@@ -2418,7 +2317,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": null
         },
         {
@@ -2437,7 +2336,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2446,7 +2345,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2455,7 +2354,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "Regulatory updates"
         },
         {
@@ -2473,7 +2372,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2482,7 +2381,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2502,7 +2401,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2560,7 +2459,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2569,7 +2468,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2578,7 +2477,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T07:47:34.301Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": "Style browsing signal"
         },
         {
@@ -2615,7 +2514,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T07:47:34.301Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": null
         },
         {
@@ -2624,7 +2523,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-13T07:47:34.301Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": null
         },
         {
@@ -2633,7 +2532,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-13T07:47:34.301Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": null
         },
         {
@@ -2705,7 +2604,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T10:23:25.089Z",
+            "lastScan": "2026-05-13T13:09:23.841Z",
             "note": null
         },
         {
@@ -23443,6 +23342,171 @@
             ],
             "companies": [
                 "Caesars"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-a5quqp4m1",
+            "title": "Vyking KA Gaming",
+            "subtitle": "Vyking partners with KA Gaming to expand its iGaming portfolio",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "KA Gaming",
+                "Vyking",
+                "Game Aggregation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/vyking-boosts-game-portfolio-with-ka-gaming-partnership/",
+                "date": "2026-04-29T13:05:01.000Z"
+            },
+            "whatsNew": "Vyking has partnered with KA Gaming to integrate over 700 new titles into its platform, including slots, table games, and arcade-style experiences. This partnership expands Vyking's content ecosystem and strengthens its aggregation layer. The integration will provide operators with a more diverse portfolio of games.",
+            "whyItMatters": "This partnership is significant for the iGaming industry as it increases the availability of high-quality content for operators and players. It also demonstrates Vyking's commitment to expanding its platform and improving its offerings.",
+            "howToUse": "Operators can leverage this partnership to enhance their game portfolios and attract a wider audience. They can integrate KA Gaming's titles into their existing platforms using Vyking's aggregation layer.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Vyking",
+                "KA Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-dwa2gps9r",
+            "title": "Betmakers Growth",
+            "subtitle": "BetMakers Technology Group reports higher revenue and stronger earnings for Q3 FY26 driven by LVDC and Crown deals",
+            "category": "iGaming",
+            "tags": [
+                "BetMakers",
+                "LVDC",
+                "Crown",
+                "iGaming Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q326-betmakers-lvdc-crown-deals-drive-growth/",
+                "date": "2026-04-29T12:32:50.000Z"
+            },
+            "whatsNew": "BetMakers Technology Group has seen significant growth in the third quarter of fiscal year 2026, driven by deals with LVDC and Crown. This growth is reflected in higher revenue, stronger earnings, and positive cash flow.",
+            "whyItMatters": "The growth of BetMakers indicates a strong performance in the iGaming industry, potentially setting a positive trend for other companies. This could lead to increased investment and innovation in the sector.",
+            "howToUse": "Companies in the iGaming industry can learn from BetMakers' success by focusing on strategic partnerships and deals to drive growth and revenue.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "BetMakers Technology Group",
+                "LVDC",
+                "Crown"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-lrtz65l04",
+            "title": "Rush Street Q1",
+            "subtitle": "Rush Street Interactive reports record quarter with 41% revenue increase and 81% EBITDA jump",
+            "category": "iGaming",
+            "tags": [
+                "Rush Street Interactive",
+                "Q1 2026",
+                "EBITDA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-rsi-hails-record-quarter/",
+                "date": "2026-04-29T12:01:08.000Z"
+            },
+            "whatsNew": "Rush Street Interactive achieved a record quarter in Q1 2026, with revenue up 41% and adjusted EBITDA up 81%. This significant growth indicates a strong start to the year for the company.",
+            "whyItMatters": "The substantial increase in revenue and EBITDA suggests Rush Street Interactive is successfully expanding its operations and improving profitability, which could impact the broader iGaming industry.",
+            "howToUse": "Operators and investors can take note of Rush Street Interactive's successful strategies and apply similar approaches to their own businesses, focusing on areas that drove the company's growth.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Rush Street Interactive"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-s1au68v5o",
+            "title": "Casino Guru Awards",
+            "subtitle": "Celebrating transparency and fairness in the iGaming industry with one month to go until the 2026 awards",
+            "category": "iGaming",
+            "tags": [
+                "Casino Guru Awards",
+                "iGaming industry",
+                "transparency",
+                "fairness"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/one-month-to-go-casino-guru-awards-2026-enters-final-countdown/",
+                "date": "2026-04-29T11:02:37.000Z"
+            },
+            "whatsNew": "The Casino Guru Awards 2026 is entering its final phase, recognizing brands and individuals driving transparency and fairness in the iGaming industry. The awards focus on trust and responsibility in online gambling, going beyond traditional marketing claims.",
+            "whyItMatters": "The Casino Guru Awards set a benchmark for trust and responsibility in the iGaming industry, promoting player protection and higher industry standards. This recognition can impact how companies operate and are perceived by players and regulators.",
+            "howToUse": "Industry professionals can use the Casino Guru Awards as a guide to identify trustworthy and responsible operators, while companies can strive to meet the awards' criteria to improve their reputation and player protection measures.",
+            "beneficiaries": [
+                "iGaming operators",
+                "players",
+                "regulators"
+            ],
+            "companies": [
+                "Casino Guru"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-kmnorxogx",
+            "title": "Tech Race Summit",
+            "subtitle": "SOFTSWISS launches a conference to address high-load infrastructure challenges in iGaming",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "infrastructure",
+                "Tech Race Summit"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/softswiss-launches-tech-race-summit-2026/",
+                "date": "2026-04-29T10:50:32.000Z"
+            },
+            "whatsNew": "SOFTSWISS is launching Tech Race Summit 2026, a conference focused on solving high-load infrastructure challenges in the iGaming industry. The event will feature speakers from Amazon, Gcore, and Fastly. The summit aims to address the growing complexity of iGaming infrastructure.",
+            "whyItMatters": "The summit addresses a gap in the current conference landscape, providing a platform for industry leaders to discuss high-load infrastructure challenges. This can lead to innovations and improvements in the iGaming industry's technology and infrastructure.",
+            "howToUse": "Attend the Tech Race Summit 2026 to learn from industry leaders and stay updated on the latest trends and solutions for high-load infrastructure challenges in iGaming.",
+            "beneficiaries": [
+                "iGaming operators",
+                "technology leaders"
+            ],
+            "companies": [
+                "SOFTSWISS",
+                "Amazon",
+                "Gcore",
+                "Fastly"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
