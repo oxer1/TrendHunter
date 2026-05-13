@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-13T04:41:35.713Z",
+        "scanDate": "2026-05-13T07:47:34.301Z",
         "version": "2.5.0",
-        "totalTrends": 84,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6k0y75ppa",
@@ -1325,37 +1325,6 @@
             "isNew": false
         },
         {
-            "id": "t-ikgn8p3fv",
-            "title": "FurryToonMix XL",
-            "subtitle": "Civitai releases FurryToonMix - XL-illustrious-V2, an illustrious checkpoint for AI art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "FurryToonMix"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtUU5EeWh4RzRaVUI5SGdVdXJqNVA2b0hSZGl1M01CbGNiQXVKRWhkaUpCcnlsSTFqdk4ya3RRMEYwYjBleEJwcFZ6RlRrMzlXZ1pQR2tOOU4?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai's FurryToonMix - XL-illustrious-V2 is a new checkpoint for AI art generation, focusing on illustrious and detailed artwork. This release showcases advancements in AI-generated art. The checkpoint is designed to produce high-quality, stylized images.",
-            "whyItMatters": "This release demonstrates the growing capabilities of AI in art generation, potentially impacting the visual design trends in the gaming and art industries. It also highlights Civitai's contributions to the development of AI art tools.",
-            "howToUse": "Artists and developers can utilize this checkpoint to generate unique, detailed artworks, potentially integrating them into games, animations, or other visual projects. Experimenting with the checkpoint can help users understand its capabilities and limitations.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-s9osv3z27",
             "title": "Games Global Hire",
             "subtitle": "Games Global appoints former 888 head as chief studio officer",
@@ -1410,68 +1379,6 @@
             "beneficiaries": [
                 "Artists",
                 "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-c5z1g3pq8",
-            "title": "ComfyUI Update",
-            "subtitle": "Civitai releases ComfyUI Image Workflows - V34, enhancing image processing for artists and designers",
-            "category": "AI",
-            "tags": [
-                "ComfyUI",
-                "Image Workflows",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "ComfyUI Image Workflows - V34 introduces new features and improvements for image processing and generation. The update focuses on enhancing user experience and workflow efficiency. Civitai's ComfyUI aims to simplify complex image manipulation tasks.",
-            "whyItMatters": "This update matters because it can significantly impact the productivity and creativity of artists and designers working with images. By streamlining image workflows, ComfyUI contributes to the broader adoption of AI in creative fields.",
-            "howToUse": "Artists and designers can utilize ComfyUI Image Workflows - V34 by integrating it into their existing workflows, leveraging its features to automate and enhance image processing tasks, and exploring new creative possibilities enabled by the update.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-2r6w64tqy",
-            "title": "AI Swap Anything",
-            "subtitle": "Flux2 Klein enables swapping of various objects using AI, including faces, outfits, and more, with Sam3.1 native support on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Flux2 Klein"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFFNT0dkdmgyUVBYbzViaWhDV19wZXlxbmc4cFJ6R1BEQVVwSk5pQlg0VzI1TWtFMWFEbGlwMnhjVmVybEJIb0RwYlpmM3hGUnI0Q0lBNWMxa1otVmFZdjN5dUVKUGFLWUtOV0hRdnEzTUxRVXpGT0xtZVZHMHFPbmlOd3Q2TC0x?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "Flux2 Klein introduces the ability to swap anything, including faces, outfits, and objects, using AI. This feature is natively supported by Sam3.1 on the Civitai platform.",
-            "whyItMatters": "This technology has significant implications for AI-generated art and content creation, allowing for more flexibility and customization. It also raises questions about the potential applications and ethics of such technology.",
-            "howToUse": "Users can utilize Flux2 Klein on Civitai to create and experiment with AI-generated content, exploring the possibilities of object swapping and manipulation.",
-            "beneficiaries": [
-                "Artists",
-                "Content Creators"
             ],
             "companies": [
                 "Civitai"
@@ -1574,37 +1481,6 @@
             "isNew": false
         },
         {
-            "id": "t-ay5yzk6qz",
-            "title": "Pony Diffusion V6",
-            "subtitle": "New Pony Diffusion checkpoint released on Civitai",
-            "category": "AI",
-            "tags": [
-                "Pony Diffusion",
-                "Civitai",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PTFFCcHVqQTNkNG10X2pvSHZ0N2dGSlREbXJERi05QkFlY2NaVW00MmRXUjlNWDROZHhsMmM4c3dqZ3I5eHp5Q1JTM0lvcDlXdUROeE5Ba2Y4djMxVzV1bnNkYkI?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "Pony Diffusion V6 XL is a new checkpoint for generating art, available on Civitai. This update indicates ongoing development in AI art generation. The V6 model is highlighted as a starting point, suggesting it may offer improved performance or features.",
-            "whyItMatters": "The release of Pony Diffusion V6 XL demonstrates the rapid advancement in AI art generation capabilities, offering users more powerful tools for creative work. This can impact the visual design trends in various industries, including gaming and digital art.",
-            "howToUse": "Artists and developers can utilize Pony Diffusion V6 XL by accessing it through Civitai, integrating it into their workflows to generate high-quality, unique art pieces. Experimenting with different prompts and settings can help unlock its full potential.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-pnfwdrhgt",
             "title": "HeyGen Avatars",
             "subtitle": "Comparing HeyGen Avatars and Motion Engines in Avatar Lab",
@@ -1662,38 +1538,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-5e2gmp6rw",
-            "title": "ERNIE RedMIX",
-            "subtitle": "Civitai introduces ERNIE RedMIX, a checkpoint for AI models",
-            "category": "AI",
-            "tags": [
-                "ERNIE",
-                "RedMIX",
-                "Civitai",
-                "AI Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qRmVPc05TNk44MFpZLU0zSEZxYVBBYTVEQndYX1BrNXdXSTFua0U0RHFZc19SWTF4QXFSbkM5czhhWUxwbDc2ZTdsRnRiY1VHcEJYb0djal8?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released ERNIE RedMIX, a new checkpoint for AI models. This checkpoint is part of the RedCraft project. The introduction of ERNIE RedMIX indicates advancements in AI model development.",
-            "whyItMatters": "ERNIE RedMIX has the potential to improve AI model performance and efficiency. This could lead to breakthroughs in AI-powered applications and tools.",
-            "howToUse": "Developers can utilize ERNIE RedMIX by integrating it into their AI models to enhance performance and explore new capabilities.",
-            "beneficiaries": [
-                "AI Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -1786,69 +1630,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-knsasou45",
-            "title": "ZImage Workflow",
-            "subtitle": "Civitai releases Moody Simple Zimage Turbo/Distilled Workflow - v6.0 with SDA",
-            "category": "AI",
-            "tags": [
-                "ZImage",
-                "Workflow",
-                "SDA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkVWSXJxTjBjc0dvR2FoeXVwX2tFV0tuZlFsX1Nyb0JvS1FnYWlTWG1ZYTQ3bVJ1UThEa09UYlNYUTlLUmZJNlZibHlrMEUxV2dBOUM2U3Y1LVdDVnptN182dk90RXk3b2FWdC04eEROdDRQVWZjWkhvUVBXZFlHYS1BLTc?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "The Moody Simple Zimage Turbo/Distilled Workflow - v6.0 includes SDA, offering enhanced image generation capabilities. This update aims to improve the efficiency and quality of AI-generated images. The workflow is now available on Civitai.",
-            "whyItMatters": "This update is significant for AI art generation, as it provides users with more advanced tools for creating high-quality images. The inclusion of SDA in the workflow can lead to more realistic and detailed generated images.",
-            "howToUse": "Artists and developers can utilize this workflow by accessing it through Civitai and following the provided guidelines for implementation. Experimenting with different settings and parameters can help optimize results.",
-            "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-8cr2yv449",
-            "title": "NoobAI Update",
-            "subtitle": "NoobAI v3.3 released on Civitai with new features",
-            "category": "AI",
-            "tags": [
-                "NoobAI",
-                "Civitai",
-                "AI Updates"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdlBwUjI5OU5INWNDdUdIQ2RueGRCTGVHNE1hSFZpMERleFlMWkhwUmpJT3hyYTVJWjJFRTd5WFZjN3BMbkRSRXZOa1ZES1hCWXBrV2tpeDBfQmxZUkR6aVU3NEtjVHB6d1g4UnVQVElqUjhnZk5WUDRpbldzUQ?oc=5",
-                "date": "2026-04-29T07:00:00.000Z"
-            },
-            "whatsNew": "NoobAI v3.3 has been released, featuring the Indigo Void Furry Fused XL and Furry NoobAI models. This update is available on Civitai.",
-            "whyItMatters": "The update showcases advancements in AI art generation, particularly in the realm of furry art, indicating growing capabilities in niche art styles.",
-            "howToUse": "Artists and enthusiasts can utilize NoobAI v3.3 on Civitai to generate unique furry-themed artwork, exploring the potential of AI in creative projects.",
-            "beneficiaries": [
-                "Artists",
-                "AI Enthusiasts"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2606,37 +2387,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-tamc4eahc",
-            "title": "GGR Trap",
-            "subtitle": "Operators often misinterpret GGR numbers, overlooking key insights",
-            "category": "iGaming",
-            "tags": [
-                "GGR",
-                "iGaming",
-                "Operator Insights"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFBKMTMzb1pYd2Z2NnVERFBoS0M2eGJ3bjZFMHVTUHpUZGs1S3NOTm1OaWZHdXQ5NmRBWWZSbGVkVnVId0FNNElBSkVRQnQ5T2pHU0E5cUVUdUI2T3ExWmdlVFNMSmFQM0ZBSGMwN3AyN1NYY1gtRVBTV0x1TThEd1pYOXlGWFQ5VlE?oc=5",
-                "date": "2026-04-29T06:03:45.000Z"
-            },
-            "whatsNew": "The article highlights the common pitfalls operators face when analyzing GGR numbers, and how a deeper understanding can lead to better decision-making. It emphasizes the importance of looking beyond the surface-level numbers. Operators are encouraged to reassess their strategies based on more nuanced GGR analysis.",
-            "whyItMatters": "Accurate GGR analysis is crucial for iGaming operators to make informed decisions, optimize their offerings, and stay competitive. Misinterpretation can lead to missed opportunities and poor strategic choices.",
-            "howToUse": "Operators should adopt a more detailed approach to GGR analysis, considering factors beyond mere revenue figures to gain a comprehensive understanding of their business performance and player behavior.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Gaming Analysts"
-            ],
-            "companies": [
-                "NEXT.io"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2793,7 +2543,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": null
         },
         {
@@ -2812,7 +2562,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2821,7 +2571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2830,7 +2580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "Regulatory updates"
         },
         {
@@ -2848,7 +2598,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2857,7 +2607,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2877,7 +2627,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2935,7 +2685,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2944,7 +2694,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2953,7 +2703,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": "Style browsing signal"
         },
         {
@@ -2990,7 +2740,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": null
         },
         {
@@ -2999,7 +2749,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": null
         },
         {
@@ -3008,7 +2758,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": null
         },
         {
@@ -3080,7 +2830,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T04:41:35.713Z",
+            "lastScan": "2026-05-13T07:47:34.301Z",
             "note": null
         },
         {
@@ -23446,6 +23196,256 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ikgn8p3fv",
+            "title": "FurryToonMix XL",
+            "subtitle": "Civitai releases FurryToonMix - XL-illustrious-V2, an illustrious checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "FurryToonMix"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtUU5EeWh4RzRaVUI5SGdVdXJqNVA2b0hSZGl1M01CbGNiQXVKRWhkaUpCcnlsSTFqdk4ya3RRMEYwYjBleEJwcFZ6RlRrMzlXZ1pQR2tOOU4?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's FurryToonMix - XL-illustrious-V2 is a new checkpoint for AI art generation, focusing on illustrious and detailed artwork. This release showcases advancements in AI-generated art. The checkpoint is designed to produce high-quality, stylized images.",
+            "whyItMatters": "This release demonstrates the growing capabilities of AI in art generation, potentially impacting the visual design trends in the gaming and art industries. It also highlights Civitai's contributions to the development of AI art tools.",
+            "howToUse": "Artists and developers can utilize this checkpoint to generate unique, detailed artworks, potentially integrating them into games, animations, or other visual projects. Experimenting with the checkpoint can help users understand its capabilities and limitations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-c5z1g3pq8",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows - V34, enhancing image processing for artists and designers",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows - V34 introduces new features and improvements for image processing and generation. The update focuses on enhancing user experience and workflow efficiency. Civitai's ComfyUI aims to simplify complex image manipulation tasks.",
+            "whyItMatters": "This update matters because it can significantly impact the productivity and creativity of artists and designers working with images. By streamlining image workflows, ComfyUI contributes to the broader adoption of AI in creative fields.",
+            "howToUse": "Artists and designers can utilize ComfyUI Image Workflows - V34 by integrating it into their existing workflows, leveraging its features to automate and enhance image processing tasks, and exploring new creative possibilities enabled by the update.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-2r6w64tqy",
+            "title": "AI Swap Anything",
+            "subtitle": "Flux2 Klein enables swapping of various objects using AI, including faces, outfits, and more, with Sam3.1 native support on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Flux2 Klein"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFFNT0dkdmgyUVBYbzViaWhDV19wZXlxbmc4cFJ6R1BEQVVwSk5pQlg0VzI1TWtFMWFEbGlwMnhjVmVybEJIb0RwYlpmM3hGUnI0Q0lBNWMxa1otVmFZdjN5dUVKUGFLWUtOV0hRdnEzTUxRVXpGT0xtZVZHMHFPbmlOd3Q2TC0x?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Flux2 Klein introduces the ability to swap anything, including faces, outfits, and objects, using AI. This feature is natively supported by Sam3.1 on the Civitai platform.",
+            "whyItMatters": "This technology has significant implications for AI-generated art and content creation, allowing for more flexibility and customization. It also raises questions about the potential applications and ethics of such technology.",
+            "howToUse": "Users can utilize Flux2 Klein on Civitai to create and experiment with AI-generated content, exploring the possibilities of object swapping and manipulation.",
+            "beneficiaries": [
+                "Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ay5yzk6qz",
+            "title": "Pony Diffusion V6",
+            "subtitle": "New Pony Diffusion checkpoint released on Civitai",
+            "category": "AI",
+            "tags": [
+                "Pony Diffusion",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PTFFCcHVqQTNkNG10X2pvSHZ0N2dGSlREbXJERi05QkFlY2NaVW00MmRXUjlNWDROZHhsMmM4c3dqZ3I5eHp5Q1JTM0lvcDlXdUROeE5Ba2Y4djMxVzV1bnNkYkI?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Pony Diffusion V6 XL is a new checkpoint for generating art, available on Civitai. This update indicates ongoing development in AI art generation. The V6 model is highlighted as a starting point, suggesting it may offer improved performance or features.",
+            "whyItMatters": "The release of Pony Diffusion V6 XL demonstrates the rapid advancement in AI art generation capabilities, offering users more powerful tools for creative work. This can impact the visual design trends in various industries, including gaming and digital art.",
+            "howToUse": "Artists and developers can utilize Pony Diffusion V6 XL by accessing it through Civitai, integrating it into their workflows to generate high-quality, unique art pieces. Experimenting with different prompts and settings can help unlock its full potential.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-5e2gmp6rw",
+            "title": "ERNIE RedMIX",
+            "subtitle": "Civitai introduces ERNIE RedMIX, a checkpoint for AI models",
+            "category": "AI",
+            "tags": [
+                "ERNIE",
+                "RedMIX",
+                "Civitai",
+                "AI Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qRmVPc05TNk44MFpZLU0zSEZxYVBBYTVEQndYX1BrNXdXSTFua0U0RHFZc19SWTF4QXFSbkM5czhhWUxwbDc2ZTdsRnRiY1VHcEJYb0djal8?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released ERNIE RedMIX, a new checkpoint for AI models. This checkpoint is part of the RedCraft project. The introduction of ERNIE RedMIX indicates advancements in AI model development.",
+            "whyItMatters": "ERNIE RedMIX has the potential to improve AI model performance and efficiency. This could lead to breakthroughs in AI-powered applications and tools.",
+            "howToUse": "Developers can utilize ERNIE RedMIX by integrating it into their AI models to enhance performance and explore new capabilities.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-knsasou45",
+            "title": "ZImage Workflow",
+            "subtitle": "Civitai releases Moody Simple Zimage Turbo/Distilled Workflow - v6.0 with SDA",
+            "category": "AI",
+            "tags": [
+                "ZImage",
+                "Workflow",
+                "SDA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkVWSXJxTjBjc0dvR2FoeXVwX2tFV0tuZlFsX1Nyb0JvS1FnYWlTWG1ZYTQ3bVJ1UThEa09UYlNYUTlLUmZJNlZibHlrMEUxV2dBOUM2U3Y1LVdDVnptN182dk90RXk3b2FWdC04eEROdDRQVWZjWkhvUVBXZFlHYS1BLTc?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "The Moody Simple Zimage Turbo/Distilled Workflow - v6.0 includes SDA, offering enhanced image generation capabilities. This update aims to improve the efficiency and quality of AI-generated images. The workflow is now available on Civitai.",
+            "whyItMatters": "This update is significant for AI art generation, as it provides users with more advanced tools for creating high-quality images. The inclusion of SDA in the workflow can lead to more realistic and detailed generated images.",
+            "howToUse": "Artists and developers can utilize this workflow by accessing it through Civitai and following the provided guidelines for implementation. Experimenting with different settings and parameters can help optimize results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-8cr2yv449",
+            "title": "NoobAI Update",
+            "subtitle": "NoobAI v3.3 released on Civitai with new features",
+            "category": "AI",
+            "tags": [
+                "NoobAI",
+                "Civitai",
+                "AI Updates"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdlBwUjI5OU5INWNDdUdIQ2RueGRCTGVHNE1hSFZpMERleFlMWkhwUmpJT3hyYTVJWjJFRTd5WFZjN3BMbkRSRXZOa1ZES1hCWXBrV2tpeDBfQmxZUkR6aVU3NEtjVHB6d1g4UnVQVElqUjhnZk5WUDRpbldzUQ?oc=5",
+                "date": "2026-04-29T07:00:00.000Z"
+            },
+            "whatsNew": "NoobAI v3.3 has been released, featuring the Indigo Void Furry Fused XL and Furry NoobAI models. This update is available on Civitai.",
+            "whyItMatters": "The update showcases advancements in AI art generation, particularly in the realm of furry art, indicating growing capabilities in niche art styles.",
+            "howToUse": "Artists and enthusiasts can utilize NoobAI v3.3 on Civitai to generate unique furry-themed artwork, exploring the potential of AI in creative projects.",
+            "beneficiaries": [
+                "Artists",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-tamc4eahc",
+            "title": "GGR Trap",
+            "subtitle": "Operators often misinterpret GGR numbers, overlooking key insights",
+            "category": "iGaming",
+            "tags": [
+                "GGR",
+                "iGaming",
+                "Operator Insights"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFBKMTMzb1pYd2Z2NnVERFBoS0M2eGJ3bjZFMHVTUHpUZGs1S3NOTm1OaWZHdXQ5NmRBWWZSbGVkVnVId0FNNElBSkVRQnQ5T2pHU0E5cUVUdUI2T3ExWmdlVFNMSmFQM0ZBSGMwN3AyN1NYY1gtRVBTV0x1TThEd1pYOXlGWFQ5VlE?oc=5",
+                "date": "2026-04-29T06:03:45.000Z"
+            },
+            "whatsNew": "The article highlights the common pitfalls operators face when analyzing GGR numbers, and how a deeper understanding can lead to better decision-making. It emphasizes the importance of looking beyond the surface-level numbers. Operators are encouraged to reassess their strategies based on more nuanced GGR analysis.",
+            "whyItMatters": "Accurate GGR analysis is crucial for iGaming operators to make informed decisions, optimize their offerings, and stay competitive. Misinterpretation can lead to missed opportunities and poor strategic choices.",
+            "howToUse": "Operators should adopt a more detailed approach to GGR analysis, considering factors beyond mere revenue figures to gain a comprehensive understanding of their business performance and player behavior.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Gaming Analysts"
+            ],
+            "companies": [
+                "NEXT.io"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
