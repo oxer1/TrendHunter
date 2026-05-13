@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-13T20:44:09.959Z",
+        "scanDate": "2026-05-13T22:07:56.997Z",
         "version": "2.5.0",
         "totalTrends": 66,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-eq6022c8y",
+            "title": "New iGaming Studio",
+            "subtitle": "Ex-888 executives launch startup studio following successful pre-seed funding round",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Startup",
+                "Funding"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWDQ0dEZhR1I3R0lhRlBHSFFRb3kzc1ZpUEw4c0FIS2dlS1kwcWZtRXhlYWlmdXNPc1M4VjNSRW5LbkxzRlZPQVpWanVOZElabTlKN2xZd0FlS203OGs3WnZvRi0tNW1RQUpuRFFCdU5naFlYcTZ3RWVtOHYxTlA1YnRtRzdWajZlaUNTNW1JRDhzNkhqQ0YxWVBuOE9DaVpNVDFN?oc=5",
+                "date": "2026-05-13T10:35:28.000Z"
+            },
+            "whatsNew": "Former 888 executives have launched a new startup studio after securing a successful pre-seed round, indicating a new player in the iGaming industry. The studio's focus and offerings are yet to be fully disclosed. This development signals potential innovation and competition in the iGaming sector.",
+            "whyItMatters": "The entry of new players, especially those led by experienced executives, can drive innovation and competition in the iGaming industry, potentially leading to better services and offerings for consumers.",
+            "howToUse": "Industry watchers and potential partners should monitor the studio's developments for opportunities and insights into the latest iGaming trends and technologies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "888"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-oxs50m15w",
             "title": "AI Art Workflow",
@@ -1146,37 +1177,6 @@
             "isNew": false
         },
         {
-            "id": "t-ko4f97esy",
-            "title": "Video Editing",
-            "subtitle": "Editing elements at a specific point in time in video using Synthesia",
-            "category": "AI",
-            "tags": [
-                "Video Editing",
-                "Synthesia",
-                "AI Video Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3JhcnMzZ1VPel9vb3VHS1p1U0IwZFQwUzJXQjBoektzZ0QzbXZlQngxVGh2ak44T09JTmo1REpyTUZsYWg1VVFIYjFGaUlfX0hqLXMxVEZtMTJ1MlJRZjFuV0lxbDZ2SkxuS3dVaVotQzZfaW1FMHlXLS1NSzRJdFlURFJyOEdNaE5qa2dfZFhTSnBKa1NES3BJZF9ydUNpbUF4Zmh5ZEdHMGpMV2pr?oc=5",
-                "date": "2026-04-29T22:00:21.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides guidance on editing elements at specific points in time in videos. This feature is crucial for precise video editing. It reflects the growing need for advanced video editing capabilities.",
-            "whyItMatters": "The ability to edit elements at specific points in time enhances video production quality and flexibility. It matters for content creators who need precise control over their video content.",
-            "howToUse": "Use Synthesia's video editing tools to select and edit elements at specific times, enhancing your video's narrative and visual flow.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Editors"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-vae9mnt5l",
             "title": "New Head Sought",
             "subtitle": "Gambling Commission seeks new head of illegal markets",
@@ -2225,7 +2225,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": null
         },
         {
@@ -2244,7 +2244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2253,7 +2253,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2262,7 +2262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": "Regulatory updates"
         },
         {
@@ -2280,7 +2280,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2289,7 +2289,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2309,7 +2309,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2367,7 +2367,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2512,7 +2512,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T20:44:09.959Z",
+            "lastScan": "2026-05-13T22:07:56.997Z",
             "note": null
         },
         {
@@ -23636,6 +23636,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-ko4f97esy",
+            "title": "Video Editing",
+            "subtitle": "Editing elements at a specific point in time in video using Synthesia",
+            "category": "AI",
+            "tags": [
+                "Video Editing",
+                "Synthesia",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3JhcnMzZ1VPel9vb3VHS1p1U0IwZFQwUzJXQjBoektzZ0QzbXZlQngxVGh2ak44T09JTmo1REpyTUZsYWg1VVFIYjFGaUlfX0hqLXMxVEZtMTJ1MlJRZjFuV0lxbDZ2SkxuS3dVaVotQzZfaW1FMHlXLS1NSzRJdFlURFJyOEdNaE5qa2dfZFhTSnBKa1NES3BJZF9ydUNpbUF4Zmh5ZEdHMGpMV2pr?oc=5",
+                "date": "2026-04-29T22:00:21.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides guidance on editing elements at specific points in time in videos. This feature is crucial for precise video editing. It reflects the growing need for advanced video editing capabilities.",
+            "whyItMatters": "The ability to edit elements at specific points in time enhances video production quality and flexibility. It matters for content creators who need precise control over their video content.",
+            "howToUse": "Use Synthesia's video editing tools to select and edit elements at specific times, enhancing your video's narrative and visual flow.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Editors"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
