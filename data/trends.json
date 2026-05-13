@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-13T16:16:39.669Z",
+        "scanDate": "2026-05-13T18:55:12.185Z",
         "version": "2.5.0",
         "totalTrends": 66,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-oxs50m15w",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces professional-grade workflow for AI art generation, including SFW and NSFW content",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "SDXL",
+                "Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnNqZm5pV1hJcEJ1bUwyS3k1UWV2OVl1Uktla3dLeGxvcGVlbUdRMEo5N2RwdHV6SzdXTE1MODRsOElKR2ZQd2FSVDh2SjFKOGJ0QjZYOVJubV93RlNjdmNwOXB1Y1ZaTk9pWHpOWUd2UFpySUMyRG40Zjh2YXIyRHZyTzNkU0paWVBRWkZuM0lNME5yYllrQzVLb1FwUFMxWHdIT2VnUU5fdGdhajdPZFZJWm5mQQ?oc=5",
+                "date": "2026-05-13T04:21:50.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, making it accessible to a wider range of users. The workflow includes both SFW and NSFW content options. This development indicates a growing demand for professional-grade AI art tools.",
+            "whyItMatters": "The introduction of this workflow can significantly impact the AI art generation landscape, providing creators with more flexibility and accessibility. This can lead to increased adoption of AI art tools in various industries.",
+            "howToUse": "Artists and creators can utilize Civitai's workflow to generate high-quality AI art, leveraging the flexibility of low and high VRAM options. This can be particularly useful for those working on projects with specific content requirements.",
+            "beneficiaries": [
+                "Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-o6zn0sunz",
             "title": "Unity Grants",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-02ffvup1m",
@@ -80,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ovqny9qt1",
@@ -112,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jy8ghtjct",
@@ -2037,37 +2069,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-as9tui4s3",
-            "title": "AI Compute Bottleneck",
-            "subtitle": "AI evaluations are becoming a new compute bottleneck, according to Hugging Face Blog",
-            "category": "AI",
-            "tags": [
-                "AI Evaluation",
-                "Compute Bottleneck",
-                "Hugging Face"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Hugging Face Blog",
-                "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-                "date": "2026-04-29T16:45:09.000Z"
-            },
-            "whatsNew": "The increasing complexity of AI models is leading to a new compute bottleneck in AI evaluations. This bottleneck is becoming a significant challenge for AI development and deployment. Hugging Face is highlighting this issue and its potential impact on the field.",
-            "whyItMatters": "The AI compute bottleneck can significantly slow down AI development and deployment, making it harder to achieve desired results. This can have a major impact on the field of AI and its applications.",
-            "howToUse": "To mitigate this issue, developers can explore optimized AI evaluation methods and utilize specialized hardware for AI computations. This can help reduce the bottleneck and improve overall AI performance.",
-            "beneficiaries": [
-                "AI Developers",
-                "Data Scientists"
-            ],
-            "companies": [
-                "Hugging Face"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2224,7 +2225,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.669Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": null
         },
         {
@@ -2243,7 +2244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-13T16:16:39.669Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2252,7 +2253,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2261,7 +2262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": "Regulatory updates"
         },
         {
@@ -2279,7 +2280,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2288,7 +2289,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2308,7 +2309,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2366,7 +2367,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2511,7 +2512,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T16:16:39.670Z",
+            "lastScan": "2026-05-13T18:55:12.185Z",
             "note": null
         },
         {
@@ -23604,6 +23605,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-as9tui4s3",
+            "title": "AI Compute Bottleneck",
+            "subtitle": "AI evaluations are becoming a new compute bottleneck, according to Hugging Face Blog",
+            "category": "AI",
+            "tags": [
+                "AI Evaluation",
+                "Compute Bottleneck",
+                "Hugging Face"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Hugging Face Blog",
+                "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+                "date": "2026-04-29T16:45:09.000Z"
+            },
+            "whatsNew": "The increasing complexity of AI models is leading to a new compute bottleneck in AI evaluations. This bottleneck is becoming a significant challenge for AI development and deployment. Hugging Face is highlighting this issue and its potential impact on the field.",
+            "whyItMatters": "The AI compute bottleneck can significantly slow down AI development and deployment, making it harder to achieve desired results. This can have a major impact on the field of AI and its applications.",
+            "howToUse": "To mitigate this issue, developers can explore optimized AI evaluation methods and utilize specialized hardware for AI computations. This can help reduce the bottleneck and improve overall AI performance.",
+            "beneficiaries": [
+                "AI Developers",
+                "Data Scientists"
+            ],
+            "companies": [
+                "Hugging Face"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
