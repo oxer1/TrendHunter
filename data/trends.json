@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-14T09:32:07.199Z",
+        "scanDate": "2026-05-14T11:50:15.902Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-y80zm60vm",
+            "title": "Vulnerability Checks",
+            "subtitle": "UK Gambling Commission shares insights on financial vulnerability checks implementation",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Vulnerability",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGtFbVpHWGpnR0ZEODRrdHQ5Q3hFSzZZRElMc204UW56RER1cEVWaEEzNGRDYzZuRWlYZzRMZVE4UTVxXzNoNUpFUGlocjl6aEJ3ZjlEc3pmUzNJWW5LeFA1cWFKQlJma0VUaFRlc0ZkWGVEWmlCSWJMdDVsaUM5d1ZnWS16ZFJYaVpFSW9HNnA5clNUOWQ0RFRYLTBWeHNXSzhkWmR1N3hhb0k?oc=5",
+                "date": "2026-05-14T10:52:56.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission is providing insights from the implementation of financial vulnerability checks, aiming to protect players from gambling harm. This move is part of a broader effort to ensure responsible gambling practices. The insights are expected to inform future regulatory decisions.",
+            "whyItMatters": "The implementation of financial vulnerability checks is crucial for protecting players and promoting responsible gambling. It also highlights the evolving regulatory landscape in the iGaming industry.",
+            "howToUse": "Operators can use these insights to improve their own financial vulnerability checks and ensure compliance with regulatory requirements. This can be achieved by implementing robust risk assessment tools and training staff to identify vulnerable players.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-ba2vnhq8n",
+            "title": "MGA AI Charter",
+            "subtitle": "Malta Gaming Authority launches consultation on AI Gaming Charter",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "AI Gaming Charter",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc041WV8tR2kzNXRCdF9lbmo3Qmo0VkFqSHd0bDN3SUt4NG1WZVY1Tnc0N01tZHkxcTFHRFhLVVlWUHdsazZlX0x1Ym04d2twR2VXRzBNN3BkUm5lR0pVdEFOOHhtVnNSYVM0Um1rdzdvYlRIcXZpYlFOY2RQaURhcFFTQU9IZUNIQVVoR3Q0dUtwUQ?oc=5",
+                "date": "2026-05-08T09:22:23.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has launched a targeted consultation on a proposed AI Gaming Charter, aiming to regulate the use of AI in the gaming industry. This charter is expected to provide guidelines for operators and developers. The consultation is open to industry stakeholders and experts.",
+            "whyItMatters": "The proposed AI Gaming Charter could significantly impact the iGaming industry, shaping how AI is used and regulated. It may influence the development of AI-powered games and betting platforms.",
+            "howToUse": "Industry stakeholders can participate in the consultation by providing feedback on the proposed charter, helping shape the future of AI in gaming.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Game Developers",
+                "Regulators"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-0ppmwwtwx",
+            "title": "AI VFX Model",
+            "subtitle": "SwitchX introduces AI-powered background, relight, and mask edits for visual effects",
+            "category": "AI",
+            "tags": [
+                "AI VFX",
+                "SwitchX",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5U04zeE1XYXlZTU5uVWliUnpETlBXRDZPMlNSdm5GLVZKVkJJYlRZRFBwbzYtRVlGSU9wMzl3bzJvXzkzSlJyUkRGUVU?oc=5",
+                "date": "2026-05-14T05:18:35.000Z"
+            },
+            "whatsNew": "SwitchX is a new AI VFX model that allows for background, relight, and mask edits, enhancing visual effects capabilities. This model utilizes AI to streamline editing processes. It is available on OpenArt.",
+            "whyItMatters": "The introduction of SwitchX can significantly impact the visual effects industry by providing more efficient and advanced editing tools. This can lead to higher quality visual effects in various applications, including gaming and film.",
+            "howToUse": "To leverage SwitchX, users can access the model through OpenArt and apply its AI-powered editing capabilities to their visual effects projects, exploring its background, relight, and mask editing features.",
+            "beneficiaries": [
+                "Visual Effects Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-26vo2pwga",
             "title": "Gambling Funds Raised",
@@ -48,7 +140,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gsv2i6033",
@@ -1883,37 +1975,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-g9i154ucn",
-            "title": "Raketech Q1 Report",
-            "subtitle": "Raketech aims to rebuild profitability despite revenue drop in Q1 2026",
-            "category": "iGaming",
-            "tags": [
-                "Raketech",
-                "Q1 Report",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q126-raketech-rebuild-profitability-despite-revenue-drop/",
-                "date": "2026-04-30T09:33:11.000Z"
-            },
-            "whatsNew": "Raketech reported a mixed Q1 performance with efforts to stabilise profitability amid an ongoing portfolio reset. The company aims to rebuild profitability despite a revenue drop.",
-            "whyItMatters": "Raketech's Q1 performance indicates the company's challenges in maintaining profitability in a competitive iGaming market. The report highlights the need for strategic adjustments to achieve stability.",
-            "howToUse": "iGaming operators can learn from Raketech's experience by reassessing their portfolio and adjusting strategies to maintain profitability in a changing market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Raketech"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2070,7 +2131,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": null
         },
         {
@@ -2089,7 +2150,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2098,7 +2159,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2107,7 +2168,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "Regulatory updates"
         },
         {
@@ -2125,7 +2186,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2134,7 +2195,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2154,7 +2215,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2212,7 +2273,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2221,7 +2282,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.964Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2230,7 +2291,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.964Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": "Style browsing signal"
         },
         {
@@ -2267,7 +2328,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.964Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": null
         },
         {
@@ -2357,7 +2418,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T09:32:07.199Z",
+            "lastScan": "2026-05-14T11:50:15.902Z",
             "note": null
         },
         {
@@ -23728,6 +23789,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-g9i154ucn",
+            "title": "Raketech Q1 Report",
+            "subtitle": "Raketech aims to rebuild profitability despite revenue drop in Q1 2026",
+            "category": "iGaming",
+            "tags": [
+                "Raketech",
+                "Q1 Report",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-raketech-rebuild-profitability-despite-revenue-drop/",
+                "date": "2026-04-30T09:33:11.000Z"
+            },
+            "whatsNew": "Raketech reported a mixed Q1 performance with efforts to stabilise profitability amid an ongoing portfolio reset. The company aims to rebuild profitability despite a revenue drop.",
+            "whyItMatters": "Raketech's Q1 performance indicates the company's challenges in maintaining profitability in a competitive iGaming market. The report highlights the need for strategic adjustments to achieve stability.",
+            "howToUse": "iGaming operators can learn from Raketech's experience by reassessing their portfolio and adjusting strategies to maintain profitability in a changing market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Raketech"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
