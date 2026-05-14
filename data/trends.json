@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-14T11:50:15.902Z",
+        "scanDate": "2026-05-14T14:03:44.722Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5cmvqesdw",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows V35, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows V35 introduces improved image processing features, enhancing user experience and efficiency. This update is part of Civitai's ongoing efforts to refine their tools. The new version aims to simplify image workflows, making it easier for users to manage and edit images.",
+            "whyItMatters": "The update matters because it showcases Civitai's commitment to improving their tools, which can significantly impact the productivity and creativity of users working with images. This can have a ripple effect, influencing the quality and speed of content creation in various fields.",
+            "howToUse": "To leverage the new features, users should update to ComfyUI Image Workflows V35 and explore the enhanced image processing capabilities, which can be applied to various projects requiring efficient image management and editing.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-47ktare9x",
+            "title": "Surreal Art Trends",
+            "subtitle": "Article discusses surrealism in art composition, focusing on central composition and gaze techniques.",
+            "category": "Art",
+            "tags": [
+                "Surrealism",
+                "Art Composition",
+                "Gaze Technique"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeGlmdWFZRkpIMlJHRFB5empXM2xWMFdxVUNadnRaVmdqUm96X3B1STA0Vm9XdkwzWkZ3Z3M5VTVUTlEwakYyV3RMYktSRmVwc3RXVEctZzd5RTFCSGpfcnBMbXJaMHl3MzVSWWtLeEp2YkEyVGxtcWZ5Q2RaX0hSTHdjd2JHZDJWb1B5RkJTNFFLRXI0eU9oV2U5N3VfdWp2dk1IZW1yTmlwcjVUX1piaGJlcVVlaDZuR1VUc1B0QXpJZzhrbXBRajllcjJvN2g0TW00dVR4YVRPb0hBT0ZIN3NpMUZqeUNMcE9PVVJyZGNCRV9XWE9sbkx3TEh3Vl91OS1XdW5ZRVF0ZXJwekNTaTBhd1lUUQ?oc=5",
+                "date": "2026-05-11T18:57:02.000Z"
+            },
+            "whatsNew": "The article highlights the use of surrealism in art, emphasizing central composition and the impact of gaze in artwork. It also touches upon the incorporation of upper-body focus in compositions. The trends seem to be shifting towards more abstract and thought-provoking pieces.",
+            "whyItMatters": "Understanding these trends can help artists and designers create more captivating and thought-provoking pieces, potentially influencing the visual design trends in the gaming and iGaming industries.",
+            "howToUse": "Artists can apply these techniques by experimenting with central composition and gaze in their work, and considering the incorporation of surreal elements to create unique and engaging pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
         {
             "id": "t-y80zm60vm",
             "title": "Vulnerability Checks",
@@ -47,7 +109,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ba2vnhq8n",
@@ -79,7 +141,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0ppmwwtwx",
@@ -110,7 +172,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-26vo2pwga",
@@ -1945,36 +2007,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-wngvwc4v6",
-            "title": "Regulators Unite",
-            "subtitle": "Ireland and Alderney gambling regulators collaborate with new MoU",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Licensing",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/regulation/irish-alderney-gambling-regulators-collaborate-mou/",
-                "date": "2026-04-30T13:47:46.000Z"
-            },
-            "whatsNew": "Ireland and Alderney's gambling regulators have signed a Memorandum of Understanding to enhance collaboration on regulation. This move aims to strengthen oversight and enforcement in the iGaming sector.",
-            "whyItMatters": "The collaboration is expected to improve regulatory standards and protect consumers in the online gambling market. It also reflects the increasing need for cooperation among regulators to tackle challenges in the industry.",
-            "howToUse": "Operators should prepare for potential changes in regulatory requirements and ensure compliance with the new collaborative framework. Regulators can utilize this partnership to share best practices and enhance their regulatory capacities.",
-            "beneficiaries": [
-                "Regulators",
-                "Operators",
-                "Consumers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2131,7 +2163,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": null
         },
         {
@@ -2150,7 +2182,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2159,7 +2191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2168,7 +2200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": "Regulatory updates"
         },
         {
@@ -2186,7 +2218,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2195,7 +2227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2215,7 +2247,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2273,7 +2305,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2282,7 +2314,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2418,7 +2450,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-14T14:03:44.722Z",
             "note": null
         },
         {
@@ -23820,6 +23852,36 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-wngvwc4v6",
+            "title": "Regulators Unite",
+            "subtitle": "Ireland and Alderney gambling regulators collaborate with new MoU",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Licensing",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/regulation/irish-alderney-gambling-regulators-collaborate-mou/",
+                "date": "2026-04-30T13:47:46.000Z"
+            },
+            "whatsNew": "Ireland and Alderney's gambling regulators have signed a Memorandum of Understanding to enhance collaboration on regulation. This move aims to strengthen oversight and enforcement in the iGaming sector.",
+            "whyItMatters": "The collaboration is expected to improve regulatory standards and protect consumers in the online gambling market. It also reflects the increasing need for cooperation among regulators to tackle challenges in the industry.",
+            "howToUse": "Operators should prepare for potential changes in regulatory requirements and ensure compliance with the new collaborative framework. Regulators can utilize this partnership to share best practices and enhance their regulatory capacities.",
+            "beneficiaries": [
+                "Regulators",
+                "Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
