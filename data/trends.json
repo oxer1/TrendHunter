@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-14T06:23:19.963Z",
+        "scanDate": "2026-05-14T09:32:07.199Z",
         "version": "2.5.0",
-        "totalTrends": 66,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-26vo2pwga",
+            "title": "Gambling Funds Raised",
+            "subtitle": "UK Gambling Commission releases Q4 2025 to 2026 official statistics on funds raised for good causes",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Funds Raised",
+                "Good Causes"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVBwNjNvUVVnaXBMTjctcUg5ekRxcG1ONS0xanZDbTNJdUxqVTFsb2NUaTFZUVBMZ2FDOVpOM2RqWXNqbG5wZFBWMEc0Y01YWlJJa29TMEF5OXZ5S2ppc1ZZck01OUczNWRqS1VQdVdXZVozNUdyOFhSNGJXTlhlSXpHaUhoQ2IxRnRpRUpTcWM3OHprVTZXOFcwZ3lHTGc3V0NwYllPdzdiNzlBbGp3ZTltLURfSlphVXdpX2ZJcnRuWDBGMFF5cDh3b19XSTNGeHpkUQ?oc=5",
+                "date": "2026-05-12T13:33:03.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released official statistics on funds raised for good causes from Q4 2025 to 2026. The report highlights the gambling industry's contributions to charitable causes. The statistics provide insight into the industry's social responsibility efforts.",
+            "whyItMatters": "The report demonstrates the gambling industry's commitment to social responsibility and its impact on good causes. It also provides a benchmark for the industry's charitable contributions.",
+            "howToUse": "Operators can use the report to assess their own social responsibility efforts and identify areas for improvement. Regulators can use the data to inform policy decisions and ensure the industry is meeting its social responsibility obligations.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators",
+                "Charitable Causes"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-gsv2i6033",
             "title": "AI Art Model",
@@ -928,35 +958,6 @@
             "isNew": false
         },
         {
-            "id": "t-x0kapazvg",
-            "title": "Gambling Research",
-            "subtitle": "UK Gambling Commission introduces research governance framework",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Gambling Commission",
-                "Research"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEphU0pyTS1mbEwxOFFGdkFqZ081SmJsUk81dUZ2eXhGd2piOFlUX0Z6QVFpb3N5Y2lKYVJyX1BVYUJXb1N0QUItTWFzUDlUNl91bDItWTlqUFpaZjk2NFM5T1FhNXFaWE1Ibl82cERaczRIS3V4SWx6bm4ydmxmNUN4N3VSXzlnZTg0Mk5DbmRJbzlXajVJeHI4WU1tUXlIMTY2WWllSHRfT1BNaVFLa2FxSU1DcUdKLUxUa3VadU9mRFozNGtFVjlUZkR4ZEdLNzgwZA?oc=5",
-                "date": "2026-04-30T07:00:00.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has introduced a research governance framework to ensure high standards in research related to gambling. This framework aims to promote integrity and transparency in gambling research.",
-            "whyItMatters": "The introduction of this framework is significant as it will help in making informed decisions about gambling regulation and policy. It will also enhance the credibility of research in the field.",
-            "howToUse": "Operators and researchers can use this framework to ensure their research meets the required standards, and to identify areas for improvement in their research practices.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Researchers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-ch96hu323",
             "title": "AI Video Community",
             "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
@@ -1731,68 +1732,6 @@
             "isNew": false
         },
         {
-            "id": "t-nblqr77yx",
-            "title": "AI Art Updates",
-            "subtitle": "Civitai releases new workflows for AI art generation, including I2V, SVI 2.0, and more.",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Workflows"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3N1TVFQaEstQXZ0ZzVyclM0b3BtRDJOWXpacDF1cVl6QUlUSFpxbFN3cl9UQUtlalpyWHpFNm1ISFlUN1BTOE1UY0ZqcHU0dWt4WHZIb05Ib2RiU042Q1RmR2JuZ2FZeGM3UGY5bWJnSWk3SkRrZDdVZkRteEpfYXBIUTFPbTM4UFFqeGRuYnZub0JsajN4Zl9QSndBWjZIMEpCZVJjUDNicVBxMnhV?oc=5",
-                "date": "2026-04-30T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced new workflows for AI art generation, including image-to-video and style-to-video capabilities. These updates aim to enhance the creative process for artists and developers. The inclusion of audio and combine features further expands the possibilities for AI-generated content.",
-            "whyItMatters": "These updates can significantly impact the field of AI art generation, offering more versatile and powerful tools for creators. This can lead to more innovative and engaging content across various industries, including gaming and visual design.",
-            "howToUse": "Artists and developers can utilize these new workflows by exploring Civitai's platform and integrating the updated features into their projects, potentially streamlining their creative processes and enhancing their outputs.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-p7qq0o60k",
-            "title": "NYX Gaming Revenue",
-            "subtitle": "NYX Gaming posts near doubling of 2015 revenues",
-            "category": "iGaming",
-            "tags": [
-                "NYX Gaming",
-                "Revenue Growth",
-                "iGaming Industry"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVYzSmRYVU1IaGhYVTM5N3JRMmRiSGx5cGRzWXIwbmprMVFSd2V4STRFSDhwMmJpZlB3QVdickgxem1wVmQ5bnEyVFV3WjlTSlRIMWM3SnBpcjNrMHdYVmktSHRYd2hCVEtnTHNKUG9VRU9TRkxrODRfWFZUVTByX0w4bWNmM1FRY1E?oc=5",
-                "date": "2026-04-30T09:08:17.000Z"
-            },
-            "whatsNew": "NYX Gaming has reported a significant increase in revenue, nearly doubling its 2015 revenues. This growth indicates a strong performance by the company in the iGaming sector.",
-            "whyItMatters": "The revenue growth of NYX Gaming reflects the expanding iGaming market and the company's successful strategies. It also highlights the potential for further growth and investment in the industry.",
-            "howToUse": "Companies in the iGaming sector can analyze NYX Gaming's strategies and adapt them to enhance their own revenue growth. Investors can also consider the potential of the iGaming market for future investments.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Investors"
-            ],
-            "companies": [
-                "NYX Gaming"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-2p9u22ubt",
             "title": "Atlantic City Jackpots",
             "subtitle": "NJ Division of Gaming Enforcement reports jackpots over $40,000 in Atlantic City",
@@ -1975,100 +1914,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-oq7mysl28",
-            "title": "DATA.BET Expands",
-            "subtitle": "DATA.BET introduces prediction markets to its betting portfolio, enabling operators to diversify their content with new markets on global events.",
-            "category": "iGaming",
-            "tags": [
-                "sportsbook",
-                "prediction markets",
-                "betting portfolio"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/data-bet-adds-prediction-markets-to-its-betting-portfolio/",
-                "date": "2026-04-30T08:53:56.000Z"
-            },
-            "whatsNew": "DATA.BET has launched prediction markets, allowing operators to offer new betting content on global events across various categories. This move aims to simplify the complexity of traditional exchanges with clear pricing and an intuitive user experience.",
-            "whyItMatters": "The introduction of prediction markets by DATA.BET can significantly enhance the betting experience for users, providing more diverse and engaging content. This can lead to increased user retention and attraction for operators who adopt this solution.",
-            "howToUse": "Operators can integrate DATA.BET's prediction markets into their existing sportsbook platforms, offering users a broader range of betting options and enhancing their overall gaming experience.",
-            "beneficiaries": [
-                "Sportsbook operators",
-                "Bettors"
-            ],
-            "companies": [
-                "DATA.BET"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-2r6d4r1cb",
-            "title": "Buffalo Bonanza Slot",
-            "subtitle": "ICONIC21 launches new slot game, Buffalo Bonanza Hold & Win, as the next chapter in its Buffalo collection",
-            "category": "iGaming",
-            "tags": [
-                "slot game",
-                "ICONIC21",
-                "Buffalo series"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/b2b-news/iconic21-launches-buffalo-bonanza-hold-win-next-chapter-in-its-buffalo-collection/",
-                "date": "2026-04-30T08:49:40.000Z"
-            },
-            "whatsNew": "ICONIC21 has launched Buffalo Bonanza Hold & Win, a new slot game and the second in its Buffalo series, offering a prairie landscape theme and exciting gameplay features. The game builds on the success of the first edition, Buffalo Wild Collection. The Free Spin round introduces new action with lower-value symbols disappearing.",
-            "whyItMatters": "The launch of Buffalo Bonanza Hold & Win demonstrates ICONIC21's continued commitment to creating engaging iGaming content, potentially attracting new players and retaining existing ones. This release may influence the direction of slot game development in the industry.",
-            "howToUse": "Game developers and iGaming operators can take note of the successful elements in Buffalo Bonanza Hold & Win, such as its theme and gameplay features, to inform their own game development strategies. Players can experience the new slot game on platforms offering ICONIC21 content.",
-            "beneficiaries": [
-                "Game developers",
-                "iGaming operators",
-                "Players"
-            ],
-            "companies": [
-                "ICONIC21"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-unn3lt0rt",
-            "title": "MGM Digital Surges",
-            "subtitle": "MGM Resorts International reports a 4% year-on-year rise in revenue during Q1, driven by digital growth",
-            "category": "iGaming",
-            "tags": [
-                "MGM Resorts",
-                "Digital Gaming",
-                "Revenue Growth"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/results/q126-mgm-reworks-vegas-playbook/",
-                "date": "2026-04-30T08:18:01.000Z"
-            },
-            "whatsNew": "MGM Resorts International saw a 4% year-on-year increase in revenue during Q1 2026, largely due to significant growth in its digital division. This indicates a shift in strategy towards digital gaming. The company is reworking its approach in Vegas, possibly incorporating more digital elements.",
-            "whyItMatters": "The growth in digital revenue suggests a strong potential for online gaming and a shift in consumer behavior towards digital platforms. This could influence the strategies of other companies in the iGaming industry.",
-            "howToUse": "Companies can leverage this trend by investing in digital gaming platforms and enhancing their online presence to attract a wider audience. This might involve developing more engaging digital content and improving user experience.",
-            "beneficiaries": [
-                "Gaming Companies",
-                "Investors"
-            ],
-            "companies": [
-                "MGM Resorts International"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2225,7 +2070,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": null
         },
         {
@@ -2244,7 +2089,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2253,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2262,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": "Regulatory updates"
         },
         {
@@ -2280,7 +2125,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2289,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2309,7 +2154,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-14T06:23:19.963Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2367,7 +2212,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.964Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2512,7 +2357,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T06:23:19.964Z",
+            "lastScan": "2026-05-14T09:32:07.199Z",
             "note": null
         },
         {
@@ -23698,6 +23543,191 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-x0kapazvg",
+            "title": "Gambling Research",
+            "subtitle": "UK Gambling Commission introduces research governance framework",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Commission",
+                "Research"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEphU0pyTS1mbEwxOFFGdkFqZ081SmJsUk81dUZ2eXhGd2piOFlUX0Z6QVFpb3N5Y2lKYVJyX1BVYUJXb1N0QUItTWFzUDlUNl91bDItWTlqUFpaZjk2NFM5T1FhNXFaWE1Ibl82cERaczRIS3V4SWx6bm4ydmxmNUN4N3VSXzlnZTg0Mk5DbmRJbzlXajVJeHI4WU1tUXlIMTY2WWllSHRfT1BNaVFLa2FxSU1DcUdKLUxUa3VadU9mRFozNGtFVjlUZkR4ZEdLNzgwZA?oc=5",
+                "date": "2026-04-30T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has introduced a research governance framework to ensure high standards in research related to gambling. This framework aims to promote integrity and transparency in gambling research.",
+            "whyItMatters": "The introduction of this framework is significant as it will help in making informed decisions about gambling regulation and policy. It will also enhance the credibility of research in the field.",
+            "howToUse": "Operators and researchers can use this framework to ensure their research meets the required standards, and to identify areas for improvement in their research practices.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-nblqr77yx",
+            "title": "AI Art Updates",
+            "subtitle": "Civitai releases new workflows for AI art generation, including I2V, SVI 2.0, and more.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Workflows"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3N1TVFQaEstQXZ0ZzVyclM0b3BtRDJOWXpacDF1cVl6QUlUSFpxbFN3cl9UQUtlalpyWHpFNm1ISFlUN1BTOE1UY0ZqcHU0dWt4WHZIb05Ib2RiU042Q1RmR2JuZ2FZeGM3UGY5bWJnSWk3SkRrZDdVZkRteEpfYXBIUTFPbTM4UFFqeGRuYnZub0JsajN4Zl9QSndBWjZIMEpCZVJjUDNicVBxMnhV?oc=5",
+                "date": "2026-04-30T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced new workflows for AI art generation, including image-to-video and style-to-video capabilities. These updates aim to enhance the creative process for artists and developers. The inclusion of audio and combine features further expands the possibilities for AI-generated content.",
+            "whyItMatters": "These updates can significantly impact the field of AI art generation, offering more versatile and powerful tools for creators. This can lead to more innovative and engaging content across various industries, including gaming and visual design.",
+            "howToUse": "Artists and developers can utilize these new workflows by exploring Civitai's platform and integrating the updated features into their projects, potentially streamlining their creative processes and enhancing their outputs.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-p7qq0o60k",
+            "title": "NYX Gaming Revenue",
+            "subtitle": "NYX Gaming posts near doubling of 2015 revenues",
+            "category": "iGaming",
+            "tags": [
+                "NYX Gaming",
+                "Revenue Growth",
+                "iGaming Industry"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVYzSmRYVU1IaGhYVTM5N3JRMmRiSGx5cGRzWXIwbmprMVFSd2V4STRFSDhwMmJpZlB3QVdickgxem1wVmQ5bnEyVFV3WjlTSlRIMWM3SnBpcjNrMHdYVmktSHRYd2hCVEtnTHNKUG9VRU9TRkxrODRfWFZUVTByX0w4bWNmM1FRY1E?oc=5",
+                "date": "2026-04-30T09:08:17.000Z"
+            },
+            "whatsNew": "NYX Gaming has reported a significant increase in revenue, nearly doubling its 2015 revenues. This growth indicates a strong performance by the company in the iGaming sector.",
+            "whyItMatters": "The revenue growth of NYX Gaming reflects the expanding iGaming market and the company's successful strategies. It also highlights the potential for further growth and investment in the industry.",
+            "howToUse": "Companies in the iGaming sector can analyze NYX Gaming's strategies and adapt them to enhance their own revenue growth. Investors can also consider the potential of the iGaming market for future investments.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "NYX Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-oq7mysl28",
+            "title": "DATA.BET Expands",
+            "subtitle": "DATA.BET introduces prediction markets to its betting portfolio, enabling operators to diversify their content with new markets on global events.",
+            "category": "iGaming",
+            "tags": [
+                "sportsbook",
+                "prediction markets",
+                "betting portfolio"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/data-bet-adds-prediction-markets-to-its-betting-portfolio/",
+                "date": "2026-04-30T08:53:56.000Z"
+            },
+            "whatsNew": "DATA.BET has launched prediction markets, allowing operators to offer new betting content on global events across various categories. This move aims to simplify the complexity of traditional exchanges with clear pricing and an intuitive user experience.",
+            "whyItMatters": "The introduction of prediction markets by DATA.BET can significantly enhance the betting experience for users, providing more diverse and engaging content. This can lead to increased user retention and attraction for operators who adopt this solution.",
+            "howToUse": "Operators can integrate DATA.BET's prediction markets into their existing sportsbook platforms, offering users a broader range of betting options and enhancing their overall gaming experience.",
+            "beneficiaries": [
+                "Sportsbook operators",
+                "Bettors"
+            ],
+            "companies": [
+                "DATA.BET"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2r6d4r1cb",
+            "title": "Buffalo Bonanza Slot",
+            "subtitle": "ICONIC21 launches new slot game, Buffalo Bonanza Hold & Win, as the next chapter in its Buffalo collection",
+            "category": "iGaming",
+            "tags": [
+                "slot game",
+                "ICONIC21",
+                "Buffalo series"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/b2b-news/iconic21-launches-buffalo-bonanza-hold-win-next-chapter-in-its-buffalo-collection/",
+                "date": "2026-04-30T08:49:40.000Z"
+            },
+            "whatsNew": "ICONIC21 has launched Buffalo Bonanza Hold & Win, a new slot game and the second in its Buffalo series, offering a prairie landscape theme and exciting gameplay features. The game builds on the success of the first edition, Buffalo Wild Collection. The Free Spin round introduces new action with lower-value symbols disappearing.",
+            "whyItMatters": "The launch of Buffalo Bonanza Hold & Win demonstrates ICONIC21's continued commitment to creating engaging iGaming content, potentially attracting new players and retaining existing ones. This release may influence the direction of slot game development in the industry.",
+            "howToUse": "Game developers and iGaming operators can take note of the successful elements in Buffalo Bonanza Hold & Win, such as its theme and gameplay features, to inform their own game development strategies. Players can experience the new slot game on platforms offering ICONIC21 content.",
+            "beneficiaries": [
+                "Game developers",
+                "iGaming operators",
+                "Players"
+            ],
+            "companies": [
+                "ICONIC21"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-unn3lt0rt",
+            "title": "MGM Digital Surges",
+            "subtitle": "MGM Resorts International reports a 4% year-on-year rise in revenue during Q1, driven by digital growth",
+            "category": "iGaming",
+            "tags": [
+                "MGM Resorts",
+                "Digital Gaming",
+                "Revenue Growth"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/results/q126-mgm-reworks-vegas-playbook/",
+                "date": "2026-04-30T08:18:01.000Z"
+            },
+            "whatsNew": "MGM Resorts International saw a 4% year-on-year increase in revenue during Q1 2026, largely due to significant growth in its digital division. This indicates a shift in strategy towards digital gaming. The company is reworking its approach in Vegas, possibly incorporating more digital elements.",
+            "whyItMatters": "The growth in digital revenue suggests a strong potential for online gaming and a shift in consumer behavior towards digital platforms. This could influence the strategies of other companies in the iGaming industry.",
+            "howToUse": "Companies can leverage this trend by investing in digital gaming platforms and enhancing their online presence to attract a wider audience. This might involve developing more engaging digital content and improving user experience.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "MGM Resorts International"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
