@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-14T14:03:44.722Z",
+        "scanDate": "2026-05-14T16:59:13.735Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wbchu2huy",
+            "title": "AI Shift Hits",
+            "subtitle": "Gambling.com Group announces redundancies amid AI focus",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "iGaming",
+                "Redundancies"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHBwMEhPcWpGaWNfbm9QSXVSMTQ5Q3M2RHJUS3FUNHZWVXU5THdXTjh6dFhSM0FXOXpMWmJ5eHU2RGx3YmVsVWxKQ2pKTUZnSUVIVmtRamVUMTdSc3hHeGNtM09VQXlMSVZpemloZXdoQ1NDVDdseHRjSVUtbXFCTGhzSjg4eVBuMG1IU0RxeDlHdjRBTFNr?oc=5",
+                "date": "2026-05-14T10:44:59.000Z"
+            },
+            "whatsNew": "Gambling.com Group is undergoing restructuring due to a shift in focus towards AI. This change has led to redundancies within the company. The move indicates a growing importance of AI in the iGaming sector.",
+            "whyItMatters": "The integration of AI in iGaming can significantly impact how companies operate and innovate, potentially leading to more efficient operations but also job displacements. This trend reflects the broader tech industry's move towards automation and AI-driven solutions.",
+            "howToUse": "Companies in the iGaming industry should consider investing in AI training for their staff and exploring how AI can enhance their operations without displacing workers. Embracing AI strategically can lead to competitive advantages.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "AI Developers"
+            ],
+            "companies": [
+                "Gambling.com Group"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-5cmvqesdw",
             "title": "ComfyUI Update",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-47ktare9x",
@@ -80,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "visual-style-trends",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-y80zm60vm",
@@ -1514,37 +1545,6 @@
             "isNew": false
         },
         {
-            "id": "t-22569i3jx",
-            "title": "Spine 2D Animation",
-            "subtitle": "Optimizing draw calls for 2D mesh animations in Spine",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "2D Animation",
-                "Draw Call Optimization"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2hIaDlDOU9RaUxCQU9Icmw2U0ZlUlY0WVJaRHl6SXFvZHhialV0TE9neXFaUVdDRjdMQ1pCa2Q1M25NTTJNRUFjSm05YjhGaXNMRUVkSnZhQWtLaVlLSzh2d2cyRHp6allMRTRwRHF5V1lic1g4MjBLNVlWTnpNYUpFR3RNQVdWWW9FMUJOVTNaVlFTSzZheUxFZ3FKVjh1S1lyaGUxaGFFWVhoU29mVE1rSzdwLWN4Ul9IeEM5NFlMb0Zs?oc=5",
-                "date": "2026-04-30T14:10:26.000Z"
-            },
-            "whatsNew": "The article discusses optimizing draw calls for 2D mesh animations in Spine, a popular game development tool. It highlights the issue of repeated draw calls and its impact on performance. The solution involves using Spine's built-in features to reduce draw calls.",
-            "whyItMatters": "Optimizing draw calls can significantly improve the performance of 2D games and animations, leading to a better user experience. This is particularly important for games with complex animations and large numbers of objects on the screen.",
-            "howToUse": "Developers can use Spine's built-in features, such as batching and caching, to reduce draw calls and improve performance. They can also optimize their animation techniques to minimize the number of draw calls required.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Artists"
-            ],
-            "companies": [
-                "Esoteric"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-n182eovtd",
             "title": "AI Art Update",
             "subtitle": "Civitai releases Holy Furry! - v1.0IL, an illustrious checkpoint in AI art generation",
@@ -1976,37 +1976,6 @@
             "visualStyle": null,
             "cluster": "studio-releases",
             "isNew": false
-        },
-        {
-            "id": "t-rcfjri5c5",
-            "title": "Hacksaw CEO Change",
-            "subtitle": "Hacksaw Gaming removes CEO and appoints M&A lawyer as interim replacement",
-            "category": "iGaming",
-            "tags": [
-                "Hacksaw Gaming",
-                "CEO Change",
-                "iGaming Leadership"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/people/hacksaw-removes-ceo-appoints-ma-lawyer/",
-                "date": "2026-04-30T16:17:10.000Z"
-            },
-            "whatsNew": "Hacksaw Gaming's board has made a significant change in leadership by removing the group chief executive. An M&A lawyer has been appointed as the CEO on an interim basis, indicating potential restructuring or strategic moves.",
-            "whyItMatters": "This change in leadership could impact Hacksaw Gaming's strategic direction and operations, potentially affecting its position in the iGaming market. The appointment of an M&A lawyer suggests the company may be exploring new opportunities or partnerships.",
-            "howToUse": "Industry observers should monitor Hacksaw Gaming's future announcements for signs of strategic shifts or partnerships, while competitors may need to reassess their market strategies in response to these changes.",
-            "beneficiaries": [
-                "iGaming Industry Analysts",
-                "Hacksaw Gaming Stakeholders"
-            ],
-            "companies": [
-                "Hacksaw Gaming"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2163,7 +2132,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": null
         },
         {
@@ -2182,7 +2151,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2191,7 +2160,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2200,7 +2169,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": "Regulatory updates"
         },
         {
@@ -2218,7 +2187,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2227,7 +2196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2247,7 +2216,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2305,7 +2274,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2450,7 +2419,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-14T16:59:13.735Z",
             "note": null
         },
         {
@@ -23882,6 +23851,68 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-22569i3jx",
+            "title": "Spine 2D Animation",
+            "subtitle": "Optimizing draw calls for 2D mesh animations in Spine",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Draw Call Optimization"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2hIaDlDOU9RaUxCQU9Icmw2U0ZlUlY0WVJaRHl6SXFvZHhialV0TE9neXFaUVdDRjdMQ1pCa2Q1M25NTTJNRUFjSm05YjhGaXNMRUVkSnZhQWtLaVlLSzh2d2cyRHp6allMRTRwRHF5V1lic1g4MjBLNVlWTnpNYUpFR3RNQVdWWW9FMUJOVTNaVlFTSzZheUxFZ3FKVjh1S1lyaGUxaGFFWVhoU29mVE1rSzdwLWN4Ul9IeEM5NFlMb0Zs?oc=5",
+                "date": "2026-04-30T14:10:26.000Z"
+            },
+            "whatsNew": "The article discusses optimizing draw calls for 2D mesh animations in Spine, a popular game development tool. It highlights the issue of repeated draw calls and its impact on performance. The solution involves using Spine's built-in features to reduce draw calls.",
+            "whyItMatters": "Optimizing draw calls can significantly improve the performance of 2D games and animations, leading to a better user experience. This is particularly important for games with complex animations and large numbers of objects on the screen.",
+            "howToUse": "Developers can use Spine's built-in features, such as batching and caching, to reduce draw calls and improve performance. They can also optimize their animation techniques to minimize the number of draw calls required.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-rcfjri5c5",
+            "title": "Hacksaw CEO Change",
+            "subtitle": "Hacksaw Gaming removes CEO and appoints M&A lawyer as interim replacement",
+            "category": "iGaming",
+            "tags": [
+                "Hacksaw Gaming",
+                "CEO Change",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/people/hacksaw-removes-ceo-appoints-ma-lawyer/",
+                "date": "2026-04-30T16:17:10.000Z"
+            },
+            "whatsNew": "Hacksaw Gaming's board has made a significant change in leadership by removing the group chief executive. An M&A lawyer has been appointed as the CEO on an interim basis, indicating potential restructuring or strategic moves.",
+            "whyItMatters": "This change in leadership could impact Hacksaw Gaming's strategic direction and operations, potentially affecting its position in the iGaming market. The appointment of an M&A lawyer suggests the company may be exploring new opportunities or partnerships.",
+            "howToUse": "Industry observers should monitor Hacksaw Gaming's future announcements for signs of strategic shifts or partnerships, while competitors may need to reassess their market strategies in response to these changes.",
+            "beneficiaries": [
+                "iGaming Industry Analysts",
+                "Hacksaw Gaming Stakeholders"
+            ],
+            "companies": [
+                "Hacksaw Gaming"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
