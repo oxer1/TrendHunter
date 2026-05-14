@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-14T02:50:44.646Z",
+        "scanDate": "2026-05-14T06:23:19.963Z",
         "version": "2.5.0",
-        "totalTrends": 67,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -2069,37 +2069,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-15ba51k8z",
-            "title": "Slotegrator Trends",
-            "subtitle": "Slotegrator COO Olga Ivanchik discusses industry trends and transformation",
-            "category": "iGaming",
-            "tags": [
-                "Slotegrator",
-                "iGaming Trends",
-                "User Experience"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Next.io",
-                "url": "https://next.io/news/promoted/slotegrator-coo-olga-ivanchik-on-transformation-trends-and-igamings-biggest-stories/",
-                "date": "2026-04-30T06:00:00.000Z"
-            },
-            "whatsNew": "Slotegrator's COO Olga Ivanchik shares insights on the company's rebranding and staying ahead of industry trends. She emphasizes the importance of prioritizing user experience in both physical and virtual spaces.",
-            "whyItMatters": "The iGaming industry is rapidly evolving, and companies like Slotegrator must adapt to changing trends and user expectations to remain competitive. Prioritizing user experience is crucial for success.",
-            "howToUse": "iGaming companies can apply Olga Ivanchik's perspective by focusing on user-centric design and continuously monitoring industry trends to inform their business strategies.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Slotegrator"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2256,7 +2225,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "note": null
         },
         {
@@ -2275,7 +2244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2284,7 +2253,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2293,7 +2262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "note": "Regulatory updates"
         },
         {
@@ -2311,7 +2280,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2320,7 +2289,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2340,7 +2309,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.963Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2398,7 +2367,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.964Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2407,7 +2376,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-14T06:23:19.964Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2416,7 +2385,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-14T06:23:19.964Z",
             "note": "Style browsing signal"
         },
         {
@@ -2453,7 +2422,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-14T06:23:19.964Z",
             "note": null
         },
         {
@@ -2462,7 +2431,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-13T13:09:23.841Z",
+            "lastScan": "2026-05-14T06:23:19.964Z",
             "note": null
         },
         {
@@ -2543,7 +2512,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T02:50:44.646Z",
+            "lastScan": "2026-05-14T06:23:19.964Z",
             "note": null
         },
         {
@@ -23698,6 +23667,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-15ba51k8z",
+            "title": "Slotegrator Trends",
+            "subtitle": "Slotegrator COO Olga Ivanchik discusses industry trends and transformation",
+            "category": "iGaming",
+            "tags": [
+                "Slotegrator",
+                "iGaming Trends",
+                "User Experience"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Next.io",
+                "url": "https://next.io/news/promoted/slotegrator-coo-olga-ivanchik-on-transformation-trends-and-igamings-biggest-stories/",
+                "date": "2026-04-30T06:00:00.000Z"
+            },
+            "whatsNew": "Slotegrator's COO Olga Ivanchik shares insights on the company's rebranding and staying ahead of industry trends. She emphasizes the importance of prioritizing user experience in both physical and virtual spaces.",
+            "whyItMatters": "The iGaming industry is rapidly evolving, and companies like Slotegrator must adapt to changing trends and user expectations to remain competitive. Prioritizing user experience is crucial for success.",
+            "howToUse": "iGaming companies can apply Olga Ivanchik's perspective by focusing on user-centric design and continuously monitoring industry trends to inform their business strategies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Slotegrator"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
