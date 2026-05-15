@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-15T14:00:26.719Z",
+        "scanDate": "2026-05-15T16:08:47.382Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-j9lg1gsdw",
+            "title": "AI Video Tools",
+            "subtitle": "Civitai updates DaSiWa Wan2.2 Workflows with new features and FastFidelity C-AiO v7.8",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Civitai",
+                "FastFidelity"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjhUWXRjdTdERmkxcG9sUlFIVVJXWVRMamQtRVZoVXcyR0J3SUV0NllsLXZ0c09LQnIxX21XUHBiR01LNllka0h5RzMyT2w1RVMtRmFrVGt2ekZZdlBMTHFWSUhtc3RxMXVQYXZfQkJFWFhwaEtvZ2xISTAzVzFJdGZGRHJubThrRTlZSkJ3ZnlaTG81WGJLdHV2eldaQ0pwdmtOcGNR?oc=5",
+                "date": "2026-05-13T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces updated DaSiWa Wan2.2 Workflows with I2V, SVI 2.0, and FLF2V, along with the latest FastFidelity C-AiO v7.8. These updates aim to enhance video processing and generation capabilities.",
+            "whyItMatters": "The updates to DaSiWa Wan2.2 Workflows and FastFidelity C-AiO v7.8 signify advancements in AI-powered video tools, potentially benefiting content creators and the iGaming industry. These advancements could lead to more sophisticated and engaging visual content.",
+            "howToUse": "Content creators can leverage these updated tools to generate high-quality videos with enhanced audio and visual fidelity, while iGaming developers can utilize them to create immersive gaming experiences.",
+            "beneficiaries": [
+                "Content Creators",
+                "iGaming Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-5qi2olvzh",
             "title": "High Roller Drops",
@@ -2070,7 +2101,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": null
         },
         {
@@ -2089,7 +2120,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2098,7 +2129,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2107,7 +2138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "Regulatory updates"
         },
         {
@@ -2125,7 +2156,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2134,7 +2165,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2154,7 +2185,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2212,7 +2243,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2221,7 +2252,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T09:45:44.675Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2230,7 +2261,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T09:45:44.675Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": "Style browsing signal"
         },
         {
@@ -2267,7 +2298,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T09:45:44.675Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": null
         },
         {
@@ -2357,7 +2388,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T14:00:26.719Z",
+            "lastScan": "2026-05-15T16:08:47.382Z",
             "note": null
         },
         {
