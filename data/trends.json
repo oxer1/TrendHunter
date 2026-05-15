@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-14T23:55:11.132Z",
+        "scanDate": "2026-05-15T02:51:31.563Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-usft8l87g",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases Consistence Edit Lora for Klein 9B lcs",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWFhqQzVkcXJGTVh2ZWdzTkYwQjNfUXVIdEQ3dkVXVjB6NURKaUhXZ2V0UlZkT2JoQVZKWkZieUtqUm9hOHExNXhzR3owV1lYUzk1S2lhLThhZzA3WmxMYzRNU1NHTkk?oc=5",
+                "date": "2026-05-01T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Consistence Edit Lora, an update for Klein 9B lcs, enhancing AI art generation capabilities. This update is part of the Flux.2 Klein LoRA series. It aims to improve consistency in AI-generated art.",
+            "whyItMatters": "This update is significant for AI art generation, offering improved consistency and potentially higher quality outputs. It impacts artists, designers, and developers using AI tools for creative work.",
+            "howToUse": "Artists and developers can utilize Consistence Edit Lora by integrating it into their AI pipelines for more consistent art generation. This can be particularly useful for applications requiring uniform style or theme.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-qq6ohpvt6",
             "title": "Anime Art",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wbchu2huy",
@@ -1857,37 +1888,6 @@
             "isNew": false
         },
         {
-            "id": "t-pnfwdrhgt",
-            "title": "HeyGen Avatars",
-            "subtitle": "Comparing HeyGen Avatars and Motion Engines in Avatar Lab",
-            "category": "AI",
-            "tags": [
-                "Avatars",
-                "Motion Engines",
-                "HeyGen"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LOFdKRktRdnR0dHlLY2wyZ1Fxamh5VjVXZmdITjZVdHRtOFpDWHZYWUdXNW8wck1nbkhWUHREMkZUZkJjVDRwYXhfcmVjODk3?oc=5",
-                "date": "2026-05-01T00:03:36.000Z"
-            },
-            "whatsNew": "HeyGen introduces Avatar Lab to compare HeyGen Avatars and Motion Engines, showcasing advancements in AI-generated avatars. The lab allows for a detailed comparison of the two technologies. This innovation has the potential to revolutionize the field of AI-generated content.",
-            "whyItMatters": "The comparison of HeyGen Avatars and Motion Engines in Avatar Lab highlights the rapid progress in AI technology, enabling more realistic and interactive digital avatars. This can have a significant impact on the gaming and entertainment industries.",
-            "howToUse": "Developers and creators can utilize HeyGen's Avatar Lab to explore and compare the capabilities of HeyGen Avatars and Motion Engines, integrating these technologies into their projects for enhanced user experiences.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-6oan5j4y1",
             "title": "Prediction Market",
             "subtitle": "A create-your-own prediction market startup has secured $6m in seed funding",
@@ -1973,39 +1973,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-sgf45sfrm",
-            "title": "Unity Games",
-            "subtitle": "April 2026 game releases made with Unity, featuring various genres and developers",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Game Development",
-                "April 2026"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/games-made-with-unity-april-2026-releases",
-                "date": "2026-05-01T00:00:00.000Z"
-            },
-            "whatsNew": "The Unity blog highlights numerous game releases from April 2026, showcasing the diversity of games made with the Unity engine, including REPLACED, MOUSE: P.I. For Hire, and Vampire Crawlers. Many of these games are now available in early access or full release on platforms like Steam.",
-            "whyItMatters": "The wide range of games developed with Unity demonstrates the engine's versatility and popularity among game developers, contributing to the growth of the gaming industry. This also reflects the increasing demand for Unity skills in game development.",
-            "howToUse": "Developers can utilize Unity to create games across various genres, from shooters and strategy games to casual and party games, by leveraging Unity's features and assets. They can also submit their projects for inclusion in Unity's release round-ups.",
-            "beneficiaries": [
-                "Game Developers",
-                "Gaming Industry"
-            ],
-            "companies": [
-                "Unity",
-                "Ubisoft",
-                "Fumi Games"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
             "isNew": false
         }
     ],
@@ -2163,7 +2130,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": null
         },
         {
@@ -2182,7 +2149,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2191,7 +2158,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2200,7 +2167,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "Regulatory updates"
         },
         {
@@ -2218,7 +2185,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2227,7 +2194,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2247,7 +2214,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2305,7 +2272,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2314,7 +2281,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T14:03:44.722Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2323,7 +2290,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": "Style browsing signal"
         },
         {
@@ -2360,7 +2327,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T11:50:15.902Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": null
         },
         {
@@ -2369,7 +2336,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-14T06:23:19.964Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": null
         },
         {
@@ -2450,7 +2417,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-14T23:55:11.133Z",
+            "lastScan": "2026-05-15T02:51:31.563Z",
             "note": null
         },
         {
@@ -23944,6 +23911,70 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-pnfwdrhgt",
+            "title": "HeyGen Avatars",
+            "subtitle": "Comparing HeyGen Avatars and Motion Engines in Avatar Lab",
+            "category": "AI",
+            "tags": [
+                "Avatars",
+                "Motion Engines",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LOFdKRktRdnR0dHlLY2wyZ1Fxamh5VjVXZmdITjZVdHRtOFpDWHZYWUdXNW8wck1nbkhWUHREMkZUZkJjVDRwYXhfcmVjODk3?oc=5",
+                "date": "2026-05-01T00:03:36.000Z"
+            },
+            "whatsNew": "HeyGen introduces Avatar Lab to compare HeyGen Avatars and Motion Engines, showcasing advancements in AI-generated avatars. The lab allows for a detailed comparison of the two technologies. This innovation has the potential to revolutionize the field of AI-generated content.",
+            "whyItMatters": "The comparison of HeyGen Avatars and Motion Engines in Avatar Lab highlights the rapid progress in AI technology, enabling more realistic and interactive digital avatars. This can have a significant impact on the gaming and entertainment industries.",
+            "howToUse": "Developers and creators can utilize HeyGen's Avatar Lab to explore and compare the capabilities of HeyGen Avatars and Motion Engines, integrating these technologies into their projects for enhanced user experiences.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-sgf45sfrm",
+            "title": "Unity Games",
+            "subtitle": "April 2026 game releases made with Unity, featuring various genres and developers",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "April 2026"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/games-made-with-unity-april-2026-releases",
+                "date": "2026-05-01T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity blog highlights numerous game releases from April 2026, showcasing the diversity of games made with the Unity engine, including REPLACED, MOUSE: P.I. For Hire, and Vampire Crawlers. Many of these games are now available in early access or full release on platforms like Steam.",
+            "whyItMatters": "The wide range of games developed with Unity demonstrates the engine's versatility and popularity among game developers, contributing to the growth of the gaming industry. This also reflects the increasing demand for Unity skills in game development.",
+            "howToUse": "Developers can utilize Unity to create games across various genres, from shooters and strategy games to casual and party games, by leveraging Unity's features and assets. They can also submit their projects for inclusion in Unity's release round-ups.",
+            "beneficiaries": [
+                "Game Developers",
+                "Gaming Industry"
+            ],
+            "companies": [
+                "Unity",
+                "Ubisoft",
+                "Fumi Games"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
             "isNew": false
         }
     ]
