@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-15T20:15:01.206Z",
+        "scanDate": "2026-05-15T21:57:14.111Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-eadvupzat",
+            "title": "Lora Tester",
+            "subtitle": "Civitai releases Lora tester with ComfyUI and Flux.1 Workflows",
+            "category": "AI",
+            "tags": [
+                "Lora",
+                "ComfyUI",
+                "Flux.1",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalZzWjBYak1zeEgwN1U1aUw1YU5yckJxS25HdnAzU2M0TGItNUtlN0pHUU1zc2pEcGROUDMza3Z3alptM0J6LXNHTFJnYkl1Y3FJMHN6b3ltMF9hdVgxR19xZVhRVVV3ZEN3V0dlbm85SmUxblZyY3N1RmlSdDBOeThsQ2g5aWdw?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces a Lora tester with 6 epochs and 3 prompts, featuring ComfyUI and Flux.1 Workflows. This tool aims to simplify the testing process for Lora models.",
+            "whyItMatters": "The Lora tester can significantly improve the efficiency of AI model development, particularly in the context of text-to-image synthesis. It provides a streamlined interface for testing and refining Lora models.",
+            "howToUse": "Developers can utilize the Lora tester by accessing it through Civitai's platform, where they can input their prompts and epochs to test and fine-tune their models.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-j9lg1gsdw",
             "title": "AI Video Tools",
@@ -2101,7 +2133,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.111Z",
             "note": null
         },
         {
@@ -2120,7 +2152,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.111Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2129,7 +2161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.111Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2138,7 +2170,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.112Z",
             "note": "Regulatory updates"
         },
         {
@@ -2156,7 +2188,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.112Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2165,7 +2197,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.112Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2185,7 +2217,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.112Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2243,7 +2275,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.112Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2388,7 +2420,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T20:15:01.206Z",
+            "lastScan": "2026-05-15T21:57:14.112Z",
             "note": null
         },
         {
