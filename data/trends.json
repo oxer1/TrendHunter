@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-15T06:32:45.448Z",
+        "scanDate": "2026-05-15T09:45:44.674Z",
         "version": "2.5.0",
-        "totalTrends": 66,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s4g3h5mf5",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o5r4eao3t",
@@ -109,37 +109,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
-        },
-        {
-            "id": "t-usft8l87g",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases Consistence Edit Lora for Klein 9B lcs",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "LoRA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWFhqQzVkcXJGTVh2ZWdzTkYwQjNfUXVIdEQ3dkVXVjB6NURKaUhXZ2V0UlZkT2JoQVZKWkZieUtqUm9hOHExNXhzR3owV1lYUzk1S2lhLThhZzA3WmxMYzRNU1NHTkk?oc=5",
-                "date": "2026-05-01T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced Consistence Edit Lora, an update for Klein 9B lcs, enhancing AI art generation capabilities. This update is part of the Flux.2 Klein LoRA series. It aims to improve consistency in AI-generated art.",
-            "whyItMatters": "This update is significant for AI art generation, offering improved consistency and potentially higher quality outputs. It impacts artists, designers, and developers using AI tools for creative work.",
-            "howToUse": "Artists and developers can utilize Consistence Edit Lora by integrating it into their AI pipelines for more consistent art generation. This can be particularly useful for applications requiring uniform style or theme.",
-            "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1730,68 +1699,6 @@
             "isNew": false
         },
         {
-            "id": "t-rka8940cs",
-            "title": "RIN Featherfall",
-            "subtitle": "Civitai releases RIN Featherfall Illustrious version 4.0, an AI model for art generation.",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "RIN Featherfall"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VbFp4M3Boa1RJMV9TdXlVUU96cjRTMVlfSi1oSVhxTUpVSUoxS2JxN1ctS3I1d2FkQWhid3M1ME4wWDRzZFJtaXg0QXBmWmc3LTFqMXJwSHF1aUN2aEFGOEFSbUQyRy1ud0VvTlV4OA?oc=5",
-                "date": "2026-05-01T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released version 4.0 of RIN Featherfall Illustrious, an AI model designed for generating art. This update may include improvements to the model's capabilities and performance. The release is part of Civitai's ongoing efforts to advance AI technology for creative applications.",
-            "whyItMatters": "The update to RIN Featherfall Illustrious is significant because it reflects the continuous evolution of AI art generation tools, which can impact various creative industries. This development has the potential to influence the quality and accessibility of AI-generated art.",
-            "howToUse": "Artists and developers can utilize RIN Featherfall Illustrious v4.0 by integrating it into their workflows to generate high-quality art, exploring its capabilities for enhancing their creative projects.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-mo3ez8opu",
-            "title": "LTX Video Update",
-            "subtitle": "Civitai releases LTX-2.3 video checkpoint update",
-            "category": "AI",
-            "tags": [
-                "LTX",
-                "Civitai",
-                "Video Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OeWpYRF9BZXJCcDhzZEUtcWtMNVFoUGp1WmJ5Q1ZZNDMwY0NoV2g4MjJCUDEtOUhacFJ0a3dka3dSMlFzVzBuYVhZOFdyMGk0N0Z3?oc=5",
-                "date": "2026-05-01T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released the LTX-2.3 update, which includes a full video checkpoint. This update is part of Civitai's ongoing efforts to improve its AI video tools. The LTX-2.3 update aims to enhance video processing capabilities.",
-            "whyItMatters": "The LTX-2.3 update is significant for AI video tool development, as it demonstrates Civitai's commitment to advancing AI technology. This update can benefit content creators and developers who rely on AI video tools.",
-            "howToUse": "Developers can utilize the LTX-2.3 update to improve their AI video processing workflows, while content creators can leverage the enhanced capabilities to produce higher-quality video content.",
-            "beneficiaries": [
-                "Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-4mc00wg0u",
             "title": "BetMGM CMO Departs",
             "subtitle": "BetMGM's chief marketing officer steps down after 18 months in the role.",
@@ -2221,7 +2128,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "note": null
         },
         {
@@ -2240,7 +2147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2249,7 +2156,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2258,7 +2165,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "note": "Regulatory updates"
         },
         {
@@ -2276,7 +2183,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2285,7 +2192,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2305,7 +2212,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.674Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2363,7 +2270,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.675Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2372,7 +2279,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T09:45:44.675Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2381,7 +2288,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T09:45:44.675Z",
             "note": "Style browsing signal"
         },
         {
@@ -2418,7 +2325,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T09:45:44.675Z",
             "note": null
         },
         {
@@ -2508,7 +2415,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T06:32:45.448Z",
+            "lastScan": "2026-05-15T09:45:44.675Z",
             "note": null
         },
         {
@@ -24066,6 +23973,99 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-usft8l87g",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases Consistence Edit Lora for Klein 9B lcs",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWFhqQzVkcXJGTVh2ZWdzTkYwQjNfUXVIdEQ3dkVXVjB6NURKaUhXZ2V0UlZkT2JoQVZKWkZieUtqUm9hOHExNXhzR3owV1lYUzk1S2lhLThhZzA3WmxMYzRNU1NHTkk?oc=5",
+                "date": "2026-05-01T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Consistence Edit Lora, an update for Klein 9B lcs, enhancing AI art generation capabilities. This update is part of the Flux.2 Klein LoRA series. It aims to improve consistency in AI-generated art.",
+            "whyItMatters": "This update is significant for AI art generation, offering improved consistency and potentially higher quality outputs. It impacts artists, designers, and developers using AI tools for creative work.",
+            "howToUse": "Artists and developers can utilize Consistence Edit Lora by integrating it into their AI pipelines for more consistent art generation. This can be particularly useful for applications requiring uniform style or theme.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-rka8940cs",
+            "title": "RIN Featherfall",
+            "subtitle": "Civitai releases RIN Featherfall Illustrious version 4.0, an AI model for art generation.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "RIN Featherfall"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VbFp4M3Boa1RJMV9TdXlVUU96cjRTMVlfSi1oSVhxTUpVSUoxS2JxN1ctS3I1d2FkQWhid3M1ME4wWDRzZFJtaXg0QXBmWmc3LTFqMXJwSHF1aUN2aEFGOEFSbUQyRy1ud0VvTlV4OA?oc=5",
+                "date": "2026-05-01T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released version 4.0 of RIN Featherfall Illustrious, an AI model designed for generating art. This update may include improvements to the model's capabilities and performance. The release is part of Civitai's ongoing efforts to advance AI technology for creative applications.",
+            "whyItMatters": "The update to RIN Featherfall Illustrious is significant because it reflects the continuous evolution of AI art generation tools, which can impact various creative industries. This development has the potential to influence the quality and accessibility of AI-generated art.",
+            "howToUse": "Artists and developers can utilize RIN Featherfall Illustrious v4.0 by integrating it into their workflows to generate high-quality art, exploring its capabilities for enhancing their creative projects.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-mo3ez8opu",
+            "title": "LTX Video Update",
+            "subtitle": "Civitai releases LTX-2.3 video checkpoint update",
+            "category": "AI",
+            "tags": [
+                "LTX",
+                "Civitai",
+                "Video Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OeWpYRF9BZXJCcDhzZEUtcWtMNVFoUGp1WmJ5Q1ZZNDMwY0NoV2g4MjJCUDEtOUhacFJ0a3dka3dSMlFzVzBuYVhZOFdyMGk0N0Z3?oc=5",
+                "date": "2026-05-01T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the LTX-2.3 update, which includes a full video checkpoint. This update is part of Civitai's ongoing efforts to improve its AI video tools. The LTX-2.3 update aims to enhance video processing capabilities.",
+            "whyItMatters": "The LTX-2.3 update is significant for AI video tool development, as it demonstrates Civitai's commitment to advancing AI technology. This update can benefit content creators and developers who rely on AI video tools.",
+            "howToUse": "Developers can utilize the LTX-2.3 update to improve their AI video processing workflows, while content creators can leverage the enhanced capabilities to produce higher-quality video content.",
+            "beneficiaries": [
+                "Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
