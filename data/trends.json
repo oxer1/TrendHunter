@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-15T02:51:31.563Z",
+        "scanDate": "2026-05-15T06:32:45.448Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,97 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5qi2olvzh",
+            "title": "High Roller Drops",
+            "subtitle": "High Roller's share price drops as prediction markets launch nears",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "Share Price",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDU2TU1saFpTMUI4VUNmbHVWLVdMeVZadjFaeWJWSEY0bUI4aE1YakYzMGhvR1Jib1g4NTdBQ0NWcTV6NEZSeF9US2hZdlExUTRqSkZxTEJjdDZYUU1ZN0ZxUzZqVXMxMl9qZ0pvT1QybXliVEwxN2xUQTlpMGhNRWRqMWpBaVhRNHZEbURMeE4tclpkN2pXTEJsVXAyTHhUQmEzOHAxa3JSVFU?oc=5",
+                "date": "2026-05-13T12:45:26.000Z"
+            },
+            "whatsNew": "High Roller's share price has dropped as the company nears the launch of its prediction markets. This move could impact the company's valuation and investor confidence. The prediction markets launch is a significant event for High Roller.",
+            "whyItMatters": "The launch of prediction markets by High Roller could change the landscape of the iGaming industry, and the company's share price drop may indicate investor uncertainty about the launch's success. This development matters as it reflects the evolving nature of the iGaming sector.",
+            "howToUse": "Investors and industry observers should monitor High Roller's share price and the launch of its prediction markets to gauge the impact on the company and the broader iGaming industry.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "High Roller"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-s4g3h5mf5",
+            "title": "iGaming Margin",
+            "subtitle": "Super Group CFO discusses margin volatility and black market impact",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Margin Volatility",
+                "Black Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlAxUlJXT0tkbldDUi1wcWVrc2lPdGdpTUZaT256cEY3dGxNVUtVVzdOV2IzYkRoMmpHNTV2Z0dUQmZ6aVRfOGJuWjhOX2x1NWJaUTBXeUl2b3BjXzAxdDFqMjVQSU5HeEJubzZsaDdieWlEakEyZmNyY2dCVC01MkJHSngtVUFtejlpQlVMSmxNRmlTNDBsYmYtUGNfc0RSc1h3?oc=5",
+                "date": "2026-05-13T11:08:35.000Z"
+            },
+            "whatsNew": "Super Group's CFO shares insights on navigating margin volatility and mitigating black market damage in the iGaming industry. The CFO highlights the importance of regulatory compliance and responsible gaming practices.",
+            "whyItMatters": "The CFO's comments underscore the ongoing challenges faced by iGaming operators in maintaining profitability while combating black market activities. This has significant implications for the industry's growth and sustainability.",
+            "howToUse": "iGaming operators can apply the CFO's strategies to optimize their margin management and reduce the impact of black market activities on their business.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "Super Group"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-o5r4eao3t",
+            "title": "ADR Complaint",
+            "subtitle": "UK Gambling Commission provides guidance on complaining about Alternative Dispute Resolution providers",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Alternative Dispute Resolution",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnpPaWhlXzVuZ2ZWOU9zaHlSSC03OFd4VXdQN0JqR1NrSHBIaEpSakRCaHNqTDFELVhOam92T190cEVob2JlVXNmQkhZUUkxU1JXaUltUDBUT0tiRkdGaGhWV0piRG9UTUNzMjR3OG5yWExSZ3BNeHoxZGJjdmctRlVFdVdybjZfeTJpUFhlM2EtclFYdVpwS2xNdVlWSlZxWDdTMXdZdzNrMGYyd0pHdEJTdVdXWE94S25V?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has outlined a process for gamblers to complain about Alternative Dispute Resolution providers, enhancing consumer protection. This move aims to ensure fairness and transparency in dispute resolution. The commission's guidance provides a clear pathway for resolving issues.",
+            "whyItMatters": "This development matters as it strengthens consumer rights within the iGaming industry, promoting a safer and more regulated environment. It also underscores the commission's commitment to protecting gamblers.",
+            "howToUse": "Gamblers can use this guidance to navigate the complaints process effectively, ensuring their issues are addressed promptly and fairly.",
+            "beneficiaries": [
+                "Gamblers",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-usft8l87g",
             "title": "AI Art Update",
@@ -49,7 +140,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qq6ohpvt6",
@@ -2130,7 +2221,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": null
         },
         {
@@ -2149,7 +2240,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2158,7 +2249,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2167,7 +2258,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": "Regulatory updates"
         },
         {
@@ -2185,7 +2276,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2194,7 +2285,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2214,7 +2305,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2272,7 +2363,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2417,7 +2508,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T02:51:31.563Z",
+            "lastScan": "2026-05-15T06:32:45.448Z",
             "note": null
         },
         {
