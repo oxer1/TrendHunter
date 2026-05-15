@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-15T11:54:03.898Z",
+        "scanDate": "2026-05-15T14:00:26.719Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -1886,35 +1886,6 @@
             "isNew": false
         },
         {
-            "id": "t-6oan5j4y1",
-            "title": "Prediction Market",
-            "subtitle": "A create-your-own prediction market startup has secured $6m in seed funding",
-            "category": "iGaming",
-            "tags": [
-                "Prediction Market",
-                "Funding",
-                "Startup"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3htbnFZbkRJRXlJeVNyTkp5TzhabXBwbVR3QlVoZG1uQ0hYTDYxR1F0b1lYSVNZVkh0NkdodjNfWTEzLUxWQ1N3YTBUUDhreEthcldMSUFKaWttVVdvcTZRUVduYUYwM0VCTV9HV1N4OHVkNllZdkthUlp4Vm82T0d3UEhlZVRjNmtQUF9pVW5hWEIyVnBNNUV1NVViOXBfdWYwRQ?oc=5",
-                "date": "2026-05-01T13:09:30.000Z"
-            },
-            "whatsNew": "A startup allowing users to create their own prediction markets has received significant funding, indicating growing interest in customizable betting experiences. This investment could lead to further innovation in the online betting sector. The funding will likely be used to expand the platform's capabilities and user base.",
-            "whyItMatters": "This development could significantly impact the iGaming industry by providing more personalized betting options for users, potentially increasing engagement and revenue for operators. It also highlights the growing importance of adaptable and user-centric platforms in the betting market.",
-            "howToUse": "Operators can leverage this trend by integrating customizable prediction markets into their platforms, enhancing user experience and attracting a wider audience. Developers can explore creating similar platforms or features, focusing on user customization and real-time data analytics.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Betting Enthusiasts"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-2p9u22ubt",
             "title": "Atlantic City Jackpots",
             "subtitle": "NJ Division of Gaming Enforcement reports jackpots over $40,000 in Atlantic City",
@@ -2099,7 +2070,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": null
         },
         {
@@ -2118,7 +2089,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2127,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2136,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": "Regulatory updates"
         },
         {
@@ -2154,7 +2125,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2163,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2183,7 +2154,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2241,7 +2212,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2386,7 +2357,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T11:54:03.898Z",
+            "lastScan": "2026-05-15T14:00:26.719Z",
             "note": null
         },
         {
@@ -24066,6 +24037,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-6oan5j4y1",
+            "title": "Prediction Market",
+            "subtitle": "A create-your-own prediction market startup has secured $6m in seed funding",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Market",
+                "Funding",
+                "Startup"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3htbnFZbkRJRXlJeVNyTkp5TzhabXBwbVR3QlVoZG1uQ0hYTDYxR1F0b1lYSVNZVkh0NkdodjNfWTEzLUxWQ1N3YTBUUDhreEthcldMSUFKaWttVVdvcTZRUVduYUYwM0VCTV9HV1N4OHVkNllZdkthUlp4Vm82T0d3UEhlZVRjNmtQUF9pVW5hWEIyVnBNNUV1NVViOXBfdWYwRQ?oc=5",
+                "date": "2026-05-01T13:09:30.000Z"
+            },
+            "whatsNew": "A startup allowing users to create their own prediction markets has received significant funding, indicating growing interest in customizable betting experiences. This investment could lead to further innovation in the online betting sector. The funding will likely be used to expand the platform's capabilities and user base.",
+            "whyItMatters": "This development could significantly impact the iGaming industry by providing more personalized betting options for users, potentially increasing engagement and revenue for operators. It also highlights the growing importance of adaptable and user-centric platforms in the betting market.",
+            "howToUse": "Operators can leverage this trend by integrating customizable prediction markets into their platforms, enhancing user experience and attracting a wider audience. Developers can explore creating similar platforms or features, focusing on user customization and real-time data analytics.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Enthusiasts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
