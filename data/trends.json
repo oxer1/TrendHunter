@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-16T05:52:52.328Z",
+        "scanDate": "2026-05-16T08:00:19.804Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -1729,37 +1729,6 @@
             "isNew": false
         },
         {
-            "id": "t-2j8udj7bx",
-            "title": "Dragon Ball Style",
-            "subtitle": "Anima P3 version 1.0 release on Civitai",
-            "category": "Art",
-            "tags": [
-                "Anima LoRA",
-                "Dragon Ball",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUXNIT2ZkYmpLQWhid0hSWGZIZzYxc1pRN0I3ZXVXc3NwSUVFN1IzeHM3QzJ3T09Qb0E0bERBQUpTVlRkVVdzazd0LU50cnJ2OUI0TVNZeFJPbWJZa0pNVA?oc=5",
-                "date": "2026-05-02T07:00:00.000Z"
-            },
-            "whatsNew": "The release of Anima P3 version 1.0 brings a new style inspired by Dragon Ball to the Anima LoRA platform. This version is available on Civitai, expanding the creative possibilities for users. The style is reminiscent of the popular anime series, allowing for unique art generation.",
-            "whyItMatters": "This release matters because it showcases the growing capabilities of AI in generating art inspired by specific styles, in this case, Dragon Ball. It also highlights the collaboration between platforms like Civitai and the development of tools like Anima LoRA.",
-            "howToUse": "Users can utilize this new style by accessing the Anima P3 version 1.0 on Civitai and experimenting with the Dragon Ball-inspired art generation capabilities. This can be particularly useful for fans of the series and artists looking to create unique content.",
-            "beneficiaries": [
-                "Artists",
-                "Fans of Dragon Ball"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-n182eovtd",
             "title": "AI Art Update",
             "subtitle": "Civitai releases Holy Furry! - v1.0IL, an illustrious checkpoint in AI art generation",
@@ -1823,37 +1792,6 @@
             "isNew": false
         },
         {
-            "id": "t-bnetyipqv",
-            "title": "MJ Style AI",
-            "subtitle": "Civitai releases MJ Style Distilled 206, a new AI model for art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "MJ Style"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdVpEUlZkS3hlMzBzVXBVdUc3OXlocDM0alBEUUhfQW1aMk05NnliWEJjdUYyUkxuTkhGMHlBM1RUcTUwSXRxMG5xaVJKd0dVZ25MRXhOd09SQVNIOVBJZTVNTUM4RlY0?oc=5",
-                "date": "2026-05-02T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced MJ Style Distilled 206, a novel AI model for generating art. This model utilizes the Flux.2 Klein LoRA architecture, indicating advancements in AI art generation capabilities.",
-            "whyItMatters": "The release of MJ Style Distilled 206 signifies the continuous evolution of AI in creative work, potentially impacting the visual design trends in gaming and art. It offers new possibilities for generating unique and stylized artwork.",
-            "howToUse": "Developers and artists can utilize MJ Style Distilled 206 for generating distinctive art styles, integrating it into their workflows for enhanced creativity and efficiency.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-s9osv3z27",
             "title": "Games Global Hire",
             "subtitle": "Games Global appoints former 888 head as chief studio officer",
@@ -1883,37 +1821,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-mkswdo8cw",
-            "title": "MJ Style AI",
-            "subtitle": "Civitai releases MJ Style Distilled 206, a new AI model for art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Stable Diffusion",
-                "LoRA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU00TnZEVGRIOU9SbUxnbnQwOS1MYzlIMFVaM3FUWDdhMDhmOEVIUWx6WGVJcG1PR1FHamROc3VDRXBUdG5lWU54c3FUQmxWRlhLNnl5ZzlaMWRfd0NfWG5vY3NXajU3QzFGX0ZqeWZDd05wMEN4UjZZcnRaeUFnTUI3Y0xDMk0?oc=5",
-                "date": "2026-05-02T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai introduces MJ Style Distilled 206, a novel AI model for generating art. This model utilizes the Flux.2 Klein LoRA architecture, showcasing advancements in AI art generation. The release is version 1.0, indicating a significant milestone in its development.",
-            "whyItMatters": "This release matters because it demonstrates the ongoing progress in AI art generation, potentially impacting the visual design trends in various industries, including gaming and entertainment. It also highlights Civitai's contributions to the field of AI art.",
-            "howToUse": "Artists and developers can utilize MJ Style Distilled 206 for generating unique art pieces, exploring its capabilities in creating diverse styles and themes, and integrating it into their projects for enhanced visual effects.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2133,7 +2040,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": null
         },
         {
@@ -2152,7 +2059,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2161,7 +2068,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2170,7 +2077,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "Regulatory updates"
         },
         {
@@ -2188,7 +2095,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2197,7 +2104,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2217,7 +2124,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2275,7 +2182,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2284,7 +2191,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2293,7 +2200,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": "Style browsing signal"
         },
         {
@@ -2330,7 +2237,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": null
         },
         {
@@ -2420,7 +2327,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T05:52:52.328Z",
+            "lastScan": "2026-05-16T08:00:19.804Z",
             "note": null
         },
         {
@@ -24159,6 +24066,99 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2j8udj7bx",
+            "title": "Dragon Ball Style",
+            "subtitle": "Anima P3 version 1.0 release on Civitai",
+            "category": "Art",
+            "tags": [
+                "Anima LoRA",
+                "Dragon Ball",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUXNIT2ZkYmpLQWhid0hSWGZIZzYxc1pRN0I3ZXVXc3NwSUVFN1IzeHM3QzJ3T09Qb0E0bERBQUpTVlRkVVdzazd0LU50cnJ2OUI0TVNZeFJPbWJZa0pNVA?oc=5",
+                "date": "2026-05-02T07:00:00.000Z"
+            },
+            "whatsNew": "The release of Anima P3 version 1.0 brings a new style inspired by Dragon Ball to the Anima LoRA platform. This version is available on Civitai, expanding the creative possibilities for users. The style is reminiscent of the popular anime series, allowing for unique art generation.",
+            "whyItMatters": "This release matters because it showcases the growing capabilities of AI in generating art inspired by specific styles, in this case, Dragon Ball. It also highlights the collaboration between platforms like Civitai and the development of tools like Anima LoRA.",
+            "howToUse": "Users can utilize this new style by accessing the Anima P3 version 1.0 on Civitai and experimenting with the Dragon Ball-inspired art generation capabilities. This can be particularly useful for fans of the series and artists looking to create unique content.",
+            "beneficiaries": [
+                "Artists",
+                "Fans of Dragon Ball"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-bnetyipqv",
+            "title": "MJ Style AI",
+            "subtitle": "Civitai releases MJ Style Distilled 206, a new AI model for art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "MJ Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HdVpEUlZkS3hlMzBzVXBVdUc3OXlocDM0alBEUUhfQW1aMk05NnliWEJjdUYyUkxuTkhGMHlBM1RUcTUwSXRxMG5xaVJKd0dVZ25MRXhOd09SQVNIOVBJZTVNTUM4RlY0?oc=5",
+                "date": "2026-05-02T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced MJ Style Distilled 206, a novel AI model for generating art. This model utilizes the Flux.2 Klein LoRA architecture, indicating advancements in AI art generation capabilities.",
+            "whyItMatters": "The release of MJ Style Distilled 206 signifies the continuous evolution of AI in creative work, potentially impacting the visual design trends in gaming and art. It offers new possibilities for generating unique and stylized artwork.",
+            "howToUse": "Developers and artists can utilize MJ Style Distilled 206 for generating distinctive art styles, integrating it into their workflows for enhanced creativity and efficiency.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-mkswdo8cw",
+            "title": "MJ Style AI",
+            "subtitle": "Civitai releases MJ Style Distilled 206, a new AI model for art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Stable Diffusion",
+                "LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU00TnZEVGRIOU9SbUxnbnQwOS1MYzlIMFVaM3FUWDdhMDhmOEVIUWx6WGVJcG1PR1FHamROc3VDRXBUdG5lWU54c3FUQmxWRlhLNnl5ZzlaMWRfd0NfWG5vY3NXajU3QzFGX0ZqeWZDd05wMEN4UjZZcnRaeUFnTUI3Y0xDMk0?oc=5",
+                "date": "2026-05-02T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces MJ Style Distilled 206, a novel AI model for generating art. This model utilizes the Flux.2 Klein LoRA architecture, showcasing advancements in AI art generation. The release is version 1.0, indicating a significant milestone in its development.",
+            "whyItMatters": "This release matters because it demonstrates the ongoing progress in AI art generation, potentially impacting the visual design trends in various industries, including gaming and entertainment. It also highlights Civitai's contributions to the field of AI art.",
+            "howToUse": "Artists and developers can utilize MJ Style Distilled 206 for generating unique art pieces, exploring its capabilities in creating diverse styles and themes, and integrating it into their projects for enhanced visual effects.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
