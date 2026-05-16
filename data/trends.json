@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-16T11:00:36.278Z",
+        "scanDate": "2026-05-16T11:59:26.541Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -1886,37 +1886,6 @@
             "isNew": false
         },
         {
-            "id": "t-t40jcjm04",
-            "title": "Ali Akaash Licence",
-            "subtitle": "UK Gambling Commission issues licence summary for Ali Akaash",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Licence Summary",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalNVV1RyamNMekgzNlpLOFB4QkZJQXhiamxYSElnUXlkZWVobXM2NHJRbjZTd3M3VEFndllLR1BxN1l6eFdac1d5UXR3ZllCUzEzUmF1M0g2QmwxdUxvOU1aZTFaNGhZd0xxSXplYW8xcWNJWWZicVBKdHFBdlF3NFFR?oc=5",
-                "date": "2026-05-02T11:25:26.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has issued a licence summary for Ali Akaash, providing an overview of the operator's licensing status. This summary is part of the Commission's efforts to maintain transparency in the iGaming industry. The licence summary includes details on the operator's licence number, licensed activities, and any relevant conditions.",
-            "whyItMatters": "The licence summary is important for ensuring that operators in the iGaming industry are compliant with regulatory requirements. It also provides consumers with information on the operator's licensing status, helping to build trust in the industry.",
-            "howToUse": "Operators can use the licence summary to ensure they are meeting all regulatory requirements, while consumers can use it to make informed decisions about which operators to use.",
-            "beneficiaries": [
-                "Operators",
-                "Consumers"
-            ],
-            "companies": [
-                "Ali Akaash"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-vdwhad4ea",
             "title": "MGA AML Update",
             "subtitle": "Malta Gaming Authority informs stakeholders about AMLA public consultations on draft AML/CFT regulatory standards and guidelines",
@@ -2102,7 +2071,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": null
         },
         {
@@ -2121,7 +2090,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2130,7 +2099,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2139,7 +2108,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": "Regulatory updates"
         },
         {
@@ -2157,7 +2126,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2166,7 +2135,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2186,7 +2155,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2244,7 +2213,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.278Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2389,7 +2358,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T11:00:36.279Z",
+            "lastScan": "2026-05-16T11:59:26.541Z",
             "note": null
         },
         {
@@ -24221,6 +24190,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-t40jcjm04",
+            "title": "Ali Akaash Licence",
+            "subtitle": "UK Gambling Commission issues licence summary for Ali Akaash",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licence Summary",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalNVV1RyamNMekgzNlpLOFB4QkZJQXhiamxYSElnUXlkZWVobXM2NHJRbjZTd3M3VEFndllLR1BxN1l6eFdac1d5UXR3ZllCUzEzUmF1M0g2QmwxdUxvOU1aZTFaNGhZd0xxSXplYW8xcWNJWWZicVBKdHFBdlF3NFFR?oc=5",
+                "date": "2026-05-02T11:25:26.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has issued a licence summary for Ali Akaash, providing an overview of the operator's licensing status. This summary is part of the Commission's efforts to maintain transparency in the iGaming industry. The licence summary includes details on the operator's licence number, licensed activities, and any relevant conditions.",
+            "whyItMatters": "The licence summary is important for ensuring that operators in the iGaming industry are compliant with regulatory requirements. It also provides consumers with information on the operator's licensing status, helping to build trust in the industry.",
+            "howToUse": "Operators can use the licence summary to ensure they are meeting all regulatory requirements, while consumers can use it to make informed decisions about which operators to use.",
+            "beneficiaries": [
+                "Operators",
+                "Consumers"
+            ],
+            "companies": [
+                "Ali Akaash"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
