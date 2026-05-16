@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-15T23:53:35.669Z",
+        "scanDate": "2026-05-16T02:39:48.239Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-cwa4e4pee",
+            "title": "Bionic Face Sculpture",
+            "subtitle": "Flux Kontext prompt for a bionic male face sculpture",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Bionic Sculpture",
+                "Flux Kontext"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNV0hPbHluWThVWklyOTJvWG0teXFfSDJIdTBqUTk0ZElqSnBrR2c4N3RkamhqQTl4T1B0ZDdBbkQxYzBieTFnVUgzMjFVVXdfM0puZzdOQW5mbEkwYlVpU0ZUTENyemFyY0plLUZMUFFLM05nUjJFVjdaaHpSaFNjaEc3WS00T3hSX3kxNHc4U25NRnVOMmEzeXMwRzdlOXdqZlE0Z05DNmVLMDY2TEhDV0NVV1pwUjFvOWNzaFhNVWRSS01QZTdLeHNZQUhNeV8yc0E1WVc1ZVZrR0hRaHhkRVZJRlNLUU1Kb2lGQUg0UFk2ckRXanNKQU96dlFpUDN6Rnplbm56WUxkSWxmT21QVkVicGNxUjUydW94RQ?oc=5",
+                "date": "2026-05-11T05:31:20.000Z"
+            },
+            "whatsNew": "The use of AI prompts like Flux Kontext is creating new possibilities for bionic sculpture art. This specific prompt is for a sculpture of a bionic male face. The intersection of AI and art is leading to innovative and unique creations.",
+            "whyItMatters": "The ability to generate bionic sculptures using AI prompts can revolutionize the art world by providing new tools for artists and expanding the possibilities of digital art. This can also inspire new trends in visual design and game development.",
+            "howToUse": "Artists and designers can use Flux Kontext and similar AI tools to generate unique bionic sculptures and explore new ideas for digital art and game development.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-eadvupzat",
             "title": "Lora Tester",
@@ -2133,7 +2163,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": null
         },
         {
@@ -2152,7 +2182,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2161,7 +2191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2170,7 +2200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "Regulatory updates"
         },
         {
@@ -2188,7 +2218,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2197,7 +2227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2217,7 +2247,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-15T22:55:44.639Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2275,7 +2305,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T22:55:44.639Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2284,7 +2314,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T16:08:47.382Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2293,7 +2323,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T16:08:47.382Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": "Style browsing signal"
         },
         {
@@ -2420,7 +2450,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-15T23:53:35.669Z",
+            "lastScan": "2026-05-16T02:39:48.239Z",
             "note": null
         },
         {
