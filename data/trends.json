@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-16T21:44:07.995Z",
+        "scanDate": "2026-05-16T22:41:28.968Z",
         "version": "2.5.0",
         "totalTrends": 65,
         "categories": [
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tz2304hgn",
@@ -2194,7 +2194,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": null
         },
         {
@@ -2213,7 +2213,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2222,7 +2222,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2231,7 +2231,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": "Regulatory updates"
         },
         {
@@ -2249,7 +2249,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2258,7 +2258,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2278,7 +2278,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2336,7 +2336,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2345,7 +2345,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T19:01:56.315Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2481,7 +2481,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T21:44:07.995Z",
+            "lastScan": "2026-05-16T22:41:28.968Z",
             "note": null
         },
         {
