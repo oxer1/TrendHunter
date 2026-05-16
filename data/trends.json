@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-16T08:00:19.804Z",
+        "scanDate": "2026-05-16T09:48:55.867Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-fbwjsgj5i",
+            "title": "Sonic AI Art",
+            "subtitle": "Sonic the Hedgehog AI art generation in Nathalie Fourdraine style using Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima LoRA",
+                "Sonic the Hedgehog"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZlgwY09ZaV92NVJLTHZmZDB0ZnVkVlBoWk93VVA4bExJdXh6WHcyWmROLUFVc2FpMmlUb1QtWUg1ZDVFY3FIUjNENy11REJ4VTdUbkxTQ1pqLWR2MVJXb2JlQnZsUmNOVEM5OEtrMGIzUlA5MTRjVE5GQ0pHMnJpTGQ1ZjNUcU9lY1R0N1ZTdUZSZw?oc=5",
+                "date": "2026-05-03T12:57:47.000Z"
+            },
+            "whatsNew": "The use of Anima LoRA for generating Sonic the Hedgehog art in the style of Nathalie Fourdraine showcases the versatility of AI in creating unique visual content. This application of AI art generation can inspire new styles in game development and visual design. The ability to mimic specific artists' styles with AI opens up new creative possibilities.",
+            "whyItMatters": "This development matters because it demonstrates the potential of AI in generating high-quality, stylized art that can be used in various applications, including gaming and animation. It also highlights the growing importance of AI in the creative industry.",
+            "howToUse": "Developers and artists can utilize Anima LoRA and similar AI tools to generate unique art styles for their projects, exploring new visual directions and speeding up the design process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-aij4j5xgt",
+            "title": "Anima Base",
+            "subtitle": "Civitai releases Anima base-v1.0, a significant checkpoint in AI development",
+            "category": "AI",
+            "tags": [
+                "Anima",
+                "Civitai",
+                "AI Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWS1DcVpVY21lQlZTNkZZMDdaMktqSWNFWThHb1FOcDVNb2VXQ1VFUEZRTlhlR2ZEcUx4V2Q5MHRkelk2NGxoUjNxSS02Wl9BeWc?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Anima base-v1.0, marking a notable milestone in AI research and development. This checkpoint signifies a major update in the Anima model. The release is expected to improve performance and capabilities of AI models.",
+            "whyItMatters": "The release of Anima base-v1.0 is crucial for AI researchers and developers as it provides a significant improvement in AI capabilities. This can lead to advancements in various fields, including gaming and visual design.",
+            "howToUse": "Developers can utilize the Anima base-v1.0 checkpoint to enhance their AI models, improving performance and efficiency. This can be particularly useful for applications in gaming, animation, and visual effects.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-cwa4e4pee",
             "title": "Bionic Face Sculpture",
@@ -2040,7 +2102,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": null
         },
         {
@@ -2059,7 +2121,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2068,7 +2130,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2077,7 +2139,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": "Regulatory updates"
         },
         {
@@ -2095,7 +2157,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2104,7 +2166,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2124,7 +2186,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2182,7 +2244,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2327,7 +2389,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-16T08:00:19.804Z",
+            "lastScan": "2026-05-16T09:48:55.867Z",
             "note": null
         },
         {
