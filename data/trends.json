@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-18T02:58:52.548Z",
+        "scanDate": "2026-05-18T07:00:52.323Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-a7jy0ns8z",
+            "title": "Unity Pipeline",
+            "subtitle": "Unity Pipeline Automation streamlines complex workflows in real-time 3D production and live operations",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Pipeline Automation",
+                "Cloud Service",
+                "Real-time 3D Production"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/automating-3d-production-pipelines-with-unity",
+                "date": "2026-05-05T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Pipeline Automation is a new cloud-based service that automates compute-intensive pipelines for real-time 3D production and live operations, enabling teams to design custom workflows and integrate Unity services and third-party tools. It supports advanced logic patterns, dynamic steps, and parameterized inputs, allowing for scalable and efficient infrastructure. The service is accessible from the Unity Dashboard and offers official technical documentation and tutorial videos to help teams get started.",
+            "whyItMatters": "Unity Pipeline Automation helps technical teams manage demanding workflows in real-time 3D production, eliminating repetitive task bottlenecks and enabling scalable, efficient infrastructure. It streamlines complex data processing workflows, reducing the processing burden on local workstations and allowing engineers and artists to focus on creative problem-solving.",
+            "howToUse": "To get started with Unity Pipeline Automation, access it from the Unity Dashboard, review the official technical documentation, and begin constructing simple pipelines before moving on to complex conditional logic and nested workflows. Teams can also check out tutorial videos and start with simple, two-step pipelines, such as asset downloading and notification sending.",
+            "beneficiaries": [
+                "Technical Teams",
+                "Engineers",
+                "Artists"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-xsqu5ybo4",
             "title": "AI Video Community",
@@ -49,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x9wy9yjl7",
@@ -1637,38 +1670,6 @@
             "isNew": false
         },
         {
-            "id": "t-fwx4ha8si",
-            "title": "Stake Mexico Launch",
-            "subtitle": "Stake announces its launch in Mexico as part of its preparations for the World Cup",
-            "category": "iGaming",
-            "tags": [
-                "Stake",
-                "Mexico",
-                "World Cup",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1JEdXJQMXhOVEl0YVl6OTZlakhEWkp6S1ZWNXlaQzBKT1kxZFBJQjFPQ2ZDOE9FNFpkZHJWZmVhTVVQT2lzVy1kTHUwdVpBVHVDM1IyZXZjVTluQlFqcFdlVldWamljdmZkYnJyWThLWjBDQ0xMWjlReTdfX2k1c0VvdktwZVhxLTFJSU90djJhZGJlMV9wVjFIWmNkbzg?oc=5",
-                "date": "2026-05-04T05:05:02.000Z"
-            },
-            "whatsNew": "Stake is expanding its operations to Mexico, targeting the growing Latin American market. This move is part of its strategy to capitalize on the upcoming World Cup. The launch will provide Mexican users with access to Stake's online gaming platform.",
-            "whyItMatters": "The launch in Mexico represents a significant expansion for Stake, allowing it to tap into a new and potentially lucrative market. This move could set a precedent for other iGaming companies looking to expand into Latin America.",
-            "howToUse": "Operators can learn from Stake's strategic expansion into new markets, particularly in preparation for major sporting events like the World Cup. This can involve adapting their platforms to meet local regulations and user preferences.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Mexican gamers"
-            ],
-            "companies": [
-                "Stake"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-esrvc6at0",
             "title": "Bingo AGM Update",
             "subtitle": "Gambling Commission's Sarah Gardner speech at Bingo Association AGM",
@@ -1697,38 +1698,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-71cw3tq8u",
-            "title": "AI Avatar Creation",
-            "subtitle": "A complete guide on creating AI avatars from photos using HeyGen",
-            "category": "AI",
-            "tags": [
-                "AI Avatars",
-                "HeyGen",
-                "Photo Editing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOdmxIeWhISlJxczhZNl9OcVB6eGRtb0RiUm4ycFgtZV8yT29WQ1djRVlWcDA3c0FhYUYzMmxROTUteWwzQldMR1YwY0pQaEpZcVBNUFZLSjd3TktoUHFBTVRuR21aQQ?oc=5",
-                "date": "2026-05-04T07:00:00.000Z"
-            },
-            "whatsNew": "HeyGen provides a comprehensive guide on creating AI avatars from photos, utilizing AI technology for innovative visual effects. The process involves uploading a photo and using AI algorithms to generate a personalized avatar. This technology has potential applications in gaming, social media, and virtual reality.",
-            "whyItMatters": "The ability to create AI avatars from photos can revolutionize the gaming and social media industries, providing users with personalized and interactive experiences. This technology also raises important questions about AI ethics and digital identity.",
-            "howToUse": "To create an AI avatar, users can upload a photo to HeyGen's platform and follow the provided guide to generate a personalized avatar. This can be used in various applications, such as gaming, social media, and virtual reality.",
-            "beneficiaries": [
-                "Game Developers",
-                "Social Media Users",
-                "Virtual Reality Creators"
-            ],
-            "companies": [
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1912,38 +1881,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-n182eovtd",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases Holy Furry! - v1.0IL, an illustrious checkpoint in AI art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Holy Furry"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10N1BFak8xNURTc09uZTdNcWlONDNLRGNjc3V6ZXlxM2pxUjN4a1EwY0hFMFJMaWlMOHQ1cG1Ibi1qbk9aMzdTVlNpUlNBaldzNW8wVnV0cUw?oc=5",
-                "date": "2026-05-04T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released a new version of their AI art generation model, Holy Furry! - v1.0IL, marking a significant checkpoint in their development. This update brings improved art generation capabilities. The model is now more proficient in creating detailed and realistic artwork.",
-            "whyItMatters": "This update showcases the rapid advancements in AI art generation, providing artists and developers with more powerful tools for creative work. The improved capabilities of Holy Furry! - v1.0IL can lead to more realistic and engaging visual content in various industries, including gaming and entertainment.",
-            "howToUse": "Developers and artists can utilize Holy Furry! - v1.0IL to generate high-quality artwork for their projects, exploring new possibilities in visual design and content creation. By integrating this technology, they can streamline their workflow and focus on higher-level creative decisions.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2195,7 +2132,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": null
         },
         {
@@ -2214,7 +2151,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2223,7 +2160,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2232,7 +2169,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "Regulatory updates"
         },
         {
@@ -2250,7 +2187,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2259,7 +2196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2279,7 +2216,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2337,7 +2274,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2346,7 +2283,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2355,7 +2292,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": "Style browsing signal"
         },
         {
@@ -2392,7 +2329,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": null
         },
         {
@@ -2401,7 +2338,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": null
         },
         {
@@ -2410,7 +2347,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-17T06:21:24.914Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": null
         },
         {
@@ -2482,7 +2419,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T02:58:52.548Z",
+            "lastScan": "2026-05-18T07:00:52.323Z",
             "note": null
         },
         {
@@ -24407,6 +24344,102 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-fwx4ha8si",
+            "title": "Stake Mexico Launch",
+            "subtitle": "Stake announces its launch in Mexico as part of its preparations for the World Cup",
+            "category": "iGaming",
+            "tags": [
+                "Stake",
+                "Mexico",
+                "World Cup",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1JEdXJQMXhOVEl0YVl6OTZlakhEWkp6S1ZWNXlaQzBKT1kxZFBJQjFPQ2ZDOE9FNFpkZHJWZmVhTVVQT2lzVy1kTHUwdVpBVHVDM1IyZXZjVTluQlFqcFdlVldWamljdmZkYnJyWThLWjBDQ0xMWjlReTdfX2k1c0VvdktwZVhxLTFJSU90djJhZGJlMV9wVjFIWmNkbzg?oc=5",
+                "date": "2026-05-04T05:05:02.000Z"
+            },
+            "whatsNew": "Stake is expanding its operations to Mexico, targeting the growing Latin American market. This move is part of its strategy to capitalize on the upcoming World Cup. The launch will provide Mexican users with access to Stake's online gaming platform.",
+            "whyItMatters": "The launch in Mexico represents a significant expansion for Stake, allowing it to tap into a new and potentially lucrative market. This move could set a precedent for other iGaming companies looking to expand into Latin America.",
+            "howToUse": "Operators can learn from Stake's strategic expansion into new markets, particularly in preparation for major sporting events like the World Cup. This can involve adapting their platforms to meet local regulations and user preferences.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Mexican gamers"
+            ],
+            "companies": [
+                "Stake"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-71cw3tq8u",
+            "title": "AI Avatar Creation",
+            "subtitle": "A complete guide on creating AI avatars from photos using HeyGen",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "HeyGen",
+                "Photo Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOdmxIeWhISlJxczhZNl9OcVB6eGRtb0RiUm4ycFgtZV8yT29WQ1djRVlWcDA3c0FhYUYzMmxROTUteWwzQldMR1YwY0pQaEpZcVBNUFZLSjd3TktoUHFBTVRuR21aQQ?oc=5",
+                "date": "2026-05-04T07:00:00.000Z"
+            },
+            "whatsNew": "HeyGen provides a comprehensive guide on creating AI avatars from photos, utilizing AI technology for innovative visual effects. The process involves uploading a photo and using AI algorithms to generate a personalized avatar. This technology has potential applications in gaming, social media, and virtual reality.",
+            "whyItMatters": "The ability to create AI avatars from photos can revolutionize the gaming and social media industries, providing users with personalized and interactive experiences. This technology also raises important questions about AI ethics and digital identity.",
+            "howToUse": "To create an AI avatar, users can upload a photo to HeyGen's platform and follow the provided guide to generate a personalized avatar. This can be used in various applications, such as gaming, social media, and virtual reality.",
+            "beneficiaries": [
+                "Game Developers",
+                "Social Media Users",
+                "Virtual Reality Creators"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-n182eovtd",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases Holy Furry! - v1.0IL, an illustrious checkpoint in AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Holy Furry"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10N1BFak8xNURTc09uZTdNcWlONDNLRGNjc3V6ZXlxM2pxUjN4a1EwY0hFMFJMaWlMOHQ1cG1Ibi1qbk9aMzdTVlNpUlNBaldzNW8wVnV0cUw?oc=5",
+                "date": "2026-05-04T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released a new version of their AI art generation model, Holy Furry! - v1.0IL, marking a significant checkpoint in their development. This update brings improved art generation capabilities. The model is now more proficient in creating detailed and realistic artwork.",
+            "whyItMatters": "This update showcases the rapid advancements in AI art generation, providing artists and developers with more powerful tools for creative work. The improved capabilities of Holy Furry! - v1.0IL can lead to more realistic and engaging visual content in various industries, including gaming and entertainment.",
+            "howToUse": "Developers and artists can utilize Holy Furry! - v1.0IL to generate high-quality artwork for their projects, exploring new possibilities in visual design and content creation. By integrating this technology, they can streamline their workflow and focus on higher-level creative decisions.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
