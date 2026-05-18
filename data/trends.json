@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-18T17:58:55.367Z",
+        "scanDate": "2026-05-18T19:49:30.349Z",
         "version": "2.5.0",
-        "totalTrends": 67,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -51,7 +51,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-lv0ecrmcs",
@@ -83,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-47d46m12e",
@@ -1136,37 +1136,6 @@
             ],
             "companies": [
                 "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-7r83g3ozr",
-            "title": "Synthesia Video",
-            "subtitle": "Synthesia explains video versioning in their knowledge base",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "Video Versioning",
-                "AI Video Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGRnQVZFYnBnQ1RYNEU1S3E2X2o1WnlqNWdpRElncWp4bU5IUEh1ampkc2F6cXB4Q0xXWVA0em50YWVFM2cxdjBwckx6ZzVnTUVJR1VTOXRMSjdqal9WSXdUQzNuUThoTG5vMFZaeW11ejNjcWdic0pIR0lVNENUbU1UQzBzNnJiREZWcUg3T0FZR2t5?oc=5",
-                "date": "2026-05-04T18:49:13.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides insight into video versioning, a key feature for AI video creation. This feature allows for efficient management of different video versions. Synthesia's explanation helps users understand how to utilize this feature effectively.",
-            "whyItMatters": "Understanding video versioning in Synthesia is crucial for creating and managing AI-generated video content efficiently. It impacts the workflow of content creators and video producers who use Synthesia for their projects.",
-            "howToUse": "To leverage video versioning in Synthesia, users should consult the Synthesia Knowledge Base for detailed instructions and best practices. This will enable them to manage their video content more effectively.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers"
-            ],
-            "companies": [
-                "Synthesia"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
@@ -2259,7 +2228,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": null
         },
         {
@@ -2278,7 +2247,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2287,7 +2256,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2296,7 +2265,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "Regulatory updates"
         },
         {
@@ -2314,7 +2283,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2323,7 +2292,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2343,7 +2312,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2401,7 +2370,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2410,7 +2379,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2419,7 +2388,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": "Style browsing signal"
         },
         {
@@ -2456,7 +2425,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": null
         },
         {
@@ -2546,7 +2515,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-18T19:49:30.349Z",
             "note": null
         },
         {
@@ -24629,6 +24598,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7r83g3ozr",
+            "title": "Synthesia Video",
+            "subtitle": "Synthesia explains video versioning in their knowledge base",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Video Versioning",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGRnQVZFYnBnQ1RYNEU1S3E2X2o1WnlqNWdpRElncWp4bU5IUEh1ampkc2F6cXB4Q0xXWVA0em50YWVFM2cxdjBwckx6ZzVnTUVJR1VTOXRMSjdqal9WSXdUQzNuUThoTG5vMFZaeW11ejNjcWdic0pIR0lVNENUbU1UQzBzNnJiREZWcUg3T0FZR2t5?oc=5",
+                "date": "2026-05-04T18:49:13.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides insight into video versioning, a key feature for AI video creation. This feature allows for efficient management of different video versions. Synthesia's explanation helps users understand how to utilize this feature effectively.",
+            "whyItMatters": "Understanding video versioning in Synthesia is crucial for creating and managing AI-generated video content efficiently. It impacts the workflow of content creators and video producers who use Synthesia for their projects.",
+            "howToUse": "To leverage video versioning in Synthesia, users should consult the Synthesia Knowledge Base for detailed instructions and best practices. This will enable them to manage their video content more effectively.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
