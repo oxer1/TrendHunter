@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-18T07:00:52.323Z",
+        "scanDate": "2026-05-18T11:11:56.440Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 65,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-lqq1zg73z",
+            "title": "Betano FIFA Sponsor",
+            "subtitle": "Betano lands second consecutive FIFA World Cup sponsorship deal",
+            "category": "iGaming",
+            "tags": [
+                "FIFA World Cup",
+                "Sponsorship",
+                "Betano"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzBmdVg5bXpoUTZsT2kxbko4NGFWRGVuRU03ZGpIdW1VbnlGY2NnZkVmVG1RWk0xWUU4eG9sLTRQQjh0b3lsT1Nmc1VVamVyZDlYQkFMT1J4dDJMOVJIZUpJQmF5UjRDSVI0c1dwa0RhUW1SZUxhMkdzSDk5b1dFaF81RHRpcmF3UG9oUVRLM3JoN2RoemdwY19ibDBhS0k?oc=5",
+                "date": "2026-05-18T11:01:19.000Z"
+            },
+            "whatsNew": "Betano has secured its second consecutive FIFA World Cup sponsorship deal, solidifying its presence in the global sports betting market. This move indicates a growing interest in sports betting sponsorships. The deal is expected to increase brand visibility for Betano.",
+            "whyItMatters": "This sponsorship deal matters as it reflects the growing importance of sports betting in global sporting events and can significantly impact Betano's brand recognition and customer acquisition. It also underscores the increasing role of iGaming companies in sponsoring major international sports events.",
+            "howToUse": "For iGaming operators, securing such sponsorships can be a strategic move to enhance brand visibility and attract new customers. Companies can leverage these partnerships to offer exclusive promotions and betting experiences tied to the sponsored events.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Betting Enthusiasts"
+            ],
+            "companies": [
+                "Betano"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-1j1nzdant",
+            "title": "Nova Anime XL",
+            "subtitle": "Civitai releases Nova Anime XL - IL v19.0, an update to their illustrious checkpoint model",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Nova Anime XL",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQ2Q3Vy1yZXBYOVpnUUlWOVk1MkZDRERhaDhiN0o1TE9hYUU0WVRORzUyUmxPbE5kVUVyNmRJTVRCM0dDYkZhOXJtaUZiSTljT3hSNlZTa2xEWDA?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "Nova Anime XL - IL v19.0 is the latest update to Civitai's illustrious checkpoint model, bringing new features and improvements to AI art generation. This update showcases the rapid advancement in AI art technology. The model is designed to generate high-quality anime-style images.",
+            "whyItMatters": "This update matters because it demonstrates the growing capabilities of AI in art generation, potentially changing the way art is created and consumed. It also highlights Civitai's role in pushing the boundaries of AI art technology.",
+            "howToUse": "Artists and developers can utilize Nova Anime XL - IL v19.0 to generate unique anime-style artwork, explore new creative possibilities, and integrate AI-generated art into their projects.",
+            "beneficiaries": [
+                "Artists",
+                "Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-zygb85b9a",
+            "title": "AI Video Generator",
+            "subtitle": "Magnific AI video generator reviews, use cases, and alternatives",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Video Generation",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Futurepedia",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50MzFqbjFSUHg1NE1VYjVsSmNJNGVNTUJIS3pVdzhuQTNQc3dZZGlIdjBJZUlFS2xXNGdmSHJYdVJCZFBTMjNzZ1lYSGFFdFhfOVo5ZkdNWXU0OUlfZVp2MkRCLWRSdDFJU25Z?oc=5",
+                "date": "2026-05-06T01:31:34.000Z"
+            },
+            "whatsNew": "Magnific AI video generator offers a range of use cases, from video creation to editing, and provides competitive pricing plans. The tool also has alternatives for users with different needs.",
+            "whyItMatters": "The emergence of AI video generators like Magnific AI can significantly impact the video creation industry, making it more accessible and efficient. This technology can benefit various professionals, including marketers, educators, and content creators.",
+            "howToUse": "To leverage Magnific AI, users can explore its use cases, such as video creation, editing, and customization, and choose a suitable pricing plan based on their needs.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Educators"
+            ],
+            "companies": [
+                "Magnific AI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-a7jy0ns8z",
             "title": "Unity Pipeline",
@@ -51,7 +146,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xsqu5ybo4",
@@ -1517,37 +1612,6 @@
             "isNew": false
         },
         {
-            "id": "t-n2njnecz4",
-            "title": "AI Image Creation",
-            "subtitle": "OpenArt offers free AI image creation tools",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GbXlLemdXUk9iS1FiMFN4UkRpR1QwUURFaFd6Zno1b1NkV2Q3a0ZqR0VNa3lzb0ViVkZhZUNYLTM0ejUtUTdFbEVzMExobEFueDVPNkN3ZmdRc0syYlE?oc=5",
-                "date": "2026-05-04T09:05:18.000Z"
-            },
-            "whatsNew": "OpenArt introduces a free AI image creation platform, allowing users to generate images using artificial intelligence. This tool has the potential to revolutionize the field of digital art. The platform is accessible to all, making AI-generated art more mainstream.",
-            "whyItMatters": "The availability of free AI image creation tools can significantly impact the gaming and art industries, enabling developers and artists to create high-quality visuals without extensive resources. This can lead to increased innovation and creativity in these fields.",
-            "howToUse": "Artists and developers can utilize OpenArt's platform to generate unique images for their projects, exploring new styles and themes. By experimenting with AI-generated art, they can discover novel ways to enhance their work.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-zdbksovso",
             "title": "AI Image Generator",
             "subtitle": "Synthesia offers a free AI image generation tool",
@@ -2132,7 +2196,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": null
         },
         {
@@ -2151,7 +2215,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2160,7 +2224,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2169,7 +2233,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "Regulatory updates"
         },
         {
@@ -2187,7 +2251,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2196,7 +2260,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2216,7 +2280,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2274,7 +2338,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2283,7 +2347,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2292,7 +2356,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": "Style browsing signal"
         },
         {
@@ -2329,7 +2393,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": null
         },
         {
@@ -2338,7 +2402,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": null
         },
         {
@@ -2347,7 +2411,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": null
         },
         {
@@ -2419,7 +2483,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T07:00:52.323Z",
+            "lastScan": "2026-05-18T11:11:56.441Z",
             "note": null
         },
         {
@@ -24437,6 +24501,37 @@
             ],
             "companies": [
                 "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-n2njnecz4",
+            "title": "AI Image Creation",
+            "subtitle": "OpenArt offers free AI image creation tools",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GbXlLemdXUk9iS1FiMFN4UkRpR1QwUURFaFd6Zno1b1NkV2Q3a0ZqR0VNa3lzb0ViVkZhZUNYLTM0ejUtUTdFbEVzMExobEFueDVPNkN3ZmdRc0syYlE?oc=5",
+                "date": "2026-05-04T09:05:18.000Z"
+            },
+            "whatsNew": "OpenArt introduces a free AI image creation platform, allowing users to generate images using artificial intelligence. This tool has the potential to revolutionize the field of digital art. The platform is accessible to all, making AI-generated art more mainstream.",
+            "whyItMatters": "The availability of free AI image creation tools can significantly impact the gaming and art industries, enabling developers and artists to create high-quality visuals without extensive resources. This can lead to increased innovation and creativity in these fields.",
+            "howToUse": "Artists and developers can utilize OpenArt's platform to generate unique images for their projects, exploring new styles and themes. By experimenting with AI-generated art, they can discover novel ways to enhance their work.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "OpenArt"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
