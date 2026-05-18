@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-18T11:11:56.440Z",
+        "scanDate": "2026-05-18T15:24:47.700Z",
         "version": "2.5.0",
         "totalTrends": 65,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-47d46m12e",
+            "title": "Atlantic City Jackpots",
+            "subtitle": "NJ Division of Gaming Enforcement releases list of jackpots over $40,000",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Atlantic City",
+                "Jackpots"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has released a list of jackpots over $40,000 in Atlantic City. The list is 69 pages long and provides information on recent big wins. This data can be useful for understanding gaming trends in the region.",
+            "whyItMatters": "The release of this list demonstrates transparency in the gaming industry and can help players make informed decisions. It also highlights the potential for big wins in Atlantic City, which can attract more players to the area.",
+            "howToUse": "Players can use this list to research recent jackpots and plan their gaming strategy. Operators can also use this data to optimize their games and promotions.",
+            "beneficiaries": [
+                "Players",
+                "Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-lqq1zg73z",
             "title": "Betano FIFA Sponsor",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1j1nzdant",
@@ -81,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zygb85b9a",
@@ -113,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-a7jy0ns8z",
@@ -2009,37 +2038,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-vdwhad4ea",
-            "title": "MGA AML Update",
-            "subtitle": "Malta Gaming Authority informs stakeholders about AMLA public consultations on draft AML/CFT regulatory standards and guidelines",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "AMLA",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTzUzRzV4d2R4dE5NVDMzcjA3NlprSkY3NXlReUJyN25UVkRvZGxXVmZZMWVYdjZTbEY5WGdrbE5IUEZvU3ByNC1WYkZfRGRfTS1ydjRibEhyekNCVEJSZUlKQ285MVVaR2NtRjhESC04N0hTM1hocjhQNW10aTZXZkdRbDEzc0lKUnpIYzB4eGs3YjVtdktuY3laVDVyQ0RsYnVjeEJPbm1sVWZGVHpZLVVoSXViWWY5azlQRUVrY3pJWEJRRXQyX1dn?oc=5",
-                "date": "2026-05-04T14:50:58.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority is conducting public consultations on draft AML/CFT regulatory standards and guidelines. This move aims to strengthen anti-money laundering efforts within the iGaming industry.",
-            "whyItMatters": "These consultations are crucial for shaping the regulatory landscape of the iGaming industry, particularly in regards to anti-money laundering practices. It reflects the ongoing efforts to ensure compliance and transparency.",
-            "howToUse": "Stakeholders and operators should participate in the consultations to provide feedback and ensure their voices are heard in the development of these regulatory standards.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2196,7 +2194,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": null
         },
         {
@@ -2215,7 +2213,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2224,7 +2222,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2233,7 +2231,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "Regulatory updates"
         },
         {
@@ -2251,7 +2249,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2260,7 +2258,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2280,7 +2278,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2338,7 +2336,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2347,7 +2345,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2356,7 +2354,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "Style browsing signal"
         },
         {
@@ -2393,7 +2391,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": null
         },
         {
@@ -2402,7 +2400,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": null
         },
         {
@@ -2411,7 +2409,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": null
         },
         {
@@ -2438,7 +2436,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-11T02:51:12.382Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2483,7 +2481,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T11:11:56.441Z",
+            "lastScan": "2026-05-18T15:24:47.700Z",
             "note": null
         },
         {
@@ -24535,6 +24533,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-vdwhad4ea",
+            "title": "MGA AML Update",
+            "subtitle": "Malta Gaming Authority informs stakeholders about AMLA public consultations on draft AML/CFT regulatory standards and guidelines",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "AMLA",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTzUzRzV4d2R4dE5NVDMzcjA3NlprSkY3NXlReUJyN25UVkRvZGxXVmZZMWVYdjZTbEY5WGdrbE5IUEZvU3ByNC1WYkZfRGRfTS1ydjRibEhyekNCVEJSZUlKQ285MVVaR2NtRjhESC04N0hTM1hocjhQNW10aTZXZkdRbDEzc0lKUnpIYzB4eGs3YjVtdktuY3laVDVyQ0RsYnVjeEJPbm1sVWZGVHpZLVVoSXViWWY5azlQRUVrY3pJWEJRRXQyX1dn?oc=5",
+                "date": "2026-05-04T14:50:58.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority is conducting public consultations on draft AML/CFT regulatory standards and guidelines. This move aims to strengthen anti-money laundering efforts within the iGaming industry.",
+            "whyItMatters": "These consultations are crucial for shaping the regulatory landscape of the iGaming industry, particularly in regards to anti-money laundering practices. It reflects the ongoing efforts to ensure compliance and transparency.",
+            "howToUse": "Stakeholders and operators should participate in the consultations to provide feedback and ensure their voices are heard in the development of these regulatory standards.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
