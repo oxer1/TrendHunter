@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-18T22:58:31.347Z",
+        "scanDate": "2026-05-19T00:12:59.334Z",
         "version": "2.5.0",
         "totalTrends": 66,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-vbodooosv",
+            "title": "SORA Renewal",
+            "subtitle": "New Jersey offers 8-hour SORA Renewal Program Training",
+            "category": "iGaming",
+            "tags": [
+                "SORA",
+                "Regulation",
+                "New Jersey"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBic01GT2JCT21IQVlEbEhfYlpsdEU3V0dYckZaY2NRd01zQkxIaE5FSmJFX05WS180LWNiaDJQZVF0azNJbFRKSUp5eUdjZWs?oc=5",
+                "date": "2026-05-18T01:37:47.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement is providing an 8-hour SORA Renewal Program Training in Trenton. This training is part of the ongoing effort to regulate and ensure compliance within the gaming industry.",
+            "whyItMatters": "This training is crucial for individuals and businesses involved in the gaming industry in New Jersey, as it ensures they are up-to-date with the latest regulations and requirements.",
+            "howToUse": "Attendees can register for the training through the My Career NJ website to stay compliant with SORA regulations.",
+            "beneficiaries": [
+                "Gaming Industry Professionals",
+                "Compliance Officers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-69vw47ih2",
             "title": "Bally's M&A Talks",
@@ -207,39 +236,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-a7jy0ns8z",
-            "title": "Unity Pipeline",
-            "subtitle": "Unity Pipeline Automation streamlines complex workflows in real-time 3D production and live operations",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Pipeline Automation",
-                "Cloud Service",
-                "Real-time 3D Production"
-            ],
-            "trendStrength": 5,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/automating-3d-production-pipelines-with-unity",
-                "date": "2026-05-05T00:00:00.000Z"
-            },
-            "whatsNew": "Unity Pipeline Automation is a new cloud-based service that automates compute-intensive pipelines for real-time 3D production and live operations, enabling teams to design custom workflows and integrate Unity services and third-party tools. It supports advanced logic patterns, dynamic steps, and parameterized inputs, allowing for scalable and efficient infrastructure. The service is accessible from the Unity Dashboard and offers official technical documentation and tutorial videos to help teams get started.",
-            "whyItMatters": "Unity Pipeline Automation helps technical teams manage demanding workflows in real-time 3D production, eliminating repetitive task bottlenecks and enabling scalable, efficient infrastructure. It streamlines complex data processing workflows, reducing the processing burden on local workstations and allowing engineers and artists to focus on creative problem-solving.",
-            "howToUse": "To get started with Unity Pipeline Automation, access it from the Unity Dashboard, review the official technical documentation, and begin constructing simple pipelines before moving on to complex conditional logic and nested workflows. Teams can also check out tutorial videos and start with simple, two-step pipelines, such as asset downloading and notification sending.",
-            "beneficiaries": [
-                "Technical Teams",
-                "Engineers",
-                "Artists"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -2228,7 +2224,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.347Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": null
         },
         {
@@ -2247,7 +2243,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-18T22:58:31.347Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2256,7 +2252,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.347Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2265,7 +2261,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.347Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": "Regulatory updates"
         },
         {
@@ -2283,7 +2279,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.347Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2292,7 +2288,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.347Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2312,7 +2308,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-18T22:58:31.348Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2370,7 +2366,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.348Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2515,7 +2511,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.348Z",
+            "lastScan": "2026-05-19T00:12:59.334Z",
             "note": null
         },
         {
@@ -24629,6 +24625,39 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-a7jy0ns8z",
+            "title": "Unity Pipeline",
+            "subtitle": "Unity Pipeline Automation streamlines complex workflows in real-time 3D production and live operations",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Pipeline Automation",
+                "Cloud Service",
+                "Real-time 3D Production"
+            ],
+            "trendStrength": 5,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/automating-3d-production-pipelines-with-unity",
+                "date": "2026-05-05T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Pipeline Automation is a new cloud-based service that automates compute-intensive pipelines for real-time 3D production and live operations, enabling teams to design custom workflows and integrate Unity services and third-party tools. It supports advanced logic patterns, dynamic steps, and parameterized inputs, allowing for scalable and efficient infrastructure. The service is accessible from the Unity Dashboard and offers official technical documentation and tutorial videos to help teams get started.",
+            "whyItMatters": "Unity Pipeline Automation helps technical teams manage demanding workflows in real-time 3D production, eliminating repetitive task bottlenecks and enabling scalable, efficient infrastructure. It streamlines complex data processing workflows, reducing the processing burden on local workstations and allowing engineers and artists to focus on creative problem-solving.",
+            "howToUse": "To get started with Unity Pipeline Automation, access it from the Unity Dashboard, review the official technical documentation, and begin constructing simple pipelines before moving on to complex conditional logic and nested workflows. Teams can also check out tutorial videos and start with simple, two-step pipelines, such as asset downloading and notification sending.",
+            "beneficiaries": [
+                "Technical Teams",
+                "Engineers",
+                "Artists"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
