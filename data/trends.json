@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-19T12:07:10.843Z",
+        "scanDate": "2026-05-19T16:17:16.231Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pz8ga93tb",
+            "title": "Legacy AI Video",
+            "subtitle": "Synthesia's AI Video Assistant content creation guide",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Synthesia",
+                "Content Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNG5BUUFQTEdueVlJcWRQVUQ5U3B5YnQzendnbVBXSzZhX2V5bm42eWUxRnRQRXd0REU4cHM0UC0ySmpLaURjaHBXSV92RnZjSWVtOHVIYWhPUkZqaEQzYXlXNndZZ0FoVEppbjM3Znh4UXJuWmZpdk1rSThqZjh6X3FqY0tGTlNKVFh1SVhNaFBRTHBJbU5VODVTMjJMQW1XZ25lenZFbw?oc=5",
+                "date": "2026-05-14T15:00:46.000Z"
+            },
+            "whatsNew": "Synthesia provides a guide on using their legacy AI Video Assistant for content creation. The guide is part of their knowledge base, indicating a continued focus on AI video tools. This shows the importance of AI in video content creation.",
+            "whyItMatters": "The use of AI in video content creation is becoming increasingly popular, and Synthesia's guide highlights the potential of AI video tools. This trend is likely to impact content creators and the broader media industry.",
+            "howToUse": "To create content with the legacy AI Video Assistant, users can follow Synthesia's guide, which provides step-by-step instructions on how to utilize the tool. This can help users get started with AI-powered video content creation.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-rv8qp9i9r",
             "title": "AI Hedge Fund",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-g5zbia7yu",
@@ -2315,7 +2346,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": null
         },
         {
@@ -2334,7 +2365,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2343,7 +2374,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2352,7 +2383,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "Regulatory updates"
         },
         {
@@ -2370,7 +2401,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2379,7 +2410,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2399,7 +2430,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2457,7 +2488,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2466,7 +2497,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2475,7 +2506,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": "Style browsing signal"
         },
         {
@@ -2512,7 +2543,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": null
         },
         {
@@ -2521,7 +2552,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": null
         },
         {
@@ -2602,7 +2633,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T12:07:10.843Z",
+            "lastScan": "2026-05-19T16:17:16.231Z",
             "note": null
         },
         {
