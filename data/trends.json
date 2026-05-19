@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-19T18:58:11.124Z",
+        "scanDate": "2026-05-19T20:46:17.160Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 71,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-of74zd7n7",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pz8ga93tb",
@@ -1289,38 +1289,6 @@
             "isNew": false
         },
         {
-            "id": "t-ovqny9qt1",
-            "title": "AI Image Prompt",
-            "subtitle": "ChatGPT image generation with PromptHero",
-            "category": "AI",
-            "tags": [
-                "ChatGPT",
-                "Image Generation",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DZGhZOEpZUkd0ZGFqUTJhQ3c0RTBQYTVlblR5UnVWSm1HdVFlYW9FbG9keXEtVEswUHhfbXd5SGhvb1dISVhveFhEUU80c0dBdDMxZjYzQ01razdLbjlvVWZ5VFQwTXE1cTNzMC1yclRReml2aWc?oc=5",
-                "date": "2026-05-05T20:45:01.000Z"
-            },
-            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
-            "whyItMatters": "The ability to generate images using AI has significant implications for the gaming and art industries, enabling new forms of creative expression and potentially streamlining content creation. This technology can also be used in the iGaming industry for creating engaging visuals and animations.",
-            "howToUse": "Developers and artists can utilize ChatGPT image prompts to generate unique and customized images for their projects, and game developers can leverage this technology to create immersive and interactive experiences.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-jy8ghtjct",
             "title": "Kalshi Compliance Hire",
             "subtitle": "Kalshi hires former Patomak partner as chief compliance officer, indicating a focus on regulatory adherence in the iGaming industry.",
@@ -2408,7 +2376,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": null
         },
         {
@@ -2427,7 +2395,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2436,7 +2404,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2445,7 +2413,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": "Regulatory updates"
         },
         {
@@ -2463,7 +2431,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2472,7 +2440,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2492,7 +2460,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2550,7 +2518,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2695,7 +2663,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T18:58:11.124Z",
+            "lastScan": "2026-05-19T20:46:17.160Z",
             "note": null
         },
         {
@@ -24937,6 +24905,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ovqny9qt1",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "ChatGPT",
+                "Image Generation",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DZGhZOEpZUkd0ZGFqUTJhQ3c0RTBQYTVlblR5UnVWSm1HdVFlYW9FbG9keXEtVEswUHhfbXd5SGhvb1dISVhveFhEUU80c0dBdDMxZjYzQ01razdLbjlvVWZ5VFQwTXE1cTNzMC1yclRReml2aWc?oc=5",
+                "date": "2026-05-05T20:45:01.000Z"
+            },
+            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
+            "whyItMatters": "The ability to generate images using AI has significant implications for the gaming and art industries, enabling new forms of creative expression and potentially streamlining content creation. This technology can also be used in the iGaming industry for creating engaging visuals and animations.",
+            "howToUse": "Developers and artists can utilize ChatGPT image prompts to generate unique and customized images for their projects, and game developers can leverage this technology to create immersive and interactive experiences.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
