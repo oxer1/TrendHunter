@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-19T00:12:59.334Z",
+        "scanDate": "2026-05-19T04:58:43.198Z",
         "version": "2.5.0",
-        "totalTrends": 66,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-cj5ato64c",
+            "title": "Video Generation",
+            "subtitle": "Exploring factors affecting video generation time in Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
+                "date": "2026-05-11T15:25:00.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides insights into the factors affecting video generation time, including complexity of the video and server load. The article aims to help users understand and potentially mitigate delays in video generation. This is part of the broader trend of AI-powered video creation.",
+            "whyItMatters": "Understanding the factors that affect video generation time is crucial for efficient content creation, especially in industries relying on AI-powered video tools. This knowledge can help users plan and optimize their content creation workflows.",
+            "howToUse": "To minimize video generation time, users can simplify their video projects, avoid peak usage hours, and utilize Synthesia's optimization tips. By applying these strategies, users can streamline their content creation process.",
+            "beneficiaries": [
+                "Content creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-sjwzt9mnd",
+            "title": "Synthesia Captions",
+            "subtitle": "Understanding how captions work in Synthesia's video tools",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Video Tools",
+                "Captions"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0ZZZS0xODd4N1QwcjlhTlNIbjNUWGl6dTNnMzRMbF9ISGhrTUZPOUduMFQ3MHU1YzB5V2VXeHE2eVJ5RUpySEdiMlJlUTJnZ1pFQzRHX2xNVXp0T0ZreXhiaGVDeTBTUVphSDBYRVNtVkJTallnN0UtckJ3NW1tWDh5WkZDUQ?oc=5",
+                "date": "2026-05-14T15:00:42.000Z"
+            },
+            "whatsNew": "Synthesia's caption feature allows for automated text overlay in videos, enhancing accessibility and viewer engagement. The feature is part of Synthesia's broader suite of AI-powered video creation tools. This technology simplifies the process of adding captions to videos.",
+            "whyItMatters": "The ability to easily add captions to videos can significantly improve the viewing experience, especially for those who are deaf or hard of hearing. It also aids in comprehension for all viewers, making content more accessible and engaging.",
+            "howToUse": "To utilize captions in Synthesia, users can follow the guidelines provided in the Synthesia Knowledge Base, which offers step-by-step instructions on how to activate and customize captions in their videos.",
+            "beneficiaries": [
+                "Content Creators",
+                "Viewers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-3meo4nyia",
+            "title": "Spine Unity Update",
+            "subtitle": "Spine Unity 4.3-beta potentially replaced with 4.3 version",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Unity",
+                "Game Development"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZlNlg3Y3dNYk1mWWVTekFkSW4tUi00WjA4ME4ydTROLWV5VVliNDJwZkNQa21fMkl3UHhqYWUxRHA0Y2Z0Nk9LQ0tKWC1GRnNORm5zOHpaVlpULXNpRVlISzUxRzRmWVU5RjZBWnMtY1I5U0hrYVJSZmNiM09nMTNxM19JOEF1d3Jud0IxT0ExeWJGQnkzbHJYc0UyTy1zbGJEd1A3VXNKUQ?oc=5",
+                "date": "2026-05-16T21:01:16.000Z"
+            },
+            "whatsNew": "The Spine Unity version has potentially been updated from 4.3-beta to 4.3. The change is related to the Git URL on the official Spine website.",
+            "whyItMatters": "This update may impact game development workflows and compatibility for developers using Spine with Unity. It signifies the ongoing development and refinement of game development tools.",
+            "howToUse": "Developers should check the official Spine website for the latest version and update their projects accordingly to ensure compatibility and access to the latest features.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Users"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-vbodooosv",
             "title": "SORA Renewal",
@@ -47,7 +140,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-69vw47ih2",
@@ -2224,7 +2317,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": null
         },
         {
@@ -2243,7 +2336,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2252,7 +2345,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2261,7 +2354,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "Regulatory updates"
         },
         {
@@ -2279,7 +2372,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2288,7 +2381,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2308,7 +2401,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2366,7 +2459,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2375,7 +2468,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.348Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2384,7 +2477,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T22:58:31.348Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "Style browsing signal"
         },
         {
@@ -2421,7 +2514,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T19:49:30.349Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": null
         },
         {
@@ -2430,7 +2523,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T17:58:55.367Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": null
         },
         {
@@ -2439,7 +2532,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-18T15:24:47.700Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": null
         },
         {
@@ -2466,7 +2559,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-18T15:24:47.700Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2511,7 +2604,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T00:12:59.334Z",
+            "lastScan": "2026-05-19T04:58:43.198Z",
             "note": null
         },
         {
