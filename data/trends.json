@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-19T04:58:43.198Z",
+        "scanDate": "2026-05-19T08:30:05.576Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g5zbia7yu",
+            "title": "Anima LoRA Update",
+            "subtitle": "Civitai releases Aesthetic Quality Modifiers - Masterpiece - v5.0 with Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "Anima LoRA",
+                "Aesthetic Quality Modifiers",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTU5LQ2FJdGYwejNEUEFpMWZFRDZOR2dWcVYyREtFajRRN1poMF9ERHo2UWpKSkNQcjVMTDVHZWJaWlo1STdHM3l5Tk9ObFUwTEY0S24wM0VUUzh1YTFQZWRmNWJ6NDQzX3dNYkZ3R0MtcXdyMlU3dVZJc3BMQQ?oc=5",
+                "date": "2026-05-16T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Aesthetic Quality Modifiers - Masterpiece - v5.0, an update to their Anima LoRA tool. This update aims to improve the aesthetic quality of generated images. The tool is now in its third preview stage.",
+            "whyItMatters": "This update is significant for AI art generation, as it enhances the capabilities of Anima LoRA, a key tool in the field. It can lead to more realistic and detailed generated images, benefiting artists and designers.",
+            "howToUse": "Artists and designers can utilize this updated tool to generate high-quality images with improved aesthetic appeal, by accessing the Civitai platform and exploring the features of Aesthetic Quality Modifiers - Masterpiece - v5.0.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-l2kvxv07m",
+            "title": "AI Disclosure",
+            "subtitle": "OpenArt releases a guide for creators on AI disclosure in 2026",
+            "category": "AI",
+            "tags": [
+                "AI Disclosure",
+                "OpenArt",
+                "Creator's Guide"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wYjFNS1pWQWs1LWRjVGc2ak1nRVVBRGQxcWowN01pajlPZ0tsQmZicjd1VjVtNExOSzUtZzdWSDg5ODd5RG15cGNZV01nOEo0Nkk3WVJXeU5sS0hIRnBwajBjWENlMW9PREE?oc=5",
+                "date": "2026-05-15T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt has released a guide for creators on AI disclosure, focusing on the importance of transparency in AI-generated content. The guide provides insights into the current state of AI disclosure and its implications for the creative industry. It also offers practical advice on how creators can disclose their use of AI in their work.",
+            "whyItMatters": "The guide matters because it addresses the growing need for transparency in AI-generated content, which is becoming increasingly prevalent in the creative industry. By providing a framework for AI disclosure, OpenArt aims to promote ethical practices and build trust between creators and their audiences.",
+            "howToUse": "Creators can use the guide to understand the importance of AI disclosure and learn how to implement transparent practices in their work, such as clearly labeling AI-generated content and providing information about the AI tools used.",
+            "beneficiaries": [
+                "Content Creators",
+                "Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-cj5ato64c",
             "title": "Video Generation",
@@ -49,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-sjwzt9mnd",
@@ -80,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3meo4nyia",
@@ -111,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vbodooosv",
@@ -173,38 +235,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-lv0ecrmcs",
-            "title": "Stable Diffusion",
-            "subtitle": "PromptHero shares high-quality Stable Diffusion prompts",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Prompts"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tSGNLR3BZYWxHRHp4cXJTeV9jUEh6Y1AxbVB5WUhQbnJvaVBMczhaaldTeUI0bC1YTHlaRW9UdThldFhJU3o4U2FDRHJ2RlVkRTRTM1FmazNwM3JHYXpBem50MHNyUDhhdFJzVXJXMEVVMVVxZDFaTHVn?oc=5",
-                "date": "2026-05-05T08:10:39.000Z"
-            },
-            "whatsNew": "PromptHero is providing high-quality prompts for Stable Diffusion, a text-to-image model. These prompts can help users generate better images with the model. The prompts are designed to be highly effective and efficient.",
-            "whyItMatters": "High-quality prompts can significantly improve the output of AI models like Stable Diffusion, making them more useful for creative applications. This can have a major impact on the field of AI art generation.",
-            "howToUse": "Users can visit PromptHero's website to access the high-quality prompts and use them with Stable Diffusion to generate better images. This can be especially useful for artists, designers, and other creatives.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2317,7 +2347,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": null
         },
         {
@@ -2336,7 +2366,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2345,7 +2375,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2354,7 +2384,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "Regulatory updates"
         },
         {
@@ -2372,7 +2402,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2381,7 +2411,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2401,7 +2431,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2459,7 +2489,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2468,7 +2498,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2477,7 +2507,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": "Style browsing signal"
         },
         {
@@ -2514,7 +2544,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": null
         },
         {
@@ -2604,7 +2634,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-19T04:58:43.198Z",
+            "lastScan": "2026-05-19T08:30:05.576Z",
             "note": null
         },
         {
@@ -24751,6 +24781,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-lv0ecrmcs",
+            "title": "Stable Diffusion",
+            "subtitle": "PromptHero shares high-quality Stable Diffusion prompts",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tSGNLR3BZYWxHRHp4cXJTeV9jUEh6Y1AxbVB5WUhQbnJvaVBMczhaaldTeUI0bC1YTHlaRW9UdThldFhJU3o4U2FDRHJ2RlVkRTRTM1FmazNwM3JHYXpBem50MHNyUDhhdFJzVXJXMEVVMVVxZDFaTHVn?oc=5",
+                "date": "2026-05-05T08:10:39.000Z"
+            },
+            "whatsNew": "PromptHero is providing high-quality prompts for Stable Diffusion, a text-to-image model. These prompts can help users generate better images with the model. The prompts are designed to be highly effective and efficient.",
+            "whyItMatters": "High-quality prompts can significantly improve the output of AI models like Stable Diffusion, making them more useful for creative applications. This can have a major impact on the field of AI art generation.",
+            "howToUse": "Users can visit PromptHero's website to access the high-quality prompts and use them with Stable Diffusion to generate better images. This can be especially useful for artists, designers, and other creatives.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
