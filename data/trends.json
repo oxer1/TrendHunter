@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-20T12:21:28.203Z",
+        "scanDate": "2026-05-20T16:23:07.635Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,103 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-z12qa7n25",
+            "title": "Unity Studio Updates",
+            "subtitle": "Unity Studio introduces new collaboration and export tools to streamline 3D workflows and reduce development bottlenecks",
+            "category": "Tech",
+            "tags": [
+                "Unity Studio",
+                "3D workflows",
+                "Collaboration tools",
+                "Export features"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/unity-studio-collaboration-editor-export",
+                "date": "2026-05-18T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Studio has released two major updates: collaboration features for real-time team alignment and a seamless Studio-to-Editor Export for scaling projects without rebuilding. These updates aim to reduce fragmented feedback loops, developer bottlenecks, and disconnected toolchains in 3D creation.",
+            "whyItMatters": "The updates address core challenges in scaling interactive 3D creation, enabling teams to work more efficiently and effectively. This can lead to faster time-to-market and improved collaboration between design and engineering departments.",
+            "howToUse": "Start a free trial of Unity Studio to explore the web-based editor and dive into Unity's documentation to integrate these tools with existing pipelines. Leverage the new collaboration features for real-time feedback and the Studio-to-Editor Export for seamless project scaling.",
+            "beneficiaries": [
+                "Design teams",
+                "Technical leads",
+                "Developers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-9qp9hcso0",
+            "title": "ZIT v4.0 Released",
+            "subtitle": "IntoRealism's ZImage Checkpoint updates to version 4.0 on Civitai",
+            "category": "AI",
+            "tags": [
+                "ZIT",
+                "ZImage",
+                "Civitai",
+                "IntoRealism"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9salRKRjRJVVRXWDRfUC10dXplakpLSFpoZzV2U3Y1clJPbXR3REhZQ2NjZ09lY2hHcHZDTGZCcV9nYlI4N2wyVk9IY3RfSGRaTlJNQ1V3M2t1UQ?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "IntoRealism's ZIT v4.0 update brings new features to ZImage Checkpoint on Civitai, enhancing image generation capabilities. The update focuses on improving realism in generated images. Civitai's platform supports the latest version, making it accessible to users.",
+            "whyItMatters": "The update is significant for AI art generation, offering improved realism and potentially expanding the creative possibilities for artists and developers. This could lead to more realistic and engaging visual content in various applications, including gaming and simulations.",
+            "howToUse": "Users can access ZIT v4.0 through Civitai's platform, where they can utilize the updated ZImage Checkpoint for their image generation needs, following the platform's guidelines and tutorials for optimal results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-9032bkrtd",
+            "title": "PNG Cutout Prompts",
+            "subtitle": "PromptHero shares best PNG-style cutout prompts for AI art generation",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "PNG Cutouts",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRklSemxWMzJkYWc3SHhfaVBySmxUa25adk8yY2lHRjFBYXpJcE45ak81cTZjdGw1REhhdHNMdXZJZl9tc1ZZZ1V5ZENyYUg4bUJveWZKUTY5bU5x?oc=5",
+                "date": "2026-05-11T15:52:43.000Z"
+            },
+            "whatsNew": "PromptHero releases a list of the best PNG-style cutout prompts for AI art generation, allowing users to create high-quality cutout images with ease. These prompts can be used with various AI models to produce consistent results. The list includes a wide range of prompts for different objects and scenes.",
+            "whyItMatters": "The release of these prompts can significantly improve the quality of AI-generated cutout images, making them more useful for various applications such as graphic design, advertising, and gaming. This can also lead to increased adoption of AI art generation tools among professionals and hobbyists.",
+            "howToUse": "Users can visit the PromptHero website to access the list of prompts and use them with their preferred AI art generation tool to create high-quality PNG-style cutout images. Experimenting with different prompts and models can help achieve the desired results.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-l9ojci5a9",
             "title": "CFTC Sues Minnesota",
@@ -47,7 +144,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-sma4rzk9a",
@@ -78,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-93jw7qink",
@@ -109,7 +206,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-h2dkn3pjz",
@@ -138,7 +235,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-djhoo3v2u",
@@ -1974,37 +2071,6 @@
             "isNew": false
         },
         {
-            "id": "t-ghqp1ffc2",
-            "title": "Lottomatica Prediction",
-            "subtitle": "Lottomatica claims prediction markets won't succeed in Europe",
-            "category": "iGaming",
-            "tags": [
-                "Lottomatica",
-                "Prediction Markets",
-                "Europe"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGFoN0NPWGZuVWd0bDQ2Vms0YnQyQkJWZzFWYUFaZzBhQnRRVUFHSVJDQTVwWm1NWFVBd0NWSU10X2pUMUx2VXZtMmJpZ0VGT1Rhb3hXNEoxTzh0UUxLLWNfQzFLdmJNeGFURW1mUk1uUjhQYkR6RHBXT2hKVVRTREp4TU00UW9wbU1qdk5tZkxPcGs0RVc0QWpxU1FPUQ?oc=5",
-                "date": "2026-05-06T14:55:08.000Z"
-            },
-            "whatsNew": "Lottomatica has expressed doubts about the potential of prediction markets in Europe, citing regulatory and cultural factors. The company believes that the European market may not be receptive to this type of betting. This stance is noteworthy given Lottomatica's significant presence in the European gaming sector.",
-            "whyItMatters": "Lottomatica's prediction could impact the strategic decisions of other gaming operators and investors considering the European market. It highlights the complexities and challenges of expanding into new markets, especially with innovative products like prediction markets.",
-            "howToUse": "Operators should carefully assess regulatory landscapes and consumer preferences before entering the European prediction market. They should also consider alternative strategies that align with local tastes and legal frameworks.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Lottomatica"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-2shht6oj7",
             "title": "Flutter Q1 Earnings",
             "subtitle": "Key takeaways from Flutter's Q1 earnings report, focusing on iGaming industry performance and trends",
@@ -2340,35 +2406,6 @@
             "visualStyle": null,
             "cluster": "ai-automation",
             "isNew": false
-        },
-        {
-            "id": "t-s9n8tursq",
-            "title": "Regulation Update",
-            "subtitle": "Recent regulatory changes in Washington DC, Louisiana, Oklahoma, and other regions",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "iGaming",
-                "Licensing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3F6WHhucllsNlVBdUgzb1lJbmdleTcxWG84cEdrakMwcmo3bVFlcHlsVW53YjJCYjFQaU1GNlpkMmFERFNjMFNPTzVNVklxd2lKaUE2c21lRHkxaUVya0FzMm5BQVcyUXRadGJQelROZk5lSzBnOUw2LWtsRUtPRDFJTU95YV9KRHBROG9NTFoyWGd2Wm85N28tWlRYS1lNeEVPQw?oc=5",
-                "date": "2026-05-06T14:30:18.000Z"
-            },
-            "whatsNew": "Washington DC, Louisiana, and Oklahoma have introduced new regulatory changes affecting the iGaming industry. These changes aim to provide a clearer framework for operators and players alike.",
-            "whyItMatters": "The updated regulations will impact the operations of iGaming companies, influencing their ability to offer services in these regions. This, in turn, affects the overall growth and development of the iGaming market.",
-            "howToUse": "Operators should review and adapt to the new regulations to ensure compliance and maintain their licenses. This may involve updating their terms of service, age verification processes, and responsible gaming policies.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2525,7 +2562,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": null
         },
         {
@@ -2544,7 +2581,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2553,7 +2590,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2562,7 +2599,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "Regulatory updates"
         },
         {
@@ -2580,7 +2617,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2589,7 +2626,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2609,7 +2646,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-20T09:26:47.193Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2667,7 +2704,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T09:26:47.193Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2676,7 +2713,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T09:26:47.193Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2685,7 +2722,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T09:26:47.193Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": "Style browsing signal"
         },
         {
@@ -2722,7 +2759,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T09:26:47.193Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": null
         },
         {
@@ -2812,7 +2849,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T12:21:28.203Z",
+            "lastScan": "2026-05-20T16:23:07.635Z",
             "note": null
         },
         {
@@ -25181,6 +25218,66 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-ghqp1ffc2",
+            "title": "Lottomatica Prediction",
+            "subtitle": "Lottomatica claims prediction markets won't succeed in Europe",
+            "category": "iGaming",
+            "tags": [
+                "Lottomatica",
+                "Prediction Markets",
+                "Europe"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGFoN0NPWGZuVWd0bDQ2Vms0YnQyQkJWZzFWYUFaZzBhQnRRVUFHSVJDQTVwWm1NWFVBd0NWSU10X2pUMUx2VXZtMmJpZ0VGT1Rhb3hXNEoxTzh0UUxLLWNfQzFLdmJNeGFURW1mUk1uUjhQYkR6RHBXT2hKVVRTREp4TU00UW9wbU1qdk5tZkxPcGs0RVc0QWpxU1FPUQ?oc=5",
+                "date": "2026-05-06T14:55:08.000Z"
+            },
+            "whatsNew": "Lottomatica has expressed doubts about the potential of prediction markets in Europe, citing regulatory and cultural factors. The company believes that the European market may not be receptive to this type of betting. This stance is noteworthy given Lottomatica's significant presence in the European gaming sector.",
+            "whyItMatters": "Lottomatica's prediction could impact the strategic decisions of other gaming operators and investors considering the European market. It highlights the complexities and challenges of expanding into new markets, especially with innovative products like prediction markets.",
+            "howToUse": "Operators should carefully assess regulatory landscapes and consumer preferences before entering the European prediction market. They should also consider alternative strategies that align with local tastes and legal frameworks.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Lottomatica"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-s9n8tursq",
+            "title": "Regulation Update",
+            "subtitle": "Recent regulatory changes in Washington DC, Louisiana, Oklahoma, and other regions",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3F6WHhucllsNlVBdUgzb1lJbmdleTcxWG84cEdrakMwcmo3bVFlcHlsVW53YjJCYjFQaU1GNlpkMmFERFNjMFNPTzVNVklxd2lKaUE2c21lRHkxaUVya0FzMm5BQVcyUXRadGJQelROZk5lSzBnOUw2LWtsRUtPRDFJTU95YV9KRHBROG9NTFoyWGd2Wm85N28tWlRYS1lNeEVPQw?oc=5",
+                "date": "2026-05-06T14:30:18.000Z"
+            },
+            "whatsNew": "Washington DC, Louisiana, and Oklahoma have introduced new regulatory changes affecting the iGaming industry. These changes aim to provide a clearer framework for operators and players alike.",
+            "whyItMatters": "The updated regulations will impact the operations of iGaming companies, influencing their ability to offer services in these regions. This, in turn, affects the overall growth and development of the iGaming market.",
+            "howToUse": "Operators should review and adapt to the new regulations to ensure compliance and maintain their licenses. This may involve updating their terms of service, age verification processes, and responsible gaming policies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
