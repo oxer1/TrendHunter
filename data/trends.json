@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-20T19:22:21.141Z",
+        "scanDate": "2026-05-20T21:50:01.800Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -1885,37 +1885,6 @@
             "isNew": false
         },
         {
-            "id": "t-4rmydkoi4",
-            "title": "AI Art Style",
-            "subtitle": "Chinese ink wash art style generated using AI prompts",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Ink Wash",
-                "Art Style"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUUxSc3Myal9mb1B0UUFQbFJwaGdqSl9JaWliMi15bFBHS0pFLTlQXzUwTmJHYnZvZ01JQVhoeG1zYV91RjZRZE5sU0VLZTBOamlNSFlVcnpUdHk2N3RBVlE2WjRKS2ZFMVcwQl94T1dxWEpOY2VUTWM5SEdybzhwVjI2ZTJydktKcGJHUWRpdXVGNXpVZUw2ZjFaaWtIVUNqXzlsM3FfaFFBOHo1SExWMFJtaUFyVGFhYjd0cUZtck1VYkU0R2VXR1FYejVYbElrRHVKZ21ONEdDQnZXc1B6c2pyaEdaMERnX2hHNHFsZVNfR3lLX1ZYY3MyaDJESHM?oc=5",
-                "date": "2026-05-06T20:48:20.000Z"
-            },
-            "whatsNew": "The use of AI to generate Chinese ink wash art style is a new trend, allowing for unique and ferocious designs, such as a tiger. This style is typically characterized by bold brushstrokes and vivid ink colors.",
-            "whyItMatters": "This trend matters because it showcases the versatility of AI in art generation, enabling the creation of diverse and culturally-inspired art styles. It also opens up new possibilities for artists and designers to explore traditional techniques with modern tools.",
-            "howToUse": "To utilize this trend, artists can experiment with AI prompt tools like PromptHero to generate their own Chinese ink wash-inspired art, or use the style as a reference for traditional art pieces.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-2ezxbn9zx",
             "title": "Flutter Revenue",
             "subtitle": "Flutter's revenue increases by 17%, but US performance affects share price",
@@ -2531,7 +2500,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": null
         },
         {
@@ -2550,7 +2519,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2559,7 +2528,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2568,7 +2537,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": "Regulatory updates"
         },
         {
@@ -2586,7 +2555,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2595,7 +2564,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2615,7 +2584,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2673,7 +2642,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2818,7 +2787,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T19:22:21.141Z",
+            "lastScan": "2026-05-20T21:50:01.800Z",
             "note": null
         },
         {
@@ -25278,6 +25247,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-4rmydkoi4",
+            "title": "AI Art Style",
+            "subtitle": "Chinese ink wash art style generated using AI prompts",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Ink Wash",
+                "Art Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUUxSc3Myal9mb1B0UUFQbFJwaGdqSl9JaWliMi15bFBHS0pFLTlQXzUwTmJHYnZvZ01JQVhoeG1zYV91RjZRZE5sU0VLZTBOamlNSFlVcnpUdHk2N3RBVlE2WjRKS2ZFMVcwQl94T1dxWEpOY2VUTWM5SEdybzhwVjI2ZTJydktKcGJHUWRpdXVGNXpVZUw2ZjFaaWtIVUNqXzlsM3FfaFFBOHo1SExWMFJtaUFyVGFhYjd0cUZtck1VYkU0R2VXR1FYejVYbElrRHVKZ21ONEdDQnZXc1B6c2pyaEdaMERnX2hHNHFsZVNfR3lLX1ZYY3MyaDJESHM?oc=5",
+                "date": "2026-05-06T20:48:20.000Z"
+            },
+            "whatsNew": "The use of AI to generate Chinese ink wash art style is a new trend, allowing for unique and ferocious designs, such as a tiger. This style is typically characterized by bold brushstrokes and vivid ink colors.",
+            "whyItMatters": "This trend matters because it showcases the versatility of AI in art generation, enabling the creation of diverse and culturally-inspired art styles. It also opens up new possibilities for artists and designers to explore traditional techniques with modern tools.",
+            "howToUse": "To utilize this trend, artists can experiment with AI prompt tools like PromptHero to generate their own Chinese ink wash-inspired art, or use the style as a reference for traditional art pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
