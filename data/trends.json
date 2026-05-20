@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-20T05:02:36.097Z",
+        "scanDate": "2026-05-20T09:26:47.192Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-djhoo3v2u",
+            "title": "NJ Sportsbooks",
+            "subtitle": "New Jersey sportsbooks reach $100m in April revenue",
+            "category": "iGaming",
+            "tags": [
+                "sports betting",
+                "revenue",
+                "New Jersey"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWdKbjdTSEFsMVZHNVo0SWdxUVJfU1c0QmJSeEpHRGhrd3V0M2hMcnkxR0o4QnhtRC1PeUk5ZWUzb0JVM2VZRUxWNVFmYTNxYm5VMjlZY2dfY0VYUlBteWMzUzNjdnpTMmNFSDhGa3U5d3ZxWlJiR0dDOG40SGlmRF8wUTg1dzBvckNhbkV5WFFvcHFC?oc=5",
+                "date": "2026-05-18T07:00:00.000Z"
+            },
+            "whatsNew": "New Jersey sportsbooks have surpassed $100m in revenue for the month of April, marking a significant milestone in the state's sports betting industry. This growth is attributed to increased betting activity and new market entrants. The state's sports betting market continues to expand, with more operators and betting options available to consumers.",
+            "whyItMatters": "The revenue milestone highlights the growing importance of sports betting in New Jersey's gaming industry, with potential implications for other states considering similar regulations. It also underscores the need for operators to innovate and compete in a crowded market.",
+            "howToUse": "Operators can leverage this trend by investing in targeted marketing campaigns and enhancing their product offerings to attract and retain customers in New Jersey's competitive sports betting market.",
+            "beneficiaries": [
+                "sportsbook operators",
+                "gaming regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-pm5eg6o8l",
+            "title": "Gemini Video",
+            "subtitle": "OpenArt announces the upcoming release of Gemini Omni Video Generator",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Video Generation",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11NFBObFQtdEdTODIzOUl4MDdNSE14YUpYOE1lcEY4VnRhWmZWOGhFa3loUTEyWTZJdDJhQVdMeGhGN2prMHE5RUR5RkRjcXBnaXc?oc=5",
+                "date": "2026-05-19T20:52:37.000Z"
+            },
+            "whatsNew": "OpenArt is set to release the Gemini Omni Video Generator, a new tool for generating videos using AI. The exact features and capabilities are not yet disclosed, but it is expected to be a significant development in AI video tools.",
+            "whyItMatters": "The Gemini Omni Video Generator has the potential to revolutionize video content creation, making it easier and more accessible for creators to produce high-quality videos. This could have a significant impact on the gaming and iGaming industries, where video content is increasingly important.",
+            "howToUse": "Once released, the Gemini Omni Video Generator can be used by creators to generate videos for various purposes, including game trailers, tutorials, and promotional materials. It is likely to be particularly useful for indie game developers and small studios with limited resources.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-vruznn9xm",
             "title": "AI Image Prompt",
@@ -50,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xogst09k6",
@@ -82,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-z3xg82a1y",
@@ -2071,38 +2131,6 @@
             "isNew": false
         },
         {
-            "id": "t-mj70j33p5",
-            "title": "Juggernaut Z Released",
-            "subtitle": "RunDiffusion releases Juggernaut Z, a ZImage checkpoint on Civitai",
-            "category": "AI",
-            "tags": [
-                "ZImage",
-                "RunDiffusion",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVG1QQ3d6ZVJmSEQ1VEVMT2xoVGRDM1JyNXdiMjlTMlN4MEhkZzZ0aTdaaXB0Y0RTVkNNUDhCazdRZ1hQck5DYUh1eXB1VHpOaUNCUlVuX2tRYUU?oc=5",
-                "date": "2026-05-06T07:00:00.000Z"
-            },
-            "whatsNew": "Juggernaut Z is a new ZImage checkpoint released by RunDiffusion, available on Civitai. This checkpoint is part of the ZImage series, which focuses on AI image generation. The release of Juggernaut Z indicates ongoing development in AI art generation.",
-            "whyItMatters": "The release of Juggernaut Z matters because it showcases advancements in AI image generation, potentially impacting the visual design and art trends in various industries, including gaming and entertainment.",
-            "howToUse": "Developers and artists can utilize Juggernaut Z by integrating it into their AI pipelines for generating high-quality images, exploring new visual styles, and automating certain aspects of the creative process.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "RunDiffusion"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-qeeynsq2m",
             "title": "Entain Seeks Ban",
             "subtitle": "Entain calls for a ban on unlicensed gambling sponsorships in English football",
@@ -2408,7 +2436,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": null
         },
         {
@@ -2427,7 +2455,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2436,7 +2464,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2445,7 +2473,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "Regulatory updates"
         },
         {
@@ -2463,7 +2491,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2472,7 +2500,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2492,7 +2520,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2550,7 +2578,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2559,7 +2587,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2568,7 +2596,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": "Style browsing signal"
         },
         {
@@ -2605,7 +2633,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": null
         },
         {
@@ -2614,7 +2642,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": null
         },
         {
@@ -2623,7 +2651,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": null
         },
         {
@@ -2695,7 +2723,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-20T09:26:47.193Z",
             "note": null
         },
         {
@@ -25001,6 +25029,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-mj70j33p5",
+            "title": "Juggernaut Z Released",
+            "subtitle": "RunDiffusion releases Juggernaut Z, a ZImage checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "ZImage",
+                "RunDiffusion",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVG1QQ3d6ZVJmSEQ1VEVMT2xoVGRDM1JyNXdiMjlTMlN4MEhkZzZ0aTdaaXB0Y0RTVkNNUDhCazdRZ1hQck5DYUh1eXB1VHpOaUNCUlVuX2tRYUU?oc=5",
+                "date": "2026-05-06T07:00:00.000Z"
+            },
+            "whatsNew": "Juggernaut Z is a new ZImage checkpoint released by RunDiffusion, available on Civitai. This checkpoint is part of the ZImage series, which focuses on AI image generation. The release of Juggernaut Z indicates ongoing development in AI art generation.",
+            "whyItMatters": "The release of Juggernaut Z matters because it showcases advancements in AI image generation, potentially impacting the visual design and art trends in various industries, including gaming and entertainment.",
+            "howToUse": "Developers and artists can utilize Juggernaut Z by integrating it into their AI pipelines for generating high-quality images, exploring new visual styles, and automating certain aspects of the creative process.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "RunDiffusion"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
