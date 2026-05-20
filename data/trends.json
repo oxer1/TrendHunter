@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-20T16:23:07.635Z",
+        "scanDate": "2026-05-20T19:22:21.141Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -51,7 +51,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9qp9hcso0",
@@ -83,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9032bkrtd",
@@ -115,7 +115,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-l9ojci5a9",
@@ -2375,37 +2375,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-6qmxi30ck",
-            "title": "LTX2.3 Released",
-            "subtitle": "Civitai launches LTX2.3 with multiple AI tools integration",
-            "category": "AI",
-            "tags": [
-                "AI Tools",
-                "LTX2.3",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObVBtTjRzSVNwRDRQTWtZRi1uLTZudnQxWVlVcDBwT1J6bFV2VGJVaDVyd0ZBRlhReTQyZUhmcTZaQ0V2dDNLQVRqQUd2OTFDY3ZPdGJtT0NuV1ViQnBmNVU1V2xJUWNMbDJWZmFueW1kdzNzLU1HdVFneXNyNUNIdDVEcXVUVG5BRWwxdlFiMlNqdmdyU0t4c2tHeU9rN3hJeFFLb3lnQlhnOHc0cGQxdlBQdVRMZXRqQ3h3VDFYVTlEZw?oc=5",
-                "date": "2026-05-06T17:09:43.000Z"
-            },
-            "whatsNew": "LTX2.3 integrates Prompt Relay, ID LoRA, ControlNet, Detailer, Upscaler, Custom Audio, and Keyframes into one platform. This all-in-one solution aims to streamline AI workflows. Civitai's release signifies a major update in AI tool integration.",
-            "whyItMatters": "The integration of multiple AI tools into LTX2.3 can significantly enhance productivity and efficiency for users, especially in creative and development fields. This could set a new standard for AI tool suites.",
-            "howToUse": "Users can leverage LTX2.3 by exploring its various integrated tools to automate and enhance their workflows, from prompt relaying to custom audio and keyframe management.",
-            "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2562,7 +2531,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": null
         },
         {
@@ -2581,7 +2550,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2590,7 +2559,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2599,7 +2568,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": "Regulatory updates"
         },
         {
@@ -2617,7 +2586,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2626,7 +2595,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2646,7 +2615,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2704,7 +2673,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2849,7 +2818,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T16:23:07.635Z",
+            "lastScan": "2026-05-20T19:22:21.141Z",
             "note": null
         },
         {
@@ -25278,6 +25247,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-6qmxi30ck",
+            "title": "LTX2.3 Released",
+            "subtitle": "Civitai launches LTX2.3 with multiple AI tools integration",
+            "category": "AI",
+            "tags": [
+                "AI Tools",
+                "LTX2.3",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObVBtTjRzSVNwRDRQTWtZRi1uLTZudnQxWVlVcDBwT1J6bFV2VGJVaDVyd0ZBRlhReTQyZUhmcTZaQ0V2dDNLQVRqQUd2OTFDY3ZPdGJtT0NuV1ViQnBmNVU1V2xJUWNMbDJWZmFueW1kdzNzLU1HdVFneXNyNUNIdDVEcXVUVG5BRWwxdlFiMlNqdmdyU0t4c2tHeU9rN3hJeFFLb3lnQlhnOHc0cGQxdlBQdVRMZXRqQ3h3VDFYVTlEZw?oc=5",
+                "date": "2026-05-06T17:09:43.000Z"
+            },
+            "whatsNew": "LTX2.3 integrates Prompt Relay, ID LoRA, ControlNet, Detailer, Upscaler, Custom Audio, and Keyframes into one platform. This all-in-one solution aims to streamline AI workflows. Civitai's release signifies a major update in AI tool integration.",
+            "whyItMatters": "The integration of multiple AI tools into LTX2.3 can significantly enhance productivity and efficiency for users, especially in creative and development fields. This could set a new standard for AI tool suites.",
+            "howToUse": "Users can leverage LTX2.3 by exploring its various integrated tools to automate and enhance their workflows, from prompt relaying to custom audio and keyframe management.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
