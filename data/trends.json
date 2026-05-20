@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-20T21:50:01.800Z",
+        "scanDate": "2026-05-20T23:09:38.859Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -1853,38 +1853,6 @@
             "isNew": false
         },
         {
-            "id": "t-gkm43xdmo",
-            "title": "FanDuel CEO Departs",
-            "subtitle": "FanDuel CEO leaves, Flutter International boss takes over as group president",
-            "category": "iGaming",
-            "tags": [
-                "FanDuel",
-                "Flutter International",
-                "iGaming Leadership"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2pIX2x5Rlc1UnNSZXlLV2d4TWRkTVdTSHIwMHJNaUg4SzZVOWowS1RsQmR2QXhJejlHSnEyVEdvTXhQeHhJOXo2OHFWSzVWN21EZEJwNmlJNVBYZnZ5M3lmY2JoNkNtdjlSNHVzVTNrMm9lbTBkWXE5cGJrMVVnaWtxVGRrTnNSS3FpbDkzS0Y4RHRXN01weVZiS1FQZ3l2ZWdrOUpYVnZsUWc?oc=5",
-                "date": "2026-05-06T21:52:39.000Z"
-            },
-            "whatsNew": "FanDuel's CEO has departed, and the boss of Flutter International has been named the new group president. This change in leadership may impact the company's strategy and direction.",
-            "whyItMatters": "The change in leadership could affect FanDuel's position in the iGaming market and influence the company's future decisions. This move may also have implications for the broader iGaming industry.",
-            "howToUse": "Companies in the iGaming industry should monitor this development and consider how it may impact their own strategies and partnerships.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "FanDuel",
-                "Flutter International"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-2ezxbn9zx",
             "title": "Flutter Revenue",
             "subtitle": "Flutter's revenue increases by 17%, but US performance affects share price",
@@ -2500,7 +2468,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T21:50:01.800Z",
+            "lastScan": "2026-05-20T23:09:38.859Z",
             "note": null
         },
         {
@@ -2519,7 +2487,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-20T21:50:01.800Z",
+            "lastScan": "2026-05-20T23:09:38.859Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2787,7 +2755,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T21:50:01.800Z",
+            "lastScan": "2026-05-20T23:09:38.859Z",
             "note": null
         },
         {
@@ -25278,6 +25246,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gkm43xdmo",
+            "title": "FanDuel CEO Departs",
+            "subtitle": "FanDuel CEO leaves, Flutter International boss takes over as group president",
+            "category": "iGaming",
+            "tags": [
+                "FanDuel",
+                "Flutter International",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2pIX2x5Rlc1UnNSZXlLV2d4TWRkTVdTSHIwMHJNaUg4SzZVOWowS1RsQmR2QXhJejlHSnEyVEdvTXhQeHhJOXo2OHFWSzVWN21EZEJwNmlJNVBYZnZ5M3lmY2JoNkNtdjlSNHVzVTNrMm9lbTBkWXE5cGJrMVVnaWtxVGRrTnNSS3FpbDkzS0Y4RHRXN01weVZiS1FQZ3l2ZWdrOUpYVnZsUWc?oc=5",
+                "date": "2026-05-06T21:52:39.000Z"
+            },
+            "whatsNew": "FanDuel's CEO has departed, and the boss of Flutter International has been named the new group president. This change in leadership may impact the company's strategy and direction.",
+            "whyItMatters": "The change in leadership could affect FanDuel's position in the iGaming market and influence the company's future decisions. This move may also have implications for the broader iGaming industry.",
+            "howToUse": "Companies in the iGaming industry should monitor this development and consider how it may impact their own strategies and partnerships.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "FanDuel",
+                "Flutter International"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
