@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-21T10:41:13.929Z",
+        "scanDate": "2026-05-21T14:13:25.024Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-a6vkfbtoh",
+            "title": "Unity Expands ROAS",
+            "subtitle": "Unity Vector now supports D28 Ad Revenue ROAS and Hybrid ROAS campaigns for mobile game monetization",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "ROAS",
+                "Monetization",
+                "Mobile Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/d28-roas",
+                "date": "2026-05-21T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Vector expands to support D28 Ad Revenue ROAS and D28 Hybrid ROAS campaigns, allowing advertisers to optimize for users whose value builds over time through ad engagement, purchases, or both. The new campaign types deliver significantly higher retention and ARPU compared to D7 campaigns.",
+            "whyItMatters": "The expansion of Unity Vector's ROAS suite enables advertisers to capture long-term player value and acquire users whose value builds beyond the first week, leading to increased revenue and retention. This development is particularly important for mobile games where ad revenue is a primary monetization stream or where both in-app purchases and ad revenue contribute to user value.",
+            "howToUse": "Advertisers can log in to Unity Vector to start optimizing their campaigns with D28 Ad Revenue ROAS and D28 Hybrid ROAS, setting targets by country and dynamically adjusting bids to optimize toward those targets.",
+            "beneficiaries": [
+                "Mobile Game Developers",
+                "Advertisers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-8dukq2t1r",
+            "title": "Better Collective Grows",
+            "subtitle": "Better Collective's Q1 revenue increases by 5% with international Playbook push",
+            "category": "iGaming",
+            "tags": [
+                "Better Collective",
+                "Q1 Revenue",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlJFQ19fUnh3c1JPV0RsdTFaczNodHFfZmgyblZ5bXZILVdVLTZodWxCQ2h6aGt2cjdfTmRMOUpaamE5eGR4STQ0djdRSzFfMXZTVVplZVlYSWVBbGJzR2xkckxmVlNGLVpUcUxzN2c2aGtmdGJobWpQcG1kUlR2akZVR2ZYUmtzaGJNSmZjcjE1eDdkMWVxU2U1TWtzUnpCYmNmWXRoZkxoX1RIMGc?oc=5",
+                "date": "2026-05-21T09:03:27.000Z"
+            },
+            "whatsNew": "Better Collective has seen a 5% increase in Q1 revenue, driven by its international Playbook push. This move aims to expand the company's reach globally. The revenue growth indicates a positive start to the year for the company.",
+            "whyItMatters": "The growth in revenue is significant for the iGaming industry as it shows the potential for expansion and increased engagement. Better Collective's international push could set a precedent for other companies in the sector.",
+            "howToUse": "Companies in the iGaming sector can learn from Better Collective's strategy and consider expanding their own international reach. This could involve investing in marketing and partnerships in new regions.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Affiliate Marketers"
+            ],
+            "companies": [
+                "Better Collective"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-gi7fnsiqh",
             "title": "COVID Rules End",
@@ -49,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-iyl9i5rnw",
@@ -2134,37 +2197,6 @@
             "isNew": false
         },
         {
-            "id": "t-2shht6oj7",
-            "title": "Flutter Q1 Earnings",
-            "subtitle": "Key takeaways from Flutter's Q1 earnings report, focusing on iGaming industry performance and trends",
-            "category": "iGaming",
-            "tags": [
-                "Flutter",
-                "Q1 Earnings",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZLN0xEcFhld08yZmZYRVg1dkVMS2dPUEhyVTB3dDNaRVM5OHktSjI1MjE0NUZHTlNHckpMTjVzOWJMY3YzNDRpRDBqYUZ4c21VUllrRE5MWkotQ3hCNENUbXcta2hRVnVFSkY4RU82ZEJNTjZnYmFfNncwZkZtY0Z1NTlZWEJaem14TDhNQQ?oc=5",
-                "date": "2026-05-07T11:32:53.000Z"
-            },
-            "whatsNew": "Flutter's Q1 earnings report highlights the company's performance in the iGaming sector, with insights into revenue growth, market trends, and strategic developments. The report underscores the importance of adapting to regulatory changes and investing in innovative technologies. Flutter's earnings also reflect the impact of shifting consumer behaviors and preferences in the online gaming market.",
-            "whyItMatters": "The earnings report provides valuable insights into the current state of the iGaming industry, shedding light on opportunities, challenges, and future prospects. As a major player in the sector, Flutter's performance has significant implications for the industry as a whole.",
-            "howToUse": "Industry stakeholders can leverage the report's findings to inform their strategic decisions, optimize operations, and capitalize on emerging trends. By analyzing Flutter's earnings and performance, companies can gain a deeper understanding of the iGaming landscape and identify areas for growth and improvement.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Industry analysts"
-            ],
-            "companies": [
-                "Flutter"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-hvydz4so6",
             "title": "DraftKings Revenue",
             "subtitle": "DraftKings Q1 revenue increases by 17% due to strong sports betting performance",
@@ -2534,7 +2566,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": null
         },
         {
@@ -2553,7 +2585,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2562,7 +2594,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2571,7 +2603,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": "Regulatory updates"
         },
         {
@@ -2589,7 +2621,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2598,7 +2630,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2618,7 +2650,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2676,7 +2708,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2821,7 +2853,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T10:41:13.930Z",
+            "lastScan": "2026-05-21T14:13:25.024Z",
             "note": null
         },
         {
@@ -25404,6 +25436,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-2shht6oj7",
+            "title": "Flutter Q1 Earnings",
+            "subtitle": "Key takeaways from Flutter's Q1 earnings report, focusing on iGaming industry performance and trends",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Q1 Earnings",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWZLN0xEcFhld08yZmZYRVg1dkVMS2dPUEhyVTB3dDNaRVM5OHktSjI1MjE0NUZHTlNHckpMTjVzOWJMY3YzNDRpRDBqYUZ4c21VUllrRE5MWkotQ3hCNENUbXcta2hRVnVFSkY4RU82ZEJNTjZnYmFfNncwZkZtY0Z1NTlZWEJaem14TDhNQQ?oc=5",
+                "date": "2026-05-07T11:32:53.000Z"
+            },
+            "whatsNew": "Flutter's Q1 earnings report highlights the company's performance in the iGaming sector, with insights into revenue growth, market trends, and strategic developments. The report underscores the importance of adapting to regulatory changes and investing in innovative technologies. Flutter's earnings also reflect the impact of shifting consumer behaviors and preferences in the online gaming market.",
+            "whyItMatters": "The earnings report provides valuable insights into the current state of the iGaming industry, shedding light on opportunities, challenges, and future prospects. As a major player in the sector, Flutter's performance has significant implications for the industry as a whole.",
+            "howToUse": "Industry stakeholders can leverage the report's findings to inform their strategic decisions, optimize operations, and capitalize on emerging trends. By analyzing Flutter's earnings and performance, companies can gain a deeper understanding of the iGaming landscape and identify areas for growth and improvement.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Industry analysts"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
