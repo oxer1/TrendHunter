@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-21T14:13:25.024Z",
+        "scanDate": "2026-05-21T17:30:06.840Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rgaab6na5",
+            "title": "RSI Latam Growth",
+            "subtitle": "RSI's president and CFO discusses Latam as a growth engine",
+            "category": "iGaming",
+            "tags": [
+                "RSI",
+                "Latam",
+                "Growth Engine"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnExRnZMWkhvOFF4MG0wcUtJN0ViYS1hZm12TGNHVVQzN1k4RlRxcnBKWmtpVEhnQ2JmLXo2cXVJLTBFblRDT3JaT1U4MTJHOHhQQkhhdXYxOFZWQWEzSmJCSm9mX2hXNEFMbTlXTUNXTXUtRnNPV2RKNjZuRmQyeTNkS0duX28zdk9EeTRIVm1mQ0NnTlZ2WnZxVlhqanNZLXNYMDdkQ1AyMkpDcmZ0bU1WZVlhTWRSX09Ua2JFMUNXT0o3Z29vM2NwbngxT1QwMVJ1QQ?oc=5",
+                "date": "2026-05-21T11:17:15.000Z"
+            },
+            "whatsNew": "RSI's president and CFO emphasizes the importance of Latam for the company's growth. The region is expected to drive growth for many years to come. RSI is focusing on this market for expansion.",
+            "whyItMatters": "The statement highlights the potential of the Latam market for iGaming companies. It also showcases RSI's strategic focus on the region for future growth.",
+            "howToUse": "Companies can learn from RSI's strategy and consider expanding into the Latam market. This can be done by researching local regulations and partnering with regional operators.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "RSI"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-a6vkfbtoh",
             "title": "Unity Expands ROAS",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8dukq2t1r",
@@ -81,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gi7fnsiqh",
@@ -2042,37 +2073,6 @@
             "isNew": false
         },
         {
-            "id": "t-2ezxbn9zx",
-            "title": "Flutter Revenue",
-            "subtitle": "Flutter's revenue increases by 17%, but US performance affects share price",
-            "category": "iGaming",
-            "tags": [
-                "Flutter",
-                "Revenue",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2tKT1RWX3JUZE1RdUYyZGhvb0hrTEV0ZlhKWk54ZnhDcEVreHF2d0ozdFlsWnhOeDZUQUZ2TFBXbHNDVFhqc3ZNN2U1MW9QZGU4R0F4TlhBRS1faVFzMTBCak1BQ0gxZmVqdk1raE9vX0NMRDNrTjY5ems0NjVfeDVRWGFfcEdVNHpmY25BZlBNOWxtVlZfQXZiLVhTQnRCaVRpM3J3VzhPbkRuMWc?oc=5",
-                "date": "2026-05-07T15:18:14.000Z"
-            },
-            "whatsNew": "Flutter's revenue has increased by 17%, however, the company's share price has been impacted by softer performance in the US market. This indicates a mixed bag for the company's financials.",
-            "whyItMatters": "The performance of major iGaming companies like Flutter can indicate trends in the industry, and a softer US performance may signal challenges for other operators. This can impact the overall growth and investment in the iGaming sector.",
-            "howToUse": "Operators can use this information to assess their own performance in the US market and adjust their strategies accordingly. Investors can also use this data to make informed decisions about their investments in the iGaming industry.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Flutter"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-woxevqsip",
             "title": "AI Model Release",
             "subtitle": "Civitai releases Rebels Sulphur 2 GGUF, an NSFW AI model",
@@ -2379,37 +2379,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-qeeynsq2m",
-            "title": "Entain Seeks Ban",
-            "subtitle": "Entain calls for a ban on unlicensed gambling sponsorships in English football",
-            "category": "iGaming",
-            "tags": [
-                "Entain",
-                "English Football",
-                "Unlicensed Sponsorships"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWG52aVN4eTkyMzlMT1U4VmFsejlQa1ZwdVd2TnRHNFBZcTVBcmV2d2lnaGpnYllOMk96RERaQVRfTVcybGxlam13MnNyUzFJQjB0OE42VTdtY05ha0dVRk1neTZ0ejhMWEJkUGlzNXRDUDlmQ1NNVGFNU05oSG9OOXg2LVpGWm1ZS0Zka3REUWctRTBuclNtLXR4YVh4TmszdVJEbEU3SUxwSm9aakNVZWlYUlVIQ0Yw?oc=5",
-                "date": "2026-05-07T14:18:08.000Z"
-            },
-            "whatsNew": "Entain is urging the English football regulator to prohibit sponsorships from unlicensed gambling operators. This move aims to promote a safer and more regulated gambling environment.",
-            "whyItMatters": "The ban could significantly impact the English football industry by reducing the presence of unlicensed operators and promoting responsible gambling practices. It may also set a precedent for other sports and jurisdictions.",
-            "howToUse": "Operators should ensure they hold the necessary licenses to sponsor English football teams, and regulators should enforce strict guidelines to prevent unlicensed sponsorships.",
-            "beneficiaries": [
-                "Licensed Operators",
-                "English Football Regulator"
-            ],
-            "companies": [
-                "Entain"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2566,7 +2535,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": null
         },
         {
@@ -2585,7 +2554,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2594,7 +2563,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2603,7 +2572,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": "Regulatory updates"
         },
         {
@@ -2621,7 +2590,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2630,7 +2599,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2650,7 +2619,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2708,7 +2677,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2853,7 +2822,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T14:13:25.024Z",
+            "lastScan": "2026-05-21T17:30:06.840Z",
             "note": null
         },
         {
@@ -25467,6 +25436,68 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2ezxbn9zx",
+            "title": "Flutter Revenue",
+            "subtitle": "Flutter's revenue increases by 17%, but US performance affects share price",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Revenue",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2tKT1RWX3JUZE1RdUYyZGhvb0hrTEV0ZlhKWk54ZnhDcEVreHF2d0ozdFlsWnhOeDZUQUZ2TFBXbHNDVFhqc3ZNN2U1MW9QZGU4R0F4TlhBRS1faVFzMTBCak1BQ0gxZmVqdk1raE9vX0NMRDNrTjY5ems0NjVfeDVRWGFfcEdVNHpmY25BZlBNOWxtVlZfQXZiLVhTQnRCaVRpM3J3VzhPbkRuMWc?oc=5",
+                "date": "2026-05-07T15:18:14.000Z"
+            },
+            "whatsNew": "Flutter's revenue has increased by 17%, however, the company's share price has been impacted by softer performance in the US market. This indicates a mixed bag for the company's financials.",
+            "whyItMatters": "The performance of major iGaming companies like Flutter can indicate trends in the industry, and a softer US performance may signal challenges for other operators. This can impact the overall growth and investment in the iGaming sector.",
+            "howToUse": "Operators can use this information to assess their own performance in the US market and adjust their strategies accordingly. Investors can also use this data to make informed decisions about their investments in the iGaming industry.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qeeynsq2m",
+            "title": "Entain Seeks Ban",
+            "subtitle": "Entain calls for a ban on unlicensed gambling sponsorships in English football",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "English Football",
+                "Unlicensed Sponsorships"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWG52aVN4eTkyMzlMT1U4VmFsejlQa1ZwdVd2TnRHNFBZcTVBcmV2d2lnaGpnYllOMk96RERaQVRfTVcybGxlam13MnNyUzFJQjB0OE42VTdtY05ha0dVRk1neTZ0ejhMWEJkUGlzNXRDUDlmQ1NNVGFNU05oSG9OOXg2LVpGWm1ZS0Zka3REUWctRTBuclNtLXR4YVh4TmszdVJEbEU3SUxwSm9aakNVZWlYUlVIQ0Yw?oc=5",
+                "date": "2026-05-07T14:18:08.000Z"
+            },
+            "whatsNew": "Entain is urging the English football regulator to prohibit sponsorships from unlicensed gambling operators. This move aims to promote a safer and more regulated gambling environment.",
+            "whyItMatters": "The ban could significantly impact the English football industry by reducing the presence of unlicensed operators and promoting responsible gambling practices. It may also set a precedent for other sports and jurisdictions.",
+            "howToUse": "Operators should ensure they hold the necessary licenses to sponsor English football teams, and regulators should enforce strict guidelines to prevent unlicensed sponsorships.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "English Football Regulator"
+            ],
+            "companies": [
+                "Entain"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
