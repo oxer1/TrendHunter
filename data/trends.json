@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-21T06:58:11.296Z",
+        "scanDate": "2026-05-21T10:41:13.929Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-gi7fnsiqh",
+            "title": "COVID Rules End",
+            "subtitle": "UK Gambling Commission closes COVID chapter, potentially impacting iGaming regulations",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "COVID",
+                "UKGC"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUw2dC1SSk1acVRYLXJjNjM5S3JubWtrQ183WEt3TEJhei1qMWszQ3dwNUNaOVJONTJXMWduSURVNlFYNjdyT0RzRFo0dnlNMjh4T1R4MXBoNVNCN0FzM2lxdWZnYlY5WGdwUTJ6azQ3YVl2MGVWTWNwWFlWNEx6Mmt3?oc=5",
+                "date": "2026-05-21T09:22:37.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has officially closed its chapter on COVID, marking a significant shift in how the industry operates post-pandemic. This change could lead to updates in health guidelines and operational protocols for iGaming operators. The move reflects a broader trend of governments reassessing pandemic-era regulations.",
+            "whyItMatters": "This development matters because it signals a return to pre-pandemic norms for the iGaming sector, which could influence consumer behavior and operator strategies. It also underscores the evolving regulatory landscape that iGaming businesses must navigate.",
+            "howToUse": "Operators should review their current practices to ensure compliance with the latest guidelines and be prepared to adapt to any new regulations that may arise from this change.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-iyl9i5rnw",
             "title": "AI Video Changer",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8ktb861gn",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tqtp0b3w6",
@@ -2256,37 +2287,6 @@
             "isNew": false
         },
         {
-            "id": "t-22rz5icwb",
-            "title": "GiG CTO Departs",
-            "subtitle": "GiG's chief technology officer announces departure as an active step toward retirement",
-            "category": "iGaming",
-            "tags": [
-                "GiG",
-                "CTO",
-                "Retirement"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMTNRZnU0Q1luZTNRTHhzZ1hScTFuOVdOYnZ2MGFmYlJfLThsQUFNVE1xeF9hMUZtOTBSYk1tQ0xBV0lZOW5VME8yZWUxbG5yLUhMWUpGblFtNE5FcmlsUG5tbGJXWTFERFh1SExmbVoxdkR2cHNLczZGS0RST1RzdG1CTGh3SF84UHM1bmwzWWw1bWNfOU96djZyUkRKLXZUTnhYeEZ5Ry12WjNCQzdSbHVtMVpBV0swaWFhemtJQ2stOEVaeVByUkR6N1kwTmJlQ2c?oc=5",
-                "date": "2026-05-07T08:43:30.000Z"
-            },
-            "whatsNew": "The chief technology officer of GiG has announced their departure in an active step toward retirement. This change may impact GiG's technology strategy and direction.",
-            "whyItMatters": "The departure of a key technology leader can influence the company's ability to innovate and adapt to changing market conditions, potentially affecting its competitiveness in the iGaming industry.",
-            "howToUse": "Companies in the iGaming sector should monitor leadership changes in key competitors and partners to anticipate potential shifts in strategy and technology adoption.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "GiG"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-u7yzvz31j",
             "title": "Graham License",
             "subtitle": "Wayne Newman Graham's trading names updated by UK Gambling Commission",
@@ -2375,35 +2375,6 @@
             "companies": [
                 "Entain"
             ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-vae9mnt5l",
-            "title": "New Head Sought",
-            "subtitle": "Gambling Commission seeks new head of illegal markets",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Illegal Markets",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHVXdHFVaDdBbzRhcGd2bFdscFJ4S0JSckZ0ZC02aVRkMjhIdjVVeDhpTHhjM2RITFZMd3dfTERRbGkwMDJMNUtnckpzNFRncWFIdWltanZIQzh5aWMtOFB4VnR6ZDJKTWVieEQ2a3dQcDgtRkJhV1BmSGRUY3BPYXpEZk9SR0hfUXlub2pFbGs4dw?oc=5",
-                "date": "2026-05-07T10:02:49.000Z"
-            },
-            "whatsNew": "The Gambling Commission is looking for a new head to oversee illegal markets, indicating a heightened focus on regulatory enforcement. This move suggests an increased effort to combat illegal gambling activities. The role is expected to play a crucial part in shaping the commission's strategy against unlicensed operators.",
-            "whyItMatters": "This development highlights the commission's commitment to protecting consumers and maintaining a fair, regulated market. It may lead to stricter enforcement and potentially impact the operations of licensed gaming operators.",
-            "howToUse": "Operators should ensure they are fully compliant with current regulations and prepare for potential increased scrutiny. They should also monitor updates from the commission regarding illegal market enforcement.",
-            "beneficiaries": [
-                "Licensed Operators",
-                "Consumers"
-            ],
-            "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
@@ -2563,7 +2534,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": null
         },
         {
@@ -2582,7 +2553,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2591,7 +2562,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2600,7 +2571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": "Regulatory updates"
         },
         {
@@ -2618,7 +2589,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2627,7 +2598,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2647,7 +2618,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2705,7 +2676,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2850,7 +2821,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-21T10:41:13.930Z",
             "note": null
         },
         {
@@ -25373,6 +25344,66 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-22rz5icwb",
+            "title": "GiG CTO Departs",
+            "subtitle": "GiG's chief technology officer announces departure as an active step toward retirement",
+            "category": "iGaming",
+            "tags": [
+                "GiG",
+                "CTO",
+                "Retirement"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMTNRZnU0Q1luZTNRTHhzZ1hScTFuOVdOYnZ2MGFmYlJfLThsQUFNVE1xeF9hMUZtOTBSYk1tQ0xBV0lZOW5VME8yZWUxbG5yLUhMWUpGblFtNE5FcmlsUG5tbGJXWTFERFh1SExmbVoxdkR2cHNLczZGS0RST1RzdG1CTGh3SF84UHM1bmwzWWw1bWNfOU96djZyUkRKLXZUTnhYeEZ5Ry12WjNCQzdSbHVtMVpBV0swaWFhemtJQ2stOEVaeVByUkR6N1kwTmJlQ2c?oc=5",
+                "date": "2026-05-07T08:43:30.000Z"
+            },
+            "whatsNew": "The chief technology officer of GiG has announced their departure in an active step toward retirement. This change may impact GiG's technology strategy and direction.",
+            "whyItMatters": "The departure of a key technology leader can influence the company's ability to innovate and adapt to changing market conditions, potentially affecting its competitiveness in the iGaming industry.",
+            "howToUse": "Companies in the iGaming sector should monitor leadership changes in key competitors and partners to anticipate potential shifts in strategy and technology adoption.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "GiG"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-vae9mnt5l",
+            "title": "New Head Sought",
+            "subtitle": "Gambling Commission seeks new head of illegal markets",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Illegal Markets",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHVXdHFVaDdBbzRhcGd2bFdscFJ4S0JSckZ0ZC02aVRkMjhIdjVVeDhpTHhjM2RITFZMd3dfTERRbGkwMDJMNUtnckpzNFRncWFIdWltanZIQzh5aWMtOFB4VnR6ZDJKTWVieEQ2a3dQcDgtRkJhV1BmSGRUY3BPYXpEZk9SR0hfUXlub2pFbGs4dw?oc=5",
+                "date": "2026-05-07T10:02:49.000Z"
+            },
+            "whatsNew": "The Gambling Commission is looking for a new head to oversee illegal markets, indicating a heightened focus on regulatory enforcement. This move suggests an increased effort to combat illegal gambling activities. The role is expected to play a crucial part in shaping the commission's strategy against unlicensed operators.",
+            "whyItMatters": "This development highlights the commission's commitment to protecting consumers and maintaining a fair, regulated market. It may lead to stricter enforcement and potentially impact the operations of licensed gaming operators.",
+            "howToUse": "Operators should ensure they are fully compliant with current regulations and prepare for potential increased scrutiny. They should also monitor updates from the commission regarding illegal market enforcement.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
