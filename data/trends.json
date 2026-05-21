@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-21T21:25:25.393Z",
+        "scanDate": "2026-05-21T23:01:04.884Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -2321,35 +2321,6 @@
             "isNew": false
         },
         {
-            "id": "t-l16mm4qpo",
-            "title": "Gambling Budget",
-            "subtitle": "UK Gambling Commission releases business plan and budget for 2026 to 2027",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Regulation",
-                "Budget"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3JVYWhlaTh5U1VTVFloaWhpRDlYMUprNzFIMkROaXllMEFJQ2V0SkNadk9ZaDdDTHM1QzhzRTk5RjhpMmVaY2F2Qkpud1RvYTFMa2lPRWJSMEY0S2JtYjZnM01aRkMzZGp2b3hua0VyTXZPWlNULTZYYnZReVQycXBhbHE4c0xUNHVuNzczYjdrY3ozVEd3d25ibHhHWGtkYkJ2Zw?oc=5",
-                "date": "2026-05-07T21:59:15.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has published its business plan and budget for the period of 2026 to 2027, outlining its priorities and financial allocations. This plan is expected to shape the regulatory landscape of the iGaming industry in the UK. The budget will likely impact operators and consumers alike.",
-            "whyItMatters": "The business plan and budget will influence the iGaming industry's regulatory environment, affecting operators' compliance costs and consumer protection measures. It may also impact the industry's growth and innovation.",
-            "howToUse": "Operators should review the plan to understand upcoming regulatory changes and allocate resources accordingly. Consumers can expect enhanced protection measures.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Consumers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-u7yzvz31j",
             "title": "Graham License",
             "subtitle": "Wayne Newman Graham's trading names updated by UK Gambling Commission",
@@ -2566,7 +2537,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "note": null
         },
         {
@@ -2585,7 +2556,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2594,7 +2565,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2603,7 +2574,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "note": "Regulatory updates"
         },
         {
@@ -2621,7 +2592,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2630,7 +2601,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2853,7 +2824,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T21:25:25.393Z",
+            "lastScan": "2026-05-21T23:01:04.884Z",
             "note": null
         },
         {
@@ -25527,6 +25498,35 @@
             "companies": [
                 "Entain"
             ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-l16mm4qpo",
+            "title": "Gambling Budget",
+            "subtitle": "UK Gambling Commission releases business plan and budget for 2026 to 2027",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "Budget"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3JVYWhlaTh5U1VTVFloaWhpRDlYMUprNzFIMkROaXllMEFJQ2V0SkNadk9ZaDdDTHM1QzhzRTk5RjhpMmVaY2F2Qkpud1RvYTFMa2lPRWJSMEY0S2JtYjZnM01aRkMzZGp2b3hua0VyTXZPWlNULTZYYnZReVQycXBhbHE4c0xUNHVuNzczYjdrY3ozVEd3d25ibHhHWGtkYkJ2Zw?oc=5",
+                "date": "2026-05-07T21:59:15.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has published its business plan and budget for the period of 2026 to 2027, outlining its priorities and financial allocations. This plan is expected to shape the regulatory landscape of the iGaming industry in the UK. The budget will likely impact operators and consumers alike.",
+            "whyItMatters": "The business plan and budget will influence the iGaming industry's regulatory environment, affecting operators' compliance costs and consumer protection measures. It may also impact the industry's growth and innovation.",
+            "howToUse": "Operators should review the plan to understand upcoming regulatory changes and allocate resources accordingly. Consumers can expect enhanced protection measures.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Consumers"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
