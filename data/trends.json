@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-22T10:22:35.453Z",
+        "scanDate": "2026-05-22T13:29:31.260Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,130 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-njj5nbctj",
+            "title": "CIRSA M&A Plans",
+            "subtitle": "CIRSA allocates €150m annually for mergers and acquisitions, according to its CEO.",
+            "category": "iGaming",
+            "tags": [
+                "M&A",
+                "CIRSA",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenpNZ08ycFVmeTRjYVBXWkxoSXMyaHhESXRyQ3BycWtHNThsMUtNTVJFRHZWaThxS0dGWFlId2VWZ1hlcGlDQUNYMXVhZzg1eWlucU5IX3JsZlRrT0FpT0phNkE1Y3lTVVJwUGNHblFwdXdoT0IyNDFObHg5VGlwcGVUOW9vM003c1F3?oc=5",
+                "date": "2026-05-22T11:01:43.000Z"
+            },
+            "whatsNew": "CIRSA has allocated a significant budget for mergers and acquisitions, indicating a strategic expansion plan. This move is expected to impact the iGaming industry. The company's CEO has confirmed the allocation of €150m annually for such activities.",
+            "whyItMatters": "This development signifies CIRSA's intent to grow its presence in the iGaming sector through strategic acquisitions, potentially altering the market landscape. It reflects the company's confidence in its financial capabilities and its ambition to expand.",
+            "howToUse": "Industry players should monitor CIRSA's M&A activities closely, as they may present opportunities for collaboration or indicate shifts in market trends. Companies looking to expand or restructure may find CIRSA's moves informative for their own strategic planning.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "CIRSA"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-iiptd1b51",
+            "title": "Bingo AGM Insights",
+            "subtitle": "Gambling Commission's Sarah Gardner speech at The Bingo Association AGM",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Bingo Association",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWUybV9VcmNtYWZvT0xYNnJIRjFiMGxBR1ozVTlhX0ZDeENzN05GclhDLVota0xfMi01TUVOZFd6bUhLdmJDUmdXT0RZT3Y2VHhvcThYc2c3ekprdXVHVmpnY0ZlWnUySmkxVXNSY2Rqa0VXZTh3Z0wxa1VwRlNJdGJydGlBMTlzb25ZV05qZTFXSml0NlVSYg?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The Bingo Association held its AGM, featuring a speech by Sarah Gardner from the Gambling Commission. The speech likely covered regulatory updates and industry insights.",
+            "whyItMatters": "The speech may have implications for bingo operators and the broader iGaming industry, particularly regarding regulation and compliance.",
+            "howToUse": "Industry stakeholders can review the speech for insights into regulatory developments and potential impacts on their operations.",
+            "beneficiaries": [
+                "Bingo Operators",
+                "iGaming Regulators"
+            ],
+            "companies": [
+                "The Bingo Association"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-ljwe3pafh",
+            "title": "AI Video Tools",
+            "subtitle": "Civitai releases VideoFlow - LTX 2.3 with all-in-one voice features and updated I2V workflow",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Stable Diffusion",
+                "Voice Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXBNRGlBNUxFRl9oTEwzRmw2dG5rakozQzI5RGR1RHVpZGFhRGRGMU1nQlBIU0dlaVAwNHRHamdNY1c0cmY0UGFNWDJfS2NiaU5zOTVSLWtKQmc2Y1lwOFRqeFh5a2JyRDA2bV9DZHZVRUVEM3J0WXJkbUJNRmxNWENrQmw3NU01bHExSlc2eUhrMVBrelkycmdXR2U0NmgxaW1EOHpfdklJc1E2amF2cjNPc1FGWl9ZallV?oc=5",
+                "date": "2026-05-12T22:46:09.000Z"
+            },
+            "whatsNew": "VideoFlow - LTX 2.3 introduces an all-in-one solution for T2V, I2V, A2V, and Stable Character Voice, along with updates to the Wan 2.2/2.1 I2V workflow. This simplifies the process of generating voices and videos using AI.",
+            "whyItMatters": "The release of VideoFlow - LTX 2.3 by Civitai signifies a major step forward in AI-powered video and voice generation, offering creators more streamlined and accessible tools for content production.",
+            "howToUse": "Content creators can utilize VideoFlow - LTX 2.3 to generate high-quality voices and videos for various applications, including gaming, animation, and social media, by following the updated workflow and guidelines provided by Civitai.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-s4hqk8f8p",
+            "title": "AI Video Generation",
+            "subtitle": "Grok Imagine Video creates AI-generated videos based on text prompts, including making a character wear an Iron Man suit.",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Grok Imagine",
+                "Text-to-Video"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFhsdWlTMzRCT1ZRNEZvZ2kwYXhOVWtNR0dacEJ6UU03Zy1MLWhINVFMZUFjUHM0dGVZXzRfcjM4MGVya2ExYUlTU1lOOFNUVkhiSGRDakJYTDc1VmI0U04xVkI5bFpCNjJKLXE4TnFUODNWa1UteFNpbi14LTgxckg4UktpZEhTWl8wSjNQb1lHX01GOEE?oc=5",
+                "date": "2026-05-21T08:13:07.000Z"
+            },
+            "whatsNew": "Grok Imagine Video uses AI to generate videos from text prompts, allowing for dynamic and interactive content creation. The platform can create videos of characters wearing specific costumes, like the Iron Man suit. This technology has the potential to revolutionize the entertainment and gaming industries.",
+            "whyItMatters": "The ability to generate high-quality videos from text prompts can significantly impact the gaming and entertainment industries, enabling new forms of interactive storytelling and content creation. This technology can also be used in AI-powered game development, such as generating cutscenes or character animations.",
+            "howToUse": "Developers and content creators can utilize Grok Imagine Video to generate AI-powered videos for their projects, such as game trailers, cutscenes, or interactive stories. They can experiment with different text prompts to create unique and engaging videos.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-sqrqzavj7",
             "title": "Gambling Risk Delay",
@@ -47,7 +171,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-7ro5jnk8e",
@@ -78,7 +202,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jundii2c4",
@@ -2251,37 +2375,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-u7yzvz31j",
-            "title": "Graham License",
-            "subtitle": "Wayne Newman Graham's trading names updated by UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Licensing",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmZHYlA5TW5vY1NQNkE2SHJMZUEwWmRoNXFPaFIzMEFaYmh4M1luNGxNTWhZcGlzbjI1Rm1PTUIyUnpldmt5OVZPVWFUMVZRbzZxcks5T2dVWC1qRktFQXJHM2VYMGJaZ0RORDR0bzRsQVBLT081TnJLREhUS21SZmF1dWQ5QVpjVjkyLWRER29LRnlY?oc=5",
-                "date": "2026-05-08T12:35:36.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has updated the trading names for Wayne Newman Graham, indicating a potential change in operations or compliance.",
-            "whyItMatters": "This update reflects the ongoing regulatory efforts to ensure transparency and compliance within the iGaming industry.",
-            "howToUse": "Operators should review and ensure their trading names are up-to-date and compliant with regulatory requirements.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Wayne Newman Graham"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2438,7 +2531,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": null
         },
         {
@@ -2457,7 +2550,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2466,7 +2559,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2475,7 +2568,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": "Regulatory updates"
         },
         {
@@ -2493,7 +2586,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2502,7 +2595,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2522,7 +2615,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2580,7 +2673,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2725,7 +2818,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T10:22:35.453Z",
+            "lastScan": "2026-05-22T13:29:31.260Z",
             "note": null
         },
         {
@@ -25646,6 +25739,37 @@
             ],
             "companies": [
                 "Bingo Association"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-u7yzvz31j",
+            "title": "Graham License",
+            "subtitle": "Wayne Newman Graham's trading names updated by UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmZHYlA5TW5vY1NQNkE2SHJMZUEwWmRoNXFPaFIzMEFaYmh4M1luNGxNTWhZcGlzbjI1Rm1PTUIyUnpldmt5OVZPVWFUMVZRbzZxcks5T2dVWC1qRktFQXJHM2VYMGJaZ0RORDR0bzRsQVBLT081TnJLREhUS21SZmF1dWQ5QVpjVjkyLWRER29LRnlY?oc=5",
+                "date": "2026-05-08T12:35:36.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated the trading names for Wayne Newman Graham, indicating a potential change in operations or compliance.",
+            "whyItMatters": "This update reflects the ongoing regulatory efforts to ensure transparency and compliance within the iGaming industry.",
+            "howToUse": "Operators should review and ensure their trading names are up-to-date and compliant with regulatory requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Wayne Newman Graham"
             ],
             "visualStyle": null,
             "cluster": "regulation",
