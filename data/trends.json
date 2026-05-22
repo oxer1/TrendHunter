@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-22T20:41:12.631Z",
+        "scanDate": "2026-05-22T22:04:48.877Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -2344,37 +2344,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-zdbksovso",
-            "title": "AI Image Generator",
-            "subtitle": "Synthesia offers a free AI image generation tool",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU2Zxd3VRaXlzenNoN1hvUnBWNVM5SGVpVHBpejEzVVhUaDZaeGR2Qk55TjJLNWJEbWFyUGRNT2JocmppMjJEYmtYejVVUllKUUVPNlpPOHhlS191eEE?oc=5",
-                "date": "2026-05-08T21:33:43.000Z"
-            },
-            "whatsNew": "Synthesia's AI image generator allows users to create images for free, leveraging AI technology for creative purposes. This tool can be used for various applications, including gaming and visual design. The accessibility of such tools is increasing, making AI-generated content more mainstream.",
-            "whyItMatters": "The availability of free AI image generation tools like Synthesia's can significantly impact the gaming and visual design industries by providing easy access to AI-generated content, potentially changing how game and slot art are developed. This can also influence visual design trends and AI pipelines in gaming.",
-            "howToUse": "Game developers and designers can utilize Synthesia's AI image generator to create unique in-game assets or promotional materials, exploring new possibilities in AI-assisted content creation.",
-            "beneficiaries": [
-                "Game Developers",
-                "Visual Designers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2531,7 +2500,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T20:41:12.631Z",
+            "lastScan": "2026-05-22T22:04:48.877Z",
             "note": null
         },
         {
@@ -2550,7 +2519,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-22T20:41:12.631Z",
+            "lastScan": "2026-05-22T22:04:48.877Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2818,7 +2787,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T20:41:12.631Z",
+            "lastScan": "2026-05-22T22:04:48.877Z",
             "note": null
         },
         {
@@ -25773,6 +25742,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-zdbksovso",
+            "title": "AI Image Generator",
+            "subtitle": "Synthesia offers a free AI image generation tool",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU2Zxd3VRaXlzenNoN1hvUnBWNVM5SGVpVHBpejEzVVhUaDZaeGR2Qk55TjJLNWJEbWFyUGRNT2JocmppMjJEYmtYejVVUllKUUVPNlpPOHhlS191eEE?oc=5",
+                "date": "2026-05-08T21:33:43.000Z"
+            },
+            "whatsNew": "Synthesia's AI image generator allows users to create images for free, leveraging AI technology for creative purposes. This tool can be used for various applications, including gaming and visual design. The accessibility of such tools is increasing, making AI-generated content more mainstream.",
+            "whyItMatters": "The availability of free AI image generation tools like Synthesia's can significantly impact the gaming and visual design industries by providing easy access to AI-generated content, potentially changing how game and slot art are developed. This can also influence visual design trends and AI pipelines in gaming.",
+            "howToUse": "Game developers and designers can utilize Synthesia's AI image generator to create unique in-game assets or promotional materials, exploring new possibilities in AI-assisted content creation.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
