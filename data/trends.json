@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-21T23:01:04.884Z",
+        "scanDate": "2026-05-22T02:58:50.146Z",
         "version": "2.5.0",
         "totalTrends": 76,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-cs407ae27",
+            "title": "NJ Gaming Update",
+            "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for April 2026",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Gaming Regulation",
+                "April 2026"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50NFR1NlMyV2x2Q3kwRUw5TWhnUkpVREM4RjZINHY1YVRXTTVPLXBSZGtWU3Y5dWU2Q0pTMkRDT0x1RzRRVlZKcVJ2S1E0Z0pqVHI0dmR1cVFEQTNGb1U5NzVlTzQxSmszbmNzTmRDMWxGd3M4ekhlWGRreXA?oc=5",
+                "date": "2026-05-16T04:27:20.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has announced updates for April 2026, indicating ongoing regulatory activity in the state's gaming sector. The announcement was made by Interim Director Jennifer Davenport and Attorney General Mary Jo Flaherty. Details of the updates are not specified in the initial report.",
+            "whyItMatters": "These updates may impact gaming operators and players in New Jersey, reflecting the state's ongoing efforts to regulate and oversee its gaming industry. The announcements could include changes to licensing, compliance, or other regulatory aspects.",
+            "howToUse": "Gaming operators should review the updates to ensure compliance with any new or changed regulations. Players may also want to stay informed about any changes that could affect their gaming experience.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-cj8u4194q",
             "title": "MGA Appointed",
@@ -2259,37 +2288,6 @@
             "isNew": false
         },
         {
-            "id": "t-f21xvd3ts",
-            "title": "AI Art Prompts",
-            "subtitle": "PromptHero offers best art prompts for all models",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Prompts",
-                "Art Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nMTlPLXpuYXpCamtscEkzazM2THVIXzY0Tm05NTBOXzJJU0hjTThGV3NjZkJlbThQZmg1UnVkeWRidXM5VkZKNTNFcUtYd0dDUk1EamtuTnBaQU1JQVNvOW53?oc=5",
-                "date": "2026-05-08T02:46:48.000Z"
-            },
-            "whatsNew": "PromptHero provides a collection of effective art prompts for various AI models, enhancing art generation capabilities. These prompts can help create stunning and unique art pieces. The availability of such prompts can streamline the art creation process.",
-            "whyItMatters": "Access to high-quality art prompts can significantly improve the output of AI art generation models, making them more useful for artists and designers. This can lead to increased adoption of AI art tools in creative industries.",
-            "howToUse": "Artists and designers can use these prompts to generate art with specific styles or themes, and experiment with different models to achieve desired results. By leveraging these prompts, users can unlock new creative possibilities.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-zdbksovso",
             "title": "AI Image Generator",
             "subtitle": "Synthesia offers a free AI image generation tool",
@@ -2537,7 +2535,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": null
         },
         {
@@ -2556,7 +2554,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2565,7 +2563,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2574,7 +2572,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "Regulatory updates"
         },
         {
@@ -2592,7 +2590,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2601,7 +2599,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2621,7 +2619,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-21T19:49:58.340Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2679,7 +2677,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T17:30:06.840Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2688,7 +2686,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2697,7 +2695,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T06:58:11.296Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": "Style browsing signal"
         },
         {
@@ -2824,7 +2822,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-21T23:01:04.884Z",
+            "lastScan": "2026-05-22T02:58:50.146Z",
             "note": null
         },
         {
@@ -25529,6 +25527,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-f21xvd3ts",
+            "title": "AI Art Prompts",
+            "subtitle": "PromptHero offers best art prompts for all models",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Prompts",
+                "Art Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nMTlPLXpuYXpCamtscEkzazM2THVIXzY0Tm05NTBOXzJJU0hjTThGV3NjZkJlbThQZmg1UnVkeWRidXM5VkZKNTNFcUtYd0dDUk1EamtuTnBaQU1JQVNvOW53?oc=5",
+                "date": "2026-05-08T02:46:48.000Z"
+            },
+            "whatsNew": "PromptHero provides a collection of effective art prompts for various AI models, enhancing art generation capabilities. These prompts can help create stunning and unique art pieces. The availability of such prompts can streamline the art creation process.",
+            "whyItMatters": "Access to high-quality art prompts can significantly improve the output of AI art generation models, making them more useful for artists and designers. This can lead to increased adoption of AI art tools in creative industries.",
+            "howToUse": "Artists and designers can use these prompts to generate art with specific styles or themes, and experiment with different models to achieve desired results. By leveraging these prompts, users can unlock new creative possibilities.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
