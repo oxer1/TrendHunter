@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-23T04:37:41.552Z",
+        "scanDate": "2026-05-23T07:29:40.562Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gkz07vulg",
@@ -78,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-u6yzzyb8r",
@@ -110,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-njj5nbctj",
@@ -1783,37 +1783,6 @@
             "isNew": false
         },
         {
-            "id": "t-qq6ohpvt6",
-            "title": "Anime Art",
-            "subtitle": "Civitai releases Anime art - Variant 7 using ZImage LoRA",
-            "category": "Art",
-            "tags": [
-                "Anime",
-                "ZImage LoRA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4bmhtZVd2ZWpKcy1Gc1Brby1pZzFFNm9TWW0xYjdxbjRLcWFQS1BYLUtKVDRoVzIybUpSVXVybG5nMEMxMmxsNkJwZjdaNmlRUS1WZnZn?oc=5",
-                "date": "2026-05-09T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced Anime art - Variant 7, utilizing ZImage LoRA for unique art generation. This showcases the capabilities of AI in creating diverse anime styles. The use of ZImage LoRA highlights the advancement in AI art tools.",
-            "whyItMatters": "The release of Anime art - Variant 7 demonstrates the growing potential of AI in art creation, particularly in anime styles. This can inspire new trends in visual design and game development.",
-            "howToUse": "Artists and game developers can utilize Civitai's ZImage LoRA to generate unique anime-inspired art for their projects, exploring new visual styles and themes.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-wbchu2huy",
             "title": "AI Shift Hits",
             "subtitle": "Gambling.com Group announces redundancies amid AI focus",
@@ -2314,37 +2283,6 @@
             "isNew": false
         },
         {
-            "id": "t-pjop7wvrj",
-            "title": "FLUX MEGAPACK",
-            "subtitle": "Civitai releases FLUX MEGAPACK v4.0 with Flux.1 Workflows",
-            "category": "AI",
-            "tags": [
-                "AI Tools",
-                "Civitai",
-                "FLUX"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSzNZMUNxWmVWMDdBYldYVk5iS19SbWtMRTJzZzRXQWNIeHkyU0o3UWQ4RHVwaXdoMjFMcjg3SFl5LVBUNlFXZThOd2lUUTlubDRUS2xxcW51UQ?oc=5",
-                "date": "2026-05-09T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released the FLUX MEGAPACK v4.0, which includes Flux.1 Workflows, a significant update to their AI toolset. This new version is expected to enhance workflow efficiency and AI model performance. The update is part of Civitai's ongoing efforts to improve their AI offerings.",
-            "whyItMatters": "The release of FLUX MEGAPACK v4.0 matters because it demonstrates Civitai's commitment to advancing AI technology and providing users with more powerful tools. This update can potentially impact the development of AI-powered games and art, making it a noteworthy event in the AI for creative work space.",
-            "howToUse": "Developers and artists can utilize the FLUX MEGAPACK v4.0 by integrating it into their existing workflows, leveraging the enhanced features and performance of Flux.1 Workflows to create more sophisticated AI models and art.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-5g3kau9m3",
             "title": "UK Horseracing Gains",
             "subtitle": "Challenger brands are making strides in UK horseracing clickshare according to Oddschecker",
@@ -2592,7 +2530,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": null
         },
         {
@@ -2611,7 +2549,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2620,7 +2558,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2629,7 +2567,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": "Regulatory updates"
         },
         {
@@ -2647,7 +2585,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2656,7 +2594,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2676,7 +2614,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2734,7 +2672,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2879,7 +2817,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T04:37:41.552Z",
+            "lastScan": "2026-05-23T07:29:40.562Z",
             "note": null
         },
         {
@@ -25865,6 +25803,68 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-qq6ohpvt6",
+            "title": "Anime Art",
+            "subtitle": "Civitai releases Anime art - Variant 7 using ZImage LoRA",
+            "category": "Art",
+            "tags": [
+                "Anime",
+                "ZImage LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4bmhtZVd2ZWpKcy1Gc1Brby1pZzFFNm9TWW0xYjdxbjRLcWFQS1BYLUtKVDRoVzIybUpSVXVybG5nMEMxMmxsNkJwZjdaNmlRUS1WZnZn?oc=5",
+                "date": "2026-05-09T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Anime art - Variant 7, utilizing ZImage LoRA for unique art generation. This showcases the capabilities of AI in creating diverse anime styles. The use of ZImage LoRA highlights the advancement in AI art tools.",
+            "whyItMatters": "The release of Anime art - Variant 7 demonstrates the growing potential of AI in art creation, particularly in anime styles. This can inspire new trends in visual design and game development.",
+            "howToUse": "Artists and game developers can utilize Civitai's ZImage LoRA to generate unique anime-inspired art for their projects, exploring new visual styles and themes.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-pjop7wvrj",
+            "title": "FLUX MEGAPACK",
+            "subtitle": "Civitai releases FLUX MEGAPACK v4.0 with Flux.1 Workflows",
+            "category": "AI",
+            "tags": [
+                "AI Tools",
+                "Civitai",
+                "FLUX"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSzNZMUNxWmVWMDdBYldYVk5iS19SbWtMRTJzZzRXQWNIeHkyU0o3UWQ4RHVwaXdoMjFMcjg3SFl5LVBUNlFXZThOd2lUUTlubDRUS2xxcW51UQ?oc=5",
+                "date": "2026-05-09T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the FLUX MEGAPACK v4.0, which includes Flux.1 Workflows, a significant update to their AI toolset. This new version is expected to enhance workflow efficiency and AI model performance. The update is part of Civitai's ongoing efforts to improve their AI offerings.",
+            "whyItMatters": "The release of FLUX MEGAPACK v4.0 matters because it demonstrates Civitai's commitment to advancing AI technology and providing users with more powerful tools. This update can potentially impact the development of AI-powered games and art, making it a noteworthy event in the AI for creative work space.",
+            "howToUse": "Developers and artists can utilize the FLUX MEGAPACK v4.0 by integrating it into their existing workflows, leveraging the enhanced features and performance of Flux.1 Workflows to create more sophisticated AI models and art.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
