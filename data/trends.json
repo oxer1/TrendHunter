@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-23T00:04:19.462Z",
+        "scanDate": "2026-05-23T04:37:41.552Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2cqpufhht",
+            "title": "LLM Impact",
+            "subtitle": "Leaked LLM system prompts affect iGaming SEO",
+            "category": "iGaming",
+            "tags": [
+                "LLM",
+                "iGaming SEO",
+                "AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWh0SFlzWDhmdDMxY3lkckZGQktQSUQwcXBlNlBVS25hQ0lhQ3psVjZIQVQtdlQ3T2g4RTZkNnRNa2s2UmZNcC12V1N1Z0VDeGZwUlZQanlVeE9hanlvR3NUeWxzTWVJVFJTcG9PeXBNaEJFeHF5VmlYQkxJUTNtQmZPTzQ2RmhQc3FPODFFSUw1QkxsZlk3Wm9NSzMtSFZ6elBBZVR2OW1YVVg3OEtTdVBWdkJXbG1vUW9PZTdqSmtGVmk4?oc=5",
+                "date": "2026-05-22T08:24:43.000Z"
+            },
+            "whatsNew": "Leaked LLM system prompts reveal new insights into iGaming SEO. These prompts can significantly impact search engine rankings and player engagement. The leak highlights the importance of understanding LLM systems in iGaming.",
+            "whyItMatters": "The leaked prompts can help iGaming operators optimize their SEO strategies, improving visibility and revenue. Understanding LLM systems is crucial for staying competitive in the iGaming industry.",
+            "howToUse": "iGaming operators can analyze the leaked prompts to identify opportunities for SEO optimization and adjust their strategies accordingly. This can involve creating content that aligns with the prompts and improving website structure for better search engine rankings.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "SEO Specialists"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-gkz07vulg",
+            "title": "UK Gambling",
+            "subtitle": "Rab Grewal discusses updates from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "UK"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGeHFXYWVBM2c5Sm5vSlZaYjNTR1d1bllubmpIWnhyWG03ckhPVzhpNGllQkZIY3pBbnM4TmZEN0J6Qzg1SEd6M0JKWHB5c1dibUpKRnVOQlpmTl9xVWRlbVB1LXpaS3h5ZExtVA?oc=5",
+                "date": "2026-05-21T17:06:30.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission shares insights through blog posts by Rab Grewal, covering various aspects of gambling regulation. These posts aim to keep the public informed about changes and developments in the industry. The commission's efforts focus on ensuring a safe and fair gambling environment.",
+            "whyItMatters": "The updates from the UK Gambling Commission are crucial for operators and players alike, as they provide guidance on regulatory changes and compliance. This information helps in maintaining a transparent and responsible gambling sector.",
+            "howToUse": "Operators and individuals interested in the UK gambling scene can follow these blog posts to stay updated on the latest regulatory developments and best practices. This knowledge can be used to ensure compliance and to make informed decisions.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-u6yzzyb8r",
+            "title": "LTX Video LoRA",
+            "subtitle": "Civitai releases LTX-2.3 with camera controls for video generation",
+            "category": "AI",
+            "tags": [
+                "LTX-2.3",
+                "Video LoRA",
+                "Civitai",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOWNNQ3FMV0lBSWxWYko2LXFUUUc3Umd0N2U5ZHFYMkNRLVNZMGpDdWpBUmFEa0pjUGw4dXJtUEM4cEVsX1AyVnFSVVhseURSRFRDajBIaDMtYXY3YjQ0MDVWa3V0Nkcx?oc=5",
+                "date": "2026-05-15T13:41:55.000Z"
+            },
+            "whatsNew": "Civitai's LTX-2.3 update introduces camera controls for more precise video generation. This update enhances the capabilities of the LTX Video LoRA model. The introduction of camera controls allows for more detailed and controlled video output.",
+            "whyItMatters": "This update is significant for AI video generation as it provides more control over the output, making it useful for various applications. It impacts the development of AI video tools by setting a new standard for video generation capabilities.",
+            "howToUse": "Developers can utilize the LTX-2.3 update to generate high-quality videos with precise camera controls, enhancing their projects' visual aspects. This can be applied in gaming, animation, and other fields where video generation is crucial.",
+            "beneficiaries": [
+                "AI Developers",
+                "Video Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-njj5nbctj",
             "title": "CIRSA M&A Plans",
@@ -2500,7 +2592,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": null
         },
         {
@@ -2519,7 +2611,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2528,7 +2620,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2537,7 +2629,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "Regulatory updates"
         },
         {
@@ -2555,7 +2647,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2564,7 +2656,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2584,7 +2676,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2642,7 +2734,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2651,7 +2743,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T06:53:03.128Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2660,7 +2752,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T06:53:03.128Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": "Style browsing signal"
         },
         {
@@ -2697,7 +2789,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-22T06:53:03.128Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": null
         },
         {
@@ -2787,7 +2879,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T00:04:19.462Z",
+            "lastScan": "2026-05-23T04:37:41.552Z",
             "note": null
         },
         {
