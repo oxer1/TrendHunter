@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-23T22:50:43.534Z",
+        "scanDate": "2026-05-23T23:55:00.908Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-gwn8li15s",
+            "title": "Rhode Island Sues",
+            "subtitle": "Rhode Island AG sues Polymarket and Kalshi for unlawfully offering sports betting",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXdrOEJDUTVUSWhoSDNjZ2IwckZjV0FXVndURTVHb1pPU3lDbVUzNW5peHRIN1VDYU5sM1llQnRfOGs1dkQ3VHlHV05tMHlReU1mUThDZVF4OTJuM0JiUjZhSFNfX21hV2dydkcxU1k2NlV3cFpRSFdGZFUtYUs0bGZXaHpPLVBJallzRXVtMy1SWm9tak4xdEhjVUNzS3N2Q3RIckJQTXVldmJFNmlOQ3psZ2NiX0U?oc=5",
+                "date": "2026-05-22T10:54:58.000Z"
+            },
+            "whatsNew": "Rhode Island's Attorney General has filed a lawsuit against Polymarket and Kalshi, alleging they are unlawfully offering sports betting. This lawsuit highlights the ongoing regulatory challenges in the US sports betting market.",
+            "whyItMatters": "The lawsuit has significant implications for the sports betting industry, as it may set a precedent for future regulatory actions. It also underscores the importance of compliance with state and federal laws for operators.",
+            "howToUse": "Operators should ensure they are fully compliant with all relevant laws and regulations before offering sports betting services. They should also closely monitor regulatory developments to adapt to changing landscapes.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Operators"
+            ],
+            "companies": [
+                "Polymarket",
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-btco79ha6",
             "title": "AI Art Generation",
@@ -2502,7 +2534,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T22:50:43.534Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "note": null
         },
         {
@@ -2521,7 +2553,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-23T22:50:43.534Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2530,7 +2562,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T17:58:37.236Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2539,7 +2571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T17:58:37.236Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "note": "Regulatory updates"
         },
         {
@@ -2557,7 +2589,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T17:58:37.236Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2566,7 +2598,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T17:58:37.236Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2789,7 +2821,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T22:50:43.534Z",
+            "lastScan": "2026-05-23T23:55:00.908Z",
             "note": null
         },
         {
