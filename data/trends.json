@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-23T19:18:34.795Z",
+        "scanDate": "2026-05-23T20:46:23.864Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -978,37 +978,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-z3xg82a1y",
-            "title": "AI Video Effects",
-            "subtitle": "OpenArt introduces AI-powered video effects for any footage",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Video Effects",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92UThsTnZRdVVzbkpJUGhoX3BXM0RMdmlOU0hjbFdfSV9EMnd0bk5VUzZRRDc3VTROQ0pOVFF6eEJKODJFU2d3RkM4bzBuYldOT1E?oc=5",
-                "date": "2026-05-09T20:30:26.000Z"
-            },
-            "whatsNew": "OpenArt VFX utilizes AI to generate video effects for any footage, offering a new level of creative control. This technology can be applied to various industries, including gaming and film. The AI-powered effects can enhance visual quality and realism.",
-            "whyItMatters": "The introduction of AI-powered video effects can significantly impact the gaming and film industries by providing more realistic and engaging visuals. This technology can also benefit game developers and filmmakers by streamlining the video effects process.",
-            "howToUse": "Game developers and filmmakers can utilize OpenArt VFX to enhance their video content with AI-generated effects, improving overall visual quality and realism. This can be achieved by integrating the OpenArt VFX tool into their existing workflows.",
-            "beneficiaries": [
-                "Game Developers",
-                "Filmmakers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -2377,35 +2346,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-ii9piu6fb",
-            "title": "UK Gambling Sanctions",
-            "subtitle": "The UK Gambling Commission imposes regulatory sanctions on Lee Dewry Walker.",
-            "category": "iGaming",
-            "tags": [
-                "Regulatory Sanctions",
-                "UK Gambling Commission",
-                "Compliance"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWt2T1pPUGpnb19zeFJrSEJYWXdxa3pQMk9JZkIzclZicVNna1otbHBYRE9UalhlXy0tRy10ZXlZbUhFQ3JPSzM0cVhqdFNMa19sM2gwdXBvaXVQOVBUOVBMTzJGQUViQWlPcWFYeVg5NmdpMjZzbk80VVJvODBGNEx1alJyX2pyazVF?oc=5",
-                "date": "2026-05-09T20:40:24.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has taken action against Lee Dewry Walker, imposing regulatory sanctions. The details of the sanctions are not specified in the provided content.",
-            "whyItMatters": "This action highlights the commission's ongoing efforts to enforce regulatory compliance within the iGaming industry. It underscores the importance of adhering to gambling regulations.",
-            "howToUse": "Operators should review and ensure compliance with all relevant UK gambling regulations to avoid similar sanctions.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2562,7 +2502,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T19:18:34.795Z",
+            "lastScan": "2026-05-23T20:46:23.864Z",
             "note": null
         },
         {
@@ -2581,7 +2521,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-23T19:18:34.795Z",
+            "lastScan": "2026-05-23T20:46:23.864Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2849,7 +2789,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-23T19:18:34.795Z",
+            "lastScan": "2026-05-23T20:46:23.864Z",
             "note": null
         },
         {
@@ -25897,6 +25837,66 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-z3xg82a1y",
+            "title": "AI Video Effects",
+            "subtitle": "OpenArt introduces AI-powered video effects for any footage",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Video Effects",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92UThsTnZRdVVzbkpJUGhoX3BXM0RMdmlOU0hjbFdfSV9EMnd0bk5VUzZRRDc3VTROQ0pOVFF6eEJKODJFU2d3RkM4bzBuYldOT1E?oc=5",
+                "date": "2026-05-09T20:30:26.000Z"
+            },
+            "whatsNew": "OpenArt VFX utilizes AI to generate video effects for any footage, offering a new level of creative control. This technology can be applied to various industries, including gaming and film. The AI-powered effects can enhance visual quality and realism.",
+            "whyItMatters": "The introduction of AI-powered video effects can significantly impact the gaming and film industries by providing more realistic and engaging visuals. This technology can also benefit game developers and filmmakers by streamlining the video effects process.",
+            "howToUse": "Game developers and filmmakers can utilize OpenArt VFX to enhance their video content with AI-generated effects, improving overall visual quality and realism. This can be achieved by integrating the OpenArt VFX tool into their existing workflows.",
+            "beneficiaries": [
+                "Game Developers",
+                "Filmmakers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-ii9piu6fb",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "The UK Gambling Commission imposes regulatory sanctions on Lee Dewry Walker.",
+            "category": "iGaming",
+            "tags": [
+                "Regulatory Sanctions",
+                "UK Gambling Commission",
+                "Compliance"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWt2T1pPUGpnb19zeFJrSEJYWXdxa3pQMk9JZkIzclZicVNna1otbHBYRE9UalhlXy0tRy10ZXlZbUhFQ3JPSzM0cVhqdFNMa19sM2gwdXBvaXVQOVBUOVBMTzJGQUViQWlPcWFYeVg5NmdpMjZzbk80VVJvODBGNEx1alJyX2pyazVF?oc=5",
+                "date": "2026-05-09T20:40:24.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken action against Lee Dewry Walker, imposing regulatory sanctions. The details of the sanctions are not specified in the provided content.",
+            "whyItMatters": "This action highlights the commission's ongoing efforts to enforce regulatory compliance within the iGaming industry. It underscores the importance of adhering to gambling regulations.",
+            "howToUse": "Operators should review and ensure compliance with all relevant UK gambling regulations to avoid similar sanctions.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
