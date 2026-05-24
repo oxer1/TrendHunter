@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-24T15:01:02.351Z",
+        "scanDate": "2026-05-24T16:57:30.180Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-1yfo7o6ej",
+            "title": "Penn Sportsbook Dip",
+            "subtitle": "Pennsylvania sportsbook volume decreases in April despite overall strong performance",
+            "category": "iGaming",
+            "tags": [
+                "Pennsylvania",
+                "Sportsbook",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkYxZHl4MG5KMTR3ZFlsSlhsaVlVdl8xbnVCRk52a0VvbHRjMGFUMnhYTngxbEJSUi01dWZGUXlSa0MwcDlVa0paeGtmQmVkdVBYRzNjQklseDltSHAwUlFjek4wRmhZQ1lZazdsd3hpS1IyT0dqN1lXbGdrTThYYnZhTjlsOElwRlE4RHBMamFsTENrNjNIY3dZQjFDVzlmSU1tMlV6SEhadGFmbXc?oc=5",
+                "date": "2026-05-22T11:13:24.000Z"
+            },
+            "whatsNew": "Pennsylvania's sportsbook volume saw a dip in April, despite the state's sports betting industry showing strong overall results. The decrease may be attributed to seasonal fluctuations or increased competition. The state's sportsbooks still generated significant revenue.",
+            "whyItMatters": "The dip in sportsbook volume could impact the state's gaming revenue and influence future regulatory decisions. It also highlights the need for sportsbooks to adapt to changing market conditions.",
+            "howToUse": "Operators should analyze the market trends and adjust their strategies to attract and retain customers, while regulators should monitor the situation to ensure a competitive and fair market.",
+            "beneficiaries": [
+                "Sportsbook Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-u4881reba",
             "title": "Avatar Tech",
@@ -2565,7 +2594,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-24T15:01:02.351Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "note": null
         },
         {
@@ -2584,7 +2613,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-24T15:01:02.351Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2593,7 +2622,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-24T13:19:54.698Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2602,7 +2631,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-24T13:19:54.698Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "note": "Regulatory updates"
         },
         {
@@ -2620,7 +2649,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-24T13:19:54.698Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2629,7 +2658,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-24T13:19:54.698Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2852,7 +2881,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-24T15:01:02.351Z",
+            "lastScan": "2026-05-24T16:57:30.180Z",
             "note": null
         },
         {
