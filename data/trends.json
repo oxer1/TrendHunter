@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-25T15:48:55.192Z",
+        "scanDate": "2026-05-25T17:41:04.082Z",
         "version": "2.5.0",
-        "totalTrends": 74,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -852,38 +852,6 @@
             ],
             "companies": [
                 "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-9032bkrtd",
-            "title": "PNG Cutout Prompts",
-            "subtitle": "PromptHero shares best PNG-style cutout prompts for AI art generation",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "PNG Cutouts",
-                "Prompts"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRklSemxWMzJkYWc3SHhfaVBySmxUa25adk8yY2lHRjFBYXpJcE45ak81cTZjdGw1REhhdHNMdXZJZl9tc1ZZZ1V5ZENyYUg4bUJveWZKUTY5bU5x?oc=5",
-                "date": "2026-05-11T15:52:43.000Z"
-            },
-            "whatsNew": "PromptHero releases a list of the best PNG-style cutout prompts for AI art generation, allowing users to create high-quality cutout images with ease. These prompts can be used with various AI models to produce consistent results. The list includes a wide range of prompts for different objects and scenes.",
-            "whyItMatters": "The release of these prompts can significantly improve the quality of AI-generated cutout images, making them more useful for various applications such as graphic design, advertising, and gaming. This can also lead to increased adoption of AI art generation tools among professionals and hobbyists.",
-            "howToUse": "Users can visit the PromptHero website to access the list of prompts and use them with their preferred AI art generation tool to create high-quality PNG-style cutout images. Experimenting with different prompts and models can help achieve the desired results.",
-            "beneficiaries": [
-                "Graphic Designers",
-                "Digital Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -2467,7 +2435,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "note": null
         },
         {
@@ -2486,7 +2454,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2495,7 +2463,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2504,7 +2472,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "note": "Regulatory updates"
         },
         {
@@ -2522,7 +2490,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2531,7 +2499,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2754,7 +2722,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T15:48:55.192Z",
+            "lastScan": "2026-05-25T17:41:04.082Z",
             "note": null
         },
         {
@@ -26082,6 +26050,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9032bkrtd",
+            "title": "PNG Cutout Prompts",
+            "subtitle": "PromptHero shares best PNG-style cutout prompts for AI art generation",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "PNG Cutouts",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRklSemxWMzJkYWc3SHhfaVBySmxUa25adk8yY2lHRjFBYXpJcE45ak81cTZjdGw1REhhdHNMdXZJZl9tc1ZZZ1V5ZENyYUg4bUJveWZKUTY5bU5x?oc=5",
+                "date": "2026-05-11T15:52:43.000Z"
+            },
+            "whatsNew": "PromptHero releases a list of the best PNG-style cutout prompts for AI art generation, allowing users to create high-quality cutout images with ease. These prompts can be used with various AI models to produce consistent results. The list includes a wide range of prompts for different objects and scenes.",
+            "whyItMatters": "The release of these prompts can significantly improve the quality of AI-generated cutout images, making them more useful for various applications such as graphic design, advertising, and gaming. This can also lead to increased adoption of AI art generation tools among professionals and hobbyists.",
+            "howToUse": "Users can visit the PromptHero website to access the list of prompts and use them with their preferred AI art generation tool to create high-quality PNG-style cutout images. Experimenting with different prompts and models can help achieve the desired results.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
