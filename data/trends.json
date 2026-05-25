@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-25T08:54:28.173Z",
+        "scanDate": "2026-05-25T12:27:20.430Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-mboa6yyzh",
+            "title": "HiDream O1",
+            "subtitle": "HiDream O1 image model checkpoint release on Civitai",
+            "category": "AI",
+            "tags": [
+                "Image Generation",
+                "AI Model",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVVNHRHljMTc3STlzby1Dd215LTkwX0tOTVFPOVlXRmJtdEVhUUZ4LUFxR1puUnFOOUVnM19ITmdPNWRVTUpscmFtSUl5NDdhYWF2VDNkekEyOUw4UEdDbA?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The HiDream O1 image model checkpoint is now available on Civitai, allowing users to generate high-quality images. This model represents a significant advancement in AI-generated imagery. The release of this checkpoint enables developers to integrate the model into their applications.",
+            "whyItMatters": "The availability of the HiDream O1 checkpoint on Civitai is crucial for developers and researchers working on AI image generation projects, as it provides access to a high-performance model. This can lead to breakthroughs in various fields, including gaming, art, and design.",
+            "howToUse": "Developers can utilize the HiDream O1 checkpoint by integrating it into their existing projects, leveraging its capabilities to generate realistic images. This can be achieved by downloading the checkpoint from Civitai and incorporating it into their AI pipelines.",
+            "beneficiaries": [
+                "Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-5jvmkqw7d",
             "title": "Gambling Insights",
@@ -48,7 +79,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-f34i35vxl",
@@ -80,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1yfo7o6ej",
@@ -696,38 +727,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-iyl9i5rnw",
-            "title": "AI Video Changer",
-            "subtitle": "Open Art AI introduces AI video background changer",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Background Changer",
-                "Open Art AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWGhFdnVTQzJhSUFObDRwOGlUMUZKUlZHeFRrYmxEVml0MmtZOVFDTUU4V0NlNWRFbU1XSGNZOXhBT0RIUHd3dzk2MjJmZElRVGdEY1BKRFYtVVZJMGN2N0IxaEc1aVE?oc=5",
-                "date": "2026-05-11T12:24:41.000Z"
-            },
-            "whatsNew": "Open Art AI has introduced an AI-powered video background changer, allowing for easy editing and customization of video backgrounds. This tool utilizes AI technology to seamlessly replace backgrounds in videos. The introduction of this tool marks a significant advancement in AI-powered video editing.",
-            "whyItMatters": "The AI video background changer has the potential to revolutionize the video editing industry, providing users with a simple and efficient way to customize video backgrounds. This technology can be particularly useful for content creators, marketers, and filmmakers.",
-            "howToUse": "To use the AI video background changer, simply upload your video to the Open Art AI platform, select the desired background, and let the AI technology do the rest. The tool is user-friendly and requires minimal editing expertise.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketers",
-                "Filmmakers"
-            ],
-            "companies": [
-                "Open Art AI"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -2374,39 +2373,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-e4bxd83eb",
-            "title": "Waterhouse VC Deal",
-            "subtitle": "Waterhouse VC secures a three-year option in Spinlab Studio, a game development company",
-            "category": "iGaming",
-            "tags": [
-                "Spinlab Studio",
-                "Waterhouse VC",
-                "Game Development"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRhcWVKdmU1OUFkOWVFQ0VlOHlnQjVtS0lyVWxQc3RnWTFZRnpXTnpEeEtHVUlWdlV4aG4wZ05yNmtyX2xwWTZ1eGhFTWM3VzVyQTRFNU5ra2xYd2tEZUc0U3JMQk4zcUt2ZnMxT1Y5UmdsMGRVZUJsNUhHaDVCaEx1OUZhbkxqS3hNX0xKT19DYVYwN0sw?oc=5",
-                "date": "2026-05-11T11:07:17.000Z"
-            },
-            "whatsNew": "Waterhouse VC has secured a three-year option in Spinlab Studio, indicating a potential investment or partnership in the game development sector. This deal could lead to new game releases or innovations in the iGaming industry. The specifics of the deal are not yet disclosed.",
-            "whyItMatters": "This partnership could lead to the creation of new and innovative games, potentially disrupting the iGaming market. It also highlights the growing interest of venture capital firms in the gaming industry.",
-            "howToUse": "Game developers and iGaming companies can look to form similar partnerships to drive innovation and growth. Investors can also consider the potential of the iGaming industry for future investments.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Companies",
-                "Investors"
-            ],
-            "companies": [
-                "Waterhouse VC",
-                "Spinlab Studio"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2563,7 +2529,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.173Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": null
         },
         {
@@ -2582,7 +2548,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2591,7 +2557,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2600,7 +2566,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": "Regulatory updates"
         },
         {
@@ -2618,7 +2584,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2627,7 +2593,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2647,7 +2613,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2705,7 +2671,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2850,7 +2816,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T12:27:20.430Z",
             "note": null
         },
         {
@@ -26051,6 +26017,71 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-iyl9i5rnw",
+            "title": "AI Video Changer",
+            "subtitle": "Open Art AI introduces AI video background changer",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Background Changer",
+                "Open Art AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWGhFdnVTQzJhSUFObDRwOGlUMUZKUlZHeFRrYmxEVml0MmtZOVFDTUU4V0NlNWRFbU1XSGNZOXhBT0RIUHd3dzk2MjJmZElRVGdEY1BKRFYtVVZJMGN2N0IxaEc1aVE?oc=5",
+                "date": "2026-05-11T12:24:41.000Z"
+            },
+            "whatsNew": "Open Art AI has introduced an AI-powered video background changer, allowing for easy editing and customization of video backgrounds. This tool utilizes AI technology to seamlessly replace backgrounds in videos. The introduction of this tool marks a significant advancement in AI-powered video editing.",
+            "whyItMatters": "The AI video background changer has the potential to revolutionize the video editing industry, providing users with a simple and efficient way to customize video backgrounds. This technology can be particularly useful for content creators, marketers, and filmmakers.",
+            "howToUse": "To use the AI video background changer, simply upload your video to the Open Art AI platform, select the desired background, and let the AI technology do the rest. The tool is user-friendly and requires minimal editing expertise.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Filmmakers"
+            ],
+            "companies": [
+                "Open Art AI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-e4bxd83eb",
+            "title": "Waterhouse VC Deal",
+            "subtitle": "Waterhouse VC secures a three-year option in Spinlab Studio, a game development company",
+            "category": "iGaming",
+            "tags": [
+                "Spinlab Studio",
+                "Waterhouse VC",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRhcWVKdmU1OUFkOWVFQ0VlOHlnQjVtS0lyVWxQc3RnWTFZRnpXTnpEeEtHVUlWdlV4aG4wZ05yNmtyX2xwWTZ1eGhFTWM3VzVyQTRFNU5ra2xYd2tEZUc0U3JMQk4zcUt2ZnMxT1Y5UmdsMGRVZUJsNUhHaDVCaEx1OUZhbkxqS3hNX0xKT19DYVYwN0sw?oc=5",
+                "date": "2026-05-11T11:07:17.000Z"
+            },
+            "whatsNew": "Waterhouse VC has secured a three-year option in Spinlab Studio, indicating a potential investment or partnership in the game development sector. This deal could lead to new game releases or innovations in the iGaming industry. The specifics of the deal are not yet disclosed.",
+            "whyItMatters": "This partnership could lead to the creation of new and innovative games, potentially disrupting the iGaming market. It also highlights the growing interest of venture capital firms in the gaming industry.",
+            "howToUse": "Game developers and iGaming companies can look to form similar partnerships to drive innovation and growth. Investors can also consider the potential of the iGaming industry for future investments.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "Waterhouse VC",
+                "Spinlab Studio"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
