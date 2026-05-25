@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-25T12:27:20.430Z",
+        "scanDate": "2026-05-25T15:48:55.192Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5jvmkqw7d",
@@ -1257,37 +1257,6 @@
             "isNew": false
         },
         {
-            "id": "t-cj5ato64c",
-            "title": "Video Generation",
-            "subtitle": "Exploring factors affecting video generation time in Synthesia",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Video generation",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
-                "date": "2026-05-11T15:25:00.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides insights into the factors affecting video generation time, including complexity of the video and server load. The article aims to help users understand and potentially mitigate delays in video generation. This is part of the broader trend of AI-powered video creation.",
-            "whyItMatters": "Understanding the factors that affect video generation time is crucial for efficient content creation, especially in industries relying on AI-powered video tools. This knowledge can help users plan and optimize their content creation workflows.",
-            "howToUse": "To minimize video generation time, users can simplify their video projects, avoid peak usage hours, and utilize Synthesia's optimization tips. By applying these strategies, users can streamline their content creation process.",
-            "beneficiaries": [
-                "Content creators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-sjwzt9mnd",
             "title": "Synthesia Captions",
             "subtitle": "Understanding how captions work in Synthesia's video tools",
@@ -1593,37 +1562,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-tz2304hgn",
-            "title": "DraftKings Q1",
-            "subtitle": "Key takeaways from DraftKings' Q1 earnings report",
-            "category": "iGaming",
-            "tags": [
-                "DraftKings",
-                "Q1 earnings",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUdMejRRSWRhMDQ2Z2xyYVpUbzAyV0pxMkZjU1d0TTdoS2tEcUp1am5maldZejJSV3QwOUNWX1dsaTlCVFZrSUxrQnptUktZVFo5UnpfMmEyYzRLZGxjVVAxUEZCZXdya3I4dDdBaWtCb3dWZ3d0aFZ6eFRyR0V4QUN1NndwcUl2cnBzY3hDYnItSUtneDFtWUJwYw?oc=5",
-                "date": "2026-05-11T15:07:22.000Z"
-            },
-            "whatsNew": "DraftKings' Q1 earnings report revealed insights into the company's performance, including revenue growth and user acquisition. The report highlighted the company's efforts to expand its offerings and improve user experience. Key metrics such as handle and revenue were also disclosed.",
-            "whyItMatters": "The earnings report provides valuable insights into the current state of the iGaming industry and DraftKings' position within it. It also highlights the company's strategies for growth and expansion.",
-            "howToUse": "Operators and investors can use the report to inform their own strategies and investment decisions. The report's findings can also be used to identify trends and opportunities in the iGaming market.",
-            "beneficiaries": [
-                "iGaming operators",
-                "investors"
-            ],
-            "companies": [
-                "DraftKings"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -2529,7 +2467,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": null
         },
         {
@@ -2548,7 +2486,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2557,7 +2495,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2566,7 +2504,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": "Regulatory updates"
         },
         {
@@ -2584,7 +2522,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2593,7 +2531,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2613,7 +2551,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2671,7 +2609,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2680,7 +2618,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2816,7 +2754,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T12:27:20.430Z",
+            "lastScan": "2026-05-25T15:48:55.192Z",
             "note": null
         },
         {
@@ -26079,6 +26017,68 @@
             "companies": [
                 "Waterhouse VC",
                 "Spinlab Studio"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-cj5ato64c",
+            "title": "Video Generation",
+            "subtitle": "Exploring factors affecting video generation time in Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
+                "date": "2026-05-11T15:25:00.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides insights into the factors affecting video generation time, including complexity of the video and server load. The article aims to help users understand and potentially mitigate delays in video generation. This is part of the broader trend of AI-powered video creation.",
+            "whyItMatters": "Understanding the factors that affect video generation time is crucial for efficient content creation, especially in industries relying on AI-powered video tools. This knowledge can help users plan and optimize their content creation workflows.",
+            "howToUse": "To minimize video generation time, users can simplify their video projects, avoid peak usage hours, and utilize Synthesia's optimization tips. By applying these strategies, users can streamline their content creation process.",
+            "beneficiaries": [
+                "Content creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-tz2304hgn",
+            "title": "DraftKings Q1",
+            "subtitle": "Key takeaways from DraftKings' Q1 earnings report",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Q1 earnings",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUdMejRRSWRhMDQ2Z2xyYVpUbzAyV0pxMkZjU1d0TTdoS2tEcUp1am5maldZejJSV3QwOUNWX1dsaTlCVFZrSUxrQnptUktZVFo5UnpfMmEyYzRLZGxjVVAxUEZCZXdya3I4dDdBaWtCb3dWZ3d0aFZ6eFRyR0V4QUN1NndwcUl2cnBzY3hDYnItSUtneDFtWUJwYw?oc=5",
+                "date": "2026-05-11T15:07:22.000Z"
+            },
+            "whatsNew": "DraftKings' Q1 earnings report revealed insights into the company's performance, including revenue growth and user acquisition. The report highlighted the company's efforts to expand its offerings and improve user experience. Key metrics such as handle and revenue were also disclosed.",
+            "whyItMatters": "The earnings report provides valuable insights into the current state of the iGaming industry and DraftKings' position within it. It also highlights the company's strategies for growth and expansion.",
+            "howToUse": "Operators and investors can use the report to inform their own strategies and investment decisions. The report's findings can also be used to identify trends and opportunities in the iGaming market.",
+            "beneficiaries": [
+                "iGaming operators",
+                "investors"
+            ],
+            "companies": [
+                "DraftKings"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
