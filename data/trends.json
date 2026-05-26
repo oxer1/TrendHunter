@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-26T19:17:47.253Z",
+        "scanDate": "2026-05-26T21:41:30.950Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -791,38 +791,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-8ktb861gn",
-            "title": "AI Image Creation",
-            "subtitle": "Open Art AI offers free AI image creation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Open Art AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRkl1ODZabFA1ZEtSenN1RjR6b0U5ZGh1cnlSTVNFcnpUbGRkQVpSczZUaHFHSnpwbllJRlZXY2pwRDlNQnI0dXhkUHhlLUN0R1NFX05HWlVKXzRybjBkV2luMFlRWUdWUXc?oc=5",
-                "date": "2026-05-12T19:43:39.000Z"
-            },
-            "whatsNew": "Open Art AI is providing free access to AI image creation tools, allowing users to generate images using artificial intelligence. This move is expected to democratize access to AI-powered art creation. The platform's free model is likely to attract a wide range of users, from hobbyists to professionals.",
-            "whyItMatters": "The availability of free AI image creation tools can significantly impact the creative industry, enabling more people to explore AI-generated art. This can lead to new forms of artistic expression and potentially disrupt traditional art markets.",
-            "howToUse": "Users can access Open Art AI's free image creation tools by visiting their website and following the provided instructions. Experimenting with different prompts and settings can help users achieve desired outcomes.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Hobbyists"
-            ],
-            "companies": [
-                "Open Art AI"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2156,7 +2124,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "note": null
         },
         {
@@ -2175,7 +2143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2184,7 +2152,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2193,7 +2161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "note": "Regulatory updates"
         },
         {
@@ -2211,7 +2179,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2220,7 +2188,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2240,7 +2208,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2443,7 +2411,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-26T21:41:30.950Z",
             "note": null
         },
         {
@@ -26208,6 +26176,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-8ktb861gn",
+            "title": "AI Image Creation",
+            "subtitle": "Open Art AI offers free AI image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Open Art AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRkl1ODZabFA1ZEtSenN1RjR6b0U5ZGh1cnlSTVNFcnpUbGRkQVpSczZUaHFHSnpwbllJRlZXY2pwRDlNQnI0dXhkUHhlLUN0R1NFX05HWlVKXzRybjBkV2luMFlRWUdWUXc?oc=5",
+                "date": "2026-05-12T19:43:39.000Z"
+            },
+            "whatsNew": "Open Art AI is providing free access to AI image creation tools, allowing users to generate images using artificial intelligence. This move is expected to democratize access to AI-powered art creation. The platform's free model is likely to attract a wide range of users, from hobbyists to professionals.",
+            "whyItMatters": "The availability of free AI image creation tools can significantly impact the creative industry, enabling more people to explore AI-generated art. This can lead to new forms of artistic expression and potentially disrupt traditional art markets.",
+            "howToUse": "Users can access Open Art AI's free image creation tools by visiting their website and following the provided instructions. Experimenting with different prompts and settings can help users achieve desired outcomes.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Hobbyists"
+            ],
+            "companies": [
+                "Open Art AI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
