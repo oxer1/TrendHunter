@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-25T22:58:08.343Z",
+        "scanDate": "2026-05-26T00:09:17.868Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 71,
         "categories": [
             "iGaming",
             "AI",
@@ -2186,39 +2186,6 @@
             "isNew": false
         },
         {
-            "id": "t-89o5zoq5c",
-            "title": "Albion Online",
-            "subtitle": "Sandbox Interactive's approach to building a scalable, cross-platform MMO with Unity",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "MMO",
-                "Cross-platform",
-                "Game development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/albion-online-cross-platform-pvp-mmo-architecture",
-                "date": "2026-05-12T00:00:00.000Z"
-            },
-            "whatsNew": "Albion Online's success demonstrates how technical vision and a deep commitment to the player community combine to create longevity. The game operates seamlessly across PC, Mac, Linux, iOS, Android, and Xbox Series X|S via Xbox Game Pass. Sandbox Interactive plans to transition from Unity's Built-In Render Pipeline to the Scriptable Render Pipeline (SRP) to better tune graphics per device.",
-            "whyItMatters": "Albion Online's technical foundations and commitment to community engagement provide a model for long-term success in the gaming industry. The game's ability to scale across platforms and maintain a unified experience is a significant achievement.",
-            "howToUse": "Game developers can learn from Sandbox Interactive's approach to building a scalable, cross-platform game with Unity, including the use of a single Unity project, decoupling simulation from visualization, and continuous engagement with the player community.",
-            "beneficiaries": [
-                "Game developers",
-                "MMO enthusiasts"
-            ],
-            "companies": [
-                "Sandbox Interactive",
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-5g3kau9m3",
             "title": "UK Horseracing Gains",
             "subtitle": "Challenger brands are making strides in UK horseracing clickshare according to Oddschecker",
@@ -2404,7 +2371,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T22:58:08.343Z",
+            "lastScan": "2026-05-26T00:09:17.868Z",
             "note": null
         },
         {
@@ -2423,7 +2390,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-25T22:58:08.343Z",
+            "lastScan": "2026-05-26T00:09:17.868Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2691,7 +2658,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-25T22:58:08.343Z",
+            "lastScan": "2026-05-26T00:09:17.868Z",
             "note": null
         },
         {
@@ -26082,6 +26049,39 @@
             ],
             "visualStyle": null,
             "cluster": "visual-style-trends",
+            "isNew": false
+        },
+        {
+            "id": "t-89o5zoq5c",
+            "title": "Albion Online",
+            "subtitle": "Sandbox Interactive's approach to building a scalable, cross-platform MMO with Unity",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "MMO",
+                "Cross-platform",
+                "Game development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/albion-online-cross-platform-pvp-mmo-architecture",
+                "date": "2026-05-12T00:00:00.000Z"
+            },
+            "whatsNew": "Albion Online's success demonstrates how technical vision and a deep commitment to the player community combine to create longevity. The game operates seamlessly across PC, Mac, Linux, iOS, Android, and Xbox Series X|S via Xbox Game Pass. Sandbox Interactive plans to transition from Unity's Built-In Render Pipeline to the Scriptable Render Pipeline (SRP) to better tune graphics per device.",
+            "whyItMatters": "Albion Online's technical foundations and commitment to community engagement provide a model for long-term success in the gaming industry. The game's ability to scale across platforms and maintain a unified experience is a significant achievement.",
+            "howToUse": "Game developers can learn from Sandbox Interactive's approach to building a scalable, cross-platform game with Unity, including the use of a single Unity project, decoupling simulation from visualization, and continuous engagement with the player community.",
+            "beneficiaries": [
+                "Game developers",
+                "MMO enthusiasts"
+            ],
+            "companies": [
+                "Sandbox Interactive",
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
