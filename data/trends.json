@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-26T09:49:17.858Z",
+        "scanDate": "2026-05-26T16:40:55.792Z",
         "version": "2.5.0",
-        "totalTrends": 66,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -51,7 +51,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-s7z1kpjwu",
@@ -80,7 +80,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wo737t8xk",
@@ -1811,36 +1811,6 @@
             "isNew": false
         },
         {
-            "id": "t-26vo2pwga",
-            "title": "Gambling Funds Raised",
-            "subtitle": "UK Gambling Commission releases Q4 2025 to 2026 official statistics on funds raised for good causes",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Funds Raised",
-                "Good Causes"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVBwNjNvUVVnaXBMTjctcUg5ekRxcG1ONS0xanZDbTNJdUxqVTFsb2NUaTFZUVBMZ2FDOVpOM2RqWXNqbG5wZFBWMEc0Y01YWlJJa29TMEF5OXZ5S2ppc1ZZck01OUczNWRqS1VQdVdXZVozNUdyOFhSNGJXTlhlSXpHaUhoQ2IxRnRpRUpTcWM3OHprVTZXOFcwZ3lHTGc3V0NwYllPdzdiNzlBbGp3ZTltLURfSlphVXdpX2ZJcnRuWDBGMFF5cDh3b19XSTNGeHpkUQ?oc=5",
-                "date": "2026-05-12T13:33:03.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has released official statistics on funds raised for good causes from Q4 2025 to 2026. The report highlights the gambling industry's contributions to charitable causes. The statistics provide insight into the industry's social responsibility efforts.",
-            "whyItMatters": "The report demonstrates the gambling industry's commitment to social responsibility and its impact on good causes. It also provides a benchmark for the industry's charitable contributions.",
-            "howToUse": "Operators can use the report to assess their own social responsibility efforts and identify areas for improvement. Regulators can use the data to inform policy decisions and ensure the industry is meeting its social responsibility obligations.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulators",
-                "Charitable Causes"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-eq6022c8y",
             "title": "New iGaming Studio",
             "subtitle": "Ex-888 executives launch startup studio following successful pre-seed funding round",
@@ -2030,37 +2000,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-xdz57njjo",
-            "title": "Bwin Takeover",
-            "subtitle": "Bwin.party admits to being in takeover talks, potentially impacting the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Mergers and Acquisitions",
-                "iGaming",
-                "Bwin.party"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GbEoyZ2JveEYzVW16bzNOaEFiS1NfN1lrcjRJQ1BGVkZxejRiOE9yejl4X3JtcEVkRGFIdlBlS1dlcGFrOW13WWZMMWJFQ2xwWUNHeTZZTTBFY2tqU3FHdjRlTHZsMC1MRENyUzMyYW1na3dMT0t6aVJR?oc=5",
-                "date": "2026-05-12T15:25:52.000Z"
-            },
-            "whatsNew": "Bwin.party has confirmed it is in talks regarding a potential takeover, which could lead to significant changes in the iGaming landscape. The details of the talks have not been disclosed. This move could indicate a larger trend of consolidation within the industry.",
-            "whyItMatters": "A takeover of Bwin.party could have major implications for the iGaming industry, potentially leading to shifts in market share and influencing regulatory environments. It also reflects the ongoing trend of consolidation in the sector.",
-            "howToUse": "Industry players should monitor the situation closely for potential opportunities or challenges arising from the takeover. Companies should be prepared to adapt to any changes in the market or regulatory landscape.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Bwin.party"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2217,7 +2156,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": null
         },
         {
@@ -2236,7 +2175,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2245,7 +2184,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2254,7 +2193,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "Regulatory updates"
         },
         {
@@ -2272,7 +2211,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2281,7 +2220,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2301,7 +2240,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2359,7 +2298,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2368,7 +2307,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2377,7 +2316,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "Style browsing signal"
         },
         {
@@ -2414,7 +2353,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": null
         },
         {
@@ -2423,7 +2362,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": null
         },
         {
@@ -2432,7 +2371,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-25T08:54:28.174Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": null
         },
         {
@@ -2459,7 +2398,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-20T05:02:36.097Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2504,7 +2443,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T09:49:17.858Z",
+            "lastScan": "2026-05-26T16:40:55.792Z",
             "note": null
         },
         {
@@ -26205,6 +26144,67 @@
             ],
             "companies": [
                 "Oddschecker"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-26vo2pwga",
+            "title": "Gambling Funds Raised",
+            "subtitle": "UK Gambling Commission releases Q4 2025 to 2026 official statistics on funds raised for good causes",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Funds Raised",
+                "Good Causes"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVBwNjNvUVVnaXBMTjctcUg5ekRxcG1ONS0xanZDbTNJdUxqVTFsb2NUaTFZUVBMZ2FDOVpOM2RqWXNqbG5wZFBWMEc0Y01YWlJJa29TMEF5OXZ5S2ppc1ZZck01OUczNWRqS1VQdVdXZVozNUdyOFhSNGJXTlhlSXpHaUhoQ2IxRnRpRUpTcWM3OHprVTZXOFcwZ3lHTGc3V0NwYllPdzdiNzlBbGp3ZTltLURfSlphVXdpX2ZJcnRuWDBGMFF5cDh3b19XSTNGeHpkUQ?oc=5",
+                "date": "2026-05-12T13:33:03.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released official statistics on funds raised for good causes from Q4 2025 to 2026. The report highlights the gambling industry's contributions to charitable causes. The statistics provide insight into the industry's social responsibility efforts.",
+            "whyItMatters": "The report demonstrates the gambling industry's commitment to social responsibility and its impact on good causes. It also provides a benchmark for the industry's charitable contributions.",
+            "howToUse": "Operators can use the report to assess their own social responsibility efforts and identify areas for improvement. Regulators can use the data to inform policy decisions and ensure the industry is meeting its social responsibility obligations.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators",
+                "Charitable Causes"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xdz57njjo",
+            "title": "Bwin Takeover",
+            "subtitle": "Bwin.party admits to being in takeover talks, potentially impacting the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Mergers and Acquisitions",
+                "iGaming",
+                "Bwin.party"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GbEoyZ2JveEYzVW16bzNOaEFiS1NfN1lrcjRJQ1BGVkZxejRiOE9yejl4X3JtcEVkRGFIdlBlS1dlcGFrOW13WWZMMWJFQ2xwWUNHeTZZTTBFY2tqU3FHdjRlTHZsMC1MRENyUzMyYW1na3dMT0t6aVJR?oc=5",
+                "date": "2026-05-12T15:25:52.000Z"
+            },
+            "whatsNew": "Bwin.party has confirmed it is in talks regarding a potential takeover, which could lead to significant changes in the iGaming landscape. The details of the talks have not been disclosed. This move could indicate a larger trend of consolidation within the industry.",
+            "whyItMatters": "A takeover of Bwin.party could have major implications for the iGaming industry, potentially leading to shifts in market share and influencing regulatory environments. It also reflects the ongoing trend of consolidation in the sector.",
+            "howToUse": "Industry players should monitor the situation closely for potential opportunities or challenges arising from the takeover. Companies should be prepared to adapt to any changes in the market or regulatory landscape.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Bwin.party"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
