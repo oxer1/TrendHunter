@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-26T05:01:38.774Z",
+        "scanDate": "2026-05-26T09:49:17.858Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6lhgo1s0k",
+            "title": "Spain Blocks",
+            "subtitle": "Spain blocks Kalshi and Polymarket, opening disciplinary proceedings",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Spain",
+                "Kalshi",
+                "Polymarket"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaW5OUFdmNWluTVJJejlxN2VfVXhhZHkwOE5CVlhUNTlseFVWSDFpNmt3TTdHNjNGMDdUN3JtcHNocVJQa0F5d1RZYnFpVkZOd1Zpd2lOUHhEUXVrQVNCZUViOHMwank2UFRqa0l0M3pWUzVNUkw3bHJXX3h0QV9Mb0lpVklSTXlhZW5PY1kyaF80Y2JSaFVITkZ4VVBuM0lxNEw5WVJ1MA?oc=5",
+                "date": "2026-05-26T09:38:14.000Z"
+            },
+            "whatsNew": "Spanish authorities have blocked Kalshi and Polymarket, initiating disciplinary actions against the companies. This move reflects increased regulatory scrutiny in the region.",
+            "whyItMatters": "The blocking of these platforms by Spain indicates a tightening of regulations in the European iGaming market, potentially impacting operators and players alike.",
+            "howToUse": "Operators should ensure compliance with local regulations to avoid similar disciplinary actions, while players must be aware of the legal status of platforms they use.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Compliant Operators"
+            ],
+            "companies": [
+                "Kalshi",
+                "Polymarket"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-s7z1kpjwu",
+            "title": "UK Deposit Limits",
+            "subtitle": "UK Gambling Commission extends implementation for new deposit limit requirements",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Deposit Limits",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNThmd3dxd3Awc1JqZG1CUzlwN0w3MlBFSnhyVUxvV1EtbkVmZlhHdngwOU9GVTh1S3FlVUFldkVoWU45MGNZZUxwTTduclNTMGxabjZrNFZDZ3p0YjhHak5qa0UwYk1NMXdyOTV3ejFrWEtYR2NHV1lnWUdqSXhBUV8yNEdSVXdxTEFSeEhPNXdfUXE1eGM3UXNVREZuU0Qzem9yT2s4dk5ncFNaTW9Z?oc=5",
+                "date": "2026-05-26T09:13:03.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has extended the implementation timeline for new deposit limit requirements. This change aims to enhance player protection and responsible gambling practices.",
+            "whyItMatters": "The extension allows operators more time to adapt to the new requirements, ensuring a smoother transition and better compliance with regulatory standards.",
+            "howToUse": "Operators should review and adjust their deposit limit systems to meet the new requirements, prioritizing player protection and responsible gambling.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-wo737t8xk",
             "title": "AI Art Studio",
@@ -50,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xb14pa7ap",
@@ -82,37 +144,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
-        },
-        {
-            "id": "t-mboa6yyzh",
-            "title": "HiDream O1",
-            "subtitle": "HiDream O1 image model checkpoint release on Civitai",
-            "category": "AI",
-            "tags": [
-                "Image Generation",
-                "AI Model",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVVNHRHljMTc3STlzby1Dd215LTkwX0tOTVFPOVlXRmJtdEVhUUZ4LUFxR1puUnFOOUVnM19ITmdPNWRVTUpscmFtSUl5NDdhYWF2VDNkekEyOUw4UEdDbA?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "The HiDream O1 image model checkpoint is now available on Civitai, allowing users to generate high-quality images. This model represents a significant advancement in AI-generated imagery. The release of this checkpoint enables developers to integrate the model into their applications.",
-            "whyItMatters": "The availability of the HiDream O1 checkpoint on Civitai is crucial for developers and researchers working on AI image generation projects, as it provides access to a high-performance model. This can lead to breakthroughs in various fields, including gaming, art, and design.",
-            "howToUse": "Developers can utilize the HiDream O1 checkpoint by integrating it into their existing projects, leveraging its capabilities to generate realistic images. This can be achieved by downloading the checkpoint from Civitai and incorporating it into their AI pipelines.",
-            "beneficiaries": [
-                "Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -422,37 +453,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-iiptd1b51",
-            "title": "Bingo AGM Insights",
-            "subtitle": "Gambling Commission's Sarah Gardner speech at The Bingo Association AGM",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Bingo Association",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWUybV9VcmNtYWZvT0xYNnJIRjFiMGxBR1ozVTlhX0ZDeENzN05GclhDLVota0xfMi01TUVOZFd6bUhLdmJDUmdXT0RZT3Y2VHhvcThYc2c3ekprdXVHVmpnY0ZlWnUySmkxVXNSY2Rqa0VXZTh3Z0wxa1VwRlNJdGJydGlBMTlzb25ZV05qZTFXSml0NlVSYg?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "The Bingo Association held its AGM, featuring a speech by Sarah Gardner from the Gambling Commission. The speech likely covered regulatory updates and industry insights.",
-            "whyItMatters": "The speech may have implications for bingo operators and the broader iGaming industry, particularly regarding regulation and compliance.",
-            "howToUse": "Industry stakeholders can review the speech for insights into regulatory developments and potential impacts on their operations.",
-            "beneficiaries": [
-                "Bingo Operators",
-                "iGaming Regulators"
-            ],
-            "companies": [
-                "The Bingo Association"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1473,38 +1473,6 @@
             "isNew": false
         },
         {
-            "id": "t-1j1nzdant",
-            "title": "Nova Anime XL",
-            "subtitle": "Civitai releases Nova Anime XL - IL v19.0, an update to their illustrious checkpoint model",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Nova Anime XL",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQ2Q3Vy1yZXBYOVpnUUlWOVk1MkZDRERhaDhiN0o1TE9hYUU0WVRORzUyUmxPbE5kVUVyNmRJTVRCM0dDYkZhOXJtaUZiSTljT3hSNlZTa2xEWDA?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "Nova Anime XL - IL v19.0 is the latest update to Civitai's illustrious checkpoint model, bringing new features and improvements to AI art generation. This update showcases the rapid advancement in AI art technology. The model is designed to generate high-quality anime-style images.",
-            "whyItMatters": "This update matters because it demonstrates the growing capabilities of AI in art generation, potentially changing the way art is created and consumed. It also highlights Civitai's role in pushing the boundaries of AI art technology.",
-            "howToUse": "Artists and developers can utilize Nova Anime XL - IL v19.0 to generate unique anime-style artwork, explore new creative possibilities, and integrate AI-generated art into their projects.",
-            "beneficiaries": [
-                "Artists",
-                "Developers",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-xsqu5ybo4",
             "title": "AI Video Community",
             "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
@@ -1530,38 +1498,6 @@
             ],
             "companies": [
                 "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-x9wy9yjl7",
-            "title": "HeyGen Alternatives",
-            "subtitle": "Synthesia reviews the best alternatives to HeyGen in 2026",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "HeyGen alternatives",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wYUdxU2lBS1lTdExkSm9wVlNUcUZKdjdzZkIyUXNRdFV0MVFrS0dOLTlQMG5iLUdtcVE3Y3gwZUVQQW83aFloMUY5SUtKQ1pFSi1HOVBmaG1pWmtpZ1ZhUk5VT0hjMW1kbHlDUkZn?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia has tested and listed the top 6 alternatives to HeyGen, a popular AI video generation tool. These alternatives offer similar or improved functionality for various use cases. The list includes tools with advanced features for video creation and editing.",
-            "whyItMatters": "The availability of HeyGen alternatives matters because it gives users more options for AI-powered video creation, potentially leading to more innovative and accessible video content. This can impact the iGaming industry by enabling the creation of engaging video content for marketing and player engagement.",
-            "howToUse": "Users can explore these alternatives to find the best fit for their specific needs, such as video marketing or game development. By trying out these tools, users can leverage AI for creative work and improve their video content creation workflow.",
-            "beneficiaries": [
-                "Game developers",
-                "Marketers",
-                "Content creators"
-            ],
-            "companies": [
-                "Synthesia"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
@@ -1691,38 +1627,6 @@
             "isNew": false
         },
         {
-            "id": "t-eadvupzat",
-            "title": "Lora Tester",
-            "subtitle": "Civitai releases Lora tester with ComfyUI and Flux.1 Workflows",
-            "category": "AI",
-            "tags": [
-                "Lora",
-                "ComfyUI",
-                "Flux.1",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalZzWjBYak1zeEgwN1U1aUw1YU5yckJxS25HdnAzU2M0TGItNUtlN0pHUU1zc2pEcGROUDMza3Z3alptM0J6LXNHTFJnYkl1Y3FJMHN6b3ltMF9hdVgxR19xZVhRVVV3ZEN3V0dlbm85SmUxblZyY3N1RmlSdDBOeThsQ2g5aWdw?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai introduces a Lora tester with 6 epochs and 3 prompts, featuring ComfyUI and Flux.1 Workflows. This tool aims to simplify the testing process for Lora models.",
-            "whyItMatters": "The Lora tester can significantly improve the efficiency of AI model development, particularly in the context of text-to-image synthesis. It provides a streamlined interface for testing and refining Lora models.",
-            "howToUse": "Developers can utilize the Lora tester by accessing it through Civitai's platform, where they can input their prompts and epochs to test and fine-tune their models.",
-            "beneficiaries": [
-                "AI Developers",
-                "Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-j9lg1gsdw",
             "title": "AI Video Tools",
             "subtitle": "Civitai updates DaSiWa Wan2.2 Workflows with new features and FastFidelity C-AiO v7.8",
@@ -1816,35 +1720,6 @@
             "isNew": false
         },
         {
-            "id": "t-o5r4eao3t",
-            "title": "ADR Complaint",
-            "subtitle": "UK Gambling Commission provides guidance on complaining about Alternative Dispute Resolution providers",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Alternative Dispute Resolution",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnpPaWhlXzVuZ2ZWOU9zaHlSSC03OFd4VXdQN0JqR1NrSHBIaEpSakRCaHNqTDFELVhOam92T190cEVob2JlVXNmQkhZUUkxU1JXaUltUDBUT0tiRkdGaGhWV0piRG9UTUNzMjR3OG5yWExSZ3BNeHoxZGJjdmctRlVFdVdybjZfeTJpUFhlM2EtclFYdVpwS2xNdVlWSlZxWDdTMXdZdzNrMGYyd0pHdEJTdVdXWE94S25V?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has outlined a process for gamblers to complain about Alternative Dispute Resolution providers, enhancing consumer protection. This move aims to ensure fairness and transparency in dispute resolution. The commission's guidance provides a clear pathway for resolving issues.",
-            "whyItMatters": "This development matters as it strengthens consumer rights within the iGaming industry, promoting a safer and more regulated environment. It also underscores the commission's commitment to protecting gamblers.",
-            "howToUse": "Gamblers can use this guidance to navigate the complaints process effectively, ensuring their issues are addressed promptly and fairly.",
-            "beneficiaries": [
-                "Gamblers",
-                "iGaming Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-wbchu2huy",
             "title": "AI Shift Hits",
             "subtitle": "Gambling.com Group announces redundancies amid AI focus",
@@ -1873,37 +1748,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-5cmvqesdw",
-            "title": "ComfyUI Update",
-            "subtitle": "Civitai releases ComfyUI Image Workflows V35, enhancing image processing capabilities",
-            "category": "AI",
-            "tags": [
-                "ComfyUI",
-                "Image Workflows",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "ComfyUI Image Workflows V35 introduces improved image processing features, enhancing user experience and efficiency. This update is part of Civitai's ongoing efforts to refine their tools. The new version aims to simplify image workflows, making it easier for users to manage and edit images.",
-            "whyItMatters": "The update matters because it showcases Civitai's commitment to improving their tools, which can significantly impact the productivity and creativity of users working with images. This can have a ripple effect, influencing the quality and speed of content creation in various fields.",
-            "howToUse": "To leverage the new features, users should update to ComfyUI Image Workflows V35 and explore the enhanced image processing capabilities, which can be applied to various projects requiring efficient image management and editing.",
-            "beneficiaries": [
-                "Graphic Designers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1994,37 +1838,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-gsv2i6033",
-            "title": "AI Art Model",
-            "subtitle": "Illustrious LoRA model release for Ishigami Nozomi",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "LoRA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wS1FFQzJUU2NWOTNPNGY5M1NlVXBnWmdmWWpHb2w3d1RCdVRpX2FnZWRGMWJrX1JKMUxOQkNTdnAtcklVQW5HbElKRkk3bmhucV9FQkJtdEloMnhlVW0wcGlRZ2JGcHJSZ0Zxamtlci1OLV9RYWREN1dKYUQ?oc=5",
-                "date": "2026-05-12T07:00:00.000Z"
-            },
-            "whatsNew": "The Illustrious LoRA model v1.0 for Ishigami Nozomi has been released on Civitai, allowing for AI-generated art based on the character. This model utilizes the latest advancements in AI art generation. The release is part of the growing trend of AI art models for popular characters.",
-            "whyItMatters": "This release showcases the increasing capability of AI in generating art that mimics specific styles or characters, which can be impactful for the gaming and art communities. It also highlights the growing importance of platforms like Civitai in distributing and accessing AI models.",
-            "howToUse": "Users can access the model through Civitai and use it to generate art based on Ishigami Nozomi, experimenting with different prompts and settings to achieve desired results.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2248,37 +2061,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-5g3kau9m3",
-            "title": "UK Horseracing Gains",
-            "subtitle": "Challenger brands are making strides in UK horseracing clickshare according to Oddschecker",
-            "category": "iGaming",
-            "tags": [
-                "UK Horseracing",
-                "Oddschecker",
-                "Challenger Brands"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzVUOUR1X183RHdOUmhlZlJiTTh5Qm45enRtSzFuR2RFazUwR3hKSnlrZ1dOeHctb19BeldZcVVVa2pTSkljRjJRUDgyaE96Uzk0LWRlcElJMHZLSG1wQnpjTTZPcWplT2V4VlF5Z1FSbElraW13TUdYZG8xUnRkX3YxTnJ2bGVENnJHM3o4cmtldXZhMEJMUExzNHN6SExwek1BNG13bmxDTU1C?oc=5",
-                "date": "2026-05-12T09:09:09.000Z"
-            },
-            "whatsNew": "Challenger brands are gaining ground in the UK horseracing market, with Oddschecker reporting significant clickshare strides. This shift indicates a changing landscape in the UK's online betting scene. New entrants are disrupting traditional market dynamics.",
-            "whyItMatters": "The growth of challenger brands in UK horseracing signals increased competition and innovation in the iGaming sector, potentially leading to better services and offers for consumers. This trend could also prompt established brands to rethink their strategies.",
-            "howToUse": "Operators can leverage this trend by focusing on innovative marketing strategies and enhancing their user experience to stay competitive. They should also monitor the performance of challenger brands to identify successful tactics.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Betting Enthusiasts"
-            ],
-            "companies": [
-                "Oddschecker"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2435,7 +2217,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": null
         },
         {
@@ -2454,7 +2236,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2463,7 +2245,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2472,7 +2254,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "Regulatory updates"
         },
         {
@@ -2490,7 +2272,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2499,7 +2281,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2519,7 +2301,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2577,7 +2359,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2586,7 +2368,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2595,7 +2377,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": "Style browsing signal"
         },
         {
@@ -2632,7 +2414,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": null
         },
         {
@@ -2641,7 +2423,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": null
         },
         {
@@ -2722,7 +2504,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T05:01:38.774Z",
+            "lastScan": "2026-05-26T09:49:17.858Z",
             "note": null
         },
         {
@@ -26143,6 +25925,286 @@
             "companies": [
                 "Sandbox Interactive",
                 "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-mboa6yyzh",
+            "title": "HiDream O1",
+            "subtitle": "HiDream O1 image model checkpoint release on Civitai",
+            "category": "AI",
+            "tags": [
+                "Image Generation",
+                "AI Model",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVVNHRHljMTc3STlzby1Dd215LTkwX0tOTVFPOVlXRmJtdEVhUUZ4LUFxR1puUnFOOUVnM19ITmdPNWRVTUpscmFtSUl5NDdhYWF2VDNkekEyOUw4UEdDbA?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The HiDream O1 image model checkpoint is now available on Civitai, allowing users to generate high-quality images. This model represents a significant advancement in AI-generated imagery. The release of this checkpoint enables developers to integrate the model into their applications.",
+            "whyItMatters": "The availability of the HiDream O1 checkpoint on Civitai is crucial for developers and researchers working on AI image generation projects, as it provides access to a high-performance model. This can lead to breakthroughs in various fields, including gaming, art, and design.",
+            "howToUse": "Developers can utilize the HiDream O1 checkpoint by integrating it into their existing projects, leveraging its capabilities to generate realistic images. This can be achieved by downloading the checkpoint from Civitai and incorporating it into their AI pipelines.",
+            "beneficiaries": [
+                "Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-iiptd1b51",
+            "title": "Bingo AGM Insights",
+            "subtitle": "Gambling Commission's Sarah Gardner speech at The Bingo Association AGM",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Bingo Association",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWUybV9VcmNtYWZvT0xYNnJIRjFiMGxBR1ozVTlhX0ZDeENzN05GclhDLVota0xfMi01TUVOZFd6bUhLdmJDUmdXT0RZT3Y2VHhvcThYc2c3ekprdXVHVmpnY0ZlWnUySmkxVXNSY2Rqa0VXZTh3Z0wxa1VwRlNJdGJydGlBMTlzb25ZV05qZTFXSml0NlVSYg?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The Bingo Association held its AGM, featuring a speech by Sarah Gardner from the Gambling Commission. The speech likely covered regulatory updates and industry insights.",
+            "whyItMatters": "The speech may have implications for bingo operators and the broader iGaming industry, particularly regarding regulation and compliance.",
+            "howToUse": "Industry stakeholders can review the speech for insights into regulatory developments and potential impacts on their operations.",
+            "beneficiaries": [
+                "Bingo Operators",
+                "iGaming Regulators"
+            ],
+            "companies": [
+                "The Bingo Association"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-1j1nzdant",
+            "title": "Nova Anime XL",
+            "subtitle": "Civitai releases Nova Anime XL - IL v19.0, an update to their illustrious checkpoint model",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Nova Anime XL",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQ2Q3Vy1yZXBYOVpnUUlWOVk1MkZDRERhaDhiN0o1TE9hYUU0WVRORzUyUmxPbE5kVUVyNmRJTVRCM0dDYkZhOXJtaUZiSTljT3hSNlZTa2xEWDA?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "Nova Anime XL - IL v19.0 is the latest update to Civitai's illustrious checkpoint model, bringing new features and improvements to AI art generation. This update showcases the rapid advancement in AI art technology. The model is designed to generate high-quality anime-style images.",
+            "whyItMatters": "This update matters because it demonstrates the growing capabilities of AI in art generation, potentially changing the way art is created and consumed. It also highlights Civitai's role in pushing the boundaries of AI art technology.",
+            "howToUse": "Artists and developers can utilize Nova Anime XL - IL v19.0 to generate unique anime-style artwork, explore new creative possibilities, and integrate AI-generated art into their projects.",
+            "beneficiaries": [
+                "Artists",
+                "Developers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-x9wy9yjl7",
+            "title": "HeyGen Alternatives",
+            "subtitle": "Synthesia reviews the best alternatives to HeyGen in 2026",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "HeyGen alternatives",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wYUdxU2lBS1lTdExkSm9wVlNUcUZKdjdzZkIyUXNRdFV0MVFrS0dOLTlQMG5iLUdtcVE3Y3gwZUVQQW83aFloMUY5SUtKQ1pFSi1HOVBmaG1pWmtpZ1ZhUk5VT0hjMW1kbHlDUkZn?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia has tested and listed the top 6 alternatives to HeyGen, a popular AI video generation tool. These alternatives offer similar or improved functionality for various use cases. The list includes tools with advanced features for video creation and editing.",
+            "whyItMatters": "The availability of HeyGen alternatives matters because it gives users more options for AI-powered video creation, potentially leading to more innovative and accessible video content. This can impact the iGaming industry by enabling the creation of engaging video content for marketing and player engagement.",
+            "howToUse": "Users can explore these alternatives to find the best fit for their specific needs, such as video marketing or game development. By trying out these tools, users can leverage AI for creative work and improve their video content creation workflow.",
+            "beneficiaries": [
+                "Game developers",
+                "Marketers",
+                "Content creators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-eadvupzat",
+            "title": "Lora Tester",
+            "subtitle": "Civitai releases Lora tester with ComfyUI and Flux.1 Workflows",
+            "category": "AI",
+            "tags": [
+                "Lora",
+                "ComfyUI",
+                "Flux.1",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalZzWjBYak1zeEgwN1U1aUw1YU5yckJxS25HdnAzU2M0TGItNUtlN0pHUU1zc2pEcGROUDMza3Z3alptM0J6LXNHTFJnYkl1Y3FJMHN6b3ltMF9hdVgxR19xZVhRVVV3ZEN3V0dlbm85SmUxblZyY3N1RmlSdDBOeThsQ2g5aWdw?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces a Lora tester with 6 epochs and 3 prompts, featuring ComfyUI and Flux.1 Workflows. This tool aims to simplify the testing process for Lora models.",
+            "whyItMatters": "The Lora tester can significantly improve the efficiency of AI model development, particularly in the context of text-to-image synthesis. It provides a streamlined interface for testing and refining Lora models.",
+            "howToUse": "Developers can utilize the Lora tester by accessing it through Civitai's platform, where they can input their prompts and epochs to test and fine-tune their models.",
+            "beneficiaries": [
+                "AI Developers",
+                "Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-o5r4eao3t",
+            "title": "ADR Complaint",
+            "subtitle": "UK Gambling Commission provides guidance on complaining about Alternative Dispute Resolution providers",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Alternative Dispute Resolution",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnpPaWhlXzVuZ2ZWOU9zaHlSSC03OFd4VXdQN0JqR1NrSHBIaEpSakRCaHNqTDFELVhOam92T190cEVob2JlVXNmQkhZUUkxU1JXaUltUDBUT0tiRkdGaGhWV0piRG9UTUNzMjR3OG5yWExSZ3BNeHoxZGJjdmctRlVFdVdybjZfeTJpUFhlM2EtclFYdVpwS2xNdVlWSlZxWDdTMXdZdzNrMGYyd0pHdEJTdVdXWE94S25V?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has outlined a process for gamblers to complain about Alternative Dispute Resolution providers, enhancing consumer protection. This move aims to ensure fairness and transparency in dispute resolution. The commission's guidance provides a clear pathway for resolving issues.",
+            "whyItMatters": "This development matters as it strengthens consumer rights within the iGaming industry, promoting a safer and more regulated environment. It also underscores the commission's commitment to protecting gamblers.",
+            "howToUse": "Gamblers can use this guidance to navigate the complaints process effectively, ensuring their issues are addressed promptly and fairly.",
+            "beneficiaries": [
+                "Gamblers",
+                "iGaming Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-5cmvqesdw",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows V35, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows V35 introduces improved image processing features, enhancing user experience and efficiency. This update is part of Civitai's ongoing efforts to refine their tools. The new version aims to simplify image workflows, making it easier for users to manage and edit images.",
+            "whyItMatters": "The update matters because it showcases Civitai's commitment to improving their tools, which can significantly impact the productivity and creativity of users working with images. This can have a ripple effect, influencing the quality and speed of content creation in various fields.",
+            "howToUse": "To leverage the new features, users should update to ComfyUI Image Workflows V35 and explore the enhanced image processing capabilities, which can be applied to various projects requiring efficient image management and editing.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gsv2i6033",
+            "title": "AI Art Model",
+            "subtitle": "Illustrious LoRA model release for Ishigami Nozomi",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wS1FFQzJUU2NWOTNPNGY5M1NlVXBnWmdmWWpHb2w3d1RCdVRpX2FnZWRGMWJrX1JKMUxOQkNTdnAtcklVQW5HbElKRkk3bmhucV9FQkJtdEloMnhlVW0wcGlRZ2JGcHJSZ0Zxamtlci1OLV9RYWREN1dKYUQ?oc=5",
+                "date": "2026-05-12T07:00:00.000Z"
+            },
+            "whatsNew": "The Illustrious LoRA model v1.0 for Ishigami Nozomi has been released on Civitai, allowing for AI-generated art based on the character. This model utilizes the latest advancements in AI art generation. The release is part of the growing trend of AI art models for popular characters.",
+            "whyItMatters": "This release showcases the increasing capability of AI in generating art that mimics specific styles or characters, which can be impactful for the gaming and art communities. It also highlights the growing importance of platforms like Civitai in distributing and accessing AI models.",
+            "howToUse": "Users can access the model through Civitai and use it to generate art based on Ishigami Nozomi, experimenting with different prompts and settings to achieve desired results.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-5g3kau9m3",
+            "title": "UK Horseracing Gains",
+            "subtitle": "Challenger brands are making strides in UK horseracing clickshare according to Oddschecker",
+            "category": "iGaming",
+            "tags": [
+                "UK Horseracing",
+                "Oddschecker",
+                "Challenger Brands"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzVUOUR1X183RHdOUmhlZlJiTTh5Qm45enRtSzFuR2RFazUwR3hKSnlrZ1dOeHctb19BeldZcVVVa2pTSkljRjJRUDgyaE96Uzk0LWRlcElJMHZLSG1wQnpjTTZPcWplT2V4VlF5Z1FSbElraW13TUdYZG8xUnRkX3YxTnJ2bGVENnJHM3o4cmtldXZhMEJMUExzNHN6SExwek1BNG13bmxDTU1C?oc=5",
+                "date": "2026-05-12T09:09:09.000Z"
+            },
+            "whatsNew": "Challenger brands are gaining ground in the UK horseracing market, with Oddschecker reporting significant clickshare strides. This shift indicates a changing landscape in the UK's online betting scene. New entrants are disrupting traditional market dynamics.",
+            "whyItMatters": "The growth of challenger brands in UK horseracing signals increased competition and innovation in the iGaming sector, potentially leading to better services and offers for consumers. This trend could also prompt established brands to rethink their strategies.",
+            "howToUse": "Operators can leverage this trend by focusing on innovative marketing strategies and enhancing their user experience to stay competitive. They should also monitor the performance of challenger brands to identify successful tactics.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Enthusiasts"
+            ],
+            "companies": [
+                "Oddschecker"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
