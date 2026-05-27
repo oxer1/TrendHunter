@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-26T23:06:39.011Z",
+        "scanDate": "2026-05-27T03:31:00.196Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -1811,37 +1811,6 @@
             "isNew": false
         },
         {
-            "id": "t-o6zn0sunz",
-            "title": "Unity Grants",
-            "subtitle": "Unity for Humanity 2026 Grant winners announced, focusing on social impact and innovation",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Game Development",
-                "Social Impact"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/unity-for-humanity-2026-winner-announcement",
-                "date": "2026-05-13T00:00:00.000Z"
-            },
-            "whatsNew": "The 2026 Unity for Humanity Grant winners have been announced, with 10 winners and 3 honorable mentions. The projects focus on using real-time 3D to drive positive change and address complex global challenges. The winners will receive a total of $600,000 in funding to support their projects.",
-            "whyItMatters": "The Unity for Humanity program supports innovative projects that use technology to drive positive social change. The winners of this year's grant demonstrate the potential for real-time 3D technology to address complex global challenges and improve people's lives.",
-            "howToUse": "Developers and creators can apply for the Unity for Humanity grant to support their own projects that focus on social impact and innovation. They can also join the Unity for Humanity Discord channel and sign up to receive updates on the program.",
-            "beneficiaries": [
-                "Game Developers",
-                "Social Impact Organizations"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-02ffvup1m",
             "title": "Aviator Tops Latam",
             "subtitle": "Aviator fends off Pragmatic Play in Latam slots market",
@@ -1902,40 +1871,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-6k0y75ppa",
-            "title": "Unity Attain Partnership",
-            "subtitle": "Unity partners with Attain to provide purchase-based audience targeting in mobile gaming",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Attain",
-                "Mobile Gaming",
-                "Programmatic Advertising"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/attain-partnership-measuring-mobile-gaming-sales-outcomes",
-                "date": "2026-05-13T00:00:00.000Z"
-            },
-            "whatsNew": "Unity's partnership with Attain enables programmatic buyers to target purchase-based audiences in mobile gaming, using real-time verified purchase data to optimize media effectiveness. This collaboration allows for live sales performance monitoring and adjustment of media placement and creative strategies in real-time.",
-            "whyItMatters": "This partnership matters because it helps programmatic buyers tie audience activation directly to sales outcomes, rather than relying on proxies like clicks or completed views. It also enables advertisers to reach high-intent consumers in premium gaming environments.",
-            "howToUse": "Advertisers can use this partnership to activate purchase-based audiences in mobile gaming and optimize their media effectiveness by leveraging Attain's real-time verified purchase data and Unity's mobile inventory.",
-            "beneficiaries": [
-                "Programmatic Buyers",
-                "Advertisers",
-                "Agencies"
-            ],
-            "companies": [
-                "Unity",
-                "Attain"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         }
     ],
@@ -2093,7 +2028,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T23:06:39.011Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": null
         },
         {
@@ -2112,7 +2047,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-26T23:06:39.011Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2121,7 +2056,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T21:41:30.950Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2130,7 +2065,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T21:41:30.950Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "Regulatory updates"
         },
         {
@@ -2148,7 +2083,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T21:41:30.950Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2157,7 +2092,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T21:41:30.950Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2177,7 +2112,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-26T21:41:30.950Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2235,7 +2170,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T19:17:47.253Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2244,7 +2179,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T16:40:55.792Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2253,7 +2188,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T16:40:55.792Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": "Style browsing signal"
         },
         {
@@ -2290,7 +2225,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T16:40:55.792Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": null
         },
         {
@@ -2299,7 +2234,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-26T16:40:55.792Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": null
         },
         {
@@ -2380,7 +2315,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T23:06:39.011Z",
+            "lastScan": "2026-05-27T03:31:00.197Z",
             "note": null
         },
         {
@@ -26208,6 +26143,71 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-o6zn0sunz",
+            "title": "Unity Grants",
+            "subtitle": "Unity for Humanity 2026 Grant winners announced, focusing on social impact and innovation",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Social Impact"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/unity-for-humanity-2026-winner-announcement",
+                "date": "2026-05-13T00:00:00.000Z"
+            },
+            "whatsNew": "The 2026 Unity for Humanity Grant winners have been announced, with 10 winners and 3 honorable mentions. The projects focus on using real-time 3D to drive positive change and address complex global challenges. The winners will receive a total of $600,000 in funding to support their projects.",
+            "whyItMatters": "The Unity for Humanity program supports innovative projects that use technology to drive positive social change. The winners of this year's grant demonstrate the potential for real-time 3D technology to address complex global challenges and improve people's lives.",
+            "howToUse": "Developers and creators can apply for the Unity for Humanity grant to support their own projects that focus on social impact and innovation. They can also join the Unity for Humanity Discord channel and sign up to receive updates on the program.",
+            "beneficiaries": [
+                "Game Developers",
+                "Social Impact Organizations"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-6k0y75ppa",
+            "title": "Unity Attain Partnership",
+            "subtitle": "Unity partners with Attain to provide purchase-based audience targeting in mobile gaming",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Attain",
+                "Mobile Gaming",
+                "Programmatic Advertising"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/attain-partnership-measuring-mobile-gaming-sales-outcomes",
+                "date": "2026-05-13T00:00:00.000Z"
+            },
+            "whatsNew": "Unity's partnership with Attain enables programmatic buyers to target purchase-based audiences in mobile gaming, using real-time verified purchase data to optimize media effectiveness. This collaboration allows for live sales performance monitoring and adjustment of media placement and creative strategies in real-time.",
+            "whyItMatters": "This partnership matters because it helps programmatic buyers tie audience activation directly to sales outcomes, rather than relying on proxies like clicks or completed views. It also enables advertisers to reach high-intent consumers in premium gaming environments.",
+            "howToUse": "Advertisers can use this partnership to activate purchase-based audiences in mobile gaming and optimize their media effectiveness by leveraging Attain's real-time verified purchase data and Unity's mobile inventory.",
+            "beneficiaries": [
+                "Programmatic Buyers",
+                "Advertisers",
+                "Agencies"
+            ],
+            "companies": [
+                "Unity",
+                "Attain"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
