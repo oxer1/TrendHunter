@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-28T06:52:59.435Z",
+        "scanDate": "2026-05-28T10:53:14.062Z",
         "version": "2.5.0",
-        "totalTrends": 54,
+        "totalTrends": 49,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,102 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-oq14jvrui",
+            "title": "Entain Board Update",
+            "subtitle": "Entain adds former Aristocrat head to its board of directors",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "Aristocrat",
+                "Board of Directors"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVhoV0lNTm1HX290Zk9hSXRaTlFWcWhJODdZRW5TaVdrUkROb0UwZ082d2lHN3NNVncwV2dWeEZNTE1kalFiMXgtY3B4QzF5dnQ3ZnBacnZ3V25BQlNtMWtQeG1KbXpsZlVQN0g5clFMQW9EdUM2YVdWOXRXMFhib005NWZ1dHkzdVE1WVp0azA?oc=5",
+                "date": "2026-05-28T10:14:51.000Z"
+            },
+            "whatsNew": "Entain has appointed the former head of Aristocrat to its board of directors, potentially signaling a strategic shift in the company's direction. This move could bring in fresh expertise from the gaming industry. The appointment may influence Entain's future decisions and partnerships.",
+            "whyItMatters": "This appointment could impact Entain's strategy and operations, given the experience the new director brings from Aristocrat. It may also reflect a broader trend of iGaming companies seeking to bolster their leadership with seasoned industry professionals.",
+            "howToUse": "Companies in the iGaming sector can consider similar strategic appointments to enhance their boards with diverse and experienced leadership, potentially driving innovation and growth.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Investors"
+            ],
+            "companies": [
+                "Entain",
+                "Aristocrat"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-csm9s6gxa",
+            "title": "AI Background",
+            "subtitle": "OpenArt introduces a free online AI background remover tool",
+            "category": "AI",
+            "tags": [
+                "AI tools",
+                "Background removal",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHUwMVJjQTlWWFMtdjBrOTZMcWFVNS1qbUlsUjFIRlVCWjVnTzllLVJ4MUhGcm1Jb2ZWLXBhSEFjNmw2Yy1UWXN2R3lRNWtzdlY0SmhRYWR1ZEk?oc=5",
+                "date": "2026-05-28T08:51:24.000Z"
+            },
+            "whatsNew": "OpenArt's AI background remover allows users to remove backgrounds from images in seconds for free. The tool utilizes AI technology to automatically detect and remove backgrounds. This innovation simplifies the image editing process.",
+            "whyItMatters": "The introduction of this tool impacts the creative industry by providing an efficient and cost-free solution for background removal, which can be particularly useful for graphic designers, artists, and social media managers. It also showcases the growing capabilities of AI in image processing.",
+            "howToUse": "Users can access the tool on OpenArt's website and upload their images to remove backgrounds instantly. The simplicity of the tool makes it accessible to both professionals and non-professionals.",
+            "beneficiaries": [
+                "Graphic designers",
+                "Artists",
+                "Social media managers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-3osp3lqex",
+            "title": "AI Background",
+            "subtitle": "OpenArt introduces an AI-powered online tool to change and replace photo backgrounds for free",
+            "category": "AI",
+            "tags": [
+                "AI tools",
+                "Image editing",
+                "Background replacement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yXzUzRXRldDZ3RzREaXRwRXFCRUxycTBHX1pmdmlESmZ4ZFY3UnFGaERpdjJDTG9zX3B0ZWdaajBUVjVnN280ck04ZkdfeGdWbzkwV3hneW1zTk0?oc=5",
+                "date": "2026-05-28T08:51:24.000Z"
+            },
+            "whatsNew": "OpenArt's AI background changer allows users to easily replace photo backgrounds online for free, utilizing AI technology for seamless editing. This tool simplifies the process of background removal and replacement. It is accessible online, making it widely available.",
+            "whyItMatters": "The introduction of this free AI background changer by OpenArt can significantly impact the creative and design communities by providing an easy and accessible tool for photo editing. It democratizes access to advanced image editing capabilities.",
+            "howToUse": "Users can visit OpenArt's website and upload their photos to utilize the AI background changer, following the on-screen instructions to replace the background with their desired image or color.",
+            "beneficiaries": [
+                "Graphic designers",
+                "Photographers",
+                "Social media influencers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-8lj1f45j3",
             "title": "New Sportsbet CEO",
@@ -243,36 +339,6 @@
             "isNew": false
         },
         {
-            "id": "t-5jvmkqw7d",
-            "title": "Gambling Insights",
-            "subtitle": "UK Gambling Commission releases insights into affected others from the GSGB",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "GSGB",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzlvOUp3cjh1WXF2Z09CaUpyeUhodHFnV3FnemdaUFBaS1hRc2xSSmFEaXdMakIzaXU0NDZxNTB1Y2pWeDloa3dSeDN0N0F4QUxyMFhvWEcyUVNYdElfejJWejhrZGEzRng1eGJ5SGZLWWk3QktKNUs2cVhDbFAxTEc0b1pickxuelp1LXN5RWxOWXNqMUh6VWNBZlhBa3dDN0luNU9ZUW9ZQ0Y5MWtTUTBnc2dPR2xz?oc=5",
-                "date": "2026-05-14T07:00:00.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has released new insights into affected others from the GSGB, providing a deeper understanding of the impact of gambling on individuals and communities. These insights are based on recent data and research. The findings will inform future regulatory decisions and initiatives.",
-            "whyItMatters": "The insights will help shape the UK's gambling regulations and support efforts to reduce gambling harm. This information is crucial for creating effective policies and interventions.",
-            "howToUse": "Operators and regulators can use these insights to develop more targeted and effective responsible gambling measures, while also informing public health initiatives.",
-            "beneficiaries": [
-                "Regulators",
-                "Operators",
-                "Public Health Officials"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-f34i35vxl",
             "title": "Hard Rock Report",
             "subtitle": "Quarterly report for Hard Rock Hotel & Casino released by NJ.gov",
@@ -331,37 +397,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-u4881reba",
-            "title": "Avatar Tech",
-            "subtitle": "Differences between Personal and Custom Studio Avatars in Synthesia",
-            "category": "AI",
-            "tags": [
-                "AI Avatars",
-                "Synthesia",
-                "Custom Avatars"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9GU1A0Y2Y4T2J3WmVQdjFjN0dhVkhwZnlRcjRYbUVUbGtkcEw4VDdObjZlTGVIdGtpYWhqZTEwd0E0QU5Pa0hzUkxjNlI3YUI2a2dmTWdRaHRJazNNLVg5Y1ZDQ244NFRfcTFzZzhiMHROeGYzZjBVcTFWaUdPOTRvY1FsZ3VRbkdHOTNNa0FFemNGZEdkU21TaGNLdzFhQkNEUnd4WXJ1eFg1M2hMOUNBaHpYNEpHNGJUSjhMNWF6eVdu?oc=5",
-                "date": "2026-05-14T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia's Knowledge Base highlights the distinctions between Personal Avatars and Custom Studio Avatars, offering insights into AI-generated avatar technology. This comparison can help users choose the best option for their needs. The main differences lie in customization, usage, and application.",
-            "whyItMatters": "Understanding these differences is crucial for effective utilization of AI avatar technology in various applications, including gaming, education, and content creation. It impacts how users engage with and personalize their digital experiences.",
-            "howToUse": "To leverage these avatars, users should first identify their specific needs and then choose the appropriate type based on the level of customization and control required. Synthesia's platform provides tools for creating and managing both Personal and Custom Studio Avatars.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -923,38 +958,6 @@
             "isNew": false
         },
         {
-            "id": "t-9qp9hcso0",
-            "title": "ZIT v4.0 Released",
-            "subtitle": "IntoRealism's ZImage Checkpoint updates to version 4.0 on Civitai",
-            "category": "AI",
-            "tags": [
-                "ZIT",
-                "ZImage",
-                "Civitai",
-                "IntoRealism"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9salRKRjRJVVRXWDRfUC10dXplakpLSFpoZzV2U3Y1clJPbXR3REhZQ2NjZ09lY2hHcHZDTGZCcV9nYlI4N2wyVk9IY3RfSGRaTlJNQ1V3M2t1UQ?oc=5",
-                "date": "2026-05-14T07:00:00.000Z"
-            },
-            "whatsNew": "IntoRealism's ZIT v4.0 update brings new features to ZImage Checkpoint on Civitai, enhancing image generation capabilities. The update focuses on improving realism in generated images. Civitai's platform supports the latest version, making it accessible to users.",
-            "whyItMatters": "The update is significant for AI art generation, offering improved realism and potentially expanding the creative possibilities for artists and developers. This could lead to more realistic and engaging visual content in various applications, including gaming and simulations.",
-            "howToUse": "Users can access ZIT v4.0 through Civitai's platform, where they can utilize the updated ZImage Checkpoint for their image generation needs, following the platform's guidelines and tutorials for optimal results.",
-            "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-l9ojci5a9",
             "title": "CFTC Sues Minnesota",
             "subtitle": "CFTC files lawsuit against Minnesota over prediction markets ban",
@@ -1446,35 +1449,6 @@
             "isNew": false
         },
         {
-            "id": "t-47d46m12e",
-            "title": "Atlantic City Jackpots",
-            "subtitle": "NJ Division of Gaming Enforcement releases list of jackpots over $40,000",
-            "category": "iGaming",
-            "tags": [
-                "NJ DGE",
-                "Atlantic City",
-                "Jackpots"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
-                "date": "2026-05-14T07:00:00.000Z"
-            },
-            "whatsNew": "The NJ Division of Gaming Enforcement has released a list of jackpots over $40,000 in Atlantic City. The list is 69 pages long and provides information on recent big wins. This data can be useful for understanding gaming trends in the region.",
-            "whyItMatters": "The release of this list demonstrates transparency in the gaming industry and can help players make informed decisions. It also highlights the potential for big wins in Atlantic City, which can attract more players to the area.",
-            "howToUse": "Players can use this list to research recent jackpots and plan their gaming strategy. Operators can also use this data to optimize their games and promotions.",
-            "beneficiaries": [
-                "Players",
-                "Operators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-lqq1zg73z",
             "title": "Betano FIFA Sponsor",
             "subtitle": "Betano lands second consecutive FIFA World Cup sponsorship deal",
@@ -1559,129 +1533,6 @@
             "beneficiaries": [
                 "iGaming Operators",
                 "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-je18ebs4i",
-            "title": "Greece Leads Europe",
-            "subtitle": "Greece is leading the way in Europe according to Optimove's latest report",
-            "category": "iGaming",
-            "tags": [
-                "Optimove",
-                "Greece",
-                "Europe",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGNpc2NzdGJaUE5ONGVnMUlkaERPUVZ6Tl9wRzVuUExlZDNOclU1OGhfNmhVMVVsM05veDcySHBCN29oOWVqek1aNWtoQXNfbFBueGtfRjhoaWtkTndwYjNCZG5jQjAzbFVFTmJBaDhiT3J0c2hXSVBDTmpPU3hDN3BNUVd3QW82OE0takJ4Nm9tX0FfNDVV?oc=5",
-                "date": "2026-05-14T09:48:40.000Z"
-            },
-            "whatsNew": "Greece has taken the top spot in Europe, with Optimove's report highlighting the country's growth in the iGaming sector. The report provides insights into the European iGaming market, with Greece emerging as a key player. This development is significant for the industry, as it indicates a shift in the European iGaming landscape.",
-            "whyItMatters": "This development is crucial for iGaming operators and investors, as it highlights Greece's potential for growth and investment opportunities. The report's findings can inform business decisions and strategies for companies looking to expand in the European market.",
-            "howToUse": "Operators and investors can use this information to identify opportunities for growth and expansion in the Greek market, while also staying ahead of the competition. By analyzing the report's findings, companies can develop targeted strategies to capitalize on Greece's emerging iGaming sector.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Optimove"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-aij4j5xgt",
-            "title": "Anima Base",
-            "subtitle": "Civitai releases Anima base-v1.0, a significant checkpoint in AI development",
-            "category": "AI",
-            "tags": [
-                "Anima",
-                "Civitai",
-                "AI Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWS1DcVpVY21lQlZTNkZZMDdaMktqSWNFWThHb1FOcDVNb2VXQ1VFUEZRTlhlR2ZEcUx4V2Q5MHRkelk2NGxoUjNxSS02Wl9BeWc?oc=5",
-                "date": "2026-05-14T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released Anima base-v1.0, marking a notable milestone in AI research and development. This checkpoint signifies a major update in the Anima model. The release is expected to improve performance and capabilities of AI models.",
-            "whyItMatters": "The release of Anima base-v1.0 is crucial for AI researchers and developers as it provides a significant improvement in AI capabilities. This can lead to advancements in various fields, including gaming and visual design.",
-            "howToUse": "Developers can utilize the Anima base-v1.0 checkpoint to enhance their AI models, improving performance and efficiency. This can be particularly useful for applications in gaming, animation, and visual effects.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-wbchu2huy",
-            "title": "AI Shift Hits",
-            "subtitle": "Gambling.com Group announces redundancies amid AI focus",
-            "category": "iGaming",
-            "tags": [
-                "AI",
-                "iGaming",
-                "Redundancies"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHBwMEhPcWpGaWNfbm9QSXVSMTQ5Q3M2RHJUS3FUNHZWVXU5THdXTjh6dFhSM0FXOXpMWmJ5eHU2RGx3YmVsVWxKQ2pKTUZnSUVIVmtRamVUMTdSc3hHeGNtM09VQXlMSVZpemloZXdoQ1NDVDdseHRjSVUtbXFCTGhzSjg4eVBuMG1IU0RxeDlHdjRBTFNr?oc=5",
-                "date": "2026-05-14T10:44:59.000Z"
-            },
-            "whatsNew": "Gambling.com Group is undergoing restructuring due to a shift in focus towards AI. This change has led to redundancies within the company. The move indicates a growing importance of AI in the iGaming sector.",
-            "whyItMatters": "The integration of AI in iGaming can significantly impact how companies operate and innovate, potentially leading to more efficient operations but also job displacements. This trend reflects the broader tech industry's move towards automation and AI-driven solutions.",
-            "howToUse": "Companies in the iGaming industry should consider investing in AI training for their staff and exploring how AI can enhance their operations without displacing workers. Embracing AI strategically can lead to competitive advantages.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "AI Developers"
-            ],
-            "companies": [
-                "Gambling.com Group"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-y80zm60vm",
-            "title": "Vulnerability Checks",
-            "subtitle": "UK Gambling Commission shares insights on financial vulnerability checks implementation",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Financial Vulnerability",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGtFbVpHWGpnR0ZEODRrdHQ5Q3hFSzZZRElMc204UW56RER1cEVWaEEzNGRDYzZuRWlYZzRMZVE4UTVxXzNoNUpFUGlocjl6aEJ3ZjlEc3pmUzNJWW5LeFA1cWFKQlJma0VUaFRlc0ZkWGVEWmlCSWJMdDVsaUM5d1ZnWS16ZFJYaVpFSW9HNnA5clNUOWQ0RFRYLTBWeHNXSzhkWmR1N3hhb0k?oc=5",
-                "date": "2026-05-14T10:52:56.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission is providing insights from the implementation of financial vulnerability checks, aiming to protect players from gambling harm. This move is part of a broader effort to ensure responsible gambling practices. The insights are expected to inform future regulatory decisions.",
-            "whyItMatters": "The implementation of financial vulnerability checks is crucial for protecting players and promoting responsible gambling. It also highlights the evolving regulatory landscape in the iGaming industry.",
-            "howToUse": "Operators can use these insights to improve their own financial vulnerability checks and ensure compliance with regulatory requirements. This can be achieved by implementing robust risk assessment tools and training staff to identify vulnerable players.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Players"
             ],
             "companies": [],
             "visualStyle": null,
@@ -1843,7 +1694,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": null
         },
         {
@@ -1862,7 +1713,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1871,7 +1722,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1880,7 +1731,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": "Regulatory updates"
         },
         {
@@ -1898,7 +1749,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1907,7 +1758,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1927,7 +1778,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1985,7 +1836,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1994,7 +1845,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2130,7 +1981,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T10:53:14.062Z",
             "note": null
         },
         {
@@ -26304,6 +26155,251 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-5jvmkqw7d",
+            "title": "Gambling Insights",
+            "subtitle": "UK Gambling Commission releases insights into affected others from the GSGB",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "GSGB",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzlvOUp3cjh1WXF2Z09CaUpyeUhodHFnV3FnemdaUFBaS1hRc2xSSmFEaXdMakIzaXU0NDZxNTB1Y2pWeDloa3dSeDN0N0F4QUxyMFhvWEcyUVNYdElfejJWejhrZGEzRng1eGJ5SGZLWWk3QktKNUs2cVhDbFAxTEc0b1pickxuelp1LXN5RWxOWXNqMUh6VWNBZlhBa3dDN0luNU9ZUW9ZQ0Y5MWtTUTBnc2dPR2xz?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released new insights into affected others from the GSGB, providing a deeper understanding of the impact of gambling on individuals and communities. These insights are based on recent data and research. The findings will inform future regulatory decisions and initiatives.",
+            "whyItMatters": "The insights will help shape the UK's gambling regulations and support efforts to reduce gambling harm. This information is crucial for creating effective policies and interventions.",
+            "howToUse": "Operators and regulators can use these insights to develop more targeted and effective responsible gambling measures, while also informing public health initiatives.",
+            "beneficiaries": [
+                "Regulators",
+                "Operators",
+                "Public Health Officials"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-u4881reba",
+            "title": "Avatar Tech",
+            "subtitle": "Differences between Personal and Custom Studio Avatars in Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "Synthesia",
+                "Custom Avatars"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9GU1A0Y2Y4T2J3WmVQdjFjN0dhVkhwZnlRcjRYbUVUbGtkcEw4VDdObjZlTGVIdGtpYWhqZTEwd0E0QU5Pa0hzUkxjNlI3YUI2a2dmTWdRaHRJazNNLVg5Y1ZDQ244NFRfcTFzZzhiMHROeGYzZjBVcTFWaUdPOTRvY1FsZ3VRbkdHOTNNa0FFemNGZEdkU21TaGNLdzFhQkNEUnd4WXJ1eFg1M2hMOUNBaHpYNEpHNGJUSjhMNWF6eVdu?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia's Knowledge Base highlights the distinctions between Personal Avatars and Custom Studio Avatars, offering insights into AI-generated avatar technology. This comparison can help users choose the best option for their needs. The main differences lie in customization, usage, and application.",
+            "whyItMatters": "Understanding these differences is crucial for effective utilization of AI avatar technology in various applications, including gaming, education, and content creation. It impacts how users engage with and personalize their digital experiences.",
+            "howToUse": "To leverage these avatars, users should first identify their specific needs and then choose the appropriate type based on the level of customization and control required. Synthesia's platform provides tools for creating and managing both Personal and Custom Studio Avatars.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-9qp9hcso0",
+            "title": "ZIT v4.0 Released",
+            "subtitle": "IntoRealism's ZImage Checkpoint updates to version 4.0 on Civitai",
+            "category": "AI",
+            "tags": [
+                "ZIT",
+                "ZImage",
+                "Civitai",
+                "IntoRealism"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9salRKRjRJVVRXWDRfUC10dXplakpLSFpoZzV2U3Y1clJPbXR3REhZQ2NjZ09lY2hHcHZDTGZCcV9nYlI4N2wyVk9IY3RfSGRaTlJNQ1V3M2t1UQ?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "IntoRealism's ZIT v4.0 update brings new features to ZImage Checkpoint on Civitai, enhancing image generation capabilities. The update focuses on improving realism in generated images. Civitai's platform supports the latest version, making it accessible to users.",
+            "whyItMatters": "The update is significant for AI art generation, offering improved realism and potentially expanding the creative possibilities for artists and developers. This could lead to more realistic and engaging visual content in various applications, including gaming and simulations.",
+            "howToUse": "Users can access ZIT v4.0 through Civitai's platform, where they can utilize the updated ZImage Checkpoint for their image generation needs, following the platform's guidelines and tutorials for optimal results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-47d46m12e",
+            "title": "Atlantic City Jackpots",
+            "subtitle": "NJ Division of Gaming Enforcement releases list of jackpots over $40,000",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Atlantic City",
+                "Jackpots"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has released a list of jackpots over $40,000 in Atlantic City. The list is 69 pages long and provides information on recent big wins. This data can be useful for understanding gaming trends in the region.",
+            "whyItMatters": "The release of this list demonstrates transparency in the gaming industry and can help players make informed decisions. It also highlights the potential for big wins in Atlantic City, which can attract more players to the area.",
+            "howToUse": "Players can use this list to research recent jackpots and plan their gaming strategy. Operators can also use this data to optimize their games and promotions.",
+            "beneficiaries": [
+                "Players",
+                "Operators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-je18ebs4i",
+            "title": "Greece Leads Europe",
+            "subtitle": "Greece is leading the way in Europe according to Optimove's latest report",
+            "category": "iGaming",
+            "tags": [
+                "Optimove",
+                "Greece",
+                "Europe",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGNpc2NzdGJaUE5ONGVnMUlkaERPUVZ6Tl9wRzVuUExlZDNOclU1OGhfNmhVMVVsM05veDcySHBCN29oOWVqek1aNWtoQXNfbFBueGtfRjhoaWtkTndwYjNCZG5jQjAzbFVFTmJBaDhiT3J0c2hXSVBDTmpPU3hDN3BNUVd3QW82OE0takJ4Nm9tX0FfNDVV?oc=5",
+                "date": "2026-05-14T09:48:40.000Z"
+            },
+            "whatsNew": "Greece has taken the top spot in Europe, with Optimove's report highlighting the country's growth in the iGaming sector. The report provides insights into the European iGaming market, with Greece emerging as a key player. This development is significant for the industry, as it indicates a shift in the European iGaming landscape.",
+            "whyItMatters": "This development is crucial for iGaming operators and investors, as it highlights Greece's potential for growth and investment opportunities. The report's findings can inform business decisions and strategies for companies looking to expand in the European market.",
+            "howToUse": "Operators and investors can use this information to identify opportunities for growth and expansion in the Greek market, while also staying ahead of the competition. By analyzing the report's findings, companies can develop targeted strategies to capitalize on Greece's emerging iGaming sector.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Optimove"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-aij4j5xgt",
+            "title": "Anima Base",
+            "subtitle": "Civitai releases Anima base-v1.0, a significant checkpoint in AI development",
+            "category": "AI",
+            "tags": [
+                "Anima",
+                "Civitai",
+                "AI Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWS1DcVpVY21lQlZTNkZZMDdaMktqSWNFWThHb1FOcDVNb2VXQ1VFUEZRTlhlR2ZEcUx4V2Q5MHRkelk2NGxoUjNxSS02Wl9BeWc?oc=5",
+                "date": "2026-05-14T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Anima base-v1.0, marking a notable milestone in AI research and development. This checkpoint signifies a major update in the Anima model. The release is expected to improve performance and capabilities of AI models.",
+            "whyItMatters": "The release of Anima base-v1.0 is crucial for AI researchers and developers as it provides a significant improvement in AI capabilities. This can lead to advancements in various fields, including gaming and visual design.",
+            "howToUse": "Developers can utilize the Anima base-v1.0 checkpoint to enhance their AI models, improving performance and efficiency. This can be particularly useful for applications in gaming, animation, and visual effects.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-wbchu2huy",
+            "title": "AI Shift Hits",
+            "subtitle": "Gambling.com Group announces redundancies amid AI focus",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "iGaming",
+                "Redundancies"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHBwMEhPcWpGaWNfbm9QSXVSMTQ5Q3M2RHJUS3FUNHZWVXU5THdXTjh6dFhSM0FXOXpMWmJ5eHU2RGx3YmVsVWxKQ2pKTUZnSUVIVmtRamVUMTdSc3hHeGNtM09VQXlMSVZpemloZXdoQ1NDVDdseHRjSVUtbXFCTGhzSjg4eVBuMG1IU0RxeDlHdjRBTFNr?oc=5",
+                "date": "2026-05-14T10:44:59.000Z"
+            },
+            "whatsNew": "Gambling.com Group is undergoing restructuring due to a shift in focus towards AI. This change has led to redundancies within the company. The move indicates a growing importance of AI in the iGaming sector.",
+            "whyItMatters": "The integration of AI in iGaming can significantly impact how companies operate and innovate, potentially leading to more efficient operations but also job displacements. This trend reflects the broader tech industry's move towards automation and AI-driven solutions.",
+            "howToUse": "Companies in the iGaming industry should consider investing in AI training for their staff and exploring how AI can enhance their operations without displacing workers. Embracing AI strategically can lead to competitive advantages.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "AI Developers"
+            ],
+            "companies": [
+                "Gambling.com Group"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-y80zm60vm",
+            "title": "Vulnerability Checks",
+            "subtitle": "UK Gambling Commission shares insights on financial vulnerability checks implementation",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Vulnerability",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGtFbVpHWGpnR0ZEODRrdHQ5Q3hFSzZZRElMc204UW56RER1cEVWaEEzNGRDYzZuRWlYZzRMZVE4UTVxXzNoNUpFUGlocjl6aEJ3ZjlEc3pmUzNJWW5LeFA1cWFKQlJma0VUaFRlc0ZkWGVEWmlCSWJMdDVsaUM5d1ZnWS16ZFJYaVpFSW9HNnA5clNUOWQ0RFRYLTBWeHNXSzhkWmR1N3hhb0k?oc=5",
+                "date": "2026-05-14T10:52:56.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission is providing insights from the implementation of financial vulnerability checks, aiming to protect players from gambling harm. This move is part of a broader effort to ensure responsible gambling practices. The insights are expected to inform future regulatory decisions.",
+            "whyItMatters": "The implementation of financial vulnerability checks is crucial for protecting players and promoting responsible gambling. It also highlights the evolving regulatory landscape in the iGaming industry.",
+            "howToUse": "Operators can use these insights to improve their own financial vulnerability checks and ensure compliance with regulatory requirements. This can be achieved by implementing robust risk assessment tools and training staff to identify vulnerable players.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
