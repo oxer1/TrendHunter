@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-28T18:08:38.767Z",
+        "scanDate": "2026-05-28T21:06:14.174Z",
         "version": "2.5.0",
-        "totalTrends": 49,
+        "totalTrends": 50,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-u6nl7rb7s",
+            "title": "AI Art Prompt",
+            "subtitle": "A lone desert scout riding a robotic reptile-like creature, generated using AI art tools",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Robotics",
+                "Desert Landscape"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQckFUNWRGcFc5S1pBOG56Yk53enBWUlFNaFktSVdqXzFoTU9kQzdLYV9qX29OR0d5OUg4eW5vU3I4NVpINWViTkhxSExCZXp6MkxtaGNtUVhQZGNvUnUyekJxLTJmR1dQc1pyMzZrdVNxN2NQbEpnS1NrNmNtb0g3NkVjMGRWamlxR19nbzFtVGROUHJRMm9iREZoVTMxbDFXLVdDMFF3MDlGa2FjUThGSjRiM2ZzcTRMNlRBcjZ3dXBhclcwUUlMM0g3bm42Mm5udmZldmxQZW5tRk9MMHo2OE5SMA?oc=5",
+                "date": "2026-05-26T09:44:58.000Z"
+            },
+            "whatsNew": "The use of AI art generation tools to create unique and detailed prompts, such as a lone desert scout riding a robotic reptile-like creature. This technology allows for rapid creation of complex scenes. The application of AI in art generation is expanding to various fields, including gaming and animation.",
+            "whyItMatters": "The development of AI art generation tools has the potential to revolutionize the field of digital art, enabling creators to produce high-quality content quickly and efficiently. This technology can also be applied to the gaming industry, allowing for more realistic and immersive game environments.",
+            "howToUse": "Artists and game developers can utilize AI art generation tools to create unique and detailed environments, characters, and creatures, streamlining their creative process and enhancing their final products.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-7z11594pw",
             "title": "AI Video Community",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tvtricy3m",
@@ -1697,7 +1728,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": null
         },
         {
@@ -1716,7 +1747,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1725,7 +1756,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1734,7 +1765,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": "Regulatory updates"
         },
         {
@@ -1752,7 +1783,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1761,7 +1792,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1781,7 +1812,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1839,7 +1870,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1984,7 +2015,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-28T21:06:14.175Z",
             "note": null
         },
         {
