@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-28T14:35:49.428Z",
+        "scanDate": "2026-05-28T18:08:38.767Z",
         "version": "2.5.0",
-        "totalTrends": 51,
+        "totalTrends": 49,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7z11594pw",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "OpenArt",
+                "Creative Content"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaW5BTUNpVGxPT0J5WmJvMUJVa3o3MktrLTJUSVQ2ZlZyb3hWZTdNRXR5WWFheFM1amgyNVdEZnh6SzctcjJqbU44V3ZPMy1razN5ekYyQlkybFNxLUdwRDNncWNEUQ?oc=5",
+                "date": "2026-05-27T22:19:09.000Z"
+            },
+            "whatsNew": "OpenArt introduces a community platform for users to discover and share AI-generated video stories, promoting creativity and collaboration. The platform allows users to explore and interact with AI-created content. This move expands the scope of AI-generated art beyond images into video storytelling.",
+            "whyItMatters": "The launch of this platform signifies a significant step in the evolution of AI-generated content, providing a space for creators to share their work and for the community to engage with AI art. It has the potential to democratize access to AI video generation tools.",
+            "howToUse": "Users can join the OpenArt community to start discovering and sharing their own AI video stories, leveraging the platform's features to enhance their creative workflow and connect with like-minded individuals.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-tvtricy3m",
             "title": "LeoVegas UK Launch",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-j463x36n2",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-animation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jmnpb8lqd",
@@ -114,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oq14jvrui",
@@ -774,37 +805,6 @@
             "isNew": false
         },
         {
-            "id": "t-jundii2c4",
-            "title": "Video Variables",
-            "subtitle": "Adding variables to videos with Synthesia",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "Video Editing",
-                "AI Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlN2UVRFWFp4bmVxTW5nbEFOS1VrY2dkcUJaaEJETDZHWW1ETkQ1ckJtY1lwR1NPbGJMVHljcXhna1gxUHhneWpYWWpwVG1WUUhBWEJ1QVRiSnFpNGg4azdWaFVNRXJwQm52REoyWUxCd21DeUhYbC1GVnJlbS11dHZqb2xVRDA?oc=5",
-                "date": "2026-05-14T15:00:05.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides guidance on adding variables to videos, enhancing video customization. This feature allows for dynamic content creation. The process involves utilizing Synthesia's AI-powered video editing tools.",
-            "whyItMatters": "The ability to add variables to videos increases the flexibility and personalization of video content, benefiting creators and marketers. This feature can be particularly useful in the context of AI for creative work, especially in video production and editing.",
-            "howToUse": "To add a variable to a video, follow Synthesia's knowledge base instructions and utilize their AI video tools for a streamlined process. This involves accessing the Synthesia platform and navigating to the video editing section.",
-            "beneficiaries": [
-                "Video Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-cs407ae27",
             "title": "NJ Gaming Update",
             "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for April 2026",
@@ -1297,37 +1297,6 @@
             "isNew": false
         },
         {
-            "id": "t-pz8ga93tb",
-            "title": "Legacy AI Video",
-            "subtitle": "Synthesia's AI Video Assistant content creation guide",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Synthesia",
-                "Content Creation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNG5BUUFQTEdueVlJcWRQVUQ5U3B5YnQzendnbVBXSzZhX2V5bm42eWUxRnRQRXd0REU4cHM0UC0ySmpLaURjaHBXSV92RnZjSWVtOHVIYWhPUkZqaEQzYXlXNndZZ0FoVEppbjM3Znh4UXJuWmZpdk1rSThqZjh6X3FqY0tGTlNKVFh1SVhNaFBRTHBJbU5VODVTMjJMQW1XZ25lenZFbw?oc=5",
-                "date": "2026-05-14T15:00:46.000Z"
-            },
-            "whatsNew": "Synthesia provides a guide on using their legacy AI Video Assistant for content creation. The guide is part of their knowledge base, indicating a continued focus on AI video tools. This shows the importance of AI in video content creation.",
-            "whyItMatters": "The use of AI in video content creation is becoming increasingly popular, and Synthesia's guide highlights the potential of AI video tools. This trend is likely to impact content creators and the broader media industry.",
-            "howToUse": "To create content with the legacy AI Video Assistant, users can follow Synthesia's guide, which provides step-by-step instructions on how to utilize the tool. This can help users get started with AI-powered video content creation.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-rv8qp9i9r",
             "title": "AI Hedge Fund",
             "subtitle": "Former ZenSports boss launches AI-focused hedge fund for gambling",
@@ -1418,37 +1387,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-sjwzt9mnd",
-            "title": "Synthesia Captions",
-            "subtitle": "Understanding how captions work in Synthesia's video tools",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "Video Tools",
-                "Captions"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0ZZZS0xODd4N1QwcjlhTlNIbjNUWGl6dTNnMzRMbF9ISGhrTUZPOUduMFQ3MHU1YzB5V2VXeHE2eVJ5RUpySEdiMlJlUTJnZ1pFQzRHX2xNVXp0T0ZreXhiaGVDeTBTUVphSDBYRVNtVkJTallnN0UtckJ3NW1tWDh5WkZDUQ?oc=5",
-                "date": "2026-05-14T15:00:42.000Z"
-            },
-            "whatsNew": "Synthesia's caption feature allows for automated text overlay in videos, enhancing accessibility and viewer engagement. The feature is part of Synthesia's broader suite of AI-powered video creation tools. This technology simplifies the process of adding captions to videos.",
-            "whyItMatters": "The ability to easily add captions to videos can significantly improve the viewing experience, especially for those who are deaf or hard of hearing. It also aids in comprehension for all viewers, making content more accessible and engaging.",
-            "howToUse": "To utilize captions in Synthesia, users can follow the guidelines provided in the Synthesia Knowledge Base, which offers step-by-step instructions on how to activate and customize captions in their videos.",
-            "beneficiaries": [
-                "Content Creators",
-                "Viewers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1759,7 +1697,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": null
         },
         {
@@ -1778,7 +1716,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1787,7 +1725,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1796,7 +1734,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "Regulatory updates"
         },
         {
@@ -1814,7 +1752,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1823,7 +1761,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1843,7 +1781,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1901,7 +1839,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1910,7 +1848,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1919,7 +1857,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": "Style browsing signal"
         },
         {
@@ -1956,7 +1894,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": null
         },
         {
@@ -2046,7 +1984,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T14:35:49.428Z",
+            "lastScan": "2026-05-28T18:08:38.767Z",
             "note": null
         },
         {
@@ -26493,6 +26431,99 @@
             ],
             "companies": [
                 "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-jundii2c4",
+            "title": "Video Variables",
+            "subtitle": "Adding variables to videos with Synthesia",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Video Editing",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlN2UVRFWFp4bmVxTW5nbEFOS1VrY2dkcUJaaEJETDZHWW1ETkQ1ckJtY1lwR1NPbGJMVHljcXhna1gxUHhneWpYWWpwVG1WUUhBWEJ1QVRiSnFpNGg4azdWaFVNRXJwQm52REoyWUxCd21DeUhYbC1GVnJlbS11dHZqb2xVRDA?oc=5",
+                "date": "2026-05-14T15:00:05.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides guidance on adding variables to videos, enhancing video customization. This feature allows for dynamic content creation. The process involves utilizing Synthesia's AI-powered video editing tools.",
+            "whyItMatters": "The ability to add variables to videos increases the flexibility and personalization of video content, benefiting creators and marketers. This feature can be particularly useful in the context of AI for creative work, especially in video production and editing.",
+            "howToUse": "To add a variable to a video, follow Synthesia's knowledge base instructions and utilize their AI video tools for a streamlined process. This involves accessing the Synthesia platform and navigating to the video editing section.",
+            "beneficiaries": [
+                "Video Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-pz8ga93tb",
+            "title": "Legacy AI Video",
+            "subtitle": "Synthesia's AI Video Assistant content creation guide",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Synthesia",
+                "Content Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNG5BUUFQTEdueVlJcWRQVUQ5U3B5YnQzendnbVBXSzZhX2V5bm42eWUxRnRQRXd0REU4cHM0UC0ySmpLaURjaHBXSV92RnZjSWVtOHVIYWhPUkZqaEQzYXlXNndZZ0FoVEppbjM3Znh4UXJuWmZpdk1rSThqZjh6X3FqY0tGTlNKVFh1SVhNaFBRTHBJbU5VODVTMjJMQW1XZ25lenZFbw?oc=5",
+                "date": "2026-05-14T15:00:46.000Z"
+            },
+            "whatsNew": "Synthesia provides a guide on using their legacy AI Video Assistant for content creation. The guide is part of their knowledge base, indicating a continued focus on AI video tools. This shows the importance of AI in video content creation.",
+            "whyItMatters": "The use of AI in video content creation is becoming increasingly popular, and Synthesia's guide highlights the potential of AI video tools. This trend is likely to impact content creators and the broader media industry.",
+            "howToUse": "To create content with the legacy AI Video Assistant, users can follow Synthesia's guide, which provides step-by-step instructions on how to utilize the tool. This can help users get started with AI-powered video content creation.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-sjwzt9mnd",
+            "title": "Synthesia Captions",
+            "subtitle": "Understanding how captions work in Synthesia's video tools",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Video Tools",
+                "Captions"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0ZZZS0xODd4N1QwcjlhTlNIbjNUWGl6dTNnMzRMbF9ISGhrTUZPOUduMFQ3MHU1YzB5V2VXeHE2eVJ5RUpySEdiMlJlUTJnZ1pFQzRHX2xNVXp0T0ZreXhiaGVDeTBTUVphSDBYRVNtVkJTallnN0UtckJ3NW1tWDh5WkZDUQ?oc=5",
+                "date": "2026-05-14T15:00:42.000Z"
+            },
+            "whatsNew": "Synthesia's caption feature allows for automated text overlay in videos, enhancing accessibility and viewer engagement. The feature is part of Synthesia's broader suite of AI-powered video creation tools. This technology simplifies the process of adding captions to videos.",
+            "whyItMatters": "The ability to easily add captions to videos can significantly improve the viewing experience, especially for those who are deaf or hard of hearing. It also aids in comprehension for all viewers, making content more accessible and engaging.",
+            "howToUse": "To utilize captions in Synthesia, users can follow the guidelines provided in the Synthesia Knowledge Base, which offers step-by-step instructions on how to activate and customize captions in their videos.",
+            "beneficiaries": [
+                "Content Creators",
+                "Viewers"
+            ],
+            "companies": [
+                "Synthesia"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
