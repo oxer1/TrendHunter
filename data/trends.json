@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-28T10:53:14.062Z",
+        "scanDate": "2026-05-28T14:35:49.428Z",
         "version": "2.5.0",
-        "totalTrends": 49,
+        "totalTrends": 51,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,102 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-tvtricy3m",
+            "title": "LeoVegas UK Launch",
+            "subtitle": "LeoVegas Group plans to launch in-house casino content in the UK",
+            "category": "iGaming",
+            "tags": [
+                "LeoVegas",
+                "In-house content",
+                "UK launch"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG9RWkh0Z3pCU09KVno3YmFuWWdFLXlGNWtST3QzTGJ4OUcwaWhDZ2RRb2JtbHdwWFhWVHIwZ2RuRzhCeHFLRVJ6cWtfalVTQlRTX0MzcVRMcGx2WmpjQ19qTVNzTFhwSEpubEQzSFNhNHhZYmd5dmpoWE03alVKVXltZDZCeWRVcEl2al9sTS1zLVZPRGVNbWkyRWdKR0U?oc=5",
+                "date": "2026-05-28T11:25:39.000Z"
+            },
+            "whatsNew": "LeoVegas Group is expanding its offerings by launching in-house casino content in the UK, marking a significant move in the iGaming industry. This launch is expected to enhance the company's presence in the UK market. The in-house content will likely include a range of casino games.",
+            "whyItMatters": "The launch of in-house casino content by LeoVegas Group in the UK signifies a strategic move to increase market share and competitiveness. It also underscores the growing importance of proprietary content in the iGaming sector.",
+            "howToUse": "Operators can leverage this trend by investing in the development of in-house content to differentiate themselves and attract a loyal customer base. This approach can also help in reducing dependence on third-party game providers.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Game developers"
+            ],
+            "companies": [
+                "LeoVegas Group"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-j463x36n2",
+            "title": "SimpleAnima v1.0",
+            "subtitle": "Civitai releases SimpleAnima version 1.0, an Anima Checkpoint",
+            "category": "AI",
+            "tags": [
+                "SimpleAnima",
+                "Anima Checkpoint",
+                "Civitai",
+                "AI Animation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oaElxd0JWMzN6STFkUG9KNnJDZFhmTXNXVXFENDhaUVl0c2RUNDhmR0VuQzJiQWFLdF9pYjctLVAxTUVvQThsUmhLNmhnTjd1c0Zsc1d4VnVzZw?oc=5",
+                "date": "2026-05-21T07:00:00.000Z"
+            },
+            "whatsNew": "SimpleAnima v1.0 is a new release from Civitai, focusing on animation checkpoints. This version marks a significant milestone in the development of AI-powered animation tools. The release of SimpleAnima v1.0 indicates growing interest in AI-driven animation techniques.",
+            "whyItMatters": "The release of SimpleAnima v1.0 matters because it showcases the advancement of AI in animation, potentially streamlining content creation processes. This could significantly impact the gaming and visual design industries by providing more efficient tools for animators and designers.",
+            "howToUse": "Developers and animators can utilize SimpleAnima v1.0 by integrating it into their workflows to automate and enhance animation processes, thereby improving productivity and creativity.",
+            "beneficiaries": [
+                "Animators",
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-animation",
+            "isNew": true
+        },
+        {
+            "id": "t-jmnpb8lqd",
+            "title": "AI Generators",
+            "subtitle": "OpenArt compares the best AI image, video, and audio generators of 2026",
+            "category": "AI",
+            "tags": [
+                "AI generators",
+                "Image generation",
+                "Video tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aWlYtWHFLaVV5a2swNFdTeDgwc1lYSzVOZE8wYVBPN3V1LVNrdTFLRmZ3N3VWNkVPNzVsTmZhbENwckVPc2hhVWJXMUxlWFFYMDhRWGVn?oc=5",
+                "date": "2026-05-28T09:25:36.000Z"
+            },
+            "whatsNew": "OpenArt has tested and compared 12 AI image, video, and audio generators, highlighting their features and capabilities. The comparison includes the latest tools and technologies in the field. These generators can be used for various creative tasks, including art, music, and video production.",
+            "whyItMatters": "The comparison provides valuable insights for creators and developers looking to leverage AI for their work, helping them choose the best tools for their needs. It also showcases the rapid advancements in AI technology for creative applications.",
+            "howToUse": "Developers and artists can use this comparison to select the most suitable AI generators for their projects, enhancing their workflow and productivity. They can also explore new possibilities for AI-generated content.",
+            "beneficiaries": [
+                "Developers",
+                "Artists",
+                "Content creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-oq14jvrui",
             "title": "Entain Board Update",
@@ -50,7 +146,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-csm9s6gxa",
@@ -82,7 +178,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3osp3lqex",
@@ -114,7 +210,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8lj1f45j3",
@@ -1480,37 +1576,6 @@
             "isNew": false
         },
         {
-            "id": "t-xsqu5ybo4",
-            "title": "AI Video Community",
-            "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Creative Content",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41UEE4T21kSFgyVnozSjVabUxIdk5kNEx1a0QxaExqMC1jSFR4bzI0WDhFZl9obnJjUHpSWVRpZUE0bE1xYlhrb0dnTF9lZzFEdjlzNHRQbWdMdkZLQzZyM3phYzh4UQ?oc=5",
-                "date": "2026-05-14T12:28:16.000Z"
-            },
-            "whatsNew": "OpenArt introduces a community platform for users to discover and share AI-generated video stories, promoting creative content and collaboration. The platform utilizes AI technology to generate unique video stories. This move expands OpenArt's offerings in the AI creative space.",
-            "whyItMatters": "The launch of this platform by OpenArt signifies a growing interest in AI-generated content and community-driven creative spaces, potentially disrupting traditional content creation methods. It also highlights the increasing importance of AI in creative industries.",
-            "howToUse": "Users can join the OpenArt community to share their AI-generated video stories, engage with other creators, and explore the latest in AI video technology. By participating, users can stay updated on the latest trends and techniques in AI video generation.",
-            "beneficiaries": [
-                "Content Creators",
-                "AI Enthusiasts"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-krwl9553z",
             "title": "Regulation Update",
             "subtitle": "Recent regulatory changes in US states for iGaming industry",
@@ -1694,7 +1759,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": null
         },
         {
@@ -1713,7 +1778,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1722,7 +1787,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1731,7 +1796,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "Regulatory updates"
         },
         {
@@ -1749,7 +1814,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1758,7 +1823,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1778,7 +1843,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1836,7 +1901,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1845,7 +1910,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1854,7 +1919,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": "Style browsing signal"
         },
         {
@@ -1891,7 +1956,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": null
         },
         {
@@ -1981,7 +2046,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T10:53:14.062Z",
+            "lastScan": "2026-05-28T14:35:49.428Z",
             "note": null
         },
         {
@@ -26400,6 +26465,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xsqu5ybo4",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Creative Content",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41UEE4T21kSFgyVnozSjVabUxIdk5kNEx1a0QxaExqMC1jSFR4bzI0WDhFZl9obnJjUHpSWVRpZUE0bE1xYlhrb0dnTF9lZzFEdjlzNHRQbWdMdkZLQzZyM3phYzh4UQ?oc=5",
+                "date": "2026-05-14T12:28:16.000Z"
+            },
+            "whatsNew": "OpenArt introduces a community platform for users to discover and share AI-generated video stories, promoting creative content and collaboration. The platform utilizes AI technology to generate unique video stories. This move expands OpenArt's offerings in the AI creative space.",
+            "whyItMatters": "The launch of this platform by OpenArt signifies a growing interest in AI-generated content and community-driven creative spaces, potentially disrupting traditional content creation methods. It also highlights the increasing importance of AI in creative industries.",
+            "howToUse": "Users can join the OpenArt community to share their AI-generated video stories, engage with other creators, and explore the latest in AI video technology. By participating, users can stay updated on the latest trends and techniques in AI video generation.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
