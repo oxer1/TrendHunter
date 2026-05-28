@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-28T02:51:04.559Z",
+        "scanDate": "2026-05-28T06:52:59.435Z",
         "version": "2.5.0",
-        "totalTrends": 55,
+        "totalTrends": 54,
         "categories": [
             "iGaming",
             "AI",
@@ -1687,37 +1687,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-0ppmwwtwx",
-            "title": "AI VFX Model",
-            "subtitle": "SwitchX introduces AI-powered background, relight, and mask edits for visual effects",
-            "category": "AI",
-            "tags": [
-                "AI VFX",
-                "SwitchX",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5U04zeE1XYXlZTU5uVWliUnpETlBXRDZPMlNSdm5GLVZKVkJJYlRZRFBwbzYtRVlGSU9wMzl3bzJvXzkzSlJyUkRGUVU?oc=5",
-                "date": "2026-05-14T05:18:35.000Z"
-            },
-            "whatsNew": "SwitchX is a new AI VFX model that allows for background, relight, and mask edits, enhancing visual effects capabilities. This model utilizes AI to streamline editing processes. It is available on OpenArt.",
-            "whyItMatters": "The introduction of SwitchX can significantly impact the visual effects industry by providing more efficient and advanced editing tools. This can lead to higher quality visual effects in various applications, including gaming and film.",
-            "howToUse": "To leverage SwitchX, users can access the model through OpenArt and apply its AI-powered editing capabilities to their visual effects projects, exploring its background, relight, and mask editing features.",
-            "beneficiaries": [
-                "Visual Effects Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1874,7 +1843,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": null
         },
         {
@@ -1893,7 +1862,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1902,7 +1871,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1911,7 +1880,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "Regulatory updates"
         },
         {
@@ -1929,7 +1898,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1938,7 +1907,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1958,7 +1927,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2016,7 +1985,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2025,7 +1994,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2034,7 +2003,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": "Style browsing signal"
         },
         {
@@ -2071,7 +2040,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": null
         },
         {
@@ -2080,7 +2049,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-28T02:51:04.559Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": null
         },
         {
@@ -2161,7 +2130,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T02:51:04.560Z",
+            "lastScan": "2026-05-28T06:52:59.435Z",
             "note": null
         },
         {
@@ -26304,6 +26273,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-0ppmwwtwx",
+            "title": "AI VFX Model",
+            "subtitle": "SwitchX introduces AI-powered background, relight, and mask edits for visual effects",
+            "category": "AI",
+            "tags": [
+                "AI VFX",
+                "SwitchX",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5U04zeE1XYXlZTU5uVWliUnpETlBXRDZPMlNSdm5GLVZKVkJJYlRZRFBwbzYtRVlGSU9wMzl3bzJvXzkzSlJyUkRGUVU?oc=5",
+                "date": "2026-05-14T05:18:35.000Z"
+            },
+            "whatsNew": "SwitchX is a new AI VFX model that allows for background, relight, and mask edits, enhancing visual effects capabilities. This model utilizes AI to streamline editing processes. It is available on OpenArt.",
+            "whyItMatters": "The introduction of SwitchX can significantly impact the visual effects industry by providing more efficient and advanced editing tools. This can lead to higher quality visual effects in various applications, including gaming and film.",
+            "howToUse": "To leverage SwitchX, users can access the model through OpenArt and apply its AI-powered editing capabilities to their visual effects projects, exploring its background, relight, and mask editing features.",
+            "beneficiaries": [
+                "Visual Effects Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
