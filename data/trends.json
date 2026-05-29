@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-29T20:21:07.683Z",
+        "scanDate": "2026-05-29T22:27:38.840Z",
         "version": "2.5.0",
-        "totalTrends": 49,
+        "totalTrends": 50,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nwql42v24",
+            "title": "Mexican Market Shrinks",
+            "subtitle": "Winpot CEO predicts Mexican market decline due to strict regulation",
+            "category": "iGaming",
+            "tags": [
+                "Mexican Market",
+                "Regulation",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMndFOVhkMTNUM25tSW9KOHYxRXF6c2Jqd1lJaU9OQVA1dk9LX3dVY0JqMzdJQ1ZuUW8zNVdtN0ZERFo1dVRMS0dXcURNbG8xaWFjemVzMk01dkVMbGtrbUdfVFRsSXNLbGo0NnB2RVk1Z29UeDdDZHZiejEydXAyWG5sQnIwcXpMR2xCSEFnUU1KSmwzcXhrWHZsZnlGSGFSeF9TQ0pn?oc=5",
+                "date": "2026-05-29T09:43:33.000Z"
+            },
+            "whatsNew": "The Mexican market is expected to shrink due to strict new regulations. Winpot CEO shared concerns about the impact of these regulations on the industry. The regulations may lead to a decline in market size and revenue.",
+            "whyItMatters": "The predicted market shrinkage could have significant implications for iGaming operators and investors in Mexico. It may lead to a decrease in competition and innovation in the market.",
+            "howToUse": "Operators should prepare for the potential decline by diversifying their offerings and exploring new markets. Investors should reassess their investments in the Mexican iGaming market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Winpot"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-ytx0nrgld",
             "title": "LTX2.3 Released",
@@ -1700,7 +1731,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "note": null
         },
         {
@@ -1719,7 +1750,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1728,7 +1759,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1737,7 +1768,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "note": "Regulatory updates"
         },
         {
@@ -1755,7 +1786,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1764,7 +1795,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1784,7 +1815,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1987,7 +2018,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-29T22:27:38.840Z",
             "note": null
         },
         {
