@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-29T06:53:41.714Z",
+        "scanDate": "2026-05-29T10:43:48.670Z",
         "version": "2.5.0",
-        "totalTrends": 51,
+        "totalTrends": 48,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-oeg0tzqlm",
+            "title": "Colossyan Alternatives",
+            "subtitle": "Synthesia reviews the best Colossyan alternatives in 2026",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Synthesia",
+                "Colossyan alternatives"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zVndHN1dmckdBVmJRbWZqd2VOdjdpcVU1NzAyekQtVHk0alczZjJQaFp6X0xlOHpaZjQ0YkJJeFZYUlZlc2xvcGY3S0NsNVpDVFk1aWg3LUFRam9rVThvMDZEOHFtcFUz?oc=5",
+                "date": "2026-05-25T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia has tested and ranked the top 5 alternatives to Colossyan, a popular AI video creation platform. The alternatives offer advanced features and improved performance. These alternatives are gaining popularity among content creators.",
+            "whyItMatters": "The rise of AI video tools is transforming the content creation landscape, and finding the right alternative to Colossyan can be crucial for businesses and individuals. These alternatives can help users create high-quality video content efficiently.",
+            "howToUse": "Content creators can explore these alternatives to find the one that best suits their needs and budget. They can also experiment with different features and tools to optimize their video creation workflow.",
+            "beneficiaries": [
+                "Content creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-olflissw3",
             "title": "Synthesia Avatars",
@@ -526,38 +557,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-f34i35vxl",
-            "title": "Hard Rock Report",
-            "subtitle": "Quarterly report for Hard Rock Hotel & Casino released by NJ.gov",
-            "category": "iGaming",
-            "tags": [
-                "Quarterly Report",
-                "Hard Rock Hotel & Casino",
-                "NJ.gov"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckpQaVFjdlVpME9Pd0xSZVE0YWg3amZZMC1tZHJnTGtzMmljYkZqQkxlOUVyeTVRdTM4MklackRIejktSTVxNUJFY2ZYQXh0a3VrUVltZVVkVG9ING5tN1hyWjNEQ2N1UHFJQ2NlS1cxWTV6LXoyekNUWWhiQ1ptc0V3ME51a0QzcDVQOQ?oc=5",
-                "date": "2026-05-15T07:00:00.000Z"
-            },
-            "whatsNew": "The quarterly report for Hard Rock Hotel & Casino has been released, providing insights into the casino's financial performance. The report is available on the NJ.gov website. This release is part of the regular reporting requirements for casinos in New Jersey.",
-            "whyItMatters": "The report is significant for understanding the financial health and regulatory compliance of Hard Rock Hotel & Casino. It also reflects the broader trends in the casino industry within New Jersey.",
-            "howToUse": "Operators and investors can use this report to assess the casino's performance and make informed decisions. Regulatory bodies can also use it to ensure compliance with gaming laws.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Investors",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Hard Rock Hotel & Casino"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1329,37 +1328,6 @@
             "isNew": false
         },
         {
-            "id": "t-of74zd7n7",
-            "title": "OpenArt Guide",
-            "subtitle": "OpenArt releases a guide for generating art with AI",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "OpenArt",
-                "Art Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHcnNmZ1o2NDJRa1R2bUpUcVpnTFBDVTk5bktCZmxPWUx0ZFhwaFV5d3NpbXZsWjZPQmJaQWtjRWVGTzlVLWNqUHhpaWdTUTY1NHNNYjM5TU9Ya1FhNUhndUF3WXRjZFhKX2hfNG5qZmo?oc=5",
-                "date": "2026-05-15T07:00:00.000Z"
-            },
-            "whatsNew": "OpenArt has released a guide for users to generate art using AI. The guide provides best practices and tips for creating high-quality art. This guide is a significant development in the AI art generation space.",
-            "whyItMatters": "The guide has the potential to democratize access to AI art generation, making it more accessible to a wider audience. It also highlights the growing importance of AI in the art world.",
-            "howToUse": "Users can utilize the guide to improve their AI art generation skills and create more sophisticated art pieces. The guide can be used in conjunction with other AI art tools to enhance the creative process.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-rv8qp9i9r",
             "title": "AI Hedge Fund",
             "subtitle": "Former ZenSports boss launches AI-focused hedge fund for gambling",
@@ -1419,37 +1387,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-l2kvxv07m",
-            "title": "AI Disclosure",
-            "subtitle": "OpenArt releases a guide for creators on AI disclosure in 2026",
-            "category": "AI",
-            "tags": [
-                "AI Disclosure",
-                "OpenArt",
-                "Creator's Guide"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wYjFNS1pWQWs1LWRjVGc2ak1nRVVBRGQxcWowN01pajlPZ0tsQmZicjd1VjVtNExOSzUtZzdWSDg5ODd5RG15cGNZV01nOEo0Nkk3WVJXeU5sS0hIRnBwajBjWENlMW9PREE?oc=5",
-                "date": "2026-05-15T07:00:00.000Z"
-            },
-            "whatsNew": "OpenArt has released a guide for creators on AI disclosure, focusing on the importance of transparency in AI-generated content. The guide provides insights into the current state of AI disclosure and its implications for the creative industry. It also offers practical advice on how creators can disclose their use of AI in their work.",
-            "whyItMatters": "The guide matters because it addresses the growing need for transparency in AI-generated content, which is becoming increasingly prevalent in the creative industry. By providing a framework for AI disclosure, OpenArt aims to promote ethical practices and build trust between creators and their audiences.",
-            "howToUse": "Creators can use the guide to understand the importance of AI disclosure and learn how to implement transparent practices in their work, such as clearly labeling AI-generated content and providing information about the AI tools used.",
-            "beneficiaries": [
-                "Content Creators",
-                "Artists"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -1574,35 +1511,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-krwl9553z",
-            "title": "Regulation Update",
-            "subtitle": "Recent regulatory changes in US states for iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "iGaming",
-                "US Market"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmxNelBoTFZ1N0VNQWZ5a1FmZTNGSS1BTkRWal9RZXo3aU55SGpTTE1NdzFYQ05obk5pRkZMR0xlOFZjTGs1ZVdnSlVQcllrSnFFWUhDUlI0TGRvdFpFWmpmSUY2VXFFQnZQd3N6cVRRT25NQXI3WlhvQkdINXd3aFpSLWwzUTF0UHM5am5zVmpTdjlhMlNOcWZ3WlVlU2s?oc=5",
-                "date": "2026-05-15T10:21:45.000Z"
-            },
-            "whatsNew": "Colorado, Minnesota, and Wisconsin have introduced new regulations affecting the iGaming industry. These changes aim to provide a clearer framework for operators and players alike.",
-            "whyItMatters": "The updated regulations will impact the operations and revenue of iGaming companies in these states. Compliance with the new rules is crucial for licensed operators to maintain their market presence.",
-            "howToUse": "iGaming operators should review and adapt to the new regulations to ensure compliance and avoid potential penalties.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         }
     ],
@@ -1760,7 +1668,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.714Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": null
         },
         {
@@ -1779,7 +1687,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-29T06:53:41.714Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1788,7 +1696,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.714Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1797,7 +1705,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.714Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "Regulatory updates"
         },
         {
@@ -1815,7 +1723,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.714Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1824,7 +1732,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1844,7 +1752,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1902,7 +1810,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1911,7 +1819,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1920,7 +1828,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": "Style browsing signal"
         },
         {
@@ -1957,7 +1865,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": null
         },
         {
@@ -1966,7 +1874,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": null
         },
         {
@@ -2047,7 +1955,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T06:53:41.715Z",
+            "lastScan": "2026-05-29T10:43:48.670Z",
             "note": null
         },
         {
@@ -26590,6 +26498,129 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-f34i35vxl",
+            "title": "Hard Rock Report",
+            "subtitle": "Quarterly report for Hard Rock Hotel & Casino released by NJ.gov",
+            "category": "iGaming",
+            "tags": [
+                "Quarterly Report",
+                "Hard Rock Hotel & Casino",
+                "NJ.gov"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckpQaVFjdlVpME9Pd0xSZVE0YWg3amZZMC1tZHJnTGtzMmljYkZqQkxlOUVyeTVRdTM4MklackRIejktSTVxNUJFY2ZYQXh0a3VrUVltZVVkVG9ING5tN1hyWjNEQ2N1UHFJQ2NlS1cxWTV6LXoyekNUWWhiQ1ptc0V3ME51a0QzcDVQOQ?oc=5",
+                "date": "2026-05-15T07:00:00.000Z"
+            },
+            "whatsNew": "The quarterly report for Hard Rock Hotel & Casino has been released, providing insights into the casino's financial performance. The report is available on the NJ.gov website. This release is part of the regular reporting requirements for casinos in New Jersey.",
+            "whyItMatters": "The report is significant for understanding the financial health and regulatory compliance of Hard Rock Hotel & Casino. It also reflects the broader trends in the casino industry within New Jersey.",
+            "howToUse": "Operators and investors can use this report to assess the casino's performance and make informed decisions. Regulatory bodies can also use it to ensure compliance with gaming laws.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Investors",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Hard Rock Hotel & Casino"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-of74zd7n7",
+            "title": "OpenArt Guide",
+            "subtitle": "OpenArt releases a guide for generating art with AI",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "OpenArt",
+                "Art Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHcnNmZ1o2NDJRa1R2bUpUcVpnTFBDVTk5bktCZmxPWUx0ZFhwaFV5d3NpbXZsWjZPQmJaQWtjRWVGTzlVLWNqUHhpaWdTUTY1NHNNYjM5TU9Ya1FhNUhndUF3WXRjZFhKX2hfNG5qZmo?oc=5",
+                "date": "2026-05-15T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt has released a guide for users to generate art using AI. The guide provides best practices and tips for creating high-quality art. This guide is a significant development in the AI art generation space.",
+            "whyItMatters": "The guide has the potential to democratize access to AI art generation, making it more accessible to a wider audience. It also highlights the growing importance of AI in the art world.",
+            "howToUse": "Users can utilize the guide to improve their AI art generation skills and create more sophisticated art pieces. The guide can be used in conjunction with other AI art tools to enhance the creative process.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-l2kvxv07m",
+            "title": "AI Disclosure",
+            "subtitle": "OpenArt releases a guide for creators on AI disclosure in 2026",
+            "category": "AI",
+            "tags": [
+                "AI Disclosure",
+                "OpenArt",
+                "Creator's Guide"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wYjFNS1pWQWs1LWRjVGc2ak1nRVVBRGQxcWowN01pajlPZ0tsQmZicjd1VjVtNExOSzUtZzdWSDg5ODd5RG15cGNZV01nOEo0Nkk3WVJXeU5sS0hIRnBwajBjWENlMW9PREE?oc=5",
+                "date": "2026-05-15T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt has released a guide for creators on AI disclosure, focusing on the importance of transparency in AI-generated content. The guide provides insights into the current state of AI disclosure and its implications for the creative industry. It also offers practical advice on how creators can disclose their use of AI in their work.",
+            "whyItMatters": "The guide matters because it addresses the growing need for transparency in AI-generated content, which is becoming increasingly prevalent in the creative industry. By providing a framework for AI disclosure, OpenArt aims to promote ethical practices and build trust between creators and their audiences.",
+            "howToUse": "Creators can use the guide to understand the importance of AI disclosure and learn how to implement transparent practices in their work, such as clearly labeling AI-generated content and providing information about the AI tools used.",
+            "beneficiaries": [
+                "Content Creators",
+                "Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-krwl9553z",
+            "title": "Regulation Update",
+            "subtitle": "Recent regulatory changes in US states for iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "US Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmxNelBoTFZ1N0VNQWZ5a1FmZTNGSS1BTkRWal9RZXo3aU55SGpTTE1NdzFYQ05obk5pRkZMR0xlOFZjTGs1ZVdnSlVQcllrSnFFWUhDUlI0TGRvdFpFWmpmSUY2VXFFQnZQd3N6cVRRT25NQXI3WlhvQkdINXd3aFpSLWwzUTF0UHM5am5zVmpTdjlhMlNOcWZ3WlVlU2s?oc=5",
+                "date": "2026-05-15T10:21:45.000Z"
+            },
+            "whatsNew": "Colorado, Minnesota, and Wisconsin have introduced new regulations affecting the iGaming industry. These changes aim to provide a clearer framework for operators and players alike.",
+            "whyItMatters": "The updated regulations will impact the operations and revenue of iGaming companies in these states. Compliance with the new rules is crucial for licensed operators to maintain their market presence.",
+            "howToUse": "iGaming operators should review and adapt to the new regulations to ensure compliance and avoid potential penalties.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
