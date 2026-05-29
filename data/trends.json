@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-28T23:13:01.401Z",
+        "scanDate": "2026-05-29T02:54:48.437Z",
         "version": "2.5.0",
-        "totalTrends": 50,
+        "totalTrends": 51,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-olflissw3",
+            "title": "Synthesia Avatars",
+            "subtitle": "Using personal avatar requests in Synthesia for AI video generation",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "AI Avatars",
+                "Video Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXc3cFlqTzFlM2JHT1c3N09wWnZ1LTh3YnVRMHFsUTVuZEt1ZkZGNkI4MGVyU0d5R0M5QnNDdGxpdmVETDZiZVFoU2dTNDN4UDRtU2p3N3dsZzRiTVVrTVZlRWtIcDRDQlZPZ1lZNjdSY0tkRmhBSE5ZYmotLTBRenRNazNBTnlTUEswVDRVMTcwRTNlbTA5TnRpUUxOUQ?oc=5",
+                "date": "2026-05-20T11:57:57.000Z"
+            },
+            "whatsNew": "Synthesia now allows users to create personalized avatars for AI-generated videos, enhancing customization and realism. This feature expands the creative possibilities for video content creators. The use of personal avatars can increase user engagement and authenticity in AI-generated content.",
+            "whyItMatters": "The ability to use personal avatars in Synthesia can significantly impact the quality and personalization of AI-generated videos, making them more relatable and engaging for the audience. This feature is particularly beneficial for content creators looking to establish a strong brand identity or connect with their audience on a personal level.",
+            "howToUse": "To use personal avatar requests in Synthesia, users can follow the guidelines provided in the Synthesia Knowledge Base, which includes uploading a reference image and customizing the avatar's appearance and expressions. This process allows for a high degree of customization, enabling users to create avatars that closely resemble real individuals or fit specific brand personas.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Educators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-u6nl7rb7s",
             "title": "AI Art Prompt",
@@ -1728,7 +1760,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "note": null
         },
         {
@@ -1747,7 +1779,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1756,7 +1788,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1765,7 +1797,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "note": "Regulatory updates"
         },
         {
@@ -1783,7 +1815,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1792,7 +1824,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1812,7 +1844,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-28T21:06:14.175Z",
+            "lastScan": "2026-05-29T02:54:48.437Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1870,7 +1902,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T21:06:14.175Z",
+            "lastScan": "2026-05-29T02:54:48.438Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1879,7 +1911,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-29T02:54:48.438Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1888,7 +1920,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-29T02:54:48.438Z",
             "note": "Style browsing signal"
         },
         {
@@ -1925,7 +1957,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T18:08:38.767Z",
+            "lastScan": "2026-05-29T02:54:48.438Z",
             "note": null
         },
         {
@@ -1934,7 +1966,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-28T06:52:59.435Z",
+            "lastScan": "2026-05-29T02:54:48.438Z",
             "note": null
         },
         {
@@ -2015,7 +2047,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-28T23:13:01.401Z",
+            "lastScan": "2026-05-29T02:54:48.438Z",
             "note": null
         },
         {
