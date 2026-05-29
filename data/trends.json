@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-29T10:43:48.670Z",
+        "scanDate": "2026-05-29T13:58:21.280Z",
         "version": "2.5.0",
         "totalTrends": 48,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hl9j3moas",
+            "title": "AI Anime Art",
+            "subtitle": "Civitai releases One obsession - v21_Anime, an illustrious checkpoint in AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anime Style",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdFZmT1Zkc2p3WjVlblZ2TmFwQWhvaHo3Q0xvU1B0R1Q4VzdtUHdlRERfR2swVjFyTE90ekFJQWwxcTJYY2JKZkx6a3FjbkVVTHVwVDRRN19RZW13?oc=5",
+                "date": "2026-05-19T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's One obsession - v21_Anime showcases advancements in AI-generated anime art, highlighting intricate details and styles. This model demonstrates the potential for AI in creating unique, high-quality art. The release is part of Civitai's efforts to push the boundaries of AI art generation.",
+            "whyItMatters": "The development and release of such models impact the creative industries, offering new tools for artists and designers. It also underscores the growing role of AI in art, challenging traditional notions of creativity and authorship.",
+            "howToUse": "Artists and designers can utilize Civitai's model for inspiration or as a tool to generate concepts, exploring new styles and themes in their work. Experimenting with AI art generation can enhance creativity and productivity.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Creative Agencies"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-oeg0tzqlm",
             "title": "Colossyan Alternatives",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-olflissw3",
@@ -710,38 +742,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-u6yzzyb8r",
-            "title": "LTX Video LoRA",
-            "subtitle": "Civitai releases LTX-2.3 with camera controls for video generation",
-            "category": "AI",
-            "tags": [
-                "LTX-2.3",
-                "Video LoRA",
-                "Civitai",
-                "AI Video Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOWNNQ3FMV0lBSWxWYko2LXFUUUc3Umd0N2U5ZHFYMkNRLVNZMGpDdWpBUmFEa0pjUGw4dXJtUEM4cEVsX1AyVnFSVVhseURSRFRDajBIaDMtYXY3YjQ0MDVWa3V0Nkcx?oc=5",
-                "date": "2026-05-15T13:41:55.000Z"
-            },
-            "whatsNew": "Civitai's LTX-2.3 update introduces camera controls for more precise video generation. This update enhances the capabilities of the LTX Video LoRA model. The introduction of camera controls allows for more detailed and controlled video output.",
-            "whyItMatters": "This update is significant for AI video generation as it provides more control over the output, making it useful for various applications. It impacts the development of AI video tools by setting a new standard for video generation capabilities.",
-            "howToUse": "Developers can utilize the LTX-2.3 update to generate high-quality videos with precise camera controls, enhancing their projects' visual aspects. This can be applied in gaming, animation, and other fields where video generation is crucial.",
-            "beneficiaries": [
-                "AI Developers",
-                "Video Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1668,7 +1668,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": null
         },
         {
@@ -1687,7 +1687,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1696,7 +1696,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1705,7 +1705,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "Regulatory updates"
         },
         {
@@ -1723,7 +1723,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1732,7 +1732,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1752,7 +1752,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1810,7 +1810,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1819,7 +1819,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1828,7 +1828,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": "Style browsing signal"
         },
         {
@@ -1865,7 +1865,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": null
         },
         {
@@ -1874,7 +1874,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": null
         },
         {
@@ -1955,7 +1955,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T10:43:48.670Z",
+            "lastScan": "2026-05-29T13:58:21.280Z",
             "note": null
         },
         {
@@ -26621,6 +26621,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-u6yzzyb8r",
+            "title": "LTX Video LoRA",
+            "subtitle": "Civitai releases LTX-2.3 with camera controls for video generation",
+            "category": "AI",
+            "tags": [
+                "LTX-2.3",
+                "Video LoRA",
+                "Civitai",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOWNNQ3FMV0lBSWxWYko2LXFUUUc3Umd0N2U5ZHFYMkNRLVNZMGpDdWpBUmFEa0pjUGw4dXJtUEM4cEVsX1AyVnFSVVhseURSRFRDajBIaDMtYXY3YjQ0MDVWa3V0Nkcx?oc=5",
+                "date": "2026-05-15T13:41:55.000Z"
+            },
+            "whatsNew": "Civitai's LTX-2.3 update introduces camera controls for more precise video generation. This update enhances the capabilities of the LTX Video LoRA model. The introduction of camera controls allows for more detailed and controlled video output.",
+            "whyItMatters": "This update is significant for AI video generation as it provides more control over the output, making it useful for various applications. It impacts the development of AI video tools by setting a new standard for video generation capabilities.",
+            "howToUse": "Developers can utilize the LTX-2.3 update to generate high-quality videos with precise camera controls, enhancing their projects' visual aspects. This can be applied in gaming, animation, and other fields where video generation is crucial.",
+            "beneficiaries": [
+                "AI Developers",
+                "Video Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
