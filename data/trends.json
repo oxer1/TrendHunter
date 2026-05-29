@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-29T13:58:21.280Z",
+        "scanDate": "2026-05-29T17:35:46.087Z",
         "version": "2.5.0",
-        "totalTrends": 48,
+        "totalTrends": 49,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ytx0nrgld",
+            "title": "LTX2.3 Released",
+            "subtitle": "Civitai introduces LTX2.3, an all-in-one AI tool combining LTX Director, ID LoRA, ControlNet, Detailer, and Upscaler for both SFW and NSFW content.",
+            "category": "AI",
+            "tags": [
+                "LTX2.3",
+                "AI Tool",
+                "Civitai",
+                "Content Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzJqLUpmTGtEbktGWGpiMko4LUhvOHdUaGIwZFNES3BqOGtUQk5JanpEYnlXeG9TeFlsVkNORWFoUHdWUExmNmszOThhTzY1ZTZ3ZVhXenZrYU5BUllIZDNmd1VFZE1uWllhQ05heW9Tc0wybHpmbEExZW4ycV9zbGxuT1BOalh2dXp4WE1BNVNhcjVzOEEzRV9ZN3g2RWRfblVfUU5WXzd1V3B3UEdJ?oc=5",
+                "date": "2026-05-27T07:00:00.000Z"
+            },
+            "whatsNew": "LTX2.3 integrates multiple AI functions into one package, simplifying the content creation process. It includes LTX Director for overall control, ID LoRA for identification, ControlNet for detailed control, Detailer for enhancing details, and Upscaler for improving resolution.",
+            "whyItMatters": "This integration can significantly streamline AI-assisted content creation, making it more accessible and efficient for users. It also indicates a trend towards more comprehensive AI tools in the creative industry.",
+            "howToUse": "Users can utilize LTX2.3 for generating and editing AI content by accessing it through Civitai, following the platform's guidelines for SFW and NSFW content creation.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-hl9j3moas",
             "title": "AI Anime Art",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-oeg0tzqlm",
@@ -1668,7 +1700,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": null
         },
         {
@@ -1687,7 +1719,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1696,7 +1728,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1705,7 +1737,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "Regulatory updates"
         },
         {
@@ -1723,7 +1755,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1732,7 +1764,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1752,7 +1784,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1810,7 +1842,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1819,7 +1851,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1828,7 +1860,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": "Style browsing signal"
         },
         {
@@ -1865,7 +1897,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": null
         },
         {
@@ -1955,7 +1987,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-29T17:35:46.087Z",
             "note": null
         },
         {
