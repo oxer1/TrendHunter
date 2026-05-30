@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-30T20:07:07.098Z",
+        "scanDate": "2026-05-30T21:59:16.069Z",
         "version": "2.5.0",
-        "totalTrends": 51,
+        "totalTrends": 50,
         "categories": [
             "iGaming",
             "AI",
@@ -1486,37 +1486,6 @@
             "isNew": false
         },
         {
-            "id": "t-3meo4nyia",
-            "title": "Spine Unity Update",
-            "subtitle": "Spine Unity 4.3-beta potentially replaced with 4.3 version",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "Unity",
-                "Game Development"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZlNlg3Y3dNYk1mWWVTekFkSW4tUi00WjA4ME4ydTROLWV5VVliNDJwZkNQa21fMkl3UHhqYWUxRHA0Y2Z0Nk9LQ0tKWC1GRnNORm5zOHpaVlpULXNpRVlISzUxRzRmWVU5RjZBWnMtY1I5U0hrYVJSZmNiM09nMTNxM19JOEF1d3Jud0IxT0ExeWJGQnkzbHJYc0UyTy1zbGJEd1A3VXNKUQ?oc=5",
-                "date": "2026-05-16T21:01:16.000Z"
-            },
-            "whatsNew": "The Spine Unity version has potentially been updated from 4.3-beta to 4.3. The change is related to the Git URL on the official Spine website.",
-            "whyItMatters": "This update may impact game development workflows and compatibility for developers using Spine with Unity. It signifies the ongoing development and refinement of game development tools.",
-            "howToUse": "Developers should check the official Spine website for the latest version and update their projects accordingly to ensure compatibility and access to the latest features.",
-            "beneficiaries": [
-                "Game Developers",
-                "Unity Users"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-vbodooosv",
             "title": "SORA Renewal",
             "subtitle": "New Jersey offers 8-hour SORA Renewal Program Training",
@@ -1764,7 +1733,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.069Z",
             "note": null
         },
         {
@@ -1783,7 +1752,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1792,7 +1761,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1801,7 +1770,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "note": "Regulatory updates"
         },
         {
@@ -1819,7 +1788,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1828,7 +1797,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1848,7 +1817,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2051,7 +2020,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T20:07:07.098Z",
+            "lastScan": "2026-05-30T21:59:16.070Z",
             "note": null
         },
         {
@@ -26838,6 +26807,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-3meo4nyia",
+            "title": "Spine Unity Update",
+            "subtitle": "Spine Unity 4.3-beta potentially replaced with 4.3 version",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Unity",
+                "Game Development"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZlNlg3Y3dNYk1mWWVTekFkSW4tUi00WjA4ME4ydTROLWV5VVliNDJwZkNQa21fMkl3UHhqYWUxRHA0Y2Z0Nk9LQ0tKWC1GRnNORm5zOHpaVlpULXNpRVlISzUxRzRmWVU5RjZBWnMtY1I5U0hrYVJSZmNiM09nMTNxM19JOEF1d3Jud0IxT0ExeWJGQnkzbHJYc0UyTy1zbGJEd1A3VXNKUQ?oc=5",
+                "date": "2026-05-16T21:01:16.000Z"
+            },
+            "whatsNew": "The Spine Unity version has potentially been updated from 4.3-beta to 4.3. The change is related to the Git URL on the official Spine website.",
+            "whyItMatters": "This update may impact game development workflows and compatibility for developers using Spine with Unity. It signifies the ongoing development and refinement of game development tools.",
+            "howToUse": "Developers should check the official Spine website for the latest version and update their projects accordingly to ensure compatibility and access to the latest features.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Users"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
