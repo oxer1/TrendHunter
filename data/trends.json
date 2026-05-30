@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-30T04:51:39.389Z",
+        "scanDate": "2026-05-30T07:39:17.008Z",
         "version": "2.5.0",
         "totalTrends": 50,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-kv9o2f0hq",
+            "title": "Klein Edit v1.0",
+            "subtitle": "Civitai releases Change Scene Klein Edit v1.0 with Flux.2 Klein LoRA",
+            "category": "AI",
+            "tags": [
+                "AI Tools",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWDExaFBUdGZOeFliekY5ZVo1am9uX0liYk9vRFdUcG5uQzU1OWtOMEIwMXJVQ19KaUVGd0xmVnNPVVhCTUtVdjFqNmpGSEJBRDdiM0ZQRk56UnZzVm1aaUJWclg1akZlYUE?oc=5",
+                "date": "2026-05-29T18:01:33.000Z"
+            },
+            "whatsNew": "Civitai has released Change Scene - Klein Edit - v1.0, incorporating Flux.2 Klein LoRA, marking a significant update in AI-powered editing capabilities. This version aims to enhance user experience and editing efficiency. The integration of LoRA technology suggests a focus on improving model performance and versatility.",
+            "whyItMatters": "This release is important because it reflects the ongoing development and refinement of AI tools for creative work, potentially offering users more powerful and accessible editing solutions. It indicates the growing capabilities of AI in content creation and manipulation.",
+            "howToUse": "Users can leverage this update by exploring the new features and capabilities of Change Scene - Klein Edit - v1.0, especially focusing on how Flux.2 Klein LoRA enhances their editing workflow and outcomes.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-by821hsut",
             "title": "AI Training Videos",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nwql42v24",
@@ -1424,37 +1455,6 @@
             "isNew": false
         },
         {
-            "id": "t-g5zbia7yu",
-            "title": "Anima LoRA Update",
-            "subtitle": "Civitai releases Aesthetic Quality Modifiers - Masterpiece - v5.0 with Anima LoRA",
-            "category": "AI",
-            "tags": [
-                "Anima LoRA",
-                "Aesthetic Quality Modifiers",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTU5LQ2FJdGYwejNEUEFpMWZFRDZOR2dWcVYyREtFajRRN1poMF9ERHo2UWpKSkNQcjVMTDVHZWJaWlo1STdHM3l5Tk9ObFUwTEY0S24wM0VUUzh1YTFQZWRmNWJ6NDQzX3dNYkZ3R0MtcXdyMlU3dVZJc3BMQQ?oc=5",
-                "date": "2026-05-16T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released Aesthetic Quality Modifiers - Masterpiece - v5.0, an update to their Anima LoRA tool. This update aims to improve the aesthetic quality of generated images. The tool is now in its third preview stage.",
-            "whyItMatters": "This update is significant for AI art generation, as it enhances the capabilities of Anima LoRA, a key tool in the field. It can lead to more realistic and detailed generated images, benefiting artists and designers.",
-            "howToUse": "Artists and designers can utilize this updated tool to generate high-quality images with improved aesthetic appeal, by accessing the Civitai platform and exploring the features of Aesthetic Quality Modifiers - Masterpiece - v5.0.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-3meo4nyia",
             "title": "Spine Unity Update",
             "subtitle": "Spine Unity 4.3-beta potentially replaced with 4.3 version",
@@ -1733,7 +1733,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": null
         },
         {
@@ -1752,7 +1752,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1761,7 +1761,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1770,7 +1770,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": "Regulatory updates"
         },
         {
@@ -1788,7 +1788,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1797,7 +1797,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1817,7 +1817,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1875,7 +1875,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2020,7 +2020,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-30T07:39:17.008Z",
             "note": null
         },
         {
@@ -26747,6 +26747,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-g5zbia7yu",
+            "title": "Anima LoRA Update",
+            "subtitle": "Civitai releases Aesthetic Quality Modifiers - Masterpiece - v5.0 with Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "Anima LoRA",
+                "Aesthetic Quality Modifiers",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTU5LQ2FJdGYwejNEUEFpMWZFRDZOR2dWcVYyREtFajRRN1poMF9ERHo2UWpKSkNQcjVMTDVHZWJaWlo1STdHM3l5Tk9ObFUwTEY0S24wM0VUUzh1YTFQZWRmNWJ6NDQzX3dNYkZ3R0MtcXdyMlU3dVZJc3BMQQ?oc=5",
+                "date": "2026-05-16T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Aesthetic Quality Modifiers - Masterpiece - v5.0, an update to their Anima LoRA tool. This update aims to improve the aesthetic quality of generated images. The tool is now in its third preview stage.",
+            "whyItMatters": "This update is significant for AI art generation, as it enhances the capabilities of Anima LoRA, a key tool in the field. It can lead to more realistic and detailed generated images, benefiting artists and designers.",
+            "howToUse": "Artists and designers can utilize this updated tool to generate high-quality images with improved aesthetic appeal, by accessing the Civitai platform and exploring the features of Aesthetic Quality Modifiers - Masterpiece - v5.0.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
