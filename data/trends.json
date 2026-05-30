@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-30T00:07:26.529Z",
+        "scanDate": "2026-05-30T04:51:39.389Z",
         "version": "2.5.0",
         "totalTrends": 50,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-by821hsut",
+            "title": "AI Training Videos",
+            "subtitle": "Creating SOP training videos with AI using Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Synthesia",
+                "Training videos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVEpiRmExRmdSY2xsdTJLOEVQWWtzN1ZlZHdGVjBGMTV2Ynp0OU9mZGpzaXJ2YlBnblhjR3dsUnhtaGZhOWtVUGE4OXJkd3lD?oc=5",
+                "date": "2026-05-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia introduces AI-powered SOP training video creation, streamlining the process with automated video generation. This innovation enables efficient training content production. AI-driven video tools are becoming increasingly popular for corporate training.",
+            "whyItMatters": "The use of AI in training video creation enhances productivity and reduces production time, making it a valuable tool for businesses. It also improves the overall quality of training content.",
+            "howToUse": "Utilize Synthesia's AI video generation capabilities to create engaging and informative SOP training videos, and integrate them into existing training programs for enhanced employee onboarding and development.",
+            "beneficiaries": [
+                "Corporate Trainers",
+                "HR Professionals"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-nwql42v24",
             "title": "Mexican Market Shrinks",
@@ -930,35 +961,6 @@
             "isNew": false
         },
         {
-            "id": "t-cs407ae27",
-            "title": "NJ Gaming Update",
-            "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for April 2026",
-            "category": "iGaming",
-            "tags": [
-                "NJ DGE",
-                "Gaming Regulation",
-                "April 2026"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50NFR1NlMyV2x2Q3kwRUw5TWhnUkpVREM4RjZINHY1YVRXTTVPLXBSZGtWU3Y5dWU2Q0pTMkRDT0x1RzRRVlZKcVJ2S1E0Z0pqVHI0dmR1cVFEQTNGb1U5NzVlTzQxSmszbmNzTmRDMWxGd3M4ekhlWGRreXA?oc=5",
-                "date": "2026-05-16T04:27:20.000Z"
-            },
-            "whatsNew": "The New Jersey Division of Gaming Enforcement has announced updates for April 2026, indicating ongoing regulatory activity in the state's gaming sector. The announcement was made by Interim Director Jennifer Davenport and Attorney General Mary Jo Flaherty. Details of the updates are not specified in the initial report.",
-            "whyItMatters": "These updates may impact gaming operators and players in New Jersey, reflecting the state's ongoing efforts to regulate and oversee its gaming industry. The announcements could include changes to licensing, compliance, or other regulatory aspects.",
-            "howToUse": "Gaming operators should review the updates to ensure compliance with any new or changed regulations. Players may also want to stay informed about any changes that could affect their gaming experience.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-cj8u4194q",
             "title": "MGA Appointed",
             "subtitle": "MGA representative appointed Co-Chair of GREF InfoStat Working Group",
@@ -1731,7 +1733,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T00:07:26.529Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": null
         },
         {
@@ -1750,7 +1752,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-30T00:07:26.529Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1759,7 +1761,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T22:27:38.840Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1768,7 +1770,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T22:27:38.840Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "Regulatory updates"
         },
         {
@@ -1786,7 +1788,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T22:27:38.840Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1795,7 +1797,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T22:27:38.840Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1815,7 +1817,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-29T22:27:38.840Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1873,7 +1875,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T20:21:07.683Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1882,7 +1884,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T17:35:46.087Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1891,7 +1893,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T17:35:46.087Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": "Style browsing signal"
         },
         {
@@ -1928,7 +1930,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-29T17:35:46.087Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": null
         },
         {
@@ -1937,7 +1939,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-29T13:58:21.280Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": null
         },
         {
@@ -1946,7 +1948,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-26T16:40:55.792Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": null
         },
         {
@@ -2018,7 +2020,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T00:07:26.529Z",
+            "lastScan": "2026-05-30T04:51:39.389Z",
             "note": null
         },
         {
@@ -26716,6 +26718,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-cs407ae27",
+            "title": "NJ Gaming Update",
+            "subtitle": "New Jersey's Division of Gaming Enforcement announces updates for April 2026",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Gaming Regulation",
+                "April 2026"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50NFR1NlMyV2x2Q3kwRUw5TWhnUkpVREM4RjZINHY1YVRXTTVPLXBSZGtWU3Y5dWU2Q0pTMkRDT0x1RzRRVlZKcVJ2S1E0Z0pqVHI0dmR1cVFEQTNGb1U5NzVlTzQxSmszbmNzTmRDMWxGd3M4ekhlWGRreXA?oc=5",
+                "date": "2026-05-16T04:27:20.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement has announced updates for April 2026, indicating ongoing regulatory activity in the state's gaming sector. The announcement was made by Interim Director Jennifer Davenport and Attorney General Mary Jo Flaherty. Details of the updates are not specified in the initial report.",
+            "whyItMatters": "These updates may impact gaming operators and players in New Jersey, reflecting the state's ongoing efforts to regulate and oversee its gaming industry. The announcements could include changes to licensing, compliance, or other regulatory aspects.",
+            "howToUse": "Gaming operators should review the updates to ensure compliance with any new or changed regulations. Players may also want to stay informed about any changes that could affect their gaming experience.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
