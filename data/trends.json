@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-30T13:22:57.315Z",
+        "scanDate": "2026-05-30T15:03:44.302Z",
         "version": "2.5.0",
-        "totalTrends": 51,
+        "totalTrends": 50,
         "categories": [
             "iGaming",
             "AI",
@@ -20,35 +20,6 @@
         ]
     },
     "trends": [
-        {
-            "id": "t-j36txqzwk",
-            "title": "UK Gambling Sanctions",
-            "subtitle": "Mauricio Espinoza Ruben Junior faces regulatory sanctions from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Regulatory Sanctions",
-                "UK Gambling Commission",
-                "Compliance"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGtHOEdhN3dDMzZmZnB2emtnT3JSQ1Aza2U5Vm10bTlKSkd5bFp0TTFRcE9mT1JnZDlfQWVrVWdhN0EwSlVzcGE5djhfb0RLTXFhWWNzVVozRm9aS3NLUnNIdTZ5VGd1ckR4R3Vld2NIaFViZ1hrUUw1WHoyWDNYYnhER2dDczFNcXh4Rw?oc=5",
-                "date": "2026-05-16T13:36:21.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Mauricio Espinoza Ruben Junior. The details of the sanctions are not specified in the given content.",
-            "whyItMatters": "This development highlights the importance of compliance in the iGaming industry and the regulatory body's efforts to maintain fair and safe gambling practices.",
-            "howToUse": "Operators should ensure they are up-to-date with all regulatory requirements to avoid similar sanctions.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
         {
             "id": "t-kv9o2f0hq",
             "title": "Klein Edit v1.0",
@@ -1762,7 +1733,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T13:22:57.315Z",
+            "lastScan": "2026-05-30T15:03:44.302Z",
             "note": null
         },
         {
@@ -1781,7 +1752,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-30T13:22:57.315Z",
+            "lastScan": "2026-05-30T15:03:44.302Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1790,7 +1761,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T13:22:57.315Z",
+            "lastScan": "2026-05-30T15:03:44.302Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1799,7 +1770,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T13:22:57.315Z",
+            "lastScan": "2026-05-30T15:03:44.302Z",
             "note": "Regulatory updates"
         },
         {
@@ -2049,7 +2020,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T13:22:57.315Z",
+            "lastScan": "2026-05-30T15:03:44.302Z",
             "note": null
         },
         {
@@ -26807,6 +26778,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-j36txqzwk",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "Mauricio Espinoza Ruben Junior faces regulatory sanctions from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Regulatory Sanctions",
+                "UK Gambling Commission",
+                "Compliance"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGtHOEdhN3dDMzZmZnB2emtnT3JSQ1Aza2U5Vm10bTlKSkd5bFp0TTFRcE9mT1JnZDlfQWVrVWdhN0EwSlVzcGE5djhfb0RLTXFhWWNzVVozRm9aS3NLUnNIdTZ5VGd1ckR4R3Vld2NIaFViZ1hrUUw1WHoyWDNYYnhER2dDczFNcXh4Rw?oc=5",
+                "date": "2026-05-16T13:36:21.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Mauricio Espinoza Ruben Junior. The details of the sanctions are not specified in the given content.",
+            "whyItMatters": "This development highlights the importance of compliance in the iGaming industry and the regulatory body's efforts to maintain fair and safe gambling practices.",
+            "howToUse": "Operators should ensure they are up-to-date with all regulatory requirements to avoid similar sanctions.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
