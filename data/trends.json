@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-30T23:05:05.841Z",
+        "scanDate": "2026-05-31T03:31:12.354Z",
         "version": "2.5.0",
-        "totalTrends": 50,
+        "totalTrends": 55,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,163 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3lh9fiunh",
+            "title": "Merkur Casino Update",
+            "subtitle": "Merkur Casino Entertainment UK Limited receives update from Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Merkur Casino",
+                "Gambling Commission",
+                "Licensing"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEZobDEtVnNVRE5yNlk0NTBBd3FtMlB6U0pKcmVlTVBxV29aTzZDa3BZbWdCQ3VYTnc3aEw5Xy14ZzByOS1rQzdYMHBvUUtuYzlJR3AzYV9BQS1uSk5teThUQVlwZEp4cW8wSTFfQUdaNVl6M3ZuTWhjSTBtVWg3bjVhdmU?oc=5",
+                "date": "2026-05-24T18:59:12.000Z"
+            },
+            "whatsNew": "Merkur Casino Entertainment UK Limited has received an update regarding its premises from the UK Gambling Commission. The update pertains to the premises located at SA7 9EQ. This move indicates ongoing regulatory oversight in the iGaming sector.",
+            "whyItMatters": "The update reflects the Gambling Commission's continued efforts to ensure compliance with gaming regulations, impacting the operations of Merkur Casino and similar entities. It underscores the importance of regulatory adherence in the iGaming industry.",
+            "howToUse": "Operators should ensure they are up-to-date with the latest regulatory requirements to avoid compliance issues. Regular checks with the Gambling Commission can help in maintaining a licensed status.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Merkur Casino Entertainment UK Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-xcp97xae0",
+            "title": "AI Image Checkpoint",
+            "subtitle": "SoLordZ releases ZIT_v1.0, a ZImage checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ORDNxdlF4N3g0ZW40a01kdDZ0QkcyckdaejA1SnJESTlMa2ZLeFJlNnd0OGVFN05BeHVVVWRZNUE2Sm4zMENQZmpVOEhrbFZMbEtIOEY5RUp3Y2lpaEFhVXItQTUtZTkzRmpsSDlfSGtSc2c?oc=5",
+                "date": "2026-05-30T13:39:12.000Z"
+            },
+            "whatsNew": "SoLordZ has released ZIT_v1.0, a new ZImage checkpoint on the Civitai platform, allowing for advanced image generation capabilities. This checkpoint is part of the ongoing development in AI art generation. The release is significant as it contributes to the growing library of AI image generation models.",
+            "whyItMatters": "The release of ZIT_v1.0 is important because it showcases the rapid advancement in AI image generation technology, offering new possibilities for creative work. It also highlights the role of platforms like Civitai in facilitating the development and sharing of AI models.",
+            "howToUse": "Developers and artists can utilize ZIT_v1.0 by integrating it into their projects to generate high-quality images, exploring its potential for various applications such as gaming, animation, and visual design.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-lqa8rund9",
+            "title": "Lenovo UltraReal",
+            "subtitle": "Lenovo releases UltraReal, an AI-powered animation tool on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Animation",
+                "Lenovo",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
+                "date": "2026-05-25T07:00:00.000Z"
+            },
+            "whatsNew": "Lenovo has released UltraReal, a cutting-edge AI animation tool. This tool utilizes Anima LoRA technology for advanced animation capabilities. The release is part of Lenovo's foray into AI-powered creative tools.",
+            "whyItMatters": "The introduction of Lenovo UltraReal signifies a major tech company's commitment to AI for creative work, potentially expanding access to advanced animation tools. This could have a significant impact on the gaming and animation industries.",
+            "howToUse": "Developers and animators can utilize Lenovo UltraReal to create more realistic and detailed animations, integrating the tool into their existing workflows for enhanced productivity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Lenovo"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-animation",
+            "isNew": true
+        },
+        {
+            "id": "t-gg40b3ydf",
+            "title": "Cyborg Art",
+            "subtitle": "A futuristic cyborg boy art prompt is featured on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Cyborg",
+                "Art Prompt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbXRCR1dubzZRb3BDTmJfdlUzaVB0QmVWa2NYZ05GeDRxbGVacHl6NThPeS11czdnOE5rMXd6NnZRZkItVUZCZmhwZXJ3SWhDY2hrVi1zREhSVjZ2N0ppa191dGU0ZVpVYXhoT1lfb2szbGJKal9KVUw4Y2l5TmtESGVzc2RjZmJ3V3Utc0hBR082TWNTRmJMSjlCaE82cTFzV0t1SWVwSi1RLXJialZKZVRCdHVpTWdmZmo3SUhGb2NlSlRkcDlfMjRidDJpZ3AzVGpMZmVveUNQMTJVN3RTTzg0YnBPU1p6aW5lbXpnMWtVSVozMnJKNmEzQXZ4S2hCNXVVRVJDQ21uWFg3RmhDRmdRZG14OHpiUEJoX0h5RQ?oc=5",
+                "date": "2026-05-26T06:21:14.000Z"
+            },
+            "whatsNew": "The art prompt features a futuristic cyborg boy with captivating details, showcasing the potential of AI-generated art. This prompt can inspire new ideas in AI art generation. The use of such prompts can lead to innovative art styles.",
+            "whyItMatters": "This art prompt matters as it demonstrates the capabilities of AI in generating unique and captivating art, which can be used in various industries such as gaming and entertainment. It also highlights the potential of AI art generation in creating new and innovative art styles.",
+            "howToUse": "Artists and designers can use this prompt to generate new ideas and inspiration for their work, and can also experiment with different AI art generation tools to create unique and captivating art.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-jprvrviuv",
+            "title": "AI Reels Maker",
+            "subtitle": "Create Instagram Reels with AI online using Open Art AI",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Instagram Reels",
+                "Open Art AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50N0FZakJYWTIxU3dlSktJbnBWZTlGU1NfSU96UkZXWGFZRjk0dTVoM2ZxVHFIdXJLZ1JnbU9IWkRuekZGVGxpNWg1VE9xOHBROGtUTlVB?oc=5",
+                "date": "2026-05-28T08:51:24.000Z"
+            },
+            "whatsNew": "Open Art AI introduces an AI-powered tool to create Instagram Reels online. This tool leverages AI to simplify the content creation process for social media platforms.",
+            "whyItMatters": "The AI Reels Maker has the potential to revolutionize social media content creation by making it more accessible and efficient. This could significantly impact the way creators produce and share content on Instagram.",
+            "howToUse": "Utilize the AI Reels Maker by accessing the Open Art AI platform and following the prompts to generate engaging Instagram Reels with minimal effort.",
+            "beneficiaries": [
+                "Social media creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Open Art AI"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-4kzaz2u3t",
             "title": "Pair Leisure",
@@ -1733,7 +1890,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T23:05:05.841Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": null
         },
         {
@@ -1752,7 +1909,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-30T23:05:05.841Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1761,7 +1918,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T21:59:16.070Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1770,7 +1927,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T21:59:16.070Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "Regulatory updates"
         },
         {
@@ -1788,7 +1945,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T21:59:16.070Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1797,7 +1954,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T21:59:16.070Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1817,7 +1974,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-30T21:59:16.070Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1875,7 +2032,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T07:39:17.008Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1884,7 +2041,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -1893,7 +2050,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": "Style browsing signal"
         },
         {
@@ -1930,7 +2087,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": null
         },
         {
@@ -2020,7 +2177,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-30T23:05:05.841Z",
+            "lastScan": "2026-05-31T03:31:12.354Z",
             "note": null
         },
         {
