@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-05-31T03:31:12.354Z",
+        "scanDate": "2026-05-31T07:43:14.671Z",
         "version": "2.5.0",
-        "totalTrends": 55,
+        "totalTrends": 57,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-67ys46oi3",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "Mcdonald Shona Elizabeth faces regulatory sanctions from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Commission",
+                "Sanctions"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhNcWliMERia0xWWXNfc3JGOUN0Q1pKcXE0YTB1VC1KTGU4Zm43NzhMVGh1aUJ3bzg4WE5idUFaR2FROHZFdlZYdDAzNVMzZU9qSlpYaUVmUmVRNE8yeEhsV080ZE5NcGczUXo4b0RnS1g1eFVLRjhjYm1teXlTNldBWmpndFdYSFdCag?oc=5",
+                "date": "2026-05-24T10:55:57.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Mcdonald Shona Elizabeth. The details of the sanctions are not specified in the provided content.",
+            "whyItMatters": "This development highlights the Commission's ongoing efforts to enforce regulatory compliance within the iGaming industry. It underscores the importance of adherence to gambling regulations.",
+            "howToUse": "Operators should ensure they are up-to-date with the latest regulatory requirements to avoid similar sanctions.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-6bnjpomtq",
+            "title": "Anima LoRA Update",
+            "subtitle": "Civitai releases Aesthetic Quality Modifiers - Masterpiece - v5.1 for Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "Anima LoRA",
+                "Aesthetic Quality Modifiers",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTU5LQ2FJdGYwejNEUEFpMWZFRDZOR2dWcVYyREtFajRRN1poMF9ERHo2UWpKSkNQcjVMTDVHZWJaWlo1STdHM3l5Tk9ObFUwTEY0S24wM0VUUzh1YTFQZWRmNWJ6NDQzX3dNYkZ3R0MtcXdyMlU3dVZJc3BMQQ?oc=5",
+                "date": "2026-05-23T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update to their Anima LoRA model, introducing Aesthetic Quality Modifiers - Masterpiece - v5.1. This update aims to enhance the model's ability to generate high-quality, aesthetically pleasing images.",
+            "whyItMatters": "This update is significant for AI art generation, as it demonstrates the ongoing development and refinement of AI models for creative applications. It has the potential to impact the quality and diversity of AI-generated art.",
+            "howToUse": "Artists and developers can utilize this updated model to generate unique, high-quality images for various applications, including gaming, animation, and visual design.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-3lh9fiunh",
             "title": "Merkur Casino Update",
@@ -49,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xcp97xae0",
@@ -81,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-lqa8rund9",
@@ -112,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-animation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gg40b3ydf",
@@ -144,7 +205,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jprvrviuv",
@@ -175,7 +236,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4kzaz2u3t",
@@ -1890,7 +1951,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": null
         },
         {
@@ -1909,7 +1970,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1918,7 +1979,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1927,7 +1988,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "Regulatory updates"
         },
         {
@@ -1945,7 +2006,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1954,7 +2015,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1974,7 +2035,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2032,7 +2093,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2041,7 +2102,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2050,7 +2111,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": "Style browsing signal"
         },
         {
@@ -2087,7 +2148,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": null
         },
         {
@@ -2096,7 +2157,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": null
         },
         {
@@ -2177,7 +2238,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T03:31:12.354Z",
+            "lastScan": "2026-05-31T07:43:14.671Z",
             "note": null
         },
         {
