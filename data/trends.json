@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-01T15:55:04.750Z",
+        "scanDate": "2026-06-01T20:15:31.630Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 65,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-z8r6kaore",
+            "title": "Unity Games",
+            "subtitle": "A review of games made with Unity in May 2026, featuring various genres and award-winning titles.",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Indie Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/games-made-with-unity-may-2026-releases",
+                "date": "2026-06-01T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity blog highlights numerous games made with Unity in May 2026, including award-winning titles like Paralives and ZERO PARADES: For Dead Spies. The list features a wide range of genres, from action and adventure to puzzle and role-playing games. Many of these games have entered early access or been fully released, showcasing the versatility and creativity of Unity developers.",
+            "whyItMatters": "The proliferation of Unity-made games demonstrates the engine's popularity and ease of use, allowing developers to create high-quality games across various genres. This trend is likely to continue, with more developers turning to Unity for their game development needs.",
+            "howToUse": "Developers can leverage Unity's features and community resources to create their own games, and players can explore the diverse range of Unity-made games available on various platforms.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios",
+                "Gamers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-w5ihqnlj0",
+            "title": "MGM Takeover Bid",
+            "subtitle": "Billionaire Barry Diller makes an $18 billion takeover bid for MGM Resorts International",
+            "category": "iGaming",
+            "tags": [
+                "MGM Resorts",
+                "Takeover Bid",
+                "Barry Diller"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0h2WlloM1Utc0JVV2h0UjctazFja2lua3RrMzB1Mm8zQW04TGhNWmZSOHdBTFdpS3VmM0Q3Ymp3eGJCZVVmY2VMcm5QeGp6aDdnUFl2a1lyeWhPRWxtYjFqS1dmczBnMUlUXzNxOU5MajlJZUNWalIxM1RmaVE3aGJ0Yjh0OUN3Y0dHd3pZRWdEaGdVSW1TRk16M0liazFOLVhudUM1Zkk4YTQ5YnZvZVg2dkcydXVlNEFUYU13?oc=5",
+                "date": "2026-06-01T14:52:26.000Z"
+            },
+            "whatsNew": "Billionaire Barry Diller has made a significant $18 billion takeover bid for MGM Resorts International, a major player in the gaming and hospitality industry. This move could potentially reshape the landscape of the industry. The bid is one of the largest in recent history, indicating a strong interest in the sector.",
+            "whyItMatters": "This takeover bid matters because it could lead to significant changes in the ownership and operation of MGM Resorts, potentially impacting the iGaming industry as a whole. It also reflects the growing interest and investment in the gaming sector.",
+            "howToUse": "Industry stakeholders should monitor the development of this bid closely, as it may present opportunities for collaboration or necessitate adjustments in strategy. Companies in the iGaming space should be prepared for potential shifts in market dynamics.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Industry Stakeholders"
+            ],
+            "companies": [
+                "MGM Resorts International"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-s18mnyu3d",
             "title": "MGA Notice",
@@ -47,7 +110,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w00rvcwgd",
@@ -80,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qrk6s974z",
@@ -111,7 +174,7 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-c2f8brbmm",
@@ -1983,39 +2046,6 @@
             "visualStyle": null,
             "cluster": "ai-in-igaming",
             "isNew": false
-        },
-        {
-            "id": "t-69vw47ih2",
-            "title": "Bally's M&A Talks",
-            "subtitle": "Bally's Intralot and evoke extend merger and acquisition talks deadline to June 8",
-            "category": "iGaming",
-            "tags": [
-                "M&A",
-                "iGaming",
-                "Bally's"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcUs5Q1NvSXp2QWNSaGd4cUNsTTRIZnlVTHVUVUFWOWhRWkZaSkl5Y0VIWUNuOFNhV2FDSXNwVXhTVTZPLTZPMEpHNWM5d2RJZi11bktzNk1uTExmOWxEdmZwb3MtOGRMd0NpV2RHa2tkdU44RVVmdkR3eVpVWEF2MTZHaGtYbUdqTm1WTk9PcnVicjlPRnRrbW83TQ?oc=5",
-                "date": "2026-05-18T16:06:46.000Z"
-            },
-            "whatsNew": "Bally's Intralot and evoke have extended their merger and acquisition talks deadline to June 8. The extension indicates ongoing negotiations between the two parties.",
-            "whyItMatters": "The potential merger could have significant implications for the iGaming industry, potentially leading to increased market share and competitiveness for the combined entity.",
-            "howToUse": "Industry stakeholders should monitor the situation closely, as a successful merger could lead to new opportunities for partnerships and collaborations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Bally's",
-                "Intralot",
-                "evoke"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2172,7 +2202,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": null
         },
         {
@@ -2191,7 +2221,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2200,7 +2230,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2209,7 +2239,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": "Regulatory updates"
         },
         {
@@ -2227,7 +2257,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2236,7 +2266,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2256,7 +2286,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2314,7 +2344,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2459,7 +2489,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-01T20:15:31.630Z",
             "note": null
         },
         {
@@ -27431,6 +27461,39 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-69vw47ih2",
+            "title": "Bally's M&A Talks",
+            "subtitle": "Bally's Intralot and evoke extend merger and acquisition talks deadline to June 8",
+            "category": "iGaming",
+            "tags": [
+                "M&A",
+                "iGaming",
+                "Bally's"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcUs5Q1NvSXp2QWNSaGd4cUNsTTRIZnlVTHVUVUFWOWhRWkZaSkl5Y0VIWUNuOFNhV2FDSXNwVXhTVTZPLTZPMEpHNWM5d2RJZi11bktzNk1uTExmOWxEdmZwb3MtOGRMd0NpV2RHa2tkdU44RVVmdkR3eVpVWEF2MTZHaGtYbUdqTm1WTk9PcnVicjlPRnRrbW83TQ?oc=5",
+                "date": "2026-05-18T16:06:46.000Z"
+            },
+            "whatsNew": "Bally's Intralot and evoke have extended their merger and acquisition talks deadline to June 8. The extension indicates ongoing negotiations between the two parties.",
+            "whyItMatters": "The potential merger could have significant implications for the iGaming industry, potentially leading to increased market share and competitiveness for the combined entity.",
+            "howToUse": "Industry stakeholders should monitor the situation closely, as a successful merger could lead to new opportunities for partnerships and collaborations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Bally's",
+                "Intralot",
+                "evoke"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
