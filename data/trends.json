@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-01T09:24:22.821Z",
+        "scanDate": "2026-06-01T15:55:04.750Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-s18mnyu3d",
+            "title": "MGA Notice",
+            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URL",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Malta"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rWTB5cnN2dy14cmo2ay1HS1NNOEhtR0dxS0ZSdnE1UUlubkFZRnY4bXI2UEVOZndZSkZJaHFqSkNmaUpoXzVIR1Y4UjFMdDRDck5oc1NtdnBBS3EzSE40azRKRFNlWHBCZmpXZW9Fc3ZYMmd1QkFzVTl3?oc=5",
+                "date": "2026-05-29T14:30:00.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice regarding an unauthorised URL. This move aims to protect players and maintain the integrity of the gaming industry.",
+            "whyItMatters": "The notice highlights the MGA's efforts to regulate and monitor the gaming industry, ensuring a safe environment for players. It also underscores the importance of compliance with regulatory requirements.",
+            "howToUse": "Operators should ensure they are aware of and comply with all relevant regulations and guidelines to avoid unauthorised activities.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-w00rvcwgd",
+            "title": "Veo 3.1 Released",
+            "subtitle": "Google's Veo 3.1 AI video generator is now available through HeyGen",
+            "category": "AI",
+            "tags": [
+                "Veo 3.1",
+                "AI Video",
+                "Google",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYb2JsdmpCZFFJOHMzWFlSbEFHQUppU2g2ZnBCRWJDVTg2bU1CdjhYN0F2X3UwNFZ5c200Rk9ILVFxNnp4MVBpZzRBYkM2cERuTnhITmpB?oc=5",
+                "date": "2026-05-27T17:30:08.000Z"
+            },
+            "whatsNew": "Veo 3.1 is the latest version of Google's AI video generator, offering enhanced capabilities for video creation. This update is made available through HeyGen, expanding access to advanced video generation tools. The new version promises improved performance and features.",
+            "whyItMatters": "The release of Veo 3.1 signifies a step forward in AI-powered video generation, potentially revolutionizing content creation. It matters because it offers users more powerful tools for generating high-quality videos, which can be particularly impactful for industries like gaming and entertainment.",
+            "howToUse": "Content creators can utilize Veo 3.1 by accessing it through HeyGen, where they can explore its features and apply them to their video production workflows. This involves understanding the capabilities of the AI video generator and integrating it into their existing content creation pipelines.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Google",
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-qrk6s974z",
+            "title": "Spine 2D",
+            "subtitle": "Spine 2D animation tool",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X1VmSFNPbDI1N3VhM01kYkl1MmFvMXcxY2VZMkhXUXBLTnE4aUFHemNsTDRlU3NwUDE0VGhkUElJblpNbHR0YmpqUVowdnJhZFZEVGRVdEwtMFZz?oc=5",
+                "date": "2026-06-01T08:13:42.000Z"
+            },
+            "whatsNew": "Spine 2D is a tool for 2D animation, often used in game development. It allows for detailed and efficient animation creation. The mention of Spine 2D indicates its ongoing relevance in the industry.",
+            "whyItMatters": "Spine 2D matters because it provides game developers with a powerful tool for creating engaging animations, enhancing the overall gaming experience. Its stability and efficiency are crucial for game development workflows.",
+            "howToUse": "Developers can use Spine 2D to create complex animations and integrate them into their games, improving the visual quality and player engagement.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-c2f8brbmm",
             "title": "Flutter Executive Pay",
@@ -49,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fef9bkdgv",
@@ -80,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-omw6bdpwz",
@@ -112,7 +205,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-h2g7pfhkm",
@@ -143,7 +236,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-j7qhsy6rn",
@@ -174,7 +267,7 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dl3r1u794",
@@ -205,7 +298,7 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-cb6tded7p",
@@ -236,7 +329,7 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-lk3u8nx2f",
@@ -1923,37 +2016,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-lqq1zg73z",
-            "title": "Betano FIFA Sponsor",
-            "subtitle": "Betano lands second consecutive FIFA World Cup sponsorship deal",
-            "category": "iGaming",
-            "tags": [
-                "FIFA World Cup",
-                "Sponsorship",
-                "Betano"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzBmdVg5bXpoUTZsT2kxbko4NGFWRGVuRU03ZGpIdW1VbnlGY2NnZkVmVG1RWk0xWUU4eG9sLTRQQjh0b3lsT1Nmc1VVamVyZDlYQkFMT1J4dDJMOVJIZUpJQmF5UjRDSVI0c1dwa0RhUW1SZUxhMkdzSDk5b1dFaF81RHRpcmF3UG9oUVRLM3JoN2RoemdwY19ibDBhS0k?oc=5",
-                "date": "2026-05-18T11:01:19.000Z"
-            },
-            "whatsNew": "Betano has secured its second consecutive FIFA World Cup sponsorship deal, solidifying its presence in the global sports betting market. This move indicates a growing interest in sports betting sponsorships. The deal is expected to increase brand visibility for Betano.",
-            "whyItMatters": "This sponsorship deal matters as it reflects the growing importance of sports betting in global sporting events and can significantly impact Betano's brand recognition and customer acquisition. It also underscores the increasing role of iGaming companies in sponsoring major international sports events.",
-            "howToUse": "For iGaming operators, securing such sponsorships can be a strategic move to enhance brand visibility and attract new customers. Companies can leverage these partnerships to offer exclusive promotions and betting experiences tied to the sponsored events.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Sports Betting Enthusiasts"
-            ],
-            "companies": [
-                "Betano"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2110,7 +2172,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": null
         },
         {
@@ -2129,7 +2191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2138,7 +2200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2147,7 +2209,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "Regulatory updates"
         },
         {
@@ -2165,7 +2227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2174,7 +2236,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2194,7 +2256,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2252,7 +2314,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2261,7 +2323,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2270,7 +2332,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "Style browsing signal"
         },
         {
@@ -2307,7 +2369,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": null
         },
         {
@@ -2316,7 +2378,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": null
         },
         {
@@ -2325,7 +2387,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": null
         },
         {
@@ -2352,7 +2414,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2397,7 +2459,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T09:24:22.821Z",
+            "lastScan": "2026-06-01T15:55:04.750Z",
             "note": null
         },
         {
@@ -27336,6 +27398,37 @@
                 "gaming regulators"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-lqq1zg73z",
+            "title": "Betano FIFA Sponsor",
+            "subtitle": "Betano lands second consecutive FIFA World Cup sponsorship deal",
+            "category": "iGaming",
+            "tags": [
+                "FIFA World Cup",
+                "Sponsorship",
+                "Betano"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzBmdVg5bXpoUTZsT2kxbko4NGFWRGVuRU03ZGpIdW1VbnlGY2NnZkVmVG1RWk0xWUU4eG9sLTRQQjh0b3lsT1Nmc1VVamVyZDlYQkFMT1J4dDJMOVJIZUpJQmF5UjRDSVI0c1dwa0RhUW1SZUxhMkdzSDk5b1dFaF81RHRpcmF3UG9oUVRLM3JoN2RoemdwY19ibDBhS0k?oc=5",
+                "date": "2026-05-18T11:01:19.000Z"
+            },
+            "whatsNew": "Betano has secured its second consecutive FIFA World Cup sponsorship deal, solidifying its presence in the global sports betting market. This move indicates a growing interest in sports betting sponsorships. The deal is expected to increase brand visibility for Betano.",
+            "whyItMatters": "This sponsorship deal matters as it reflects the growing importance of sports betting in global sporting events and can significantly impact Betano's brand recognition and customer acquisition. It also underscores the increasing role of iGaming companies in sponsoring major international sports events.",
+            "howToUse": "For iGaming operators, securing such sponsorships can be a strategic move to enhance brand visibility and attract new customers. Companies can leverage these partnerships to offer exclusive promotions and betting experiences tied to the sponsored events.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Betting Enthusiasts"
+            ],
+            "companies": [
+                "Betano"
+            ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
