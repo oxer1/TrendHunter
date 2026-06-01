@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-01T03:43:21.030Z",
+        "scanDate": "2026-06-01T09:24:22.821Z",
         "version": "2.5.0",
-        "totalTrends": 57,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,224 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-c2f8brbmm",
+            "title": "Flutter Executive Pay",
+            "subtitle": "A shareholder criticizes executive pay at Flutter's AGM",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "Executive Pay",
+                "AGM"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjd4Sm84S0dJSnFmRHZ6ZzMwb0EyWnctWVNjNXVWNjk3VEFhSU1ZcFlWdXFpTUVnX2RLdEZKM3cySkQ4eHBXREVuR2xrN01oSTJlT05WVW1kaXR2WUpYVy13eG5nSExITWNGT0plQlBnUWp1N1VMR25HcHRuY1F1T21wWXppM2x1WUFPMkNCRWVNaC12eWhuZDI2YktESEdDRkhB?oc=5",
+                "date": "2026-05-29T07:00:00.000Z"
+            },
+            "whatsNew": "A Flutter shareholder has expressed dissatisfaction with executive pay at the company's annual general meeting. This criticism may reflect broader concerns about compensation in the iGaming industry. The incident highlights the need for transparency and fairness in executive remuneration.",
+            "whyItMatters": "The criticism of executive pay at Flutter's AGM matters because it reflects investor concerns about corporate governance and fairness in the iGaming sector. It may also indicate a trend towards greater scrutiny of executive compensation in the industry.",
+            "howToUse": "Companies in the iGaming sector should prioritize transparency and fairness in executive compensation to maintain investor trust and avoid criticism. They can achieve this by implementing clear, performance-based pay structures and disclosing compensation details to shareholders.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-fef9bkdgv",
+            "title": "Stake Argentina",
+            "subtitle": "Stake announces its launch in Argentina as part of its regulated expansion",
+            "category": "iGaming",
+            "tags": [
+                "Stake",
+                "Argentina",
+                "Regulated Expansion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBialBjaGhMZWk2Q3lZUnRMWmUyRFcyeTc3dmpQV0lZUTFVLXphQWZEbHVBbVJPV3BPWDZ2VERUbzNFNVM2SXc3YVFuaVkyYjEwN0xQeVgwTjlWUmNJWHhKVmlDcVdiTU5RVW1fWGhpbjBXODFkV0MyeFcxUHdJcDNjaWdLbWs2ZXQ5eUkxWVVBRkc2ekZBbzU0RE05Z0NWcVE?oc=5",
+                "date": "2026-06-01T07:37:44.000Z"
+            },
+            "whatsNew": "Stake has announced its entry into the Argentine market, marking another step in its regulated expansion. This move is expected to increase Stake's global presence. The launch is subject to local regulations and licensing.",
+            "whyItMatters": "The launch signifies Stake's commitment to expanding into regulated markets, potentially setting a precedent for other operators. It also highlights the growing importance of Latin America in the global iGaming industry.",
+            "howToUse": "Operators can learn from Stake's strategy by focusing on regulated markets and complying with local laws to ensure sustainable growth.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Argentine Players"
+            ],
+            "companies": [
+                "Stake"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-omw6bdpwz",
+            "title": "Godot 4.6.2 Issues",
+            "subtitle": "Export template problems with Godot 4.6.2 and Spine 2D reported",
+            "category": "Tech",
+            "tags": [
+                "Godot",
+                "Spine 2D",
+                "Export Templates"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVF9PcTdMQmlWT3dWemtaaHNaemVqZndqeDJyYk1kODlIU3BHMUVqcWxhZWlmSGlXUEkwTGJrcGxwdUZ0eUQ5Y3FLZzBydmxzNUpjdERQN1BhaEJoQ3N2YkRPTDhmalhRaTlEMkdGVmVsUVJQaXZjT3dYcnhPam82dXl0Um9XQzBLRkRzNGdR?oc=5",
+                "date": "2026-06-01T01:44:24.000Z"
+            },
+            "whatsNew": "Godot 4.6.2 is experiencing issues with its export templates, specifically with Spine 2D. This affects game development workflows that rely on these tools.",
+            "whyItMatters": "The issue impacts game developers using Godot and Spine 2D, potentially delaying project timelines. Resolving this problem is crucial for the efficiency of game development processes.",
+            "howToUse": "Developers should look for patches or workarounds provided by the Godot or Spine 2D communities to mitigate the export template issues.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [
+                "Godot",
+                "Esoteric (Spine)"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-h2g7pfhkm",
+            "title": "Unity Spine Update",
+            "subtitle": "Improving the update flow from Spine 4.2 to 4.3 in Unity",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Spine",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2YySGVHY1lsZko2U2JsVGdNd2ZHUGUzbWJ3MFlvbWNTdkxrVVdqbHRQQk9KRHR6dktEX2tJcGc1VHRMbE5ZMzU0R1J1Q2FhVUdHWmRKZzk2WnpJYWxRVV9OenFLdTVadnRoRE5WeVE4TnhyTm45VnNEMTVEaEVyT2hlcGxwRlB4em1UTS1FVUNOeGR4OW9nNmVEWnk?oc=5",
+                "date": "2026-05-30T04:15:35.000Z"
+            },
+            "whatsNew": "The update improves the workflow for transitioning from Spine 4.2 to 4.3 in Unity, enhancing compatibility and efficiency. This update is crucial for game developers using Spine for 2D animations. The improvements focus on streamlining the update process.",
+            "whyItMatters": "This update matters because it simplifies the process for developers to keep their tools and software up-to-date, ensuring they have access to the latest features and fixes. It impacts game development efficiency and quality.",
+            "howToUse": "Developers can apply this update by following the official Spine documentation and Unity integration guidelines, ensuring a smooth transition from Spine 4.2 to 4.3.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-j7qhsy6rn",
+            "title": "Spine Animation",
+            "subtitle": "Adjusting root bone position in Spine",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUptY0dQc1FvaEVJY1hlTmhKSkxWeDRtZnBYSmw4NDNrWjhoNzlVVkg3Z3h6NXd0UUhxU3Q1SzlJSkY4TVpKVVYxNmpsQVRXQWlTeVc5X01yMkpSZm8zMzE1VmNnSlNnSHBIemo1VnVVVGMxWVRqMlF3bFd5ZVFOOWhraVZnM3BF?oc=5",
+                "date": "2026-05-28T16:08:04.000Z"
+            },
+            "whatsNew": "The Spine official website discusses adjusting the x and y positions of the root bone, a fundamental aspect of animation. This highlights the importance of precise control over skeletal animations. The topic is directly related to game development and animation techniques.",
+            "whyItMatters": "Understanding how to manipulate root bones is crucial for creating realistic and engaging animations in games. This knowledge can enhance game development by allowing for more complex and detailed character movements.",
+            "howToUse": "Developers can apply this by experimenting with different root bone positions in their Spine projects to achieve desired animation effects. This can be particularly useful in creating character animations for games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-dl3r1u794",
+            "title": "Spine Physics",
+            "subtitle": "Suggestion to bake physics constraints as keyframes on Spine's official website",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Physics",
+                "Animation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BSMmxRc0t5ODBXeTh2SUl3aXlCSnZnUWg4OUVWTHFSQzhsdUNCYWh4eE8wTmVGS2UweHc3MnVzUFJqbnJ2cFpnc0NyUnE1Y2VTNEM1WFlZTFdyeXRkTWRCYjRDREZaaTlkZ2ZjZzFfeXBrVDJKdlR2NTl1RFNIRVJlTGlaRFNGb013S3V1d1ExbzZlb29aNmRsTQ?oc=5",
+                "date": "2026-05-25T13:13:11.000Z"
+            },
+            "whatsNew": "Spine suggests baking physics constraints as keyframes for smoother animation. This technique can enhance animation quality and reduce computational load.",
+            "whyItMatters": "This approach can improve the overall animation experience in games and interactive applications, making it more engaging for users.",
+            "howToUse": "Developers can apply this technique by using Spine's built-in features to bake physics constraints into keyframe animations, simplifying the animation process.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-cb6tded7p",
+            "title": "Spine 2D",
+            "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaXhIS093Q1QtaVRLRTJBRDJFQ1RlM0tOd1AydUlNZlByeF9BT3kzRGlHTGJYOWlBbE1nblZzdFJJU3RrRC1rY3FIY0FCUnVWRjVJTjZ6dHd1bkpZWXZFTQ?oc=5",
+                "date": "2026-06-01T03:59:40.000Z"
+            },
+            "whatsNew": "The mention of Spine 2D could imply new features or applications in the field of 2D animation for games. Spine is known for its use in game development for creating animations. This could be an area of interest for developers looking to enhance their game's visual aspects.",
+            "whyItMatters": "Spine 2D's capabilities can significantly impact game development by providing efficient and high-quality animation tools. This can lead to more engaging and visually appealing games.",
+            "howToUse": "Developers can utilize Spine 2D for creating complex animations and integrating them into their games for enhanced user experience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-lk3u8nx2f",
             "title": "Pony Diffusion",
@@ -50,7 +268,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w3x3mn32y",
@@ -82,7 +300,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-67ys46oi3",
@@ -1091,38 +1309,6 @@
             "isNew": false
         },
         {
-            "id": "t-btco79ha6",
-            "title": "AI Art Generation",
-            "subtitle": "Cinematic editorial portrait generated using AI prompts",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Stable Diffusion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOXZ6QnFDZHVOb3RuT3NPcUVRNVpXcG5xQnVlZzVEZ0EteWVkMVFkSThSVEJCWXFvUVZKX0d2SHl0Y0VpeTB6SkVSd2JQOE1xMElxNWlWWEllOFphcWRzbVFHRHRMRnZJb2ZoNXVBa3NJOU84Vnd0eHpnYUhmYk9JWFJzNEwtUlN0cGY4cVJ2WDktT01ENFgwM29aQWZtaTRMbUFmQ1BIdUh6WGtoUkdudGtPSG9tUkRlVC14VWoxS0RlMzl5WnJyenVpZGNUQUdWUEhUbldWV3pQVEUyYmcxQ0Y3WlNqMHBwLXh6SF9mLXNwczU1Zm40MnMzRzc4Zw?oc=5",
-                "date": "2026-05-18T05:58:20.000Z"
-            },
-            "whatsNew": "The use of AI prompts for generating cinematic editorial portraits is becoming increasingly popular, allowing for unique and creative images. This trend is expected to continue as AI technology advances. The ability to generate high-quality images with specific prompts is a significant development in the field of AI art generation.",
-            "whyItMatters": "The ability to generate high-quality images using AI prompts has significant implications for the art and design industries, enabling new forms of creative expression and potentially disrupting traditional workflows. This technology can be used in various applications, including gaming, advertising, and entertainment.",
-            "howToUse": "To utilize this technology, users can experiment with different AI prompts and models, such as Stable Diffusion, to generate unique and creative images. By refining the prompts and adjusting the model parameters, users can achieve high-quality results that meet their specific needs.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-2cqpufhht",
             "title": "LLM Impact",
             "subtitle": "Leaked LLM system prompts affect iGaming SEO",
@@ -1612,35 +1798,6 @@
             "isNew": false
         },
         {
-            "id": "t-djhoo3v2u",
-            "title": "NJ Sportsbooks",
-            "subtitle": "New Jersey sportsbooks reach $100m in April revenue",
-            "category": "iGaming",
-            "tags": [
-                "sports betting",
-                "revenue",
-                "New Jersey"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWdKbjdTSEFsMVZHNVo0SWdxUVJfU1c0QmJSeEpHRGhrd3V0M2hMcnkxR0o4QnhtRC1PeUk5ZWUzb0JVM2VZRUxWNVFmYTNxYm5VMjlZY2dfY0VYUlBteWMzUzNjdnpTMmNFSDhGa3U5d3ZxWlJiR0dDOG40SGlmRF8wUTg1dzBvckNhbkV5WFFvcHFC?oc=5",
-                "date": "2026-05-18T07:00:00.000Z"
-            },
-            "whatsNew": "New Jersey sportsbooks have surpassed $100m in revenue for the month of April, marking a significant milestone in the state's sports betting industry. This growth is attributed to increased betting activity and new market entrants. The state's sports betting market continues to expand, with more operators and betting options available to consumers.",
-            "whyItMatters": "The revenue milestone highlights the growing importance of sports betting in New Jersey's gaming industry, with potential implications for other states considering similar regulations. It also underscores the need for operators to innovate and compete in a crowded market.",
-            "howToUse": "Operators can leverage this trend by investing in targeted marketing campaigns and enhancing their product offerings to attract and retain customers in New Jersey's competitive sports betting market.",
-            "beneficiaries": [
-                "sportsbook operators",
-                "gaming regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-pm5eg6o8l",
             "title": "Gemini Video",
             "subtitle": "OpenArt announces the upcoming release of Gemini Omni Video Generator",
@@ -1953,7 +2110,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": null
         },
         {
@@ -1972,7 +2129,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1981,7 +2138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1990,7 +2147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "Regulatory updates"
         },
         {
@@ -2008,7 +2165,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2017,7 +2174,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2037,7 +2194,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2095,7 +2252,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2104,7 +2261,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2113,7 +2270,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "Style browsing signal"
         },
         {
@@ -2150,7 +2307,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": null
         },
         {
@@ -2159,7 +2316,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": null
         },
         {
@@ -2168,7 +2325,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": null
         },
         {
@@ -2195,7 +2352,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-26T16:40:55.792Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2240,7 +2397,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T03:43:21.030Z",
+            "lastScan": "2026-06-01T09:24:22.821Z",
             "note": null
         },
         {
@@ -27120,6 +27277,67 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-btco79ha6",
+            "title": "AI Art Generation",
+            "subtitle": "Cinematic editorial portrait generated using AI prompts",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Stable Diffusion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOXZ6QnFDZHVOb3RuT3NPcUVRNVpXcG5xQnVlZzVEZ0EteWVkMVFkSThSVEJCWXFvUVZKX0d2SHl0Y0VpeTB6SkVSd2JQOE1xMElxNWlWWEllOFphcWRzbVFHRHRMRnZJb2ZoNXVBa3NJOU84Vnd0eHpnYUhmYk9JWFJzNEwtUlN0cGY4cVJ2WDktT01ENFgwM29aQWZtaTRMbUFmQ1BIdUh6WGtoUkdudGtPSG9tUkRlVC14VWoxS0RlMzl5WnJyenVpZGNUQUdWUEhUbldWV3pQVEUyYmcxQ0Y3WlNqMHBwLXh6SF9mLXNwczU1Zm40MnMzRzc4Zw?oc=5",
+                "date": "2026-05-18T05:58:20.000Z"
+            },
+            "whatsNew": "The use of AI prompts for generating cinematic editorial portraits is becoming increasingly popular, allowing for unique and creative images. This trend is expected to continue as AI technology advances. The ability to generate high-quality images with specific prompts is a significant development in the field of AI art generation.",
+            "whyItMatters": "The ability to generate high-quality images using AI prompts has significant implications for the art and design industries, enabling new forms of creative expression and potentially disrupting traditional workflows. This technology can be used in various applications, including gaming, advertising, and entertainment.",
+            "howToUse": "To utilize this technology, users can experiment with different AI prompts and models, such as Stable Diffusion, to generate unique and creative images. By refining the prompts and adjusting the model parameters, users can achieve high-quality results that meet their specific needs.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-djhoo3v2u",
+            "title": "NJ Sportsbooks",
+            "subtitle": "New Jersey sportsbooks reach $100m in April revenue",
+            "category": "iGaming",
+            "tags": [
+                "sports betting",
+                "revenue",
+                "New Jersey"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWdKbjdTSEFsMVZHNVo0SWdxUVJfU1c0QmJSeEpHRGhrd3V0M2hMcnkxR0o4QnhtRC1PeUk5ZWUzb0JVM2VZRUxWNVFmYTNxYm5VMjlZY2dfY0VYUlBteWMzUzNjdnpTMmNFSDhGa3U5d3ZxWlJiR0dDOG40SGlmRF8wUTg1dzBvckNhbkV5WFFvcHFC?oc=5",
+                "date": "2026-05-18T07:00:00.000Z"
+            },
+            "whatsNew": "New Jersey sportsbooks have surpassed $100m in revenue for the month of April, marking a significant milestone in the state's sports betting industry. This growth is attributed to increased betting activity and new market entrants. The state's sports betting market continues to expand, with more operators and betting options available to consumers.",
+            "whyItMatters": "The revenue milestone highlights the growing importance of sports betting in New Jersey's gaming industry, with potential implications for other states considering similar regulations. It also underscores the need for operators to innovate and compete in a crowded market.",
+            "howToUse": "Operators can leverage this trend by investing in targeted marketing campaigns and enhancing their product offerings to attract and retain customers in New Jersey's competitive sports betting market.",
+            "beneficiaries": [
+                "sportsbook operators",
+                "gaming regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
