@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-05-31T23:03:13.897Z",
+        "scanDate": "2026-06-01T03:43:21.030Z",
         "version": "2.5.0",
         "totalTrends": 57,
         "categories": [
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-lk3u8nx2f",
+            "title": "Pony Diffusion",
+            "subtitle": "Stable Yogi releases Pony v6.5 diffusion checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "Pony Diffusion",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYmtHNzhCRGxMcTBpRWdJQ2RjWi01WW9mWVhoUHdjYjNtOFBiOThHQmJIdW1haXB1ZE16MG4wc0ZSeDdkVDFwMk5HZFRoemhKSmVmNUV2YTFxR1ZMcTF4dU5OV3VwMFBoOTZicGlB?oc=5",
+                "date": "2026-05-29T00:24:07.000Z"
+            },
+            "whatsNew": "Stable Yogi has released Pony v6.5, a new diffusion checkpoint for generating realistic images. This update is available on Civitai, a platform for AI models and datasets.",
+            "whyItMatters": "The release of Pony v6.5 demonstrates the ongoing advancements in AI art generation, enabling creators to produce more realistic images. This has significant implications for the gaming and art industries.",
+            "howToUse": "Developers and artists can utilize Pony v6.5 by integrating it into their existing AI pipelines or using it as a standalone tool for generating realistic images.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Stable Yogi",
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-w3x3mn32y",
+            "title": "Seedance 2.0 AI",
+            "subtitle": "ByteDance releases Seedance 2.0 AI video generator through HeyGen",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "ByteDance",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyT3NVa05CZVNVVDlWUkFjZXJvTmtYS2U4OHFDNElxNDNLQVRwNEdzMjBCVWE2OWNUeDZQSTIxeFNJR2tRM0JyZW1IeWgtdnhpbm5OV2dNNmp6Zw?oc=5",
+                "date": "2026-05-23T13:10:01.000Z"
+            },
+            "whatsNew": "ByteDance has introduced Seedance 2.0, an AI-powered video generator, available through HeyGen. This tool is designed to create high-quality videos using artificial intelligence. The release of Seedance 2.0 marks a significant advancement in AI video generation technology.",
+            "whyItMatters": "The introduction of Seedance 2.0 has the potential to revolutionize the video creation process, making it more accessible and efficient for users. This technology can be particularly impactful for the gaming and iGaming industries, where high-quality video content is crucial.",
+            "howToUse": "Users can leverage Seedance 2.0 to generate professional-looking videos without extensive video production experience. This can be especially useful for game developers and iGaming operators looking to create engaging video content.",
+            "beneficiaries": [
+                "Game developers",
+                "iGaming operators",
+                "Content creators"
+            ],
+            "companies": [
+                "ByteDance"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-67ys46oi3",
             "title": "UK Gambling Sanctions",
@@ -1428,39 +1492,6 @@
             "isNew": false
         },
         {
-            "id": "t-z12qa7n25",
-            "title": "Unity Studio Updates",
-            "subtitle": "Unity Studio introduces new collaboration and export tools to streamline 3D workflows and reduce development bottlenecks",
-            "category": "Tech",
-            "tags": [
-                "Unity Studio",
-                "3D workflows",
-                "Collaboration tools",
-                "Export features"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/unity-studio-collaboration-editor-export",
-                "date": "2026-05-18T00:00:00.000Z"
-            },
-            "whatsNew": "Unity Studio has released two major updates: collaboration features for real-time team alignment and a seamless Studio-to-Editor Export for scaling projects without rebuilding. These updates aim to reduce fragmented feedback loops, developer bottlenecks, and disconnected toolchains in 3D creation.",
-            "whyItMatters": "The updates address core challenges in scaling interactive 3D creation, enabling teams to work more efficiently and effectively. This can lead to faster time-to-market and improved collaboration between design and engineering departments.",
-            "howToUse": "Start a free trial of Unity Studio to explore the web-based editor and dive into Unity's documentation to integrate these tools with existing pipelines. Leverage the new collaboration features for real-time feedback and the Studio-to-Editor Export for seamless project scaling.",
-            "beneficiaries": [
-                "Design teams",
-                "Technical leads",
-                "Developers"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-l9ojci5a9",
             "title": "CFTC Sues Minnesota",
             "subtitle": "CFTC files lawsuit against Minnesota over prediction markets ban",
@@ -1704,35 +1735,6 @@
             "isNew": false
         },
         {
-            "id": "t-vbodooosv",
-            "title": "SORA Renewal",
-            "subtitle": "New Jersey offers 8-hour SORA Renewal Program Training",
-            "category": "iGaming",
-            "tags": [
-                "SORA",
-                "Regulation",
-                "New Jersey"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBic01GT2JCT21IQVlEbEhfYlpsdEU3V0dYckZaY2NRd01zQkxIaE5FSmJFX05WS180LWNiaDJQZVF0azNJbFRKSUp5eUdjZWs?oc=5",
-                "date": "2026-05-18T01:37:47.000Z"
-            },
-            "whatsNew": "The New Jersey Division of Gaming Enforcement is providing an 8-hour SORA Renewal Program Training in Trenton. This training is part of the ongoing effort to regulate and ensure compliance within the gaming industry.",
-            "whyItMatters": "This training is crucial for individuals and businesses involved in the gaming industry in New Jersey, as it ensures they are up-to-date with the latest regulations and requirements.",
-            "howToUse": "Attendees can register for the training through the My Career NJ website to stay compliant with SORA regulations.",
-            "beneficiaries": [
-                "Gaming Industry Professionals",
-                "Compliance Officers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-69vw47ih2",
             "title": "Bally's M&A Talks",
             "subtitle": "Bally's Intralot and evoke extend merger and acquisition talks deadline to June 8",
@@ -1951,7 +1953,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T23:03:13.897Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": null
         },
         {
@@ -1970,7 +1972,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-05-31T23:03:13.897Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1979,7 +1981,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T19:26:01.475Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1988,7 +1990,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T19:26:01.475Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "Regulatory updates"
         },
         {
@@ -2006,7 +2008,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T19:26:01.475Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2015,7 +2017,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T19:26:01.475Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2035,7 +2037,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-05-31T19:26:01.475Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2093,7 +2095,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T17:59:00.801Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2102,7 +2104,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T10:13:20.812Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2111,7 +2113,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T10:13:20.812Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": "Style browsing signal"
         },
         {
@@ -2148,7 +2150,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T10:13:20.812Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": null
         },
         {
@@ -2157,7 +2159,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-31T07:43:14.671Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": null
         },
         {
@@ -2166,7 +2168,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-05-30T04:51:39.389Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": null
         },
         {
@@ -2238,7 +2240,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-05-31T23:03:13.897Z",
+            "lastScan": "2026-06-01T03:43:21.030Z",
             "note": null
         },
         {
@@ -27056,6 +27058,68 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-z12qa7n25",
+            "title": "Unity Studio Updates",
+            "subtitle": "Unity Studio introduces new collaboration and export tools to streamline 3D workflows and reduce development bottlenecks",
+            "category": "Tech",
+            "tags": [
+                "Unity Studio",
+                "3D workflows",
+                "Collaboration tools",
+                "Export features"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/unity-studio-collaboration-editor-export",
+                "date": "2026-05-18T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Studio has released two major updates: collaboration features for real-time team alignment and a seamless Studio-to-Editor Export for scaling projects without rebuilding. These updates aim to reduce fragmented feedback loops, developer bottlenecks, and disconnected toolchains in 3D creation.",
+            "whyItMatters": "The updates address core challenges in scaling interactive 3D creation, enabling teams to work more efficiently and effectively. This can lead to faster time-to-market and improved collaboration between design and engineering departments.",
+            "howToUse": "Start a free trial of Unity Studio to explore the web-based editor and dive into Unity's documentation to integrate these tools with existing pipelines. Leverage the new collaboration features for real-time feedback and the Studio-to-Editor Export for seamless project scaling.",
+            "beneficiaries": [
+                "Design teams",
+                "Technical leads",
+                "Developers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-vbodooosv",
+            "title": "SORA Renewal",
+            "subtitle": "New Jersey offers 8-hour SORA Renewal Program Training",
+            "category": "iGaming",
+            "tags": [
+                "SORA",
+                "Regulation",
+                "New Jersey"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBic01GT2JCT21IQVlEbEhfYlpsdEU3V0dYckZaY2NRd01zQkxIaE5FSmJFX05WS180LWNiaDJQZVF0azNJbFRKSUp5eUdjZWs?oc=5",
+                "date": "2026-05-18T01:37:47.000Z"
+            },
+            "whatsNew": "The New Jersey Division of Gaming Enforcement is providing an 8-hour SORA Renewal Program Training in Trenton. This training is part of the ongoing effort to regulate and ensure compliance within the gaming industry.",
+            "whyItMatters": "This training is crucial for individuals and businesses involved in the gaming industry in New Jersey, as it ensures they are up-to-date with the latest regulations and requirements.",
+            "howToUse": "Attendees can register for the training through the My Career NJ website to stay compliant with SORA regulations.",
+            "beneficiaries": [
+                "Gaming Industry Professionals",
+                "Compliance Officers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
