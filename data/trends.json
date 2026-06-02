@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-02T18:37:53.959Z",
+        "scanDate": "2026-06-02T21:46:36.555Z",
         "version": "2.5.0",
         "totalTrends": 69,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-boydfffiv",
+            "title": "AI Creator Tips",
+            "subtitle": "Best practices for AI creators from OpenArt",
+            "category": "AI",
+            "tags": [
+                "AI creation",
+                "Best practices",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpODdpQVJnSV91aFJvUlRxSTJFZUgwaWZQRVd3U0g3SHgyZnlrcThkN1BDaU05c1BZSVpmbWxkN1RtaWd2MkpsOUNyczJGdFZJd1JoOXBJWk9JbV9sZ3c3OXJQTUxYeVJqd25Vdg?oc=5",
+                "date": "2026-05-29T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt shares a list of 10 things the best AI creators never do, providing insights into best practices for AI creation. The list highlights common pitfalls to avoid for successful AI-generated art. This advice can help improve the quality of AI creations.",
+            "whyItMatters": "Understanding what not to do in AI creation can significantly improve the quality and effectiveness of AI-generated art, making it more appealing and useful for various applications. This knowledge can help AI creators refine their skills and produce better work.",
+            "howToUse": "AI creators can use these tips to refine their workflow, avoid common mistakes, and focus on producing high-quality AI-generated art. By following these best practices, creators can enhance their skills and stay competitive in the field.",
+            "beneficiaries": [
+                "AI artists",
+                "AI developers",
+                "Content creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-i49gvb8rp",
             "title": "AI Animation",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-225n8mpuz",
@@ -2138,37 +2170,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-pm5eg6o8l",
-            "title": "Gemini Video",
-            "subtitle": "OpenArt announces the upcoming release of Gemini Omni Video Generator",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "Video Generation",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11NFBObFQtdEdTODIzOUl4MDdNSE14YUpYOE1lcEY4VnRhWmZWOGhFa3loUTEyWTZJdDJhQVdMeGhGN2prMHE5RUR5RkRjcXBnaXc?oc=5",
-                "date": "2026-05-19T20:52:37.000Z"
-            },
-            "whatsNew": "OpenArt is set to release the Gemini Omni Video Generator, a new tool for generating videos using AI. The exact features and capabilities are not yet disclosed, but it is expected to be a significant development in AI video tools.",
-            "whyItMatters": "The Gemini Omni Video Generator has the potential to revolutionize video content creation, making it easier and more accessible for creators to produce high-quality videos. This could have a significant impact on the gaming and iGaming industries, where video content is increasingly important.",
-            "howToUse": "Once released, the Gemini Omni Video Generator can be used by creators to generate videos for various purposes, including game trailers, tutorials, and promotional materials. It is likely to be particularly useful for indie game developers and small studios with limited resources.",
-            "beneficiaries": [
-                "Game Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2325,7 +2326,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": null
         },
         {
@@ -2344,7 +2345,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2353,7 +2354,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2362,7 +2363,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "Regulatory updates"
         },
         {
@@ -2380,7 +2381,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2389,7 +2390,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2409,7 +2410,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2467,7 +2468,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2476,7 +2477,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2485,7 +2486,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": "Style browsing signal"
         },
         {
@@ -2522,7 +2523,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": null
         },
         {
@@ -2612,7 +2613,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T18:37:53.959Z",
+            "lastScan": "2026-06-02T21:46:36.556Z",
             "note": null
         },
         {
@@ -27712,6 +27713,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-pm5eg6o8l",
+            "title": "Gemini Video",
+            "subtitle": "OpenArt announces the upcoming release of Gemini Omni Video Generator",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Video Generation",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11NFBObFQtdEdTODIzOUl4MDdNSE14YUpYOE1lcEY4VnRhWmZWOGhFa3loUTEyWTZJdDJhQVdMeGhGN2prMHE5RUR5RkRjcXBnaXc?oc=5",
+                "date": "2026-05-19T20:52:37.000Z"
+            },
+            "whatsNew": "OpenArt is set to release the Gemini Omni Video Generator, a new tool for generating videos using AI. The exact features and capabilities are not yet disclosed, but it is expected to be a significant development in AI video tools.",
+            "whyItMatters": "The Gemini Omni Video Generator has the potential to revolutionize video content creation, making it easier and more accessible for creators to produce high-quality videos. This could have a significant impact on the gaming and iGaming industries, where video content is increasingly important.",
+            "howToUse": "Once released, the Gemini Omni Video Generator can be used by creators to generate videos for various purposes, including game trailers, tutorials, and promotional materials. It is likely to be particularly useful for indie game developers and small studios with limited resources.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
