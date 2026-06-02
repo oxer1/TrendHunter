@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-02T14:50:12.700Z",
+        "scanDate": "2026-06-02T18:37:53.959Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-i49gvb8rp",
+            "title": "AI Animation",
+            "subtitle": "Grok Imagine Video creates animation of ants using AI prompts",
+            "category": "AI",
+            "tags": [
+                "AI Animation",
+                "Video Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWUc0SmtZNUhOWi1fdFMwUDJuRjVRNUNBTDhyLVE1a0JKd05DNzNfcElhQXhOWi1uRGtDcnlNOVBQbG1wMlI1cndFQUJzNGNTbkRMbWlXNnlKNGNad3VmSzlrSV9NbzFOMXZXSU9Bc1g4bG9qSjg1RHRtRFpXUTZ4X0l4RXBkVWozNUN4Tm1YQ3NTRTNNTGstQ0lPX3NDRnZRRkVxX1JIR2hEcHZpSFVEYldEMHpUb250ekJYc2NmTFJXZFdCZE1MLXloUnFJRjVIX1pOTmFWWHhBU3JoU1dtMg?oc=5",
+                "date": "2026-06-01T16:47:21.000Z"
+            },
+            "whatsNew": "Grok Imagine Video uses AI to generate animations from text prompts, allowing for quick and easy creation of custom animations. The platform can create animations of various subjects, including animals like ants. This technology has the potential to revolutionize the field of animation and video creation.",
+            "whyItMatters": "The ability to generate animations using AI prompts can save time and resources for creators, and open up new possibilities for artistic expression. This technology can also be used in various industries such as education, marketing, and entertainment.",
+            "howToUse": "To use Grok Imagine Video, simply input a text prompt describing the desired animation, and the AI will generate a video based on the prompt. This can be used to create custom animations for various purposes, such as educational videos or social media content.",
+            "beneficiaries": [
+                "Animators",
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-225n8mpuz",
             "title": "AI Art Update",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-z9mfco6sn",
@@ -82,7 +114,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-cmz5uer3t",
@@ -2293,7 +2325,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": null
         },
         {
@@ -2312,7 +2344,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2321,7 +2353,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2330,7 +2362,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "Regulatory updates"
         },
         {
@@ -2348,7 +2380,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2357,7 +2389,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2377,7 +2409,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2435,7 +2467,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2444,7 +2476,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2453,7 +2485,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": "Style browsing signal"
         },
         {
@@ -2490,7 +2522,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": null
         },
         {
@@ -2499,7 +2531,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-02T10:18:17.770Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": null
         },
         {
@@ -2580,7 +2612,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T14:50:12.700Z",
+            "lastScan": "2026-06-02T18:37:53.959Z",
             "note": null
         },
         {
