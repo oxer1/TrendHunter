@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-02T05:28:55.603Z",
+        "scanDate": "2026-06-02T10:18:17.770Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-cmz5uer3t",
+            "title": "Micro Betting Funding",
+            "subtitle": "Micro-betting prediction markets startup raises $6.5m in seed funding",
+            "category": "iGaming",
+            "tags": [
+                "Micro-betting",
+                "Prediction Markets",
+                "Funding"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbXo1SU1RSUdhRVRkbFdpcHNGRDZEM21PcEZvNjJLUEtaV3VOTHVTOHpFZjdBcERnTU9BaDJqb0UxVXNockhHcHdFcGdyUWFWM0VrNVRxR21tR1cwcWExV1BjdXFBTHg5OF9DNG5qc3dnRDdTa2hWNkhsdkp0ODJWTEFDZjBtMDBMeVpQNEMyV29MM0UwYzBIVi1KS1R4R0NkVzBVbGNR?oc=5",
+                "date": "2026-06-02T09:29:48.000Z"
+            },
+            "whatsNew": "A micro-betting prediction markets startup has secured $6.5m in seed funding, indicating growing interest in this niche. The funding will likely be used to develop and expand the platform. This investment suggests that micro-betting is gaining traction.",
+            "whyItMatters": "This funding round highlights the potential of micro-betting and prediction markets in the iGaming industry. It may lead to increased innovation and competition in this space.",
+            "howToUse": "Operators and developers can explore integrating micro-betting features into their platforms to capitalize on this trend. They should consider the potential for prediction markets to enhance user engagement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Platform Developers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-6mojte6qt",
             "title": "EGBA Harm Markers",
@@ -48,7 +77,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-re4to359u",
@@ -80,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4ykyzxsvf",
@@ -917,38 +946,6 @@
             "beneficiaries": [
                 "Content Creators",
                 "AI Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-hl9j3moas",
-            "title": "AI Anime Art",
-            "subtitle": "Civitai releases One obsession - v21_Anime, an illustrious checkpoint in AI art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Anime Style",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdFZmT1Zkc2p3WjVlblZ2TmFwQWhvaHo3Q0xvU1B0R1Q4VzdtUHdlRERfR2swVjFyTE90ekFJQWwxcTJYY2JKZkx6a3FjbkVVTHVwVDRRN19RZW13?oc=5",
-                "date": "2026-05-19T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai's One obsession - v21_Anime showcases advancements in AI-generated anime art, highlighting intricate details and styles. This model demonstrates the potential for AI in creating unique, high-quality art. The release is part of Civitai's efforts to push the boundaries of AI art generation.",
-            "whyItMatters": "The development and release of such models impact the creative industries, offering new tools for artists and designers. It also underscores the growing role of AI in art, challenging traditional notions of creativity and authorship.",
-            "howToUse": "Artists and designers can utilize Civitai's model for inspiration or as a tool to generate concepts, exploring new styles and themes in their work. Experimenting with AI art generation can enhance creativity and productivity.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Creative Agencies"
             ],
             "companies": [
                 "Civitai"
@@ -2076,69 +2073,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-vruznn9xm",
-            "title": "AI Image Prompt",
-            "subtitle": "ChatGPT image generation with PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVzJuYWdyWlAtQngwR2k3MlBRTWgxMVozMFpOWVkxMXJfLXJMM3hQUXRseFJueTUzU01UTlV1UUp6elRsb3RBV3hHaTVTWmQ3SG4zZTZ2UDJrc0luNlhFSGhJWkxfMUtNaUoycGxpeGtvUnYtSFE?oc=5",
-                "date": "2026-05-19T09:25:33.000Z"
-            },
-            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
-            "whyItMatters": "The ability to generate images using ChatGPT has significant implications for the field of AI art and could potentially disrupt the graphic design industry. It also raises questions about the role of human creativity in art.",
-            "howToUse": "To utilize this technology, users can input text prompts into ChatGPT, which will then generate images based on the prompt. This can be used for a variety of applications, including graphic design and art creation.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-rv8qp9i9r",
-            "title": "AI Hedge Fund",
-            "subtitle": "Former ZenSports boss launches AI-focused hedge fund for gambling",
-            "category": "iGaming",
-            "tags": [
-                "AI",
-                "Hedge Fund",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc05aS0sxU2hrNy1DcDJPODN5Z2VjSlhyc1VTQ3FiOUZ5TjRDalM0NnYtd3hMUDFwTDhSaDI2OTVYeEJqUXpkYXVFWnMyTFV3aVo0S0pFTGtscUhMSlhrMzBPWDBneWNUTzlTM3BrdnpQamNNZS1iQVpoaXpudUFtNnQzYklqN3NFNm04azBvZ0h6Z21jbkluWmZkbTFVZw?oc=5",
-                "date": "2026-05-19T08:59:02.000Z"
-            },
-            "whatsNew": "The former CEO of ZenSports has launched a new hedge fund that utilizes AI to focus on the gambling industry. This fund aims to leverage AI technology to make informed investment decisions.",
-            "whyItMatters": "The introduction of an AI-first hedge fund in the gambling space could signal a significant shift in how investments are made in the industry, potentially leading to more efficient and data-driven decision-making.",
-            "howToUse": "Investors and industry stakeholders can explore this new hedge fund as a potential opportunity for investment or partnership, leveraging the power of AI in the gambling sector.",
-            "beneficiaries": [
-                "Investors",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "ZenSports"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2295,7 +2229,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": null
         },
         {
@@ -2314,7 +2248,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2323,7 +2257,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2332,7 +2266,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "Regulatory updates"
         },
         {
@@ -2350,7 +2284,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2359,7 +2293,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2379,7 +2313,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2437,7 +2371,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2446,7 +2380,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2455,7 +2389,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": "Style browsing signal"
         },
         {
@@ -2492,7 +2426,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": null
         },
         {
@@ -2501,7 +2435,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": null
         },
         {
@@ -2582,7 +2516,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-02T05:28:55.603Z",
+            "lastScan": "2026-06-02T10:18:17.770Z",
             "note": null
         },
         {
@@ -27587,6 +27521,101 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-hl9j3moas",
+            "title": "AI Anime Art",
+            "subtitle": "Civitai releases One obsession - v21_Anime, an illustrious checkpoint in AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anime Style",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdFZmT1Zkc2p3WjVlblZ2TmFwQWhvaHo3Q0xvU1B0R1Q4VzdtUHdlRERfR2swVjFyTE90ekFJQWwxcTJYY2JKZkx6a3FjbkVVTHVwVDRRN19RZW13?oc=5",
+                "date": "2026-05-19T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's One obsession - v21_Anime showcases advancements in AI-generated anime art, highlighting intricate details and styles. This model demonstrates the potential for AI in creating unique, high-quality art. The release is part of Civitai's efforts to push the boundaries of AI art generation.",
+            "whyItMatters": "The development and release of such models impact the creative industries, offering new tools for artists and designers. It also underscores the growing role of AI in art, challenging traditional notions of creativity and authorship.",
+            "howToUse": "Artists and designers can utilize Civitai's model for inspiration or as a tool to generate concepts, exploring new styles and themes in their work. Experimenting with AI art generation can enhance creativity and productivity.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Creative Agencies"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-vruznn9xm",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVzJuYWdyWlAtQngwR2k3MlBRTWgxMVozMFpOWVkxMXJfLXJMM3hQUXRseFJueTUzU01UTlV1UUp6elRsb3RBV3hHaTVTWmQ3SG4zZTZ2UDJrc0luNlhFSGhJWkxfMUtNaUoycGxpeGtvUnYtSFE?oc=5",
+                "date": "2026-05-19T09:25:33.000Z"
+            },
+            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
+            "whyItMatters": "The ability to generate images using ChatGPT has significant implications for the field of AI art and could potentially disrupt the graphic design industry. It also raises questions about the role of human creativity in art.",
+            "howToUse": "To utilize this technology, users can input text prompts into ChatGPT, which will then generate images based on the prompt. This can be used for a variety of applications, including graphic design and art creation.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-rv8qp9i9r",
+            "title": "AI Hedge Fund",
+            "subtitle": "Former ZenSports boss launches AI-focused hedge fund for gambling",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Hedge Fund",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc05aS0sxU2hrNy1DcDJPODN5Z2VjSlhyc1VTQ3FiOUZ5TjRDalM0NnYtd3hMUDFwTDhSaDI2OTVYeEJqUXpkYXVFWnMyTFV3aVo0S0pFTGtscUhMSlhrMzBPWDBneWNUTzlTM3BrdnpQamNNZS1iQVpoaXpudUFtNnQzYklqN3NFNm04azBvZ0h6Z21jbkluWmZkbTFVZw?oc=5",
+                "date": "2026-05-19T08:59:02.000Z"
+            },
+            "whatsNew": "The former CEO of ZenSports has launched a new hedge fund that utilizes AI to focus on the gambling industry. This fund aims to leverage AI technology to make informed investment decisions.",
+            "whyItMatters": "The introduction of an AI-first hedge fund in the gambling space could signal a significant shift in how investments are made in the industry, potentially leading to more efficient and data-driven decision-making.",
+            "howToUse": "Investors and industry stakeholders can explore this new hedge fund as a potential opportunity for investment or partnership, leveraging the power of AI in the gambling sector.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "ZenSports"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
