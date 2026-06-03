@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-03T21:46:44.528Z",
+        "scanDate": "2026-06-03T23:40:50.417Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ruovkucpk",
@@ -79,7 +79,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-a13z9aq0k",
@@ -2360,37 +2360,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-tqtp0b3w6",
-            "title": "EGBA Job Opening",
-            "subtitle": "EGBA is hiring a Regulatory Affairs and Policy Manager",
-            "category": "iGaming",
-            "tags": [
-                "EGBA",
-                "Regulatory Affairs",
-                "Job Vacancy"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "EGBA",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHh5M3J6enpnUVFRdDQ5bzRWaW1xeWg4czNyUFR5NFNYQjcyV3JGVU01T3pJY3dtRVpJOXBZWGlBZlhkdWZJMG92aWItbVo3MlVEUm12eTZFNTBmNVA1ZFprZDBIQllYcWJwcnFXcFJHTVRZdG5kQ19MMlkwX3dfblg4SGh4Ulk?oc=5",
-                "date": "2026-05-20T22:30:56.000Z"
-            },
-            "whatsNew": "The European Gaming and Betting Association (EGBA) has announced a job vacancy for a Regulatory Affairs and Policy Manager. This role will focus on managing regulatory affairs and policy for the organization.",
-            "whyItMatters": "This job opening indicates the growing importance of regulatory compliance in the iGaming industry. The right candidate will play a crucial role in shaping EGBA's policy and regulatory strategy.",
-            "howToUse": "Interested candidates can apply for the position through the EGBA website, and industry professionals can take note of the organization's focus on regulatory affairs.",
-            "beneficiaries": [
-                "Regulatory Professionals",
-                "iGaming Companies"
-            ],
-            "companies": [
-                "EGBA"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2547,7 +2516,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": null
         },
         {
@@ -2566,7 +2535,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2575,7 +2544,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2584,7 +2553,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": "Regulatory updates"
         },
         {
@@ -2602,7 +2571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2611,7 +2580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2631,7 +2600,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2689,7 +2658,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2834,7 +2803,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-03T23:40:50.417Z",
             "note": null
         },
         {
@@ -28146,6 +28115,37 @@
                 "Payment Providers"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-tqtp0b3w6",
+            "title": "EGBA Job Opening",
+            "subtitle": "EGBA is hiring a Regulatory Affairs and Policy Manager",
+            "category": "iGaming",
+            "tags": [
+                "EGBA",
+                "Regulatory Affairs",
+                "Job Vacancy"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGBA",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHh5M3J6enpnUVFRdDQ5bzRWaW1xeWg4czNyUFR5NFNYQjcyV3JGVU01T3pJY3dtRVpJOXBZWGlBZlhkdWZJMG92aWItbVo3MlVEUm12eTZFNTBmNVA1ZFprZDBIQllYcWJwcnFXcFJHTVRZdG5kQ19MMlkwX3dfblg4SGh4Ulk?oc=5",
+                "date": "2026-05-20T22:30:56.000Z"
+            },
+            "whatsNew": "The European Gaming and Betting Association (EGBA) has announced a job vacancy for a Regulatory Affairs and Policy Manager. This role will focus on managing regulatory affairs and policy for the organization.",
+            "whyItMatters": "This job opening indicates the growing importance of regulatory compliance in the iGaming industry. The right candidate will play a crucial role in shaping EGBA's policy and regulatory strategy.",
+            "howToUse": "Interested candidates can apply for the position through the EGBA website, and industry professionals can take note of the organization's focus on regulatory affairs.",
+            "beneficiaries": [
+                "Regulatory Professionals",
+                "iGaming Companies"
+            ],
+            "companies": [
+                "EGBA"
+            ],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
