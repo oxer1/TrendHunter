@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-03T03:46:33.365Z",
+        "scanDate": "2026-06-03T08:53:36.346Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,133 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-gpwh43y4d",
+            "title": "Gambling CEO Move",
+            "subtitle": "Former Gambling Commission CEO joins Hawkbridge",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Hawkbridge",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0MwU1gtclZ6cDRJVVhVcmt3RUpvMzg1TEpaSk53SVp3Z1FwcDZLeWZLMTRCXzFlcE9rTy1aU3VtTVJGQzhUQTVGemQxd19jbnpMTXRaU3pMVEN6T2I3eXdxMVV2VFh6YXpaUnpmWUJ5UU9UY1VrV243dHpYbkVQbnRsbzJKZTZCdlR5bHhn?oc=5",
+                "date": "2026-06-03T08:06:29.000Z"
+            },
+            "whatsNew": "The former CEO of the Gambling Commission has taken a new role at Hawkbridge, indicating a shift in the regulatory landscape of the iGaming industry. This move may signal changes in how companies navigate regulatory requirements. The change in leadership roles could influence future policy decisions.",
+            "whyItMatters": "This move matters because it could impact the regulatory environment of the iGaming industry, affecting how companies operate and comply with laws. The former CEO's experience could shape Hawkbridge's approach to regulatory matters.",
+            "howToUse": "Companies in the iGaming sector should monitor this development closely, as it may require adjustments to their compliance strategies. Understanding the potential implications of this move can help businesses prepare for possible regulatory changes.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Affairs Specialists"
+            ],
+            "companies": [
+                "Hawkbridge",
+                "Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-qwfl5h5nq",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQnRpeUJ0NUZoVnZZYUpvVjZtRUxSZXZOcFdwZFR2T1VnTVVZOHUwNXkyejFpb2lYa01jbS1fZHRHb1o1cUtBY2hxeFllYmd6QkxnX29ZNmk3cU1oUU9xQ0ctVUZFSXE0UmFKZjhEcU92MndDVWY1OEtnMjFyRFJIaF93ajNKSnVnTUlmZGplVFlWTHBfckNmWWloWFZqRDJFMFJMTVBRNm14Mk5jaHByZGlvRDh4bGNtTHdTYXVEb3Y1dXc2ZjUwekZDRjItdC1Gc19UV1ozVHJwY1htNGVYczNPangwSFlwM1lmVHVjQzZRbXlEbjRaLVY5ZV8xOUJjSWZwdXNvNXV6WjdkMlIzVDJvMFp0UHRjaWdoX004d29rQUN5RVNmTTNLVGc0Vms5YmNFTDY4aGk?oc=5",
+                "date": "2026-05-22T09:34:24.000Z"
+            },
+            "whatsNew": "PromptHero introduces a new way to generate images using ChatGPT, allowing for more complex scene descriptions. This technology enables the creation of custom images based on text prompts. The integration of ChatGPT with image generation tools is a significant development in AI art.",
+            "whyItMatters": "The ability to generate images from text prompts using ChatGPT has the potential to revolutionize the field of AI art and design. This technology can be used in various applications, including gaming, advertising, and education.",
+            "howToUse": "To use this technology, users can input their desired scene description into the PromptHero platform, and ChatGPT will generate an image based on the prompt. This can be used to create custom images for various purposes.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-zrb6qq3pt",
+            "title": "Video Generation",
+            "subtitle": "Understanding video generation delays with Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
+                "date": "2026-05-29T15:51:46.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base addresses common issues with video generation, including delays. The article provides insights into potential causes and solutions for slow video generation.",
+            "whyItMatters": "Understanding the factors that affect video generation speed is crucial for efficient content creation. Synthesia's guidance helps users optimize their video production workflow.",
+            "howToUse": "Check Synthesia's knowledge base for troubleshooting tips and best practices to minimize video generation delays.",
+            "beneficiaries": [
+                "Content creators",
+                "Video producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-uwvj8rd9s",
+            "title": "AI Video Creation",
+            "subtitle": "Synthesia introduces a guide on creating videos using their Assistant tool",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Synthesia",
+                "Video creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVFOMmFUMGtMMnJDdkR3c0tPU1hxbkphQWNzZlVmRU9RX1hTYU5rTnByaG1Sd1VqNFc1RnVVdVpJZlJvZFU1QkhVMHJoeHNqXzZVektqYVp3VzJpcTUteU04Q3F3T3IxeWlabHM5TGtzeVBhNDVYeFF0bkdZZlkyLUxXcjV4VzdGcWZ6SG9wOA?oc=5",
+                "date": "2026-05-28T16:27:25.000Z"
+            },
+            "whatsNew": "Synthesia has released a knowledge base article on creating videos using their Assistant tool, making AI-powered video creation more accessible. This tool allows users to generate high-quality videos with ease. The guide provides step-by-step instructions on how to utilize the Assistant for video creation.",
+            "whyItMatters": "The ability to create videos using AI assistants like Synthesia's can significantly impact the efficiency and quality of video production, especially in the iGaming and game development industries. This technology can be used to create engaging video content, such as tutorials, trailers, and advertisements.",
+            "howToUse": "To create a video using Synthesia's Assistant, follow the guide on their knowledge base, which provides detailed instructions on how to get started and utilize the tool's features. This includes selecting templates, customizing content, and refining the final product.",
+            "beneficiaries": [
+                "Game developers",
+                "iGaming marketers",
+                "Content creators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-boydfffiv",
             "title": "AI Creator Tips",
@@ -1433,37 +1560,6 @@
             "isNew": false
         },
         {
-            "id": "t-214hypvqz",
-            "title": "AI Video Workflows",
-            "subtitle": "Civitai updates DaSiWa Wan2.2 Workflows with new AI features",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Civitai",
-                "DaSiWa"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjhUWXRjdTdERmkxcG9sUlFIVVJXWVRMamQtRVZoVXcyR0J3SUV0NllsLXZ0c09LQnIxX21XUHBiR01LNllka0h5RzMyT2w1RVMtRmFrVGt2ekZZdlBMTHFWSUhtc3RxMXVQYXZfQkJFWFhwaEtvZ2xISTAzVzFJdGZGRHJubThrRTlZSkJ3ZnlaTG81WGJLdHV2eldaQ0pwdmtOcGNR?oc=5",
-                "date": "2026-05-20T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai introduces updated DaSiWa Wan2.2 Workflows with new features like I2V, SVI 2.0, and FLF2V, enhancing audio and video capabilities. The FastFidelity C-AiO v8.0 integration improves overall workflow efficiency.",
-            "whyItMatters": "These updates signify the growing importance of AI in video workflows, offering improved efficiency and quality for content creators. This development can impact the iGaming industry by enhancing game development and visual design trends.",
-            "howToUse": "Content creators can utilize these updated workflows to streamline their video production processes, leveraging AI for improved audio and video quality.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-su7i2hczb",
             "title": "Bet365 France Launch",
             "subtitle": "Bet365 has officially launched its services in France, marking a significant expansion into the European market.",
@@ -2326,7 +2422,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": null
         },
         {
@@ -2345,7 +2441,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2354,7 +2450,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2363,7 +2459,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "Regulatory updates"
         },
         {
@@ -2381,7 +2477,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2390,7 +2486,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2410,7 +2506,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2468,7 +2564,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2477,7 +2573,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2486,7 +2582,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": "Style browsing signal"
         },
         {
@@ -2523,7 +2619,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": null
         },
         {
@@ -2532,7 +2628,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": null
         },
         {
@@ -2541,7 +2637,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": null
         },
         {
@@ -2613,7 +2709,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T03:46:33.365Z",
+            "lastScan": "2026-06-03T08:53:36.346Z",
             "note": null
         },
         {
@@ -27741,6 +27837,37 @@
             ],
             "companies": [
                 "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-214hypvqz",
+            "title": "AI Video Workflows",
+            "subtitle": "Civitai updates DaSiWa Wan2.2 Workflows with new AI features",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Civitai",
+                "DaSiWa"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjhUWXRjdTdERmkxcG9sUlFIVVJXWVRMamQtRVZoVXcyR0J3SUV0NllsLXZ0c09LQnIxX21XUHBiR01LNllka0h5RzMyT2w1RVMtRmFrVGt2ekZZdlBMTHFWSUhtc3RxMXVQYXZfQkJFWFhwaEtvZ2xISTAzVzFJdGZGRHJubThrRTlZSkJ3ZnlaTG81WGJLdHV2eldaQ0pwdmtOcGNR?oc=5",
+                "date": "2026-05-20T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces updated DaSiWa Wan2.2 Workflows with new features like I2V, SVI 2.0, and FLF2V, enhancing audio and video capabilities. The FastFidelity C-AiO v8.0 integration improves overall workflow efficiency.",
+            "whyItMatters": "These updates signify the growing importance of AI in video workflows, offering improved efficiency and quality for content creators. This development can impact the iGaming industry by enhancing game development and visual design trends.",
+            "howToUse": "Content creators can utilize these updated workflows to streamline their video production processes, leveraging AI for improved audio and video quality.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
