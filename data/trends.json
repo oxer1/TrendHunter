@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-03T13:14:16.335Z",
+        "scanDate": "2026-06-03T18:22:07.782Z",
         "version": "2.5.0",
-        "totalTrends": 71,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,97 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-a13z9aq0k",
+            "title": "Regulation Update",
+            "subtitle": "Recent regulatory changes in Illinois, New Jersey, Minnesota, and more",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "US Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0JKUDhhcnRqSVYtVlZYTHdVSkZzMXFSeDZ1RGpVbUhqRWdpaEdPemVRRHFGcGlpcEFMRGZHN2Jzc2dfSWJIRkF1aS1wNDBTY3UxcjNZZ2N1aExpY0QzeDRIUm1GZTZmQ0pmQ3huWTVyalpZZGkwemdsNFd5MU50aXVnYlljcmlmc09hZ19HWDlPRDRzb3BvVW1od0NlX1Vt?oc=5",
+                "date": "2026-06-03T16:30:00.000Z"
+            },
+            "whatsNew": "Illinois, New Jersey, and Minnesota have introduced new regulatory changes affecting the iGaming industry. These changes aim to improve player protection and increase revenue for the states.",
+            "whyItMatters": "The new regulations will impact iGaming operators and players in these states, and may set a precedent for other US states to follow. This could lead to increased growth and investment in the iGaming industry.",
+            "howToUse": "Operators should review and comply with the new regulations to avoid penalties and ensure continued operation in these states.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "State Governments"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-eri1ufehx",
+            "title": "AI Commercial",
+            "subtitle": "OpenArt introduces AI commercial generator",
+            "category": "AI",
+            "tags": [
+                "AI Generator",
+                "OpenArt",
+                "Commercial"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEbTFmVUxyU2s3dUVGQnZ5dmRaSTRtWlFQaExJVGs0OGZyMjZSMy1UQjlpSi1BSGJaSlQ2Q0tlUndyaHBscF9OdmlYcVEyV3JEaTZ0d05HWWxDQ1o1MFVJRXBB?oc=5",
+                "date": "2026-05-28T08:51:24.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI commercial generator, leveraging AI technology to create commercials. This tool has the potential to revolutionize the advertising industry. The AI commercial generator can produce high-quality commercials quickly and efficiently.",
+            "whyItMatters": "The introduction of an AI commercial generator by OpenArt can significantly impact the advertising industry by reducing production time and costs. It also opens up new creative possibilities for advertisers.",
+            "howToUse": "Advertisers can utilize OpenArt's AI commercial generator to produce high-quality commercials by inputting their preferences and letting the AI handle the creation process. This can be particularly useful for small businesses or individuals who lack the resources for traditional commercial production.",
+            "beneficiaries": [
+                "Advertisers",
+                "Marketing Agencies"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-68y40jneq",
+            "title": "AI Dubbing",
+            "subtitle": "HeyGen introduces free online video localization using AI",
+            "category": "AI",
+            "tags": [
+                "AI Dubbing",
+                "Video Localisation",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TdC1ScGd0T3hnSHMyNkhFV0VwZG1vYkF1dG9kdjlSbU43UDZqRENUWHptejR3Ti15NWR5dklWOHVaWUZUWkhXTUtqcGZTdDRiU0o3TEZkWU1qUG5OeWc?oc=5",
+                "date": "2026-05-23T12:13:13.000Z"
+            },
+            "whatsNew": "HeyGen offers a free online AI dubbing service for video localization, making content more accessible globally. This technology uses AI to automatically dub videos into different languages. The service is available online and free to use.",
+            "whyItMatters": "AI dubbing can significantly reduce the cost and time required for video localization, making it easier for content creators to reach a global audience. This technology has the potential to disrupt the traditional dubbing industry.",
+            "howToUse": "Content creators can use HeyGen's AI dubbing service by uploading their videos to the platform and selecting the desired language for dubbing. The AI algorithm will then automatically generate the dubbed video.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-xg9fry65a",
             "title": "Matchbook New Hire",
@@ -50,7 +141,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-sh4n87we",
@@ -81,7 +172,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-69zyracwg",
@@ -112,7 +203,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bh2fc2uqz",
@@ -143,7 +234,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gpwh43y4d",
@@ -2395,7 +2486,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": null
         },
         {
@@ -2414,7 +2505,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2423,7 +2514,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2432,7 +2523,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "Regulatory updates"
         },
         {
@@ -2450,7 +2541,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2459,7 +2550,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2479,7 +2570,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2537,7 +2628,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2546,7 +2637,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T08:53:36.346Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2555,7 +2646,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T08:53:36.346Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "Style browsing signal"
         },
         {
@@ -2592,7 +2683,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T08:53:36.346Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": null
         },
         {
@@ -2601,7 +2692,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-03T08:53:36.346Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": null
         },
         {
@@ -2610,7 +2701,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-03T08:53:36.346Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": null
         },
         {
@@ -2637,7 +2728,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-01T15:55:04.750Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2682,7 +2773,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T13:14:16.335Z",
+            "lastScan": "2026-06-03T18:22:07.782Z",
             "note": null
         },
         {
