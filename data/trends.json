@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-04T03:42:08.644Z",
+        "scanDate": "2026-06-04T08:19:03.139Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-78rbnfgwe",
+            "title": "IAGR Summit",
+            "subtitle": "International Association of Gaming Regulators meets at SBC Summit",
+            "category": "iGaming",
+            "tags": [
+                "IAGR",
+                "SBC Summit",
+                "Gaming Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "IAGR",
+                "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFA2VHRKTWh2bFZCUDJXMmlDRFFVRVhPSTBlR2tfS0lWUExDM3p5MVR2VHo5cXUtR0g5eFNGbg?oc=5",
+                "date": "2026-05-24T07:00:00.000Z"
+            },
+            "whatsNew": "The International Association of Gaming Regulators (IAGR) is attending the SBC Summit, indicating a focus on global gaming regulation. This event brings together key stakeholders to discuss regulatory changes and industry standards. The meeting highlights the importance of cooperation among regulators in the iGaming sector.",
+            "whyItMatters": "The IAGR's presence at the SBC Summit signifies the growing need for unified regulatory approaches in the iGaming industry. This can impact how online gaming operators and providers navigate legal landscapes across different jurisdictions.",
+            "howToUse": "Operators and providers should monitor regulatory discussions and outcomes from the SBC Summit to anticipate and adapt to potential changes in gaming laws and standards.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-qzbeg6ft1",
+            "title": "AI Bikini Generator",
+            "subtitle": "OpenArt introduces an AI tool for designing bikinis and generating photos",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Fashion Design",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83WGhsT0RfaEFwVVVYZldSZjNaNmdxX3QtYzRPNFZmMS1VLVhwT2FRYUd6TVVGNWFtUDZ2WHBDSDVoN0NqNFR3Wm9rdmg?oc=5",
+                "date": "2026-06-04T06:35:18.000Z"
+            },
+            "whatsNew": "OpenArt's AI Bikini Generator allows users to design bikinis and create realistic photos using AI. This tool leverages AI image generation capabilities to produce high-quality images. The generator can be used for fashion design and other creative applications.",
+            "whyItMatters": "The AI Bikini Generator showcases the potential of AI in creative fields like fashion design. It enables users to explore new design ideas and generate photorealistic images without extensive photography or modeling experience.",
+            "howToUse": "Users can access the AI Bikini Generator through OpenArt's platform, input their design preferences, and generate photos. The tool can be used for personal or professional projects, such as fashion design, advertising, or social media content creation.",
+            "beneficiaries": [
+                "Fashion Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-oedjz2s1c",
+            "title": "Synthesia AI Video",
+            "subtitle": "Synthesia partners with Cinder for AI video platform",
+            "category": "AI",
+            "tags": [
+                "AI video",
+                "Synthesia",
+                "Cinder"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObE4wRlZaazlka3ZLdzIwa0N3UEI2THF5TndZTThUdlNXNllVWUhZeEk2T0RwcXo4WjZrX3BqMHBfczNFMlNKeVgtOUx4MmZxQmxxYjBPWTNVUXVCZ2lPbkRyc2dZWjJ5Y2xxZWUyNkFRNWMwUUd4X3A5NDFBUzJqQ09YMHAzMGF6cHRVNDloS1hUTExNeUE2eElyUmRlNVU5U1o3OHRB?oc=5",
+                "date": "2026-06-04T05:57:55.000Z"
+            },
+            "whatsNew": "Synthesia is partnering with Cinder to enhance its AI video platform, aiming to become the world's most trusted AI video solution. This partnership is expected to bring advanced video capabilities. The collaboration focuses on powering high-quality AI video generation.",
+            "whyItMatters": "This partnership impacts the development of AI video tools, potentially setting a new standard for AI-generated video content. It reflects the growing importance of AI in video creation and editing.",
+            "howToUse": "Content creators can leverage this partnership for more advanced and reliable AI video generation, enhancing their content creation capabilities. Developers can explore integrating Synthesia's AI video platform into their applications.",
+            "beneficiaries": [
+                "Content Creators",
+                "Developers"
+            ],
+            "companies": [
+                "Synthesia",
+                "Cinder"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-rujqyixt4",
             "title": "UK Gambling License",
@@ -49,7 +141,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1momhgao3",
@@ -1642,39 +1734,6 @@
             "isNew": false
         },
         {
-            "id": "t-j463x36n2",
-            "title": "SimpleAnima v1.0",
-            "subtitle": "Civitai releases SimpleAnima version 1.0, an Anima Checkpoint",
-            "category": "AI",
-            "tags": [
-                "SimpleAnima",
-                "Anima Checkpoint",
-                "Civitai",
-                "AI Animation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oaElxd0JWMzN6STFkUG9KNnJDZFhmTXNXVXFENDhaUVl0c2RUNDhmR0VuQzJiQWFLdF9pYjctLVAxTUVvQThsUmhLNmhnTjd1c0Zsc1d4VnVzZw?oc=5",
-                "date": "2026-05-21T07:00:00.000Z"
-            },
-            "whatsNew": "SimpleAnima v1.0 is a new release from Civitai, focusing on animation checkpoints. This version marks a significant milestone in the development of AI-powered animation tools. The release of SimpleAnima v1.0 indicates growing interest in AI-driven animation techniques.",
-            "whyItMatters": "The release of SimpleAnima v1.0 matters because it showcases the advancement of AI in animation, potentially streamlining content creation processes. This could significantly impact the gaming and visual design industries by providing more efficient tools for animators and designers.",
-            "howToUse": "Developers and animators can utilize SimpleAnima v1.0 by integrating it into their workflows to automate and enhance animation processes, thereby improving productivity and creativity.",
-            "beneficiaries": [
-                "Animators",
-                "Game Developers",
-                "Visual Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-animation",
-            "isNew": false
-        },
-        {
             "id": "t-jmnpb8lqd",
             "title": "AI Generators",
             "subtitle": "OpenArt compares the best AI image, video, and audio generators of 2026",
@@ -2146,37 +2205,6 @@
             "isNew": false
         },
         {
-            "id": "t-s4hqk8f8p",
-            "title": "AI Video Generation",
-            "subtitle": "Grok Imagine Video creates AI-generated videos based on text prompts, including making a character wear an Iron Man suit.",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Grok Imagine",
-                "Text-to-Video"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFhsdWlTMzRCT1ZRNEZvZ2kwYXhOVWtNR0dacEJ6UU03Zy1MLWhINVFMZUFjUHM0dGVZXzRfcjM4MGVya2ExYUlTU1lOOFNUVkhiSGRDakJYTDc1VmI0U04xVkI5bFpCNjJKLXE4TnFUODNWa1UteFNpbi14LTgxckg4UktpZEhTWl8wSjNQb1lHX01GOEE?oc=5",
-                "date": "2026-05-21T08:13:07.000Z"
-            },
-            "whatsNew": "Grok Imagine Video uses AI to generate videos from text prompts, allowing for dynamic and interactive content creation. The platform can create videos of characters wearing specific costumes, like the Iron Man suit. This technology has the potential to revolutionize the entertainment and gaming industries.",
-            "whyItMatters": "The ability to generate high-quality videos from text prompts can significantly impact the gaming and entertainment industries, enabling new forms of interactive storytelling and content creation. This technology can also be used in AI-powered game development, such as generating cutscenes or character animations.",
-            "howToUse": "Developers and content creators can utilize Grok Imagine Video to generate AI-powered videos for their projects, such as game trailers, cutscenes, or interactive stories. They can experiment with different text prompts to create unique and engaging videos.",
-            "beneficiaries": [
-                "Game Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-sqrqzavj7",
             "title": "Gambling Risk Delay",
             "subtitle": "Gambling Commission delays formal response on financial risk assessments",
@@ -2515,7 +2543,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": null
         },
         {
@@ -2534,7 +2562,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2543,7 +2571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2552,7 +2580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "Regulatory updates"
         },
         {
@@ -2570,7 +2598,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2579,7 +2607,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2599,7 +2627,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2657,7 +2685,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2666,7 +2694,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2675,7 +2703,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": "Style browsing signal"
         },
         {
@@ -2712,7 +2740,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": null
         },
         {
@@ -2721,7 +2749,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": null
         },
         {
@@ -2730,7 +2758,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": null
         },
         {
@@ -2802,7 +2830,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T03:42:08.644Z",
+            "lastScan": "2026-06-04T08:19:03.139Z",
             "note": null
         },
         {
@@ -28179,6 +28207,70 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-j463x36n2",
+            "title": "SimpleAnima v1.0",
+            "subtitle": "Civitai releases SimpleAnima version 1.0, an Anima Checkpoint",
+            "category": "AI",
+            "tags": [
+                "SimpleAnima",
+                "Anima Checkpoint",
+                "Civitai",
+                "AI Animation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oaElxd0JWMzN6STFkUG9KNnJDZFhmTXNXVXFENDhaUVl0c2RUNDhmR0VuQzJiQWFLdF9pYjctLVAxTUVvQThsUmhLNmhnTjd1c0Zsc1d4VnVzZw?oc=5",
+                "date": "2026-05-21T07:00:00.000Z"
+            },
+            "whatsNew": "SimpleAnima v1.0 is a new release from Civitai, focusing on animation checkpoints. This version marks a significant milestone in the development of AI-powered animation tools. The release of SimpleAnima v1.0 indicates growing interest in AI-driven animation techniques.",
+            "whyItMatters": "The release of SimpleAnima v1.0 matters because it showcases the advancement of AI in animation, potentially streamlining content creation processes. This could significantly impact the gaming and visual design industries by providing more efficient tools for animators and designers.",
+            "howToUse": "Developers and animators can utilize SimpleAnima v1.0 by integrating it into their workflows to automate and enhance animation processes, thereby improving productivity and creativity.",
+            "beneficiaries": [
+                "Animators",
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-animation",
+            "isNew": false
+        },
+        {
+            "id": "t-s4hqk8f8p",
+            "title": "AI Video Generation",
+            "subtitle": "Grok Imagine Video creates AI-generated videos based on text prompts, including making a character wear an Iron Man suit.",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Grok Imagine",
+                "Text-to-Video"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFhsdWlTMzRCT1ZRNEZvZ2kwYXhOVWtNR0dacEJ6UU03Zy1MLWhINVFMZUFjUHM0dGVZXzRfcjM4MGVya2ExYUlTU1lOOFNUVkhiSGRDakJYTDc1VmI0U04xVkI5bFpCNjJKLXE4TnFUODNWa1UteFNpbi14LTgxckg4UktpZEhTWl8wSjNQb1lHX01GOEE?oc=5",
+                "date": "2026-05-21T08:13:07.000Z"
+            },
+            "whatsNew": "Grok Imagine Video uses AI to generate videos from text prompts, allowing for dynamic and interactive content creation. The platform can create videos of characters wearing specific costumes, like the Iron Man suit. This technology has the potential to revolutionize the entertainment and gaming industries.",
+            "whyItMatters": "The ability to generate high-quality videos from text prompts can significantly impact the gaming and entertainment industries, enabling new forms of interactive storytelling and content creation. This technology can also be used in AI-powered game development, such as generating cutscenes or character animations.",
+            "howToUse": "Developers and content creators can utilize Grok Imagine Video to generate AI-powered videos for their projects, such as game trailers, cutscenes, or interactive stories. They can experiment with different text prompts to create unique and engaging videos.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
