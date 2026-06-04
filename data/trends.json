@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-03T23:40:50.417Z",
+        "scanDate": "2026-06-04T03:42:08.644Z",
         "version": "2.5.0",
         "totalTrends": 75,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rujqyixt4",
+            "title": "UK Gambling License",
+            "subtitle": "SJRP Investments Ltd receives premises license from UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXBZbjR1azNTb0xEQVJ1WFN0MHhrME1LUDhXbElOUE5OR25FZ0ZFRHN1NGxDMEdXN1FNWlZ4WmNFblIyM3BHZ0hoS25EY3ljZTM5dUFOVTI3UllxelNsRy1YZ1FfQkduZE4wWXl4ZlhPUjNGSGowWTZyeG0zdjE2VzRDTQ?oc=5",
+                "date": "2026-06-03T12:41:38.000Z"
+            },
+            "whatsNew": "SJRP Investments Ltd has been granted a premises license by the UK Gambling Commission. The license is for premises located at DY10 2DJ.",
+            "whyItMatters": "This license grant indicates the company's compliance with UK gambling regulations, allowing it to operate legally in the region. It reflects the ongoing regulatory oversight in the iGaming industry.",
+            "howToUse": "Operators should ensure they meet all regulatory requirements to obtain necessary licenses for legal operation in the UK.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "SJRP Investments Ltd"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-1momhgao3",
             "title": "AC Jackpot Report",
@@ -2268,38 +2299,6 @@
             "isNew": false
         },
         {
-            "id": "t-a6vkfbtoh",
-            "title": "Unity Expands ROAS",
-            "subtitle": "Unity Vector now supports D28 Ad Revenue ROAS and Hybrid ROAS campaigns for mobile game monetization",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "ROAS",
-                "Monetization",
-                "Mobile Games"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/d28-roas",
-                "date": "2026-05-21T00:00:00.000Z"
-            },
-            "whatsNew": "Unity Vector expands to support D28 Ad Revenue ROAS and D28 Hybrid ROAS campaigns, allowing advertisers to optimize for users whose value builds over time through ad engagement, purchases, or both. The new campaign types deliver significantly higher retention and ARPU compared to D7 campaigns.",
-            "whyItMatters": "The expansion of Unity Vector's ROAS suite enables advertisers to capture long-term player value and acquire users whose value builds beyond the first week, leading to increased revenue and retention. This development is particularly important for mobile games where ad revenue is a primary monetization stream or where both in-app purchases and ad revenue contribute to user value.",
-            "howToUse": "Advertisers can log in to Unity Vector to start optimizing their campaigns with D28 Ad Revenue ROAS and D28 Hybrid ROAS, setting targets by country and dynamically adjusting bids to optimize toward those targets.",
-            "beneficiaries": [
-                "Mobile Game Developers",
-                "Advertisers"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-8dukq2t1r",
             "title": "Better Collective Grows",
             "subtitle": "Better Collective's Q1 revenue increases by 5% with international Playbook push",
@@ -2516,7 +2515,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": null
         },
         {
@@ -2535,7 +2534,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2544,7 +2543,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2553,7 +2552,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "Regulatory updates"
         },
         {
@@ -2571,7 +2570,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2580,7 +2579,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2600,7 +2599,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2658,7 +2657,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2667,7 +2666,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2676,7 +2675,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": "Style browsing signal"
         },
         {
@@ -2713,7 +2712,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": null
         },
         {
@@ -2722,7 +2721,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-03T21:46:44.528Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": null
         },
         {
@@ -2731,7 +2730,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-03T18:22:07.782Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": null
         },
         {
@@ -2803,7 +2802,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T23:40:50.417Z",
+            "lastScan": "2026-06-04T03:42:08.644Z",
             "note": null
         },
         {
@@ -28148,6 +28147,38 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-a6vkfbtoh",
+            "title": "Unity Expands ROAS",
+            "subtitle": "Unity Vector now supports D28 Ad Revenue ROAS and Hybrid ROAS campaigns for mobile game monetization",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "ROAS",
+                "Monetization",
+                "Mobile Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/d28-roas",
+                "date": "2026-05-21T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Vector expands to support D28 Ad Revenue ROAS and D28 Hybrid ROAS campaigns, allowing advertisers to optimize for users whose value builds over time through ad engagement, purchases, or both. The new campaign types deliver significantly higher retention and ARPU compared to D7 campaigns.",
+            "whyItMatters": "The expansion of Unity Vector's ROAS suite enables advertisers to capture long-term player value and acquire users whose value builds beyond the first week, leading to increased revenue and retention. This development is particularly important for mobile games where ad revenue is a primary monetization stream or where both in-app purchases and ad revenue contribute to user value.",
+            "howToUse": "Advertisers can log in to Unity Vector to start optimizing their campaigns with D28 Ad Revenue ROAS and D28 Hybrid ROAS, setting targets by country and dynamically adjusting bids to optimize toward those targets.",
+            "beneficiaries": [
+                "Mobile Game Developers",
+                "Advertisers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
