@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-04T14:52:56.109Z",
+        "scanDate": "2026-06-04T17:44:08.745Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-d4gu20jy9",
+            "title": "AI Art Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SYUZMejNIVTQ5TmlsdE5pY1Q0U3llTVc0Y2NEYjFaZFBxRGtNdE1fcE9GajBRQ3I2bWVyZE1NQzhmbDNmQjduLVdqV1Y4UjA?oc=5",
+                "date": "2026-05-26T12:52:25.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI Creator Studio that enables the creation of videos and images using AI technology. This studio is designed to simplify content creation. The AI Creator Studio by OpenArt is a significant development in AI-powered art generation.",
+            "whyItMatters": "The introduction of OpenArt's AI Creator Studio has the potential to revolutionize the way visual content is created, making it more accessible and efficient. This could have a significant impact on the gaming and iGaming industries, particularly in the development of game art and UI/UX design.",
+            "howToUse": "Content creators can utilize the AI Creator Studio to generate high-quality videos and images, streamlining their workflow and enhancing their creative output. By leveraging AI, creators can focus on high-level creative decisions rather than tedious manual tasks.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators",
+                "Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-8ragsdjyq",
+            "title": "AI Video Tool",
+            "subtitle": "OpenArt introduces AI Shorts Generator for YouTube Shorts creation with captions",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "YouTube Shorts",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51Sm5Xd3lWUUxEWUdYNkY3VkwybWR3b3g2RklYT1l6MEFuYUU5bG1hdkk2UXZTWEdHSzR1LTZ2c2JmZXpEZ0w0WWZ0aHlGTnRrWUl6WU56SFQyNE8w?oc=5",
+                "date": "2026-06-04T10:40:34.000Z"
+            },
+            "whatsNew": "OpenArt's AI Shorts Generator allows users to create YouTube Shorts with captions using AI technology. This tool simplifies content creation for YouTube Shorts. The AI Shorts Generator is a new development in AI-powered video tools.",
+            "whyItMatters": "The AI Shorts Generator has the potential to revolutionize YouTube Shorts content creation by making it easier and more efficient. This can impact content creators and the overall YouTube Shorts ecosystem.",
+            "howToUse": "Content creators can use the AI Shorts Generator to automate the process of creating YouTube Shorts with captions, saving time and effort.",
+            "beneficiaries": [
+                "Content Creators",
+                "YouTubers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-ctvq5u5nn",
             "title": "AI Art Generation",
@@ -49,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ifjrlzaci",
@@ -2234,37 +2297,6 @@
             "isNew": false
         },
         {
-            "id": "t-gkz07vulg",
-            "title": "UK Gambling",
-            "subtitle": "Rab Grewal discusses updates from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Regulation",
-                "UK"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGeHFXYWVBM2c5Sm5vSlZaYjNTR1d1bllubmpIWnhyWG03ckhPVzhpNGllQkZIY3pBbnM4TmZEN0J6Qzg1SEd6M0JKWHB5c1dibUpKRnVOQlpmTl9xVWRlbVB1LXpaS3h5ZExtVA?oc=5",
-                "date": "2026-05-21T17:06:30.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission shares insights through blog posts by Rab Grewal, covering various aspects of gambling regulation. These posts aim to keep the public informed about changes and developments in the industry. The commission's efforts focus on ensuring a safe and fair gambling environment.",
-            "whyItMatters": "The updates from the UK Gambling Commission are crucial for operators and players alike, as they provide guidance on regulatory changes and compliance. This information helps in maintaining a transparent and responsible gambling sector.",
-            "howToUse": "Operators and individuals interested in the UK gambling scene can follow these blog posts to stay updated on the latest regulatory developments and best practices. This knowledge can be used to ensure compliance and to make informed decisions.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "UK Gambling Commission"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-njj5nbctj",
             "title": "CIRSA M&A Plans",
             "subtitle": "CIRSA allocates €150m annually for mergers and acquisitions, according to its CEO.",
@@ -2510,7 +2542,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": null
         },
         {
@@ -2529,7 +2561,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2538,7 +2570,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2547,7 +2579,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": "Regulatory updates"
         },
         {
@@ -2565,7 +2597,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2574,7 +2606,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2594,7 +2626,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2652,7 +2684,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2661,7 +2693,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T11:50:28.626Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2797,7 +2829,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T14:52:56.109Z",
+            "lastScan": "2026-06-04T17:44:08.745Z",
             "note": null
         },
         {
@@ -28387,6 +28419,37 @@
             "howToUse": "Operators should review their current practices to ensure compliance with the latest guidelines and be prepared to adapt to any new regulations that may arise from this change.",
             "beneficiaries": [
                 "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-gkz07vulg",
+            "title": "UK Gambling",
+            "subtitle": "Rab Grewal discusses updates from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "UK"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGeHFXYWVBM2c5Sm5vSlZaYjNTR1d1bllubmpIWnhyWG03ckhPVzhpNGllQkZIY3pBbnM4TmZEN0J6Qzg1SEd6M0JKWHB5c1dibUpKRnVOQlpmTl9xVWRlbVB1LXpaS3h5ZExtVA?oc=5",
+                "date": "2026-05-21T17:06:30.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission shares insights through blog posts by Rab Grewal, covering various aspects of gambling regulation. These posts aim to keep the public informed about changes and developments in the industry. The commission's efforts focus on ensuring a safe and fair gambling environment.",
+            "whyItMatters": "The updates from the UK Gambling Commission are crucial for operators and players alike, as they provide guidance on regulatory changes and compliance. This information helps in maintaining a transparent and responsible gambling sector.",
+            "howToUse": "Operators and individuals interested in the UK gambling scene can follow these blog posts to stay updated on the latest regulatory developments and best practices. This knowledge can be used to ensure compliance and to make informed decisions.",
+            "beneficiaries": [
+                "Gambling Operators",
                 "Regulatory Bodies"
             ],
             "companies": [
