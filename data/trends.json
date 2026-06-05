@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-05T05:14:33.359Z",
+        "scanDate": "2026-06-05T09:41:31.180Z",
         "version": "2.5.0",
-        "totalTrends": 80,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-r662j2noc",
+            "title": "MrQ Subscription",
+            "subtitle": "MrQ introduces a new subscription service with a curated bundle of value for its customers",
+            "category": "iGaming",
+            "tags": [
+                "MrQ",
+                "Subscription Service",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBBUng0b25kRUtTaWxIdU8tQlh0ZHRSUWl6THRSNTNrYWMxU3A2U1hyV2piQlBhQlNNazQxTll2RnJvLWpZVFRRV1FWS2huZ3d4eVZ6Z1MxVFRkbU0ySml1WWpDUmdlQ1duWmZHdkZTMzV1bWRPNGl4ZVJoZjlud2N2ZF82V21NOXRhQlpwaWpnMGVSWFg4TURFZVZDWG1oTUcwSENB?oc=5",
+                "date": "2026-06-05T08:25:23.000Z"
+            },
+            "whatsNew": "MrQ has launched a subscription service that offers a curated bundle of value to its customers, potentially changing the way players engage with the platform. This move could set a new standard in the iGaming industry. The service aims to provide a unique experience for subscribers.",
+            "whyItMatters": "The introduction of a subscription service by MrQ could significantly impact the iGaming industry, as it offers a new way for operators to provide value to their customers. This could lead to increased customer loyalty and retention.",
+            "howToUse": "Operators can use subscription services to offer exclusive content, bonuses, and rewards to their loyal customers, enhancing the overall gaming experience. By adopting such models, operators can differentiate themselves in a competitive market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "MrQ"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-xeuxspf4b",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai releases Ideogram-v4-workflow with Json Prompts",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Json Prompts",
+                "Ideogram-v4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdmNTakhBdk1DT3d4Mi1PY1JualEzOWhGbzBtUFVXb1dvSHN0bk5WSFVsbjMtcnE5VE5PZV9wNzVVTWlpNHhDSGRCaWlvaEVfVzExNS14c1JrYVBWTkw1b21oX20wNGtmemhvQUIyaUhVYlE0WmJJ?oc=5",
+                "date": "2026-06-03T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced the Ideogram-v4-workflow, a new tool for AI art generation, along with Json Prompts version 1.0. This workflow aims to enhance the creative process for artists and developers. The inclusion of Json Prompts suggests a more structured approach to generating art prompts.",
+            "whyItMatters": "The release of Ideogram-v4-workflow and Json Prompts can significantly impact the AI art generation landscape, offering more sophisticated tools for creators. This can lead to more diverse and complex art pieces, further blurring the line between human and AI-generated art.",
+            "howToUse": "Artists and developers can utilize the Ideogram-v4-workflow by integrating it into their existing projects, leveraging the Json Prompts for more precise control over the art generation process. Experimenting with different prompts and workflow configurations can help unlock new creative possibilities.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-0f6etm62s",
             "title": "AI Facial Editor",
@@ -50,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ar7u3jd7b",
@@ -83,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ykjwy0upl",
@@ -115,7 +177,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-46el2mi7a",
@@ -767,38 +829,6 @@
             "isNew": false
         },
         {
-            "id": "t-qwfl5h5nq",
-            "title": "AI Image Prompt",
-            "subtitle": "ChatGPT image generation with PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQnRpeUJ0NUZoVnZZYUpvVjZtRUxSZXZOcFdwZFR2T1VnTVVZOHUwNXkyejFpb2lYa01jbS1fZHRHb1o1cUtBY2hxeFllYmd6QkxnX29ZNmk3cU1oUU9xQ0ctVUZFSXE0UmFKZjhEcU92MndDVWY1OEtnMjFyRFJIaF93ajNKSnVnTUlmZGplVFlWTHBfckNmWWloWFZqRDJFMFJMTVBRNm14Mk5jaHByZGlvRDh4bGNtTHdTYXVEb3Y1dXc2ZjUwekZDRjItdC1Gc19UV1ozVHJwY1htNGVYczNPangwSFlwM1lmVHVjQzZRbXlEbjRaLVY5ZV8xOUJjSWZwdXNvNXV6WjdkMlIzVDJvMFp0UHRjaWdoX004d29rQUN5RVNmTTNLVGc0Vms5YmNFTDY4aGk?oc=5",
-                "date": "2026-05-22T09:34:24.000Z"
-            },
-            "whatsNew": "PromptHero introduces a new way to generate images using ChatGPT, allowing for more complex scene descriptions. This technology enables the creation of custom images based on text prompts. The integration of ChatGPT with image generation tools is a significant development in AI art.",
-            "whyItMatters": "The ability to generate images from text prompts using ChatGPT has the potential to revolutionize the field of AI art and design. This technology can be used in various applications, including gaming, advertising, and education.",
-            "howToUse": "To use this technology, users can input their desired scene description into the PromptHero platform, and ChatGPT will generate an image based on the prompt. This can be used to create custom images for various purposes.",
-            "beneficiaries": [
-                "Game Developers",
-                "Graphic Designers",
-                "Artists"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-zrb6qq3pt",
             "title": "Video Generation",
             "subtitle": "Understanding video generation delays with Synthesia",
@@ -958,38 +988,6 @@
             "isNew": false
         },
         {
-            "id": "t-z9mfco6sn",
-            "title": "AI Style Inspiration",
-            "subtitle": "Exploring the meaning of style inspiration in the age of AI",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Style Inspiration",
-                "Creative Influence"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeWltUHdfVVRETmliUGpoLU9XWkdBcFB3b2dhTVV3WmhWeDIzbTZYd245U2lpQUtrckVEMDAtUklNVTBReXM1d0xhVGtSLUNsWm1Uakg2d2k0SHFKNU1rQmx3?oc=5",
-                "date": "2026-05-22T07:00:00.000Z"
-            },
-            "whatsNew": "The article discusses how AI is changing the way we perceive and are inspired by others' styles, raising questions about creativity and originality. It explores the impact of AI on artistic expression and the concept of style inspiration. The age of AI is redefining what it means to be inspired by someone's style.",
-            "whyItMatters": "Understanding the impact of AI on style inspiration is crucial for artists, designers, and creatives who rely on inspiration to drive their work. It also has implications for the broader conversation around AI, creativity, and originality.",
-            "howToUse": "Artists and designers can use AI tools to explore new styles and inspirations, while also considering the ethical implications of AI-generated art. By embracing AI as a tool for inspiration, creatives can push the boundaries of their work and explore new forms of expression.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Creatives"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-cmz5uer3t",
             "title": "Micro Betting Funding",
             "subtitle": "Micro-betting prediction markets startup raises $6.5m in seed funding",
@@ -1046,38 +1044,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-re4to359u",
-            "title": "AI Art Restraint",
-            "subtitle": "OpenArt discusses the importance of restraint in AI art generation",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Infinite Generation",
-                "Restraint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXZ6X1Z3ZjdHdlhuemFKc05paG00aFF0Y0g4ektERmp6MC1XcXU2VVV0NHdmLXVDQzNzbUcySkNpVmdXVl9uSXZObTdpeVVZOTFxOVJaZFFNSlYxMkhEOFJkZlpJZV9kdHdsYjJZUERMd2pGRDllaXNRaDhNRXlwMHhucS1wdURM?oc=5",
-                "date": "2026-05-22T07:00:00.000Z"
-            },
-            "whatsNew": "The article highlights the need for restraint in AI art generation, emphasizing the importance of balance and control in creative processes. It suggests that with the ability to generate infinite content, the skill lies in knowing when to stop. The concept applies to various forms of AI-generated content, including visual art and design.",
-            "whyItMatters": "Understanding the value of restraint in AI art generation can lead to more refined and impactful creative outputs, distinguishing between meaningful art and overwhelming noise. It impacts artists, designers, and anyone leveraging AI tools for creative work.",
-            "howToUse": "To apply restraint in AI art generation, start by setting clear objectives for your project, then iteratively generate and refine your work, stopping when your goals are met. Regularly review and curate your outputs to maintain quality and relevance.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2396,35 +2362,6 @@
             "isNew": false
         },
         {
-            "id": "t-2cqpufhht",
-            "title": "LLM Impact",
-            "subtitle": "Leaked LLM system prompts affect iGaming SEO",
-            "category": "iGaming",
-            "tags": [
-                "LLM",
-                "iGaming SEO",
-                "AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWh0SFlzWDhmdDMxY3lkckZGQktQSUQwcXBlNlBVS25hQ0lhQ3psVjZIQVQtdlQ3T2g4RTZkNnRNa2s2UmZNcC12V1N1Z0VDeGZwUlZQanlVeE9hanlvR3NUeWxzTWVJVFJTcG9PeXBNaEJFeHF5VmlYQkxJUTNtQmZPTzQ2RmhQc3FPODFFSUw1QkxsZlk3Wm9NSzMtSFZ6elBBZVR2OW1YVVg3OEtTdVBWdkJXbG1vUW9PZTdqSmtGVmk4?oc=5",
-                "date": "2026-05-22T08:24:43.000Z"
-            },
-            "whatsNew": "Leaked LLM system prompts reveal new insights into iGaming SEO. These prompts can significantly impact search engine rankings and player engagement. The leak highlights the importance of understanding LLM systems in iGaming.",
-            "whyItMatters": "The leaked prompts can help iGaming operators optimize their SEO strategies, improving visibility and revenue. Understanding LLM systems is crucial for staying competitive in the iGaming industry.",
-            "howToUse": "iGaming operators can analyze the leaked prompts to identify opportunities for SEO optimization and adjust their strategies accordingly. This can involve creating content that aligns with the prompts and improving website structure for better search engine rankings.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "SEO Specialists"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-njj5nbctj",
             "title": "CIRSA M&A Plans",
             "subtitle": "CIRSA allocates €150m annually for mergers and acquisitions, according to its CEO.",
@@ -2450,66 +2387,6 @@
             ],
             "companies": [
                 "CIRSA"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-sqrqzavj7",
-            "title": "Gambling Risk Delay",
-            "subtitle": "Gambling Commission delays formal response on financial risk assessments",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Financial Risk",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGE5dlpjbjZmcGpTR2d5alRSeFhrWDdveFc1YTdkX2xjS3hIMFlQOHgtRTBNc1hzQlB6SERndkdNRkJjOFctYTl3c3Y2S2xOdlNkS0FUcVUzLWI3V3FGdXpTekxBNVhwMU5CUXIwSTJVZEp4Zlo0TTQ4NmszZVctbmZJdmhweTRtT3k0Wk9UXzRBQUlJdDdjUVNRbWloWVF5M2YybEZmSEpuY1k?oc=5",
-                "date": "2026-05-22T09:31:29.000Z"
-            },
-            "whatsNew": "The Gambling Commission has delayed its formal response on financial risk assessments, indicating a potential shift in regulatory focus. This delay may impact operators' compliance strategies. The Commission's decision may also reflect evolving attitudes towards risk management in the industry.",
-            "whyItMatters": "The delay in the Gambling Commission's response on financial risk assessments may have significant implications for operators, affecting their ability to manage risk and comply with regulations. This development underscores the importance of staying informed about regulatory changes in the iGaming sector.",
-            "howToUse": "Operators should closely monitor the Commission's updates and adjust their risk management strategies accordingly. Staying abreast of regulatory developments is crucial for maintaining compliance and mitigating potential risks.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-7ro5jnk8e",
-            "title": "Codere Online Expansion",
-            "subtitle": "Codere Online CEO discusses challenges of entering the Mexican market",
-            "category": "iGaming",
-            "tags": [
-                "Codere Online",
-                "Mexican Market",
-                "iGaming Expansion"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUlKNDBmOGlyamtnd0pUMFlodWkwdEdGRklBNEhMMGpxenNid2lLLWY2dmE0ZWxuRXI3b29XV1IyV192cjRRMmNzOVJOME5wODd2d1NPZndqWE9TTm93TFphOGpCaV9zMUFQQ3p6RmF3dkhQc2dreUMyN3JDN3Q1ZkprX213Z2I2OXl0aHhUR1J6UQ?oc=5",
-                "date": "2026-05-22T08:34:52.000Z"
-            },
-            "whatsNew": "Codere Online's CEO highlights the difficulties of entering the Mexican market, citing regulatory and competitive challenges. The company is seeking to expand its online gaming presence in the region. This move is part of a broader trend of iGaming operators targeting Latin American markets.",
-            "whyItMatters": "The challenges faced by Codere Online in Mexico underscore the complexities of expanding into new markets, particularly in regions with evolving regulatory landscapes. This has implications for other iGaming operators with similar ambitions.",
-            "howToUse": "Operators should conduct thorough market research and engage with local regulatory bodies to navigate the complexities of new markets. Building strategic partnerships can also facilitate smoother entry into new territories.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Market Analysts"
-            ],
-            "companies": [
-                "Codere Online"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
@@ -2670,7 +2547,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": null
         },
         {
@@ -2689,7 +2566,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2698,7 +2575,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2707,7 +2584,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "Regulatory updates"
         },
         {
@@ -2725,7 +2602,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2734,7 +2611,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2754,7 +2631,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2812,7 +2689,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2821,7 +2698,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2830,7 +2707,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": "Style browsing signal"
         },
         {
@@ -2867,7 +2744,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": null
         },
         {
@@ -2876,7 +2753,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": null
         },
         {
@@ -2885,7 +2762,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": null
         },
         {
@@ -2957,7 +2834,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-05T09:41:31.180Z",
             "note": null
         },
         {
@@ -28585,6 +28462,191 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qwfl5h5nq",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQnRpeUJ0NUZoVnZZYUpvVjZtRUxSZXZOcFdwZFR2T1VnTVVZOHUwNXkyejFpb2lYa01jbS1fZHRHb1o1cUtBY2hxeFllYmd6QkxnX29ZNmk3cU1oUU9xQ0ctVUZFSXE0UmFKZjhEcU92MndDVWY1OEtnMjFyRFJIaF93ajNKSnVnTUlmZGplVFlWTHBfckNmWWloWFZqRDJFMFJMTVBRNm14Mk5jaHByZGlvRDh4bGNtTHdTYXVEb3Y1dXc2ZjUwekZDRjItdC1Gc19UV1ozVHJwY1htNGVYczNPangwSFlwM1lmVHVjQzZRbXlEbjRaLVY5ZV8xOUJjSWZwdXNvNXV6WjdkMlIzVDJvMFp0UHRjaWdoX004d29rQUN5RVNmTTNLVGc0Vms5YmNFTDY4aGk?oc=5",
+                "date": "2026-05-22T09:34:24.000Z"
+            },
+            "whatsNew": "PromptHero introduces a new way to generate images using ChatGPT, allowing for more complex scene descriptions. This technology enables the creation of custom images based on text prompts. The integration of ChatGPT with image generation tools is a significant development in AI art.",
+            "whyItMatters": "The ability to generate images from text prompts using ChatGPT has the potential to revolutionize the field of AI art and design. This technology can be used in various applications, including gaming, advertising, and education.",
+            "howToUse": "To use this technology, users can input their desired scene description into the PromptHero platform, and ChatGPT will generate an image based on the prompt. This can be used to create custom images for various purposes.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-z9mfco6sn",
+            "title": "AI Style Inspiration",
+            "subtitle": "Exploring the meaning of style inspiration in the age of AI",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Style Inspiration",
+                "Creative Influence"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeWltUHdfVVRETmliUGpoLU9XWkdBcFB3b2dhTVV3WmhWeDIzbTZYd245U2lpQUtrckVEMDAtUklNVTBReXM1d0xhVGtSLUNsWm1Uakg2d2k0SHFKNU1rQmx3?oc=5",
+                "date": "2026-05-22T07:00:00.000Z"
+            },
+            "whatsNew": "The article discusses how AI is changing the way we perceive and are inspired by others' styles, raising questions about creativity and originality. It explores the impact of AI on artistic expression and the concept of style inspiration. The age of AI is redefining what it means to be inspired by someone's style.",
+            "whyItMatters": "Understanding the impact of AI on style inspiration is crucial for artists, designers, and creatives who rely on inspiration to drive their work. It also has implications for the broader conversation around AI, creativity, and originality.",
+            "howToUse": "Artists and designers can use AI tools to explore new styles and inspirations, while also considering the ethical implications of AI-generated art. By embracing AI as a tool for inspiration, creatives can push the boundaries of their work and explore new forms of expression.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Creatives"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-re4to359u",
+            "title": "AI Art Restraint",
+            "subtitle": "OpenArt discusses the importance of restraint in AI art generation",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Infinite Generation",
+                "Restraint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXZ6X1Z3ZjdHdlhuemFKc05paG00aFF0Y0g4ektERmp6MC1XcXU2VVV0NHdmLXVDQzNzbUcySkNpVmdXVl9uSXZObTdpeVVZOTFxOVJaZFFNSlYxMkhEOFJkZlpJZV9kdHdsYjJZUERMd2pGRDllaXNRaDhNRXlwMHhucS1wdURM?oc=5",
+                "date": "2026-05-22T07:00:00.000Z"
+            },
+            "whatsNew": "The article highlights the need for restraint in AI art generation, emphasizing the importance of balance and control in creative processes. It suggests that with the ability to generate infinite content, the skill lies in knowing when to stop. The concept applies to various forms of AI-generated content, including visual art and design.",
+            "whyItMatters": "Understanding the value of restraint in AI art generation can lead to more refined and impactful creative outputs, distinguishing between meaningful art and overwhelming noise. It impacts artists, designers, and anyone leveraging AI tools for creative work.",
+            "howToUse": "To apply restraint in AI art generation, start by setting clear objectives for your project, then iteratively generate and refine your work, stopping when your goals are met. Regularly review and curate your outputs to maintain quality and relevance.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-2cqpufhht",
+            "title": "LLM Impact",
+            "subtitle": "Leaked LLM system prompts affect iGaming SEO",
+            "category": "iGaming",
+            "tags": [
+                "LLM",
+                "iGaming SEO",
+                "AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWh0SFlzWDhmdDMxY3lkckZGQktQSUQwcXBlNlBVS25hQ0lhQ3psVjZIQVQtdlQ3T2g4RTZkNnRNa2s2UmZNcC12V1N1Z0VDeGZwUlZQanlVeE9hanlvR3NUeWxzTWVJVFJTcG9PeXBNaEJFeHF5VmlYQkxJUTNtQmZPTzQ2RmhQc3FPODFFSUw1QkxsZlk3Wm9NSzMtSFZ6elBBZVR2OW1YVVg3OEtTdVBWdkJXbG1vUW9PZTdqSmtGVmk4?oc=5",
+                "date": "2026-05-22T08:24:43.000Z"
+            },
+            "whatsNew": "Leaked LLM system prompts reveal new insights into iGaming SEO. These prompts can significantly impact search engine rankings and player engagement. The leak highlights the importance of understanding LLM systems in iGaming.",
+            "whyItMatters": "The leaked prompts can help iGaming operators optimize their SEO strategies, improving visibility and revenue. Understanding LLM systems is crucial for staying competitive in the iGaming industry.",
+            "howToUse": "iGaming operators can analyze the leaked prompts to identify opportunities for SEO optimization and adjust their strategies accordingly. This can involve creating content that aligns with the prompts and improving website structure for better search engine rankings.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "SEO Specialists"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-sqrqzavj7",
+            "title": "Gambling Risk Delay",
+            "subtitle": "Gambling Commission delays formal response on financial risk assessments",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGE5dlpjbjZmcGpTR2d5alRSeFhrWDdveFc1YTdkX2xjS3hIMFlQOHgtRTBNc1hzQlB6SERndkdNRkJjOFctYTl3c3Y2S2xOdlNkS0FUcVUzLWI3V3FGdXpTekxBNVhwMU5CUXIwSTJVZEp4Zlo0TTQ4NmszZVctbmZJdmhweTRtT3k0Wk9UXzRBQUlJdDdjUVNRbWloWVF5M2YybEZmSEpuY1k?oc=5",
+                "date": "2026-05-22T09:31:29.000Z"
+            },
+            "whatsNew": "The Gambling Commission has delayed its formal response on financial risk assessments, indicating a potential shift in regulatory focus. This delay may impact operators' compliance strategies. The Commission's decision may also reflect evolving attitudes towards risk management in the industry.",
+            "whyItMatters": "The delay in the Gambling Commission's response on financial risk assessments may have significant implications for operators, affecting their ability to manage risk and comply with regulations. This development underscores the importance of staying informed about regulatory changes in the iGaming sector.",
+            "howToUse": "Operators should closely monitor the Commission's updates and adjust their risk management strategies accordingly. Staying abreast of regulatory developments is crucial for maintaining compliance and mitigating potential risks.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7ro5jnk8e",
+            "title": "Codere Online Expansion",
+            "subtitle": "Codere Online CEO discusses challenges of entering the Mexican market",
+            "category": "iGaming",
+            "tags": [
+                "Codere Online",
+                "Mexican Market",
+                "iGaming Expansion"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUlKNDBmOGlyamtnd0pUMFlodWkwdEdGRklBNEhMMGpxenNid2lLLWY2dmE0ZWxuRXI3b29XV1IyV192cjRRMmNzOVJOME5wODd2d1NPZndqWE9TTm93TFphOGpCaV9zMUFQQ3p6RmF3dkhQc2dreUMyN3JDN3Q1ZkprX213Z2I2OXl0aHhUR1J6UQ?oc=5",
+                "date": "2026-05-22T08:34:52.000Z"
+            },
+            "whatsNew": "Codere Online's CEO highlights the difficulties of entering the Mexican market, citing regulatory and competitive challenges. The company is seeking to expand its online gaming presence in the region. This move is part of a broader trend of iGaming operators targeting Latin American markets.",
+            "whyItMatters": "The challenges faced by Codere Online in Mexico underscore the complexities of expanding into new markets, particularly in regions with evolving regulatory landscapes. This has implications for other iGaming operators with similar ambitions.",
+            "howToUse": "Operators should conduct thorough market research and engage with local regulatory bodies to navigate the complexities of new markets. Building strategic partnerships can also facilitate smoother entry into new territories.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Market Analysts"
+            ],
+            "companies": [
+                "Codere Online"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
