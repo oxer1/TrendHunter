@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-05T15:51:27.047Z",
+        "scanDate": "2026-06-05T17:51:30.242Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 79,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,40 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7uqwb2htg",
+            "title": "HP Anyware Sunset",
+            "subtitle": "A guide for postproduction teams to transition from HP Anyware to Parsec for secure and high-performance remote access",
+            "category": "Tech",
+            "tags": [
+                "HP Anyware",
+                "Parsec",
+                "Postproduction",
+                "Remote Access"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/hp-anyware-is-being-sunset-a-practical-guide-for-postproduction-teams",
+                "date": "2026-06-05T00:00:00.000Z"
+            },
+            "whatsNew": "HP Anyware is being sunset, and Parsec offers a low-latency and secure remote access solution for postproduction teams. Parsec supports up to 4K at 60 fps and has sub-16 ms added latency with GPU-side encoding.",
+            "whyItMatters": "The sunset of HP Anyware creates a security and compliance risk for postproduction teams, and Parsec provides a reliable and high-performance alternative. Parsec's SOC 2 Type II certification and compliance with TPN best-practices ensure secure and reliable remote access.",
+            "howToUse": "Postproduction teams can transition to Parsec by assessing their current deployment, selecting the appropriate Parsec edition, and deploying Parsec on hosts and clients. A structured migration plan helps reduce operational risk and minimize workflow disruption.",
+            "beneficiaries": [
+                "Postproduction Teams",
+                "Editors",
+                "Colorists"
+            ],
+            "companies": [
+                "HP",
+                "Parsec"
+            ],
+            "visualStyle": null,
+            "cluster": "tech",
+            "isNew": true
+        },
         {
             "id": "t-kl6vol3e4",
             "title": "Bally's Acquires Evoke",
@@ -50,7 +84,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4f5f43gzz",
@@ -2613,7 +2647,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": null
         },
         {
@@ -2632,7 +2666,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2641,7 +2675,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2650,7 +2684,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": "Regulatory updates"
         },
         {
@@ -2668,7 +2702,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2677,7 +2711,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2697,7 +2731,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2755,7 +2789,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2900,7 +2934,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-05T17:51:30.242Z",
             "note": null
         },
         {
