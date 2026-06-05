@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-04T22:18:44.429Z",
+        "scanDate": "2026-06-05T00:04:17.069Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-46el2mi7a",
+            "title": "Betano Parent",
+            "subtitle": "Betano's parent company achieves decacorn status, a significant milestone in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Betano",
+                "Decacorn"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGt5MklOaE5vUGI2UmNNZzFzVUtKNmdMMnNhV2dlQS1wTFlqaDQwVmo2c1RSQ3N1UlIyTGJwOUt5RUdzMFdTSHc4SlpJZU1FUXh4U0ZJQWZUUWFzX1VZVkZJOFIxWWFfTmtNNW9BQkctLTVQQkhyeXQ3WVh2V08tSjJUeXRIUlhCbHc?oc=5",
+                "date": "2026-06-03T09:46:23.000Z"
+            },
+            "whatsNew": "Betano's parent company has reached a valuation of over $10 billion, achieving decacorn status. This milestone reflects the company's significant growth and success in the iGaming market. The achievement is a testament to the company's strategic expansion and innovation in the industry.",
+            "whyItMatters": "The achievement of decacorn status by Betano's parent company indicates a growing trend of significant investment and valuation in the iGaming industry. This trend is expected to continue, driven by increasing demand for online gaming and sports betting.",
+            "howToUse": "Companies in the iGaming industry can learn from Betano's parent company's success by focusing on strategic expansion, innovation, and customer engagement. This can include investing in new technologies, expanding into new markets, and developing unique gaming experiences.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Betano"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-d4gu20jy9",
             "title": "AI Art Studio",
@@ -2542,7 +2573,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": null
         },
         {
@@ -2561,7 +2592,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2570,7 +2601,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2579,7 +2610,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": "Regulatory updates"
         },
         {
@@ -2597,7 +2628,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2606,7 +2637,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2626,7 +2657,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2684,7 +2715,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2829,7 +2860,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T00:04:17.069Z",
             "note": null
         },
         {
