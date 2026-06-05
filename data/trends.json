@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-05T12:34:44.704Z",
+        "scanDate": "2026-06-05T15:51:27.047Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-kl6vol3e4",
+            "title": "Bally's Acquires Evoke",
+            "subtitle": "Bally’s Intralot to acquire evoke in £243m all-share transaction",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "iGaming",
+                "Mergers"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVRsdHRUQ3J6Ujc3eUE1NUw5N1ZJUElUVGlqY1dJeGt3ZlBtbkhKYW5YcGFnSWdCaGNNZGtmd04tMFZOZVlSZDd2WnZtZnpBLXZwOG5Zb0xwZVNybFM0Y2dMcUJ0WGJFZDBaVG83UlUyNmhJVjJzT2N3TU1rUklWYjNoUnlUckRGNUZWX19TdHVkdVBFUnMzQ09lNmZWdw?oc=5",
+                "date": "2026-06-05T07:36:20.000Z"
+            },
+            "whatsNew": "Bally’s Intralot is set to acquire evoke in a £243m all-share transaction, marking a significant move in the iGaming industry. This acquisition is expected to expand Bally’s presence and capabilities. The deal highlights the ongoing consolidation trend in the sector.",
+            "whyItMatters": "This acquisition impacts the iGaming landscape by potentially altering market shares and competitive dynamics. It also signals the continued growth and evolution of the industry through strategic mergers and acquisitions.",
+            "howToUse": "Industry players should monitor such acquisitions for potential partnerships or opportunities. Companies can leverage these moves to reassess their market strategies and identify areas for growth or consolidation.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Bally’s Intralot",
+                "Evoke"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-4f5f43gzz",
             "title": "Robinhood Shifts",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-36dywi3bv",
@@ -81,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xyibdbh1q",
@@ -112,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5ivp9cw1d",
@@ -144,7 +176,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-r662j2noc",
@@ -2581,7 +2613,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": null
         },
         {
@@ -2600,7 +2632,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2609,7 +2641,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2618,7 +2650,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "Regulatory updates"
         },
         {
@@ -2636,7 +2668,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2645,7 +2677,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2665,7 +2697,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2723,7 +2755,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2732,7 +2764,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T09:41:31.180Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2741,7 +2773,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T09:41:31.180Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": "Style browsing signal"
         },
         {
@@ -2778,7 +2810,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T09:41:31.180Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": null
         },
         {
@@ -2787,7 +2819,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-05T09:41:31.180Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": null
         },
         {
@@ -2796,7 +2828,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-05T09:41:31.180Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": null
         },
         {
@@ -2868,7 +2900,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T12:34:44.704Z",
+            "lastScan": "2026-06-05T15:51:27.047Z",
             "note": null
         },
         {
