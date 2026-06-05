@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-05T00:04:17.069Z",
+        "scanDate": "2026-06-05T05:14:33.359Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,103 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0f6etm62s",
+            "title": "AI Facial Editor",
+            "subtitle": "OpenArt introduces an AI-powered facial expression changer for photos",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Facial Editing",
+                "Photo Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKWE8xbEx3OTVUbU5qRDlnRk1BR0VDY2tLOUlSQVpOalJQT3JLdGVuWlF3cDVETHZfT0VxU0FVcTJZVjNmcm9LXzREaUVMWnBOWmt5XzZRYVYxUEdETU0zbmVlUng?oc=5",
+                "date": "2026-06-04T04:44:26.000Z"
+            },
+            "whatsNew": "OpenArt's Facial Expression Changer uses AI to edit expressions in any photo, allowing for realistic and detailed changes. This tool can be used for various applications, including gaming and animation. The AI technology enables precise control over facial features, creating a wide range of emotions and expressions.",
+            "whyItMatters": "The Facial Expression Changer has the potential to revolutionize the field of photo editing and can be particularly useful for game developers and animators. It can help create more realistic and engaging characters, enhancing the overall gaming experience.",
+            "howToUse": "Users can utilize the Facial Expression Changer by uploading their photos to the OpenArt platform and using the AI-powered tools to edit and modify facial expressions. This can be used to create custom characters, enhance game graphics, or simply for personal photo editing purposes.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-ar7u3jd7b",
+            "title": "AI Training Tools",
+            "subtitle": "Synthesia discusses AI tools and use cases for training and development in 2026",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Training",
+                "Development",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0c5Xy1JelNzNFBXWDVsSmFDY1FUa1RXZGRvZ1F0aE1DXzRPblZmdFN5LTQwcjNDTTFrYkZUTVoyTEstUHdZXzhNMnpWdmN0ZnNPTUZ6elpGb2RNcV84WklEamJGZ2dEeEZhUGZKUHhkNDhFZVA5SGVxYWhFZS11OFlUQzRXd2s?oc=5",
+                "date": "2026-06-01T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia highlights the latest AI tools for training and development, focusing on use cases in 2026. These tools are designed to enhance learning experiences and improve efficiency. The use of AI in training is becoming increasingly prevalent.",
+            "whyItMatters": "The integration of AI in training and development can significantly impact the effectiveness of learning programs, making them more personalized and engaging. This can lead to better outcomes and increased productivity.",
+            "howToUse": "Organizations can leverage AI training tools to create customized learning paths, automate administrative tasks, and provide real-time feedback to learners. By adopting these tools, businesses can stay ahead of the curve in terms of innovation and employee development.",
+            "beneficiaries": [
+                "HR Professionals",
+                "Trainers",
+                "Learners"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-ykjwy0upl",
+            "title": "Spine PSD Import",
+            "subtitle": "Spine 2D announces PSD import feature",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "PSD Import",
+                "2D Animation"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVlzQ3VDbkYzNlNvQi01N2xQSGs2YURrRVlTZDNFYXRTNVRiT19yWEpoNHptTmdmaVpIcXVlOXUxUVpvblVNRWlfQkR3NmdLMWlLa0ZJdTVXSXlYSXNiR01FQWRDejRHeElxazQ4bFpQekNNa0tPeHpwY2JEWkc3Y3pFRWNxVVkyQUE?oc=5",
+                "date": "2026-06-04T11:33:42.000Z"
+            },
+            "whatsNew": "Spine 2D now supports PSD import, allowing for easier animation and design workflow. This feature enables users to import Photoshop files directly into Spine. The PSD import feature simplifies the process of creating and editing 2D animations.",
+            "whyItMatters": "The PSD import feature in Spine 2D streamlines the workflow for animators and designers, saving time and increasing productivity. This feature is particularly useful for game development and animation studios that rely on Photoshop for their design work.",
+            "howToUse": "To use the PSD import feature, simply import your Photoshop file into Spine 2D and start animating. The feature supports various Photoshop layers and groups, making it easy to work with complex designs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators",
+                "Designers"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-46el2mi7a",
             "title": "Betano Parent",
@@ -49,7 +146,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-d4gu20jy9",
@@ -2573,7 +2670,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": null
         },
         {
@@ -2592,7 +2689,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2601,7 +2698,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2610,7 +2707,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "Regulatory updates"
         },
         {
@@ -2628,7 +2725,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2637,7 +2734,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2657,7 +2754,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2715,7 +2812,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2724,7 +2821,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T22:18:44.429Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2733,7 +2830,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T11:50:28.626Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "Style browsing signal"
         },
         {
@@ -2770,7 +2867,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-04T11:50:28.626Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": null
         },
         {
@@ -2779,7 +2876,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-04T11:50:28.626Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": null
         },
         {
@@ -2788,7 +2885,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-04T08:19:03.139Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": null
         },
         {
@@ -2815,7 +2912,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-03T18:22:07.782Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2860,7 +2957,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T00:04:17.069Z",
+            "lastScan": "2026-06-05T05:14:33.359Z",
             "note": null
         },
         {
