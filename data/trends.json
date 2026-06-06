@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-06T11:23:26.006Z",
+        "scanDate": "2026-06-06T13:25:58.345Z",
         "version": "2.5.0",
-        "totalTrends": 83,
+        "totalTrends": 81,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ehoxhitni",
@@ -989,37 +989,6 @@
             "isNew": false
         },
         {
-            "id": "t-68y40jneq",
-            "title": "AI Dubbing",
-            "subtitle": "HeyGen introduces free online video localization using AI",
-            "category": "AI",
-            "tags": [
-                "AI Dubbing",
-                "Video Localisation",
-                "HeyGen"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TdC1ScGd0T3hnSHMyNkhFV0VwZG1vYkF1dG9kdjlSbU43UDZqRENUWHptejR3Ti15NWR5dklWOHVaWUZUWkhXTUtqcGZTdDRiU0o3TEZkWU1qUG5OeWc?oc=5",
-                "date": "2026-05-23T12:13:13.000Z"
-            },
-            "whatsNew": "HeyGen offers a free online AI dubbing service for video localization, making content more accessible globally. This technology uses AI to automatically dub videos into different languages. The service is available online and free to use.",
-            "whyItMatters": "AI dubbing can significantly reduce the cost and time required for video localization, making it easier for content creators to reach a global audience. This technology has the potential to disrupt the traditional dubbing industry.",
-            "howToUse": "Content creators can use HeyGen's AI dubbing service by uploading their videos to the platform and selecting the desired language for dubbing. The AI algorithm will then automatically generate the dubbed video.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers"
-            ],
-            "companies": [
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-xg9fry65a",
             "title": "Matchbook New Hire",
             "subtitle": "Matchbook appoints ex-Betfair head as chief growth officer to drive expansion",
@@ -1829,38 +1798,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-w3x3mn32y",
-            "title": "Seedance 2.0 AI",
-            "subtitle": "ByteDance releases Seedance 2.0 AI video generator through HeyGen",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "ByteDance",
-                "HeyGen"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyT3NVa05CZVNVVDlWUkFjZXJvTmtYS2U4OHFDNElxNDNLQVRwNEdzMjBCVWE2OWNUeDZQSTIxeFNJR2tRM0JyZW1IeWgtdnhpbm5OV2dNNmp6Zw?oc=5",
-                "date": "2026-05-23T13:10:01.000Z"
-            },
-            "whatsNew": "ByteDance has introduced Seedance 2.0, an AI-powered video generator, available through HeyGen. This tool is designed to create high-quality videos using artificial intelligence. The release of Seedance 2.0 marks a significant advancement in AI video generation technology.",
-            "whyItMatters": "The introduction of Seedance 2.0 has the potential to revolutionize the video creation process, making it more accessible and efficient for users. This technology can be particularly impactful for the gaming and iGaming industries, where high-quality video content is crucial.",
-            "howToUse": "Users can leverage Seedance 2.0 to generate professional-looking videos without extensive video production experience. This can be especially useful for game developers and iGaming operators looking to create engaging video content.",
-            "beneficiaries": [
-                "Game developers",
-                "iGaming operators",
-                "Content creators"
-            ],
-            "companies": [
-                "ByteDance"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -2771,7 +2708,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": null
         },
         {
@@ -2790,7 +2727,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2799,7 +2736,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2808,7 +2745,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": "Regulatory updates"
         },
         {
@@ -2826,7 +2763,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2835,7 +2772,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2855,7 +2792,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2913,7 +2850,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3058,7 +2995,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T11:23:26.006Z",
+            "lastScan": "2026-06-06T13:25:58.345Z",
             "note": null
         },
         {
@@ -28995,6 +28932,69 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-68y40jneq",
+            "title": "AI Dubbing",
+            "subtitle": "HeyGen introduces free online video localization using AI",
+            "category": "AI",
+            "tags": [
+                "AI Dubbing",
+                "Video Localisation",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TdC1ScGd0T3hnSHMyNkhFV0VwZG1vYkF1dG9kdjlSbU43UDZqRENUWHptejR3Ti15NWR5dklWOHVaWUZUWkhXTUtqcGZTdDRiU0o3TEZkWU1qUG5OeWc?oc=5",
+                "date": "2026-05-23T12:13:13.000Z"
+            },
+            "whatsNew": "HeyGen offers a free online AI dubbing service for video localization, making content more accessible globally. This technology uses AI to automatically dub videos into different languages. The service is available online and free to use.",
+            "whyItMatters": "AI dubbing can significantly reduce the cost and time required for video localization, making it easier for content creators to reach a global audience. This technology has the potential to disrupt the traditional dubbing industry.",
+            "howToUse": "Content creators can use HeyGen's AI dubbing service by uploading their videos to the platform and selecting the desired language for dubbing. The AI algorithm will then automatically generate the dubbed video.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-w3x3mn32y",
+            "title": "Seedance 2.0 AI",
+            "subtitle": "ByteDance releases Seedance 2.0 AI video generator through HeyGen",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "ByteDance",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyT3NVa05CZVNVVDlWUkFjZXJvTmtYS2U4OHFDNElxNDNLQVRwNEdzMjBCVWE2OWNUeDZQSTIxeFNJR2tRM0JyZW1IeWgtdnhpbm5OV2dNNmp6Zw?oc=5",
+                "date": "2026-05-23T13:10:01.000Z"
+            },
+            "whatsNew": "ByteDance has introduced Seedance 2.0, an AI-powered video generator, available through HeyGen. This tool is designed to create high-quality videos using artificial intelligence. The release of Seedance 2.0 marks a significant advancement in AI video generation technology.",
+            "whyItMatters": "The introduction of Seedance 2.0 has the potential to revolutionize the video creation process, making it more accessible and efficient for users. This technology can be particularly impactful for the gaming and iGaming industries, where high-quality video content is crucial.",
+            "howToUse": "Users can leverage Seedance 2.0 to generate professional-looking videos without extensive video production experience. This can be especially useful for game developers and iGaming operators looking to create engaging video content.",
+            "beneficiaries": [
+                "Game developers",
+                "iGaming operators",
+                "Content creators"
+            ],
+            "companies": [
+                "ByteDance"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
