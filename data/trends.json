@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-06T15:12:37.667Z",
+        "scanDate": "2026-06-06T17:09:39.578Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 82,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ajnyaha4i",
+            "title": "AI Video Checkpoint",
+            "subtitle": "Civitai releases DaSiWa-WAN 2.2 I2V 14B with TrueVision and Safetensors",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Safetensors",
+                "TrueVision"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1EyLUMxcURRTE1JNEtYU2hmRUlpc3dmTE9zWnBvc1hBRkJqM09DZjA3RVUwUGxValR3ZlBBNTdhLS1wWUQtdmpmMWdzVGhoWWo5YVpaRy12dWl3dEhvVkJWVGM5UzcwZV9OdXBIZTNhRDZUVVNlTDdqT01HSlFWS2NfaUgtVVdGWGlCTWhR?oc=5",
+                "date": "2026-06-04T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces DaSiWa-WAN 2.2 I2V 14B, an AI model for video processing, along with SnatchKiss High v11 and Wan Video Checkpoint. This update incorporates TrueVision and Safetensors for enhanced video generation.",
+            "whyItMatters": "This development signifies advancements in AI-powered video tools, potentially impacting the gaming and visual design industries. It offers improved video processing capabilities, which can be leveraged for more realistic and engaging visual effects.",
+            "howToUse": "Developers can utilize DaSiWa-WAN 2.2 I2V 14B for generating high-quality videos, while game designers can explore its applications in creating immersive game environments.",
+            "beneficiaries": [
+                "Game Developers",
+                "Video Editors"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-rc6ctoi5q",
             "title": "Anima LoRA Update",
@@ -2708,7 +2739,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": null
         },
         {
@@ -2727,7 +2758,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2736,7 +2767,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2745,7 +2776,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": "Regulatory updates"
         },
         {
@@ -2763,7 +2794,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2772,7 +2803,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2792,7 +2823,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2850,7 +2881,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.667Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2995,7 +3026,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T15:12:37.668Z",
+            "lastScan": "2026-06-06T17:09:39.578Z",
             "note": null
         },
         {
