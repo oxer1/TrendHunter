@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-05T23:05:29.130Z",
+        "scanDate": "2026-06-06T02:51:09.700Z",
         "version": "2.5.0",
-        "totalTrends": 79,
+        "totalTrends": 83,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,131 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ehoxhitni",
+            "title": "AI Art Clichés",
+            "subtitle": "Article discusses common visual clichés in AI-generated art and provides alternatives",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Visual Clichés",
+                "Art Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XeG8ta3JxaDB0dzZUMnloYm1sYUlkMVFTZG1zNnJsN0FHc1lKUU94TmJXd2dlclhZZW94YkFxRlVhUmYwTWdTbTZ4R3E5TmNwOUVsZ09XYk9yUnpYaXFtT2Q4dHhFalg2Z1B2Y0NRVQ?oc=5",
+                "date": "2026-05-29T07:00:00.000Z"
+            },
+            "whatsNew": "The article highlights six common visual clichés that are often associated with AI-generated art, such as over-reliance on neon colors and futuristic landscapes. It also provides guidance on how to avoid these clichés and create more unique and creative AI art.",
+            "whyItMatters": "Understanding and avoiding visual clichés in AI art is crucial for creating authentic and engaging visual content. This knowledge can help artists and designers to push the boundaries of AI-generated art and explore new creative possibilities.",
+            "howToUse": "To avoid AI art clichés, artists can experiment with different styles, reference a wide range of sources, and focus on creating unique and meaningful content. They can also use AI tools in a more nuanced and controlled way to achieve specific artistic effects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Creative Directors"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-ylfil08l6",
+            "title": "HeyGen Leads AI",
+            "subtitle": "HeyGen named top AI video platform by G2 Summer 2026 report",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "G2 Report",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HcTVUSEF5V2JfSXBpMG9tdkZLVmpQLVdKa1MwMWFjeEdSeXpMZFVnRVhrWms2X1RlVjV5RElWMDdub3VaMFVrNERVM2ZyaktmcFc2RDJCQW1GalY3Qk90ajNmZURmOGJP?oc=5",
+                "date": "2026-05-29T18:20:43.000Z"
+            },
+            "whatsNew": "HeyGen has been recognized as the number one AI video platform in the G2 Summer 2026 report. This acknowledges its leadership in AI-powered video solutions. The report highlights HeyGen's capabilities in AI video generation and editing.",
+            "whyItMatters": "This recognition impacts the AI for creative work sector, showcasing HeyGen's dominance in AI video technology. It matters for companies and individuals looking for innovative video creation tools.",
+            "howToUse": "Consider integrating HeyGen's AI video platform for enhanced video creation capabilities. Explore its features for AI-powered video editing and generation to boost content production.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-abky4cms2",
+            "title": "Spine 2D Update",
+            "subtitle": "Version 4.2 issue with hiding bone names in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Bone Names"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS3FNMGVTTjYxbV9rOHAzNnNYSnk2dThtZ0xKR0FrYXo4OUJwSjluVEE2cVRWc0RValJRUmtraE96cGRXVjA3VGtPQ28yWTFudWdJSE94WDJ4akZkbEZUN1VDWGhkZ3ZyUlNnNWNGM3VkMFRub3Q2TDFLLUI5dGR0NnpRdGpLMWhuNl80aHFLMDRzSTZzZUtNOTFwMlFoTXBZNFNKVTBoTVhjUWZMRWxVekVzMFliZ1haaWs5bThObzQ4aFRsbWp1VVR6SXBYcWxYTTZTRUJHSldVamI4NlBDWmJGX1EzeWNPWnJMSUhmWDhmVEhMX3ZkendjcmVITEpfbWlVdGNIakVESlZBZEE?oc=5",
+                "date": "2026-06-03T15:49:14.000Z"
+            },
+            "whatsNew": "The latest version of Spine 2D, version 4.2, has an issue where bone names cannot be hidden. This is causing inconvenience for game developers who use Spine for their 2D game development needs.",
+            "whyItMatters": "This issue affects game developers who rely on Spine for their game development pipeline, potentially slowing down their workflow. A fix for this issue is necessary to ensure smooth game development.",
+            "howToUse": "Developers can use workarounds such as using alternative versions of Spine or manually editing the bone names to minimize the impact of this issue.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-u8li459wt",
+            "title": "Spine 2D Audio Issue",
+            "subtitle": "No sound during audio timing on Mac for Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Audio Timing",
+                "Mac Issue"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXVGeDZLTjFid3RHejlHTmFxX3lMNml5aEU1Skk5RGZwb0hmZTQybG1KZl9tejJfaWxsSkg5TFpmdWhxZ2lLUkZwRnhIQ1JjdnphQ3BVX3lUaDVhcWZ1bnMyV0t2SGJXNWozckZFWUY3cUoxRS1xemwzdGRtNXpSY2JLNXdfSzRRYTNhOTlKSHpGd2MyanlvM1MybmE2WTFvcjZuRXAtME0xcnlGd3BJdWlWVUNyTWRQTkE?oc=5",
+                "date": "2026-06-04T11:52:55.000Z"
+            },
+            "whatsNew": "Users of Spine 2D on Mac are experiencing no sound during audio timing. This issue affects the workflow of game and animation developers. The problem seems specific to the Mac version of the software.",
+            "whyItMatters": "This issue matters because it hinders the development process of games and animations that rely on Spine 2D for character animation and audio synchronization. Developers need a stable and functional tool to meet project deadlines.",
+            "howToUse": "Developers can try troubleshooting steps like checking audio settings or seeking help from the Esoteric support team to resolve the issue. Alternatively, they might consider using the software on a different platform if available.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-7uqwb2htg",
             "title": "HP Anyware Sunset",
@@ -2647,7 +2772,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": null
         },
         {
@@ -2666,7 +2791,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2675,7 +2800,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2684,7 +2809,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "Regulatory updates"
         },
         {
@@ -2702,7 +2827,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2711,7 +2836,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2731,7 +2856,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2789,7 +2914,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2798,7 +2923,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T19:50:35.387Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2807,7 +2932,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T19:50:35.387Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "Style browsing signal"
         },
         {
@@ -2844,7 +2969,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T19:50:35.387Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": null
         },
         {
@@ -2853,7 +2978,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-05T19:50:35.387Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": null
         },
         {
@@ -2862,7 +2987,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-05T15:51:27.047Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": null
         },
         {
@@ -2889,7 +3014,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T05:14:33.359Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2934,7 +3059,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-05T23:05:29.130Z",
+            "lastScan": "2026-06-06T02:51:09.700Z",
             "note": null
         },
         {
