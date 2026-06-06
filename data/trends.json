@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-06T06:28:36.338Z",
+        "scanDate": "2026-06-06T09:23:35.928Z",
         "version": "2.5.0",
-        "totalTrends": 83,
+        "totalTrends": 82,
         "categories": [
             "iGaming",
             "AI",
@@ -1862,38 +1862,6 @@
             "isNew": false
         },
         {
-            "id": "t-6bnjpomtq",
-            "title": "Anima LoRA Update",
-            "subtitle": "Civitai releases Aesthetic Quality Modifiers - Masterpiece - v5.1 for Anima LoRA",
-            "category": "AI",
-            "tags": [
-                "Anima LoRA",
-                "Aesthetic Quality Modifiers",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTU5LQ2FJdGYwejNEUEFpMWZFRDZOR2dWcVYyREtFajRRN1poMF9ERHo2UWpKSkNQcjVMTDVHZWJaWlo1STdHM3l5Tk9ObFUwTEY0S24wM0VUUzh1YTFQZWRmNWJ6NDQzX3dNYkZ3R0MtcXdyMlU3dVZJc3BMQQ?oc=5",
-                "date": "2026-05-23T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an update to their Anima LoRA model, introducing Aesthetic Quality Modifiers - Masterpiece - v5.1. This update aims to enhance the model's ability to generate high-quality, aesthetically pleasing images.",
-            "whyItMatters": "This update is significant for AI art generation, as it demonstrates the ongoing development and refinement of AI models for creative applications. It has the potential to impact the quality and diversity of AI-generated art.",
-            "howToUse": "Artists and developers can utilize this updated model to generate unique, high-quality images for various applications, including gaming, animation, and visual design.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-3lh9fiunh",
             "title": "Merkur Casino Update",
             "subtitle": "Merkur Casino Entertainment UK Limited receives update from Gambling Commission",
@@ -2772,7 +2740,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": null
         },
         {
@@ -2791,7 +2759,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2800,7 +2768,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2809,7 +2777,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "Regulatory updates"
         },
         {
@@ -2827,7 +2795,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2836,7 +2804,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2856,7 +2824,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2914,7 +2882,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2923,7 +2891,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2932,7 +2900,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": "Style browsing signal"
         },
         {
@@ -2969,7 +2937,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": null
         },
         {
@@ -2978,7 +2946,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": null
         },
         {
@@ -2987,7 +2955,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": null
         },
         {
@@ -3059,7 +3027,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-06T06:28:36.338Z",
+            "lastScan": "2026-06-06T09:23:35.928Z",
             "note": null
         },
         {
@@ -28964,6 +28932,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6bnjpomtq",
+            "title": "Anima LoRA Update",
+            "subtitle": "Civitai releases Aesthetic Quality Modifiers - Masterpiece - v5.1 for Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "Anima LoRA",
+                "Aesthetic Quality Modifiers",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTU5LQ2FJdGYwejNEUEFpMWZFRDZOR2dWcVYyREtFajRRN1poMF9ERHo2UWpKSkNQcjVMTDVHZWJaWlo1STdHM3l5Tk9ObFUwTEY0S24wM0VUUzh1YTFQZWRmNWJ6NDQzX3dNYkZ3R0MtcXdyMlU3dVZJc3BMQQ?oc=5",
+                "date": "2026-05-23T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update to their Anima LoRA model, introducing Aesthetic Quality Modifiers - Masterpiece - v5.1. This update aims to enhance the model's ability to generate high-quality, aesthetically pleasing images.",
+            "whyItMatters": "This update is significant for AI art generation, as it demonstrates the ongoing development and refinement of AI models for creative applications. It has the potential to impact the quality and diversity of AI-generated art.",
+            "howToUse": "Artists and developers can utilize this updated model to generate unique, high-quality images for various applications, including gaming, animation, and visual design.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
