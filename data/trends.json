@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-07T11:07:26.952Z",
+        "scanDate": "2026-06-07T13:46:47.723Z",
         "version": "2.5.0",
-        "totalTrends": 85,
+        "totalTrends": 86,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qhhvosn25",
+            "title": "Gambling License",
+            "subtitle": "UK Gambling Commission updates on John Warwick Tunnicliffe Jnr premises",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkY4MWhvbFJCR3pnMmQtNmk5Z2FzeEhmcnU1V09SZE40OXlLcklqeDljNnFwN3dnR2pVaVc2Tk5tSXlWaDRlT1lpaGJhUDBQOERHdUk3Vm1udGptWWlSd0syYzBkQ0Iza051YUkyM3FLWjAtNzUwMVMxenpTVEpzYldCWQ?oc=5",
+                "date": "2026-06-04T23:35:44.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has provided an update on John Warwick Tunnicliffe Jnr premises. The update is related to the premises located at FY3 7HG.",
+            "whyItMatters": "This update is important for those involved in the iGaming industry, particularly in the UK, as it pertains to regulatory compliance and licensing.",
+            "howToUse": "Operators should ensure they are aware of and comply with all relevant regulations and licensing requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-516lrwyj9",
             "title": "AI Art Generation",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-orirdfavq",
@@ -2836,7 +2865,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": null
         },
         {
@@ -2855,7 +2884,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2864,7 +2893,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2873,7 +2902,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "Regulatory updates"
         },
         {
@@ -2891,7 +2920,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2900,7 +2929,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2920,7 +2949,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2978,7 +3007,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2987,7 +3016,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2996,7 +3025,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": "Style browsing signal"
         },
         {
@@ -3033,7 +3062,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": null
         },
         {
@@ -3123,7 +3152,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T11:07:26.953Z",
+            "lastScan": "2026-06-07T13:46:47.723Z",
             "note": null
         },
         {
