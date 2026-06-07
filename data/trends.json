@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-07T08:52:30.653Z",
+        "scanDate": "2026-06-07T11:07:26.952Z",
         "version": "2.5.0",
         "totalTrends": 85,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-516lrwyj9",
+            "title": "AI Art Generation",
+            "subtitle": "AI-generated image of two androids fighting, created using prompt on prompthero.com",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Stable Diffusion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qSk8zWVg0MHQyY1RYRUQ4b041aDg5MWFJbDdmN1ZwWjRSOXNmMGh2OXFfVFcyOEoyVkpweWprQnlncld4bGdmQWJXVXhNR1BSRVRibnlTMHVJTjdYbTlwRg?oc=5",
+                "date": "2026-05-28T07:59:49.000Z"
+            },
+            "whatsNew": "The use of AI prompts to generate specific and detailed images, such as two androids fighting, is becoming increasingly popular. This technology has the potential to revolutionize the field of digital art. The ability to create custom images with ease is a significant advancement.",
+            "whyItMatters": "This technology has significant implications for the gaming and art industries, as it can be used to generate unique and realistic images. It also raises questions about the role of human artists in the creative process.",
+            "howToUse": "To use this technology, simply input a prompt into an AI image generation tool, such as prompthero.com, and the AI will generate an image based on the prompt. This can be used to create concept art, character designs, or even entire scenes.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-orirdfavq",
             "title": "Spine 2D Customizer",
@@ -1927,35 +1958,6 @@
             "isNew": false
         },
         {
-            "id": "t-67ys46oi3",
-            "title": "UK Gambling Sanctions",
-            "subtitle": "Mcdonald Shona Elizabeth faces regulatory sanctions from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Gambling Commission",
-                "Sanctions"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhNcWliMERia0xWWXNfc3JGOUN0Q1pKcXE0YTB1VC1KTGU4Zm43NzhMVGh1aUJ3bzg4WE5idUFaR2FROHZFdlZYdDAzNVMzZU9qSlpYaUVmUmVRNE8yeEhsV080ZE5NcGczUXo4b0RnS1g1eFVLRjhjYm1teXlTNldBWmpndFdYSFdCag?oc=5",
-                "date": "2026-05-24T10:55:57.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Mcdonald Shona Elizabeth. The details of the sanctions are not specified in the provided content.",
-            "whyItMatters": "This development highlights the Commission's ongoing efforts to enforce regulatory compliance within the iGaming industry. It underscores the importance of adherence to gambling regulations.",
-            "howToUse": "Operators should ensure they are up-to-date with the latest regulatory requirements to avoid similar sanctions.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-3lh9fiunh",
             "title": "Merkur Casino Update",
             "subtitle": "Merkur Casino Entertainment UK Limited receives update from Gambling Commission",
@@ -2834,7 +2836,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": null
         },
         {
@@ -2853,7 +2855,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2862,7 +2864,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2871,7 +2873,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "Regulatory updates"
         },
         {
@@ -2889,7 +2891,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2898,7 +2900,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2918,7 +2920,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2976,7 +2978,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2985,7 +2987,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2994,7 +2996,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": "Style browsing signal"
         },
         {
@@ -3031,7 +3033,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": null
         },
         {
@@ -3121,7 +3123,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-07T11:07:26.953Z",
             "note": null
         },
         {
@@ -29145,6 +29147,35 @@
             "howToUse": "Operators and providers should monitor regulatory discussions and outcomes from the SBC Summit to anticipate and adapt to potential changes in gaming laws and standards.",
             "beneficiaries": [
                 "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-67ys46oi3",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "Mcdonald Shona Elizabeth faces regulatory sanctions from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Commission",
+                "Sanctions"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhNcWliMERia0xWWXNfc3JGOUN0Q1pKcXE0YTB1VC1KTGU4Zm43NzhMVGh1aUJ3bzg4WE5idUFaR2FROHZFdlZYdDAzNVMzZU9qSlpYaUVmUmVRNE8yeEhsV080ZE5NcGczUXo4b0RnS1g1eFVLRjhjYm1teXlTNldBWmpndFdYSFdCag?oc=5",
+                "date": "2026-05-24T10:55:57.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has imposed regulatory sanctions on Mcdonald Shona Elizabeth. The details of the sanctions are not specified in the provided content.",
+            "whyItMatters": "This development highlights the Commission's ongoing efforts to enforce regulatory compliance within the iGaming industry. It underscores the importance of adherence to gambling regulations.",
+            "howToUse": "Operators should ensure they are up-to-date with the latest regulatory requirements to avoid similar sanctions.",
+            "beneficiaries": [
+                "iGaming Operators",
                 "Regulatory Bodies"
             ],
             "companies": [],
