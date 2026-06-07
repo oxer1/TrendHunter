@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-07T17:13:35.125Z",
+        "scanDate": "2026-06-07T19:18:33.359Z",
         "version": "2.5.0",
-        "totalTrends": 87,
+        "totalTrends": 88,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,65 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-35gjafy9a",
+            "title": "AI Protects Kids",
+            "subtitle": "UK Gambling Commission uses AI to protect children from gambling content",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Regulation",
+                "Child Protection"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjBxaDBCbnFXckdwME84VFN1VHBtYndNRVFDVk5Fdlc5UURSR1lIbTNuVUdXRDlLN21GOW11dU00U3dPN2RNY3Nld04xQUtWR3hhczdvSFFaVFp1S1pDdTVpVFpYWUFKU19oWERWOU1VOTF2SHZZWVNDZkpxSDE3QzU1dnlITU94RXVfcTlBTHJJMFo0NTI2dnlLOWdvdnNCRlNVZUlXYXY?oc=5",
+                "date": "2026-06-04T09:45:32.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission is utilizing AI to identify and remove gambling content that may appeal to children. This initiative aims to strengthen protections for minors in the online gaming space.",
+            "whyItMatters": "This move highlights the increasing importance of responsible gambling practices and the role of AI in enforcing regulatory standards. It also underscores the need for the iGaming industry to prioritize child protection.",
+            "howToUse": "Operators can leverage AI tools to review their marketing materials and ensure compliance with regulations designed to protect minors.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators",
+                "Child Advocates"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-2nkdv375r",
+            "title": "Anime Style AI",
+            "subtitle": "Stable Diffusion creates Kyoto Animation stylized anime mixed with traditional elements",
+            "category": "Art",
+            "tags": [
+                "Stable Diffusion",
+                "Anime Style",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOSmd1eHpIamJGeDZobmVGeEJ2aGlrZlU1RWI3SFBnLXpMQWRtdWxtTFJTcWdrX1V5QmJYZWF0RmowYS1MRHZNamNXN1RjaWlmcWhwY0JaWkZOMzBaQThDUGlOMDhuNmhyX1VsWWVDWU4zaTU2UHRXUGU3aGtWdDVzTjVZR2NiS0tCSmFBYjR5SzVwVERadUI2elJNa0djby1rN01TNlFPZlc4OFVIWFZmSHN1bS1MX3FQZUFjMzZOZmV2bEdlZ1FWc2w0bFhyNGE1RWVOSG4zbjJUOGxoT1hpY0UydUFXa0JQRFBQWDlEX2U5M0h4UjhFb3VMbFYzVXFxSkN5WEdRcXRkV1pCemxpUnZLMDZzN250S21VcWdnY2czdjM5RzJHd0lLakVTUDRISTZrcWRoeEpkZw?oc=5",
+                "date": "2026-05-28T07:00:00.000Z"
+            },
+            "whatsNew": "Stable Diffusion is being used to generate anime-style images with a mix of traditional elements, showcasing the potential of AI in creating unique art styles. The use of specific anime studios like Kyoto Animation as inspiration highlights the versatility of AI art generation. This trend is expected to continue as AI technology advances.",
+            "whyItMatters": "The ability of AI to generate stylized anime images can revolutionize the animation and gaming industries by providing new tools for artists and developers. It also opens up new possibilities for fan art and community engagement.",
+            "howToUse": "Artists and developers can utilize Stable Diffusion to generate unique anime-style images for their projects, and experiment with different prompts to achieve desired styles.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-g76qxextn",
             "title": "AI Art Prompt",
@@ -50,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kz7mn64yw",
@@ -2048,37 +2107,6 @@
             "isNew": false
         },
         {
-            "id": "t-3lh9fiunh",
-            "title": "Merkur Casino Update",
-            "subtitle": "Merkur Casino Entertainment UK Limited receives update from Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Merkur Casino",
-                "Gambling Commission",
-                "Licensing"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEZobDEtVnNVRE5yNlk0NTBBd3FtMlB6U0pKcmVlTVBxV29aTzZDa3BZbWdCQ3VYTnc3aEw5Xy14ZzByOS1rQzdYMHBvUUtuYzlJR3AzYV9BQS1uSk5teThUQVlwZEp4cW8wSTFfQUdaNVl6M3ZuTWhjSTBtVWg3bjVhdmU?oc=5",
-                "date": "2026-05-24T18:59:12.000Z"
-            },
-            "whatsNew": "Merkur Casino Entertainment UK Limited has received an update regarding its premises from the UK Gambling Commission. The update pertains to the premises located at SA7 9EQ. This move indicates ongoing regulatory oversight in the iGaming sector.",
-            "whyItMatters": "The update reflects the Gambling Commission's continued efforts to ensure compliance with gaming regulations, impacting the operations of Merkur Casino and similar entities. It underscores the importance of regulatory adherence in the iGaming industry.",
-            "howToUse": "Operators should ensure they are up-to-date with the latest regulatory requirements to avoid compliance issues. Regular checks with the Gambling Commission can help in maintaining a licensed status.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Merkur Casino Entertainment UK Limited"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-xcp97xae0",
             "title": "AI Image Checkpoint",
             "subtitle": "SoLordZ releases ZIT_v1.0, a ZImage checkpoint on Civitai",
@@ -2894,7 +2922,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": null
         },
         {
@@ -2913,7 +2941,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2922,7 +2950,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2931,7 +2959,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": "Regulatory updates"
         },
         {
@@ -2949,7 +2977,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2958,7 +2986,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2978,7 +3006,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3036,7 +3064,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3181,7 +3209,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T17:13:35.125Z",
+            "lastScan": "2026-06-07T19:18:33.359Z",
             "note": null
         },
         {
@@ -29271,6 +29299,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-3lh9fiunh",
+            "title": "Merkur Casino Update",
+            "subtitle": "Merkur Casino Entertainment UK Limited receives update from Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Merkur Casino",
+                "Gambling Commission",
+                "Licensing"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEZobDEtVnNVRE5yNlk0NTBBd3FtMlB6U0pKcmVlTVBxV29aTzZDa3BZbWdCQ3VYTnc3aEw5Xy14ZzByOS1rQzdYMHBvUUtuYzlJR3AzYV9BQS1uSk5teThUQVlwZEp4cW8wSTFfQUdaNVl6M3ZuTWhjSTBtVWg3bjVhdmU?oc=5",
+                "date": "2026-05-24T18:59:12.000Z"
+            },
+            "whatsNew": "Merkur Casino Entertainment UK Limited has received an update regarding its premises from the UK Gambling Commission. The update pertains to the premises located at SA7 9EQ. This move indicates ongoing regulatory oversight in the iGaming sector.",
+            "whyItMatters": "The update reflects the Gambling Commission's continued efforts to ensure compliance with gaming regulations, impacting the operations of Merkur Casino and similar entities. It underscores the importance of regulatory adherence in the iGaming industry.",
+            "howToUse": "Operators should ensure they are up-to-date with the latest regulatory requirements to avoid compliance issues. Regular checks with the Gambling Commission can help in maintaining a licensed status.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Merkur Casino Entertainment UK Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
