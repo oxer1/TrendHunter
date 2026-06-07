@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-07T15:22:39.671Z",
+        "scanDate": "2026-06-07T17:13:35.125Z",
         "version": "2.5.0",
-        "totalTrends": 86,
+        "totalTrends": 87,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g76qxextn",
+            "title": "AI Art Prompt",
+            "subtitle": "A highly detailed matte painting of a young boy using AI art generation",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Matte Painting",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnZySWVMVVNRcG91ZURnbTNJdTNvSUdaMDlodlFoS0o1bjlNMmx2Q0N4N0xlX0MwUDVpaTZhUTRPUEtMaEN0VDhEemhwLUhEY2VCYXZzZmRsLTJja2pLTjQ0WFJ6VWhrUUFiWVVXM2J5NmRURndsQkNManUtUzQyaTY4cVdJZ3ZuX0JUbmo1RU9uemVsQTZXRmt2OFJCb18wWmJKb3hoMDd1VVgwRXMxOE1lcG41VVlaRTNkc2p0VGcxcEFGTkJUN1hHbU5vQUs5bS11TWkzaVQ2cnNQbFE?oc=5",
+                "date": "2026-06-01T15:35:37.000Z"
+            },
+            "whatsNew": "The use of AI in generating highly detailed matte paintings is becoming increasingly popular. This technology allows for the creation of realistic and detailed images with minimal human input. The example given is a young boy, showcasing the versatility of AI art generation.",
+            "whyItMatters": "The development of AI art generation tools has the potential to revolutionize the field of digital art, making it more accessible and efficient. This technology can be used in various industries, including gaming, film, and advertising.",
+            "howToUse": "Artists and designers can use AI art generation tools to create highly detailed and realistic images, such as matte paintings, with minimal human input. This can be achieved by using prompts and fine-tuning the AI model to produce the desired output.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Game Developers",
+                "Advertisers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-kz7mn64yw",
             "title": "Gambling License",
@@ -47,7 +79,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qhhvosn25",
@@ -2862,7 +2894,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": null
         },
         {
@@ -2881,7 +2913,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2890,7 +2922,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2899,7 +2931,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": "Regulatory updates"
         },
         {
@@ -2917,7 +2949,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2926,7 +2958,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2946,7 +2978,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3004,7 +3036,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3149,7 +3181,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T15:22:39.671Z",
+            "lastScan": "2026-06-07T17:13:35.125Z",
             "note": null
         },
         {
