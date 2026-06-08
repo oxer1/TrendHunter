@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-08T03:41:19.055Z",
+        "scanDate": "2026-06-08T08:52:34.989Z",
         "version": "2.5.0",
-        "totalTrends": 92,
+        "totalTrends": 93,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,97 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6d0vggc2x",
+            "title": "AI Art Update",
+            "subtitle": "ArtGourieff releases IFAQ T2I v1.1 on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "T2I",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlBYdm45TkFxM0pNN3BleHB4TFZHam0zaGFxaHJfNGVIUkxmazhRanRNTVotRXhxZEI5bG5YS2Q2U2FJMkdlZlBLWGFIMDI3YnhKN0UxQk5GODR3RGxsc2gyZnp5ZmUwU1Z4STVrOUJPcnJjOXJPQzVzRDhyNzA3ODRmU1N4QjYwenhMdg?oc=5",
+                "date": "2026-06-08T06:34:43.000Z"
+            },
+            "whatsNew": "ArtGourieff's IFAQ T2I model has been updated to version 1.1, offering improved performance and quality. The update is available on Civitai, a platform for AI workflows.",
+            "whyItMatters": "This update showcases the rapid advancement of AI art generation tools, providing artists and developers with more efficient and high-quality solutions. It highlights the growing importance of platforms like Civitai in facilitating access to these technologies.",
+            "howToUse": "Developers and artists can utilize the updated IFAQ T2I model by accessing it through Civitai, integrating it into their workflows to enhance their AI art generation capabilities.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-0f5ya93ru",
+            "title": "Adobe AI Credits",
+            "subtitle": "Adobe introduces generative credits in their help center",
+            "category": "AI",
+            "tags": [
+                "Adobe",
+                "AI",
+                "Generative Credits"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5SSmY2VEVxQzBQVmU4eWEtOFRNbkxTRWoxVWp6bDdjRGNacXh2SlBQWS1RRWVUbEE3dlRhOFlPcFNYUTVNamxLdlFBanNDYUhfajl6WWEwYjk3TjlaQnIxVl9BbThsUF9nM1NuNWpJc0EtSjFkNlNBSEU5SllaVFNReENWMTl5RzBzU1FGREhCUQ?oc=5",
+                "date": "2026-06-01T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe has introduced a Generative Credits FAQ in their help center, indicating a deeper integration of AI tools in their software. This move suggests Adobe's commitment to AI-powered creativity. The FAQ is expected to guide users on how to use generative credits effectively.",
+            "whyItMatters": "The introduction of generative credits by Adobe signifies a significant step towards democratizing access to AI-powered creative tools, potentially changing the landscape of digital art and design. This development matters as it reflects the growing importance of AI in the creative industry.",
+            "howToUse": "Users can access the Generative Credits FAQ through the Adobe Help Center to learn more about leveraging AI in their creative workflows. By understanding how to use generative credits, users can unlock new possibilities in digital art and design.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-iy4at0aqs",
+            "title": "Adobe Premiere Update",
+            "subtitle": "Adobe introduces object masking in Premiere beta version",
+            "category": "Tech",
+            "tags": [
+                "Adobe Premiere",
+                "Object Masking",
+                "Video Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMC1uUDJxazZKUjJVd01UdTZMUzFvdTdSNXNmdkFYVV9XbUE2aU81cHVDSm1NYzktc0tQUHA2RldvREx0dGdVVVB2SXB5S1RlZTRtTHBhVklNSWtaM2k3RE5SeV9heXVENEZkZFVQS3BPRmhXMWNkc1hpXzd3RkNlMnBKU3ZSLVRvMk5yYURHWmlyeUIydFlCZmpR?oc=5",
+                "date": "2026-06-02T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe has introduced object masking in the beta version of Premiere, allowing for more precise video editing. This feature enables users to isolate and manipulate specific objects within a video. The object masking tool uses AI to automatically detect and track objects.",
+            "whyItMatters": "The introduction of object masking in Premiere will significantly enhance the video editing capabilities of the software, making it more competitive in the market. This feature will be particularly useful for professionals in the video editing and visual effects industry.",
+            "howToUse": "To access the object masking feature, users need to update to the beta version of Premiere and navigate to the effects panel. From there, they can apply the object masking effect to their video clips and adjust the settings as needed.",
+            "beneficiaries": [
+                "Video Editors",
+                "Visual Effects Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-2uzysbiy8",
             "title": "Cinematic Avatar",
@@ -49,7 +140,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-eykaw0bpy",
@@ -80,7 +171,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-khxvgfwou",
@@ -111,7 +202,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-20xx0ho5t",
@@ -142,7 +233,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-35gjafy9a",
@@ -2263,37 +2354,6 @@
             "isNew": false
         },
         {
-            "id": "t-lqa8rund9",
-            "title": "Lenovo UltraReal",
-            "subtitle": "Lenovo releases UltraReal, an AI-powered animation tool on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Animation",
-                "Lenovo",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
-                "date": "2026-05-25T07:00:00.000Z"
-            },
-            "whatsNew": "Lenovo has released UltraReal, a cutting-edge AI animation tool. This tool utilizes Anima LoRA technology for advanced animation capabilities. The release is part of Lenovo's foray into AI-powered creative tools.",
-            "whyItMatters": "The introduction of Lenovo UltraReal signifies a major tech company's commitment to AI for creative work, potentially expanding access to advanced animation tools. This could have a significant impact on the gaming and animation industries.",
-            "howToUse": "Developers and animators can utilize Lenovo UltraReal to create more realistic and detailed animations, integrating the tool into their existing workflows for enhanced productivity.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Lenovo"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-animation",
-            "isNew": false
-        },
-        {
             "id": "t-gg40b3ydf",
             "title": "Cyborg Art",
             "subtitle": "A futuristic cyborg boy art prompt is featured on PromptHero",
@@ -2510,37 +2570,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-oeg0tzqlm",
-            "title": "Colossyan Alternatives",
-            "subtitle": "Synthesia reviews the best Colossyan alternatives in 2026",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Synthesia",
-                "Colossyan alternatives"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zVndHN1dmckdBVmJRbWZqd2VOdjdpcVU1NzAyekQtVHk0alczZjJQaFp6X0xlOHpaZjQ0YkJJeFZYUlZlc2xvcGY3S0NsNVpDVFk1aWg3LUFRam9rVThvMDZEOHFtcFUz?oc=5",
-                "date": "2026-05-25T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia has tested and ranked the top 5 alternatives to Colossyan, a popular AI video creation platform. The alternatives offer advanced features and improved performance. These alternatives are gaining popularity among content creators.",
-            "whyItMatters": "The rise of AI video tools is transforming the content creation landscape, and finding the right alternative to Colossyan can be crucial for businesses and individuals. These alternatives can help users create high-quality video content efficiently.",
-            "howToUse": "Content creators can explore these alternatives to find the one that best suits their needs and budget. They can also experiment with different features and tools to optimize their video creation workflow.",
-            "beneficiaries": [
-                "Content creators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -3046,7 +3075,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": null
         },
         {
@@ -3065,7 +3094,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3074,7 +3103,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3083,7 +3112,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "Regulatory updates"
         },
         {
@@ -3101,7 +3130,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3110,7 +3139,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3130,7 +3159,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3188,7 +3217,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3197,7 +3226,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3206,7 +3235,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "Style browsing signal"
         },
         {
@@ -3243,7 +3272,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": null
         },
         {
@@ -3252,7 +3281,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": null
         },
         {
@@ -3261,7 +3290,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": null
         },
         {
@@ -3288,7 +3317,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3333,7 +3362,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T03:41:19.055Z",
+            "lastScan": "2026-06-08T08:52:34.989Z",
             "note": null
         },
         {
@@ -29454,6 +29483,68 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-lqa8rund9",
+            "title": "Lenovo UltraReal",
+            "subtitle": "Lenovo releases UltraReal, an AI-powered animation tool on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Animation",
+                "Lenovo",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
+                "date": "2026-05-25T07:00:00.000Z"
+            },
+            "whatsNew": "Lenovo has released UltraReal, a cutting-edge AI animation tool. This tool utilizes Anima LoRA technology for advanced animation capabilities. The release is part of Lenovo's foray into AI-powered creative tools.",
+            "whyItMatters": "The introduction of Lenovo UltraReal signifies a major tech company's commitment to AI for creative work, potentially expanding access to advanced animation tools. This could have a significant impact on the gaming and animation industries.",
+            "howToUse": "Developers and animators can utilize Lenovo UltraReal to create more realistic and detailed animations, integrating the tool into their existing workflows for enhanced productivity.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Lenovo"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-animation",
+            "isNew": false
+        },
+        {
+            "id": "t-oeg0tzqlm",
+            "title": "Colossyan Alternatives",
+            "subtitle": "Synthesia reviews the best Colossyan alternatives in 2026",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Synthesia",
+                "Colossyan alternatives"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zVndHN1dmckdBVmJRbWZqd2VOdjdpcVU1NzAyekQtVHk0alczZjJQaFp6X0xlOHpaZjQ0YkJJeFZYUlZlc2xvcGY3S0NsNVpDVFk1aWg3LUFRam9rVThvMDZEOHFtcFUz?oc=5",
+                "date": "2026-05-25T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia has tested and ranked the top 5 alternatives to Colossyan, a popular AI video creation platform. The alternatives offer advanced features and improved performance. These alternatives are gaining popularity among content creators.",
+            "whyItMatters": "The rise of AI video tools is transforming the content creation landscape, and finding the right alternative to Colossyan can be crucial for businesses and individuals. These alternatives can help users create high-quality video content efficiently.",
+            "howToUse": "Content creators can explore these alternatives to find the one that best suits their needs and budget. They can also experiment with different features and tools to optimize their video creation workflow.",
+            "beneficiaries": [
+                "Content creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
