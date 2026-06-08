@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-08T20:11:01.334Z",
+        "scanDate": "2026-06-08T22:24:00.461Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 97,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-zu6g7qagz",
+            "title": "AI Art Generation",
+            "subtitle": "Hyper-realistic painting of a beautiful girl using AI prompts",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Hyper-realistic",
+                "Painting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlN6aUl3STNzZEx0MzV0cFBOelhLQk5XREt1cGQ4M2xmRmZ3NFJRNFpxckprVHNMLVI5VHFUWjhGOU1wZ1Z0WnBaY2VoRmFETVNlZEV6UHhNYW9KMWxaWkhURmFCN05SVjVHemdqMmJlZnNLS2pWY1prSTIwdlo2R1luMmpJX2ZFb3drWGM4ZWphTDRYaHF6TmR0Wjh0R08yNFZMSVJndXpTOVVRcGNLNXdiUHJfZzlIX2w5N0xsV2kxaWh0anRzRFVReHB6Y01ULWVlU2dUWWlxR3dPdlpsQ1BTMlpfN2Q2YWNCWjYzV1Y0MldUSGRZNVVDVE9jdUxyb09ib2JoT2k?oc=5",
+                "date": "2026-06-07T23:21:19.000Z"
+            },
+            "whatsNew": "The use of AI prompts to generate hyper-realistic paintings is becoming increasingly popular, with platforms like PromptHero leading the way. This technology allows for the creation of highly detailed and realistic images. The application of such technology in art and design is expanding rapidly.",
+            "whyItMatters": "The ability to generate high-quality, realistic images using AI has significant implications for the art and design industries. It enables new forms of creative expression and can automate certain aspects of the design process.",
+            "howToUse": "Artists and designers can utilize AI art generation tools like PromptHero to create stunning, hyper-realistic images, streamlining their workflow and exploring new creative possibilities.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-bzghj7i99",
             "title": "Stable Diffusion",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fqdajyy2u",
@@ -80,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xmuhg13i2",
@@ -3166,7 +3197,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": null
         },
         {
@@ -3185,7 +3216,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3194,7 +3225,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3203,7 +3234,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "Regulatory updates"
         },
         {
@@ -3221,7 +3252,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3230,7 +3261,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3250,7 +3281,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3308,7 +3339,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3317,7 +3348,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3326,7 +3357,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": "Style browsing signal"
         },
         {
@@ -3363,7 +3394,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": null
         },
         {
@@ -3453,7 +3484,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-08T22:24:00.461Z",
             "note": null
         },
         {
