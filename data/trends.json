@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-08T17:21:33.687Z",
+        "scanDate": "2026-06-08T20:11:01.334Z",
         "version": "2.5.0",
-        "totalTrends": 94,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-bzghj7i99",
+            "title": "Stable Diffusion",
+            "subtitle": "Stable Diffusion prompt for fashion shoot with Jacquemus and Mo",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Fashion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOU0V3SWtobjZLZGM2MmREbS1KN2w3elFHTVlxMGFVOEdxbllRZTF4bll6Ym5qRWtsM3d3U1RMTnFaM3lzeWltNFh4aVQ0OWh3ZDhUSUo3MXctRFVheUxtdnB4RjRydFhiRFlKTHBVSFNlR1ZXVG1KNVVSYW5RWmJTX1lwMlgySkwwT05QVHMzcWdlcnh3SE11LTQ2RXdqb2RLUmZYOXBLOHJlZHhWNkpFNWJ1MWVvXzdRV1g2ajF3WGVqbThJU0htNWU4cU91UkZhSjUxc1p6Wi1TdnVrTG1JcFFhZ0xQNmF4SEhuT2dPZ2NUcTluLXF4a01PN3pnU3dlU1lQeENVMWNtQjBiX0FVVlBON3hZTDhMZlZuV0dOMENtaFM4Q2c?oc=5",
+                "date": "2026-05-28T07:00:00.000Z"
+            },
+            "whatsNew": "Stable Diffusion is being used for generating fashion shoot prompts, including those inspired by Jacquemus and Mo. This showcases the versatility of AI in creative fields. The use of Stable Diffusion for such specific and detailed prompts highlights its growing capability.",
+            "whyItMatters": "The application of Stable Diffusion in fashion demonstrates AI's potential to revolutionize creative industries. It enables the rapid generation of ideas and concepts, potentially streamlining the design process.",
+            "howToUse": "Utilize Stable Diffusion by inputting detailed prompts related to your desired fashion shoot theme, exploring different styles and inspirations like Jacquemus and Mo.",
+            "beneficiaries": [
+                "Fashion Designers",
+                "Art Directors"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-fqdajyy2u",
+            "title": "AI Image Prompt",
+            "subtitle": "Grok Image prompt released by PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Image Generation",
+                "Grok Image",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPS0RpSC1HbGdWX0pvSnJEQ25XLVZibUtYWV94bHVscUs5SV9DQWltcUFmLTNXNU15OXFyd1VBLUhRNjRmdERTNm9lcGI0V0UydUYzQnZaVG16WXVCTWtoV2thR3pOb29jcTFCS0F2NDJHQkRwRVRhVjlqWkRkNFYzUGxaWmlrbnlnMkdGaUg4LUpPMlEyX25tbnZHNWdnT0FTOFpVUTVYS2NtUk16N2FQN0hrRElIMFhuWnNnVXhCTnA3VU9fbGVQUlEyXzZ0R1dPaEJkTFdlbUJtTTVhZzBVeE5yTTYwcVl3bEZXYWlvT0Z2WlNNRmI0UnAtUTlKZGM4dllJcUlQN09SOVlGVGhOTEhxWFVWc2JLa0k2b2NvOGFTZnVSZkdDUlJPQUdLTnFwNjVjblBZT0ZRek1mN0MxZzJGaUNxZmdwZHVwYndzYjVRM3RJRDF3?oc=5",
+                "date": "2026-05-28T07:00:00.000Z"
+            },
+            "whatsNew": "PromptHero releases Grok Image prompt with version 1.2 and locale es-VE. This new prompt aims to improve image generation capabilities.",
+            "whyItMatters": "The release of Grok Image prompt can significantly impact the field of AI image generation, providing more advanced and localized tools for users. This can lead to increased adoption and innovation in the industry.",
+            "howToUse": "Developers and artists can utilize the Grok Image prompt to generate high-quality images, exploring its capabilities and integrating it into their workflows.",
+            "beneficiaries": [
+                "Developers",
+                "Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-xmuhg13i2",
             "title": "New Director",
@@ -3104,7 +3166,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": null
         },
         {
@@ -3123,7 +3185,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3132,7 +3194,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3141,7 +3203,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "Regulatory updates"
         },
         {
@@ -3159,7 +3221,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3168,7 +3230,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3188,7 +3250,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3246,7 +3308,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3255,7 +3317,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3264,7 +3326,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": "Style browsing signal"
         },
         {
@@ -3301,7 +3363,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": null
         },
         {
@@ -3310,7 +3372,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": null
         },
         {
@@ -3391,7 +3453,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-08T20:11:01.334Z",
             "note": null
         },
         {
