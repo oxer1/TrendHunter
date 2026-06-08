@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-07T23:02:27.191Z",
+        "scanDate": "2026-06-08T03:41:19.055Z",
         "version": "2.5.0",
-        "totalTrends": 88,
+        "totalTrends": 92,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,130 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2uzysbiy8",
+            "title": "Cinematic Avatar",
+            "subtitle": "HeyGen introduces Cinematic Avatar technology",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Avatar Generation",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15UC1hRlk3MmU0eF8zZ3UwSElUdnlvbk9ldXNjOWxXNk8zeEJPb1dkcmdGQTRTRE43Y2JQYkNBd3ZzQm0xQmxDTTJva0FDOUZSZ2Z3dA?oc=5",
+                "date": "2026-06-01T20:25:44.000Z"
+            },
+            "whatsNew": "HeyGen has introduced Cinematic Avatar, a new technology for generating realistic avatars. This technology has the potential to revolutionize the field of AI-generated content. It can be used to create realistic characters for various applications.",
+            "whyItMatters": "The introduction of Cinematic Avatar technology by HeyGen matters because it can significantly improve the quality of AI-generated content, making it more realistic and engaging. This can have a major impact on the gaming and entertainment industries.",
+            "howToUse": "Developers and content creators can use Cinematic Avatar to generate realistic characters for their applications, enhancing the user experience and improving engagement.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-eykaw0bpy",
+            "title": "AI Video Tutorials",
+            "subtitle": "HeyGen introduces AI video maker for creating engaging tutorials",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "HeyGen",
+                "Tutorials"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10c2ZveHRUU2NWbjBqLWlITzBIYnlFLWRXenBvTmdvV1NpdFhhOERmVHU3RGxUdUZRZl9tMzlZdWNnUGJyelJONWZhS0FCYWJaUFc4b2N0aWpiWXZfWWJ5Tw?oc=5",
+                "date": "2026-06-04T13:16:27.000Z"
+            },
+            "whatsNew": "HeyGen's AI video maker allows users to create engaging AI tutorials. This tool leverages AI to simplify the tutorial creation process. It enables the production of high-quality video content with ease.",
+            "whyItMatters": "The introduction of HeyGen's AI video maker impacts the way tutorials are created, making it easier for educators and content creators to produce engaging video content. This can lead to more effective learning experiences.",
+            "howToUse": "To utilize HeyGen's AI video maker, users can explore the platform's features and templates to create customized tutorials. This involves inputting content and allowing the AI to generate a polished video.",
+            "beneficiaries": [
+                "Educators",
+                "Content Creators"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-khxvgfwou",
+            "title": "Spine Unity Tutorial",
+            "subtitle": "A beginner's guide to exporting with Spine 2D for Unity",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Unity",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9hQ2RLOUNPLW1OeWMzQngzNmZlazk1QVVpLWhRanJ6VVVreE5YY2h5a2NkLV9kQTg3SThoRlo1NE5pcE1VOHFv?oc=5",
+                "date": "2026-06-04T07:00:00.000Z"
+            },
+            "whatsNew": "Esoteric Spine released a tutorial for beginners on exporting with Spine 2D for Unity, focusing on the basics of Spine-Unity integration. The tutorial aims to simplify the process for new users. It covers key aspects of setting up and exporting animations.",
+            "whyItMatters": "This tutorial is important for game developers who use Unity and Spine 2D, as it provides a clear guide on how to integrate and export animations, enhancing their game development workflow.",
+            "howToUse": "Developers can use this tutorial to learn the fundamentals of exporting Spine 2D animations for Unity, improving their game development skills and workflow efficiency.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-20xx0ho5t",
+            "title": "Spine Unity Error",
+            "subtitle": "Spine-Unity 4.1 encounters error reading skeleton json from version 4.3.08",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Unity",
+                "Game Development"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWx4R2QzVGdjbTJJYXZ6cVF3V1F4SmVPWEpEQm9aYWk1TXBlTXFCdzk5N0JZX04zR21MdmR5OXNFTHFHcGplU1FmOTA2eE9zcXB2WHVUTXpJN3dTaDFRbWZZMXBMUE4tb1BNSi00ay16M292SkR6WENjZ0hIeGJTdG9GcDBFUG44Vnh1ai1WMUs2MEEtMDVwMnhUVXJXOTBCRWN6anVOaGdrR0NjWUE?oc=5",
+                "date": "2026-06-07T11:21:27.000Z"
+            },
+            "whatsNew": "The Spine-Unity 4.1 version is experiencing compatibility issues with skeleton json files from version 4.3.08, resulting in errors. This affects game development using Spine 2D. The error is specifically related to reading the json files.",
+            "whyItMatters": "This error impacts game developers who use Spine and Unity for their projects, potentially delaying development. Resolving this compatibility issue is crucial for smooth game development.",
+            "howToUse": "Developers should check for updates or patches from Esoteric Software to resolve the compatibility issue or seek alternative versions of Spine-Unity that are compatible with their current workflow.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Users"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-35gjafy9a",
             "title": "AI Protects Kids",
@@ -2922,7 +3046,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.191Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": null
         },
         {
@@ -2941,7 +3065,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-07T23:02:27.191Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2950,7 +3074,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.191Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2959,7 +3083,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.191Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "Regulatory updates"
         },
         {
@@ -2977,7 +3101,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.191Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2986,7 +3110,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.191Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3006,7 +3130,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-07T23:02:27.192Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3064,7 +3188,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.192Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3073,7 +3197,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.192Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3082,7 +3206,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.192Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "Style browsing signal"
         },
         {
@@ -3119,7 +3243,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.192Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": null
         },
         {
@@ -3128,7 +3252,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": null
         },
         {
@@ -3137,7 +3261,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-07T08:52:30.653Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": null
         },
         {
@@ -3164,7 +3288,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T05:20:43.301Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3209,7 +3333,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-07T23:02:27.192Z",
+            "lastScan": "2026-06-08T03:41:19.055Z",
             "note": null
         },
         {
