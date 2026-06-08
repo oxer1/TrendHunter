@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-08T08:52:34.989Z",
+        "scanDate": "2026-06-08T13:05:24.052Z",
         "version": "2.5.0",
-        "totalTrends": 93,
+        "totalTrends": 95,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,66 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xmuhg13i2",
+            "title": "New Director",
+            "subtitle": "DCMS appoints new director of sport and gambling",
+            "category": "iGaming",
+            "tags": [
+                "DCMS",
+                "Gambling Regulation",
+                "Sports Betting"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjdoYTNnWWRUTWFzUzZ2QldIVFdRVm9xZ0NyWF9UWVlVbnFSeUQ0UXR3ZUdDUVppVFZ4d3JuUFhFQ0dXaGxjTGQ1c0dkTmoySmRQeVNvNUdtYW9oakJMdDNhTDVTLVp4d1FCQ2JEQkJNanlRR2VDRFVmVFNIWEFqTlBJalFBZw?oc=5",
+                "date": "2026-06-08T09:01:34.000Z"
+            },
+            "whatsNew": "The DCMS has appointed a new director of sport and gambling, indicating potential changes in regulatory oversight. This move may impact the iGaming industry's operations and policies. The new director's priorities and approach are yet to be announced.",
+            "whyItMatters": "The appointment of a new director may lead to changes in gambling regulations, affecting the iGaming industry. This could impact companies' compliance and operational strategies.",
+            "howToUse": "iGaming companies should monitor DCMS announcements and adjust their strategies according to potential regulatory changes. Staying informed about the new director's priorities is crucial for compliance and business planning.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-ncq504pne",
+            "title": "Stake Marketing Campaign",
+            "subtitle": "Stake launches a new star-studded marketing campaign for the World Cup",
+            "category": "iGaming",
+            "tags": [
+                "Stake",
+                "Marketing Campaign",
+                "World Cup"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczNLN1BMUU9iUEtGY0V0YUo2U21CYzZHUmpBcE9nMFdJUnJoZFBral8tX3dfdUlpS2xpemY3cWpjd3lXa2tjNDl3NHAybkhUdm1DUzNaNmh2UTdIZ0NFRV9sUnFxLUJTQ1IyeTFCbDFyTnpSNEdCNVVPR1FGbktwLVhocHRKeUJvMXZfSzRTWnBxM1FicmdNdVBLZzJiUXFK?oc=5",
+                "date": "2026-06-08T10:46:43.000Z"
+            },
+            "whatsNew": "Stake has launched a new marketing campaign featuring stars for the World Cup, aiming to increase brand visibility and engagement. The campaign is part of Stake's efforts to expand its reach and customer base. This move highlights the growing importance of strategic marketing in the iGaming industry.",
+            "whyItMatters": "The campaign matters as it showcases Stake's commitment to innovative marketing strategies, potentially influencing other iGaming companies to follow suit. It also underscores the significance of the World Cup as a platform for iGaming marketing.",
+            "howToUse": "iGaming companies can leverage similar star-studded campaigns to boost their brand during major sporting events, focusing on engaging content and strategic partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "Stake"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-6d0vggc2x",
             "title": "AI Art Update",
@@ -47,7 +107,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0f5ya93ru",
@@ -78,7 +138,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-iy4at0aqs",
@@ -109,7 +169,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2uzysbiy8",
@@ -3075,7 +3135,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": null
         },
         {
@@ -3094,7 +3154,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3103,7 +3163,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3112,7 +3172,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "Regulatory updates"
         },
         {
@@ -3130,7 +3190,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3139,7 +3199,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3159,7 +3219,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3217,7 +3277,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3226,7 +3286,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3235,7 +3295,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "Style browsing signal"
         },
         {
@@ -3272,7 +3332,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": null
         },
         {
@@ -3281,7 +3341,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": null
         },
         {
@@ -3290,7 +3350,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": null
         },
         {
@@ -3317,7 +3377,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3362,7 +3422,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T08:52:34.989Z",
+            "lastScan": "2026-06-08T13:05:24.052Z",
             "note": null
         },
         {
