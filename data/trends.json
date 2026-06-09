@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-09T05:03:09.249Z",
+        "scanDate": "2026-06-09T09:37:56.557Z",
         "version": "2.5.0",
-        "totalTrends": 98,
+        "totalTrends": 97,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9dsxlo56j",
+            "title": "Finnish Licenses",
+            "subtitle": "Finnish regulator receives 50 licence applications since March",
+            "category": "iGaming",
+            "tags": [
+                "Finnish regulator",
+                "licence applications",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHRmdjItNFVDZzdSSno0QnBCUjZ2MS1zT2pQd19vcnIyQkd1eU9jczVJQkplX2JEbkVLb3pScFVnc0YzOTExbnF2ZWxFSmFXRHZlaEMyanJ5eTVFcmRIM2hvWUFsU1haTHpXd2lSTk9ob3pSR18yMWx0UDlBQW1vYldNa2ZhNTY1eHFIU0lKOE5sMV9BRG5uenBMVDdkZTJndVdyUkFlbEw2blFzRGNRUjN3cw?oc=5",
+                "date": "2026-06-09T09:25:33.000Z"
+            },
+            "whatsNew": "The Finnish regulator has seen a surge in licence applications, with 50 submitted since March. This indicates a growing interest in the Finnish iGaming market. The regulator's decision on these applications will shape the market's future.",
+            "whyItMatters": "The influx of licence applications in Finland highlights the country's potential for iGaming growth. It also underscores the importance of regulatory oversight in shaping the industry's development.",
+            "howToUse": "Operators looking to enter the Finnish market should prepare for a potentially competitive landscape and ensure compliance with local regulations.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Finnish regulator"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-i6wizum46",
             "title": "Spine 2D Issue",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zu6g7qagz",
@@ -2507,38 +2536,6 @@
             "isNew": false
         },
         {
-            "id": "t-gg40b3ydf",
-            "title": "Cyborg Art",
-            "subtitle": "A futuristic cyborg boy art prompt is featured on PromptHero",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Cyborg",
-                "Art Prompt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbXRCR1dubzZRb3BDTmJfdlUzaVB0QmVWa2NYZ05GeDRxbGVacHl6NThPeS11czdnOE5rMXd6NnZRZkItVUZCZmhwZXJ3SWhDY2hrVi1zREhSVjZ2N0ppa191dGU0ZVpVYXhoT1lfb2szbGJKal9KVUw4Y2l5TmtESGVzc2RjZmJ3V3Utc0hBR082TWNTRmJMSjlCaE82cTFzV0t1SWVwSi1RLXJialZKZVRCdHVpTWdmZmo3SUhGb2NlSlRkcDlfMjRidDJpZ3AzVGpMZmVveUNQMTJVN3RTTzg0YnBPU1p6aW5lbXpnMWtVSVozMnJKNmEzQXZ4S2hCNXVVRVJDQ21uWFg3RmhDRmdRZG14OHpiUEJoX0h5RQ?oc=5",
-                "date": "2026-05-26T06:21:14.000Z"
-            },
-            "whatsNew": "The art prompt features a futuristic cyborg boy with captivating details, showcasing the potential of AI-generated art. This prompt can inspire new ideas in AI art generation. The use of such prompts can lead to innovative art styles.",
-            "whyItMatters": "This art prompt matters as it demonstrates the capabilities of AI in generating unique and captivating art, which can be used in various industries such as gaming and entertainment. It also highlights the potential of AI art generation in creating new and innovative art styles.",
-            "howToUse": "Artists and designers can use this prompt to generate new ideas and inspiration for their work, and can also experiment with different AI art generation tools to create unique and captivating art.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-jprvrviuv",
             "title": "AI Reels Maker",
             "subtitle": "Create Instagram Reels with AI online using Open Art AI",
@@ -3043,35 +3040,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-s7z1kpjwu",
-            "title": "UK Deposit Limits",
-            "subtitle": "UK Gambling Commission extends implementation for new deposit limit requirements",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Deposit Limits",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNThmd3dxd3Awc1JqZG1CUzlwN0w3MlBFSnhyVUxvV1EtbkVmZlhHdngwOU9GVTh1S3FlVUFldkVoWU45MGNZZUxwTTduclNTMGxabjZrNFZDZ3p0YjhHak5qa0UwYk1NMXdyOTV3ejFrWEtYR2NHV1lnWUdqSXhBUV8yNEdSVXdxTEFSeEhPNXdfUXE1eGM3UXNVREZuU0Qzem9yT2s4dk5ncFNaTW9Z?oc=5",
-                "date": "2026-05-26T09:13:03.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has extended the implementation timeline for new deposit limit requirements. This change aims to enhance player protection and responsible gambling practices.",
-            "whyItMatters": "The extension allows operators more time to adapt to the new requirements, ensuring a smoother transition and better compliance with regulatory standards.",
-            "howToUse": "Operators should review and adjust their deposit limit systems to meet the new requirements, prioritizing player protection and responsible gambling.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3228,7 +3196,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": null
         },
         {
@@ -3247,7 +3215,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3256,7 +3224,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3265,7 +3233,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "Regulatory updates"
         },
         {
@@ -3283,7 +3251,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3292,7 +3260,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3312,7 +3280,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3370,7 +3338,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3379,7 +3347,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3388,7 +3356,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "Style browsing signal"
         },
         {
@@ -3425,7 +3393,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": null
         },
         {
@@ -3434,7 +3402,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": null
         },
         {
@@ -3443,7 +3411,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": null
         },
         {
@@ -3470,7 +3438,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3515,7 +3483,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T05:03:09.249Z",
+            "lastScan": "2026-06-09T09:37:56.557Z",
             "note": null
         },
         {
@@ -29729,6 +29697,67 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gg40b3ydf",
+            "title": "Cyborg Art",
+            "subtitle": "A futuristic cyborg boy art prompt is featured on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Cyborg",
+                "Art Prompt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbXRCR1dubzZRb3BDTmJfdlUzaVB0QmVWa2NYZ05GeDRxbGVacHl6NThPeS11czdnOE5rMXd6NnZRZkItVUZCZmhwZXJ3SWhDY2hrVi1zREhSVjZ2N0ppa191dGU0ZVpVYXhoT1lfb2szbGJKal9KVUw4Y2l5TmtESGVzc2RjZmJ3V3Utc0hBR082TWNTRmJMSjlCaE82cTFzV0t1SWVwSi1RLXJialZKZVRCdHVpTWdmZmo3SUhGb2NlSlRkcDlfMjRidDJpZ3AzVGpMZmVveUNQMTJVN3RTTzg0YnBPU1p6aW5lbXpnMWtVSVozMnJKNmEzQXZ4S2hCNXVVRVJDQ21uWFg3RmhDRmdRZG14OHpiUEJoX0h5RQ?oc=5",
+                "date": "2026-05-26T06:21:14.000Z"
+            },
+            "whatsNew": "The art prompt features a futuristic cyborg boy with captivating details, showcasing the potential of AI-generated art. This prompt can inspire new ideas in AI art generation. The use of such prompts can lead to innovative art styles.",
+            "whyItMatters": "This art prompt matters as it demonstrates the capabilities of AI in generating unique and captivating art, which can be used in various industries such as gaming and entertainment. It also highlights the potential of AI art generation in creating new and innovative art styles.",
+            "howToUse": "Artists and designers can use this prompt to generate new ideas and inspiration for their work, and can also experiment with different AI art generation tools to create unique and captivating art.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-s7z1kpjwu",
+            "title": "UK Deposit Limits",
+            "subtitle": "UK Gambling Commission extends implementation for new deposit limit requirements",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Deposit Limits",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNThmd3dxd3Awc1JqZG1CUzlwN0w3MlBFSnhyVUxvV1EtbkVmZlhHdngwOU9GVTh1S3FlVUFldkVoWU45MGNZZUxwTTduclNTMGxabjZrNFZDZ3p0YjhHak5qa0UwYk1NMXdyOTV3ejFrWEtYR2NHV1lnWUdqSXhBUV8yNEdSVXdxTEFSeEhPNXdfUXE1eGM3UXNVREZuU0Qzem9yT2s4dk5ncFNaTW9Z?oc=5",
+                "date": "2026-05-26T09:13:03.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has extended the implementation timeline for new deposit limit requirements. This change aims to enhance player protection and responsible gambling practices.",
+            "whyItMatters": "The extension allows operators more time to adapt to the new requirements, ensuring a smoother transition and better compliance with regulatory standards.",
+            "howToUse": "Operators should review and adjust their deposit limit systems to meet the new requirements, prioritizing player protection and responsible gambling.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
