@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-09T00:03:09.735Z",
+        "scanDate": "2026-06-09T05:03:09.249Z",
         "version": "2.5.0",
-        "totalTrends": 97,
+        "totalTrends": 98,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-i6wizum46",
+            "title": "Spine 2D Issue",
+            "subtitle": "macOS Tahoe topbar issue reported with Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "macOS Tahoe",
+                "Topbar Issue"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYmp5R0lVS05PdnB0U3VIazFaaEs3WmFhbFRaRkJwNVJqOTU2azJCSkZMa0tGajFVc0pzZ00zTVlCM3FlSjlPYnlKVXFWYTN2aXJUcWxnajgzbjZnT0hJM1djVTlyS2tSTWFRaVgwM2dWT29RTXVN?oc=5",
+                "date": "2026-06-08T19:41:21.000Z"
+            },
+            "whatsNew": "A topbar issue has been reported with Spine 2D on macOS Tahoe. The issue causes the topbar to appear frizzy.",
+            "whyItMatters": "This issue may affect the user experience for developers using Spine 2D on macOS Tahoe. A resolution to this issue would improve the overall usability of the software.",
+            "howToUse": "Developers can try updating their Spine 2D software or contacting Esoteric support for a potential fix.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
         {
             "id": "t-zu6g7qagz",
             "title": "AI Art Generation",
@@ -3197,7 +3228,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": null
         },
         {
@@ -3216,7 +3247,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3225,7 +3256,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3234,7 +3265,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "Regulatory updates"
         },
         {
@@ -3252,7 +3283,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3261,7 +3292,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3281,7 +3312,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3339,7 +3370,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3348,7 +3379,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3357,7 +3388,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "Style browsing signal"
         },
         {
@@ -3394,7 +3425,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": null
         },
         {
@@ -3403,7 +3434,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T20:11:01.334Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": null
         },
         {
@@ -3412,7 +3443,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": null
         },
         {
@@ -3439,7 +3470,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-08T17:21:33.687Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3484,7 +3515,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T00:03:09.735Z",
+            "lastScan": "2026-06-09T05:03:09.249Z",
             "note": null
         },
         {
