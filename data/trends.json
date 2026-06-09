@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-09T15:53:01.333Z",
+        "scanDate": "2026-06-09T17:59:53.696Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 97,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9fo7pu4e6",
+            "title": "DraftKings Growth",
+            "subtitle": "DraftKings Predictions sees $3.1bn annualized trading volume in May",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Sports Betting",
+                "Trading Volume"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlFUVEFsaUNCaUdqNEVTM0VwS1I3THZnLVpMZmxxQXBkZ0puOUlweWpGUUIyUEpBYWFyMmdUSFRFb1VPY2tGU1FBalhWNHRTT00xSWl6UFZvcVZjUmNBWGFZNlFZSXRDZzFzekFxdE5QX1dJekY4dFlVNnJNZXRmN19CX0w3dl91ZE1XYmJSVXJNSEdiSGVnQl9laVR5REtVeE5OaEJkWXhCN3gwdU9hVktiZTR2VkQtQmc?oc=5",
+                "date": "2026-06-09T16:08:12.000Z"
+            },
+            "whatsNew": "DraftKings Predictions has achieved a significant milestone with $3.1bn in annualized trading volume during May, indicating strong growth in the sports betting sector. This surge in trading volume reflects increasing user engagement and confidence in the platform. The achievement positions DraftKings as a major player in the iGaming industry.",
+            "whyItMatters": "The substantial trading volume underscores the potential for significant revenue generation and highlights the growing importance of sports betting in the iGaming landscape. It also indicates a competitive edge for DraftKings in the market.",
+            "howToUse": "Operators and investors can leverage this trend by focusing on enhancing user experience, expanding market reach, and developing innovative betting products to capitalize on the growing demand for sports betting.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-y12nbo241",
             "title": "AI Motion Graphics",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tp7l6qcm3",
@@ -3162,7 +3193,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.696Z",
             "note": null
         },
         {
@@ -3181,7 +3212,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.696Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3190,7 +3221,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3199,7 +3230,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": "Regulatory updates"
         },
         {
@@ -3217,7 +3248,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3226,7 +3257,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3246,7 +3277,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3304,7 +3335,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3313,7 +3344,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3449,7 +3480,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-09T17:59:53.697Z",
             "note": null
         },
         {
