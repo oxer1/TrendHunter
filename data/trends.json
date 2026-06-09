@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-09T09:37:56.557Z",
+        "scanDate": "2026-06-09T12:34:37.426Z",
         "version": "2.5.0",
-        "totalTrends": 97,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-tp7l6qcm3",
+            "title": "Mecca Bingo Update",
+            "subtitle": "Mecca Bingo Clubs receive attention from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Mecca Bingo",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbk1WWlpSVlVXRUtTcFhPTm9obm44TFE5Wi1NanV6aVdXT2dvUERpVHh3TmVfNHVhZ1lWTDh6TUZUck9ZNTlLc3ladUlzWlM5bTRXYUpSNUdWYW42U2N0MUtQQl9UWkI3NlZ6cVU4cV9icW5ZY0tCa1dONGJ2aXRaOVNzdw?oc=5",
+                "date": "2026-06-08T09:14:49.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken notice of Mecca Bingo Clubs, potentially indicating regulatory actions or updates. This could impact the operations of Mecca Bingo. The specifics of the attention are not detailed in the provided information.",
+            "whyItMatters": "This development matters because it could affect the regulatory landscape for bingo clubs and the broader iGaming industry in the UK. It may also have implications for consumer protection and gambling regulation.",
+            "howToUse": "Operators and stakeholders should monitor the situation closely for any updates or changes in regulations that might affect their operations or compliance requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Mecca Bingo"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-9dsxlo56j",
             "title": "Finnish Licenses",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-i6wizum46",
@@ -2723,37 +2754,6 @@
             "isNew": false
         },
         {
-            "id": "t-u6nl7rb7s",
-            "title": "AI Art Prompt",
-            "subtitle": "A lone desert scout riding a robotic reptile-like creature, generated using AI art tools",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Robotics",
-                "Desert Landscape"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQckFUNWRGcFc5S1pBOG56Yk53enBWUlFNaFktSVdqXzFoTU9kQzdLYV9qX29OR0d5OUg4eW5vU3I4NVpINWViTkhxSExCZXp6MkxtaGNtUVhQZGNvUnUyekJxLTJmR1dQc1pyMzZrdVNxN2NQbEpnS1NrNmNtb0g3NkVjMGRWamlxR19nbzFtVGROUHJRMm9iREZoVTMxbDFXLVdDMFF3MDlGa2FjUThGSjRiM2ZzcTRMNlRBcjZ3dXBhclcwUUlMM0g3bm42Mm5udmZldmxQZW5tRk9MMHo2OE5SMA?oc=5",
-                "date": "2026-05-26T09:44:58.000Z"
-            },
-            "whatsNew": "The use of AI art generation tools to create unique and detailed prompts, such as a lone desert scout riding a robotic reptile-like creature. This technology allows for rapid creation of complex scenes. The application of AI in art generation is expanding to various fields, including gaming and animation.",
-            "whyItMatters": "The development of AI art generation tools has the potential to revolutionize the field of digital art, enabling creators to produce high-quality content quickly and efficiently. This technology can also be applied to the gaming industry, allowing for more realistic and immersive game environments.",
-            "howToUse": "Artists and game developers can utilize AI art generation tools to create unique and detailed environments, characters, and creatures, streamlining their creative process and enhancing their final products.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-7z11594pw",
             "title": "AI Video Community",
             "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
@@ -3007,39 +3007,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-6lhgo1s0k",
-            "title": "Spain Blocks",
-            "subtitle": "Spain blocks Kalshi and Polymarket, opening disciplinary proceedings",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Spain",
-                "Kalshi",
-                "Polymarket"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaW5OUFdmNWluTVJJejlxN2VfVXhhZHkwOE5CVlhUNTlseFVWSDFpNmt3TTdHNjNGMDdUN3JtcHNocVJQa0F5d1RZYnFpVkZOd1Zpd2lOUHhEUXVrQVNCZUViOHMwank2UFRqa0l0M3pWUzVNUkw3bHJXX3h0QV9Mb0lpVklSTXlhZW5PY1kyaF80Y2JSaFVITkZ4VVBuM0lxNEw5WVJ1MA?oc=5",
-                "date": "2026-05-26T09:38:14.000Z"
-            },
-            "whatsNew": "Spanish authorities have blocked Kalshi and Polymarket, initiating disciplinary actions against the companies. This move reflects increased regulatory scrutiny in the region.",
-            "whyItMatters": "The blocking of these platforms by Spain indicates a tightening of regulations in the European iGaming market, potentially impacting operators and players alike.",
-            "howToUse": "Operators should ensure compliance with local regulations to avoid similar disciplinary actions, while players must be aware of the legal status of platforms they use.",
-            "beneficiaries": [
-                "Regulatory Bodies",
-                "Compliant Operators"
-            ],
-            "companies": [
-                "Kalshi",
-                "Polymarket"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3196,7 +3163,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": null
         },
         {
@@ -3215,7 +3182,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3224,7 +3191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3233,7 +3200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "Regulatory updates"
         },
         {
@@ -3251,7 +3218,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3260,7 +3227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3280,7 +3247,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3338,7 +3305,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3347,7 +3314,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3356,7 +3323,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": "Style browsing signal"
         },
         {
@@ -3393,7 +3360,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": null
         },
         {
@@ -3402,7 +3369,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": null
         },
         {
@@ -3483,7 +3450,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T12:34:37.426Z",
             "note": null
         },
         {
@@ -29756,6 +29723,70 @@
                 "Players"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-u6nl7rb7s",
+            "title": "AI Art Prompt",
+            "subtitle": "A lone desert scout riding a robotic reptile-like creature, generated using AI art tools",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Robotics",
+                "Desert Landscape"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQckFUNWRGcFc5S1pBOG56Yk53enBWUlFNaFktSVdqXzFoTU9kQzdLYV9qX29OR0d5OUg4eW5vU3I4NVpINWViTkhxSExCZXp6MkxtaGNtUVhQZGNvUnUyekJxLTJmR1dQc1pyMzZrdVNxN2NQbEpnS1NrNmNtb0g3NkVjMGRWamlxR19nbzFtVGROUHJRMm9iREZoVTMxbDFXLVdDMFF3MDlGa2FjUThGSjRiM2ZzcTRMNlRBcjZ3dXBhclcwUUlMM0g3bm42Mm5udmZldmxQZW5tRk9MMHo2OE5SMA?oc=5",
+                "date": "2026-05-26T09:44:58.000Z"
+            },
+            "whatsNew": "The use of AI art generation tools to create unique and detailed prompts, such as a lone desert scout riding a robotic reptile-like creature. This technology allows for rapid creation of complex scenes. The application of AI in art generation is expanding to various fields, including gaming and animation.",
+            "whyItMatters": "The development of AI art generation tools has the potential to revolutionize the field of digital art, enabling creators to produce high-quality content quickly and efficiently. This technology can also be applied to the gaming industry, allowing for more realistic and immersive game environments.",
+            "howToUse": "Artists and game developers can utilize AI art generation tools to create unique and detailed environments, characters, and creatures, streamlining their creative process and enhancing their final products.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-6lhgo1s0k",
+            "title": "Spain Blocks",
+            "subtitle": "Spain blocks Kalshi and Polymarket, opening disciplinary proceedings",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Spain",
+                "Kalshi",
+                "Polymarket"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaW5OUFdmNWluTVJJejlxN2VfVXhhZHkwOE5CVlhUNTlseFVWSDFpNmt3TTdHNjNGMDdUN3JtcHNocVJQa0F5d1RZYnFpVkZOd1Zpd2lOUHhEUXVrQVNCZUViOHMwank2UFRqa0l0M3pWUzVNUkw3bHJXX3h0QV9Mb0lpVklSTXlhZW5PY1kyaF80Y2JSaFVITkZ4VVBuM0lxNEw5WVJ1MA?oc=5",
+                "date": "2026-05-26T09:38:14.000Z"
+            },
+            "whatsNew": "Spanish authorities have blocked Kalshi and Polymarket, initiating disciplinary actions against the companies. This move reflects increased regulatory scrutiny in the region.",
+            "whyItMatters": "The blocking of these platforms by Spain indicates a tightening of regulations in the European iGaming market, potentially impacting operators and players alike.",
+            "howToUse": "Operators should ensure compliance with local regulations to avoid similar disciplinary actions, while players must be aware of the legal status of platforms they use.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Compliant Operators"
+            ],
+            "companies": [
+                "Kalshi",
+                "Polymarket"
+            ],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
