@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-09T12:34:37.426Z",
+        "scanDate": "2026-06-09T15:53:01.333Z",
         "version": "2.5.0",
         "totalTrends": 96,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-y12nbo241",
+            "title": "AI Motion Graphics",
+            "subtitle": "Synthesia releases a free AI motion graphics generator requiring no design skills",
+            "category": "AI",
+            "tags": [
+                "AI Motion Graphics",
+                "Synthesia",
+                "No Design Skills"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfN2c1bHEyN2pEUjZoVWZGT240ZTNXVXdIVmU0QTZsdkdKbGl5SHVEMlNMVHFOZlNfb2RBX2F2dDgwVEJZQ2MxS0YwRmlWeUtGR3hmVl9rMk4yM0JheGc?oc=5",
+                "date": "2026-06-08T08:08:12.000Z"
+            },
+            "whatsNew": "Synthesia has introduced a free AI motion graphics generator that does not require any design skills, making it accessible to a broader range of users. This tool utilizes AI to create motion graphics. The generator is free, simplifying the process of creating professional-looking motion graphics.",
+            "whyItMatters": "This tool has the potential to democratize access to high-quality motion graphics, benefiting individuals and businesses without extensive design experience. It showcases the growing capability of AI in creative work.",
+            "howToUse": "Users can access the generator through Synthesia's platform, input their requirements, and let the AI handle the design and creation of motion graphics. This simplifies the workflow for those looking to add motion graphics to their projects without needing design expertise.",
+            "beneficiaries": [
+                "Content Creators",
+                "Small Businesses"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-tp7l6qcm3",
             "title": "Mecca Bingo Update",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9dsxlo56j",
@@ -1350,38 +1381,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-d4gu20jy9",
-            "title": "AI Art Studio",
-            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Video Generation",
-                "Image Creation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SYUZMejNIVTQ5TmlsdE5pY1Q0U3llTVc0Y2NEYjFaZFBxRGtNdE1fcE9GajBRQ3I2bWVyZE1NQzhmbDNmQjduLVdqV1Y4UjA?oc=5",
-                "date": "2026-05-26T12:52:25.000Z"
-            },
-            "whatsNew": "OpenArt has launched an AI Creator Studio that enables the creation of videos and images using AI technology. This studio is designed to simplify content creation. The AI Creator Studio by OpenArt is a significant development in AI-powered art generation.",
-            "whyItMatters": "The introduction of OpenArt's AI Creator Studio has the potential to revolutionize the way visual content is created, making it more accessible and efficient. This could have a significant impact on the gaming and iGaming industries, particularly in the development of game art and UI/UX design.",
-            "howToUse": "Content creators can utilize the AI Creator Studio to generate high-quality videos and images, streamlining their workflow and enhancing their creative output. By leveraging AI, creators can focus on high-level creative decisions rather than tedious manual tasks.",
-            "beneficiaries": [
-                "Game Developers",
-                "Content Creators",
-                "Artists"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -3163,7 +3162,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": null
         },
         {
@@ -3182,7 +3181,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3191,7 +3190,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3200,7 +3199,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "Regulatory updates"
         },
         {
@@ -3218,7 +3217,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3227,7 +3226,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3247,7 +3246,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3305,7 +3304,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3314,7 +3313,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3323,7 +3322,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": "Style browsing signal"
         },
         {
@@ -3360,7 +3359,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": null
         },
         {
@@ -3369,7 +3368,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": null
         },
         {
@@ -3378,7 +3377,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": null
         },
         {
@@ -3450,7 +3449,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T12:34:37.426Z",
+            "lastScan": "2026-06-09T15:53:01.333Z",
             "note": null
         },
         {
@@ -29789,6 +29788,38 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-d4gu20jy9",
+            "title": "AI Art Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SYUZMejNIVTQ5TmlsdE5pY1Q0U3llTVc0Y2NEYjFaZFBxRGtNdE1fcE9GajBRQ3I2bWVyZE1NQzhmbDNmQjduLVdqV1Y4UjA?oc=5",
+                "date": "2026-05-26T12:52:25.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI Creator Studio that enables the creation of videos and images using AI technology. This studio is designed to simplify content creation. The AI Creator Studio by OpenArt is a significant development in AI-powered art generation.",
+            "whyItMatters": "The introduction of OpenArt's AI Creator Studio has the potential to revolutionize the way visual content is created, making it more accessible and efficient. This could have a significant impact on the gaming and iGaming industries, particularly in the development of game art and UI/UX design.",
+            "howToUse": "Content creators can utilize the AI Creator Studio to generate high-quality videos and images, streamlining their workflow and enhancing their creative output. By leveraging AI, creators can focus on high-level creative decisions rather than tedious manual tasks.",
+            "beneficiaries": [
+                "Game Developers",
+                "Content Creators",
+                "Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
