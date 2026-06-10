@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-10T16:34:06.514Z",
+        "scanDate": "2026-06-10T19:32:59.517Z",
         "version": "2.5.0",
         "totalTrends": 107,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-x1dahn027",
+            "title": "Angie Magica",
+            "subtitle": "Reveal trailer for Angie Magica using Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Reveal Trailer"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10d3E2OEM4dEdCTzFNUXdOX2JrMjc0ZENRUmdHeWlib0ZNTkdPOXhBS2VZdDM1N1lPektPV1ZKaGx3QWp5T2EtY1h5XzczT1dMRVhzekk2aUp6ZEdyUG9WSzkxdHFPRXdrdzNLRUNhejF3VnphRGROS2x3?oc=5",
+                "date": "2026-06-10T15:53:27.000Z"
+            },
+            "whatsNew": "The reveal trailer for Angie Magica showcases the game's animation and design, highlighting the capabilities of Spine 2D. The trailer provides a glimpse into the game's world and characters. Spine 2D is a popular tool for 2D animation in game development.",
+            "whyItMatters": "The use of Spine 2D in Angie Magica demonstrates its potential for creating engaging and high-quality 2D animations in games. This can inspire other game developers to explore Spine 2D for their projects.",
+            "howToUse": "Game developers can utilize Spine 2D to create similar animations and effects in their own games, enhancing the overall gaming experience. By studying the reveal trailer, developers can gain insights into the capabilities and limitations of Spine 2D.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-6d9kq8cq4",
             "title": "GAMLG Conference",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nnkn4ma7w",
@@ -2749,39 +2780,6 @@
             "isNew": false
         },
         {
-            "id": "t-w00rvcwgd",
-            "title": "Veo 3.1 Released",
-            "subtitle": "Google's Veo 3.1 AI video generator is now available through HeyGen",
-            "category": "AI",
-            "tags": [
-                "Veo 3.1",
-                "AI Video",
-                "Google",
-                "HeyGen"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYb2JsdmpCZFFJOHMzWFlSbEFHQUppU2g2ZnBCRWJDVTg2bU1CdjhYN0F2X3UwNFZ5c200Rk9ILVFxNnp4MVBpZzRBYkM2cERuTnhITmpB?oc=5",
-                "date": "2026-05-27T17:30:08.000Z"
-            },
-            "whatsNew": "Veo 3.1 is the latest version of Google's AI video generator, offering enhanced capabilities for video creation. This update is made available through HeyGen, expanding access to advanced video generation tools. The new version promises improved performance and features.",
-            "whyItMatters": "The release of Veo 3.1 signifies a step forward in AI-powered video generation, potentially revolutionizing content creation. It matters because it offers users more powerful tools for generating high-quality videos, which can be particularly impactful for industries like gaming and entertainment.",
-            "howToUse": "Content creators can utilize Veo 3.1 by accessing it through HeyGen, where they can explore its features and apply them to their video production workflows. This involves understanding the capabilities of the AI video generator and integrating it into their existing content creation pipelines.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Google",
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-qrk6s974z",
             "title": "Spine 2D",
             "subtitle": "Spine 2D animation tool",
@@ -3501,7 +3499,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": null
         },
         {
@@ -3520,7 +3518,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3529,7 +3527,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3538,7 +3536,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "Regulatory updates"
         },
         {
@@ -3556,7 +3554,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3565,7 +3563,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3585,7 +3583,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3643,7 +3641,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3652,7 +3650,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3661,7 +3659,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "Style browsing signal"
         },
         {
@@ -3698,7 +3696,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": null
         },
         {
@@ -3707,7 +3705,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": null
         },
         {
@@ -3716,7 +3714,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": null
         },
         {
@@ -3743,7 +3741,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3788,7 +3786,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T16:34:06.514Z",
+            "lastScan": "2026-06-10T19:32:59.517Z",
             "note": null
         },
         {
@@ -30318,6 +30316,39 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-w00rvcwgd",
+            "title": "Veo 3.1 Released",
+            "subtitle": "Google's Veo 3.1 AI video generator is now available through HeyGen",
+            "category": "AI",
+            "tags": [
+                "Veo 3.1",
+                "AI Video",
+                "Google",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYb2JsdmpCZFFJOHMzWFlSbEFHQUppU2g2ZnBCRWJDVTg2bU1CdjhYN0F2X3UwNFZ5c200Rk9ILVFxNnp4MVBpZzRBYkM2cERuTnhITmpB?oc=5",
+                "date": "2026-05-27T17:30:08.000Z"
+            },
+            "whatsNew": "Veo 3.1 is the latest version of Google's AI video generator, offering enhanced capabilities for video creation. This update is made available through HeyGen, expanding access to advanced video generation tools. The new version promises improved performance and features.",
+            "whyItMatters": "The release of Veo 3.1 signifies a step forward in AI-powered video generation, potentially revolutionizing content creation. It matters because it offers users more powerful tools for generating high-quality videos, which can be particularly impactful for industries like gaming and entertainment.",
+            "howToUse": "Content creators can utilize Veo 3.1 by accessing it through HeyGen, where they can explore its features and apply them to their video production workflows. This involves understanding the capabilities of the AI video generator and integrating it into their existing content creation pipelines.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Google",
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
