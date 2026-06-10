@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-10T12:54:42.650Z",
+        "scanDate": "2026-06-10T16:34:06.514Z",
         "version": "2.5.0",
-        "totalTrends": 106,
+        "totalTrends": 107,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6d9kq8cq4",
+            "title": "GAMLG Conference",
+            "subtitle": "John Pierce speech at the GAMLG Annual Conference, discussing Gambling Commission updates",
+            "category": "iGaming",
+            "tags": [
+                "GAMLG",
+                "Gambling Commission",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUNhd2ZkU3BMd1lwaE9SSUdkOVR6VlNqUW5OZ2h3ZU1xVDFVbDc3S1ltYVUwR1ctbFJ1UHNiVVRmMlVFNmtLLVZ6cE9EWEQ4UXZmWkhoSlBiekRRdFY1dUpwTDMzSktkZWx4WVl0ek5ZWnk0RlBRM0M5ZnNpS010WmVIZWY0QXhYQXVhODQyM19jRzdBaElvcg?oc=5",
+                "date": "2026-06-10T13:09:59.000Z"
+            },
+            "whatsNew": "The GAMLG Annual Conference featured a speech by John Pierce, highlighting key updates from the Gambling Commission. The speech is expected to cover regulatory changes and industry developments. This event marks an important moment for the iGaming industry in the UK.",
+            "whyItMatters": "The speech by John Pierce at the GAMLG Annual Conference has significant implications for the iGaming industry, as it outlines the Gambling Commission's stance on regulation and licensing. This can impact how online gambling and sports betting operators conduct their business in the UK.",
+            "howToUse": "Operators in the iGaming sector should review the key points from John Pierce's speech to ensure compliance with upcoming regulatory changes and to adapt their strategies accordingly.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "UK Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-nnkn4ma7w",
             "title": "FanDuel Crypto Deal",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-iog3xm8tx",
@@ -79,7 +110,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-snds6kbm1",
@@ -112,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zki0tsb67",
@@ -3470,7 +3501,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": null
         },
         {
@@ -3489,7 +3520,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3498,7 +3529,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3507,7 +3538,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "Regulatory updates"
         },
         {
@@ -3525,7 +3556,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3534,7 +3565,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3554,7 +3585,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3612,7 +3643,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3621,7 +3652,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3630,7 +3661,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "Style browsing signal"
         },
         {
@@ -3667,7 +3698,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": null
         },
         {
@@ -3676,7 +3707,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": null
         },
         {
@@ -3685,7 +3716,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-10T09:54:21.328Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": null
         },
         {
@@ -3712,7 +3743,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T09:54:21.328Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3757,7 +3788,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T12:54:42.650Z",
+            "lastScan": "2026-06-10T16:34:06.514Z",
             "note": null
         },
         {
