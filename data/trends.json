@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-10T21:58:57.108Z",
+        "scanDate": "2026-06-10T23:39:11.511Z",
         "version": "2.5.0",
-        "totalTrends": 107,
+        "totalTrends": 106,
         "categories": [
             "iGaming",
             "AI",
@@ -3155,37 +3155,6 @@
             "isNew": false
         },
         {
-            "id": "t-7z11594pw",
-            "title": "AI Video Community",
-            "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "OpenArt",
-                "Creative Content"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaW5BTUNpVGxPT0J5WmJvMUJVa3o3MktrLTJUSVQ2ZlZyb3hWZTdNRXR5WWFheFM1amgyNVdEZnh6SzctcjJqbU44V3ZPMy1razN5ekYyQlkybFNxLUdwRDNncWNEUQ?oc=5",
-                "date": "2026-05-27T22:19:09.000Z"
-            },
-            "whatsNew": "OpenArt introduces a community platform for users to discover and share AI-generated video stories, promoting creativity and collaboration. The platform allows users to explore and interact with AI-created content. This move expands the scope of AI-generated art beyond images into video storytelling.",
-            "whyItMatters": "The launch of this platform signifies a significant step in the evolution of AI-generated content, providing a space for creators to share their work and for the community to engage with AI art. It has the potential to democratize access to AI video generation tools.",
-            "howToUse": "Users can join the OpenArt community to start discovering and sharing their own AI video stories, leveraging the platform's features to enhance their creative workflow and connect with like-minded individuals.",
-            "beneficiaries": [
-                "Content Creators",
-                "AI Enthusiasts"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-tvtricy3m",
             "title": "LeoVegas UK Launch",
             "subtitle": "LeoVegas Group plans to launch in-house casino content in the UK",
@@ -3499,7 +3468,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": null
         },
         {
@@ -3518,7 +3487,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3527,7 +3496,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3536,7 +3505,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "Regulatory updates"
         },
         {
@@ -3554,7 +3523,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3563,7 +3532,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3583,7 +3552,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3641,7 +3610,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3650,7 +3619,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3659,7 +3628,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": "Style browsing signal"
         },
         {
@@ -3786,7 +3755,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T21:58:57.108Z",
+            "lastScan": "2026-06-10T23:39:11.511Z",
             "note": null
         },
         {
@@ -30346,6 +30315,37 @@
             "companies": [
                 "Google",
                 "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-7z11594pw",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt launches a platform for discovering and sharing AI-generated video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "OpenArt",
+                "Creative Content"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaW5BTUNpVGxPT0J5WmJvMUJVa3o3MktrLTJUSVQ2ZlZyb3hWZTdNRXR5WWFheFM1amgyNVdEZnh6SzctcjJqbU44V3ZPMy1razN5ekYyQlkybFNxLUdwRDNncWNEUQ?oc=5",
+                "date": "2026-05-27T22:19:09.000Z"
+            },
+            "whatsNew": "OpenArt introduces a community platform for users to discover and share AI-generated video stories, promoting creativity and collaboration. The platform allows users to explore and interact with AI-created content. This move expands the scope of AI-generated art beyond images into video storytelling.",
+            "whyItMatters": "The launch of this platform signifies a significant step in the evolution of AI-generated content, providing a space for creators to share their work and for the community to engage with AI art. It has the potential to democratize access to AI video generation tools.",
+            "howToUse": "Users can join the OpenArt community to start discovering and sharing their own AI video stories, leveraging the platform's features to enhance their creative workflow and connect with like-minded individuals.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
