@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-10T00:10:19.719Z",
+        "scanDate": "2026-06-10T05:15:39.140Z",
         "version": "2.5.0",
-        "totalTrends": 102,
+        "totalTrends": 106,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,130 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-1x70cdag6",
+            "title": "AI Art Generator",
+            "subtitle": "OpenArt introduces an AI tool to create professional podcast cover art in seconds",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Podcast Cover",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVUtWbm9MR2lQdTd3cHVoLU1TWUE5cFg4X1dubkZaRXBWN01JYUJHdW1tMWpvdUIyaER2RE9mQTJZeGhMTGVzMGdtaElzMnlVVzhWOWtXaXIzX0tNQVVmNzMyRXZvQQ?oc=5",
+                "date": "2026-06-09T18:25:33.000Z"
+            },
+            "whatsNew": "OpenArt's AI Podcast Cover Generator uses AI to create professional-looking podcast cover art quickly. This tool simplifies the design process for podcasters. The generator can produce high-quality covers in seconds.",
+            "whyItMatters": "This tool impacts podcasters by saving them time and effort in creating cover art, allowing them to focus on content creation. It also democratizes access to professional design capabilities.",
+            "howToUse": "Podcast creators can use the AI Podcast Cover Generator by inputting their preferences and letting the AI generate a cover. They can then refine or finalize the design as needed.",
+            "beneficiaries": [
+                "Podcasters",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-k149l5o8u",
+            "title": "Spine 2D Feature",
+            "subtitle": "Request for filtering skins with attachments in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Feature Request"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVpSeFg2Ujl6Q3p0MXM5emNCT0M2RDlXNjJaNFlxTXo4OTJUN2VLMkNKbi01OVRlSWZ1NXFKU0duQlBJdDBVZUVrS1ZKSHNtd1R0WHdNS3NGbEs5cm9MYklUYTJvWE5BNkJRbUtNbG04SXB0ejJwdWpvdTlKeE9aNzBQdTg0Q3Myb09DTjFYekJNeER2ejZGN1hrTVZvamRNb2JEb0VkQUs?oc=5",
+                "date": "2026-06-09T10:23:28.000Z"
+            },
+            "whatsNew": "A feature request has been made for Spine 2D to add an option to only show skins with attachments, aiming to improve workflow efficiency.",
+            "whyItMatters": "This feature could enhance user experience and productivity in game development using Spine 2D by simplifying skin management.",
+            "howToUse": "Developers can potentially utilize this feature to streamline their workflow once it's implemented, focusing on skins with attachments for more efficient project management.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-2bop1hjnd",
+            "title": "Spine 2D Skeleton",
+            "subtitle": "Understanding the center of skeleton in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Skeleton"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHk4V0xCdkhGdTNGZ19GUXh3cTRuZGpDdFJUaW9QVDdHeUdVa3h1ZmxsX3U0N0hVdkdKeHNEVjgtcWVSX2xCdDY4RXdvR0xuRmVydEZuUHJZZnpOdS1uX0ZQeTUzNmJURERwdVVMYUdERFl0V21yT3VBbkM0Z1lZbXJLaTFMVnlWbzRWTENUeXgyQWpWclNmWXFRdTVoNFRMNlZOSzM2MU1taXM1WWRmTTViVQ?oc=5",
+                "date": "2026-06-09T19:32:54.000Z"
+            },
+            "whatsNew": "The article discusses the relationship between the center of a skeleton and the origin or Rootbone in Spine 2D. It aims to clarify the concept for developers using the software.",
+            "whyItMatters": "Understanding this concept is crucial for game developers using Spine 2D to create accurate and efficient animations.",
+            "howToUse": "Developers can apply this knowledge to adjust their skeleton settings accordingly, ensuring proper animation and character movement in their games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-zevztiuif",
+            "title": "Vector Artwork",
+            "subtitle": "Adobe Illustrator generates vector artwork from raster images",
+            "category": "Art",
+            "tags": [
+                "Adobe Illustrator",
+                "Vector Artwork",
+                "Raster Images"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkxZX1hoQ3RWcEYyMUFpM0JFMGoxT0NBNllNTEstSlNjVnRGdXA2bHZKTmxpem1ySW9IU3p4VzVxSGk4QV9xd3RhdjVIeHV5TXU3R0ZtQlozcnRCZFRtSHI1Y0RzVXZBMVhGOWpaaUk5cDVSZS1OeVVIR2xVXzdwTFdON3VCajhHYzRrbjlkVE1FNW13SVNPVDdlalR0ZWQ3UXdKaw?oc=5",
+                "date": "2026-06-01T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe Illustrator now allows users to generate vector artwork from raster images, enhancing design capabilities. This feature simplifies the process of converting raster images into vector formats. It's particularly useful for graphic designers and artists.",
+            "whyItMatters": "This feature matters because it streamlines the design process, saving time and increasing productivity for artists and designers. It also opens up new creative possibilities by allowing for easier manipulation of raster images in vector formats.",
+            "howToUse": "To use this feature, simply open Adobe Illustrator, select the raster image you want to convert, and follow the prompts to generate vector artwork. This can be used to create scalable graphics, logos, and other design elements.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-cftk0d186",
             "title": "ASA Dismisses Complaint",
@@ -50,7 +174,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p8xzu5gd7",
@@ -82,7 +206,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-shc148ts3",
@@ -3351,7 +3475,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": null
         },
         {
@@ -3370,7 +3494,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3379,7 +3503,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3388,7 +3512,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "Regulatory updates"
         },
         {
@@ -3406,7 +3530,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3415,7 +3539,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3435,7 +3559,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3493,7 +3617,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3502,7 +3626,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3511,7 +3635,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "Style browsing signal"
         },
         {
@@ -3548,7 +3672,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": null
         },
         {
@@ -3557,7 +3681,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": null
         },
         {
@@ -3566,7 +3690,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-09T15:53:01.333Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": null
         },
         {
@@ -3593,7 +3717,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-09T09:37:56.557Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3638,7 +3762,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-10T00:10:19.719Z",
+            "lastScan": "2026-06-10T05:15:39.140Z",
             "note": null
         },
         {
