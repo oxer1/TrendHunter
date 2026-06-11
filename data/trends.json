@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-11T19:33:54.440Z",
+        "scanDate": "2026-06-11T22:00:38.562Z",
         "version": "2.5.0",
-        "totalTrends": 100,
+        "totalTrends": 101,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3qliuarou",
+            "title": "AI Art Prompt",
+            "subtitle": "Futuristic android robot Samurai art generated using AI prompts",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Robot Samurai",
+                "Art Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNcld5M1NQODFocmg2U0lnVjJQOTAzdnlyOFhQeUpNVDJOSG5NaVFZMVptMDNJWVdrN1BvUWdnNW1yb1dqdzhJM3BTZUQ3SXdsQmNHY05WSlRvdHY3MlNlNUxGNnE2Yi1WRGxoT1dpZGFzMmRGU3JlMldkdWVqeF9LczRQVUpvTk9DdWFWZU15d0FVRy1CVXprd1lqdno5UUdvbzRON2J4ZHkxYXh3RmxoR3dKSWJ2VVFDQ0REa1JRdWtSbU03eXNsc29yUU9OdldoMDcyMEU0RGpobW1xZjNHNXhjOG1EU014NnFUc00tWUE0QVVuTlJyR1RRNjlocnNsOGZOU2ZoeG5WR3FDYTNyUFFjWkRBQkVmX1FTSlEybHNOclBEaktGM1pscHF4b0d3a1h5Z2JWbw?oc=5",
+                "date": "2026-06-05T07:47:01.000Z"
+            },
+            "whatsNew": "The use of AI prompts to generate futuristic android robot Samurai art is a new trend in the field of AI art generation. This technology allows for the creation of unique and detailed art pieces. The application of such prompts can lead to innovative designs in various industries.",
+            "whyItMatters": "The development of AI art generation using prompts like this can significantly impact the creative industry, enabling artists and designers to produce complex and detailed designs with ease. This technology also opens up new possibilities for gaming and animation.",
+            "howToUse": "Artists and designers can utilize AI art generation tools with specific prompts to create unique and detailed designs, streamlining their creative process and exploring new ideas.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-fg6gtkc2e",
             "title": "Stable Diffusion",
@@ -50,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0j2ehmmqn",
@@ -3286,7 +3316,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": null
         },
         {
@@ -3305,7 +3335,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3314,7 +3344,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3323,7 +3353,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "Regulatory updates"
         },
         {
@@ -3341,7 +3371,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3350,7 +3380,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3370,7 +3400,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3428,7 +3458,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3437,7 +3467,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3446,7 +3476,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": "Style browsing signal"
         },
         {
@@ -3483,7 +3513,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": null
         },
         {
@@ -3492,7 +3522,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": null
         },
         {
@@ -3573,7 +3603,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T19:33:54.440Z",
+            "lastScan": "2026-06-11T22:00:38.562Z",
             "note": null
         },
         {
