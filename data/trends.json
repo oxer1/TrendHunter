@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-11T16:52:38.578Z",
+        "scanDate": "2026-06-11T19:33:54.440Z",
         "version": "2.5.0",
-        "totalTrends": 99,
+        "totalTrends": 100,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-fg6gtkc2e",
+            "title": "Stable Diffusion",
+            "subtitle": "Stable Diffusion prompt for fashion shoot with Jacquemus and Mo",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Fashion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVXQxbklLWGwxYmRmUDlYVUFkTS1GUTVNRXgzS3RGWDN4LWlqY0R3UldLNl9OM0FfekxqdFRzdC1aSm1NTXNvZXBKM1FST1NlYlVuNEllUmlsN1RBSkgtMnFTTmxMczN1aXNVUzBrOWN2U251N3NHUHJpWS1KN1gzWXkzc2lURUwzOF80NTFkd3lhSk56U0pmVWZtbjhyQUk5cHBOWndVakdpMHliMmswZmRqRkQyU2hMMjBId3JQekRjWFdKeXlXa2hIM1h5NGg0MzROV1ppanVQcGJNQ0pMSmNXYVJaUUQ2VzgwdzF0YnJ5aEpZdW5FTktFckJ3UXRWUnFJRWpkSy0zRXFUcnp5MmlRN1NVVUtzSHZNTzFJV3pMM3hSbmc?oc=5",
+                "date": "2026-06-05T13:40:37.000Z"
+            },
+            "whatsNew": "Stable Diffusion is being used for generating fashion shoot prompts, allowing for unique and creative outputs. The use of specific designer names like Jacquemus indicates a trend towards personalized and branded content generation. This technology can create high-quality images based on text prompts.",
+            "whyItMatters": "The use of AI in fashion can revolutionize the industry by providing new ways to create and showcase designs, reducing the need for physical prototypes and speeding up the design process. It also opens up new possibilities for creative collaboration between humans and AI.",
+            "howToUse": "Use Stable Diffusion to generate unique fashion images by inputting specific prompts, and experiment with different styles and designers to create personalized content. This can be particularly useful for fashion designers, marketers, and social media influencers looking to create engaging visual content.",
+            "beneficiaries": [
+                "Fashion Designers",
+                "Marketers",
+                "Influencers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-0j2ehmmqn",
             "title": "Interactive Training",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0c8gso9qm",
@@ -83,7 +115,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ypxqntvmx",
@@ -115,7 +147,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zw88f0j10",
@@ -3254,7 +3286,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": null
         },
         {
@@ -3273,7 +3305,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3282,7 +3314,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3291,7 +3323,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "Regulatory updates"
         },
         {
@@ -3309,7 +3341,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3318,7 +3350,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3338,7 +3370,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3396,7 +3428,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3405,7 +3437,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3414,7 +3446,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": "Style browsing signal"
         },
         {
@@ -3451,7 +3483,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": null
         },
         {
@@ -3460,7 +3492,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": null
         },
         {
@@ -3541,7 +3573,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T16:52:38.578Z",
+            "lastScan": "2026-06-11T19:33:54.440Z",
             "note": null
         },
         {
