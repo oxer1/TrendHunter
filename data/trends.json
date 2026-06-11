@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-11T12:43:23.838Z",
+        "scanDate": "2026-06-11T16:52:38.578Z",
         "version": "2.5.0",
         "totalTrends": 99,
         "categories": [
@@ -20,6 +20,103 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0j2ehmmqn",
+            "title": "Interactive Training",
+            "subtitle": "Unity Studio enables training designers to create interactive 3D experiences without relying on specialized simulation teams",
+            "category": "Tech",
+            "tags": [
+                "Unity Studio",
+                "Interactive Training",
+                "3D Experiences"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/interactive-3d-training-unity-studio-without-simulation-teams",
+                "date": "2026-06-11T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Studio allows training designers to create interactive 3D experiences without requiring specialized simulation teams or extensive coding knowledge. This enables faster prototyping and iteration, getting training into the hands of learners sooner.",
+            "whyItMatters": "The ability to create interactive training experiences without relying on external resources enables training teams to be more agile and responsive to changing business needs, ultimately leading to more effective training and improved learner outcomes.",
+            "howToUse": "Training designers can use Unity Studio to create interactive 3D experiences by dragging and dropping existing 3D assets, building guided training scenarios, and using visual scripting tools to define interactions without writing code.",
+            "beneficiaries": [
+                "Training Designers",
+                "Learners"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-0c8gso9qm",
+            "title": "Mattel163 Scales",
+            "subtitle": "Mattel163 partners with Unity to scale mobile titles using Unity Vector, improving user quality and UA strategy",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Unity Vector",
+                "Mattel163",
+                "Mobile Gaming",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/mattel163-phase-10-vector-roas",
+                "date": "2026-05-29T00:00:00.000Z"
+            },
+            "whatsNew": "Mattel163 has partnered with Unity to leverage Unity Ads and Unity Vector, resulting in improved user quality and diversified UA strategy. The studio has seen significant improvements in payer conversion rates, retention rates, and LTV. Unity Vector has helped Mattel163 target the right users and drive long-term value in ROAS campaigns.",
+            "whyItMatters": "The partnership between Mattel163 and Unity demonstrates the effectiveness of Unity Vector in driving user quality and UA strategy for mobile game developers. This can have a significant impact on the gaming industry, as it provides a scalable and predictable way to drive higher performance and revenue.",
+            "howToUse": "Game developers can leverage Unity Vector to improve user quality and UA strategy by targeting the right users and driving long-term value in ROAS campaigns. This can be achieved by optimizing creative strategy, calibrating ROAS targets, and utilizing competitive benchmarking data.",
+            "beneficiaries": [
+                "Game Developers",
+                "Mobile Game Publishers"
+            ],
+            "companies": [
+                "Mattel163",
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-ypxqntvmx",
+            "title": "AI Video Trends",
+            "subtitle": "7 types of AI videos are dominating YouTube in 2026, according to OpenArt",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "YouTube Trends",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feVcwUkJ0TVExbUttTzU4bDhxbFFLQ0poZDk2T0JNNnF1akNKWURCWEE3cU9qMHdyLVdDSURqSzExaVM0cEs0dTJtMzUtUTBYdE90UTdNS1BlbG1aNkE?oc=5",
+                "date": "2026-06-11T13:14:32.000Z"
+            },
+            "whatsNew": "OpenArt highlights 7 types of AI-generated videos gaining popularity on YouTube, showcasing the increasing influence of AI in video content creation. These include AI-generated music videos, AI-created vlogs, and AI-produced explainers. The use of AI in video production is becoming more mainstream.",
+            "whyItMatters": "The rise of AI-generated videos on YouTube signals a significant shift in content creation, potentially disrupting traditional video production methods and opening new opportunities for creators. This trend impacts the entertainment, marketing, and education sectors.",
+            "howToUse": "Content creators can leverage AI video tools to produce high-quality, engaging videos more efficiently, while marketers can utilize AI-generated videos for innovative advertising campaigns.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers",
+                "Educators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-zw88f0j10",
             "title": "bet365 Upgrades",
@@ -51,7 +148,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-f28phoq3h",
@@ -82,7 +179,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-iwjw73po2",
@@ -114,7 +211,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ocyb483t9",
@@ -145,7 +242,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x1dahn027",
@@ -1696,38 +1793,6 @@
             "isNew": false
         },
         {
-            "id": "t-5ivp9cw1d",
-            "title": "AI Fashion",
-            "subtitle": "Stable Diffusion used for fashion shoot collaboration",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Fashion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQd2pqWWd4ZXpGdkVBVHhPYUVya1NOcnVPY1c3Z2NKN0JuSFpLWHF5MU1aNTNOUnl5azdtQW0zdjI4ZFFQdHNuRDhGVXJId2tRRFZyQnBsQWRPcldBc0ZBUHRES014d0VwS0tDaVRBcXJjRFhtOVl4X3FJbUpYU0daLWFtTWpCUGNyZkFOZERCRVBlOEtQOUU2dzE4azNtZURSRV9mejlzUWpYdWF6bVNXN0FaN0V1OHV3QTRqYkZVWUpKeUgzdUk0QnBsWm1YV05jLVI1OHk5WUJYem8yUUF3Zzh2NjZydmQzVmQxUDBjWkFrOWdLRUM4MFdIRlRiZEhNTGk1Z1pvb1hCUHFRVS1EaWt4MVJHeEJFdXNGSXdDSDYtaDNleXc?oc=5",
-                "date": "2026-05-28T14:23:18.000Z"
-            },
-            "whatsNew": "Stable Diffusion is being used to generate images for a fashion shoot collaboration between Jacquemus and Moncler. This showcases the potential of AI in the fashion industry. The use of AI art generation tools is expanding beyond gaming and into other creative fields.",
-            "whyItMatters": "The use of AI in fashion can revolutionize the way designers and brands create and showcase their work. It can also open up new opportunities for artists and designers to collaborate with AI tools.",
-            "howToUse": "Designers and artists can use Stable Diffusion to generate images and ideas for their work, and then refine and develop them further. This can help to speed up the creative process and open up new possibilities.",
-            "beneficiaries": [
-                "Fashion Designers",
-                "Artists"
-            ],
-            "companies": [
-                "Jacquemus",
-                "Moncler"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-r662j2noc",
             "title": "MrQ Subscription",
             "subtitle": "MrQ introduces a new subscription service with a curated bundle of value for its customers",
@@ -2444,38 +2509,6 @@
             "isNew": false
         },
         {
-            "id": "t-uwvj8rd9s",
-            "title": "AI Video Creation",
-            "subtitle": "Synthesia introduces a guide on creating videos using their Assistant tool",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Synthesia",
-                "Video creation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVFOMmFUMGtMMnJDdkR3c0tPU1hxbkphQWNzZlVmRU9RX1hTYU5rTnByaG1Sd1VqNFc1RnVVdVpJZlJvZFU1QkhVMHJoeHNqXzZVektqYVp3VzJpcTUteU04Q3F3T3IxeWlabHM5TGtzeVBhNDVYeFF0bkdZZlkyLUxXcjV4VzdGcWZ6SG9wOA?oc=5",
-                "date": "2026-05-28T16:27:25.000Z"
-            },
-            "whatsNew": "Synthesia has released a knowledge base article on creating videos using their Assistant tool, making AI-powered video creation more accessible. This tool allows users to generate high-quality videos with ease. The guide provides step-by-step instructions on how to utilize the Assistant for video creation.",
-            "whyItMatters": "The ability to create videos using AI assistants like Synthesia's can significantly impact the efficiency and quality of video production, especially in the iGaming and game development industries. This technology can be used to create engaging video content, such as tutorials, trailers, and advertisements.",
-            "howToUse": "To create a video using Synthesia's Assistant, follow the guide on their knowledge base, which provides detailed instructions on how to get started and utilize the tool's features. This includes selecting templates, customizing content, and refining the final product.",
-            "beneficiaries": [
-                "Game developers",
-                "iGaming marketers",
-                "Content creators"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-boydfffiv",
             "title": "AI Creator Tips",
             "subtitle": "Best practices for AI creators from OpenArt",
@@ -2910,37 +2943,6 @@
             "isNew": false
         },
         {
-            "id": "t-j7qhsy6rn",
-            "title": "Spine Animation",
-            "subtitle": "Adjusting root bone position in Spine",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "Animation",
-                "Game Development"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUptY0dQc1FvaEVJY1hlTmhKSkxWeDRtZnBYSmw4NDNrWjhoNzlVVkg3Z3h6NXd0UUhxU3Q1SzlJSkY4TVpKVVYxNmpsQVRXQWlTeVc5X01yMkpSZm8zMzE1VmNnSlNnSHBIemo1VnVVVGMxWVRqMlF3bFd5ZVFOOWhraVZnM3BF?oc=5",
-                "date": "2026-05-28T16:08:04.000Z"
-            },
-            "whatsNew": "The Spine official website discusses adjusting the x and y positions of the root bone, a fundamental aspect of animation. This highlights the importance of precise control over skeletal animations. The topic is directly related to game development and animation techniques.",
-            "whyItMatters": "Understanding how to manipulate root bones is crucial for creating realistic and engaging animations in games. This knowledge can enhance game development by allowing for more complex and detailed character movements.",
-            "howToUse": "Developers can apply this by experimenting with different root bone positions in their Spine projects to achieve desired animation effects. This can be particularly useful in creating character animations for games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-cb6tded7p",
             "title": "Spine 2D",
             "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development",
@@ -3252,7 +3254,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": null
         },
         {
@@ -3271,7 +3273,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3280,7 +3282,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3289,7 +3291,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "Regulatory updates"
         },
         {
@@ -3307,7 +3309,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3316,7 +3318,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3336,7 +3338,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3394,7 +3396,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3403,7 +3405,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3412,7 +3414,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": "Style browsing signal"
         },
         {
@@ -3449,7 +3451,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": null
         },
         {
@@ -3458,7 +3460,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": null
         },
         {
@@ -3539,7 +3541,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-11T16:52:38.578Z",
             "note": null
         },
         {
@@ -30476,6 +30478,101 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-5ivp9cw1d",
+            "title": "AI Fashion",
+            "subtitle": "Stable Diffusion used for fashion shoot collaboration",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Fashion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQd2pqWWd4ZXpGdkVBVHhPYUVya1NOcnVPY1c3Z2NKN0JuSFpLWHF5MU1aNTNOUnl5azdtQW0zdjI4ZFFQdHNuRDhGVXJId2tRRFZyQnBsQWRPcldBc0ZBUHRES014d0VwS0tDaVRBcXJjRFhtOVl4X3FJbUpYU0daLWFtTWpCUGNyZkFOZERCRVBlOEtQOUU2dzE4azNtZURSRV9mejlzUWpYdWF6bVNXN0FaN0V1OHV3QTRqYkZVWUpKeUgzdUk0QnBsWm1YV05jLVI1OHk5WUJYem8yUUF3Zzh2NjZydmQzVmQxUDBjWkFrOWdLRUM4MFdIRlRiZEhNTGk1Z1pvb1hCUHFRVS1EaWt4MVJHeEJFdXNGSXdDSDYtaDNleXc?oc=5",
+                "date": "2026-05-28T14:23:18.000Z"
+            },
+            "whatsNew": "Stable Diffusion is being used to generate images for a fashion shoot collaboration between Jacquemus and Moncler. This showcases the potential of AI in the fashion industry. The use of AI art generation tools is expanding beyond gaming and into other creative fields.",
+            "whyItMatters": "The use of AI in fashion can revolutionize the way designers and brands create and showcase their work. It can also open up new opportunities for artists and designers to collaborate with AI tools.",
+            "howToUse": "Designers and artists can use Stable Diffusion to generate images and ideas for their work, and then refine and develop them further. This can help to speed up the creative process and open up new possibilities.",
+            "beneficiaries": [
+                "Fashion Designers",
+                "Artists"
+            ],
+            "companies": [
+                "Jacquemus",
+                "Moncler"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-uwvj8rd9s",
+            "title": "AI Video Creation",
+            "subtitle": "Synthesia introduces a guide on creating videos using their Assistant tool",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Synthesia",
+                "Video creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVFOMmFUMGtMMnJDdkR3c0tPU1hxbkphQWNzZlVmRU9RX1hTYU5rTnByaG1Sd1VqNFc1RnVVdVpJZlJvZFU1QkhVMHJoeHNqXzZVektqYVp3VzJpcTUteU04Q3F3T3IxeWlabHM5TGtzeVBhNDVYeFF0bkdZZlkyLUxXcjV4VzdGcWZ6SG9wOA?oc=5",
+                "date": "2026-05-28T16:27:25.000Z"
+            },
+            "whatsNew": "Synthesia has released a knowledge base article on creating videos using their Assistant tool, making AI-powered video creation more accessible. This tool allows users to generate high-quality videos with ease. The guide provides step-by-step instructions on how to utilize the Assistant for video creation.",
+            "whyItMatters": "The ability to create videos using AI assistants like Synthesia's can significantly impact the efficiency and quality of video production, especially in the iGaming and game development industries. This technology can be used to create engaging video content, such as tutorials, trailers, and advertisements.",
+            "howToUse": "To create a video using Synthesia's Assistant, follow the guide on their knowledge base, which provides detailed instructions on how to get started and utilize the tool's features. This includes selecting templates, customizing content, and refining the final product.",
+            "beneficiaries": [
+                "Game developers",
+                "iGaming marketers",
+                "Content creators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-j7qhsy6rn",
+            "title": "Spine Animation",
+            "subtitle": "Adjusting root bone position in Spine",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUptY0dQc1FvaEVJY1hlTmhKSkxWeDRtZnBYSmw4NDNrWjhoNzlVVkg3Z3h6NXd0UUhxU3Q1SzlJSkY4TVpKVVYxNmpsQVRXQWlTeVc5X01yMkpSZm8zMzE1VmNnSlNnSHBIemo1VnVVVGMxWVRqMlF3bFd5ZVFOOWhraVZnM3BF?oc=5",
+                "date": "2026-05-28T16:08:04.000Z"
+            },
+            "whatsNew": "The Spine official website discusses adjusting the x and y positions of the root bone, a fundamental aspect of animation. This highlights the importance of precise control over skeletal animations. The topic is directly related to game development and animation techniques.",
+            "whyItMatters": "Understanding how to manipulate root bones is crucial for creating realistic and engaging animations in games. This knowledge can enhance game development by allowing for more complex and detailed character movements.",
+            "howToUse": "Developers can apply this by experimenting with different root bone positions in their Spine projects to achieve desired animation effects. This can be particularly useful in creating character animations for games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
