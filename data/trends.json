@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-12T12:17:30.514Z",
+        "scanDate": "2026-06-12T16:16:22.098Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 95,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ikn6yurxv",
+            "title": "Flutter Delists",
+            "subtitle": "Flutter to remove shares from London Stock Exchange",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "London Stock Exchange",
+                "Delisting"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1wVnpiMkdBdjB4ZkR6RWhxZ2JPbjQwSlgyV0w0Vk9jVmJDMmdPTHBEd0xXcm5WSy1JbElIdVo5OHpEMWw2UVBaa2FuSHctSUt2aDZ5V01LVTJZRXExeFJqaHRXMXJUTjUxYzBvS3ZDVzNmTUx3WGNhV05abmtnTFdmbE1aVGprTDB3Vl9XeDBBeHpZMFkzUQ?oc=5",
+                "date": "2026-06-12T10:35:42.000Z"
+            },
+            "whatsNew": "Flutter has announced plans to delist its shares from the London Stock Exchange. This move may impact the company's visibility and accessibility to investors. The delisting is expected to have significant implications for the iGaming industry.",
+            "whyItMatters": "The delisting of Flutter's shares may affect the company's ability to raise capital and its overall market presence. This could have a ripple effect on the iGaming industry, potentially influencing market trends and investor confidence.",
+            "howToUse": "Investors and industry stakeholders should monitor the situation closely and adjust their strategies accordingly. Companies operating in the iGaming space should be prepared for potential changes in market dynamics.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-6px302qv0",
             "title": "Ideogram 4 Released",
@@ -2506,37 +2537,6 @@
             "isNew": false
         },
         {
-            "id": "t-zrb6qq3pt",
-            "title": "Video Generation",
-            "subtitle": "Understanding video generation delays with Synthesia",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Video generation",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
-                "date": "2026-05-29T15:51:46.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base addresses common issues with video generation, including delays. The article provides insights into potential causes and solutions for slow video generation.",
-            "whyItMatters": "Understanding the factors that affect video generation speed is crucial for efficient content creation. Synthesia's guidance helps users optimize their video production workflow.",
-            "howToUse": "Check Synthesia's knowledge base for troubleshooting tips and best practices to minimize video generation delays.",
-            "beneficiaries": [
-                "Content creators",
-                "Video producers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-i49gvb8rp",
             "title": "AI Animation",
             "subtitle": "Grok Imagine Video creates animation of ants using AI prompts",
@@ -2751,35 +2751,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-s18mnyu3d",
-            "title": "MGA Notice",
-            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URL",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Malta"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rWTB5cnN2dy14cmo2ay1HS1NNOEhtR0dxS0ZSdnE1UUlubkFZRnY4bXI2UEVOZndZSkZJaHFqSkNmaUpoXzVIR1Y4UjFMdDRDck5oc1NtdnBBS3EzSE40azRKRFNlWHBCZmpXZW9Fc3ZYMmd1QkFzVTl3?oc=5",
-                "date": "2026-05-29T14:30:00.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has published a notice regarding an unauthorised URL. This move aims to protect players and maintain the integrity of the gaming industry.",
-            "whyItMatters": "The notice highlights the MGA's efforts to regulate and monitor the gaming industry, ensuring a safe environment for players. It also underscores the importance of compliance with regulatory requirements.",
-            "howToUse": "Operators should ensure they are aware of and comply with all relevant regulations and guidelines to avoid unauthorised activities.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -3156,7 +3127,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": null
         },
         {
@@ -3175,7 +3146,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3184,7 +3155,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3193,7 +3164,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "Regulatory updates"
         },
         {
@@ -3211,7 +3182,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3220,7 +3191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3240,7 +3211,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3298,7 +3269,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3307,7 +3278,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3316,7 +3287,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": "Style browsing signal"
         },
         {
@@ -3353,7 +3324,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": null
         },
         {
@@ -3362,7 +3333,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": null
         },
         {
@@ -3371,7 +3342,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": null
         },
         {
@@ -3443,7 +3414,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T12:17:30.514Z",
+            "lastScan": "2026-06-12T16:16:22.098Z",
             "note": null
         },
         {
@@ -30665,6 +30636,66 @@
             "companies": [
                 "Winpot"
             ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-zrb6qq3pt",
+            "title": "Video Generation",
+            "subtitle": "Understanding video generation delays with Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
+                "date": "2026-05-29T15:51:46.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base addresses common issues with video generation, including delays. The article provides insights into potential causes and solutions for slow video generation.",
+            "whyItMatters": "Understanding the factors that affect video generation speed is crucial for efficient content creation. Synthesia's guidance helps users optimize their video production workflow.",
+            "howToUse": "Check Synthesia's knowledge base for troubleshooting tips and best practices to minimize video generation delays.",
+            "beneficiaries": [
+                "Content creators",
+                "Video producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-s18mnyu3d",
+            "title": "MGA Notice",
+            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URL",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Malta"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rWTB5cnN2dy14cmo2ay1HS1NNOEhtR0dxS0ZSdnE1UUlubkFZRnY4bXI2UEVOZndZSkZJaHFqSkNmaUpoXzVIR1Y4UjFMdDRDck5oc1NtdnBBS3EzSE40azRKRFNlWHBCZmpXZW9Fc3ZYMmd1QkFzVTl3?oc=5",
+                "date": "2026-05-29T14:30:00.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice regarding an unauthorised URL. This move aims to protect players and maintain the integrity of the gaming industry.",
+            "whyItMatters": "The notice highlights the MGA's efforts to regulate and monitor the gaming industry, ensuring a safe environment for players. It also underscores the importance of compliance with regulatory requirements.",
+            "howToUse": "Operators should ensure they are aware of and comply with all relevant regulations and guidelines to avoid unauthorised activities.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
