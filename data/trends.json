@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-11T23:45:50.999Z",
+        "scanDate": "2026-06-12T03:38:30.085Z",
         "version": "2.5.0",
-        "totalTrends": 101,
+        "totalTrends": 100,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6px302qv0",
+            "title": "Ideogram 4 Released",
+            "subtitle": "Civitai releases Ideogram 4, an AI model for generating images",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VNm91bVJKVGxvbTRHel9HRzlIZDhGUDJsb281M2RweDZSNG1nNGgwU01DS3hVM19Ob3FFOWxsMzIzbmxzYU9zbC1qOGJYRF9JSmI0eVJ2VzM?oc=5",
+                "date": "2026-06-05T07:00:00.000Z"
+            },
+            "whatsNew": "Ideogram 4 is a new AI model that can generate high-quality images. It is available on Civitai and can be used for various applications. The model is an improvement over its predecessors, offering better performance and capabilities.",
+            "whyItMatters": "The release of Ideogram 4 is significant as it showcases the advancements in AI art generation technology. It has the potential to revolutionize the field of digital art and design.",
+            "howToUse": "Users can access Ideogram 4 on Civitai and utilize it to generate images for their projects. The model can be fine-tuned and customized to suit specific needs and applications.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-3qliuarou",
             "title": "AI Art Prompt",
@@ -111,40 +143,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-0c8gso9qm",
-            "title": "Mattel163 Scales",
-            "subtitle": "Mattel163 partners with Unity to scale mobile titles using Unity Vector, improving user quality and UA strategy",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Unity Vector",
-                "Mattel163",
-                "Mobile Gaming",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/mattel163-phase-10-vector-roas",
-                "date": "2026-05-29T00:00:00.000Z"
-            },
-            "whatsNew": "Mattel163 has partnered with Unity to leverage Unity Ads and Unity Vector, resulting in improved user quality and diversified UA strategy. The studio has seen significant improvements in payer conversion rates, retention rates, and LTV. Unity Vector has helped Mattel163 target the right users and drive long-term value in ROAS campaigns.",
-            "whyItMatters": "The partnership between Mattel163 and Unity demonstrates the effectiveness of Unity Vector in driving user quality and UA strategy for mobile game developers. This can have a significant impact on the gaming industry, as it provides a scalable and predictable way to drive higher performance and revenue.",
-            "howToUse": "Game developers can leverage Unity Vector to improve user quality and UA strategy by targeting the right users and driving long-term value in ROAS campaigns. This can be achieved by optimizing creative strategy, calibrating ROAS targets, and utilizing competitive benchmarking data.",
-            "beneficiaries": [
-                "Game Developers",
-                "Mobile Game Publishers"
-            ],
-            "companies": [
-                "Mattel163",
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -3036,38 +3034,6 @@
             "isNew": false
         },
         {
-            "id": "t-lk3u8nx2f",
-            "title": "Pony Diffusion",
-            "subtitle": "Stable Yogi releases Pony v6.5 diffusion checkpoint on Civitai",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "Pony Diffusion",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYmtHNzhCRGxMcTBpRWdJQ2RjWi01WW9mWVhoUHdjYjNtOFBiOThHQmJIdW1haXB1ZE16MG4wc0ZSeDdkVDFwMk5HZFRoemhKSmVmNUV2YTFxR1ZMcTF4dU5OV3VwMFBoOTZicGlB?oc=5",
-                "date": "2026-05-29T00:24:07.000Z"
-            },
-            "whatsNew": "Stable Yogi has released Pony v6.5, a new diffusion checkpoint for generating realistic images. This update is available on Civitai, a platform for AI models and datasets.",
-            "whyItMatters": "The release of Pony v6.5 demonstrates the ongoing advancements in AI art generation, enabling creators to produce more realistic images. This has significant implications for the gaming and art industries.",
-            "howToUse": "Developers and artists can utilize Pony v6.5 by integrating it into their existing AI pipelines or using it as a standalone tool for generating realistic images.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists"
-            ],
-            "companies": [
-                "Stable Yogi",
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-xcp97xae0",
             "title": "AI Image Checkpoint",
             "subtitle": "SoLordZ releases ZIT_v1.0, a ZImage checkpoint on Civitai",
@@ -3316,7 +3282,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": null
         },
         {
@@ -3335,7 +3301,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3344,7 +3310,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3353,7 +3319,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "Regulatory updates"
         },
         {
@@ -3371,7 +3337,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3380,7 +3346,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3400,7 +3366,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3458,7 +3424,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3467,7 +3433,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3476,7 +3442,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "Style browsing signal"
         },
         {
@@ -3513,7 +3479,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T22:00:38.562Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": null
         },
         {
@@ -3522,7 +3488,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-11T22:00:38.562Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": null
         },
         {
@@ -3531,7 +3497,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-11T12:43:23.838Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": null
         },
         {
@@ -3558,7 +3524,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T08:43:53.149Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": "Release notes, migrations"
         },
         {
@@ -3603,7 +3569,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-11T23:45:50.999Z",
+            "lastScan": "2026-06-12T03:38:30.085Z",
             "note": null
         },
         {
@@ -30635,6 +30601,72 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-0c8gso9qm",
+            "title": "Mattel163 Scales",
+            "subtitle": "Mattel163 partners with Unity to scale mobile titles using Unity Vector, improving user quality and UA strategy",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Unity Vector",
+                "Mattel163",
+                "Mobile Gaming",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/mattel163-phase-10-vector-roas",
+                "date": "2026-05-29T00:00:00.000Z"
+            },
+            "whatsNew": "Mattel163 has partnered with Unity to leverage Unity Ads and Unity Vector, resulting in improved user quality and diversified UA strategy. The studio has seen significant improvements in payer conversion rates, retention rates, and LTV. Unity Vector has helped Mattel163 target the right users and drive long-term value in ROAS campaigns.",
+            "whyItMatters": "The partnership between Mattel163 and Unity demonstrates the effectiveness of Unity Vector in driving user quality and UA strategy for mobile game developers. This can have a significant impact on the gaming industry, as it provides a scalable and predictable way to drive higher performance and revenue.",
+            "howToUse": "Game developers can leverage Unity Vector to improve user quality and UA strategy by targeting the right users and driving long-term value in ROAS campaigns. This can be achieved by optimizing creative strategy, calibrating ROAS targets, and utilizing competitive benchmarking data.",
+            "beneficiaries": [
+                "Game Developers",
+                "Mobile Game Publishers"
+            ],
+            "companies": [
+                "Mattel163",
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-lk3u8nx2f",
+            "title": "Pony Diffusion",
+            "subtitle": "Stable Yogi releases Pony v6.5 diffusion checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "Pony Diffusion",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYmtHNzhCRGxMcTBpRWdJQ2RjWi01WW9mWVhoUHdjYjNtOFBiOThHQmJIdW1haXB1ZE16MG4wc0ZSeDdkVDFwMk5HZFRoemhKSmVmNUV2YTFxR1ZMcTF4dU5OV3VwMFBoOTZicGlB?oc=5",
+                "date": "2026-05-29T00:24:07.000Z"
+            },
+            "whatsNew": "Stable Yogi has released Pony v6.5, a new diffusion checkpoint for generating realistic images. This update is available on Civitai, a platform for AI models and datasets.",
+            "whyItMatters": "The release of Pony v6.5 demonstrates the ongoing advancements in AI art generation, enabling creators to produce more realistic images. This has significant implications for the gaming and art industries.",
+            "howToUse": "Developers and artists can utilize Pony v6.5 by integrating it into their existing AI pipelines or using it as a standalone tool for generating realistic images.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Stable Yogi",
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
