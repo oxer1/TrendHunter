@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-12T16:16:22.098Z",
+        "scanDate": "2026-06-12T19:03:05.153Z",
         "version": "2.5.0",
-        "totalTrends": 95,
+        "totalTrends": 94,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3rd8u9o7m",
+            "title": "AI Art Generation",
+            "subtitle": "Using Ideogram prompts for editorial photoshoots in pastel settings",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Ideogram Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcG0xcW5rOEdQdU56RWYtdUhtdmFIeE0yRzN1b3ZQM3Y1b0FwcldnVUtqTkpKMkxqUElOUDRBOWpCN1VCUXhzY01PNDZtTy1Tbi1LcURmSC1lQnNFQW9vMjgwZTF2aTU5b0hDMmhDUjhfSkVvUjFNem1HbW9GeF83V3FmMFNRdVVYRnNFQUhDUHNDc3VReXpydDN2TjBJZmZVWFROQUdqNDNSekpxb09EX1hKdlZKbHBqcFhvZllueENSMEQ5SDkycGg5UGFEY2hhaExJM2dlcWxDajg0bS11VkVmRmpWRWo2WGc2VWIwaXpLTXM1ZDVTMUFpR3lWZGY0Qkc4a2YzYmNFcUV3U25qcThB?oc=5",
+                "date": "2026-06-09T16:27:05.000Z"
+            },
+            "whatsNew": "The use of Ideogram prompts for generating editorial photoshoots in pastel settings is a new trend in AI art generation. This technique allows for the creation of unique and stylized images. The application of pastel colors adds a soft and dreamy quality to the generated images.",
+            "whyItMatters": "This trend matters because it showcases the potential of AI in creative fields, particularly in art and design. It also highlights the importance of prompts in AI image generation, allowing for more specific and detailed outputs.",
+            "howToUse": "To use this trend, artists and designers can experiment with Ideogram prompts and pastel color palettes to generate unique and stylized images for editorial or commercial use. They can also combine this technique with other AI tools for further editing and refinement.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Photographers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ikn6yurxv",
             "title": "Flutter Delists",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6px302qv0",
@@ -1599,37 +1631,6 @@
             "isNew": false
         },
         {
-            "id": "t-ylfil08l6",
-            "title": "HeyGen Leads AI",
-            "subtitle": "HeyGen named top AI video platform by G2 Summer 2026 report",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "G2 Report",
-                "HeyGen"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HcTVUSEF5V2JfSXBpMG9tdkZLVmpQLVdKa1MwMWFjeEdSeXpMZFVnRVhrWms2X1RlVjV5RElWMDdub3VaMFVrNERVM2ZyaktmcFc2RDJCQW1GalY3Qk90ajNmZURmOGJP?oc=5",
-                "date": "2026-05-29T18:20:43.000Z"
-            },
-            "whatsNew": "HeyGen has been recognized as the number one AI video platform in the G2 Summer 2026 report. This acknowledges its leadership in AI-powered video solutions. The report highlights HeyGen's capabilities in AI video generation and editing.",
-            "whyItMatters": "This recognition impacts the AI for creative work sector, showcasing HeyGen's dominance in AI video technology. It matters for companies and individuals looking for innovative video creation tools.",
-            "howToUse": "Consider integrating HeyGen's AI video platform for enhanced video creation capabilities. Explore its features for AI-powered video editing and generation to boost content production.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketing Teams"
-            ],
-            "companies": [
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-abky4cms2",
             "title": "Spine 2D Update",
             "subtitle": "Version 4.2 issue with hiding bone names in Spine 2D",
@@ -2940,37 +2941,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-kv9o2f0hq",
-            "title": "Klein Edit v1.0",
-            "subtitle": "Civitai releases Change Scene Klein Edit v1.0 with Flux.2 Klein LoRA",
-            "category": "AI",
-            "tags": [
-                "AI Tools",
-                "LoRA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWDExaFBUdGZOeFliekY5ZVo1am9uX0liYk9vRFdUcG5uQzU1OWtOMEIwMXJVQ19KaUVGd0xmVnNPVVhCTUtVdjFqNmpGSEJBRDdiM0ZQRk56UnZzVm1aaUJWclg1akZlYUE?oc=5",
-                "date": "2026-05-29T18:01:33.000Z"
-            },
-            "whatsNew": "Civitai has released Change Scene - Klein Edit - v1.0, incorporating Flux.2 Klein LoRA, marking a significant update in AI-powered editing capabilities. This version aims to enhance user experience and editing efficiency. The integration of LoRA technology suggests a focus on improving model performance and versatility.",
-            "whyItMatters": "This release is important because it reflects the ongoing development and refinement of AI tools for creative work, potentially offering users more powerful and accessible editing solutions. It indicates the growing capabilities of AI in content creation and manipulation.",
-            "howToUse": "Users can leverage this update by exploring the new features and capabilities of Change Scene - Klein Edit - v1.0, especially focusing on how Flux.2 Klein LoRA enhances their editing workflow and outcomes.",
-            "beneficiaries": [
-                "Content Creators",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3127,7 +3097,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": null
         },
         {
@@ -3146,7 +3116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3155,7 +3125,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3164,7 +3134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "Regulatory updates"
         },
         {
@@ -3182,7 +3152,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3191,7 +3161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3211,7 +3181,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3269,7 +3239,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3278,7 +3248,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3287,7 +3257,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": "Style browsing signal"
         },
         {
@@ -3414,7 +3384,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-12T16:16:22.098Z",
+            "lastScan": "2026-06-12T19:03:05.153Z",
             "note": null
         },
         {
@@ -30698,6 +30668,68 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-ylfil08l6",
+            "title": "HeyGen Leads AI",
+            "subtitle": "HeyGen named top AI video platform by G2 Summer 2026 report",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "G2 Report",
+                "HeyGen"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HcTVUSEF5V2JfSXBpMG9tdkZLVmpQLVdKa1MwMWFjeEdSeXpMZFVnRVhrWms2X1RlVjV5RElWMDdub3VaMFVrNERVM2ZyaktmcFc2RDJCQW1GalY3Qk90ajNmZURmOGJP?oc=5",
+                "date": "2026-05-29T18:20:43.000Z"
+            },
+            "whatsNew": "HeyGen has been recognized as the number one AI video platform in the G2 Summer 2026 report. This acknowledges its leadership in AI-powered video solutions. The report highlights HeyGen's capabilities in AI video generation and editing.",
+            "whyItMatters": "This recognition impacts the AI for creative work sector, showcasing HeyGen's dominance in AI video technology. It matters for companies and individuals looking for innovative video creation tools.",
+            "howToUse": "Consider integrating HeyGen's AI video platform for enhanced video creation capabilities. Explore its features for AI-powered video editing and generation to boost content production.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-kv9o2f0hq",
+            "title": "Klein Edit v1.0",
+            "subtitle": "Civitai releases Change Scene Klein Edit v1.0 with Flux.2 Klein LoRA",
+            "category": "AI",
+            "tags": [
+                "AI Tools",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWDExaFBUdGZOeFliekY5ZVo1am9uX0liYk9vRFdUcG5uQzU1OWtOMEIwMXJVQ19KaUVGd0xmVnNPVVhCTUtVdjFqNmpGSEJBRDdiM0ZQRk56UnZzVm1aaUJWclg1akZlYUE?oc=5",
+                "date": "2026-05-29T18:01:33.000Z"
+            },
+            "whatsNew": "Civitai has released Change Scene - Klein Edit - v1.0, incorporating Flux.2 Klein LoRA, marking a significant update in AI-powered editing capabilities. This version aims to enhance user experience and editing efficiency. The integration of LoRA technology suggests a focus on improving model performance and versatility.",
+            "whyItMatters": "This release is important because it reflects the ongoing development and refinement of AI tools for creative work, potentially offering users more powerful and accessible editing solutions. It indicates the growing capabilities of AI in content creation and manipulation.",
+            "howToUse": "Users can leverage this update by exploring the new features and capabilities of Change Scene - Klein Edit - v1.0, especially focusing on how Flux.2 Klein LoRA enhances their editing workflow and outcomes.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
