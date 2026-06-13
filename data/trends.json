@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-13T20:13:59.534Z",
+        "scanDate": "2026-06-13T22:01:19.941Z",
         "version": "2.5.0",
-        "totalTrends": 94,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,71 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-w7ieucyxz",
+            "title": "UEFA Negotiations",
+            "subtitle": "UEFA confirms negotiations following bet365 Champions League renewal rumours",
+            "category": "iGaming",
+            "tags": [
+                "UEFA",
+                "bet365",
+                "Champions League",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUxfLUhhRVdPWV90ak9nWWJuVFJheGhUcXk5aGlwSjNtblltSFRnMmoxVEN1REJpelF6QzFLd2d4RmVVbUhaS1ZXRUlLc0VjbHctbWo1bl9iX241eGJ2elQ1VTZmTXFXak1WNGM0bUJVNmVDakJSNEJ5QU1wUDZ1RkZ1UmlSbmZqMWpBQ0E1djJKcUk3SXVZQnNmM1lWeVNaNmJsTnNIX0pwOW1WUFQ0NA?oc=5",
+                "date": "2026-06-02T09:04:39.000Z"
+            },
+            "whatsNew": "UEFA has confirmed negotiations are underway, following rumors of a potential renewal of bet365's Champions League sponsorship. The deal could have significant implications for the sports betting industry. UEFA's confirmation marks a new development in the saga.",
+            "whyItMatters": "The potential renewal could impact the sports betting landscape, with bet365 potentially maintaining its position as a major player. This could also influence how other operators approach similar sponsorships.",
+            "howToUse": "Operators should monitor the situation closely, as it may provide insights into effective sponsorship strategies and the evolving relationship between sports and betting.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Sponsorship Managers"
+            ],
+            "companies": [
+                "bet365",
+                "UEFA"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-9ccsxhiha",
+            "title": "AI Autoprompter",
+            "subtitle": "Civitai releases Ideogram 4 Autoprompter json workflow and custom node",
+            "category": "AI",
+            "tags": [
+                "AI Autoprompter",
+                "Ideogram 4",
+                "Civitai",
+                "JSON Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTQ1NGpzNzlrVXgxdEN6bUo5dUJxZkZ4T0NGSmRaTDF0UUY3QmYzc0I1b0F2NThxRkZ6TVc2UUxoYTVGd3JVVUxEUHE2WFNHeWRpR1dCV3VURzhnc1hOUTBPOTMxRU4tcUE4emY4cXVVMkZscExURVR1bEU3eEt1RDZwNVc2em1KeUZmeTRGa2U5QQ?oc=5",
+                "date": "2026-06-12T16:27:48.000Z"
+            },
+            "whatsNew": "Civitai has introduced the Ideogram 4 Autoprompter json workflow and custom node, a new tool for AI-powered content creation. This workflow aims to simplify and enhance the autoprompting process. The custom node allows for more flexibility and customization in AI workflows.",
+            "whyItMatters": "The Ideogram 4 Autoprompter has the potential to significantly impact AI content creation by providing a more efficient and customizable autoprompting process. This can lead to more innovative and high-quality AI-generated content.",
+            "howToUse": "Developers and content creators can utilize the Ideogram 4 Autoprompter by integrating it into their existing AI workflows, allowing for more streamlined and efficient content generation.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-3yldsjxbg",
             "title": "AI Art Model",
@@ -3098,7 +3163,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": null
         },
         {
@@ -3117,7 +3182,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3126,7 +3191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3135,7 +3200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": "Regulatory updates"
         },
         {
@@ -3153,7 +3218,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3162,7 +3227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3182,7 +3247,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3240,7 +3305,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3386,7 +3451,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T20:13:59.534Z",
+            "lastScan": "2026-06-13T22:01:19.941Z",
             "note": null
         },
         {
