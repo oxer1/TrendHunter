@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-13T07:44:23.865Z",
+        "scanDate": "2026-06-13T10:27:14.554Z",
         "version": "2.5.0",
-        "totalTrends": 93,
+        "totalTrends": 94,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2jp1jw36c",
+            "title": "AI Video Tools",
+            "subtitle": "Civitai updates DaSiWa Wan2.2 Workflows and FastFidelity C-AiO v8.3 for enhanced video processing",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Civitai",
+                "FastFidelity"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY21VazFqOExEZ2pJcjRrMWh2d3RpaWJKSDQ0NTFkQ2pEYldFS3FGdVpyTklDZi1NUXctV1VhVk9KaUE3VkdnLVgwM0ZkWHJGZFE0eUpSWXdub2hGbi15b2ZhMFRoNE9iQ0ZUTDBhRTRHUU9ESllIU254T3RCTVpRTWZkMFMzQ081dkNR?oc=5",
+                "date": "2026-06-09T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has updated its DaSiWa Wan2.2 Workflows and introduced FastFidelity C-AiO v8.3, enhancing video processing capabilities. These updates aim to improve efficiency and quality in video workflows.",
+            "whyItMatters": "These updates matter because they can significantly impact the video processing industry, offering faster and more reliable solutions for content creators. This can lead to increased productivity and better quality outputs.",
+            "howToUse": "Content creators can utilize these updated workflows and tools to streamline their video processing tasks, focusing on more creative aspects of their work.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Editors"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-ge6jdi8kn",
             "title": "Kung Fu Panda Style",
@@ -3068,7 +3099,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.554Z",
             "note": null
         },
         {
@@ -3087,7 +3118,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3096,7 +3127,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3105,7 +3136,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "Regulatory updates"
         },
         {
@@ -3123,7 +3154,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3132,7 +3163,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3152,7 +3183,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3210,7 +3241,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3219,7 +3250,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3228,7 +3259,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": "Style browsing signal"
         },
         {
@@ -3265,7 +3296,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": null
         },
         {
@@ -3274,7 +3305,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": null
         },
         {
@@ -3283,7 +3314,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": null
         },
         {
@@ -3308,10 +3339,11 @@
             "name": "PixiJS Blog",
             "url": "https://pixijs.com/blog",
             "category": "Tech",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
-            "note": "Release notes, migrations"
+            "lastScan": "2026-06-13T10:27:14.555Z",
+            "note": "Release notes, migrations",
+            "errorReason": "fetch failed"
         },
         {
             "name": "PixiJS Discord",
@@ -3355,7 +3387,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T07:44:23.865Z",
+            "lastScan": "2026-06-13T10:27:14.555Z",
             "note": null
         },
         {
