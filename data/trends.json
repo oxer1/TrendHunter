@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-13T12:23:27.832Z",
+        "scanDate": "2026-06-13T14:58:39.181Z",
         "version": "2.5.0",
-        "totalTrends": 94,
+        "totalTrends": 93,
         "categories": [
             "iGaming",
             "AI",
@@ -2911,38 +2911,6 @@
             "visualStyle": null,
             "cluster": "animation-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-xcp97xae0",
-            "title": "AI Image Checkpoint",
-            "subtitle": "SoLordZ releases ZIT_v1.0, a ZImage checkpoint on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ORDNxdlF4N3g0ZW40a01kdDZ0QkcyckdaejA1SnJESTlMa2ZLeFJlNnd0OGVFN05BeHVVVWRZNUE2Sm4zMENQZmpVOEhrbFZMbEtIOEY5RUp3Y2lpaEFhVXItQTUtZTkzRmpsSDlfSGtSc2c?oc=5",
-                "date": "2026-05-30T13:39:12.000Z"
-            },
-            "whatsNew": "SoLordZ has released ZIT_v1.0, a new ZImage checkpoint on the Civitai platform, allowing for advanced image generation capabilities. This checkpoint is part of the ongoing development in AI art generation. The release is significant as it contributes to the growing library of AI image generation models.",
-            "whyItMatters": "The release of ZIT_v1.0 is important because it showcases the rapid advancement in AI image generation technology, offering new possibilities for creative work. It also highlights the role of platforms like Civitai in facilitating the development and sharing of AI models.",
-            "howToUse": "Developers and artists can utilize ZIT_v1.0 by integrating it into their projects to generate high-quality images, exploring its potential for various applications such as gaming, animation, and visual design.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3099,7 +3067,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": null
         },
         {
@@ -3118,7 +3086,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3127,7 +3095,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3136,7 +3104,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "Regulatory updates"
         },
         {
@@ -3154,7 +3122,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3163,7 +3131,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3183,7 +3151,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3241,7 +3209,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3250,7 +3218,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T10:27:14.555Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3259,7 +3227,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T10:27:14.555Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": "Style browsing signal"
         },
         {
@@ -3296,7 +3264,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T10:27:14.555Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": null
         },
         {
@@ -3387,7 +3355,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T12:23:27.832Z",
+            "lastScan": "2026-06-13T14:58:39.181Z",
             "note": null
         },
         {
@@ -30795,6 +30763,38 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-xcp97xae0",
+            "title": "AI Image Checkpoint",
+            "subtitle": "SoLordZ releases ZIT_v1.0, a ZImage checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ORDNxdlF4N3g0ZW40a01kdDZ0QkcyckdaejA1SnJESTlMa2ZLeFJlNnd0OGVFN05BeHVVVWRZNUE2Sm4zMENQZmpVOEhrbFZMbEtIOEY5RUp3Y2lpaEFhVXItQTUtZTkzRmpsSDlfSGtSc2c?oc=5",
+                "date": "2026-05-30T13:39:12.000Z"
+            },
+            "whatsNew": "SoLordZ has released ZIT_v1.0, a new ZImage checkpoint on the Civitai platform, allowing for advanced image generation capabilities. This checkpoint is part of the ongoing development in AI art generation. The release is significant as it contributes to the growing library of AI image generation models.",
+            "whyItMatters": "The release of ZIT_v1.0 is important because it showcases the rapid advancement in AI image generation technology, offering new possibilities for creative work. It also highlights the role of platforms like Civitai in facilitating the development and sharing of AI models.",
+            "howToUse": "Developers and artists can utilize ZIT_v1.0 by integrating it into their projects to generate high-quality images, exploring its potential for various applications such as gaming, animation, and visual design.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
