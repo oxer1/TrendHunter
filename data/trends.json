@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-14T19:23:32.553Z",
+        "scanDate": "2026-06-14T21:09:00.233Z",
         "version": "2.5.0",
-        "totalTrends": 97,
+        "totalTrends": 98,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jp18oam3d",
+            "title": "Juggernaut Z Released",
+            "subtitle": "RunDiffusion releases Juggernaut Z, a new ZImage checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "ZImage",
+                "RunDiffusion",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVG1QQ3d6ZVJmSEQ1VEVMT2xoVGRDM1JyNXdiMjlTMlN4MEhkZzZ0aTdaaXB0Y0RTVkNNUDhCazdRZ1hQck5DYUh1eXB1VHpOaUNCUlVuX2tRYUU?oc=5",
+                "date": "2026-06-08T14:05:10.000Z"
+            },
+            "whatsNew": "Juggernaut Z is a new ZImage checkpoint that offers fast image generation capabilities. It is available on Civitai, a platform for AI models and checkpoints. This release is significant for AI art generation and related applications.",
+            "whyItMatters": "The release of Juggernaut Z can impact the development of AI-powered visual design tools, potentially enhancing the quality and speed of image generation. This can be particularly beneficial for industries relying on AI art, such as gaming and visual effects.",
+            "howToUse": "Developers and artists can utilize Juggernaut Z by integrating it into their AI pipelines for faster and more efficient image generation. This can be achieved by accessing the checkpoint through Civitai and incorporating it into their existing workflows.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Artists"
+            ],
+            "companies": [
+                "RunDiffusion"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ynuhrzoox",
             "title": "ATG New CEO",
@@ -3201,7 +3232,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
+            "lastScan": "2026-06-14T21:09:00.233Z",
             "note": null
         },
         {
@@ -3218,31 +3249,28 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "fallbackUsed": "metadata-only",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.233Z",
+            "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "fallbackUsed": "search-summary",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -3257,22 +3285,20 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "EU regulatory insights",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": "EU regulatory insights"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
+            "lastScan": "2026-06-14T21:09:00.234Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop",
-            "errorReason": "HTTP 503"
+            "fallbackUsed": "manual_link_drop"
         },
         {
             "name": "X / Twitter",
@@ -3288,11 +3314,10 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
             "name": "r/StableDiffusion",
@@ -3347,31 +3372,28 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "Prompt gallery signal — style/trend detection",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": "Prompt gallery signal — style/trend detection"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "Promptbook — style/prompt signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "Style browsing signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": "Style browsing signal"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -3405,21 +3427,19 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-14T21:09:00.234Z",
+            "note": null
         },
         {
             "name": "HeyGen",
@@ -3501,7 +3521,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
+            "lastScan": "2026-06-14T21:09:00.234Z",
             "note": null
         },
         {
