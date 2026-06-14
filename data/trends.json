@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-14T15:48:10.763Z",
+        "scanDate": "2026-06-14T17:18:04.973Z",
         "version": "2.5.0",
-        "totalTrends": 95,
+        "totalTrends": 97,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ynuhrzoox",
+            "title": "ATG New CEO",
+            "subtitle": "ATG appoints former Svenska Spel VP as new CEO, a move that could impact the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "ATG",
+                "Svenska Spel",
+                "CEO Appointment"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDAyaDBqZ3c2VlphNi1seVNLSHVXVTRFc2o1Tk1XMVhHMFRrYWtQRXVrMC11QWxhQjRzOE5vcmg0RTN5VDZrc185bnl2QnZEUmRyN1VvWUJEWFhvcVpqU013SC1QYlQ1THBjd291ei03WUk5M3ZOVEpuWXgxZ09qQTh5OTZzT1hh?oc=5",
+                "date": "2026-06-11T10:54:09.000Z"
+            },
+            "whatsNew": "ATG has appointed a new CEO, a former VP from Svenska Spel. This change in leadership may bring new strategies to the company. The appointment is seen as a significant move in the iGaming industry.",
+            "whyItMatters": "The new CEO's experience from Svenska Spel could bring valuable insights to ATG, potentially influencing the company's direction and decision-making. This appointment may have implications for the iGaming industry as a whole.",
+            "howToUse": "Companies in the iGaming sector should monitor ATG's future moves and strategies under the new leadership. This could provide opportunities for collaboration or insight into industry trends.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "ATG",
+                "Svenska Spel"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-abwbjk8z9",
+            "title": "AI Photo Prompt",
+            "subtitle": "PromptHero introduces high-resolution photograph generation using AI",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDNVT0VPYUw4bVVtMWdKcjNYbXVWV09Fdzk4M0NnSDRiUlJRWUY4bDlfdm9fdF92R1g1RTFRajRfSzFmZERPMVA0Mm5wQnIyb3E2NlR6Yi1LN0Q5dGtob3NUQzNXQktuNTNTN2t3MjdYN0d4d0dnY01XQnBlaE1OcV9TX0l0T1dRYy1UMG9UbU1YRm85cW9TREpMdENZQXJIT2RoVDB0bzA3U0RXYTJOeGw2M3RVdTBWSE84NVVaU1h1NEt0SDhZMEE3dHZrOU5QRUpjcElEU1NrT0xwdlk4OFllaW5ZOWR1WmRYSkln?oc=5",
+                "date": "2026-06-12T00:10:07.000Z"
+            },
+            "whatsNew": "PromptHero's new AI model generates high-resolution photographs based on text prompts, allowing for stunning use of lighting and detail. The model can create realistic images of women and other subjects. This technology has the potential to revolutionize the field of photography and art.",
+            "whyItMatters": "The ability to generate high-resolution photographs using AI has significant implications for the art and design industries. It could also be used in various applications such as advertising, fashion, and entertainment.",
+            "howToUse": "Users can utilize PromptHero's AI model by inputting text prompts and adjusting parameters to generate desired images. This can be used for creative projects, advertising, and other applications.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Advertisers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-nxvprjlfp",
             "title": "AI Art Update",
@@ -3137,7 +3201,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": null
         },
         {
@@ -3156,7 +3220,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3165,7 +3229,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3174,7 +3238,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": "Regulatory updates"
         },
         {
@@ -3192,7 +3256,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3201,7 +3265,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3221,7 +3285,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3279,7 +3343,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3424,7 +3488,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T15:48:10.763Z",
+            "lastScan": "2026-06-14T17:18:04.973Z",
             "note": null
         },
         {
