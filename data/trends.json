@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-14T05:30:13.895Z",
+        "scanDate": "2026-06-14T09:29:23.334Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 94,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ytr3d3ebw",
+            "title": "Playrix Unity Ads",
+            "subtitle": "Playrix grows Township with Unity Ads' D28 IAP ROAS optimizer, leveraging Unity's suite of growth services to scale and drive revenue",
+            "category": "Tech",
+            "tags": [
+                "Unity Ads",
+                "Playrix",
+                "D28 IAP ROAS optimizer",
+                "Mobile Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/playrix-township-roas-optimization-vector",
+                "date": "2026-06-15T00:00:00.000Z"
+            },
+            "whatsNew": "Playrix is utilizing Unity Ads' D28 IAP ROAS optimizer to grow their title Township, with significant improvements in campaign scaling and revenue. The D28 IAP ROAS optimizer has allowed Playrix to scale their campaigns more efficiently, with better retention and revenue per install.",
+            "whyItMatters": "The success of Playrix with Unity Ads' D28 IAP ROAS optimizer demonstrates the potential for mobile gaming companies to leverage advanced advertising solutions to drive growth and revenue. This trend is likely to impact the mobile gaming industry, as more companies seek to optimize their advertising campaigns.",
+            "howToUse": "Mobile gaming companies can leverage Unity Ads' D28 IAP ROAS optimizer to optimize their advertising campaigns, focusing on retention and revenue per install. By working closely with the Unity team, companies can gain valuable insights and support to achieve better campaign performance.",
+            "beneficiaries": [
+                "Mobile Gaming Companies",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "Playrix",
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-rt82ktoig",
             "title": "D-ID Alternatives",
@@ -51,7 +84,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w7ieucyxz",
@@ -116,37 +149,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-3yldsjxbg",
-            "title": "AI Art Model",
-            "subtitle": "Alphgreed releases greedv1.0, a ZImage checkpoint on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ZImage",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tbTBpVEFXQXBnNnQ0NGVlVFZld0kyV0NQME02SlJzdVdHSE0wZkJ1eld5Y3ZHSzRFb2tiMXM2b0xCR3l5UV9fQ191ZnoxVFhrRkJid3Qwbw?oc=5",
-                "date": "2026-05-31T07:00:00.000Z"
-            },
-            "whatsNew": "Alphgreed has released greedv1.0, a new ZImage checkpoint available on Civitai, indicating advancements in AI art generation capabilities. This model can potentially create more realistic and detailed images. The release is part of the ongoing development in AI art tools.",
-            "whyItMatters": "The release of greedv1.0 signifies the continuous improvement in AI art generation, which can impact various creative industries. It provides artists and developers with more sophisticated tools for generating art, potentially changing the landscape of digital content creation.",
-            "howToUse": "Developers and artists can utilize greedv1.0 by integrating it into their projects to generate high-quality images, exploring its capabilities in creating unique digital art, and pushing the boundaries of what is possible with AI-generated content.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2484,35 +2486,6 @@
             "isNew": false
         },
         {
-            "id": "t-1momhgao3",
-            "title": "AC Jackpot Report",
-            "subtitle": "NJ Division of Gaming Enforcement releases list of Atlantic City jackpots over $40,000",
-            "category": "iGaming",
-            "tags": [
-                "NJ DGE",
-                "Atlantic City",
-                "Jackpots"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
-                "date": "2026-05-31T07:00:00.000Z"
-            },
-            "whatsNew": "The NJ Division of Gaming Enforcement has published a list of jackpots won in Atlantic City, totaling over $40,000. The list is 78 pages long, indicating a significant number of large wins. This report provides insight into the gaming activity in Atlantic City.",
-            "whyItMatters": "This report is important for the iGaming industry as it highlights the winning potential in Atlantic City, which can attract more players and boost the local economy. It also demonstrates the transparency of the NJ DGE in reporting gaming activity.",
-            "howToUse": "Gaming operators and players can use this information to understand the winning potential in Atlantic City and make informed decisions about their gaming activities.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ruovkucpk",
             "title": "AI Art Prompt",
             "subtitle": "Highly detailed cinematographic AI art prompt for savage opress",
@@ -2698,38 +2671,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-225n8mpuz",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases new Illustrious Checkpoint version with multiple AI models integrated.",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Illustrious Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjJrZVRYVEt5NVhXbXNGZ1R6eU9keGtuQWdqRndjelRWYWN3bEhwdUJxWUZDVG4xcndnZlNLVFFKeDI1ZF9WallMSWpsX1dhbUNhZEJJdHFzMmFkVFZXR1BsOVJ4VXRJN28yWlIxVjR6WjlScGU3ai1fVE1jMUhrYVhFb3JOVTFnRi1ReEhCaFhDOWM?oc=5",
-                "date": "2026-05-31T07:00:00.000Z"
-            },
-            "whatsNew": "The new version, v7.77, integrates JANKU Trained, Chenkin & NoobAI, and RouWei Illustrious XL models, enhancing AI art generation capabilities. This update showcases the continuous improvement in AI art technology. The integration of multiple models expands the creative possibilities for users.",
-            "whyItMatters": "This update matters because it demonstrates the rapid advancement in AI art generation, offering more sophisticated tools for creative work. It also highlights the collaborative efforts in the AI community, leading to more comprehensive solutions.",
-            "howToUse": "Users can leverage this update by exploring the new models and features in the Illustrious Checkpoint, applying them to their art generation projects to achieve more diverse and complex results.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "AI Researchers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -3165,7 +3106,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": null
         },
         {
@@ -3184,7 +3125,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3193,7 +3134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3202,7 +3143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "Regulatory updates"
         },
         {
@@ -3220,7 +3161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3229,7 +3170,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3249,7 +3190,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3307,7 +3248,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3316,7 +3257,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3325,7 +3266,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": "Style browsing signal"
         },
         {
@@ -3362,7 +3303,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": null
         },
         {
@@ -3371,7 +3312,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": null
         },
         {
@@ -3452,7 +3393,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T05:30:13.895Z",
+            "lastScan": "2026-06-14T09:29:23.334Z",
             "note": null
         },
         {
@@ -30923,6 +30864,98 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-3yldsjxbg",
+            "title": "AI Art Model",
+            "subtitle": "Alphgreed releases greedv1.0, a ZImage checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ZImage",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tbTBpVEFXQXBnNnQ0NGVlVFZld0kyV0NQME02SlJzdVdHSE0wZkJ1eld5Y3ZHSzRFb2tiMXM2b0xCR3l5UV9fQ191ZnoxVFhrRkJid3Qwbw?oc=5",
+                "date": "2026-05-31T07:00:00.000Z"
+            },
+            "whatsNew": "Alphgreed has released greedv1.0, a new ZImage checkpoint available on Civitai, indicating advancements in AI art generation capabilities. This model can potentially create more realistic and detailed images. The release is part of the ongoing development in AI art tools.",
+            "whyItMatters": "The release of greedv1.0 signifies the continuous improvement in AI art generation, which can impact various creative industries. It provides artists and developers with more sophisticated tools for generating art, potentially changing the landscape of digital content creation.",
+            "howToUse": "Developers and artists can utilize greedv1.0 by integrating it into their projects to generate high-quality images, exploring its capabilities in creating unique digital art, and pushing the boundaries of what is possible with AI-generated content.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-1momhgao3",
+            "title": "AC Jackpot Report",
+            "subtitle": "NJ Division of Gaming Enforcement releases list of Atlantic City jackpots over $40,000",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Atlantic City",
+                "Jackpots"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-05-31T07:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has published a list of jackpots won in Atlantic City, totaling over $40,000. The list is 78 pages long, indicating a significant number of large wins. This report provides insight into the gaming activity in Atlantic City.",
+            "whyItMatters": "This report is important for the iGaming industry as it highlights the winning potential in Atlantic City, which can attract more players and boost the local economy. It also demonstrates the transparency of the NJ DGE in reporting gaming activity.",
+            "howToUse": "Gaming operators and players can use this information to understand the winning potential in Atlantic City and make informed decisions about their gaming activities.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-225n8mpuz",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases new Illustrious Checkpoint version with multiple AI models integrated.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Illustrious Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjJrZVRYVEt5NVhXbXNGZ1R6eU9keGtuQWdqRndjelRWYWN3bEhwdUJxWUZDVG4xcndnZlNLVFFKeDI1ZF9WallMSWpsX1dhbUNhZEJJdHFzMmFkVFZXR1BsOVJ4VXRJN28yWlIxVjR6WjlScGU3ai1fVE1jMUhrYVhFb3JOVTFnRi1ReEhCaFhDOWM?oc=5",
+                "date": "2026-05-31T07:00:00.000Z"
+            },
+            "whatsNew": "The new version, v7.77, integrates JANKU Trained, Chenkin & NoobAI, and RouWei Illustrious XL models, enhancing AI art generation capabilities. This update showcases the continuous improvement in AI art technology. The integration of multiple models expands the creative possibilities for users.",
+            "whyItMatters": "This update matters because it demonstrates the rapid advancement in AI art generation, offering more sophisticated tools for creative work. It also highlights the collaborative efforts in the AI community, leading to more comprehensive solutions.",
+            "howToUse": "Users can leverage this update by exploring the new models and features in the Illustrious Checkpoint, applying them to their art generation projects to achieve more diverse and complex results.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
