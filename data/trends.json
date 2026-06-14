@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-14T00:04:07.741Z",
+        "scanDate": "2026-06-14T05:30:13.895Z",
         "version": "2.5.0",
-        "totalTrends": 95,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rt82ktoig",
+            "title": "D-ID Alternatives",
+            "subtitle": "Synthesia reviews the best D-ID alternatives for AI video tools in 2026",
+            "category": "AI",
+            "tags": [
+                "D-ID",
+                "Synthesia",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0U2pCSTVwOGtpNGwxWk5NYnJOS1N1OVlCLW9yeGZsZVhHRC0xMG03YV94UVJhMTdpc3JreTI0OXdmQ0hLYmswT0JNeDF2LXlCcFJlY0RiMGEzcFk4dmJ0ZGF3?oc=5",
+                "date": "2026-06-03T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia has tested and ranked the top 5 D-ID alternatives for 2026, focusing on AI video generation and editing capabilities. These alternatives offer advanced features and improved performance. The review highlights the key benefits and drawbacks of each option.",
+            "whyItMatters": "The emergence of D-ID alternatives signifies a growing demand for AI-powered video creation tools, impacting the future of content creation and video production. This trend is crucial for businesses and individuals seeking to leverage AI for visual content.",
+            "howToUse": "Content creators can utilize these D-ID alternatives to produce high-quality, personalized videos with minimal effort, enhancing their content strategy and engagement. By exploring these options, users can find the best fit for their specific needs and workflows.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia",
+                "D-ID"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-w7ieucyxz",
             "title": "UEFA Negotiations",
@@ -3132,7 +3165,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": null
         },
         {
@@ -3151,7 +3184,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3160,7 +3193,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3169,7 +3202,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "Regulatory updates"
         },
         {
@@ -3187,7 +3220,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3196,7 +3229,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3216,7 +3249,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3274,7 +3307,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3283,7 +3316,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T14:58:39.181Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3292,7 +3325,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T14:58:39.181Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": "Style browsing signal"
         },
         {
@@ -3329,7 +3362,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T14:58:39.181Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": null
         },
         {
@@ -3338,7 +3371,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-13T10:27:14.555Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": null
         },
         {
@@ -3347,7 +3380,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-13T10:27:14.555Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": null
         },
         {
@@ -3372,11 +3405,10 @@
             "name": "PixiJS Blog",
             "url": "https://pixijs.com/blog",
             "category": "Tech",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T10:27:14.555Z",
-            "note": "Release notes, migrations",
-            "errorReason": "fetch failed"
+            "lastScan": "2026-06-14T05:30:13.895Z",
+            "note": "Release notes, migrations"
         },
         {
             "name": "PixiJS Discord",
@@ -3420,7 +3452,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T00:04:07.741Z",
+            "lastScan": "2026-06-14T05:30:13.895Z",
             "note": null
         },
         {
