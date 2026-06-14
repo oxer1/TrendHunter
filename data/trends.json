@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-13T22:01:19.941Z",
+        "scanDate": "2026-06-14T00:04:07.741Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 95,
         "categories": [
             "iGaming",
             "AI",
@@ -51,7 +51,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9ccsxhiha",
@@ -83,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3yldsjxbg",
@@ -2604,37 +2604,6 @@
             "isNew": false
         },
         {
-            "id": "t-69zyracwg",
-            "title": "UK Licence Update",
-            "subtitle": "Keene James Ashton licence summary from UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Licence Summary",
-                "UK Gambling Commission",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGltY2ZoMi05Z2VkczlxNTEwTV9ld1pnX3l4bmZvUE81OWFLUU5lMXNQNjhldmFRcllocTRBTXFlNWhFSE43TERxWTBiRUFwTWUzYld1UDdzX0o3TVJPeDdnVGZ1a0pTQjhsZFBrVG03RnpIa0o0VTh0NlV5aE14QU1n?oc=5",
-                "date": "2026-05-30T22:28:46.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has released a licence summary for Keene James Ashton. This update provides information on the current licensing status.",
-            "whyItMatters": "This information is crucial for understanding the regulatory compliance of Keene James Ashton in the UK iGaming market. It impacts operators and players alike by ensuring fair and safe gaming practices.",
-            "howToUse": "Operators can use this information to ensure compliance with UK regulations, while players can use it to verify the legitimacy of gaming services.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Gamers"
-            ],
-            "companies": [
-                "Keene James Ashton"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-gpwh43y4d",
             "title": "Gambling CEO Move",
             "subtitle": "Former Gambling Commission CEO joins Hawkbridge",
@@ -3163,7 +3132,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": null
         },
         {
@@ -3182,7 +3151,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3191,7 +3160,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3200,7 +3169,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": "Regulatory updates"
         },
         {
@@ -3218,7 +3187,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3227,7 +3196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3247,7 +3216,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3305,7 +3274,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3451,7 +3420,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-13T22:01:19.941Z",
+            "lastScan": "2026-06-14T00:04:07.741Z",
             "note": null
         },
         {
@@ -30891,6 +30860,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-69zyracwg",
+            "title": "UK Licence Update",
+            "subtitle": "Keene James Ashton licence summary from UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Licence Summary",
+                "UK Gambling Commission",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGltY2ZoMi05Z2VkczlxNTEwTV9ld1pnX3l4bmZvUE81OWFLUU5lMXNQNjhldmFRcllocTRBTXFlNWhFSE43TERxWTBiRUFwTWUzYld1UDdzX0o3TVJPeDdnVGZ1a0pTQjhsZFBrVG03RnpIa0o0VTh0NlV5aE14QU1n?oc=5",
+                "date": "2026-05-30T22:28:46.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released a licence summary for Keene James Ashton. This update provides information on the current licensing status.",
+            "whyItMatters": "This information is crucial for understanding the regulatory compliance of Keene James Ashton in the UK iGaming market. It impacts operators and players alike by ensuring fair and safe gaming practices.",
+            "howToUse": "Operators can use this information to ensure compliance with UK regulations, while players can use it to verify the legitimacy of gaming services.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Gamers"
+            ],
+            "companies": [
+                "Keene James Ashton"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
