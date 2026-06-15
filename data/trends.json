@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-15T03:57:28.537Z",
+        "scanDate": "2026-06-15T10:24:24.262Z",
         "version": "2.5.0",
-        "totalTrends": 96,
+        "totalTrends": 92,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ezi69leq6",
+            "title": "NY Sports Betting",
+            "subtitle": "New York sports betting revenue declines in May",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "New York",
+                "Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpCbXdXR0FOUW4yX3IzSF9tRWZWYmU0VzNZcVlYRnQ0ODZPckVfS3p1R1k3RFZZZURUeXZ2NlFIcFpZcnBIVmpnWHpFWHRVRFZwdlNoQmFyUFhIZ0R0ekhiYzRVOFFuUThHZUQ5LVFjXzItOEJ5dm5tZmNCS1BaZmZxMmdxeGZKdUtjc3oyaGRRUE9vOFlzOTlFaXF5b0pwOUE?oc=5",
+                "date": "2026-06-09T15:17:52.000Z"
+            },
+            "whatsNew": "New York's sports betting revenue has decreased in May, following previous months' high earnings. The decline is attributed to various factors, including seasonal changes in sports events. This shift may impact the state's overall gambling revenue.",
+            "whyItMatters": "The decline in sports betting revenue may influence the iGaming industry's growth and regulation in New York. It also affects the state's tax income from gambling activities.",
+            "howToUse": "Operators should analyze the decline in revenue and adjust their strategies to attract more customers and increase engagement. They can also explore new marketing techniques to compensate for the loss.",
+            "beneficiaries": [
+                "Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-vysqm6mnw",
+            "title": "Anima v1.0",
+            "subtitle": "Civitai releases Anima Checkpoint version 1.0",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5heEpiZzZzWE1aRldLLVZwbWxtZm9sbDVjT2dWd2RmZzJUblNyZU9XcWl5cHlhTVI0OTRFU3Q4SU9GQjFhNzgwVU1FdDlJejM3R1JhVEUwa19fU2l6T2VJa19Vbw?oc=5",
+                "date": "2026-06-13T12:47:14.000Z"
+            },
+            "whatsNew": "Civitai has released Anima Checkpoint version 1.0, a significant update to their AI art generation tool. This new version brings improved features and capabilities. The release is part of the ongoing development of AI art generation tools.",
+            "whyItMatters": "The release of Anima v1.0 matters because it showcases the rapid advancement of AI art generation technology, which can be applied to various creative fields, including gaming and visual design. This can lead to new possibilities for artists and designers.",
+            "howToUse": "Artists and designers can utilize Anima v1.0 to generate unique art pieces, explore new styles, and streamline their creative workflows. Experimenting with the tool's features can help unlock its full potential.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-jbw204ctc",
+            "title": "Lenovo UltraReal",
+            "subtitle": "Lenovo releases UltraReal v1.0 Ideogram4 on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Lenovo",
+                "UltraReal"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
+                "date": "2026-06-12T07:00:00.000Z"
+            },
+            "whatsNew": "Lenovo has introduced UltraReal, a new AI model for generating realistic images. The v1.0 Ideogram4 model is available on Civitai. This model is part of the LoRA series, indicating its potential for fine-tuning and customization.",
+            "whyItMatters": "The introduction of Lenovo UltraReal marks a significant step in AI art generation, offering users a powerful tool for creating realistic images. This can have implications for various industries, including gaming, advertising, and design.",
+            "howToUse": "Developers and artists can utilize Lenovo UltraReal for generating high-quality images by fine-tuning the model on Civitai, exploring its capabilities in creating realistic and detailed visuals.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Lenovo"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-jp18oam3d",
             "title": "Juggernaut Z Released",
@@ -998,37 +1090,6 @@
             "isNew": false
         },
         {
-            "id": "t-zevztiuif",
-            "title": "Vector Artwork",
-            "subtitle": "Adobe Illustrator generates vector artwork from raster images",
-            "category": "Art",
-            "tags": [
-                "Adobe Illustrator",
-                "Vector Artwork",
-                "Raster Images"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Adobe Photoshop",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkxZX1hoQ3RWcEYyMUFpM0JFMGoxT0NBNllNTEstSlNjVnRGdXA2bHZKTmxpem1ySW9IU3p4VzVxSGk4QV9xd3RhdjVIeHV5TXU3R0ZtQlozcnRCZFRtSHI1Y0RzVXZBMVhGOWpaaUk5cDVSZS1OeVVIR2xVXzdwTFdON3VCajhHYzRrbjlkVE1FNW13SVNPVDdlalR0ZWQ3UXdKaw?oc=5",
-                "date": "2026-06-01T07:00:00.000Z"
-            },
-            "whatsNew": "Adobe Illustrator now allows users to generate vector artwork from raster images, enhancing design capabilities. This feature simplifies the process of converting raster images into vector formats. It's particularly useful for graphic designers and artists.",
-            "whyItMatters": "This feature matters because it streamlines the design process, saving time and increasing productivity for artists and designers. It also opens up new creative possibilities by allowing for easier manipulation of raster images in vector formats.",
-            "howToUse": "To use this feature, simply open Adobe Illustrator, select the raster image you want to convert, and follow the prompts to generate vector artwork. This can be used to create scalable graphics, logos, and other design elements.",
-            "beneficiaries": [
-                "Graphic Designers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Adobe"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-cftk0d186",
             "title": "ASA Dismisses Complaint",
             "subtitle": "ASA dismisses complaint against Midnite over TikTok ad",
@@ -1455,37 +1516,6 @@
                 "Game Developers"
             ],
             "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-0f5ya93ru",
-            "title": "Adobe AI Credits",
-            "subtitle": "Adobe introduces generative credits in their help center",
-            "category": "AI",
-            "tags": [
-                "Adobe",
-                "AI",
-                "Generative Credits"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Adobe Photoshop",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5SSmY2VEVxQzBQVmU4eWEtOFRNbkxTRWoxVWp6bDdjRGNacXh2SlBQWS1RRWVUbEE3dlRhOFlPcFNYUTVNamxLdlFBanNDYUhfajl6WWEwYjk3TjlaQnIxVl9BbThsUF9nM1NuNWpJc0EtSjFkNlNBSEU5SllaVFNReENWMTl5RzBzU1FGREhCUQ?oc=5",
-                "date": "2026-06-01T07:00:00.000Z"
-            },
-            "whatsNew": "Adobe has introduced a Generative Credits FAQ in their help center, indicating a deeper integration of AI tools in their software. This move suggests Adobe's commitment to AI-powered creativity. The FAQ is expected to guide users on how to use generative credits effectively.",
-            "whyItMatters": "The introduction of generative credits by Adobe signifies a significant step towards democratizing access to AI-powered creative tools, potentially changing the landscape of digital art and design. This development matters as it reflects the growing importance of AI in the creative industry.",
-            "howToUse": "Users can access the Generative Credits FAQ through the Adobe Help Center to learn more about leveraging AI in their creative workflows. By understanding how to use generative credits, users can unlock new possibilities in digital art and design.",
-            "beneficiaries": [
-                "Graphic Designers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Adobe"
-            ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
@@ -2268,39 +2298,6 @@
             "isNew": false
         },
         {
-            "id": "t-ar7u3jd7b",
-            "title": "AI Training Tools",
-            "subtitle": "Synthesia discusses AI tools and use cases for training and development in 2026",
-            "category": "AI",
-            "tags": [
-                "AI",
-                "Training",
-                "Development",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0c5Xy1JelNzNFBXWDVsSmFDY1FUa1RXZGRvZ1F0aE1DXzRPblZmdFN5LTQwcjNDTTFrYkZUTVoyTEstUHdZXzhNMnpWdmN0ZnNPTUZ6elpGb2RNcV84WklEamJGZ2dEeEZhUGZKUHhkNDhFZVA5SGVxYWhFZS11OFlUQzRXd2s?oc=5",
-                "date": "2026-06-01T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia highlights the latest AI tools for training and development, focusing on use cases in 2026. These tools are designed to enhance learning experiences and improve efficiency. The use of AI in training is becoming increasingly prevalent.",
-            "whyItMatters": "The integration of AI in training and development can significantly impact the effectiveness of learning programs, making them more personalized and engaging. This can lead to better outcomes and increased productivity.",
-            "howToUse": "Organizations can leverage AI training tools to create customized learning paths, automate administrative tasks, and provide real-time feedback to learners. By adopting these tools, businesses can stay ahead of the curve in terms of innovation and employee development.",
-            "beneficiaries": [
-                "HR Professionals",
-                "Trainers",
-                "Learners"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-ykjwy0upl",
             "title": "Spine PSD Import",
             "subtitle": "Spine 2D announces PSD import feature",
@@ -2859,37 +2856,6 @@
             "isNew": false
         },
         {
-            "id": "t-4ykyzxsvf",
-            "title": "Phoenix Ortu Ltd",
-            "subtitle": "UK Gambling Commission updates on Phoenix Ortu Ltd trading names",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Phoenix Ortu Ltd",
-                "Licensing"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFk4eFhqMGYwLUVfQWdHMjktb3hiODdENzFlODJRU3VHY3hCX3FfOUk0S2YwVDVYXzdTX2owVnhIQnNOQ3haZ1FhcDNnaENvZVpQaE56LThYcExOX3U3OG05WTdWTWdJYW1XWmw1RXFHcXZLRnFGUE5HR09lRTNMbi1xd1VCSHluS2hWbkpxZkpYVS1o?oc=5",
-                "date": "2026-06-01T09:14:43.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has provided an update on Phoenix Ortu Ltd, including its trading names. This information is crucial for those involved in the iGaming industry, particularly in terms of regulation and compliance.",
-            "whyItMatters": "This update matters because it reflects the ongoing regulatory efforts within the iGaming sector, ensuring that operators are transparent and compliant with UK gambling laws.",
-            "howToUse": "Operators and stakeholders should review the updated information to ensure compliance and understand the implications of these changes on their operations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Phoenix Ortu Ltd"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-w5ihqnlj0",
             "title": "MGM Takeover Bid",
             "subtitle": "Billionaire Barry Diller makes an $18 billion takeover bid for MGM Resorts International",
@@ -2918,99 +2884,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-qrk6s974z",
-            "title": "Spine 2D",
-            "subtitle": "Spine 2D animation tool",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "2D Animation",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X1VmSFNPbDI1N3VhM01kYkl1MmFvMXcxY2VZMkhXUXBLTnE4aUFHemNsTDRlU3NwUDE0VGhkUElJblpNbHR0YmpqUVowdnJhZFZEVGRVdEwtMFZz?oc=5",
-                "date": "2026-06-01T08:13:42.000Z"
-            },
-            "whatsNew": "Spine 2D is a tool for 2D animation, often used in game development. It allows for detailed and efficient animation creation. The mention of Spine 2D indicates its ongoing relevance in the industry.",
-            "whyItMatters": "Spine 2D matters because it provides game developers with a powerful tool for creating engaging animations, enhancing the overall gaming experience. Its stability and efficiency are crucial for game development workflows.",
-            "howToUse": "Developers can use Spine 2D to create complex animations and integrate them into their games, improving the visual quality and player engagement.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-fef9bkdgv",
-            "title": "Stake Argentina",
-            "subtitle": "Stake announces its launch in Argentina as part of its regulated expansion",
-            "category": "iGaming",
-            "tags": [
-                "Stake",
-                "Argentina",
-                "Regulated Expansion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBialBjaGhMZWk2Q3lZUnRMWmUyRFcyeTc3dmpQV0lZUTFVLXphQWZEbHVBbVJPV3BPWDZ2VERUbzNFNVM2SXc3YVFuaVkyYjEwN0xQeVgwTjlWUmNJWHhKVmlDcVdiTU5RVW1fWGhpbjBXODFkV0MyeFcxUHdJcDNjaWdLbWs2ZXQ5eUkxWVVBRkc2ekZBbzU0RE05Z0NWcVE?oc=5",
-                "date": "2026-06-01T07:37:44.000Z"
-            },
-            "whatsNew": "Stake has announced its entry into the Argentine market, marking another step in its regulated expansion. This move is expected to increase Stake's global presence. The launch is subject to local regulations and licensing.",
-            "whyItMatters": "The launch signifies Stake's commitment to expanding into regulated markets, potentially setting a precedent for other operators. It also highlights the growing importance of Latin America in the global iGaming industry.",
-            "howToUse": "Operators can learn from Stake's strategy by focusing on regulated markets and complying with local laws to ensure sustainable growth.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Argentine Players"
-            ],
-            "companies": [
-                "Stake"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-cb6tded7p",
-            "title": "Spine 2D",
-            "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "2D Animation",
-                "Game Development"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaXhIS093Q1QtaVRLRTJBRDJFQ1RlM0tOd1AydUlNZlByeF9BT3kzRGlHTGJYOWlBbE1nblZzdFJJU3RrRC1rY3FIY0FCUnVWRjVJTjZ6dHd1bkpZWXZFTQ?oc=5",
-                "date": "2026-06-01T03:59:40.000Z"
-            },
-            "whatsNew": "The mention of Spine 2D could imply new features or applications in the field of 2D animation for games. Spine is known for its use in game development for creating animations. This could be an area of interest for developers looking to enhance their game's visual aspects.",
-            "whyItMatters": "Spine 2D's capabilities can significantly impact game development by providing efficient and high-quality animation tools. This can lead to more engaging and visually appealing games.",
-            "howToUse": "Developers can utilize Spine 2D for creating complex animations and integrating them into their games for enhanced user experience.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Artists"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
             "isNew": false
         }
     ],
@@ -3168,7 +3041,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "note": null
         },
         {
@@ -3187,7 +3060,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3196,7 +3069,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3205,7 +3078,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "note": "Regulatory updates"
         },
         {
@@ -3223,7 +3096,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3232,7 +3105,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3252,7 +3125,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.262Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3310,7 +3183,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3319,7 +3192,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3328,7 +3201,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": "Style browsing signal"
         },
         {
@@ -3365,7 +3238,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": null
         },
         {
@@ -3374,7 +3247,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": null
         },
         {
@@ -3383,7 +3256,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": null
         },
         {
@@ -3408,11 +3281,10 @@
             "name": "PixiJS Blog",
             "url": "https://pixijs.com/blog",
             "category": "Tech",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": "Release notes, migrations",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-15T10:24:24.263Z",
+            "note": "Release notes, migrations"
         },
         {
             "name": "PixiJS Discord",
@@ -3456,7 +3328,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T03:57:28.537Z",
+            "lastScan": "2026-06-15T10:24:24.263Z",
             "note": null
         },
         {
@@ -31083,6 +30955,225 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-zevztiuif",
+            "title": "Vector Artwork",
+            "subtitle": "Adobe Illustrator generates vector artwork from raster images",
+            "category": "Art",
+            "tags": [
+                "Adobe Illustrator",
+                "Vector Artwork",
+                "Raster Images"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkxZX1hoQ3RWcEYyMUFpM0JFMGoxT0NBNllNTEstSlNjVnRGdXA2bHZKTmxpem1ySW9IU3p4VzVxSGk4QV9xd3RhdjVIeHV5TXU3R0ZtQlozcnRCZFRtSHI1Y0RzVXZBMVhGOWpaaUk5cDVSZS1OeVVIR2xVXzdwTFdON3VCajhHYzRrbjlkVE1FNW13SVNPVDdlalR0ZWQ3UXdKaw?oc=5",
+                "date": "2026-06-01T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe Illustrator now allows users to generate vector artwork from raster images, enhancing design capabilities. This feature simplifies the process of converting raster images into vector formats. It's particularly useful for graphic designers and artists.",
+            "whyItMatters": "This feature matters because it streamlines the design process, saving time and increasing productivity for artists and designers. It also opens up new creative possibilities by allowing for easier manipulation of raster images in vector formats.",
+            "howToUse": "To use this feature, simply open Adobe Illustrator, select the raster image you want to convert, and follow the prompts to generate vector artwork. This can be used to create scalable graphics, logos, and other design elements.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-0f5ya93ru",
+            "title": "Adobe AI Credits",
+            "subtitle": "Adobe introduces generative credits in their help center",
+            "category": "AI",
+            "tags": [
+                "Adobe",
+                "AI",
+                "Generative Credits"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5SSmY2VEVxQzBQVmU4eWEtOFRNbkxTRWoxVWp6bDdjRGNacXh2SlBQWS1RRWVUbEE3dlRhOFlPcFNYUTVNamxLdlFBanNDYUhfajl6WWEwYjk3TjlaQnIxVl9BbThsUF9nM1NuNWpJc0EtSjFkNlNBSEU5SllaVFNReENWMTl5RzBzU1FGREhCUQ?oc=5",
+                "date": "2026-06-01T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe has introduced a Generative Credits FAQ in their help center, indicating a deeper integration of AI tools in their software. This move suggests Adobe's commitment to AI-powered creativity. The FAQ is expected to guide users on how to use generative credits effectively.",
+            "whyItMatters": "The introduction of generative credits by Adobe signifies a significant step towards democratizing access to AI-powered creative tools, potentially changing the landscape of digital art and design. This development matters as it reflects the growing importance of AI in the creative industry.",
+            "howToUse": "Users can access the Generative Credits FAQ through the Adobe Help Center to learn more about leveraging AI in their creative workflows. By understanding how to use generative credits, users can unlock new possibilities in digital art and design.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ar7u3jd7b",
+            "title": "AI Training Tools",
+            "subtitle": "Synthesia discusses AI tools and use cases for training and development in 2026",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Training",
+                "Development",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0c5Xy1JelNzNFBXWDVsSmFDY1FUa1RXZGRvZ1F0aE1DXzRPblZmdFN5LTQwcjNDTTFrYkZUTVoyTEstUHdZXzhNMnpWdmN0ZnNPTUZ6elpGb2RNcV84WklEamJGZ2dEeEZhUGZKUHhkNDhFZVA5SGVxYWhFZS11OFlUQzRXd2s?oc=5",
+                "date": "2026-06-01T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia highlights the latest AI tools for training and development, focusing on use cases in 2026. These tools are designed to enhance learning experiences and improve efficiency. The use of AI in training is becoming increasingly prevalent.",
+            "whyItMatters": "The integration of AI in training and development can significantly impact the effectiveness of learning programs, making them more personalized and engaging. This can lead to better outcomes and increased productivity.",
+            "howToUse": "Organizations can leverage AI training tools to create customized learning paths, automate administrative tasks, and provide real-time feedback to learners. By adopting these tools, businesses can stay ahead of the curve in terms of innovation and employee development.",
+            "beneficiaries": [
+                "HR Professionals",
+                "Trainers",
+                "Learners"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-4ykyzxsvf",
+            "title": "Phoenix Ortu Ltd",
+            "subtitle": "UK Gambling Commission updates on Phoenix Ortu Ltd trading names",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Phoenix Ortu Ltd",
+                "Licensing"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFk4eFhqMGYwLUVfQWdHMjktb3hiODdENzFlODJRU3VHY3hCX3FfOUk0S2YwVDVYXzdTX2owVnhIQnNOQ3haZ1FhcDNnaENvZVpQaE56LThYcExOX3U3OG05WTdWTWdJYW1XWmw1RXFHcXZLRnFGUE5HR09lRTNMbi1xd1VCSHluS2hWbkpxZkpYVS1o?oc=5",
+                "date": "2026-06-01T09:14:43.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has provided an update on Phoenix Ortu Ltd, including its trading names. This information is crucial for those involved in the iGaming industry, particularly in terms of regulation and compliance.",
+            "whyItMatters": "This update matters because it reflects the ongoing regulatory efforts within the iGaming sector, ensuring that operators are transparent and compliant with UK gambling laws.",
+            "howToUse": "Operators and stakeholders should review the updated information to ensure compliance and understand the implications of these changes on their operations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Phoenix Ortu Ltd"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qrk6s974z",
+            "title": "Spine 2D",
+            "subtitle": "Spine 2D animation tool",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54X1VmSFNPbDI1N3VhM01kYkl1MmFvMXcxY2VZMkhXUXBLTnE4aUFHemNsTDRlU3NwUDE0VGhkUElJblpNbHR0YmpqUVowdnJhZFZEVGRVdEwtMFZz?oc=5",
+                "date": "2026-06-01T08:13:42.000Z"
+            },
+            "whatsNew": "Spine 2D is a tool for 2D animation, often used in game development. It allows for detailed and efficient animation creation. The mention of Spine 2D indicates its ongoing relevance in the industry.",
+            "whyItMatters": "Spine 2D matters because it provides game developers with a powerful tool for creating engaging animations, enhancing the overall gaming experience. Its stability and efficiency are crucial for game development workflows.",
+            "howToUse": "Developers can use Spine 2D to create complex animations and integrate them into their games, improving the visual quality and player engagement.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-fef9bkdgv",
+            "title": "Stake Argentina",
+            "subtitle": "Stake announces its launch in Argentina as part of its regulated expansion",
+            "category": "iGaming",
+            "tags": [
+                "Stake",
+                "Argentina",
+                "Regulated Expansion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBialBjaGhMZWk2Q3lZUnRMWmUyRFcyeTc3dmpQV0lZUTFVLXphQWZEbHVBbVJPV3BPWDZ2VERUbzNFNVM2SXc3YVFuaVkyYjEwN0xQeVgwTjlWUmNJWHhKVmlDcVdiTU5RVW1fWGhpbjBXODFkV0MyeFcxUHdJcDNjaWdLbWs2ZXQ5eUkxWVVBRkc2ekZBbzU0RE05Z0NWcVE?oc=5",
+                "date": "2026-06-01T07:37:44.000Z"
+            },
+            "whatsNew": "Stake has announced its entry into the Argentine market, marking another step in its regulated expansion. This move is expected to increase Stake's global presence. The launch is subject to local regulations and licensing.",
+            "whyItMatters": "The launch signifies Stake's commitment to expanding into regulated markets, potentially setting a precedent for other operators. It also highlights the growing importance of Latin America in the global iGaming industry.",
+            "howToUse": "Operators can learn from Stake's strategy by focusing on regulated markets and complying with local laws to ensure sustainable growth.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Argentine Players"
+            ],
+            "companies": [
+                "Stake"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-cb6tded7p",
+            "title": "Spine 2D",
+            "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaXhIS093Q1QtaVRLRTJBRDJFQ1RlM0tOd1AydUlNZlByeF9BT3kzRGlHTGJYOWlBbE1nblZzdFJJU3RrRC1rY3FIY0FCUnVWRjVJTjZ6dHd1bkpZWXZFTQ?oc=5",
+                "date": "2026-06-01T03:59:40.000Z"
+            },
+            "whatsNew": "The mention of Spine 2D could imply new features or applications in the field of 2D animation for games. Spine is known for its use in game development for creating animations. This could be an area of interest for developers looking to enhance their game's visual aspects.",
+            "whyItMatters": "Spine 2D's capabilities can significantly impact game development by providing efficient and high-quality animation tools. This can lead to more engaging and visually appealing games.",
+            "howToUse": "Developers can utilize Spine 2D for creating complex animations and integrating them into their games for enhanced user experience.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
