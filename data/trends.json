@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-15T10:24:24.262Z",
+        "scanDate": "2026-06-15T16:16:35.034Z",
         "version": "2.5.0",
-        "totalTrends": 92,
+        "totalTrends": 90,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-iopxzmwms",
+            "title": "Nevada vs Kalshi",
+            "subtitle": "Nevada regulator requests Kalshi be held in contempt of court related to potential iGaming regulation issues",
+            "category": "iGaming",
+            "tags": [
+                "Nevada",
+                "Kalshi",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3E0NVVQUjcwNjR5Tnc2Q3hZcXczaHFwN19BeVZtUmJoaldJQzRQYmNsSlhmSV9qRmViMG9xQTBmQkxYUXJpb1Z3TGpvcFFmOV9iZzB2VlFtN0V3N1FkVmxOZ3QzOW9hWHpUcUVxMkdLV1c5Z0RtdGg0VjQzT3VoM0RlcnBPeVBYNGxKQmtiSmt1T3hwRXpRN1U3SmQ?oc=5",
+                "date": "2026-06-15T11:16:15.000Z"
+            },
+            "whatsNew": "The Nevada regulator has requested that Kalshi be held in contempt of court, indicating a significant development in the regulatory landscape of iGaming. This move suggests a potential crackdown on non-compliant operators. The specifics of the contempt request are not detailed but imply a serious breach of regulations.",
+            "whyItMatters": "This development matters because it highlights the increasing scrutiny of regulatory bodies over iGaming operators, potentially impacting the operations and compliance strategies of similar companies. It also underscores the importance of adherence to regulatory requirements in the industry.",
+            "howToUse": "Operators should review their compliance strategies to ensure they meet all regulatory requirements, and legal teams should be prepared to address any potential contempt issues promptly.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Compliance Teams"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-ezi69leq6",
             "title": "NY Sports Betting",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vysqm6mnw",
@@ -79,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jbw204ctc",
@@ -110,7 +141,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jp18oam3d",
@@ -1706,38 +1737,6 @@
             "isNew": false
         },
         {
-            "id": "t-g76qxextn",
-            "title": "AI Art Prompt",
-            "subtitle": "A highly detailed matte painting of a young boy using AI art generation",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Matte Painting",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnZySWVMVVNRcG91ZURnbTNJdTNvSUdaMDlodlFoS0o1bjlNMmx2Q0N4N0xlX0MwUDVpaTZhUTRPUEtMaEN0VDhEemhwLUhEY2VCYXZzZmRsLTJja2pLTjQ0WFJ6VWhrUUFiWVVXM2J5NmRURndsQkNManUtUzQyaTY4cVdJZ3ZuX0JUbmo1RU9uemVsQTZXRmt2OFJCb18wWmJKb3hoMDd1VVgwRXMxOE1lcG41VVlaRTNkc2p0VGcxcEFGTkJUN1hHbU5vQUs5bS11TWkzaVQ2cnNQbFE?oc=5",
-                "date": "2026-06-01T15:35:37.000Z"
-            },
-            "whatsNew": "The use of AI in generating highly detailed matte paintings is becoming increasingly popular. This technology allows for the creation of realistic and detailed images with minimal human input. The example given is a young boy, showcasing the versatility of AI art generation.",
-            "whyItMatters": "The development of AI art generation tools has the potential to revolutionize the field of digital art, making it more accessible and efficient. This technology can be used in various industries, including gaming, film, and advertising.",
-            "howToUse": "Artists and designers can use AI art generation tools to create highly detailed and realistic images, such as matte paintings, with minimal human input. This can be achieved by using prompts and fine-tuning the AI model to produce the desired output.",
-            "beneficiaries": [
-                "Digital Artists",
-                "Game Developers",
-                "Advertisers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-kz7mn64yw",
             "title": "Gambling License",
             "subtitle": "Calum Anthony Wright receives premises license from UK Gambling Commission",
@@ -1793,37 +1792,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-orirdfavq",
-            "title": "Spine 2D Customizer",
-            "subtitle": "Tips for setting up a character customizer in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Character Customizer",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDkwcnFEVWFkV1MtbFdoTm1CaDF1MFFfdWkxY2Zub25kR0hDZE9uZkV5em9mRWJHWDVhSFNvSzlpaUhpcUVZUEZZNDNSQUNvTW1hSExEWFNLSUJUQm52UUVSbXg2NmlKS0haaFdWbWtSMGpYY1B5NjJUNk8zeGUtZTVJbGdFZWhVRkhxclp4anhxSktLM3libVFR?oc=5",
-                "date": "2026-06-01T16:13:53.000Z"
-            },
-            "whatsNew": "The article provides tips on setting up a character customizer in Spine 2D, a popular 2D animation tool. It focuses on best practices for customization. The article is in Ukrainian, indicating growing interest in game development tools in Eastern Europe.",
-            "whyItMatters": "This matters because Spine 2D is widely used in game development for creating animated characters and effects. Better customization options can lead to more engaging and personalized gaming experiences.",
-            "howToUse": "Developers can use these tips to improve their character customization features in games, enhancing player engagement and satisfaction.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
-            ],
-            "companies": [
-                "Esoteric"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
             "isNew": false
         },
         {
@@ -2854,37 +2822,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-w5ihqnlj0",
-            "title": "MGM Takeover Bid",
-            "subtitle": "Billionaire Barry Diller makes an $18 billion takeover bid for MGM Resorts International",
-            "category": "iGaming",
-            "tags": [
-                "MGM Resorts",
-                "Takeover Bid",
-                "Barry Diller"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0h2WlloM1Utc0JVV2h0UjctazFja2lua3RrMzB1Mm8zQW04TGhNWmZSOHdBTFdpS3VmM0Q3Ymp3eGJCZVVmY2VMcm5QeGp6aDdnUFl2a1lyeWhPRWxtYjFqS1dmczBnMUlUXzNxOU5MajlJZUNWalIxM1RmaVE3aGJ0Yjh0OUN3Y0dHd3pZRWdEaGdVSW1TRk16M0liazFOLVhudUM1Zkk4YTQ5YnZvZVg2dkcydXVlNEFUYU13?oc=5",
-                "date": "2026-06-01T14:52:26.000Z"
-            },
-            "whatsNew": "Billionaire Barry Diller has made a significant $18 billion takeover bid for MGM Resorts International, a major player in the gaming and hospitality industry. This move could potentially reshape the landscape of the industry. The bid is one of the largest in recent history, indicating a strong interest in the sector.",
-            "whyItMatters": "This takeover bid matters because it could lead to significant changes in the ownership and operation of MGM Resorts, potentially impacting the iGaming industry as a whole. It also reflects the growing interest and investment in the gaming sector.",
-            "howToUse": "Industry stakeholders should monitor the development of this bid closely, as it may present opportunities for collaboration or necessitate adjustments in strategy. Companies in the iGaming space should be prepared for potential shifts in market dynamics.",
-            "beneficiaries": [
-                "Investors",
-                "Gaming Industry Stakeholders"
-            ],
-            "companies": [
-                "MGM Resorts International"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -3041,7 +2978,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": null
         },
         {
@@ -3060,7 +2997,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3069,7 +3006,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3078,7 +3015,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "Regulatory updates"
         },
         {
@@ -3096,7 +3033,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3105,7 +3042,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3125,7 +3062,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-15T10:24:24.262Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3183,7 +3120,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3192,7 +3129,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3201,7 +3138,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": "Style browsing signal"
         },
         {
@@ -3238,7 +3175,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": null
         },
         {
@@ -3247,7 +3184,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": null
         },
         {
@@ -3256,7 +3193,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": null
         },
         {
@@ -3328,7 +3265,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-15T16:16:35.034Z",
             "note": null
         },
         {
@@ -31174,6 +31111,100 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-g76qxextn",
+            "title": "AI Art Prompt",
+            "subtitle": "A highly detailed matte painting of a young boy using AI art generation",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Matte Painting",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnZySWVMVVNRcG91ZURnbTNJdTNvSUdaMDlodlFoS0o1bjlNMmx2Q0N4N0xlX0MwUDVpaTZhUTRPUEtMaEN0VDhEemhwLUhEY2VCYXZzZmRsLTJja2pLTjQ0WFJ6VWhrUUFiWVVXM2J5NmRURndsQkNManUtUzQyaTY4cVdJZ3ZuX0JUbmo1RU9uemVsQTZXRmt2OFJCb18wWmJKb3hoMDd1VVgwRXMxOE1lcG41VVlaRTNkc2p0VGcxcEFGTkJUN1hHbU5vQUs5bS11TWkzaVQ2cnNQbFE?oc=5",
+                "date": "2026-06-01T15:35:37.000Z"
+            },
+            "whatsNew": "The use of AI in generating highly detailed matte paintings is becoming increasingly popular. This technology allows for the creation of realistic and detailed images with minimal human input. The example given is a young boy, showcasing the versatility of AI art generation.",
+            "whyItMatters": "The development of AI art generation tools has the potential to revolutionize the field of digital art, making it more accessible and efficient. This technology can be used in various industries, including gaming, film, and advertising.",
+            "howToUse": "Artists and designers can use AI art generation tools to create highly detailed and realistic images, such as matte paintings, with minimal human input. This can be achieved by using prompts and fine-tuning the AI model to produce the desired output.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Game Developers",
+                "Advertisers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-orirdfavq",
+            "title": "Spine 2D Customizer",
+            "subtitle": "Tips for setting up a character customizer in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Character Customizer",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDkwcnFEVWFkV1MtbFdoTm1CaDF1MFFfdWkxY2Zub25kR0hDZE9uZkV5em9mRWJHWDVhSFNvSzlpaUhpcUVZUEZZNDNSQUNvTW1hSExEWFNLSUJUQm52UUVSbXg2NmlKS0haaFdWbWtSMGpYY1B5NjJUNk8zeGUtZTVJbGdFZWhVRkhxclp4anhxSktLM3libVFR?oc=5",
+                "date": "2026-06-01T16:13:53.000Z"
+            },
+            "whatsNew": "The article provides tips on setting up a character customizer in Spine 2D, a popular 2D animation tool. It focuses on best practices for customization. The article is in Ukrainian, indicating growing interest in game development tools in Eastern Europe.",
+            "whyItMatters": "This matters because Spine 2D is widely used in game development for creating animated characters and effects. Better customization options can lead to more engaging and personalized gaming experiences.",
+            "howToUse": "Developers can use these tips to improve their character customization features in games, enhancing player engagement and satisfaction.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-w5ihqnlj0",
+            "title": "MGM Takeover Bid",
+            "subtitle": "Billionaire Barry Diller makes an $18 billion takeover bid for MGM Resorts International",
+            "category": "iGaming",
+            "tags": [
+                "MGM Resorts",
+                "Takeover Bid",
+                "Barry Diller"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0h2WlloM1Utc0JVV2h0UjctazFja2lua3RrMzB1Mm8zQW04TGhNWmZSOHdBTFdpS3VmM0Q3Ymp3eGJCZVVmY2VMcm5QeGp6aDdnUFl2a1lyeWhPRWxtYjFqS1dmczBnMUlUXzNxOU5MajlJZUNWalIxM1RmaVE3aGJ0Yjh0OUN3Y0dHd3pZRWdEaGdVSW1TRk16M0liazFOLVhudUM1Zkk4YTQ5YnZvZVg2dkcydXVlNEFUYU13?oc=5",
+                "date": "2026-06-01T14:52:26.000Z"
+            },
+            "whatsNew": "Billionaire Barry Diller has made a significant $18 billion takeover bid for MGM Resorts International, a major player in the gaming and hospitality industry. This move could potentially reshape the landscape of the industry. The bid is one of the largest in recent history, indicating a strong interest in the sector.",
+            "whyItMatters": "This takeover bid matters because it could lead to significant changes in the ownership and operation of MGM Resorts, potentially impacting the iGaming industry as a whole. It also reflects the growing interest and investment in the gaming sector.",
+            "howToUse": "Industry stakeholders should monitor the development of this bid closely, as it may present opportunities for collaboration or necessitate adjustments in strategy. Companies in the iGaming space should be prepared for potential shifts in market dynamics.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Industry Stakeholders"
+            ],
+            "companies": [
+                "MGM Resorts International"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
