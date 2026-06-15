@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-14T23:06:04.025Z",
+        "scanDate": "2026-06-15T03:57:28.537Z",
         "version": "2.5.0",
-        "totalTrends": 98,
+        "totalTrends": 96,
         "categories": [
             "iGaming",
             "AI",
@@ -2890,38 +2890,6 @@
             "isNew": false
         },
         {
-            "id": "t-z8r6kaore",
-            "title": "Unity Games",
-            "subtitle": "A review of games made with Unity in May 2026, featuring various genres and award-winning titles.",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Game Development",
-                "Indie Games"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/games-made-with-unity-may-2026-releases",
-                "date": "2026-06-01T00:00:00.000Z"
-            },
-            "whatsNew": "The Unity blog highlights numerous games made with Unity in May 2026, including award-winning titles like Paralives and ZERO PARADES: For Dead Spies. The list features a wide range of genres, from action and adventure to puzzle and role-playing games. Many of these games have entered early access or been fully released, showcasing the versatility and creativity of Unity developers.",
-            "whyItMatters": "The proliferation of Unity-made games demonstrates the engine's popularity and ease of use, allowing developers to create high-quality games across various genres. This trend is likely to continue, with more developers turning to Unity for their game development needs.",
-            "howToUse": "Developers can leverage Unity's features and community resources to create their own games, and players can explore the diverse range of Unity-made games available on various platforms.",
-            "beneficiaries": [
-                "Game Developers",
-                "Indie Game Studios",
-                "Gamers"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
             "id": "t-w5ihqnlj0",
             "title": "MGM Takeover Bid",
             "subtitle": "Billionaire Barry Diller makes an $18 billion takeover bid for MGM Resorts International",
@@ -3012,38 +2980,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-omw6bdpwz",
-            "title": "Godot 4.6.2 Issues",
-            "subtitle": "Export template problems with Godot 4.6.2 and Spine 2D reported",
-            "category": "Tech",
-            "tags": [
-                "Godot",
-                "Spine 2D",
-                "Export Templates"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVF9PcTdMQmlWT3dWemtaaHNaemVqZndqeDJyYk1kODlIU3BHMUVqcWxhZWlmSGlXUEkwTGJrcGxwdUZ0eUQ5Y3FLZzBydmxzNUpjdERQN1BhaEJoQ3N2YkRPTDhmalhRaTlEMkdGVmVsUVJQaXZjT3dYcnhPam82dXl0Um9XQzBLRkRzNGdR?oc=5",
-                "date": "2026-06-01T01:44:24.000Z"
-            },
-            "whatsNew": "Godot 4.6.2 is experiencing issues with its export templates, specifically with Spine 2D. This affects game development workflows that rely on these tools.",
-            "whyItMatters": "The issue impacts game developers using Godot and Spine 2D, potentially delaying project timelines. Resolving this problem is crucial for the efficiency of game development processes.",
-            "howToUse": "Developers should look for patches or workarounds provided by the Godot or Spine 2D communities to mitigate the export template issues.",
-            "beneficiaries": [
-                "Game Developers",
-                "Game Designers"
-            ],
-            "companies": [
-                "Godot",
-                "Esoteric (Spine)"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
             "isNew": false
         },
         {
@@ -3232,7 +3168,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": null
         },
         {
@@ -3251,7 +3187,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3260,7 +3196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3269,7 +3205,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "Regulatory updates"
         },
         {
@@ -3287,7 +3223,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3296,7 +3232,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3316,7 +3252,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3374,7 +3310,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3383,7 +3319,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T21:09:00.234Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3392,7 +3328,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T21:09:00.234Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": "Style browsing signal"
         },
         {
@@ -3429,7 +3365,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T21:09:00.234Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": null
         },
         {
@@ -3438,18 +3374,17 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-14T21:09:00.234Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": null
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-14T19:23:32.553Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-06-15T03:57:28.537Z",
+            "note": null
         },
         {
             "name": "Nano-banana",
@@ -3521,7 +3456,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-14T23:06:04.025Z",
+            "lastScan": "2026-06-15T03:57:28.537Z",
             "note": null
         },
         {
@@ -31084,6 +31019,70 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-z8r6kaore",
+            "title": "Unity Games",
+            "subtitle": "A review of games made with Unity in May 2026, featuring various genres and award-winning titles.",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Indie Games"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/games-made-with-unity-may-2026-releases",
+                "date": "2026-06-01T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity blog highlights numerous games made with Unity in May 2026, including award-winning titles like Paralives and ZERO PARADES: For Dead Spies. The list features a wide range of genres, from action and adventure to puzzle and role-playing games. Many of these games have entered early access or been fully released, showcasing the versatility and creativity of Unity developers.",
+            "whyItMatters": "The proliferation of Unity-made games demonstrates the engine's popularity and ease of use, allowing developers to create high-quality games across various genres. This trend is likely to continue, with more developers turning to Unity for their game development needs.",
+            "howToUse": "Developers can leverage Unity's features and community resources to create their own games, and players can explore the diverse range of Unity-made games available on various platforms.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios",
+                "Gamers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-omw6bdpwz",
+            "title": "Godot 4.6.2 Issues",
+            "subtitle": "Export template problems with Godot 4.6.2 and Spine 2D reported",
+            "category": "Tech",
+            "tags": [
+                "Godot",
+                "Spine 2D",
+                "Export Templates"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVF9PcTdMQmlWT3dWemtaaHNaemVqZndqeDJyYk1kODlIU3BHMUVqcWxhZWlmSGlXUEkwTGJrcGxwdUZ0eUQ5Y3FLZzBydmxzNUpjdERQN1BhaEJoQ3N2YkRPTDhmalhRaTlEMkdGVmVsUVJQaXZjT3dYcnhPam82dXl0Um9XQzBLRkRzNGdR?oc=5",
+                "date": "2026-06-01T01:44:24.000Z"
+            },
+            "whatsNew": "Godot 4.6.2 is experiencing issues with its export templates, specifically with Spine 2D. This affects game development workflows that rely on these tools.",
+            "whyItMatters": "The issue impacts game developers using Godot and Spine 2D, potentially delaying project timelines. Resolving this problem is crucial for the efficiency of game development processes.",
+            "howToUse": "Developers should look for patches or workarounds provided by the Godot or Spine 2D communities to mitigate the export template issues.",
+            "beneficiaries": [
+                "Game Developers",
+                "Game Designers"
+            ],
+            "companies": [
+                "Godot",
+                "Esoteric (Spine)"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
