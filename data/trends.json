@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-15T16:16:35.034Z",
+        "scanDate": "2026-06-15T20:23:27.072Z",
         "version": "2.5.0",
-        "totalTrends": 90,
+        "totalTrends": 91,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,71 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-cch5g4abs",
+            "title": "Industrial AI Shift",
+            "subtitle": "Digital twins evolving into machine information systems with AI integration",
+            "category": "Tech",
+            "tags": [
+                "Industrial AI",
+                "Digital Twins",
+                "Machine Information Systems",
+                "Unity"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/digital-twin-building-machine-information-system",
+                "date": "2026-06-15T00:00:00.000Z"
+            },
+            "whatsNew": "The digital twin is shifting from visualization to an operational layer integrating live machine state, enterprise data, and AI systems. The new e-book series explores this convergence and the importance of structured documentation and machine context for industrial AI.",
+            "whyItMatters": "This shift enables faster fault diagnosis, better operator support, and more scalable remote support, while laying the foundation for grounded industrial AI. It also reduces dependence on specialist expertise and integration overhead between systems.",
+            "howToUse": "Organizations can start building the required foundation by implementing structured documentation, component metadata, and machine context, which can later serve as grounding material for AI systems.",
+            "beneficiaries": [
+                "System Integrators",
+                "OEMs",
+                "Industrial Operations Teams"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-hw0jybems",
+            "title": "Kalshi Sportradar Deal",
+            "subtitle": "Kalshi's partnership with Sportradar to enhance credibility with regulators",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Regulation",
+                "Partnership"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVVycDktLV9IRVgyLTg4TDNzb0l4dVI0QWFBNEtnb21hQXhFVm9FNDlDMGVHTEljbi11UHJYRlNWdjQxWVZ3bmNxdHdTdno0NW1kYmhkWWgxTTZZQnQtd01MMG1pMWJsYURXYzd3eFRSQTVVak9YbmxyZWFxTlBjT3BhMmVKRFlvd0tGUnVuU1VUbE8tdVFzbUZzLXVCXzY0dmlkLXU0dkRoMTNkNVU5YW1XMHlpUQ?oc=5",
+                "date": "2026-06-09T16:08:04.000Z"
+            },
+            "whatsNew": "Kalshi has partnered with Sportradar to enhance its credibility with regulators. This deal is expected to improve Kalshi's standing in the industry.",
+            "whyItMatters": "The partnership will help Kalshi gain more trust with regulators, potentially leading to increased market access and growth. This is a significant development in the sports betting sector.",
+            "howToUse": "Companies can learn from Kalshi's strategy and explore similar partnerships to improve their regulatory credibility. This can be a key factor in expanding their market reach.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "Kalshi",
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-iopxzmwms",
             "title": "Nevada vs Kalshi",
@@ -49,7 +114,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ezi69leq6",
@@ -2733,38 +2798,6 @@
             "isNew": false
         },
         {
-            "id": "t-i49gvb8rp",
-            "title": "AI Animation",
-            "subtitle": "Grok Imagine Video creates animation of ants using AI prompts",
-            "category": "AI",
-            "tags": [
-                "AI Animation",
-                "Video Generation",
-                "PromptHero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWUc0SmtZNUhOWi1fdFMwUDJuRjVRNUNBTDhyLVE1a0JKd05DNzNfcElhQXhOWi1uRGtDcnlNOVBQbG1wMlI1cndFQUJzNGNTbkRMbWlXNnlKNGNad3VmSzlrSV9NbzFOMXZXSU9Bc1g4bG9qSjg1RHRtRFpXUTZ4X0l4RXBkVWozNUN4Tm1YQ3NTRTNNTGstQ0lPX3NDRnZRRkVxX1JIR2hEcHZpSFVEYldEMHpUb250ekJYc2NmTFJXZFdCZE1MLXloUnFJRjVIX1pOTmFWWHhBU3JoU1dtMg?oc=5",
-                "date": "2026-06-01T16:47:21.000Z"
-            },
-            "whatsNew": "Grok Imagine Video uses AI to generate animations from text prompts, allowing for quick and easy creation of custom animations. The platform can create animations of various subjects, including animals like ants. This technology has the potential to revolutionize the field of animation and video creation.",
-            "whyItMatters": "The ability to generate animations using AI prompts can save time and resources for creators, and open up new possibilities for artistic expression. This technology can also be used in various industries such as education, marketing, and entertainment.",
-            "howToUse": "To use Grok Imagine Video, simply input a text prompt describing the desired animation, and the AI will generate a video based on the prompt. This can be used to create custom animations for various purposes, such as educational videos or social media content.",
-            "beneficiaries": [
-                "Animators",
-                "Content Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-cmz5uer3t",
             "title": "Micro Betting Funding",
             "subtitle": "Micro-betting prediction markets startup raises $6.5m in seed funding",
@@ -2978,7 +3011,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": null
         },
         {
@@ -2997,7 +3030,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3006,7 +3039,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3015,7 +3048,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "Regulatory updates"
         },
         {
@@ -3033,7 +3066,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3042,7 +3075,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3062,7 +3095,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3120,7 +3153,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3129,7 +3162,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3138,7 +3171,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": "Style browsing signal"
         },
         {
@@ -3265,7 +3298,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-15T20:23:27.072Z",
             "note": null
         },
         {
@@ -31205,6 +31238,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-i49gvb8rp",
+            "title": "AI Animation",
+            "subtitle": "Grok Imagine Video creates animation of ants using AI prompts",
+            "category": "AI",
+            "tags": [
+                "AI Animation",
+                "Video Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWUc0SmtZNUhOWi1fdFMwUDJuRjVRNUNBTDhyLVE1a0JKd05DNzNfcElhQXhOWi1uRGtDcnlNOVBQbG1wMlI1cndFQUJzNGNTbkRMbWlXNnlKNGNad3VmSzlrSV9NbzFOMXZXSU9Bc1g4bG9qSjg1RHRtRFpXUTZ4X0l4RXBkVWozNUN4Tm1YQ3NTRTNNTGstQ0lPX3NDRnZRRkVxX1JIR2hEcHZpSFVEYldEMHpUb250ekJYc2NmTFJXZFdCZE1MLXloUnFJRjVIX1pOTmFWWHhBU3JoU1dtMg?oc=5",
+                "date": "2026-06-01T16:47:21.000Z"
+            },
+            "whatsNew": "Grok Imagine Video uses AI to generate animations from text prompts, allowing for quick and easy creation of custom animations. The platform can create animations of various subjects, including animals like ants. This technology has the potential to revolutionize the field of animation and video creation.",
+            "whyItMatters": "The ability to generate animations using AI prompts can save time and resources for creators, and open up new possibilities for artistic expression. This technology can also be used in various industries such as education, marketing, and entertainment.",
+            "howToUse": "To use Grok Imagine Video, simply input a text prompt describing the desired animation, and the AI will generate a video based on the prompt. This can be used to create custom animations for various purposes, such as educational videos or social media content.",
+            "beneficiaries": [
+                "Animators",
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
