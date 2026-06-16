@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-16T18:04:31.155Z",
+        "scanDate": "2026-06-16T21:41:50.181Z",
         "version": "2.5.0",
-        "totalTrends": 89,
+        "totalTrends": 90,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-owkl5tszw",
+            "title": "FLUX2 Workflow",
+            "subtitle": "Civitai introduces FLUX2 Klein_9b Pro Grade Workflow with Controlnet and GGUF capabilities",
+            "category": "AI",
+            "tags": [
+                "Controlnet",
+                "GGUF",
+                "FLUX2",
+                "Klein_9b"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZPRHIxc0dNa1YtNm5sbzBpRXdkZXUyMUktc1MzSW9Pa0ZPUjR5RTdZNXZYbWhqM3lIMjhvdGRQOEVza3JEdUdSd0Q2bkxBcnBiakczODVFUXJRZk1KSFcyTENURU1ENk96cERMUVAzTzgtQWZ0WVZPVGJNTDRBSTZ1QkJWVERfVGwwWXNKVVQzcFoyMGRzdWpJVEdDekpvNHh5dWVkOE9VdkM2TDFSNg?oc=5",
+                "date": "2026-06-13T07:00:00.000Z"
+            },
+            "whatsNew": "The FLUX2 Klein_9b Pro Grade Workflow is a new tool that supports both high and low VRAM, and is compatible with Controlnet and GGUF. This workflow is designed for professional-grade applications. It offers flexibility in terms of system requirements, making it accessible to a wider range of users.",
+            "whyItMatters": "The introduction of FLUX2 Klein_9b Pro Grade Workflow matters because it provides professionals with a powerful tool that can adapt to different system specifications, enhancing productivity and creativity. This can lead to more efficient and high-quality output in AI-related tasks.",
+            "howToUse": "To utilize the FLUX2 Klein_9b Pro Grade Workflow, users should first ensure their system meets the minimum requirements for either high or low VRAM configurations. Then, they can integrate Controlnet and GGUF capabilities to streamline their workflow and improve results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-0zfd04nml",
             "title": "Crypto Casino Launch",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-w0h53y5bm",
@@ -82,7 +114,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-x1c8i5eqi",
@@ -113,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ovlytr2bb",
@@ -2955,7 +2987,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": null
         },
         {
@@ -2974,7 +3006,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2983,7 +3015,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2992,7 +3024,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "Regulatory updates"
         },
         {
@@ -3010,7 +3042,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3019,7 +3051,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3039,7 +3071,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3097,7 +3129,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3106,7 +3138,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3115,7 +3147,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": "Style browsing signal"
         },
         {
@@ -3152,7 +3184,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": null
         },
         {
@@ -3242,7 +3274,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-16T21:41:50.181Z",
             "note": null
         },
         {
