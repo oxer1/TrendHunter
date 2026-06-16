@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-16T01:45:11.792Z",
+        "scanDate": "2026-06-16T07:25:20.420Z",
         "version": "2.5.0",
-        "totalTrends": 90,
+        "totalTrends": 86,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-v9u582c8p",
+            "title": "AI Video Generator",
+            "subtitle": "OpenArt introduces an online paper background video generator",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Background Generation",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QcmhlSHBib2c5ZnBRUXhZUUI3cFQ4b0lCcjV4S0ZOV290QTdyOVYzV0F2bFpfTUEyODdyRVp4Vm9FdEx1N0d4V2cyNk5lQTdkLUczZHZQTG9LeC1uUlE?oc=5",
+                "date": "2026-06-15T15:43:43.000Z"
+            },
+            "whatsNew": "OpenArt has introduced an online paper background video generator, utilizing AI for creative video production. This tool allows users to generate high-quality background videos. The generator is available online and can be used for various purposes.",
+            "whyItMatters": "The introduction of this AI-powered video generator can significantly impact the creative industry, providing an efficient and accessible tool for video production. It can benefit content creators, designers, and artists.",
+            "howToUse": "Users can access the generator on OpenArt's website and follow the provided instructions to create their own background videos. The tool is designed to be user-friendly and requires minimal expertise.",
+            "beneficiaries": [
+                "Content Creators",
+                "Designers",
+                "Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-0h31nhgsf",
             "title": "EGBA Harm Standard",
@@ -48,7 +80,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-cch5g4abs",
@@ -810,69 +842,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-f28phoq3h",
-            "title": "NoobAI Update",
-            "subtitle": "Civitai releases NoobAI checkpoint for AI art generation",
-            "category": "AI",
-            "tags": [
-                "NoobAI",
-                "Civitai",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVh2bm9YaFdRQVRrVzhoVktoQ1lpMngwN0tPWnpTeGFRbnFlY3hseUYxLWFyY08tc0xoVFJDVWhDZ3ZoQjdKdnM3cU9OME9TNWJDbi1EQWN4ZjlPSGJ0Y3B5cU5wcEU0cGgwdWxEV0lKSnAtU2dXZzlhbGVnX0hRdzFTQnU?oc=5",
-                "date": "2026-06-02T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released a new checkpoint for NoobAI, an AI model for generating art. This update is part of the HybridTheory series and is named 01_NoobAi. The checkpoint is available on the Civitai platform.",
-            "whyItMatters": "This update is significant for AI art generation as it provides a new tool for creators to produce high-quality art. The release of this checkpoint demonstrates the ongoing development and improvement of AI art generation models.",
-            "howToUse": "Artists and developers can use this checkpoint to generate art with NoobAI, experimenting with different prompts and styles to create unique pieces. They can access the checkpoint through the Civitai platform.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-iwjw73po2",
-            "title": "AI Image Prompt",
-            "subtitle": "ChatGPT image generation with PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5McEFEcExwVE9ZWHl2V29HcHU2NmZhRkRaUDFocl9ORzdUTlNyMHVyR0hwSzNQT3cwNTR6aHpHdWRqRkt1VGZfcW5kZTVRTy1pQ1E3dGdmN01QM2hZU2lLUTdSZ0g5VjctNGpFZ1A4SWk1dldFb3c?oc=5",
-                "date": "2026-06-02T07:00:00.000Z"
-            },
-            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
-            "whyItMatters": "The ability to generate images using AI has significant implications for the fields of art, design, and entertainment. It also raises important questions about the role of human creativity in the face of advancing AI technology.",
-            "howToUse": "Users can leverage PromptHero's ChatGPT integration to generate unique images by inputting specific text prompts, allowing for a high degree of customization and creativity.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1647,37 +1616,6 @@
             "isNew": false
         },
         {
-            "id": "t-iy4at0aqs",
-            "title": "Adobe Premiere Update",
-            "subtitle": "Adobe introduces object masking in Premiere beta version",
-            "category": "Tech",
-            "tags": [
-                "Adobe Premiere",
-                "Object Masking",
-                "Video Editing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Adobe Photoshop",
-                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMC1uUDJxazZKUjJVd01UdTZMUzFvdTdSNXNmdkFYVV9XbUE2aU81cHVDSm1NYzktc0tQUHA2RldvREx0dGdVVVB2SXB5S1RlZTRtTHBhVklNSWtaM2k3RE5SeV9heXVENEZkZFVQS3BPRmhXMWNkc1hpXzd3RkNlMnBKU3ZSLVRvMk5yYURHWmlyeUIydFlCZmpR?oc=5",
-                "date": "2026-06-02T07:00:00.000Z"
-            },
-            "whatsNew": "Adobe has introduced object masking in the beta version of Premiere, allowing for more precise video editing. This feature enables users to isolate and manipulate specific objects within a video. The object masking tool uses AI to automatically detect and track objects.",
-            "whyItMatters": "The introduction of object masking in Premiere will significantly enhance the video editing capabilities of the software, making it more competitive in the market. This feature will be particularly useful for professionals in the video editing and visual effects industry.",
-            "howToUse": "To access the object masking feature, users need to update to the beta version of Premiere and navigate to the effects panel. From there, they can apply the object masking effect to their video clips and adjust the settings as needed.",
-            "beneficiaries": [
-                "Video Editors",
-                "Visual Effects Artists"
-            ],
-            "companies": [
-                "Adobe"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-eykaw0bpy",
             "title": "AI Video Tutorials",
             "subtitle": "HeyGen introduces AI video maker for creating engaging tutorials",
@@ -1980,37 +1918,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-rc6ctoi5q",
-            "title": "Anima LoRA Update",
-            "subtitle": "Civitai releases Anima-base1 v1.1 with Style > gpt-image-2 integration",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Anima LoRA",
-                "gpt-image-2"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuR1lGT1pDc1BBLW84RHppS3VEVkJ4QXE4ajZBT01reWhPejRMekVCNDFweWVMTzJHLWxjYzVCTG1XOXNXbFlpVDJIVjJNMFJuLXNMN0NUeUdqS2VhOHF0VUczeXczRHhJWUNLVA?oc=5",
-                "date": "2026-06-02T03:20:20.000Z"
-            },
-            "whatsNew": "Civitai has updated Anima-base1 to version 1.1, incorporating Style > gpt-image-2 for enhanced image generation capabilities. This update aims to improve the quality and diversity of generated images. The integration of gpt-image-2 technology is expected to significantly impact AI art generation.",
-            "whyItMatters": "This update matters because it showcases the rapid advancement in AI art generation technology, potentially revolutionizing the field of digital art and design. It also highlights Civitai's commitment to innovation and improvement in AI tools.",
-            "howToUse": "Artists and designers can utilize this updated tool to generate high-quality, unique images for various applications, from concept art to final products. Experimenting with different styles and parameters can help unlock the full potential of Anima-base1 v1.1.",
-            "beneficiaries": [
-                "Digital Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2484,37 +2391,6 @@
             "isNew": false
         },
         {
-            "id": "t-z2o1lq6ig",
-            "title": "Anime Style Model",
-            "subtitle": "Civitai releases BAS, a Better Anime Style model for animation",
-            "category": "AI",
-            "tags": [
-                "Anime Style",
-                "AI Model",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzI5RmJqLVplWW5Zd2ZpSzBLQjZxVGFRcUE0cV9tZjRobC1JLVRZZk9ESmQ2UGE0NW5Lc0lZeENFNjdONmpWdUw4S0kyeHhJNmZvWlhMMFJDRGJpZ3JIV29IWk9md0NXM2hGNFdTOHhseVpTRjVoQjRpTEt6Qkp0SVQ1cUUyZzk2cjR3ZkRYb0FuTmZMTURJVkFqenJVVXM?oc=5",
-                "date": "2026-06-02T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced the BAS model, aimed at improving anime-style animation. The model is available as a checkpoint for further development. This release is part of the Anima base-v1.0 and signifies a step forward in AI-generated anime content.",
-            "whyItMatters": "The BAS model has the potential to revolutionize anime-style content creation by providing a more efficient and high-quality method for generating anime characters and scenes. This could significantly impact the animation and gaming industries.",
-            "howToUse": "Developers and artists can utilize the BAS model by integrating it into their existing pipelines or using it as a standalone tool for generating anime-style content. This can be particularly useful for streamlining the production process and achieving a consistent anime aesthetic.",
-            "beneficiaries": [
-                "Animators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-a2gjv6g26",
             "title": "WAI-ANIMA v1.0",
             "subtitle": "Civitai releases WAI-ANIMA version 1.0, a checkpoint for Anima",
@@ -2980,7 +2856,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": null
         },
         {
@@ -2999,7 +2875,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3008,7 +2884,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3017,7 +2893,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "Regulatory updates"
         },
         {
@@ -3035,7 +2911,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3044,7 +2920,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3064,7 +2940,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3122,7 +2998,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3131,7 +3007,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3140,7 +3016,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T23:00:55.285Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": "Style browsing signal"
         },
         {
@@ -3177,7 +3053,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": null
         },
         {
@@ -3186,7 +3062,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": null
         },
         {
@@ -3195,7 +3071,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-15T16:16:35.034Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": null
         },
         {
@@ -3267,7 +3143,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T01:45:11.792Z",
+            "lastScan": "2026-06-16T07:25:20.420Z",
             "note": null
         },
         {
@@ -31300,6 +31176,162 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-f28phoq3h",
+            "title": "NoobAI Update",
+            "subtitle": "Civitai releases NoobAI checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "NoobAI",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVh2bm9YaFdRQVRrVzhoVktoQ1lpMngwN0tPWnpTeGFRbnFlY3hseUYxLWFyY08tc0xoVFJDVWhDZ3ZoQjdKdnM3cU9OME9TNWJDbi1EQWN4ZjlPSGJ0Y3B5cU5wcEU0cGgwdWxEV0lKSnAtU2dXZzlhbGVnX0hRdzFTQnU?oc=5",
+                "date": "2026-06-02T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released a new checkpoint for NoobAI, an AI model for generating art. This update is part of the HybridTheory series and is named 01_NoobAi. The checkpoint is available on the Civitai platform.",
+            "whyItMatters": "This update is significant for AI art generation as it provides a new tool for creators to produce high-quality art. The release of this checkpoint demonstrates the ongoing development and improvement of AI art generation models.",
+            "howToUse": "Artists and developers can use this checkpoint to generate art with NoobAI, experimenting with different prompts and styles to create unique pieces. They can access the checkpoint through the Civitai platform.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-iwjw73po2",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5McEFEcExwVE9ZWHl2V29HcHU2NmZhRkRaUDFocl9ORzdUTlNyMHVyR0hwSzNQT3cwNTR6aHpHdWRqRkt1VGZfcW5kZTVRTy1pQ1E3dGdmN01QM2hZU2lLUTdSZ0g5VjctNGpFZ1A4SWk1dldFb3c?oc=5",
+                "date": "2026-06-02T07:00:00.000Z"
+            },
+            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
+            "whyItMatters": "The ability to generate images using AI has significant implications for the fields of art, design, and entertainment. It also raises important questions about the role of human creativity in the face of advancing AI technology.",
+            "howToUse": "Users can leverage PromptHero's ChatGPT integration to generate unique images by inputting specific text prompts, allowing for a high degree of customization and creativity.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-iy4at0aqs",
+            "title": "Adobe Premiere Update",
+            "subtitle": "Adobe introduces object masking in Premiere beta version",
+            "category": "Tech",
+            "tags": [
+                "Adobe Premiere",
+                "Object Masking",
+                "Video Editing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMC1uUDJxazZKUjJVd01UdTZMUzFvdTdSNXNmdkFYVV9XbUE2aU81cHVDSm1NYzktc0tQUHA2RldvREx0dGdVVVB2SXB5S1RlZTRtTHBhVklNSWtaM2k3RE5SeV9heXVENEZkZFVQS3BPRmhXMWNkc1hpXzd3RkNlMnBKU3ZSLVRvMk5yYURHWmlyeUIydFlCZmpR?oc=5",
+                "date": "2026-06-02T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe has introduced object masking in the beta version of Premiere, allowing for more precise video editing. This feature enables users to isolate and manipulate specific objects within a video. The object masking tool uses AI to automatically detect and track objects.",
+            "whyItMatters": "The introduction of object masking in Premiere will significantly enhance the video editing capabilities of the software, making it more competitive in the market. This feature will be particularly useful for professionals in the video editing and visual effects industry.",
+            "howToUse": "To access the object masking feature, users need to update to the beta version of Premiere and navigate to the effects panel. From there, they can apply the object masking effect to their video clips and adjust the settings as needed.",
+            "beneficiaries": [
+                "Video Editors",
+                "Visual Effects Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-rc6ctoi5q",
+            "title": "Anima LoRA Update",
+            "subtitle": "Civitai releases Anima-base1 v1.1 with Style > gpt-image-2 integration",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima LoRA",
+                "gpt-image-2"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuR1lGT1pDc1BBLW84RHppS3VEVkJ4QXE4ajZBT01reWhPejRMekVCNDFweWVMTzJHLWxjYzVCTG1XOXNXbFlpVDJIVjJNMFJuLXNMN0NUeUdqS2VhOHF0VUczeXczRHhJWUNLVA?oc=5",
+                "date": "2026-06-02T03:20:20.000Z"
+            },
+            "whatsNew": "Civitai has updated Anima-base1 to version 1.1, incorporating Style > gpt-image-2 for enhanced image generation capabilities. This update aims to improve the quality and diversity of generated images. The integration of gpt-image-2 technology is expected to significantly impact AI art generation.",
+            "whyItMatters": "This update matters because it showcases the rapid advancement in AI art generation technology, potentially revolutionizing the field of digital art and design. It also highlights Civitai's commitment to innovation and improvement in AI tools.",
+            "howToUse": "Artists and designers can utilize this updated tool to generate high-quality, unique images for various applications, from concept art to final products. Experimenting with different styles and parameters can help unlock the full potential of Anima-base1 v1.1.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-z2o1lq6ig",
+            "title": "Anime Style Model",
+            "subtitle": "Civitai releases BAS, a Better Anime Style model for animation",
+            "category": "AI",
+            "tags": [
+                "Anime Style",
+                "AI Model",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzI5RmJqLVplWW5Zd2ZpSzBLQjZxVGFRcUE0cV9tZjRobC1JLVRZZk9ESmQ2UGE0NW5Lc0lZeENFNjdONmpWdUw4S0kyeHhJNmZvWlhMMFJDRGJpZ3JIV29IWk9md0NXM2hGNFdTOHhseVpTRjVoQjRpTEt6Qkp0SVQ1cUUyZzk2cjR3ZkRYb0FuTmZMTURJVkFqenJVVXM?oc=5",
+                "date": "2026-06-02T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced the BAS model, aimed at improving anime-style animation. The model is available as a checkpoint for further development. This release is part of the Anima base-v1.0 and signifies a step forward in AI-generated anime content.",
+            "whyItMatters": "The BAS model has the potential to revolutionize anime-style content creation by providing a more efficient and high-quality method for generating anime characters and scenes. This could significantly impact the animation and gaming industries.",
+            "howToUse": "Developers and artists can utilize the BAS model by integrating it into their existing pipelines or using it as a standalone tool for generating anime-style content. This can be particularly useful for streamlining the production process and achieving a consistent anime aesthetic.",
+            "beneficiaries": [
+                "Animators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
