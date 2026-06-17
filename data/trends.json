@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-17T09:01:26.034Z",
+        "scanDate": "2026-06-17T12:57:17.230Z",
         "version": "2.5.0",
-        "totalTrends": 86,
+        "totalTrends": 82,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-alt25mrox",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows version 36, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-06-15T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows version 36 introduces improved image processing features, enhancing user experience and workflow efficiency. This update is part of Civitai's ongoing efforts to refine their tools. The new version aims to simplify complex image tasks.",
+            "whyItMatters": "The update matters because it can significantly impact the productivity of artists and designers using ComfyUI, allowing them to focus on creative aspects rather than technical hurdles. This can lead to higher quality outputs and faster project completion.",
+            "howToUse": "To leverage the new features, users should update to version 36 and explore the enhanced image workflow capabilities, which can be applied to various artistic and design projects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-71evvj10f",
             "title": "DraftKings New Hire",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-n46kq9s5m",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-owkl5tszw",
@@ -178,37 +209,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-x1c8i5eqi",
-            "title": "Merkur Slots Update",
-            "subtitle": "Merkur Slots UK Limited premises update from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Merkur Slots",
-                "UK Gambling Commission",
-                "Licensing"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEZFeEVBaW9uS1pIUGdUM3ZRNUV0WFRvaURTcXdjbGs3dlROcTZuYW1GNDNhNGdfNUkxOFMwTFhkcnlqZXowSjNQbExONmZ4czJkVktQWG1Nc0ZMZVpLcmpmOUlydUVDZnJWVmJENEN3cWNJb2JxenJ4MDRJbWdPQTNzNA?oc=5",
-                "date": "2026-06-03T12:19:40.000Z"
-            },
-            "whatsNew": "Merkur Slots UK Limited has received an update regarding its premises from the UK Gambling Commission. The update is related to the premises located at BS5 9HL.",
-            "whyItMatters": "This update may impact the operations of Merkur Slots UK Limited and is relevant to the iGaming industry in the UK. It reflects the ongoing regulatory oversight by the UK Gambling Commission.",
-            "howToUse": "Operators should ensure compliance with all regulatory requirements, and this update may require adjustments to Merkur Slots UK Limited's operations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Merkur Slots UK Limited"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1958,35 +1958,6 @@
             "isNew": false
         },
         {
-            "id": "t-kz7mn64yw",
-            "title": "Gambling License",
-            "subtitle": "Calum Anthony Wright receives premises license from UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "License",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjVHanNXZ19BSTFzbVphLUdOVWtwelZuNFdkZTJzYk51eFNYY1JBbk5yQ3Riek9nbjVBSUhQZVBjcUh3WndnU3pKem1ILTFaR0VuaVNSS1M3al81bE1XbEl2d29jYjdsTWNBNWZhS3Y3UHhzWW1Ha0hFV0d1b2R2LVZsbw?oc=5",
-                "date": "2026-06-03T12:53:10.000Z"
-            },
-            "whatsNew": "Calum Anthony Wright has been granted a premises license by the UK Gambling Commission. The license is for premises located at LL42 1NH.",
-            "whyItMatters": "This license allows Calum Anthony Wright to operate a gambling premises, contributing to the growth of the iGaming industry in the UK.",
-            "howToUse": "Operators can use this information to understand the licensing process and requirements for operating a gambling premises in the UK.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-qhhvosn25",
             "title": "Gambling License",
             "subtitle": "UK Gambling Commission updates on John Warwick Tunnicliffe Jnr premises",
@@ -2457,37 +2428,6 @@
             "isNew": false
         },
         {
-            "id": "t-46el2mi7a",
-            "title": "Betano Parent",
-            "subtitle": "Betano's parent company achieves decacorn status, a significant milestone in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Betano",
-                "Decacorn"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGt5MklOaE5vUGI2UmNNZzFzVUtKNmdMMnNhV2dlQS1wTFlqaDQwVmo2c1RSQ3N1UlIyTGJwOUt5RUdzMFdTSHc4SlpJZU1FUXh4U0ZJQWZUUWFzX1VZVkZJOFIxWWFfTmtNNW9BQkctLTVQQkhyeXQ3WVh2V08tSjJUeXRIUlhCbHc?oc=5",
-                "date": "2026-06-03T09:46:23.000Z"
-            },
-            "whatsNew": "Betano's parent company has reached a valuation of over $10 billion, achieving decacorn status. This milestone reflects the company's significant growth and success in the iGaming market. The achievement is a testament to the company's strategic expansion and innovation in the industry.",
-            "whyItMatters": "The achievement of decacorn status by Betano's parent company indicates a growing trend of significant investment and valuation in the iGaming industry. This trend is expected to continue, driven by increasing demand for online gaming and sports betting.",
-            "howToUse": "Companies in the iGaming industry can learn from Betano's parent company's success by focusing on strategic expansion, innovation, and customer engagement. This can include investing in new technologies, expanding into new markets, and developing unique gaming experiences.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Investors"
-            ],
-            "companies": [
-                "Betano"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-8ragsdjyq",
             "title": "AI Video Tool",
             "subtitle": "OpenArt introduces AI Shorts Generator for YouTube Shorts creation with captions",
@@ -2613,37 +2553,6 @@
             "isNew": false
         },
         {
-            "id": "t-rujqyixt4",
-            "title": "UK Gambling License",
-            "subtitle": "SJRP Investments Ltd receives premises license from UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Licensing",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXBZbjR1azNTb0xEQVJ1WFN0MHhrME1LUDhXbElOUE5OR25FZ0ZFRHN1NGxDMEdXN1FNWlZ4WmNFblIyM3BHZ0hoS25EY3ljZTM5dUFOVTI3UllxelNsRy1YZ1FfQkduZE4wWXl4ZlhPUjNGSGowWTZyeG0zdjE2VzRDTQ?oc=5",
-                "date": "2026-06-03T12:41:38.000Z"
-            },
-            "whatsNew": "SJRP Investments Ltd has been granted a premises license by the UK Gambling Commission. The license is for premises located at DY10 2DJ.",
-            "whyItMatters": "This license grant indicates the company's compliance with UK gambling regulations, allowing it to operate legally in the region. It reflects the ongoing regulatory oversight in the iGaming industry.",
-            "howToUse": "Operators should ensure they meet all regulatory requirements to obtain necessary licenses for legal operation in the UK.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "SJRP Investments Ltd"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-a13z9aq0k",
             "title": "Regulation Update",
             "subtitle": "Recent regulatory changes in Illinois, New Jersey, Minnesota, and more",
@@ -2670,38 +2579,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-xg9fry65a",
-            "title": "Matchbook New Hire",
-            "subtitle": "Matchbook appoints ex-Betfair head as chief growth officer to drive expansion",
-            "category": "iGaming",
-            "tags": [
-                "Matchbook",
-                "Betfair",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnctUnNabVhaYnRLYWZUanMyV3Y4V1pPRTdtakxTU3ZxZDJEdXQ5OGhFNEtVcnhoU3A3QXU5REw4cFVEa25QVnJSSlJKSERhdnRUNHRjNW02THRaYnExSWRHb2h2eFVMS1ZwVkg0Mnlwb1lvWUg4TWVIRHExbXA2a3FFVlJRSjNqei1DdUN5WWFBbGM?oc=5",
-                "date": "2026-06-03T10:42:18.000Z"
-            },
-            "whatsNew": "Matchbook has appointed a former Betfair executive as its chief growth officer. This move is expected to bolster the company's growth strategy. The new hire brings valuable experience from a major player in the iGaming industry.",
-            "whyItMatters": "This appointment could signal Matchbook's intent to expand its market share and improve its competitive stance. The move reflects the ongoing trend of iGaming companies seeking experienced talent to drive growth.",
-            "howToUse": "Companies in the iGaming sector can consider strategic hiring from competitors to bolster their growth plans. This approach can bring in fresh perspectives and expertise, potentially leading to improved market positioning.",
-            "beneficiaries": [
-                "iGaming companies",
-                "Growth officers"
-            ],
-            "companies": [
-                "Matchbook",
-                "Betfair"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ],
@@ -2859,7 +2736,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": null
         },
         {
@@ -2878,7 +2755,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2887,7 +2764,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2896,7 +2773,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "Regulatory updates"
         },
         {
@@ -2914,7 +2791,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2923,7 +2800,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2943,7 +2820,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3001,7 +2878,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3010,7 +2887,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3019,7 +2896,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": "Style browsing signal"
         },
         {
@@ -3056,7 +2933,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": null
         },
         {
@@ -3065,7 +2942,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": null
         },
         {
@@ -3146,7 +3023,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T09:01:26.034Z",
+            "lastScan": "2026-06-17T12:57:17.230Z",
             "note": null
         },
         {
@@ -31679,6 +31556,160 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-x1c8i5eqi",
+            "title": "Merkur Slots Update",
+            "subtitle": "Merkur Slots UK Limited premises update from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Merkur Slots",
+                "UK Gambling Commission",
+                "Licensing"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEZFeEVBaW9uS1pIUGdUM3ZRNUV0WFRvaURTcXdjbGs3dlROcTZuYW1GNDNhNGdfNUkxOFMwTFhkcnlqZXowSjNQbExONmZ4czJkVktQWG1Nc0ZMZVpLcmpmOUlydUVDZnJWVmJENEN3cWNJb2JxenJ4MDRJbWdPQTNzNA?oc=5",
+                "date": "2026-06-03T12:19:40.000Z"
+            },
+            "whatsNew": "Merkur Slots UK Limited has received an update regarding its premises from the UK Gambling Commission. The update is related to the premises located at BS5 9HL.",
+            "whyItMatters": "This update may impact the operations of Merkur Slots UK Limited and is relevant to the iGaming industry in the UK. It reflects the ongoing regulatory oversight by the UK Gambling Commission.",
+            "howToUse": "Operators should ensure compliance with all regulatory requirements, and this update may require adjustments to Merkur Slots UK Limited's operations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Merkur Slots UK Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-kz7mn64yw",
+            "title": "Gambling License",
+            "subtitle": "Calum Anthony Wright receives premises license from UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "License",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjVHanNXZ19BSTFzbVphLUdOVWtwelZuNFdkZTJzYk51eFNYY1JBbk5yQ3Riek9nbjVBSUhQZVBjcUh3WndnU3pKem1ILTFaR0VuaVNSS1M3al81bE1XbEl2d29jYjdsTWNBNWZhS3Y3UHhzWW1Ha0hFV0d1b2R2LVZsbw?oc=5",
+                "date": "2026-06-03T12:53:10.000Z"
+            },
+            "whatsNew": "Calum Anthony Wright has been granted a premises license by the UK Gambling Commission. The license is for premises located at LL42 1NH.",
+            "whyItMatters": "This license allows Calum Anthony Wright to operate a gambling premises, contributing to the growth of the iGaming industry in the UK.",
+            "howToUse": "Operators can use this information to understand the licensing process and requirements for operating a gambling premises in the UK.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-46el2mi7a",
+            "title": "Betano Parent",
+            "subtitle": "Betano's parent company achieves decacorn status, a significant milestone in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Betano",
+                "Decacorn"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGt5MklOaE5vUGI2UmNNZzFzVUtKNmdMMnNhV2dlQS1wTFlqaDQwVmo2c1RSQ3N1UlIyTGJwOUt5RUdzMFdTSHc4SlpJZU1FUXh4U0ZJQWZUUWFzX1VZVkZJOFIxWWFfTmtNNW9BQkctLTVQQkhyeXQ3WVh2V08tSjJUeXRIUlhCbHc?oc=5",
+                "date": "2026-06-03T09:46:23.000Z"
+            },
+            "whatsNew": "Betano's parent company has reached a valuation of over $10 billion, achieving decacorn status. This milestone reflects the company's significant growth and success in the iGaming market. The achievement is a testament to the company's strategic expansion and innovation in the industry.",
+            "whyItMatters": "The achievement of decacorn status by Betano's parent company indicates a growing trend of significant investment and valuation in the iGaming industry. This trend is expected to continue, driven by increasing demand for online gaming and sports betting.",
+            "howToUse": "Companies in the iGaming industry can learn from Betano's parent company's success by focusing on strategic expansion, innovation, and customer engagement. This can include investing in new technologies, expanding into new markets, and developing unique gaming experiences.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "Betano"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-rujqyixt4",
+            "title": "UK Gambling License",
+            "subtitle": "SJRP Investments Ltd receives premises license from UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXBZbjR1azNTb0xEQVJ1WFN0MHhrME1LUDhXbElOUE5OR25FZ0ZFRHN1NGxDMEdXN1FNWlZ4WmNFblIyM3BHZ0hoS25EY3ljZTM5dUFOVTI3UllxelNsRy1YZ1FfQkduZE4wWXl4ZlhPUjNGSGowWTZyeG0zdjE2VzRDTQ?oc=5",
+                "date": "2026-06-03T12:41:38.000Z"
+            },
+            "whatsNew": "SJRP Investments Ltd has been granted a premises license by the UK Gambling Commission. The license is for premises located at DY10 2DJ.",
+            "whyItMatters": "This license grant indicates the company's compliance with UK gambling regulations, allowing it to operate legally in the region. It reflects the ongoing regulatory oversight in the iGaming industry.",
+            "howToUse": "Operators should ensure they meet all regulatory requirements to obtain necessary licenses for legal operation in the UK.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "SJRP Investments Ltd"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xg9fry65a",
+            "title": "Matchbook New Hire",
+            "subtitle": "Matchbook appoints ex-Betfair head as chief growth officer to drive expansion",
+            "category": "iGaming",
+            "tags": [
+                "Matchbook",
+                "Betfair",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnctUnNabVhaYnRLYWZUanMyV3Y4V1pPRTdtakxTU3ZxZDJEdXQ5OGhFNEtVcnhoU3A3QXU5REw4cFVEa25QVnJSSlJKSERhdnRUNHRjNW02THRaYnExSWRHb2h2eFVMS1ZwVkg0Mnlwb1lvWUg4TWVIRHExbXA2a3FFVlJRSjNqei1DdUN5WWFBbGM?oc=5",
+                "date": "2026-06-03T10:42:18.000Z"
+            },
+            "whatsNew": "Matchbook has appointed a former Betfair executive as its chief growth officer. This move is expected to bolster the company's growth strategy. The new hire brings valuable experience from a major player in the iGaming industry.",
+            "whyItMatters": "This appointment could signal Matchbook's intent to expand its market share and improve its competitive stance. The move reflects the ongoing trend of iGaming companies seeking experienced talent to drive growth.",
+            "howToUse": "Companies in the iGaming sector can consider strategic hiring from competitors to bolster their growth plans. This approach can bring in fresh perspectives and expertise, potentially leading to improved market positioning.",
+            "beneficiaries": [
+                "iGaming companies",
+                "Growth officers"
+            ],
+            "companies": [
+                "Matchbook",
+                "Betfair"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
