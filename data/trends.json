@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-17T12:57:17.230Z",
+        "scanDate": "2026-06-17T16:38:57.673Z",
         "version": "2.5.0",
-        "totalTrends": 82,
+        "totalTrends": 80,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-r1ba70uo6",
+            "title": "Hippodrome Casino",
+            "subtitle": "Hippodrome Casino Limited premises update from UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Hippodrome Casino",
+                "Licensing"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWVWdHdfanoybU50TklPN3dmc0dXUWVkdS00MDNLbERHS3dtX0hXeWFTZ2YycjQxVW84UW1oYTI1ZS1VeGMzTXlPTW92TG5lZnJ4NG1NOVY3NWZwSXFyWWYyOFpYQnA0SW5pOFVIdkpxVGExajl0TGgxY19RQy03SEI2dw?oc=5",
+                "date": "2026-06-12T23:23:12.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated information on Hippodrome Casino Limited premises. The premises are located at WC2H 7AG.",
+            "whyItMatters": "This update is important for those interested in the iGaming industry, particularly in the UK, as it reflects regulatory oversight. It may impact operators and players alike.",
+            "howToUse": "Operators should ensure compliance with Gambling Commission regulations, while players can verify the legitimacy of casinos.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gamblers"
+            ],
+            "companies": [
+                "Hippodrome Casino Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-alt25mrox",
             "title": "ComfyUI Update",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-71evvj10f",
@@ -2111,37 +2142,6 @@
             "isNew": false
         },
         {
-            "id": "t-abky4cms2",
-            "title": "Spine 2D Update",
-            "subtitle": "Version 4.2 issue with hiding bone names in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Game Development",
-                "Bone Names"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS3FNMGVTTjYxbV9rOHAzNnNYSnk2dThtZ0xKR0FrYXo4OUJwSjluVEE2cVRWc0RValJRUmtraE96cGRXVjA3VGtPQ28yWTFudWdJSE94WDJ4akZkbEZUN1VDWGhkZ3ZyUlNnNWNGM3VkMFRub3Q2TDFLLUI5dGR0NnpRdGpLMWhuNl80aHFLMDRzSTZzZUtNOTFwMlFoTXBZNFNKVTBoTVhjUWZMRWxVekVzMFliZ1haaWs5bThObzQ4aFRsbWp1VVR6SXBYcWxYTTZTRUJHSldVamI4NlBDWmJGX1EzeWNPWnJMSUhmWDhmVEhMX3ZkendjcmVITEpfbWlVdGNIakVESlZBZEE?oc=5",
-                "date": "2026-06-03T15:49:14.000Z"
-            },
-            "whatsNew": "The latest version of Spine 2D, version 4.2, has an issue where bone names cannot be hidden. This is causing inconvenience for game developers who use Spine for their 2D game development needs.",
-            "whyItMatters": "This issue affects game developers who rely on Spine for their game development pipeline, potentially slowing down their workflow. A fix for this issue is necessary to ensure smooth game development.",
-            "howToUse": "Developers can use workarounds such as using alternative versions of Spine or manually editing the bone names to minimize the impact of this issue.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Artists"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-u8li459wt",
             "title": "Spine 2D Audio Issue",
             "subtitle": "No sound during audio timing on Mac for Spine 2D",
@@ -2459,37 +2459,6 @@
             "isNew": false
         },
         {
-            "id": "t-ctvq5u5nn",
-            "title": "AI Art Generation",
-            "subtitle": "Grok Imagine creates ultra-realistic 8K portraits with AI",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Ultra-realistic Portraits"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdzIwQlk3VkZoenpjc01uSmd2NkxoakhPRVJ2dlU1MExVY2hwLVd1RVR5VWlSSDg4LU5wekdBcGVvVXZfYllHTXQwSlk3dlhudEhEbm1nS2RjRU82dU44ckxBSzhTWDV0S3RIb1MyMUg1bUQwcDZPYy04TG4yaVpxbEhQYTlQNnN5MmRiSkVWYlBkRzE4QTZEWElMR3c2UDRGbWNhUHlpM1NNVUY2M1VmZEhKRkpqLWp2dDNGaEwxM0NiRkwxb1dWd0g3Z2JGRkRGN050OENFejNsNVkwdC04UGFtc1ctSU81aXZwREtHT2NJUnhESThnZ2NPRkZVeDR4M054WFo3QQ?oc=5",
-                "date": "2026-06-03T16:27:33.000Z"
-            },
-            "whatsNew": "Grok Imagine uses AI to generate ultra-realistic 8K full-body portraits, pushing the boundaries of AI art generation. The technology has the potential to revolutionize the field of digital art. This development showcases the increasing capabilities of AI in creating highly detailed and realistic images.",
-            "whyItMatters": "The ability to generate ultra-realistic images with AI has significant implications for the gaming and art industries, enabling the creation of highly detailed and realistic environments and characters. This technology can also be used in various other fields such as advertising and film production.",
-            "howToUse": "Developers and artists can utilize Grok Imagine's AI technology to generate realistic portraits and environments for their projects, enhancing the overall visual quality and immersion.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Grok Imagine"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-qzbeg6ft1",
             "title": "AI Bikini Generator",
             "subtitle": "OpenArt introduces an AI tool for designing bikinis and generating photos",
@@ -2550,35 +2519,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-a13z9aq0k",
-            "title": "Regulation Update",
-            "subtitle": "Recent regulatory changes in Illinois, New Jersey, Minnesota, and more",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "iGaming",
-                "US Market"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0JKUDhhcnRqSVYtVlZYTHdVSkZzMXFSeDZ1RGpVbUhqRWdpaEdPemVRRHFGcGlpcEFMRGZHN2Jzc2dfSWJIRkF1aS1wNDBTY3UxcjNZZ2N1aExpY0QzeDRIUm1GZTZmQ0pmQ3huWTVyalpZZGkwemdsNFd5MU50aXVnYlljcmlmc09hZ19HWDlPRDRzb3BvVW1od0NlX1Vt?oc=5",
-                "date": "2026-06-03T16:30:00.000Z"
-            },
-            "whatsNew": "Illinois, New Jersey, and Minnesota have introduced new regulatory changes affecting the iGaming industry. These changes aim to improve player protection and increase revenue for the states.",
-            "whyItMatters": "The new regulations will impact iGaming operators and players in these states, and may set a precedent for other US states to follow. This could lead to increased growth and investment in the iGaming industry.",
-            "howToUse": "Operators should review and comply with the new regulations to avoid penalties and ensure continued operation in these states.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "State Governments"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         }
     ],
@@ -2736,7 +2676,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": null
         },
         {
@@ -2755,7 +2695,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2764,7 +2704,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2773,7 +2713,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "Regulatory updates"
         },
         {
@@ -2791,7 +2731,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2800,7 +2740,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2820,7 +2760,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2878,7 +2818,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2887,7 +2827,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2896,7 +2836,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": "Style browsing signal"
         },
         {
@@ -2933,7 +2873,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": null
         },
         {
@@ -2942,7 +2882,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": null
         },
         {
@@ -3023,7 +2963,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T12:57:17.230Z",
+            "lastScan": "2026-06-17T16:38:57.673Z",
             "note": null
         },
         {
@@ -31710,6 +31650,97 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-abky4cms2",
+            "title": "Spine 2D Update",
+            "subtitle": "Version 4.2 issue with hiding bone names in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Bone Names"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS3FNMGVTTjYxbV9rOHAzNnNYSnk2dThtZ0xKR0FrYXo4OUJwSjluVEE2cVRWc0RValJRUmtraE96cGRXVjA3VGtPQ28yWTFudWdJSE94WDJ4akZkbEZUN1VDWGhkZ3ZyUlNnNWNGM3VkMFRub3Q2TDFLLUI5dGR0NnpRdGpLMWhuNl80aHFLMDRzSTZzZUtNOTFwMlFoTXBZNFNKVTBoTVhjUWZMRWxVekVzMFliZ1haaWs5bThObzQ4aFRsbWp1VVR6SXBYcWxYTTZTRUJHSldVamI4NlBDWmJGX1EzeWNPWnJMSUhmWDhmVEhMX3ZkendjcmVITEpfbWlVdGNIakVESlZBZEE?oc=5",
+                "date": "2026-06-03T15:49:14.000Z"
+            },
+            "whatsNew": "The latest version of Spine 2D, version 4.2, has an issue where bone names cannot be hidden. This is causing inconvenience for game developers who use Spine for their 2D game development needs.",
+            "whyItMatters": "This issue affects game developers who rely on Spine for their game development pipeline, potentially slowing down their workflow. A fix for this issue is necessary to ensure smooth game development.",
+            "howToUse": "Developers can use workarounds such as using alternative versions of Spine or manually editing the bone names to minimize the impact of this issue.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-ctvq5u5nn",
+            "title": "AI Art Generation",
+            "subtitle": "Grok Imagine creates ultra-realistic 8K portraits with AI",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Ultra-realistic Portraits"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdzIwQlk3VkZoenpjc01uSmd2NkxoakhPRVJ2dlU1MExVY2hwLVd1RVR5VWlSSDg4LU5wekdBcGVvVXZfYllHTXQwSlk3dlhudEhEbm1nS2RjRU82dU44ckxBSzhTWDV0S3RIb1MyMUg1bUQwcDZPYy04TG4yaVpxbEhQYTlQNnN5MmRiSkVWYlBkRzE4QTZEWElMR3c2UDRGbWNhUHlpM1NNVUY2M1VmZEhKRkpqLWp2dDNGaEwxM0NiRkwxb1dWd0g3Z2JGRkRGN050OENFejNsNVkwdC04UGFtc1ctSU81aXZwREtHT2NJUnhESThnZ2NPRkZVeDR4M054WFo3QQ?oc=5",
+                "date": "2026-06-03T16:27:33.000Z"
+            },
+            "whatsNew": "Grok Imagine uses AI to generate ultra-realistic 8K full-body portraits, pushing the boundaries of AI art generation. The technology has the potential to revolutionize the field of digital art. This development showcases the increasing capabilities of AI in creating highly detailed and realistic images.",
+            "whyItMatters": "The ability to generate ultra-realistic images with AI has significant implications for the gaming and art industries, enabling the creation of highly detailed and realistic environments and characters. This technology can also be used in various other fields such as advertising and film production.",
+            "howToUse": "Developers and artists can utilize Grok Imagine's AI technology to generate realistic portraits and environments for their projects, enhancing the overall visual quality and immersion.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Grok Imagine"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-a13z9aq0k",
+            "title": "Regulation Update",
+            "subtitle": "Recent regulatory changes in Illinois, New Jersey, Minnesota, and more",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "US Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0JKUDhhcnRqSVYtVlZYTHdVSkZzMXFSeDZ1RGpVbUhqRWdpaEdPemVRRHFGcGlpcEFMRGZHN2Jzc2dfSWJIRkF1aS1wNDBTY3UxcjNZZ2N1aExpY0QzeDRIUm1GZTZmQ0pmQ3huWTVyalpZZGkwemdsNFd5MU50aXVnYlljcmlmc09hZ19HWDlPRDRzb3BvVW1od0NlX1Vt?oc=5",
+                "date": "2026-06-03T16:30:00.000Z"
+            },
+            "whatsNew": "Illinois, New Jersey, and Minnesota have introduced new regulatory changes affecting the iGaming industry. These changes aim to improve player protection and increase revenue for the states.",
+            "whyItMatters": "The new regulations will impact iGaming operators and players in these states, and may set a precedent for other US states to follow. This could lead to increased growth and investment in the iGaming industry.",
+            "howToUse": "Operators should review and comply with the new regulations to avoid penalties and ensure continued operation in these states.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "State Governments"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
