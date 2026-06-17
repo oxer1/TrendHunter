@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-17T03:46:37.370Z",
+        "scanDate": "2026-06-17T09:01:26.034Z",
         "version": "2.5.0",
-        "totalTrends": 89,
+        "totalTrends": 86,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-71evvj10f",
+            "title": "DraftKings New Hire",
+            "subtitle": "DraftKings appoints former FanDuel director as government affairs lead",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "FanDuel",
+                "Government Affairs"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmlpTEViRUxkRERTcVhpNU0teHNVdjFiZkdUQzN4UkNtLTNaYTE1dDM2NUREeHVqUmk4R2tURHpfa1pWa3RGZ19NQUpZaC1RdC1tWUZOY2h5eXlOS2s4a045ZG9sVXBlSXJWMS1NUmctSkp5NUlVVGFYN0E0Y1NxX1RPWjN6TWhjWTFzUm1pZlJNb3Y3R1pOampLREVpN0Z5djlncDg1dGk?oc=5",
+                "date": "2026-06-17T08:34:19.000Z"
+            },
+            "whatsNew": "DraftKings has appointed a former FanDuel director to lead its government affairs. This move indicates a strategic effort to strengthen its regulatory presence. The appointment may signal a more proactive approach to shaping iGaming policies.",
+            "whyItMatters": "This appointment highlights the importance of regulatory affairs in the iGaming industry and may influence how companies navigate legal landscapes. It also underscores the competitive nature of the industry, with key players vying for influence.",
+            "howToUse": "Companies in the iGaming sector should prioritize building strong government relations teams to effectively navigate regulatory challenges and opportunities.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Affairs Specialists"
+            ],
+            "companies": [
+                "DraftKings",
+                "FanDuel"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-n46kq9s5m",
+            "title": "AI Video Director",
+            "subtitle": "OpenArt introduces AI-powered video direction tool",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "OpenArt",
+                "Video Direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbHh2ZUM3cGtMVW5tNExOUG9DWjhLZDlkay1hNHdxeE53Mld6ZzlBZnRrUEhrMVlKTHNEWFZfdjRtZUVldFFfc01XU19KTDJzX01UMmNRRm0?oc=5",
+                "date": "2026-06-09T10:25:43.000Z"
+            },
+            "whatsNew": "OpenArt Director uses AI to direct videos, providing a new level of creative control. This tool allows users to easily create professional-looking videos with minimal effort. The AI technology behind OpenArt Director enables real-time adjustments and enhancements.",
+            "whyItMatters": "The introduction of OpenArt Director has the potential to revolutionize the video creation process, making it more accessible and efficient for creators. This tool can benefit various industries, including filmmaking, advertising, and social media.",
+            "howToUse": "To utilize OpenArt Director, users can simply upload their video content and let the AI technology work its magic, providing a customized and polished final product. Creators can also fine-tune the AI's suggestions to fit their specific vision.",
+            "beneficiaries": [
+                "Video Creators",
+                "Advertisers",
+                "Filmmakers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-owkl5tszw",
             "title": "FLUX2 Workflow",
@@ -680,39 +744,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-rt82ktoig",
-            "title": "D-ID Alternatives",
-            "subtitle": "Synthesia reviews the best D-ID alternatives for AI video tools in 2026",
-            "category": "AI",
-            "tags": [
-                "D-ID",
-                "Synthesia",
-                "AI Video Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0U2pCSTVwOGtpNGwxWk5NYnJOS1N1OVlCLW9yeGZsZVhHRC0xMG03YV94UVJhMTdpc3JreTI0OXdmQ0hLYmswT0JNeDF2LXlCcFJlY0RiMGEzcFk4dmJ0ZGF3?oc=5",
-                "date": "2026-06-03T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia has tested and ranked the top 5 D-ID alternatives for 2026, focusing on AI video generation and editing capabilities. These alternatives offer advanced features and improved performance. The review highlights the key benefits and drawbacks of each option.",
-            "whyItMatters": "The emergence of D-ID alternatives signifies a growing demand for AI-powered video creation tools, impacting the future of content creation and video production. This trend is crucial for businesses and individuals seeking to leverage AI for visual content.",
-            "howToUse": "Content creators can utilize these D-ID alternatives to produce high-quality, personalized videos with minimal effort, enhancing their content strategy and engagement. By exploring these options, users can find the best fit for their specific needs and workflows.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia",
-                "D-ID"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1434,38 +1465,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-p8xzu5gd7",
-            "title": "LTX Video LoRA",
-            "subtitle": "Civitai releases Singularity-LTX-2.3_OmniCine_V1, the official version of LTX Video LoRA",
-            "category": "AI",
-            "tags": [
-                "LTX Video LoRA",
-                "Singularity-LTX-2.3_OmniCine_V1",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJSlhSRUViWFhrOWFXZWcxcXhMdnktcGNCTS1aUkNEMDY3dlQzc3R2RWhiLWZwUi1CMU1UeERwdU1pYVBxTVQ2OExFaGtVN3VSTHFsQU85MVlsYS1pQ3k4RF9QQXZ2TWpVT1NWZVVzLVA?oc=5",
-                "date": "2026-06-03T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released the official version of Singularity-LTX-2.3_OmniCine_V1, a significant update to LTX Video LoRA. This version is expected to bring improved performance and features. The release is a major milestone for Civitai and the AI community.",
-            "whyItMatters": "The release of Singularity-LTX-2.3_OmniCine_V1 is important because it showcases the rapid progress in AI video technology and its potential applications in various industries. It also highlights Civitai's commitment to innovation and its position as a leader in the AI community.",
-            "howToUse": "Developers and researchers can utilize Singularity-LTX-2.3_OmniCine_V1 to explore new possibilities in AI-generated video content, such as creating realistic videos or enhancing existing ones.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -2394,37 +2393,6 @@
             "isNew": false
         },
         {
-            "id": "t-xeuxspf4b",
-            "title": "AI Art Workflow",
-            "subtitle": "Civitai releases Ideogram-v4-workflow with Json Prompts",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Json Prompts",
-                "Ideogram-v4"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdmNTakhBdk1DT3d4Mi1PY1JualEzOWhGbzBtUFVXb1dvSHN0bk5WSFVsbjMtcnE5VE5PZV9wNzVVTWlpNHhDSGRCaWlvaEVfVzExNS14c1JrYVBWTkw1b21oX20wNGtmemhvQUIyaUhVYlE0WmJJ?oc=5",
-                "date": "2026-06-03T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has introduced the Ideogram-v4-workflow, a new tool for AI art generation, along with Json Prompts version 1.0. This workflow aims to enhance the creative process for artists and developers. The inclusion of Json Prompts suggests a more structured approach to generating art prompts.",
-            "whyItMatters": "The release of Ideogram-v4-workflow and Json Prompts can significantly impact the AI art generation landscape, offering more sophisticated tools for creators. This can lead to more diverse and complex art pieces, further blurring the line between human and AI-generated art.",
-            "howToUse": "Artists and developers can utilize the Ideogram-v4-workflow by integrating it into their existing projects, leveraging the Json Prompts for more precise control over the art generation process. Experimenting with different prompts and workflow configurations can help unlock new creative possibilities.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-0f6etm62s",
             "title": "AI Facial Editor",
             "subtitle": "OpenArt introduces an AI-powered facial expression changer for photos",
@@ -2576,38 +2544,6 @@
             ],
             "companies": [
                 "Grok Imagine"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-a2gjv6g26",
-            "title": "WAI-ANIMA v1.0",
-            "subtitle": "Civitai releases WAI-ANIMA version 1.0, a checkpoint for Anima",
-            "category": "AI",
-            "tags": [
-                "AI Models",
-                "Anima",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wbVZoRFNLMnlVMHJJQXd0YlRQNXM5SUVOeDVkWklrcFdmNHJ4WEJ2bVVmSzZMU2swLUdsQ01PWm1QUU95Qko5RzltMmRDbko4c1Nqa0ZkNA?oc=5",
-                "date": "2026-06-03T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released WAI-ANIMA v1.0, marking a significant update to their Anima checkpoint. This version is based on 1.0 and is available for use. The release of WAI-ANIMA v1.0 indicates ongoing development in AI models for animation and creative work.",
-            "whyItMatters": "The release of WAI-ANIMA v1.0 is important for developers and researchers working with AI models for animation and creative tasks, as it provides a new tool for generating and manipulating animations. This can impact the development of more sophisticated and realistic animations in various fields, including gaming and visual effects.",
-            "howToUse": "Developers can utilize WAI-ANIMA v1.0 by integrating it into their projects to generate or manipulate animations, exploring its capabilities for enhancing visual content. The model can be accessed through Civitai's platform, allowing for experimentation and application in relevant projects.",
-            "beneficiaries": [
-                "AI Researchers",
-                "Game Developers",
-                "Animation Studios"
-            ],
-            "companies": [
-                "Civitai"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -2767,38 +2703,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-gpwh43y4d",
-            "title": "Gambling CEO Move",
-            "subtitle": "Former Gambling Commission CEO joins Hawkbridge",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Hawkbridge",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0MwU1gtclZ6cDRJVVhVcmt3RUpvMzg1TEpaSk53SVp3Z1FwcDZLeWZLMTRCXzFlcE9rTy1aU3VtTVJGQzhUQTVGemQxd19jbnpMTXRaU3pMVEN6T2I3eXdxMVV2VFh6YXpaUnpmWUJ5UU9UY1VrV243dHpYbkVQbnRsbzJKZTZCdlR5bHhn?oc=5",
-                "date": "2026-06-03T08:06:29.000Z"
-            },
-            "whatsNew": "The former CEO of the Gambling Commission has taken a new role at Hawkbridge, indicating a shift in the regulatory landscape of the iGaming industry. This move may signal changes in how companies navigate regulatory requirements. The change in leadership roles could influence future policy decisions.",
-            "whyItMatters": "This move matters because it could impact the regulatory environment of the iGaming industry, affecting how companies operate and comply with laws. The former CEO's experience could shape Hawkbridge's approach to regulatory matters.",
-            "howToUse": "Companies in the iGaming sector should monitor this development closely, as it may require adjustments to their compliance strategies. Understanding the potential implications of this move can help businesses prepare for possible regulatory changes.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Affairs Specialists"
-            ],
-            "companies": [
-                "Hawkbridge",
-                "Gambling Commission"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2955,7 +2859,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.370Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": null
         },
         {
@@ -2974,7 +2878,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-17T03:46:37.370Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2983,7 +2887,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.370Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2992,7 +2896,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.370Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "Regulatory updates"
         },
         {
@@ -3010,7 +2914,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.370Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3019,7 +2923,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.370Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3039,7 +2943,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3097,7 +3001,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3106,7 +3010,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3115,7 +3019,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": "Style browsing signal"
         },
         {
@@ -3152,7 +3056,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": null
         },
         {
@@ -3161,7 +3065,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": null
         },
         {
@@ -3170,7 +3074,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": null
         },
         {
@@ -3242,7 +3146,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-17T03:46:37.371Z",
+            "lastScan": "2026-06-17T09:01:26.034Z",
             "note": null
         },
         {
@@ -31615,6 +31519,166 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-rt82ktoig",
+            "title": "D-ID Alternatives",
+            "subtitle": "Synthesia reviews the best D-ID alternatives for AI video tools in 2026",
+            "category": "AI",
+            "tags": [
+                "D-ID",
+                "Synthesia",
+                "AI Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0U2pCSTVwOGtpNGwxWk5NYnJOS1N1OVlCLW9yeGZsZVhHRC0xMG03YV94UVJhMTdpc3JreTI0OXdmQ0hLYmswT0JNeDF2LXlCcFJlY0RiMGEzcFk4dmJ0ZGF3?oc=5",
+                "date": "2026-06-03T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia has tested and ranked the top 5 D-ID alternatives for 2026, focusing on AI video generation and editing capabilities. These alternatives offer advanced features and improved performance. The review highlights the key benefits and drawbacks of each option.",
+            "whyItMatters": "The emergence of D-ID alternatives signifies a growing demand for AI-powered video creation tools, impacting the future of content creation and video production. This trend is crucial for businesses and individuals seeking to leverage AI for visual content.",
+            "howToUse": "Content creators can utilize these D-ID alternatives to produce high-quality, personalized videos with minimal effort, enhancing their content strategy and engagement. By exploring these options, users can find the best fit for their specific needs and workflows.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia",
+                "D-ID"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-p8xzu5gd7",
+            "title": "LTX Video LoRA",
+            "subtitle": "Civitai releases Singularity-LTX-2.3_OmniCine_V1, the official version of LTX Video LoRA",
+            "category": "AI",
+            "tags": [
+                "LTX Video LoRA",
+                "Singularity-LTX-2.3_OmniCine_V1",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJSlhSRUViWFhrOWFXZWcxcXhMdnktcGNCTS1aUkNEMDY3dlQzc3R2RWhiLWZwUi1CMU1UeERwdU1pYVBxTVQ2OExFaGtVN3VSTHFsQU85MVlsYS1pQ3k4RF9QQXZ2TWpVT1NWZVVzLVA?oc=5",
+                "date": "2026-06-03T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the official version of Singularity-LTX-2.3_OmniCine_V1, a significant update to LTX Video LoRA. This version is expected to bring improved performance and features. The release is a major milestone for Civitai and the AI community.",
+            "whyItMatters": "The release of Singularity-LTX-2.3_OmniCine_V1 is important because it showcases the rapid progress in AI video technology and its potential applications in various industries. It also highlights Civitai's commitment to innovation and its position as a leader in the AI community.",
+            "howToUse": "Developers and researchers can utilize Singularity-LTX-2.3_OmniCine_V1 to explore new possibilities in AI-generated video content, such as creating realistic videos or enhancing existing ones.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-xeuxspf4b",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai releases Ideogram-v4-workflow with Json Prompts",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Json Prompts",
+                "Ideogram-v4"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdmNTakhBdk1DT3d4Mi1PY1JualEzOWhGbzBtUFVXb1dvSHN0bk5WSFVsbjMtcnE5VE5PZV9wNzVVTWlpNHhDSGRCaWlvaEVfVzExNS14c1JrYVBWTkw1b21oX20wNGtmemhvQUIyaUhVYlE0WmJJ?oc=5",
+                "date": "2026-06-03T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced the Ideogram-v4-workflow, a new tool for AI art generation, along with Json Prompts version 1.0. This workflow aims to enhance the creative process for artists and developers. The inclusion of Json Prompts suggests a more structured approach to generating art prompts.",
+            "whyItMatters": "The release of Ideogram-v4-workflow and Json Prompts can significantly impact the AI art generation landscape, offering more sophisticated tools for creators. This can lead to more diverse and complex art pieces, further blurring the line between human and AI-generated art.",
+            "howToUse": "Artists and developers can utilize the Ideogram-v4-workflow by integrating it into their existing projects, leveraging the Json Prompts for more precise control over the art generation process. Experimenting with different prompts and workflow configurations can help unlock new creative possibilities.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-a2gjv6g26",
+            "title": "WAI-ANIMA v1.0",
+            "subtitle": "Civitai releases WAI-ANIMA version 1.0, a checkpoint for Anima",
+            "category": "AI",
+            "tags": [
+                "AI Models",
+                "Anima",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wbVZoRFNLMnlVMHJJQXd0YlRQNXM5SUVOeDVkWklrcFdmNHJ4WEJ2bVVmSzZMU2swLUdsQ01PWm1QUU95Qko5RzltMmRDbko4c1Nqa0ZkNA?oc=5",
+                "date": "2026-06-03T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released WAI-ANIMA v1.0, marking a significant update to their Anima checkpoint. This version is based on 1.0 and is available for use. The release of WAI-ANIMA v1.0 indicates ongoing development in AI models for animation and creative work.",
+            "whyItMatters": "The release of WAI-ANIMA v1.0 is important for developers and researchers working with AI models for animation and creative tasks, as it provides a new tool for generating and manipulating animations. This can impact the development of more sophisticated and realistic animations in various fields, including gaming and visual effects.",
+            "howToUse": "Developers can utilize WAI-ANIMA v1.0 by integrating it into their projects to generate or manipulate animations, exploring its capabilities for enhancing visual content. The model can be accessed through Civitai's platform, allowing for experimentation and application in relevant projects.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Game Developers",
+                "Animation Studios"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gpwh43y4d",
+            "title": "Gambling CEO Move",
+            "subtitle": "Former Gambling Commission CEO joins Hawkbridge",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Hawkbridge",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0MwU1gtclZ6cDRJVVhVcmt3RUpvMzg1TEpaSk53SVp3Z1FwcDZLeWZLMTRCXzFlcE9rTy1aU3VtTVJGQzhUQTVGemQxd19jbnpMTXRaU3pMVEN6T2I3eXdxMVV2VFh6YXpaUnpmWUJ5UU9UY1VrV243dHpYbkVQbnRsbzJKZTZCdlR5bHhn?oc=5",
+                "date": "2026-06-03T08:06:29.000Z"
+            },
+            "whatsNew": "The former CEO of the Gambling Commission has taken a new role at Hawkbridge, indicating a shift in the regulatory landscape of the iGaming industry. This move may signal changes in how companies navigate regulatory requirements. The change in leadership roles could influence future policy decisions.",
+            "whyItMatters": "This move matters because it could impact the regulatory environment of the iGaming industry, affecting how companies operate and comply with laws. The former CEO's experience could shape Hawkbridge's approach to regulatory matters.",
+            "howToUse": "Companies in the iGaming sector should monitor this development closely, as it may require adjustments to their compliance strategies. Understanding the potential implications of this move can help businesses prepare for possible regulatory changes.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Affairs Specialists"
+            ],
+            "companies": [
+                "Hawkbridge",
+                "Gambling Commission"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
