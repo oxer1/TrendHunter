@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-16T23:22:22.482Z",
+        "scanDate": "2026-06-17T03:46:37.370Z",
         "version": "2.5.0",
-        "totalTrends": 90,
+        "totalTrends": 89,
         "categories": [
             "iGaming",
             "AI",
@@ -2708,38 +2708,6 @@
             "isNew": false
         },
         {
-            "id": "t-ruovkucpk",
-            "title": "AI Art Prompt",
-            "subtitle": "Highly detailed cinematographic AI art prompt for savage opress",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Prompt Engineering",
-                "Cinematographic"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOZkZLNGFtQllKLTdhZ044Y1BNMDVvUlQ2em1hU3F4SEEwdEUzdlpWNksydm85US0zTEMtYWVRWHdZWlRtdWtxN2hMWXlNZ2x6a2JpaUNmMVAwZ3pBWnFyZURrTlpHMURuN193N0dwV2pXVXJGS0NWY0kzVkxjSF9TVXluWEV5dDNZMUZyTmpSYUlyeFBGajB4NFQ0S2JmdmlBS0xmSE9SOVk2V3huSkQ4dkdoeFZ1bzNLMmNVT1RGdWxyU0FTUWMwSHFmMTMwZmZBR20ycjZmLWdlTjF6SlczdHlvUmxmUUdTODdkZlZsOVVCYTM5Tkd2TGVzWXFNZEQwTGMta1VkNHpyM3R6NTZaV2gxcWNTZE5peENxVWVFZnBEZzlyTVJRSVcwYUZIR0JzaG9MTG5xUE1zUnkyM0tDVkE2OFhjSUVuTGVndEhJRkdENnYydFZ3YTVMeE1HSHRYR3ptemkweWpqOHM3dFk2SUJKTmJOU2RlRUlOY0tCUm9LMVBVdzU5RFNZUXF6aFM5a2RPWVlFNWd0WTJLZWZFLW1LNndsS3p5ZEE?oc=5",
-                "date": "2026-06-03T03:45:21.000Z"
-            },
-            "whatsNew": "The use of highly detailed and cinematographic prompts for AI art generation is becoming increasingly popular. This specific prompt is designed for generating art related to savage opress. The level of detail and the cinematographic approach suggest a high level of sophistication in AI art generation.",
-            "whyItMatters": "This trend matters because it showcases the evolving capabilities of AI in generating high-quality, detailed art based on specific prompts. It has implications for the future of art, design, and potentially even film and gaming industries.",
-            "howToUse": "To leverage this trend, artists and designers can experiment with similar prompts on AI art generation platforms, pushing the boundaries of what is possible with current technology.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-a13z9aq0k",
             "title": "Regulation Update",
             "subtitle": "Recent regulatory changes in Illinois, New Jersey, Minnesota, and more",
@@ -2987,7 +2955,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.370Z",
             "note": null
         },
         {
@@ -3006,7 +2974,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.370Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -3015,7 +2983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.370Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -3024,7 +2992,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.370Z",
             "note": "Regulatory updates"
         },
         {
@@ -3042,7 +3010,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.370Z",
             "note": "EU regulatory insights"
         },
         {
@@ -3051,7 +3019,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.370Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -3071,7 +3039,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -3129,7 +3097,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -3138,7 +3106,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -3147,7 +3115,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T21:41:50.181Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": "Style browsing signal"
         },
         {
@@ -3184,7 +3152,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T21:41:50.181Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": null
         },
         {
@@ -3193,7 +3161,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-16T18:04:31.155Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": null
         },
         {
@@ -3202,7 +3170,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-16T12:52:06.967Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": null
         },
         {
@@ -3274,7 +3242,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-16T23:22:22.482Z",
+            "lastScan": "2026-06-17T03:46:37.371Z",
             "note": null
         },
         {
@@ -31615,6 +31583,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ruovkucpk",
+            "title": "AI Art Prompt",
+            "subtitle": "Highly detailed cinematographic AI art prompt for savage opress",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Prompt Engineering",
+                "Cinematographic"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOZkZLNGFtQllKLTdhZ044Y1BNMDVvUlQ2em1hU3F4SEEwdEUzdlpWNksydm85US0zTEMtYWVRWHdZWlRtdWtxN2hMWXlNZ2x6a2JpaUNmMVAwZ3pBWnFyZURrTlpHMURuN193N0dwV2pXVXJGS0NWY0kzVkxjSF9TVXluWEV5dDNZMUZyTmpSYUlyeFBGajB4NFQ0S2JmdmlBS0xmSE9SOVk2V3huSkQ4dkdoeFZ1bzNLMmNVT1RGdWxyU0FTUWMwSHFmMTMwZmZBR20ycjZmLWdlTjF6SlczdHlvUmxmUUdTODdkZlZsOVVCYTM5Tkd2TGVzWXFNZEQwTGMta1VkNHpyM3R6NTZaV2gxcWNTZE5peENxVWVFZnBEZzlyTVJRSVcwYUZIR0JzaG9MTG5xUE1zUnkyM0tDVkE2OFhjSUVuTGVndEhJRkdENnYydFZ3YTVMeE1HSHRYR3ptemkweWpqOHM3dFk2SUJKTmJOU2RlRUlOY0tCUm9LMVBVdzU5RFNZUXF6aFM5a2RPWVlFNWd0WTJLZWZFLW1LNndsS3p5ZEE?oc=5",
+                "date": "2026-06-03T03:45:21.000Z"
+            },
+            "whatsNew": "The use of highly detailed and cinematographic prompts for AI art generation is becoming increasingly popular. This specific prompt is designed for generating art related to savage opress. The level of detail and the cinematographic approach suggest a high level of sophistication in AI art generation.",
+            "whyItMatters": "This trend matters because it showcases the evolving capabilities of AI in generating high-quality, detailed art based on specific prompts. It has implications for the future of art, design, and potentially even film and gaming industries.",
+            "howToUse": "To leverage this trend, artists and designers can experiment with similar prompts on AI art generation platforms, pushing the boundaries of what is possible with current technology.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
