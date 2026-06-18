@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-18T12:22:51.603Z",
+        "scanDate": "2026-06-18T16:27:49.804Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ynt5kz22q",
@@ -2108,37 +2108,6 @@
             "isNew": false
         },
         {
-            "id": "t-eykaw0bpy",
-            "title": "AI Video Tutorials",
-            "subtitle": "HeyGen introduces AI video maker for creating engaging tutorials",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "HeyGen",
-                "Tutorials"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10c2ZveHRUU2NWbjBqLWlITzBIYnlFLWRXenBvTmdvV1NpdFhhOERmVHU3RGxUdUZRZl9tMzlZdWNnUGJyelJONWZhS0FCYWJaUFc4b2N0aWpiWXZfWWJ5Tw?oc=5",
-                "date": "2026-06-04T13:16:27.000Z"
-            },
-            "whatsNew": "HeyGen's AI video maker allows users to create engaging AI tutorials. This tool leverages AI to simplify the tutorial creation process. It enables the production of high-quality video content with ease.",
-            "whyItMatters": "The introduction of HeyGen's AI video maker impacts the way tutorials are created, making it easier for educators and content creators to produce engaging video content. This can lead to more effective learning experiences.",
-            "howToUse": "To utilize HeyGen's AI video maker, users can explore the platform's features and templates to create customized tutorials. This involves inputting content and allowing the AI to generate a polished video.",
-            "beneficiaries": [
-                "Educators",
-                "Content Creators"
-            ],
-            "companies": [
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-20xx0ho5t",
             "title": "Spine Unity Error",
             "subtitle": "Spine-Unity 4.1 encounters error reading skeleton json from version 4.3.08",
@@ -2575,7 +2544,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": null
         },
         {
@@ -2594,7 +2563,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2603,7 +2572,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2612,7 +2581,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "Regulatory updates"
         },
         {
@@ -2630,7 +2599,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2639,7 +2608,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2659,7 +2628,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2717,7 +2686,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2726,7 +2695,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2735,7 +2704,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": "Style browsing signal"
         },
         {
@@ -2772,7 +2741,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": null
         },
         {
@@ -2781,7 +2750,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": null
         },
         {
@@ -2862,7 +2831,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T12:22:51.603Z",
+            "lastScan": "2026-06-18T16:27:49.804Z",
             "note": null
         },
         {
@@ -31980,6 +31949,37 @@
             ],
             "companies": [
                 "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-eykaw0bpy",
+            "title": "AI Video Tutorials",
+            "subtitle": "HeyGen introduces AI video maker for creating engaging tutorials",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "HeyGen",
+                "Tutorials"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10c2ZveHRUU2NWbjBqLWlITzBIYnlFLWRXenBvTmdvV1NpdFhhOERmVHU3RGxUdUZRZl9tMzlZdWNnUGJyelJONWZhS0FCYWJaUFc4b2N0aWpiWXZfWWJ5Tw?oc=5",
+                "date": "2026-06-04T13:16:27.000Z"
+            },
+            "whatsNew": "HeyGen's AI video maker allows users to create engaging AI tutorials. This tool leverages AI to simplify the tutorial creation process. It enables the production of high-quality video content with ease.",
+            "whyItMatters": "The introduction of HeyGen's AI video maker impacts the way tutorials are created, making it easier for educators and content creators to produce engaging video content. This can lead to more effective learning experiences.",
+            "howToUse": "To utilize HeyGen's AI video maker, users can explore the platform's features and templates to create customized tutorials. This involves inputting content and allowing the AI to generate a polished video.",
+            "beneficiaries": [
+                "Educators",
+                "Content Creators"
+            ],
+            "companies": [
+                "HeyGen"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
