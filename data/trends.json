@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-18T08:43:38.368Z",
+        "scanDate": "2026-06-18T12:22:51.603Z",
         "version": "2.5.0",
-        "totalTrends": 81,
+        "totalTrends": 77,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qzmxe41oc",
+            "title": "Sweepstakes Casinos Rise",
+            "subtitle": "Sweepstakes casinos are changing the US online gaming landscape",
+            "category": "iGaming",
+            "tags": [
+                "Sweepstakes Casinos",
+                "US Online Gaming",
+                "iGaming Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHVFOE8td3QzYlZmaXFJa2tvWWJhUnBHMmszX3p4LXc5UG41R2k5b1YxbXdKUVY0TTZJZ2J2cDd5d19DRkFjZGMwXzRWMl9WbzhleWdTZnQxYWNNSzNGMGdFWFJNdDgzUl9XUHUwR2w5QjNqaFI1cldQZ0tHbU1lNGg1NjZETVF5VmZBOGFHcjBkQ2xfUzVzaHB2a3BHN002TldGa1FROUNCZw?oc=5",
+                "date": "2026-06-18T09:47:06.000Z"
+            },
+            "whatsNew": "Sweepstakes casinos are offering an alternative to traditional online gaming, attracting new players and changing market dynamics. They operate under a different regulatory framework, allowing them to reach a broader audience. This shift is forcing traditional online casinos to adapt and innovate.",
+            "whyItMatters": "The rise of sweepstakes casinos is significant because it indicates a shift in consumer preferences and regulatory compliance, potentially disrupting the traditional online gaming market. It also presents opportunities for new entrants and innovation in the sector.",
+            "howToUse": "Operators can leverage the sweepstakes model to expand their reach and offer new types of games and experiences, while regulators can learn from the model's compliance strategies to inform future policy decisions.",
+            "beneficiaries": [
+                "Online Gaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-ynt5kz22q",
             "title": "Pragmatic Play Challenge",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0diywi03v",
@@ -80,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-55bhukmy3",
@@ -109,7 +138,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-116wh0jjm",
@@ -2141,36 +2170,6 @@
             "isNew": false
         },
         {
-            "id": "t-35gjafy9a",
-            "title": "AI Protects Kids",
-            "subtitle": "UK Gambling Commission uses AI to protect children from gambling content",
-            "category": "iGaming",
-            "tags": [
-                "AI",
-                "Regulation",
-                "Child Protection"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjBxaDBCbnFXckdwME84VFN1VHBtYndNRVFDVk5Fdlc5UURSR1lIbTNuVUdXRDlLN21GOW11dU00U3dPN2RNY3Nld04xQUtWR3hhczdvSFFaVFp1S1pDdTVpVFpYWUFKU19oWERWOU1VOTF2SHZZWVNDZkpxSDE3QzU1dnlITU94RXVfcTlBTHJJMFo0NTI2dnlLOWdvdnNCRlNVZUlXYXY?oc=5",
-                "date": "2026-06-04T09:45:32.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission is utilizing AI to identify and remove gambling content that may appeal to children. This initiative aims to strengthen protections for minors in the online gaming space.",
-            "whyItMatters": "This move highlights the increasing importance of responsible gambling practices and the role of AI in enforcing regulatory standards. It also underscores the need for the iGaming industry to prioritize child protection.",
-            "howToUse": "Operators can leverage AI tools to review their marketing materials and ensure compliance with regulations designed to protect minors.",
-            "beneficiaries": [
-                "Regulators",
-                "iGaming Operators",
-                "Child Advocates"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-qhhvosn25",
             "title": "Gambling License",
             "subtitle": "UK Gambling Commission updates on John Warwick Tunnicliffe Jnr premises",
@@ -2197,37 +2196,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-h5eyofako",
-            "title": "Spine 2D",
-            "subtitle": "Spine, a 2D animation tool, has been mentioned in the context of game development",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "2D Animation",
-                "Game Development"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EaFlxdXhHQWFNeGZCNWc3WUVnZTI2NVBWaTIxWEJnQlREV2xOMzA3cmlISl85RlFWWXVGOEVtTFZwdVA3azFldEJvRGdocVR6X0FhaDhPelVXQQ?oc=5",
-                "date": "2026-06-04T09:54:07.000Z"
-            },
-            "whatsNew": "The mention of Spine 2D indicates its continued relevance in the game development industry, particularly for 2D animation. Spine is a popular tool for creating animations and has been used in various game projects. Its mention suggests that it remains a viable option for developers.",
-            "whyItMatters": "Spine 2D is important for game developers as it provides a powerful tool for creating complex 2D animations, which can enhance the overall gaming experience. Its stability and continued relevance in the industry make it a reliable choice for developers.",
-            "howToUse": "Developers can utilize Spine 2D to create engaging 2D animations for their games, and can explore its features to optimize their workflow and improve the quality of their animations.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
             "isNew": false
         },
         {
@@ -2259,37 +2227,6 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-u8li459wt",
-            "title": "Spine 2D Audio Issue",
-            "subtitle": "No sound during audio timing on Mac for Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Audio Timing",
-                "Mac Issue"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXVGeDZLTjFid3RHejlHTmFxX3lMNml5aEU1Skk5RGZwb0hmZTQybG1KZl9tejJfaWxsSkg5TFpmdWhxZ2lLUkZwRnhIQ1JjdnphQ3BVX3lUaDVhcWZ1bnMyV0t2SGJXNWozckZFWUY3cUoxRS1xemwzdGRtNXpSY2JLNXdfSzRRYTNhOTlKSHpGd2MyanlvM1MybmE2WTFvcjZuRXAtME0xcnlGd3BJdWlWVUNyTWRQTkE?oc=5",
-                "date": "2026-06-04T11:52:55.000Z"
-            },
-            "whatsNew": "Users of Spine 2D on Mac are experiencing no sound during audio timing. This issue affects the workflow of game and animation developers. The problem seems specific to the Mac version of the software.",
-            "whyItMatters": "This issue matters because it hinders the development process of games and animations that rely on Spine 2D for character animation and audio synchronization. Developers need a stable and functional tool to meet project deadlines.",
-            "howToUse": "Developers can try troubleshooting steps like checking audio settings or seeking help from the Esoteric support team to resolve the issue. Alternatively, they might consider using the software on a different platform if available.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animation Studios"
-            ],
-            "companies": [
-                "Esoteric"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
             "isNew": false
         },
         {
@@ -2482,69 +2419,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-ykjwy0upl",
-            "title": "Spine PSD Import",
-            "subtitle": "Spine 2D announces PSD import feature",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "PSD Import",
-                "2D Animation"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVlzQ3VDbkYzNlNvQi01N2xQSGs2YURrRVlTZDNFYXRTNVRiT19yWEpoNHptTmdmaVpIcXVlOXUxUVpvblVNRWlfQkR3NmdLMWlLa0ZJdTVXSXlYSXNiR01FQWRDejRHeElxazQ4bFpQekNNa0tPeHpwY2JEWkc3Y3pFRWNxVVkyQUE?oc=5",
-                "date": "2026-06-04T11:33:42.000Z"
-            },
-            "whatsNew": "Spine 2D now supports PSD import, allowing for easier animation and design workflow. This feature enables users to import Photoshop files directly into Spine. The PSD import feature simplifies the process of creating and editing 2D animations.",
-            "whyItMatters": "The PSD import feature in Spine 2D streamlines the workflow for animators and designers, saving time and increasing productivity. This feature is particularly useful for game development and animation studios that rely on Photoshop for their design work.",
-            "howToUse": "To use the PSD import feature, simply import your Photoshop file into Spine 2D and start animating. The feature supports various Photoshop layers and groups, making it easy to work with complex designs.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators",
-                "Designers"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
-            "id": "t-8ragsdjyq",
-            "title": "AI Video Tool",
-            "subtitle": "OpenArt introduces AI Shorts Generator for YouTube Shorts creation with captions",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "YouTube Shorts",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51Sm5Xd3lWUUxEWUdYNkY3VkwybWR3b3g2RklYT1l6MEFuYUU5bG1hdkk2UXZTWEdHSzR1LTZ2c2JmZXpEZ0w0WWZ0aHlGTnRrWUl6WU56SFQyNE8w?oc=5",
-                "date": "2026-06-04T10:40:34.000Z"
-            },
-            "whatsNew": "OpenArt's AI Shorts Generator allows users to create YouTube Shorts with captions using AI technology. This tool simplifies content creation for YouTube Shorts. The AI Shorts Generator is a new development in AI-powered video tools.",
-            "whyItMatters": "The AI Shorts Generator has the potential to revolutionize YouTube Shorts content creation by making it easier and more efficient. This can impact content creators and the overall YouTube Shorts ecosystem.",
-            "howToUse": "Content creators can use the AI Shorts Generator to automate the process of creating YouTube Shorts with captions, saving time and effort.",
-            "beneficiaries": [
-                "Content Creators",
-                "YouTubers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2701,7 +2575,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": null
         },
         {
@@ -2720,7 +2594,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2729,7 +2603,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2738,7 +2612,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "Regulatory updates"
         },
         {
@@ -2756,7 +2630,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2765,7 +2639,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2785,7 +2659,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2843,7 +2717,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2852,7 +2726,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2861,7 +2735,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": "Style browsing signal"
         },
         {
@@ -2898,7 +2772,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": null
         },
         {
@@ -2907,7 +2781,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": null
         },
         {
@@ -2988,7 +2862,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-18T12:22:51.603Z",
             "note": null
         },
         {
@@ -31951,6 +31825,161 @@
             "companies": [
                 "Synthesia",
                 "Cinder"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-35gjafy9a",
+            "title": "AI Protects Kids",
+            "subtitle": "UK Gambling Commission uses AI to protect children from gambling content",
+            "category": "iGaming",
+            "tags": [
+                "AI",
+                "Regulation",
+                "Child Protection"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjBxaDBCbnFXckdwME84VFN1VHBtYndNRVFDVk5Fdlc5UURSR1lIbTNuVUdXRDlLN21GOW11dU00U3dPN2RNY3Nld04xQUtWR3hhczdvSFFaVFp1S1pDdTVpVFpYWUFKU19oWERWOU1VOTF2SHZZWVNDZkpxSDE3QzU1dnlITU94RXVfcTlBTHJJMFo0NTI2dnlLOWdvdnNCRlNVZUlXYXY?oc=5",
+                "date": "2026-06-04T09:45:32.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission is utilizing AI to identify and remove gambling content that may appeal to children. This initiative aims to strengthen protections for minors in the online gaming space.",
+            "whyItMatters": "This move highlights the increasing importance of responsible gambling practices and the role of AI in enforcing regulatory standards. It also underscores the need for the iGaming industry to prioritize child protection.",
+            "howToUse": "Operators can leverage AI tools to review their marketing materials and ensure compliance with regulations designed to protect minors.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators",
+                "Child Advocates"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-h5eyofako",
+            "title": "Spine 2D",
+            "subtitle": "Spine, a 2D animation tool, has been mentioned in the context of game development",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EaFlxdXhHQWFNeGZCNWc3WUVnZTI2NVBWaTIxWEJnQlREV2xOMzA3cmlISl85RlFWWXVGOEVtTFZwdVA3azFldEJvRGdocVR6X0FhaDhPelVXQQ?oc=5",
+                "date": "2026-06-04T09:54:07.000Z"
+            },
+            "whatsNew": "The mention of Spine 2D indicates its continued relevance in the game development industry, particularly for 2D animation. Spine is a popular tool for creating animations and has been used in various game projects. Its mention suggests that it remains a viable option for developers.",
+            "whyItMatters": "Spine 2D is important for game developers as it provides a powerful tool for creating complex 2D animations, which can enhance the overall gaming experience. Its stability and continued relevance in the industry make it a reliable choice for developers.",
+            "howToUse": "Developers can utilize Spine 2D to create engaging 2D animations for their games, and can explore its features to optimize their workflow and improve the quality of their animations.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-u8li459wt",
+            "title": "Spine 2D Audio Issue",
+            "subtitle": "No sound during audio timing on Mac for Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Audio Timing",
+                "Mac Issue"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXVGeDZLTjFid3RHejlHTmFxX3lMNml5aEU1Skk5RGZwb0hmZTQybG1KZl9tejJfaWxsSkg5TFpmdWhxZ2lLUkZwRnhIQ1JjdnphQ3BVX3lUaDVhcWZ1bnMyV0t2SGJXNWozckZFWUY3cUoxRS1xemwzdGRtNXpSY2JLNXdfSzRRYTNhOTlKSHpGd2MyanlvM1MybmE2WTFvcjZuRXAtME0xcnlGd3BJdWlWVUNyTWRQTkE?oc=5",
+                "date": "2026-06-04T11:52:55.000Z"
+            },
+            "whatsNew": "Users of Spine 2D on Mac are experiencing no sound during audio timing. This issue affects the workflow of game and animation developers. The problem seems specific to the Mac version of the software.",
+            "whyItMatters": "This issue matters because it hinders the development process of games and animations that rely on Spine 2D for character animation and audio synchronization. Developers need a stable and functional tool to meet project deadlines.",
+            "howToUse": "Developers can try troubleshooting steps like checking audio settings or seeking help from the Esoteric support team to resolve the issue. Alternatively, they might consider using the software on a different platform if available.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-ykjwy0upl",
+            "title": "Spine PSD Import",
+            "subtitle": "Spine 2D announces PSD import feature",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "PSD Import",
+                "2D Animation"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVlzQ3VDbkYzNlNvQi01N2xQSGs2YURrRVlTZDNFYXRTNVRiT19yWEpoNHptTmdmaVpIcXVlOXUxUVpvblVNRWlfQkR3NmdLMWlLa0ZJdTVXSXlYSXNiR01FQWRDejRHeElxazQ4bFpQekNNa0tPeHpwY2JEWkc3Y3pFRWNxVVkyQUE?oc=5",
+                "date": "2026-06-04T11:33:42.000Z"
+            },
+            "whatsNew": "Spine 2D now supports PSD import, allowing for easier animation and design workflow. This feature enables users to import Photoshop files directly into Spine. The PSD import feature simplifies the process of creating and editing 2D animations.",
+            "whyItMatters": "The PSD import feature in Spine 2D streamlines the workflow for animators and designers, saving time and increasing productivity. This feature is particularly useful for game development and animation studios that rely on Photoshop for their design work.",
+            "howToUse": "To use the PSD import feature, simply import your Photoshop file into Spine 2D and start animating. The feature supports various Photoshop layers and groups, making it easy to work with complex designs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators",
+                "Designers"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-8ragsdjyq",
+            "title": "AI Video Tool",
+            "subtitle": "OpenArt introduces AI Shorts Generator for YouTube Shorts creation with captions",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "YouTube Shorts",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51Sm5Xd3lWUUxEWUdYNkY3VkwybWR3b3g2RklYT1l6MEFuYUU5bG1hdkk2UXZTWEdHSzR1LTZ2c2JmZXpEZ0w0WWZ0aHlGTnRrWUl6WU56SFQyNE8w?oc=5",
+                "date": "2026-06-04T10:40:34.000Z"
+            },
+            "whatsNew": "OpenArt's AI Shorts Generator allows users to create YouTube Shorts with captions using AI technology. This tool simplifies content creation for YouTube Shorts. The AI Shorts Generator is a new development in AI-powered video tools.",
+            "whyItMatters": "The AI Shorts Generator has the potential to revolutionize YouTube Shorts content creation by making it easier and more efficient. This can impact content creators and the overall YouTube Shorts ecosystem.",
+            "howToUse": "Content creators can use the AI Shorts Generator to automate the process of creating YouTube Shorts with captions, saving time and effort.",
+            "beneficiaries": [
+                "Content Creators",
+                "YouTubers"
+            ],
+            "companies": [
+                "OpenArt"
             ],
             "visualStyle": null,
             "cluster": "ai-video",
