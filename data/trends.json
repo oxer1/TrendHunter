@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-19T17:21:22.649Z",
+        "scanDate": "2026-06-19T19:45:43.405Z",
         "version": "2.5.0",
-        "totalTrends": 70,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6cmd90dcg",
@@ -1772,37 +1772,6 @@
             "isNew": false
         },
         {
-            "id": "t-shc148ts3",
-            "title": "Mayfair Casino Update",
-            "subtitle": "Metropolitan Casino Mayfair receives attention from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Metropolitan Casino",
-                "Mayfair"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQamVjMDV4d2FXaFFlLUxweXpCLUVnR3o5RFNjUDJDT2FJeGVRS2dOWjQ3dWlURHNpWkhuR1hCd1dBcGJJcmpYZjByVWM4T1RlR0Z6emtmd19KaXNPLWF1MUVzQ19wa3ZMVm94YmstXzRLNlBHZTl4bjJvd3VaQVVIZm5kMA?oc=5",
-                "date": "2026-06-05T17:22:02.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has taken notice of Metropolitan Casino Mayfair, although the details of the attention are not specified. This could imply a regulatory change or a licensing issue. The casino's operations may be under scrutiny.",
-            "whyItMatters": "This development matters because it could impact the casino's ability to operate and the overall regulatory landscape of the iGaming industry in the UK. It may also affect consumer protection and fairness in gambling.",
-            "howToUse": "Operators should stay informed about regulatory updates and ensure compliance with Gambling Commission requirements to avoid similar issues.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Gambling Regulators"
-            ],
-            "companies": [
-                "Metropolitan Casino"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-r8nh144z2",
             "title": "AI Zelda Art",
             "subtitle": "Link LoRA uses AnimaV1 for Zelda-inspired art generation",
@@ -2355,7 +2324,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": null
         },
         {
@@ -2374,7 +2343,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2383,7 +2352,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2392,7 +2361,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "Regulatory updates"
         },
         {
@@ -2410,7 +2379,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2419,7 +2388,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2439,7 +2408,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2497,7 +2466,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2506,7 +2475,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2515,7 +2484,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": "Style browsing signal"
         },
         {
@@ -2552,7 +2521,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T14:58:37.980Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": null
         },
         {
@@ -2561,7 +2530,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-19T14:58:37.980Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": null
         },
         {
@@ -2642,7 +2611,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T17:21:22.649Z",
+            "lastScan": "2026-06-19T19:45:43.405Z",
             "note": null
         },
         {
@@ -32203,6 +32172,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-shc148ts3",
+            "title": "Mayfair Casino Update",
+            "subtitle": "Metropolitan Casino Mayfair receives attention from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Metropolitan Casino",
+                "Mayfair"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQamVjMDV4d2FXaFFlLUxweXpCLUVnR3o5RFNjUDJDT2FJeGVRS2dOWjQ3dWlURHNpWkhuR1hCd1dBcGJJcmpYZjByVWM4T1RlR0Z6emtmd19KaXNPLWF1MUVzQ19wa3ZMVm94YmstXzRLNlBHZTl4bjJvd3VaQVVIZm5kMA?oc=5",
+                "date": "2026-06-05T17:22:02.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken notice of Metropolitan Casino Mayfair, although the details of the attention are not specified. This could imply a regulatory change or a licensing issue. The casino's operations may be under scrutiny.",
+            "whyItMatters": "This development matters because it could impact the casino's ability to operate and the overall regulatory landscape of the iGaming industry in the UK. It may also affect consumer protection and fairness in gambling.",
+            "howToUse": "Operators should stay informed about regulatory updates and ensure compliance with Gambling Commission requirements to avoid similar issues.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gambling Regulators"
+            ],
+            "companies": [
+                "Metropolitan Casino"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
