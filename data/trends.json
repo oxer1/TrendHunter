@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-19T00:24:15.106Z",
+        "scanDate": "2026-06-19T06:16:03.761Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,131 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-8bsn15y42",
+            "title": "Synthesia AI Update",
+            "subtitle": "Synthesia updates its responsible AI playbook for ethical AI practices",
+            "category": "AI",
+            "tags": [
+                "Responsible AI",
+                "AI Ethics",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcU1wd2RSQnZtYWhOaWtsdFJWMDhaOFBxck9NQzhOZXJZT0tKdkloNDRLWTNvOTdOUkZqeHdaYnozSmFqTjQtcG1haTdpTXVhM1lwTXVoc29vd0JKV1hyWTRRUE5EWjhNNXJmd1VraVM0Nmh5NERBQTJOcjB0dG1TYl9NeUFVNVExLWlv?oc=5",
+                "date": "2026-06-05T10:21:46.000Z"
+            },
+            "whatsNew": "Synthesia is updating its responsible AI playbook to ensure more ethical AI practices. The update focuses on improving transparency and accountability in AI-generated content. This move reflects the growing importance of responsible AI development.",
+            "whyItMatters": "The update matters because it sets a precedent for other AI companies to prioritize ethical considerations in their development processes. This can lead to more trustworthy and reliable AI-generated content.",
+            "howToUse": "Companies can use Synthesia's updated playbook as a guideline to develop their own responsible AI practices, ensuring that their AI systems are transparent, accountable, and ethical.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-ethics",
+            "isNew": true
+        },
+        {
+            "id": "t-vlkqc0nr1",
+            "title": "AI Onboarding Scripts",
+            "subtitle": "Using AI for onboarding video script writing with Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Onboarding Scripts",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fdTlOdGIyYTZYcmNXREZlWmhtemJfdVI3bTNHVjZYdEZXLVVsYnVXTGJQU0plaG5ELWIzdHJQMXpYU0hmVWNDSmRfOW41ZGhadVVkV2pRX3VlSlRKbFMxZGYtNVhib2paXzAyS25BS0Y?oc=5",
+                "date": "2026-06-11T01:45:28.000Z"
+            },
+            "whatsNew": "Synthesia introduces AI-powered onboarding video script writing, streamlining the content creation process. This innovation leverages AI to generate engaging scripts. The use of AI in scriptwriting is becoming increasingly prevalent.",
+            "whyItMatters": "The integration of AI in onboarding video script writing enhances efficiency and personalization, potentially leading to better user engagement. It also opens up new avenues for content creators to focus on high-level strategy rather than tedious scriptwriting tasks.",
+            "howToUse": "Content creators can utilize Synthesia's AI tool to automate the scriptwriting process, allowing for more time to be spent on refining the message and visual elements of onboarding videos.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-5kecxbnjh",
+            "title": "Voice Clone Video",
+            "subtitle": "Using AI-generated voice clones in video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Voice Cloning",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW5wM01ybk1RY3pkNWh5V1dJTTNJb0xnaHNZMFpZSG5Gb2RzbFowNWJERUJTRUo5b3ktSUhfNTI4d29wSUdOTTFmVS1Rakh3Z2VnNmFWX1VvQXFvLURkWlA5Zmszb3FxcWJjX0t2SDM3alVnSkVTOGYyQnhqY1BhTjE5YU11aEtNZFlfaA?oc=5",
+                "date": "2026-06-15T09:13:54.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides guidance on utilizing AI-generated voice clones in video content, enabling users to create personalized audio narratives. This technology has the potential to revolutionize video production. The use of voice clones can enhance video engagement and accessibility.",
+            "whyItMatters": "The ability to use AI-generated voice clones in videos can significantly impact content creation, making it more efficient and personalized. This technology can also increase accessibility for users with disabilities.",
+            "howToUse": "To use a voice clone in a video, follow Synthesia's knowledge base guidelines, which include setting up the voice clone, recording, and editing the audio to create a seamless narrative.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-7idu0mvsx",
+            "title": "Autonomous Videos",
+            "subtitle": "HeyGen and Stripe Projects collaborate on autonomous launch videos",
+            "category": "AI",
+            "tags": [
+                "Autonomous Videos",
+                "HeyGen",
+                "Stripe Projects"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUmVjQk1SN0hBWnNwTXBYQnNiVVQ1Q3k0cHVmQ2pvV2lrNnZQTUQ1dDhnLUZTQ2RqUWhiUjFXaGVPc09QLW4zb3JYTkJXRXhLUlZDclZnSmpsZ1U?oc=5",
+                "date": "2026-06-15T07:00:00.000Z"
+            },
+            "whatsNew": "HeyGen and Stripe Projects are introducing autonomous launch videos, leveraging AI for automated video creation. This innovation streamlines video production, making it more efficient and accessible. The collaboration aims to revolutionize the way videos are produced and consumed.",
+            "whyItMatters": "The integration of AI in video production can significantly impact the creative industry, enabling faster and more cost-effective content creation. This technology has the potential to disrupt traditional video production methods, opening up new opportunities for creators and businesses.",
+            "howToUse": "To utilize this technology, users can explore HeyGen's platform and Stripe Projects' services, which provide tools and resources for creating autonomous launch videos. By leveraging these solutions, users can automate their video production workflows and focus on higher-level creative decisions.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "HeyGen",
+                "Stripe Projects"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-nurlj5z7k",
             "title": "Pixar Style Animation",
@@ -50,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qzmxe41oc",
@@ -2297,37 +2422,6 @@
             "isNew": false
         },
         {
-            "id": "t-xyibdbh1q",
-            "title": "AI Video Prompt",
-            "subtitle": "Using AI to generate stunning video with specific prompts",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Grok Imagine",
-                "Video Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjlLbXRNVU4wNjdTM194Z0dZRkpJNWhPZFRXcUR4cmlQQ24za0ZJWk9vNktJQ2R3cnl5dHFVNHRtQjRVZEN3cFhFMXd6UDBHS0NFNHVHZnROb0lZTDJzLUVNdld4R0FxRzg0MXJNOG4xWlM5NXdPZS14NHNNZnQ5NklwcTZwc0ZYQ1ZrZ1BWYUZDRG1nOWRpMGlyZEV2RHNEc3RfclNaYW9Ccm81OVBSWTlGQkR6MDFybFkzWFgtWkZrMVZGN2RtSE5qSE1oeWs5UTdN?oc=5",
-                "date": "2026-06-05T01:00:12.000Z"
-            },
-            "whatsNew": "The use of specific prompts to generate stunning videos with AI tools like Grok Imagine. This technology allows for detailed customization of video content. The example given involves creating a stunning look for a subject wearing black leather.",
-            "whyItMatters": "This technology has the potential to revolutionize video content creation by making it easier and more accessible. It also opens up new possibilities for creative expression and customization.",
-            "howToUse": "To use this technology, users can input specific prompts into AI video generation tools like Grok Imagine, allowing for detailed control over the output. This can be particularly useful for applications in advertising, entertainment, and social media.",
-            "beneficiaries": [
-                "Content Creators",
-                "Advertisers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-r662j2noc",
             "title": "MrQ Subscription",
             "subtitle": "MrQ introduces a new subscription service with a curated bundle of value for its customers",
@@ -2513,7 +2607,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": null
         },
         {
@@ -2532,7 +2626,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2541,7 +2635,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2550,7 +2644,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "Regulatory updates"
         },
         {
@@ -2568,7 +2662,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2577,7 +2671,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2597,7 +2691,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2655,7 +2749,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2664,7 +2758,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2673,7 +2767,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": "Style browsing signal"
         },
         {
@@ -2710,7 +2804,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": null
         },
         {
@@ -2719,7 +2813,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-18T22:04:43.953Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": null
         },
         {
@@ -2728,7 +2822,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-18T08:43:38.368Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": null
         },
         {
@@ -2800,7 +2894,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T00:24:15.106Z",
+            "lastScan": "2026-06-19T06:16:03.761Z",
             "note": null
         },
         {
@@ -32015,6 +32109,37 @@
             ],
             "visualStyle": null,
             "cluster": "tech",
+            "isNew": false
+        },
+        {
+            "id": "t-xyibdbh1q",
+            "title": "AI Video Prompt",
+            "subtitle": "Using AI to generate stunning video with specific prompts",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Grok Imagine",
+                "Video Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjlLbXRNVU4wNjdTM194Z0dZRkpJNWhPZFRXcUR4cmlQQ24za0ZJWk9vNktJQ2R3cnl5dHFVNHRtQjRVZEN3cFhFMXd6UDBHS0NFNHVHZnROb0lZTDJzLUVNdld4R0FxRzg0MXJNOG4xWlM5NXdPZS14NHNNZnQ5NklwcTZwc0ZYQ1ZrZ1BWYUZDRG1nOWRpMGlyZEV2RHNEc3RfclNaYW9Ccm81OVBSWTlGQkR6MDFybFkzWFgtWkZrMVZGN2RtSE5qSE1oeWs5UTdN?oc=5",
+                "date": "2026-06-05T01:00:12.000Z"
+            },
+            "whatsNew": "The use of specific prompts to generate stunning videos with AI tools like Grok Imagine. This technology allows for detailed customization of video content. The example given involves creating a stunning look for a subject wearing black leather.",
+            "whyItMatters": "This technology has the potential to revolutionize video content creation by making it easier and more accessible. It also opens up new possibilities for creative expression and customization.",
+            "howToUse": "To use this technology, users can input specific prompts into AI video generation tools like Grok Imagine, allowing for detailed control over the output. This can be particularly useful for applications in advertising, entertainment, and social media.",
+            "beneficiaries": [
+                "Content Creators",
+                "Advertisers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
