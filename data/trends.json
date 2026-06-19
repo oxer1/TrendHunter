@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-19T19:45:43.405Z",
+        "scanDate": "2026-06-19T21:07:10.018Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-b0z4vxhbw",
+            "title": "Anima Pencil v2",
+            "subtitle": "Anima Pencil reaches version 2.0.0, available on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima Pencil",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNDN5YjMxcDFHdXhTOHctQkxGR0xUclR1TUhJb1VuWnFjZE9VMnpKQ2hFTEN6Z3N2akpnWjJVUXFfaEJkdTdvM0xCTzhDdDY5NmI0dHV6MC00Zw?oc=5",
+                "date": "2026-06-13T22:19:17.000Z"
+            },
+            "whatsNew": "Anima Pencil has released version 2.0.0, marking significant updates to its AI-powered art generation capabilities. This new version is available on Civitai, a platform known for hosting AI models and tools. The update is expected to enhance user experience and art output quality.",
+            "whyItMatters": "The update of Anima Pencil to version 2.0.0 matters because it reflects the ongoing development and improvement of AI art generation tools, which can significantly impact the creative industries. It also underscores the growing importance of platforms like Civitai in distributing and supporting AI models.",
+            "howToUse": "To leverage Anima Pencil v2.0.0, users can visit Civitai and follow the instructions for accessing and utilizing the updated tool. This may involve creating an account, understanding the usage guidelines, and exploring the capabilities of the new version.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-85dhxsynu",
             "title": "AI Video Community",
@@ -2324,7 +2356,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": null
         },
         {
@@ -2343,7 +2375,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2352,7 +2384,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2361,7 +2393,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": "Regulatory updates"
         },
         {
@@ -2379,7 +2411,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2388,7 +2420,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2408,7 +2440,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2466,7 +2498,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2611,7 +2643,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T19:45:43.405Z",
+            "lastScan": "2026-06-19T21:07:10.018Z",
             "note": null
         },
         {
