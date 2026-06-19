@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-19T06:16:03.761Z",
+        "scanDate": "2026-06-19T11:20:00.978Z",
         "version": "2.5.0",
-        "totalTrends": 78,
+        "totalTrends": 71,
         "categories": [
             "iGaming",
             "AI",
@@ -21,34 +21,35 @@
     },
     "trends": [
         {
-            "id": "t-8bsn15y42",
-            "title": "Synthesia AI Update",
-            "subtitle": "Synthesia updates its responsible AI playbook for ethical AI practices",
-            "category": "AI",
+            "id": "t-6cmd90dcg",
+            "title": "BetMGM Brazil",
+            "subtitle": "Licensed sector must fight reputational contagion of illegal operators in Brazil",
+            "category": "iGaming",
             "tags": [
-                "Responsible AI",
-                "AI Ethics",
-                "Synthesia"
+                "BetMGM",
+                "Brazil",
+                "Licensing",
+                "Regulation"
             ],
             "trendStrength": 4,
             "velocity": "rising",
             "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcU1wd2RSQnZtYWhOaWtsdFJWMDhaOFBxck9NQzhOZXJZT0tKdkloNDRLWTNvOTdOUkZqeHdaYnozSmFqTjQtcG1haTdpTXVhM1lwTXVoc29vd0JKV1hyWTRRUE5EWjhNNXJmd1VraVM0Nmh5NERBQTJOcjB0dG1TYl9NeUFVNVExLWlv?oc=5",
-                "date": "2026-06-05T10:21:46.000Z"
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGdKblFHenZJT2RSdVVOZ3RCUWxOdW0za2FYZ3N1SjRXa09qSlVKcWYxM3AySzlPWk11XzNQQUZ4RGhId1lQSkRCZjhfQ1h5aENyemlTc2ktdmR4aVp2UXBIVzZHYkF5UzF1eExHVHlWZDF1YktfUERRRlI5aGNsRzE4S0RFQ2Nob2RmVWQ0YmNYNFNGckg5a0RpUE55N1NRSzRCcGk1ck9WU1VId2kyRVNOTWR4U0liWDcyRVY4cw?oc=5",
+                "date": "2026-06-19T07:54:27.000Z"
             },
-            "whatsNew": "Synthesia is updating its responsible AI playbook to ensure more ethical AI practices. The update focuses on improving transparency and accountability in AI-generated content. This move reflects the growing importance of responsible AI development.",
-            "whyItMatters": "The update matters because it sets a precedent for other AI companies to prioritize ethical considerations in their development processes. This can lead to more trustworthy and reliable AI-generated content.",
-            "howToUse": "Companies can use Synthesia's updated playbook as a guideline to develop their own responsible AI practices, ensuring that their AI systems are transparent, accountable, and ethical.",
+            "whatsNew": "BetMGM Brazil emphasizes the need for the licensed sector to combat the reputational damage caused by illegal operators. The company highlights the importance of differentiation between legal and illegal gaming operators.",
+            "whyItMatters": "The rise of illegal operators can negatively impact the reputation of the entire iGaming industry, making it crucial for licensed operators to take a stand. This can lead to increased regulation and scrutiny of the industry as a whole.",
+            "howToUse": "Licensed operators should focus on transparency, fair play, and responsible gaming practices to differentiate themselves from illegal operators and maintain a positive reputation.",
             "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
+                "Licensed Operators",
+                "Regulators"
             ],
             "companies": [
-                "Synthesia"
+                "BetMGM"
             ],
             "visualStyle": null,
-            "cluster": "ai-ethics",
+            "cluster": "regulation",
             "isNew": true
         },
         {
@@ -80,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5kecxbnjh",
@@ -111,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-7idu0mvsx",
@@ -143,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nurlj5z7k",
@@ -1240,39 +1241,6 @@
             "isNew": false
         },
         {
-            "id": "t-ge6jdi8kn",
-            "title": "Kung Fu Panda Style",
-            "subtitle": "DreamWorks Animation style available on OpenArt",
-            "category": "Art",
-            "tags": [
-                "DreamWorks Animation",
-                "Kung Fu Panda",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aaE5rZ1pnd0R0QUFQRG93UzdTVW00UXNQQ19LYnNRT1ZreHNmZ2t5WmpPMUdHQmVFUEdubjM1b0dneHpZTlBTVURtSHBBcjYtNmhSZ1BoRHR6Q2R3anc?oc=5",
-                "date": "2026-06-05T09:39:32.000Z"
-            },
-            "whatsNew": "OpenArt now features a Kung Fu Panda style, inspired by DreamWorks Animation. This style is available for use in various creative projects. The high-quality style is a notable addition to the platform.",
-            "whyItMatters": "The availability of this style on OpenArt can inspire new creative works and provide users with a unique aesthetic for their projects. It also highlights the growing collaboration between animation studios and digital art platforms.",
-            "howToUse": "Users can access the Kung Fu Panda style on OpenArt and apply it to their projects, such as animations, illustrations, or other creative works. This can help them achieve a distinctive and recognizable visual identity.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Animators"
-            ],
-            "companies": [
-                "DreamWorks Animation",
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-3rd8u9o7m",
             "title": "AI Art Generation",
             "subtitle": "Using Ideogram prompts for editorial photoshoots in pastel settings",
@@ -1333,68 +1301,6 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-6px302qv0",
-            "title": "Ideogram 4 Released",
-            "subtitle": "Civitai releases Ideogram 4, an AI model for generating images",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VNm91bVJKVGxvbTRHel9HRzlIZDhGUDJsb281M2RweDZSNG1nNGgwU01DS3hVM19Ob3FFOWxsMzIzbmxzYU9zbC1qOGJYRF9JSmI0eVJ2VzM?oc=5",
-                "date": "2026-06-05T07:00:00.000Z"
-            },
-            "whatsNew": "Ideogram 4 is a new AI model that can generate high-quality images. It is available on Civitai and can be used for various applications. The model is an improvement over its predecessors, offering better performance and capabilities.",
-            "whyItMatters": "The release of Ideogram 4 is significant as it showcases the advancements in AI art generation technology. It has the potential to revolutionize the field of digital art and design.",
-            "howToUse": "Users can access Ideogram 4 on Civitai and utilize it to generate images for their projects. The model can be fine-tuned and customized to suit specific needs and applications.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-3qliuarou",
-            "title": "AI Art Prompt",
-            "subtitle": "Futuristic android robot Samurai art generated using AI prompts",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Robot Samurai",
-                "Art Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNcld5M1NQODFocmg2U0lnVjJQOTAzdnlyOFhQeUpNVDJOSG5NaVFZMVptMDNJWVdrN1BvUWdnNW1yb1dqdzhJM3BTZUQ3SXdsQmNHY05WSlRvdHY3MlNlNUxGNnE2Yi1WRGxoT1dpZGFzMmRGU3JlMldkdWVqeF9LczRQVUpvTk9DdWFWZU15d0FVRy1CVXprd1lqdno5UUdvbzRON2J4ZHkxYXh3RmxoR3dKSWJ2VVFDQ0REa1JRdWtSbU03eXNsc29yUU9OdldoMDcyMEU0RGpobW1xZjNHNXhjOG1EU014NnFUc00tWUE0QVVuTlJyR1RRNjlocnNsOGZOU2ZoeG5WR3FDYTNyUFFjWkRBQkVmX1FTSlEybHNOclBEaktGM1pscHF4b0d3a1h5Z2JWbw?oc=5",
-                "date": "2026-06-05T07:47:01.000Z"
-            },
-            "whatsNew": "The use of AI prompts to generate futuristic android robot Samurai art is a new trend in the field of AI art generation. This technology allows for the creation of unique and detailed art pieces. The application of such prompts can lead to innovative designs in various industries.",
-            "whyItMatters": "The development of AI art generation using prompts like this can significantly impact the creative industry, enabling artists and designers to produce complex and detailed designs with ease. This technology also opens up new possibilities for gaming and animation.",
-            "howToUse": "Artists and designers can utilize AI art generation tools with specific prompts to create unique and detailed designs, streamlining their creative process and exploring new ideas.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2325,132 +2231,6 @@
             "visualStyle": null,
             "cluster": "animation-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-kl6vol3e4",
-            "title": "Bally's Acquires Evoke",
-            "subtitle": "Bally’s Intralot to acquire evoke in £243m all-share transaction",
-            "category": "iGaming",
-            "tags": [
-                "Acquisition",
-                "iGaming",
-                "Mergers"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVRsdHRUQ3J6Ujc3eUE1NUw5N1ZJUElUVGlqY1dJeGt3ZlBtbkhKYW5YcGFnSWdCaGNNZGtmd04tMFZOZVlSZDd2WnZtZnpBLXZwOG5Zb0xwZVNybFM0Y2dMcUJ0WGJFZDBaVG83UlUyNmhJVjJzT2N3TU1rUklWYjNoUnlUckRGNUZWX19TdHVkdVBFUnMzQ09lNmZWdw?oc=5",
-                "date": "2026-06-05T07:36:20.000Z"
-            },
-            "whatsNew": "Bally’s Intralot is set to acquire evoke in a £243m all-share transaction, marking a significant move in the iGaming industry. This acquisition is expected to expand Bally’s presence and capabilities. The deal highlights the ongoing consolidation trend in the sector.",
-            "whyItMatters": "This acquisition impacts the iGaming landscape by potentially altering market shares and competitive dynamics. It also signals the continued growth and evolution of the industry through strategic mergers and acquisitions.",
-            "howToUse": "Industry players should monitor such acquisitions for potential partnerships or opportunities. Companies can leverage these moves to reassess their market strategies and identify areas for growth or consolidation.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Investors"
-            ],
-            "companies": [
-                "Bally’s Intralot",
-                "Evoke"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-4f5f43gzz",
-            "title": "Robinhood Shifts",
-            "subtitle": "Robinhood signals shift away from Kalshi ahead of World Cup",
-            "category": "iGaming",
-            "tags": [
-                "Robinhood",
-                "Kalshi",
-                "World Cup"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5BQWNQdHBIWVNpdllRZ2l3VEZObENwV2FpN2lZVE96MU5FcXB2Rk5QLWdtYm1VbWtIMk83YTM3YmEyOTJlVmhfTUw2YktnSm9aMTFxcmRfczQxM3h5cUtjR25TX1U5SFpIUkU3Z09ZSnhoZW51UU1pT1pmc091OU5DM1ZUaEFzNGtMSGo2UlZCRG44dVVrM3pn?oc=5",
-                "date": "2026-06-05T09:51:26.000Z"
-            },
-            "whatsNew": "Robinhood is shifting away from Kalshi, a betting platform, ahead of the World Cup. This move indicates a potential change in strategy for the company. The World Cup is a significant event for the sports betting industry.",
-            "whyItMatters": "This shift could impact the sports betting market and influence other companies' strategies. It may also affect the revenue and user base of Kalshi.",
-            "howToUse": "Companies in the sports betting industry should monitor this development and adjust their strategies accordingly. They should also consider the potential implications for their user base and revenue.",
-            "beneficiaries": [
-                "Sports Betting Companies",
-                "Investors"
-            ],
-            "companies": [
-                "Robinhood",
-                "Kalshi"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-36dywi3bv",
-            "title": "MGA Warns Operators",
-            "subtitle": "MGA calls for vigilance and suspicious betting reporting ahead of FIFA World Cup 2026",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "FIFA World Cup 2026",
-                "Sports Betting"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHRabU5xQXdqM2FOMjJpVFFpZUc3TzZzeTd6dFhlbXhxYUM3U21hbHVwdTNPSkw0Q0xDV3d6VlZYeHlYX0dWWVhIdTlqczM4Nm9Td3g5NHhEZzktNXRLemhEU0RQUXViby1BNjRXVTRPUWxnakZjNzlwMXMzVDBBN291Wk14Wm5vdzJXSG55YW5JbjhKbzAxZ05hVDBWVVdLRFpHTWJaXzl0WC1KcW1PYjhSbEh1RE5ZZk9Vcw?oc=5",
-                "date": "2026-06-05T10:03:41.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority is urging operators to be vigilant and report suspicious betting activity ahead of the FIFA World Cup 2026. This move aims to prevent match-fixing and maintain the integrity of sports betting.",
-            "whyItMatters": "The warning is crucial for maintaining the integrity of the sports betting industry and protecting consumers from fraudulent activities. It also highlights the importance of regulatory bodies in overseeing the industry.",
-            "howToUse": "Operators should review their betting patterns and report any suspicious activity to the MGA. They should also ensure they have robust systems in place to detect and prevent match-fixing.",
-            "beneficiaries": [
-                "Sports Betting Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-r662j2noc",
-            "title": "MrQ Subscription",
-            "subtitle": "MrQ introduces a new subscription service with a curated bundle of value for its customers",
-            "category": "iGaming",
-            "tags": [
-                "MrQ",
-                "Subscription Service",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBBUng0b25kRUtTaWxIdU8tQlh0ZHRSUWl6THRSNTNrYWMxU3A2U1hyV2piQlBhQlNNazQxTll2RnJvLWpZVFRRV1FWS2huZ3d4eVZ6Z1MxVFRkbU0ySml1WWpDUmdlQ1duWmZHdkZTMzV1bWRPNGl4ZVJoZjlud2N2ZF82V21NOXRhQlpwaWpnMGVSWFg4TURFZVZDWG1oTUcwSENB?oc=5",
-                "date": "2026-06-05T08:25:23.000Z"
-            },
-            "whatsNew": "MrQ has launched a subscription service that offers a curated bundle of value to its customers, potentially changing the way players engage with the platform. This move could set a new standard in the iGaming industry. The service aims to provide a unique experience for subscribers.",
-            "whyItMatters": "The introduction of a subscription service by MrQ could significantly impact the iGaming industry, as it offers a new way for operators to provide value to their customers. This could lead to increased customer loyalty and retention.",
-            "howToUse": "Operators can use subscription services to offer exclusive content, bonuses, and rewards to their loyal customers, enhancing the overall gaming experience. By adopting such models, operators can differentiate themselves in a competitive market.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [
-                "MrQ"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2607,7 +2387,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": null
         },
         {
@@ -2626,7 +2406,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2635,7 +2415,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2644,7 +2424,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "Regulatory updates"
         },
         {
@@ -2662,7 +2442,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2671,7 +2451,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2691,7 +2471,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2749,7 +2529,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2758,7 +2538,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2767,7 +2547,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": "Style browsing signal"
         },
         {
@@ -2804,7 +2584,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": null
         },
         {
@@ -2813,7 +2593,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": null
         },
         {
@@ -2822,7 +2602,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": null
         },
         {
@@ -2894,7 +2674,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T06:16:03.761Z",
+            "lastScan": "2026-06-19T11:20:00.978Z",
             "note": null
         },
         {
@@ -32140,6 +31920,258 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-8bsn15y42",
+            "title": "Synthesia AI Update",
+            "subtitle": "Synthesia updates its responsible AI playbook for ethical AI practices",
+            "category": "AI",
+            "tags": [
+                "Responsible AI",
+                "AI Ethics",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcU1wd2RSQnZtYWhOaWtsdFJWMDhaOFBxck9NQzhOZXJZT0tKdkloNDRLWTNvOTdOUkZqeHdaYnozSmFqTjQtcG1haTdpTXVhM1lwTXVoc29vd0JKV1hyWTRRUE5EWjhNNXJmd1VraVM0Nmh5NERBQTJOcjB0dG1TYl9NeUFVNVExLWlv?oc=5",
+                "date": "2026-06-05T10:21:46.000Z"
+            },
+            "whatsNew": "Synthesia is updating its responsible AI playbook to ensure more ethical AI practices. The update focuses on improving transparency and accountability in AI-generated content. This move reflects the growing importance of responsible AI development.",
+            "whyItMatters": "The update matters because it sets a precedent for other AI companies to prioritize ethical considerations in their development processes. This can lead to more trustworthy and reliable AI-generated content.",
+            "howToUse": "Companies can use Synthesia's updated playbook as a guideline to develop their own responsible AI practices, ensuring that their AI systems are transparent, accountable, and ethical.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-ethics",
+            "isNew": false
+        },
+        {
+            "id": "t-ge6jdi8kn",
+            "title": "Kung Fu Panda Style",
+            "subtitle": "DreamWorks Animation style available on OpenArt",
+            "category": "Art",
+            "tags": [
+                "DreamWorks Animation",
+                "Kung Fu Panda",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aaE5rZ1pnd0R0QUFQRG93UzdTVW00UXNQQ19LYnNRT1ZreHNmZ2t5WmpPMUdHQmVFUEdubjM1b0dneHpZTlBTVURtSHBBcjYtNmhSZ1BoRHR6Q2R3anc?oc=5",
+                "date": "2026-06-05T09:39:32.000Z"
+            },
+            "whatsNew": "OpenArt now features a Kung Fu Panda style, inspired by DreamWorks Animation. This style is available for use in various creative projects. The high-quality style is a notable addition to the platform.",
+            "whyItMatters": "The availability of this style on OpenArt can inspire new creative works and provide users with a unique aesthetic for their projects. It also highlights the growing collaboration between animation studios and digital art platforms.",
+            "howToUse": "Users can access the Kung Fu Panda style on OpenArt and apply it to their projects, such as animations, illustrations, or other creative works. This can help them achieve a distinctive and recognizable visual identity.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Animators"
+            ],
+            "companies": [
+                "DreamWorks Animation",
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-6px302qv0",
+            "title": "Ideogram 4 Released",
+            "subtitle": "Civitai releases Ideogram 4, an AI model for generating images",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VNm91bVJKVGxvbTRHel9HRzlIZDhGUDJsb281M2RweDZSNG1nNGgwU01DS3hVM19Ob3FFOWxsMzIzbmxzYU9zbC1qOGJYRF9JSmI0eVJ2VzM?oc=5",
+                "date": "2026-06-05T07:00:00.000Z"
+            },
+            "whatsNew": "Ideogram 4 is a new AI model that can generate high-quality images. It is available on Civitai and can be used for various applications. The model is an improvement over its predecessors, offering better performance and capabilities.",
+            "whyItMatters": "The release of Ideogram 4 is significant as it showcases the advancements in AI art generation technology. It has the potential to revolutionize the field of digital art and design.",
+            "howToUse": "Users can access Ideogram 4 on Civitai and utilize it to generate images for their projects. The model can be fine-tuned and customized to suit specific needs and applications.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-3qliuarou",
+            "title": "AI Art Prompt",
+            "subtitle": "Futuristic android robot Samurai art generated using AI prompts",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Robot Samurai",
+                "Art Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNcld5M1NQODFocmg2U0lnVjJQOTAzdnlyOFhQeUpNVDJOSG5NaVFZMVptMDNJWVdrN1BvUWdnNW1yb1dqdzhJM3BTZUQ3SXdsQmNHY05WSlRvdHY3MlNlNUxGNnE2Yi1WRGxoT1dpZGFzMmRGU3JlMldkdWVqeF9LczRQVUpvTk9DdWFWZU15d0FVRy1CVXprd1lqdno5UUdvbzRON2J4ZHkxYXh3RmxoR3dKSWJ2VVFDQ0REa1JRdWtSbU03eXNsc29yUU9OdldoMDcyMEU0RGpobW1xZjNHNXhjOG1EU014NnFUc00tWUE0QVVuTlJyR1RRNjlocnNsOGZOU2ZoeG5WR3FDYTNyUFFjWkRBQkVmX1FTSlEybHNOclBEaktGM1pscHF4b0d3a1h5Z2JWbw?oc=5",
+                "date": "2026-06-05T07:47:01.000Z"
+            },
+            "whatsNew": "The use of AI prompts to generate futuristic android robot Samurai art is a new trend in the field of AI art generation. This technology allows for the creation of unique and detailed art pieces. The application of such prompts can lead to innovative designs in various industries.",
+            "whyItMatters": "The development of AI art generation using prompts like this can significantly impact the creative industry, enabling artists and designers to produce complex and detailed designs with ease. This technology also opens up new possibilities for gaming and animation.",
+            "howToUse": "Artists and designers can utilize AI art generation tools with specific prompts to create unique and detailed designs, streamlining their creative process and exploring new ideas.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-kl6vol3e4",
+            "title": "Bally's Acquires Evoke",
+            "subtitle": "Bally’s Intralot to acquire evoke in £243m all-share transaction",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "iGaming",
+                "Mergers"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVRsdHRUQ3J6Ujc3eUE1NUw5N1ZJUElUVGlqY1dJeGt3ZlBtbkhKYW5YcGFnSWdCaGNNZGtmd04tMFZOZVlSZDd2WnZtZnpBLXZwOG5Zb0xwZVNybFM0Y2dMcUJ0WGJFZDBaVG83UlUyNmhJVjJzT2N3TU1rUklWYjNoUnlUckRGNUZWX19TdHVkdVBFUnMzQ09lNmZWdw?oc=5",
+                "date": "2026-06-05T07:36:20.000Z"
+            },
+            "whatsNew": "Bally’s Intralot is set to acquire evoke in a £243m all-share transaction, marking a significant move in the iGaming industry. This acquisition is expected to expand Bally’s presence and capabilities. The deal highlights the ongoing consolidation trend in the sector.",
+            "whyItMatters": "This acquisition impacts the iGaming landscape by potentially altering market shares and competitive dynamics. It also signals the continued growth and evolution of the industry through strategic mergers and acquisitions.",
+            "howToUse": "Industry players should monitor such acquisitions for potential partnerships or opportunities. Companies can leverage these moves to reassess their market strategies and identify areas for growth or consolidation.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Bally’s Intralot",
+                "Evoke"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-4f5f43gzz",
+            "title": "Robinhood Shifts",
+            "subtitle": "Robinhood signals shift away from Kalshi ahead of World Cup",
+            "category": "iGaming",
+            "tags": [
+                "Robinhood",
+                "Kalshi",
+                "World Cup"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5BQWNQdHBIWVNpdllRZ2l3VEZObENwV2FpN2lZVE96MU5FcXB2Rk5QLWdtYm1VbWtIMk83YTM3YmEyOTJlVmhfTUw2YktnSm9aMTFxcmRfczQxM3h5cUtjR25TX1U5SFpIUkU3Z09ZSnhoZW51UU1pT1pmc091OU5DM1ZUaEFzNGtMSGo2UlZCRG44dVVrM3pn?oc=5",
+                "date": "2026-06-05T09:51:26.000Z"
+            },
+            "whatsNew": "Robinhood is shifting away from Kalshi, a betting platform, ahead of the World Cup. This move indicates a potential change in strategy for the company. The World Cup is a significant event for the sports betting industry.",
+            "whyItMatters": "This shift could impact the sports betting market and influence other companies' strategies. It may also affect the revenue and user base of Kalshi.",
+            "howToUse": "Companies in the sports betting industry should monitor this development and adjust their strategies accordingly. They should also consider the potential implications for their user base and revenue.",
+            "beneficiaries": [
+                "Sports Betting Companies",
+                "Investors"
+            ],
+            "companies": [
+                "Robinhood",
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-36dywi3bv",
+            "title": "MGA Warns Operators",
+            "subtitle": "MGA calls for vigilance and suspicious betting reporting ahead of FIFA World Cup 2026",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "FIFA World Cup 2026",
+                "Sports Betting"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHRabU5xQXdqM2FOMjJpVFFpZUc3TzZzeTd6dFhlbXhxYUM3U21hbHVwdTNPSkw0Q0xDV3d6VlZYeHlYX0dWWVhIdTlqczM4Nm9Td3g5NHhEZzktNXRLemhEU0RQUXViby1BNjRXVTRPUWxnakZjNzlwMXMzVDBBN291Wk14Wm5vdzJXSG55YW5JbjhKbzAxZ05hVDBWVVdLRFpHTWJaXzl0WC1KcW1PYjhSbEh1RE5ZZk9Vcw?oc=5",
+                "date": "2026-06-05T10:03:41.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority is urging operators to be vigilant and report suspicious betting activity ahead of the FIFA World Cup 2026. This move aims to prevent match-fixing and maintain the integrity of sports betting.",
+            "whyItMatters": "The warning is crucial for maintaining the integrity of the sports betting industry and protecting consumers from fraudulent activities. It also highlights the importance of regulatory bodies in overseeing the industry.",
+            "howToUse": "Operators should review their betting patterns and report any suspicious activity to the MGA. They should also ensure they have robust systems in place to detect and prevent match-fixing.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-r662j2noc",
+            "title": "MrQ Subscription",
+            "subtitle": "MrQ introduces a new subscription service with a curated bundle of value for its customers",
+            "category": "iGaming",
+            "tags": [
+                "MrQ",
+                "Subscription Service",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejBBUng0b25kRUtTaWxIdU8tQlh0ZHRSUWl6THRSNTNrYWMxU3A2U1hyV2piQlBhQlNNazQxTll2RnJvLWpZVFRRV1FWS2huZ3d4eVZ6Z1MxVFRkbU0ySml1WWpDUmdlQ1duWmZHdkZTMzV1bWRPNGl4ZVJoZjlud2N2ZF82V21NOXRhQlpwaWpnMGVSWFg4TURFZVZDWG1oTUcwSENB?oc=5",
+                "date": "2026-06-05T08:25:23.000Z"
+            },
+            "whatsNew": "MrQ has launched a subscription service that offers a curated bundle of value to its customers, potentially changing the way players engage with the platform. This move could set a new standard in the iGaming industry. The service aims to provide a unique experience for subscribers.",
+            "whyItMatters": "The introduction of a subscription service by MrQ could significantly impact the iGaming industry, as it offers a new way for operators to provide value to their customers. This could lead to increased customer loyalty and retention.",
+            "howToUse": "Operators can use subscription services to offer exclusive content, bonuses, and rewards to their loyal customers, enhancing the overall gaming experience. By adopting such models, operators can differentiate themselves in a competitive market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "MrQ"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
