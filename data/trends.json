@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-18T22:04:43.952Z",
+        "scanDate": "2026-06-19T00:24:15.106Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nurlj5z7k",
+            "title": "Pixar Style Animation",
+            "subtitle": "A young, quirky animated portrait generated with AI tools",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Pixar Style",
+                "Animation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnhHVm1LMi03dWVBeUplejVNOUVNMkM1bTR2Z19yMkVsTlk4SFZUMVk1ZWJ0MEFKcFQtRVhNUEtIU2didVRFSGExei1TRFVrRWticXU3V2MxRm53aHNiMjMzVmNCSVpOUzU2Zm56MTJSMWJkOW1DM20wNGJyZVFKZDVEb2JoTGFwaUlCRnpEWXRHMG5HdkN1cnBZTVIxOWRzWE5QUHZnNE9KajRma1Z3b3JOVGVtbnVjekVPOHN1cDNhazIya0Z0aUJkcF9aRG5qWWJfZ0UyVkxiV0Fic1BZSWdvQmRoaUwxSWdudHU2d2k?oc=5",
+                "date": "2026-06-17T20:30:32.000Z"
+            },
+            "whatsNew": "The use of AI tools to generate Pixar-style animated portraits is becoming increasingly popular, allowing for unique and quirky character designs. This trend is expected to continue as AI technology advances. The application of such tools can enhance visual design in various industries.",
+            "whyItMatters": "The ability to generate high-quality, stylized animations with AI can revolutionize the field of visual design, making it more accessible and efficient. This can have a significant impact on the gaming and iGaming industries, where character and game design play a crucial role.",
+            "howToUse": "Utilize AI art generation tools to create unique, stylized characters and portraits for game development, enhancing the visual appeal and engagement of the game. Experiment with different styles and prompts to achieve the desired outcome.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Designers",
+                "Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-qzmxe41oc",
             "title": "Sweepstakes Casinos Rise",
@@ -2139,35 +2171,6 @@
             "isNew": false
         },
         {
-            "id": "t-qhhvosn25",
-            "title": "Gambling License",
-            "subtitle": "UK Gambling Commission updates on John Warwick Tunnicliffe Jnr premises",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Licensing",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkY4MWhvbFJCR3pnMmQtNmk5Z2FzeEhmcnU1V09SZE40OXlLcklqeDljNnFwN3dnR2pVaVc2Tk5tSXlWaDRlT1lpaGJhUDBQOERHdUk3Vm1udGptWWlSd0syYzBkQ0Iza051YUkyM3FLWjAtNzUwMVMxenpTVEpzYldCWQ?oc=5",
-                "date": "2026-06-04T23:35:44.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has provided an update on John Warwick Tunnicliffe Jnr premises. The update is related to the premises located at FY3 7HG.",
-            "whyItMatters": "This update is important for those involved in the iGaming industry, particularly in the UK, as it pertains to regulatory compliance and licensing.",
-            "howToUse": "Operators should ensure they are aware of and comply with all relevant regulations and licensing requirements.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-cmtx5hbso",
             "title": "Spine 2D",
             "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development.",
@@ -2196,40 +2199,6 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-7uqwb2htg",
-            "title": "HP Anyware Sunset",
-            "subtitle": "A guide for postproduction teams to transition from HP Anyware to Parsec for secure and high-performance remote access",
-            "category": "Tech",
-            "tags": [
-                "HP Anyware",
-                "Parsec",
-                "Postproduction",
-                "Remote Access"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/hp-anyware-is-being-sunset-a-practical-guide-for-postproduction-teams",
-                "date": "2026-06-05T00:00:00.000Z"
-            },
-            "whatsNew": "HP Anyware is being sunset, and Parsec offers a low-latency and secure remote access solution for postproduction teams. Parsec supports up to 4K at 60 fps and has sub-16 ms added latency with GPU-side encoding.",
-            "whyItMatters": "The sunset of HP Anyware creates a security and compliance risk for postproduction teams, and Parsec provides a reliable and high-performance alternative. Parsec's SOC 2 Type II certification and compliance with TPN best-practices ensure secure and reliable remote access.",
-            "howToUse": "Postproduction teams can transition to Parsec by assessing their current deployment, selecting the appropriate Parsec edition, and deploying Parsec on hosts and clients. A structured migration plan helps reduce operational risk and minimize workflow disruption.",
-            "beneficiaries": [
-                "Postproduction Teams",
-                "Editors",
-                "Colorists"
-            ],
-            "companies": [
-                "HP",
-                "Parsec"
-            ],
-            "visualStyle": null,
-            "cluster": "tech",
             "isNew": false
         },
         {
@@ -2544,7 +2513,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": null
         },
         {
@@ -2563,7 +2532,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2572,7 +2541,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2581,7 +2550,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "Regulatory updates"
         },
         {
@@ -2599,7 +2568,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2608,7 +2577,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2628,7 +2597,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-18T22:04:43.952Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2686,7 +2655,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.953Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2695,7 +2664,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.953Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2704,7 +2673,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.953Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": "Style browsing signal"
         },
         {
@@ -2741,7 +2710,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.953Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": null
         },
         {
@@ -2831,7 +2800,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-18T22:04:43.953Z",
+            "lastScan": "2026-06-19T00:24:15.106Z",
             "note": null
         },
         {
@@ -31983,6 +31952,69 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-qhhvosn25",
+            "title": "Gambling License",
+            "subtitle": "UK Gambling Commission updates on John Warwick Tunnicliffe Jnr premises",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkY4MWhvbFJCR3pnMmQtNmk5Z2FzeEhmcnU1V09SZE40OXlLcklqeDljNnFwN3dnR2pVaVc2Tk5tSXlWaDRlT1lpaGJhUDBQOERHdUk3Vm1udGptWWlSd0syYzBkQ0Iza051YUkyM3FLWjAtNzUwMVMxenpTVEpzYldCWQ?oc=5",
+                "date": "2026-06-04T23:35:44.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has provided an update on John Warwick Tunnicliffe Jnr premises. The update is related to the premises located at FY3 7HG.",
+            "whyItMatters": "This update is important for those involved in the iGaming industry, particularly in the UK, as it pertains to regulatory compliance and licensing.",
+            "howToUse": "Operators should ensure they are aware of and comply with all relevant regulations and licensing requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7uqwb2htg",
+            "title": "HP Anyware Sunset",
+            "subtitle": "A guide for postproduction teams to transition from HP Anyware to Parsec for secure and high-performance remote access",
+            "category": "Tech",
+            "tags": [
+                "HP Anyware",
+                "Parsec",
+                "Postproduction",
+                "Remote Access"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/hp-anyware-is-being-sunset-a-practical-guide-for-postproduction-teams",
+                "date": "2026-06-05T00:00:00.000Z"
+            },
+            "whatsNew": "HP Anyware is being sunset, and Parsec offers a low-latency and secure remote access solution for postproduction teams. Parsec supports up to 4K at 60 fps and has sub-16 ms added latency with GPU-side encoding.",
+            "whyItMatters": "The sunset of HP Anyware creates a security and compliance risk for postproduction teams, and Parsec provides a reliable and high-performance alternative. Parsec's SOC 2 Type II certification and compliance with TPN best-practices ensure secure and reliable remote access.",
+            "howToUse": "Postproduction teams can transition to Parsec by assessing their current deployment, selecting the appropriate Parsec edition, and deploying Parsec on hosts and clients. A structured migration plan helps reduce operational risk and minimize workflow disruption.",
+            "beneficiaries": [
+                "Postproduction Teams",
+                "Editors",
+                "Colorists"
+            ],
+            "companies": [
+                "HP",
+                "Parsec"
+            ],
+            "visualStyle": null,
+            "cluster": "tech",
             "isNew": false
         }
     ]
