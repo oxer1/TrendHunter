@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-19T11:20:00.978Z",
+        "scanDate": "2026-06-19T14:58:37.980Z",
         "version": "2.5.0",
-        "totalTrends": 71,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vlkqc0nr1",
@@ -1304,38 +1304,6 @@
             "isNew": false
         },
         {
-            "id": "t-fg6gtkc2e",
-            "title": "Stable Diffusion",
-            "subtitle": "Stable Diffusion prompt for fashion shoot with Jacquemus and Mo",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Fashion"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVXQxbklLWGwxYmRmUDlYVUFkTS1GUTVNRXgzS3RGWDN4LWlqY0R3UldLNl9OM0FfekxqdFRzdC1aSm1NTXNvZXBKM1FST1NlYlVuNEllUmlsN1RBSkgtMnFTTmxMczN1aXNVUzBrOWN2U251N3NHUHJpWS1KN1gzWXkzc2lURUwzOF80NTFkd3lhSk56U0pmVWZtbjhyQUk5cHBOWndVakdpMHliMmswZmRqRkQyU2hMMjBId3JQekRjWFdKeXlXa2hIM1h5NGg0MzROV1ppanVQcGJNQ0pMSmNXYVJaUUQ2VzgwdzF0YnJ5aEpZdW5FTktFckJ3UXRWUnFJRWpkSy0zRXFUcnp5MmlRN1NVVUtzSHZNTzFJV3pMM3hSbmc?oc=5",
-                "date": "2026-06-05T13:40:37.000Z"
-            },
-            "whatsNew": "Stable Diffusion is being used for generating fashion shoot prompts, allowing for unique and creative outputs. The use of specific designer names like Jacquemus indicates a trend towards personalized and branded content generation. This technology can create high-quality images based on text prompts.",
-            "whyItMatters": "The use of AI in fashion can revolutionize the industry by providing new ways to create and showcase designs, reducing the need for physical prototypes and speeding up the design process. It also opens up new possibilities for creative collaboration between humans and AI.",
-            "howToUse": "Use Stable Diffusion to generate unique fashion images by inputting specific prompts, and experiment with different styles and designers to create personalized content. This can be particularly useful for fashion designers, marketers, and social media influencers looking to create engaging visual content.",
-            "beneficiaries": [
-                "Fashion Designers",
-                "Marketers",
-                "Influencers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-0j2ehmmqn",
             "title": "Interactive Training",
             "subtitle": "Unity Studio enables training designers to create interactive 3D experiences without relying on specialized simulation teams",
@@ -1429,37 +1397,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-ocyb483t9",
-            "title": "AI Video Community",
-            "subtitle": "OpenArt introduces a platform for discovering and sharing creative AI video content",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Creative Content",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRGRETl9oNmNLOWRvRXFqQzNDZk9nTnNHSnVFVVlhV3lwTXRxdWFoSzFGSTlPaks5QWUxVmVzQ3lEZG41UWJ1QjZPX3p5akhRclVQZWd3YVpGTGZ6ckJBaUVPQ0IwQQ?oc=5",
-                "date": "2026-06-05T13:06:25.000Z"
-            },
-            "whatsNew": "OpenArt has launched a community platform focused on AI-generated video stories, allowing users to discover and share creative content. This move highlights the growing interest in AI for creative work. The platform aims to provide a space for creators to showcase their AI video stories.",
-            "whyItMatters": "The introduction of this platform by OpenArt signifies a significant step in the adoption of AI for creative purposes, particularly in video content creation. It has the potential to democratize access to AI video generation tools, fostering innovation and community engagement.",
-            "howToUse": "Creators can join the OpenArt community to share their AI video stories and engage with other users, while also exploring the platform's features for discovering new content. Utilizing this platform can help creators gain visibility and feedback on their work.",
-            "beneficiaries": [
-                "Content Creators",
-                "AI Enthusiasts"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -2387,7 +2324,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": null
         },
         {
@@ -2406,7 +2343,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2415,7 +2352,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2424,7 +2361,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "Regulatory updates"
         },
         {
@@ -2442,7 +2379,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2451,7 +2388,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2471,7 +2408,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2529,7 +2466,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2538,7 +2475,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2547,7 +2484,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": "Style browsing signal"
         },
         {
@@ -2584,7 +2521,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": null
         },
         {
@@ -2593,7 +2530,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": null
         },
         {
@@ -2674,7 +2611,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-19T11:20:00.978Z",
+            "lastScan": "2026-06-19T14:58:37.980Z",
             "note": null
         },
         {
@@ -32172,6 +32109,69 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-fg6gtkc2e",
+            "title": "Stable Diffusion",
+            "subtitle": "Stable Diffusion prompt for fashion shoot with Jacquemus and Mo",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Fashion"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVXQxbklLWGwxYmRmUDlYVUFkTS1GUTVNRXgzS3RGWDN4LWlqY0R3UldLNl9OM0FfekxqdFRzdC1aSm1NTXNvZXBKM1FST1NlYlVuNEllUmlsN1RBSkgtMnFTTmxMczN1aXNVUzBrOWN2U251N3NHUHJpWS1KN1gzWXkzc2lURUwzOF80NTFkd3lhSk56U0pmVWZtbjhyQUk5cHBOWndVakdpMHliMmswZmRqRkQyU2hMMjBId3JQekRjWFdKeXlXa2hIM1h5NGg0MzROV1ppanVQcGJNQ0pMSmNXYVJaUUQ2VzgwdzF0YnJ5aEpZdW5FTktFckJ3UXRWUnFJRWpkSy0zRXFUcnp5MmlRN1NVVUtzSHZNTzFJV3pMM3hSbmc?oc=5",
+                "date": "2026-06-05T13:40:37.000Z"
+            },
+            "whatsNew": "Stable Diffusion is being used for generating fashion shoot prompts, allowing for unique and creative outputs. The use of specific designer names like Jacquemus indicates a trend towards personalized and branded content generation. This technology can create high-quality images based on text prompts.",
+            "whyItMatters": "The use of AI in fashion can revolutionize the industry by providing new ways to create and showcase designs, reducing the need for physical prototypes and speeding up the design process. It also opens up new possibilities for creative collaboration between humans and AI.",
+            "howToUse": "Use Stable Diffusion to generate unique fashion images by inputting specific prompts, and experiment with different styles and designers to create personalized content. This can be particularly useful for fashion designers, marketers, and social media influencers looking to create engaging visual content.",
+            "beneficiaries": [
+                "Fashion Designers",
+                "Marketers",
+                "Influencers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ocyb483t9",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt introduces a platform for discovering and sharing creative AI video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Creative Content",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRGRETl9oNmNLOWRvRXFqQzNDZk9nTnNHSnVFVVlhV3lwTXRxdWFoSzFGSTlPaks5QWUxVmVzQ3lEZG41UWJ1QjZPX3p5akhRclVQZWd3YVpGTGZ6ckJBaUVPQ0IwQQ?oc=5",
+                "date": "2026-06-05T13:06:25.000Z"
+            },
+            "whatsNew": "OpenArt has launched a community platform focused on AI-generated video stories, allowing users to discover and share creative content. This move highlights the growing interest in AI for creative work. The platform aims to provide a space for creators to showcase their AI video stories.",
+            "whyItMatters": "The introduction of this platform by OpenArt signifies a significant step in the adoption of AI for creative purposes, particularly in video content creation. It has the potential to democratize access to AI video generation tools, fostering innovation and community engagement.",
+            "howToUse": "Creators can join the OpenArt community to share their AI video stories and engage with other users, while also exploring the platform's features for discovering new content. Utilizing this platform can help creators gain visibility and feedback on their work.",
+            "beneficiaries": [
+                "Content Creators",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
