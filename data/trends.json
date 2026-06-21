@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-20T23:04:55.989Z",
+        "scanDate": "2026-06-21T03:53:12.389Z",
         "version": "2.5.0",
-        "totalTrends": 74,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-8mzugokah",
+            "title": "Bragg CEO Resigns",
+            "subtitle": "Bragg CEO to resign from board following shareholder vote",
+            "category": "iGaming",
+            "tags": [
+                "Bragg",
+                "CEO Resignation",
+                "Shareholder Vote"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE1XQ2JoSDhUUWdGdjVKbHZjOW4yX0k5bFdvbDFHRFRfdEpmZy1WM1RnS0NMTUFoSmJWNnZwd2wxMFY4NHJjRzJlZ2x5b0JkRXFuck5UMDg5MFlieVpjZ2lOVWN1cjg1TUNjbGl1azRSVFFPWmJDWEtFX0J3YWNzcnZMZmJRRDgyMjZpbm1hdUhGTlh0YTlB?oc=5",
+                "date": "2026-06-19T09:44:35.000Z"
+            },
+            "whatsNew": "Bragg's CEO is set to resign from the board after a shareholder vote. The move may impact the company's strategic direction and leadership.",
+            "whyItMatters": "The resignation could lead to changes in Bragg's operations and decision-making processes, potentially affecting the iGaming industry.",
+            "howToUse": "Industry stakeholders should monitor Bragg's future developments and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Bragg"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-d2ltuqqwb",
             "title": "AI Art Generation",
@@ -891,37 +922,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-wevbu64l0",
-            "title": "AI Art Zelda",
-            "subtitle": "The Legend of Zelda artwork generated using AI tools",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "The Legend of Zelda",
-                "Link LoRA"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1FiMVJ3clUwdFRjYnQ1ZnlEb0JaQkw0RnFNX2lNb0NleUgzYUtmaEtXTVB0aVpyMGU2eU9adjkyT2tQS3J6bC1KTjZlOXExQnh3VzdleEtNdURnMXdPR0tMVTlvN1V1bUs2bnRoRWZieW9ic2xjTWlOYTkxTlUyM09EWWloZzZCZy1NMDBaQm44dmt6RndKX0paZkFPUFg2aEtTUU9uV25tTUxBUEZBWDJiUkJPQV9kOXk4ODJSTmUxdw?oc=5",
-                "date": "2026-06-07T02:12:05.000Z"
-            },
-            "whatsNew": "The use of AI tools like Link LoRA to generate artwork for The Legend of Zelda series is a new trend. This technology allows for the creation of unique and stylized images. The IllustriousV2 model is being used to produce high-quality artwork.",
-            "whyItMatters": "The application of AI in art generation is changing the way we create and experience visual content. This technology has the potential to revolutionize the art and gaming industries.",
-            "howToUse": "Artists and designers can use AI tools like Link LoRA to generate new and innovative artwork for various projects, including game development and character design.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1930,37 +1930,6 @@
             "isNew": false
         },
         {
-            "id": "t-r8nh144z2",
-            "title": "AI Zelda Art",
-            "subtitle": "Link LoRA uses AnimaV1 for Zelda-inspired art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "AnimaV1",
-                "The Legend of Zelda"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFhCV2FHenBsa2x3ZV9PYk85TE5OODRtNDRBOHItbmIwa3YwbVgtQXppMm54WnN1bjRyZmJVeHl6R0ozY2F6NlZ0T2FtNzRDLW5xT1A2dlp0VU42NkRMOUtjRG90b0JEa3JfaThNa0tWeUQ4NjVlMnNjcm5OZ2Iwb2pTZXEwWENBQTJldnRkN0VtTjNlUjVZeFdUczl0WVNfMXdETzNXRDV6UWY0SjBTTlVMajg2T2NZQVE?oc=5",
-                "date": "2026-06-07T02:12:05.000Z"
-            },
-            "whatsNew": "The use of AnimaV1 for generating Zelda-inspired art showcases the potential of AI in creating unique and engaging visual content. This technology can be applied to various forms of media, including gaming and animation. The integration of AI art generation tools like AnimaV1 is becoming increasingly popular.",
-            "whyItMatters": "The application of AI in art generation can revolutionize the gaming and animation industries by providing new and innovative ways to create visual content. This technology can also enable the creation of personalized and dynamic art experiences.",
-            "howToUse": "Developers and artists can utilize AnimaV1 and similar AI art generation tools to create unique and engaging visual content for their projects. By experimenting with different prompts and styles, users can unlock new creative possibilities.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-c6oep8snq",
             "title": "AI Creator Studio",
             "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
@@ -2295,37 +2264,6 @@
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
             "isNew": false
-        },
-        {
-            "id": "t-cmtx5hbso",
-            "title": "Spine 2D",
-            "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development.",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "2D Animation",
-                "Game Development"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rV0xlRGpQSFk0dmM4Rjh3S05OV1ZTZ0ZtTGh5b3dENDdJM2xhTkFNa0RMN1FUbEgxS3NQeGxXVHc4emdRQmF4dU94MENtN0dYU0FHcjJpby16UTA?oc=5",
-                "date": "2026-06-06T23:44:30.000Z"
-            },
-            "whatsNew": "The mention of Spine 2D may imply new features or applications in the field of 2D animation for games. This could be related to updates in the Spine software. The specifics of what's new are not detailed in the provided information.",
-            "whyItMatters": "Spine is a significant tool in game development for creating 2D animations, and any updates or focus on it could impact how games are developed and animated. This is particularly relevant for indie game developers and studios focusing on 2D games.",
-            "howToUse": "Developers can utilize Spine for creating complex 2D animations and integrating them into their games, potentially enhancing game visuals and player experience.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2482,7 +2420,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": null
         },
         {
@@ -2501,7 +2439,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2510,7 +2448,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2519,7 +2457,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "Regulatory updates"
         },
         {
@@ -2537,7 +2475,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2546,7 +2484,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2566,7 +2504,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2624,7 +2562,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2633,7 +2571,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T11:15:09.063Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2642,7 +2580,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T11:15:09.063Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": "Style browsing signal"
         },
         {
@@ -2679,7 +2617,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T08:51:02.747Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": null
         },
         {
@@ -2688,7 +2626,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-20T08:51:02.747Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": null
         },
         {
@@ -2697,7 +2635,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-20T08:51:02.747Z",
+            "lastScan": "2026-06-21T03:53:12.389Z",
             "note": null
         },
         {
@@ -2769,7 +2707,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-20T23:04:55.989Z",
+            "lastScan": "2026-06-21T03:53:12.390Z",
             "note": null
         },
         {
@@ -32361,6 +32299,99 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-wevbu64l0",
+            "title": "AI Art Zelda",
+            "subtitle": "The Legend of Zelda artwork generated using AI tools",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "The Legend of Zelda",
+                "Link LoRA"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1FiMVJ3clUwdFRjYnQ1ZnlEb0JaQkw0RnFNX2lNb0NleUgzYUtmaEtXTVB0aVpyMGU2eU9adjkyT2tQS3J6bC1KTjZlOXExQnh3VzdleEtNdURnMXdPR0tMVTlvN1V1bUs2bnRoRWZieW9ic2xjTWlOYTkxTlUyM09EWWloZzZCZy1NMDBaQm44dmt6RndKX0paZkFPUFg2aEtTUU9uV25tTUxBUEZBWDJiUkJPQV9kOXk4ODJSTmUxdw?oc=5",
+                "date": "2026-06-07T02:12:05.000Z"
+            },
+            "whatsNew": "The use of AI tools like Link LoRA to generate artwork for The Legend of Zelda series is a new trend. This technology allows for the creation of unique and stylized images. The IllustriousV2 model is being used to produce high-quality artwork.",
+            "whyItMatters": "The application of AI in art generation is changing the way we create and experience visual content. This technology has the potential to revolutionize the art and gaming industries.",
+            "howToUse": "Artists and designers can use AI tools like Link LoRA to generate new and innovative artwork for various projects, including game development and character design.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-r8nh144z2",
+            "title": "AI Zelda Art",
+            "subtitle": "Link LoRA uses AnimaV1 for Zelda-inspired art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "AnimaV1",
+                "The Legend of Zelda"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFhCV2FHenBsa2x3ZV9PYk85TE5OODRtNDRBOHItbmIwa3YwbVgtQXppMm54WnN1bjRyZmJVeHl6R0ozY2F6NlZ0T2FtNzRDLW5xT1A2dlp0VU42NkRMOUtjRG90b0JEa3JfaThNa0tWeUQ4NjVlMnNjcm5OZ2Iwb2pTZXEwWENBQTJldnRkN0VtTjNlUjVZeFdUczl0WVNfMXdETzNXRDV6UWY0SjBTTlVMajg2T2NZQVE?oc=5",
+                "date": "2026-06-07T02:12:05.000Z"
+            },
+            "whatsNew": "The use of AnimaV1 for generating Zelda-inspired art showcases the potential of AI in creating unique and engaging visual content. This technology can be applied to various forms of media, including gaming and animation. The integration of AI art generation tools like AnimaV1 is becoming increasingly popular.",
+            "whyItMatters": "The application of AI in art generation can revolutionize the gaming and animation industries by providing new and innovative ways to create visual content. This technology can also enable the creation of personalized and dynamic art experiences.",
+            "howToUse": "Developers and artists can utilize AnimaV1 and similar AI art generation tools to create unique and engaging visual content for their projects. By experimenting with different prompts and styles, users can unlock new creative possibilities.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-cmtx5hbso",
+            "title": "Spine 2D",
+            "subtitle": "Spine, a 2D animation tool, has been mentioned, potentially indicating updates or applications in game development.",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rV0xlRGpQSFk0dmM4Rjh3S05OV1ZTZ0ZtTGh5b3dENDdJM2xhTkFNa0RMN1FUbEgxS3NQeGxXVHc4emdRQmF4dU94MENtN0dYU0FHcjJpby16UTA?oc=5",
+                "date": "2026-06-06T23:44:30.000Z"
+            },
+            "whatsNew": "The mention of Spine 2D may imply new features or applications in the field of 2D animation for games. This could be related to updates in the Spine software. The specifics of what's new are not detailed in the provided information.",
+            "whyItMatters": "Spine is a significant tool in game development for creating 2D animations, and any updates or focus on it could impact how games are developed and animated. This is particularly relevant for indie game developers and studios focusing on 2D games.",
+            "howToUse": "Developers can utilize Spine for creating complex 2D animations and integrating them into their games, potentially enhancing game visuals and player experience.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
