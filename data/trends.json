@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-21T18:17:57.077Z",
+        "scanDate": "2026-06-21T20:22:54.985Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9lytmqenc",
+            "title": "Ghibli Style",
+            "subtitle": "Civitai releases Studio Ghibli Style v1.0 with Ideogram 4.0 LoRA",
+            "category": "Art",
+            "tags": [
+                "Studio Ghibli",
+                "Ideogram",
+                "LoRA",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vc1llbU9DNGNMNkMyTktRczNieTNmOU1aQ0VtbFBpMnRCR0pnWUZHX19pcGpxbEN1bTZJV1Y1cHh6Y0ptcEdhZ1JQWXdUVy1BV3RrNnNZQTdEUEtsamY4aU5yQzQ?oc=5",
+                "date": "2026-06-21T01:19:42.000Z"
+            },
+            "whatsNew": "Civitai introduces Studio Ghibli Style v1.0, utilizing Ideogram 4.0 LoRA for AI-generated art. This model allows for the creation of artwork in the distinctive style of Studio Ghibli. The integration of LoRA enhances the model's ability to generate detailed and stylized images.",
+            "whyItMatters": "This release is significant for artists and fans of Studio Ghibli, as it provides a tool for generating art in a beloved style. It also showcases the growing capabilities of AI in art generation, particularly with the use of LoRA for more refined outputs.",
+            "howToUse": "Artists can utilize this model by accessing it through Civitai's platform, where they can input their prompts to generate unique artwork in the Studio Ghibli style. This can be particularly useful for concept artists, animators, and fans looking to create their own Ghibli-inspired pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Animators",
+                "Fans of Studio Ghibli"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-s9m877ccm",
             "title": "AI Photo Generation",
@@ -2421,7 +2454,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": null
         },
         {
@@ -2440,7 +2473,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2449,7 +2482,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2458,7 +2491,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": "Regulatory updates"
         },
         {
@@ -2476,7 +2509,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2485,7 +2518,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2505,7 +2538,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2563,7 +2596,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2708,7 +2741,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T18:17:57.077Z",
+            "lastScan": "2026-06-21T20:22:54.985Z",
             "note": null
         },
         {
