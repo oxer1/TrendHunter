@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-22T12:48:25.354Z",
+        "scanDate": "2026-06-22T17:29:35.286Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-roi3e38s1",
+            "title": "LTX2.3 Release",
+            "subtitle": "Civitai introduces LTX2.3, an all-in-one AI model combining various tools for image generation and manipulation.",
+            "category": "AI",
+            "tags": [
+                "AI Art Generation",
+                "LTX2.3",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd091MHZHQzYwSVczTDBHMDhka1QwU1NvMmR6VkZrUE9Udi1uZUdhV2dTWXdFTUxKQk14S3pyMG5QY0R0SlZ2NTdValgwa2JkYWpUTzA4c19US05uUDNDeW1tTW5Cdm1FS3F3SlY1aUY3b3NyWTdOUUhWMDFZcVlOaWNSdEVaRHR5dGxOdEJ0R1YxcnkyakFDOVh5YjBNRDFvNWVrSlVra1hHWWhUSlZjLUh2MGZxU3Bxc25QaXU2VXo?oc=5",
+                "date": "2026-06-22T14:01:31.000Z"
+            },
+            "whatsNew": "LTX2.3 integrates LTX Director, ID LoRA, ControlNet, Detailer, Upscaler, and Interpolator, offering a comprehensive suite for AI-powered image creation and editing. This model supports both SFW and NSFW content. The integration aims to streamline workflows and enhance image quality.",
+            "whyItMatters": "The release of LTX2.3 signifies a significant step in AI art generation, providing users with a robust toolset for creating and manipulating images. This can impact various creative fields, including gaming and visual design.",
+            "howToUse": "Users can leverage LTX2.3 for generating high-quality images, editing existing ones, and exploring the capabilities of AI in art creation. It's advisable to experiment with the different components of the model to understand its full potential.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-66vdsupii",
+            "title": "AI Art Generation",
+            "subtitle": "Using ChatGPT for expressive caricatures in Pixar style",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Pixar Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU01xYzlPYlU2a2ZJckpOWjNnNzQwTmNfMEItYkNzTlZvTUlqdWVWQnppaFVxTWNiLXFjQXNPQzBQcm1BTVQxY1pWVnlKaFAwQ1Y5UWtCSDFJb3FsaklLbmZ2enFFelpmZTdfRWMtTDVkRV9qY3NoQjJwaWRrQVdVb1Y3UTM5NGdIalFCYW1XVEJPR1RUREFiZ1BHeXpQMWhCNTdULU1Cb2xrZ0xQUDQySlF5N0hzSnVIcHM5VEtuM2J5NlV6N3hYMEdUTVgzcThmZXJReUdlWXZfSV9DX0picFBLeDlWM0FWNzhOaFhHMGI3RDhYMWd1WHNOd1hnWUUwS3Y4eHRVcldjTGMwYmF0LUNLZTRMOFlXNTg1MldCNDdpTW11RjZORm9JSGRkTzhVV1Z6YURYM0tuTjJtbW9J?oc=5",
+                "date": "2026-06-15T06:57:50.000Z"
+            },
+            "whatsNew": "ChatGPT can be used to generate expressive caricatures in Pixar style, showcasing the potential of AI in art creation. This development highlights the growing capabilities of AI image generation tools. The use of ChatGPT for artistic purposes expands its application beyond text-based tasks.",
+            "whyItMatters": "The ability to generate high-quality, stylized images using AI has significant implications for the art and design industries. It can also influence the development of new visual styles and trends in gaming and animation.",
+            "howToUse": "Artists and designers can utilize ChatGPT to explore new ideas and styles, automating parts of the creative process and focusing on high-level creative decisions. This can be particularly useful for concept art and character design in games and animations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Artists"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-4nzgwn0kb",
+            "title": "AI Motion Graphics",
+            "subtitle": "Synthesia introduces a free AI motion graphics generator requiring no design skills",
+            "category": "AI",
+            "tags": [
+                "AI Motion Graphics",
+                "Synthesia",
+                "Design Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfN2c1bHEyN2pEUjZoVWZGT240ZTNXVXdIVmU0QTZsdkdKbGl5SHVEMlNMVHFOZlNfb2RBX2F2dDgwVEJZQ2MxS0YwRmlWeUtGR3hmVl9rMk4yM0JheGc?oc=5",
+                "date": "2026-06-17T23:06:38.000Z"
+            },
+            "whatsNew": "Synthesia has launched a free AI motion graphics generator that allows users to create motion graphics without needing any design skills. This tool leverages AI to simplify the design process. It's aimed at making motion graphics accessible to a broader audience.",
+            "whyItMatters": "The introduction of this tool by Synthesia matters because it democratizes access to motion graphics creation, potentially disrupting the graphic design industry by making professional-looking motion graphics more accessible. This could be particularly impactful for small businesses, educators, and content creators who lack extensive design experience.",
+            "howToUse": "To use Synthesia's AI motion graphics generator, simply access their platform, input your desired text or message, and select from various templates and styles. The AI will then generate a motion graphic based on your inputs, allowing for easy customization and download.",
+            "beneficiaries": [
+                "Content Creators",
+                "Small Businesses",
+                "Educators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-llio16of8",
             "title": "Spine 2D Issue",
@@ -1334,37 +1428,6 @@
             "isNew": false
         },
         {
-            "id": "t-jp18oam3d",
-            "title": "Juggernaut Z Released",
-            "subtitle": "RunDiffusion releases Juggernaut Z, a new ZImage checkpoint on Civitai",
-            "category": "AI",
-            "tags": [
-                "ZImage",
-                "RunDiffusion",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVG1QQ3d6ZVJmSEQ1VEVMT2xoVGRDM1JyNXdiMjlTMlN4MEhkZzZ0aTdaaXB0Y0RTVkNNUDhCazdRZ1hQck5DYUh1eXB1VHpOaUNCUlVuX2tRYUU?oc=5",
-                "date": "2026-06-08T14:05:10.000Z"
-            },
-            "whatsNew": "Juggernaut Z is a new ZImage checkpoint that offers fast image generation capabilities. It is available on Civitai, a platform for AI models and checkpoints. This release is significant for AI art generation and related applications.",
-            "whyItMatters": "The release of Juggernaut Z can impact the development of AI-powered visual design tools, potentially enhancing the quality and speed of image generation. This can be particularly beneficial for industries relying on AI art, such as gaming and visual effects.",
-            "howToUse": "Developers and artists can utilize Juggernaut Z by integrating it into their AI pipelines for faster and more efficient image generation. This can be achieved by accessing the checkpoint through Civitai and incorporating it into their existing workflows.",
-            "beneficiaries": [
-                "Game Developers",
-                "Visual Artists"
-            ],
-            "companies": [
-                "RunDiffusion"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-ynuhrzoox",
             "title": "ATG New CEO",
             "subtitle": "ATG appoints former Svenska Spel VP as new CEO, a move that could impact the iGaming industry",
@@ -2300,7 +2363,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": null
         },
         {
@@ -2319,7 +2382,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2328,7 +2391,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2337,7 +2400,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "Regulatory updates"
         },
         {
@@ -2355,7 +2418,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2364,7 +2427,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2384,7 +2447,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2442,7 +2505,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2451,7 +2514,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2460,7 +2523,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": "Style browsing signal"
         },
         {
@@ -2497,7 +2560,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": null
         },
         {
@@ -2506,7 +2569,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": null
         },
         {
@@ -2587,7 +2650,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-22T17:29:35.286Z",
             "note": null
         },
         {
@@ -32548,6 +32611,37 @@
                 "Game Developers"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-jp18oam3d",
+            "title": "Juggernaut Z Released",
+            "subtitle": "RunDiffusion releases Juggernaut Z, a new ZImage checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "ZImage",
+                "RunDiffusion",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVG1QQ3d6ZVJmSEQ1VEVMT2xoVGRDM1JyNXdiMjlTMlN4MEhkZzZ0aTdaaXB0Y0RTVkNNUDhCazdRZ1hQck5DYUh1eXB1VHpOaUNCUlVuX2tRYUU?oc=5",
+                "date": "2026-06-08T14:05:10.000Z"
+            },
+            "whatsNew": "Juggernaut Z is a new ZImage checkpoint that offers fast image generation capabilities. It is available on Civitai, a platform for AI models and checkpoints. This release is significant for AI art generation and related applications.",
+            "whyItMatters": "The release of Juggernaut Z can impact the development of AI-powered visual design tools, potentially enhancing the quality and speed of image generation. This can be particularly beneficial for industries relying on AI art, such as gaming and visual effects.",
+            "howToUse": "Developers and artists can utilize Juggernaut Z by integrating it into their AI pipelines for faster and more efficient image generation. This can be achieved by accessing the checkpoint through Civitai and incorporating it into their existing workflows.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Artists"
+            ],
+            "companies": [
+                "RunDiffusion"
+            ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
