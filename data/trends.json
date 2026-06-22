@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-22T20:42:35.002Z",
+        "scanDate": "2026-06-22T22:45:22.788Z",
         "version": "2.5.0",
         "totalTrends": 69,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xfoedoxxj",
+            "title": "Z-Image Turbo",
+            "subtitle": "Rebels release optimized Z-Image-Turbo v2 on Civitai",
+            "category": "AI",
+            "tags": [
+                "Z-Image",
+                "Optimization",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MR2dkTmxTQXRkdUFzdGxoWmoxYzZBN0pvQzBMR1lqZlVIWjFLS09EZzgyaHpxZ3JqVGloMXUtY0lRTGpHLXVSUGJ5cVp0YjlvTlJZTVJHajVGT01ycE1fa2VZeDdMQQ?oc=5",
+                "date": "2026-06-20T07:00:00.000Z"
+            },
+            "whatsNew": "Rebels have released an optimized version of Z-Image-Turbo, a tool for image workflows, now available on Civitai. This update aims to improve performance and efficiency. The new version is labeled as v2.",
+            "whyItMatters": "The optimization of Z-Image-Turbo can significantly impact AI image generation tasks, making them faster and more efficient. This can be particularly beneficial for artists and designers who rely on such tools for their work.",
+            "howToUse": "To leverage the optimized Z-Image-Turbo, users can access it through Civitai and follow the provided workflows to integrate it into their projects. Regularly checking for updates can help users stay current with the latest improvements.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-roi3e38s1",
             "title": "LTX2.3 Release",
@@ -1868,39 +1899,6 @@
             "isNew": false
         },
         {
-            "id": "t-snds6kbm1",
-            "title": "80s Anime Style",
-            "subtitle": "Civitai releases 80s Anime Ideogram 4, a new LoRA model",
-            "category": "Art",
-            "tags": [
-                "80s Anime",
-                "LoRA",
-                "Civitai",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05a0RpNnVhN01aamFHM1d5VjNoVW9wVHVMWUg5OC1HbGZxR0ZTQUdRa1V1YjR5RURpWGlwd0c3Si1iNGhqbmNDd3F1NWJ3bkFaY3hoRmZXQk54QVNGUjVoNWpnWlQ4by1W?oc=5",
-                "date": "2026-06-08T21:28:17.000Z"
-            },
-            "whatsNew": "Civitai has introduced 80s Anime Ideogram 4, a new LoRA model that allows for the generation of 80s-style anime images. This model is part of the Other LoRA series. The release of this model demonstrates the growing interest in AI-generated art inspired by nostalgic styles.",
-            "whyItMatters": "The release of 80s Anime Ideogram 4 is significant because it showcases the potential of AI in generating art that pays homage to classic styles, which could influence visual design trends in the gaming and animation industries.",
-            "howToUse": "Artists and designers can utilize this model to create unique, 80s-inspired anime-style artwork for various projects, including game development and visual design.",
-            "beneficiaries": [
-                "Game Developers",
-                "Graphic Designers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-zki0tsb67",
             "title": "MGA Seal Update",
             "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
@@ -2332,7 +2330,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": null
         },
         {
@@ -2351,7 +2349,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2360,7 +2358,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2369,7 +2367,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": "Regulatory updates"
         },
         {
@@ -2387,7 +2385,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2396,7 +2394,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2416,7 +2414,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2474,7 +2472,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2619,7 +2617,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T20:42:35.002Z",
+            "lastScan": "2026-06-22T22:45:22.788Z",
             "note": null
         },
         {
@@ -32644,6 +32642,39 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
+            "isNew": false
+        },
+        {
+            "id": "t-snds6kbm1",
+            "title": "80s Anime Style",
+            "subtitle": "Civitai releases 80s Anime Ideogram 4, a new LoRA model",
+            "category": "Art",
+            "tags": [
+                "80s Anime",
+                "LoRA",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05a0RpNnVhN01aamFHM1d5VjNoVW9wVHVMWUg5OC1HbGZxR0ZTQUdRa1V1YjR5RURpWGlwd0c3Si1iNGhqbmNDd3F1NWJ3bkFaY3hoRmZXQk54QVNGUjVoNWpnWlQ4by1W?oc=5",
+                "date": "2026-06-08T21:28:17.000Z"
+            },
+            "whatsNew": "Civitai has introduced 80s Anime Ideogram 4, a new LoRA model that allows for the generation of 80s-style anime images. This model is part of the Other LoRA series. The release of this model demonstrates the growing interest in AI-generated art inspired by nostalgic styles.",
+            "whyItMatters": "The release of 80s Anime Ideogram 4 is significant because it showcases the potential of AI in generating art that pays homage to classic styles, which could influence visual design trends in the gaming and animation industries.",
+            "howToUse": "Artists and designers can utilize this model to create unique, 80s-inspired anime-style artwork for various projects, including game development and visual design.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
