@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-22T06:27:20.311Z",
+        "scanDate": "2026-06-22T12:48:25.354Z",
         "version": "2.5.0",
-        "totalTrends": 75,
+        "totalTrends": 68,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-jaj3b47et",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-r16nhtawm",
@@ -111,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "animation-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9lytmqenc",
@@ -1083,38 +1083,6 @@
             "isNew": false
         },
         {
-            "id": "t-mywnalbn9",
-            "title": "AI Image Prompt",
-            "subtitle": "ChatGPT image generation with PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abzBGX0Z1ekl3UGY5eGhlY1Ricmx6T3lodDhaSTh3cEFZNFdiMnpVeUdocXBhR0pkRUdPM25haE84bmQ4Q08yekFCc1loTlV2b0NfbE1wenFjQjB5dDBuanVtcERhRHBtR2ZpTjF1cmIyTEVZVXc?oc=5",
-                "date": "2026-06-08T07:00:00.000Z"
-            },
-            "whatsNew": "PromptHero introduces a new way to generate images using ChatGPT, allowing for more creative and precise image creation. This tool enables users to input text prompts and receive generated images in response. The integration of ChatGPT with image generation capabilities opens up new possibilities for AI-assisted art and design.",
-            "whyItMatters": "The ability to generate images from text prompts using ChatGPT has significant implications for the fields of art, design, and entertainment, potentially streamlining creative processes and enabling new forms of expression. This technology could also impact the iGaming industry by providing innovative ways to create game assets and visuals.",
-            "howToUse": "To utilize this feature, users can visit prompthero.com and input their desired text prompts to generate images. This can be particularly useful for game developers, artists, and designers looking to explore new ideas or automate parts of their workflow.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-bvqousght",
             "title": "AI Adoption",
             "subtitle": "Synthesia shares insights on driving AI adoption at work",
@@ -1714,39 +1682,6 @@
             "isNew": false
         },
         {
-            "id": "t-zw88f0j10",
-            "title": "bet365 Upgrades",
-            "subtitle": "Flutter and bet365 debut product upgrades ahead of World Cup",
-            "category": "iGaming",
-            "tags": [
-                "bet365",
-                "Flutter",
-                "World Cup",
-                "Product Upgrades"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGFkSVFtNXhybmN2MU04RWd2Q2xxMkRQUk5jd3JQdTZEbWZoRndiVWlyZFNtYkJYNzU0d2M0MlMtLXhvbG1yM2xHdVhlVjJxazQ4N2pkUVpHNkpHQWJLbmtFUi1YdFlIVWVUUFFRN0ZrSkVvclZwb1BSRWhIWndtMm5JU2VvY2tGeEJHSElMTFRkTHpiZ3JsajM5SQ?oc=5",
-                "date": "2026-06-08T10:02:24.000Z"
-            },
-            "whatsNew": "Flutter and bet365 have debuted product upgrades ahead of the World Cup, likely to enhance user experience and attract more customers. The upgrades may include new features, improved interfaces, or enhanced betting options. This move is strategic, given the significant audience the World Cup commands.",
-            "whyItMatters": "The upgrades by Flutter and bet365 signify a competitive move in the iGaming industry, particularly in anticipation of a major event like the World Cup. It reflects the industry's focus on innovation and customer satisfaction to stay ahead.",
-            "howToUse": "Operators in the iGaming sector can take cue from these upgrades to enhance their own platforms, focusing on user experience, innovation, and timely strategic moves.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Betting Enthusiasts"
-            ],
-            "companies": [
-                "Flutter",
-                "bet365"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-x1dahn027",
             "title": "Angie Magica",
             "subtitle": "Reveal trailer for Angie Magica using Spine 2D",
@@ -2151,68 +2086,6 @@
             "isNew": false
         },
         {
-            "id": "t-y12nbo241",
-            "title": "AI Motion Graphics",
-            "subtitle": "Synthesia releases a free AI motion graphics generator requiring no design skills",
-            "category": "AI",
-            "tags": [
-                "AI Motion Graphics",
-                "Synthesia",
-                "No Design Skills"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfN2c1bHEyN2pEUjZoVWZGT240ZTNXVXdIVmU0QTZsdkdKbGl5SHVEMlNMVHFOZlNfb2RBX2F2dDgwVEJZQ2MxS0YwRmlWeUtGR3hmVl9rMk4yM0JheGc?oc=5",
-                "date": "2026-06-08T08:08:12.000Z"
-            },
-            "whatsNew": "Synthesia has introduced a free AI motion graphics generator that does not require any design skills, making it accessible to a broader range of users. This tool utilizes AI to create motion graphics. The generator is free, simplifying the process of creating professional-looking motion graphics.",
-            "whyItMatters": "This tool has the potential to democratize access to high-quality motion graphics, benefiting individuals and businesses without extensive design experience. It showcases the growing capability of AI in creative work.",
-            "howToUse": "Users can access the generator through Synthesia's platform, input their requirements, and let the AI handle the design and creation of motion graphics. This simplifies the workflow for those looking to add motion graphics to their projects without needing design expertise.",
-            "beneficiaries": [
-                "Content Creators",
-                "Small Businesses"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-tp7l6qcm3",
-            "title": "Mecca Bingo Update",
-            "subtitle": "Mecca Bingo Clubs receive attention from the UK Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Mecca Bingo",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbk1WWlpSVlVXRUtTcFhPTm9obm44TFE5Wi1NanV6aVdXT2dvUERpVHh3TmVfNHVhZ1lWTDh6TUZUck9ZNTlLc3ladUlzWlM5bTRXYUpSNUdWYW42U2N0MUtQQl9UWkI3NlZ6cVU4cV9icW5ZY0tCa1dONGJ2aXRaOVNzdw?oc=5",
-                "date": "2026-06-08T09:14:49.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has taken notice of Mecca Bingo Clubs, potentially indicating regulatory actions or updates. This could impact the operations of Mecca Bingo. The specifics of the attention are not detailed in the provided information.",
-            "whyItMatters": "This development matters because it could affect the regulatory landscape for bingo clubs and the broader iGaming industry in the UK. It may also have implications for consumer protection and gambling regulation.",
-            "howToUse": "Operators and stakeholders should monitor the situation closely for any updates or changes in regulations that might affect their operations or compliance requirements.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Mecca Bingo"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-9dsxlo56j",
             "title": "Finnish Licenses",
             "subtitle": "Finnish regulator receives 50 licence applications since March",
@@ -2270,95 +2143,6 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
-            "id": "t-xmuhg13i2",
-            "title": "New Director",
-            "subtitle": "DCMS appoints new director of sport and gambling",
-            "category": "iGaming",
-            "tags": [
-                "DCMS",
-                "Gambling Regulation",
-                "Sports Betting"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjdoYTNnWWRUTWFzUzZ2QldIVFdRVm9xZ0NyWF9UWVlVbnFSeUQ0UXR3ZUdDUVppVFZ4d3JuUFhFQ0dXaGxjTGQ1c0dkTmoySmRQeVNvNUdtYW9oakJMdDNhTDVTLVp4d1FCQ2JEQkJNanlRR2VDRFVmVFNIWEFqTlBJalFBZw?oc=5",
-                "date": "2026-06-08T09:01:34.000Z"
-            },
-            "whatsNew": "The DCMS has appointed a new director of sport and gambling, indicating potential changes in regulatory oversight. This move may impact the iGaming industry's operations and policies. The new director's priorities and approach are yet to be announced.",
-            "whyItMatters": "The appointment of a new director may lead to changes in gambling regulations, affecting the iGaming industry. This could impact companies' compliance and operational strategies.",
-            "howToUse": "iGaming companies should monitor DCMS announcements and adjust their strategies according to potential regulatory changes. Staying informed about the new director's priorities is crucial for compliance and business planning.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-ncq504pne",
-            "title": "Stake Marketing Campaign",
-            "subtitle": "Stake launches a new star-studded marketing campaign for the World Cup",
-            "category": "iGaming",
-            "tags": [
-                "Stake",
-                "Marketing Campaign",
-                "World Cup"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczNLN1BMUU9iUEtGY0V0YUo2U21CYzZHUmpBcE9nMFdJUnJoZFBral8tX3dfdUlpS2xpemY3cWpjd3lXa2tjNDl3NHAybkhUdm1DUzNaNmh2UTdIZ0NFRV9sUnFxLUJTQ1IyeTFCbDFyTnpSNEdCNVVPR1FGbktwLVhocHRKeUJvMXZfSzRTWnBxM1FicmdNdVBLZzJiUXFK?oc=5",
-                "date": "2026-06-08T10:46:43.000Z"
-            },
-            "whatsNew": "Stake has launched a new marketing campaign featuring stars for the World Cup, aiming to increase brand visibility and engagement. The campaign is part of Stake's efforts to expand its reach and customer base. This move highlights the growing importance of strategic marketing in the iGaming industry.",
-            "whyItMatters": "The campaign matters as it showcases Stake's commitment to innovative marketing strategies, potentially influencing other iGaming companies to follow suit. It also underscores the significance of the World Cup as a platform for iGaming marketing.",
-            "howToUse": "iGaming companies can leverage similar star-studded campaigns to boost their brand during major sporting events, focusing on engaging content and strategic partnerships.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Marketing Teams"
-            ],
-            "companies": [
-                "Stake"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-6d0vggc2x",
-            "title": "AI Art Update",
-            "subtitle": "ArtGourieff releases IFAQ T2I v1.1 on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "T2I",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlBYdm45TkFxM0pNN3BleHB4TFZHam0zaGFxaHJfNGVIUkxmazhRanRNTVotRXhxZEI5bG5YS2Q2U2FJMkdlZlBLWGFIMDI3YnhKN0UxQk5GODR3RGxsc2gyZnp5ZmUwU1Z4STVrOUJPcnJjOXJPQzVzRDhyNzA3ODRmU1N4QjYwenhMdg?oc=5",
-                "date": "2026-06-08T06:34:43.000Z"
-            },
-            "whatsNew": "ArtGourieff's IFAQ T2I model has been updated to version 1.1, offering improved performance and quality. The update is available on Civitai, a platform for AI workflows.",
-            "whyItMatters": "This update showcases the rapid advancement of AI art generation tools, providing artists and developers with more efficient and high-quality solutions. It highlights the growing importance of platforms like Civitai in facilitating access to these technologies.",
-            "howToUse": "Developers and artists can utilize the updated IFAQ T2I model by accessing it through Civitai, integrating it into their workflows to enhance their AI art generation capabilities.",
-            "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ],
@@ -2516,7 +2300,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": null
         },
         {
@@ -2535,7 +2319,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2544,7 +2328,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2553,7 +2337,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "Regulatory updates"
         },
         {
@@ -2571,7 +2355,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2580,7 +2364,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2600,7 +2384,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2658,7 +2442,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2667,7 +2451,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2676,7 +2460,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "Style browsing signal"
         },
         {
@@ -2713,7 +2497,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": null
         },
         {
@@ -2722,7 +2506,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": null
         },
         {
@@ -2731,7 +2515,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": null
         },
         {
@@ -2758,7 +2542,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2803,7 +2587,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T06:27:20.311Z",
+            "lastScan": "2026-06-22T12:48:25.354Z",
             "note": null
         },
         {
@@ -32548,6 +32332,222 @@
             "companies": [
                 "PromptHero"
             ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-mywnalbn9",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abzBGX0Z1ekl3UGY5eGhlY1Ricmx6T3lodDhaSTh3cEFZNFdiMnpVeUdocXBhR0pkRUdPM25haE84bmQ4Q08yekFCc1loTlV2b0NfbE1wenFjQjB5dDBuanVtcERhRHBtR2ZpTjF1cmIyTEVZVXc?oc=5",
+                "date": "2026-06-08T07:00:00.000Z"
+            },
+            "whatsNew": "PromptHero introduces a new way to generate images using ChatGPT, allowing for more creative and precise image creation. This tool enables users to input text prompts and receive generated images in response. The integration of ChatGPT with image generation capabilities opens up new possibilities for AI-assisted art and design.",
+            "whyItMatters": "The ability to generate images from text prompts using ChatGPT has significant implications for the fields of art, design, and entertainment, potentially streamlining creative processes and enabling new forms of expression. This technology could also impact the iGaming industry by providing innovative ways to create game assets and visuals.",
+            "howToUse": "To utilize this feature, users can visit prompthero.com and input their desired text prompts to generate images. This can be particularly useful for game developers, artists, and designers looking to explore new ideas or automate parts of their workflow.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-zw88f0j10",
+            "title": "bet365 Upgrades",
+            "subtitle": "Flutter and bet365 debut product upgrades ahead of World Cup",
+            "category": "iGaming",
+            "tags": [
+                "bet365",
+                "Flutter",
+                "World Cup",
+                "Product Upgrades"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGFkSVFtNXhybmN2MU04RWd2Q2xxMkRQUk5jd3JQdTZEbWZoRndiVWlyZFNtYkJYNzU0d2M0MlMtLXhvbG1yM2xHdVhlVjJxazQ4N2pkUVpHNkpHQWJLbmtFUi1YdFlIVWVUUFFRN0ZrSkVvclZwb1BSRWhIWndtMm5JU2VvY2tGeEJHSElMTFRkTHpiZ3JsajM5SQ?oc=5",
+                "date": "2026-06-08T10:02:24.000Z"
+            },
+            "whatsNew": "Flutter and bet365 have debuted product upgrades ahead of the World Cup, likely to enhance user experience and attract more customers. The upgrades may include new features, improved interfaces, or enhanced betting options. This move is strategic, given the significant audience the World Cup commands.",
+            "whyItMatters": "The upgrades by Flutter and bet365 signify a competitive move in the iGaming industry, particularly in anticipation of a major event like the World Cup. It reflects the industry's focus on innovation and customer satisfaction to stay ahead.",
+            "howToUse": "Operators in the iGaming sector can take cue from these upgrades to enhance their own platforms, focusing on user experience, innovation, and timely strategic moves.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Enthusiasts"
+            ],
+            "companies": [
+                "Flutter",
+                "bet365"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-y12nbo241",
+            "title": "AI Motion Graphics",
+            "subtitle": "Synthesia releases a free AI motion graphics generator requiring no design skills",
+            "category": "AI",
+            "tags": [
+                "AI Motion Graphics",
+                "Synthesia",
+                "No Design Skills"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfN2c1bHEyN2pEUjZoVWZGT240ZTNXVXdIVmU0QTZsdkdKbGl5SHVEMlNMVHFOZlNfb2RBX2F2dDgwVEJZQ2MxS0YwRmlWeUtGR3hmVl9rMk4yM0JheGc?oc=5",
+                "date": "2026-06-08T08:08:12.000Z"
+            },
+            "whatsNew": "Synthesia has introduced a free AI motion graphics generator that does not require any design skills, making it accessible to a broader range of users. This tool utilizes AI to create motion graphics. The generator is free, simplifying the process of creating professional-looking motion graphics.",
+            "whyItMatters": "This tool has the potential to democratize access to high-quality motion graphics, benefiting individuals and businesses without extensive design experience. It showcases the growing capability of AI in creative work.",
+            "howToUse": "Users can access the generator through Synthesia's platform, input their requirements, and let the AI handle the design and creation of motion graphics. This simplifies the workflow for those looking to add motion graphics to their projects without needing design expertise.",
+            "beneficiaries": [
+                "Content Creators",
+                "Small Businesses"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-tp7l6qcm3",
+            "title": "Mecca Bingo Update",
+            "subtitle": "Mecca Bingo Clubs receive attention from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Mecca Bingo",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbk1WWlpSVlVXRUtTcFhPTm9obm44TFE5Wi1NanV6aVdXT2dvUERpVHh3TmVfNHVhZ1lWTDh6TUZUck9ZNTlLc3ladUlzWlM5bTRXYUpSNUdWYW42U2N0MUtQQl9UWkI3NlZ6cVU4cV9icW5ZY0tCa1dONGJ2aXRaOVNzdw?oc=5",
+                "date": "2026-06-08T09:14:49.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken notice of Mecca Bingo Clubs, potentially indicating regulatory actions or updates. This could impact the operations of Mecca Bingo. The specifics of the attention are not detailed in the provided information.",
+            "whyItMatters": "This development matters because it could affect the regulatory landscape for bingo clubs and the broader iGaming industry in the UK. It may also have implications for consumer protection and gambling regulation.",
+            "howToUse": "Operators and stakeholders should monitor the situation closely for any updates or changes in regulations that might affect their operations or compliance requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Mecca Bingo"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xmuhg13i2",
+            "title": "New Director",
+            "subtitle": "DCMS appoints new director of sport and gambling",
+            "category": "iGaming",
+            "tags": [
+                "DCMS",
+                "Gambling Regulation",
+                "Sports Betting"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjdoYTNnWWRUTWFzUzZ2QldIVFdRVm9xZ0NyWF9UWVlVbnFSeUQ0UXR3ZUdDUVppVFZ4d3JuUFhFQ0dXaGxjTGQ1c0dkTmoySmRQeVNvNUdtYW9oakJMdDNhTDVTLVp4d1FCQ2JEQkJNanlRR2VDRFVmVFNIWEFqTlBJalFBZw?oc=5",
+                "date": "2026-06-08T09:01:34.000Z"
+            },
+            "whatsNew": "The DCMS has appointed a new director of sport and gambling, indicating potential changes in regulatory oversight. This move may impact the iGaming industry's operations and policies. The new director's priorities and approach are yet to be announced.",
+            "whyItMatters": "The appointment of a new director may lead to changes in gambling regulations, affecting the iGaming industry. This could impact companies' compliance and operational strategies.",
+            "howToUse": "iGaming companies should monitor DCMS announcements and adjust their strategies according to potential regulatory changes. Staying informed about the new director's priorities is crucial for compliance and business planning.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-ncq504pne",
+            "title": "Stake Marketing Campaign",
+            "subtitle": "Stake launches a new star-studded marketing campaign for the World Cup",
+            "category": "iGaming",
+            "tags": [
+                "Stake",
+                "Marketing Campaign",
+                "World Cup"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczNLN1BMUU9iUEtGY0V0YUo2U21CYzZHUmpBcE9nMFdJUnJoZFBral8tX3dfdUlpS2xpemY3cWpjd3lXa2tjNDl3NHAybkhUdm1DUzNaNmh2UTdIZ0NFRV9sUnFxLUJTQ1IyeTFCbDFyTnpSNEdCNVVPR1FGbktwLVhocHRKeUJvMXZfSzRTWnBxM1FicmdNdVBLZzJiUXFK?oc=5",
+                "date": "2026-06-08T10:46:43.000Z"
+            },
+            "whatsNew": "Stake has launched a new marketing campaign featuring stars for the World Cup, aiming to increase brand visibility and engagement. The campaign is part of Stake's efforts to expand its reach and customer base. This move highlights the growing importance of strategic marketing in the iGaming industry.",
+            "whyItMatters": "The campaign matters as it showcases Stake's commitment to innovative marketing strategies, potentially influencing other iGaming companies to follow suit. It also underscores the significance of the World Cup as a platform for iGaming marketing.",
+            "howToUse": "iGaming companies can leverage similar star-studded campaigns to boost their brand during major sporting events, focusing on engaging content and strategic partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "Stake"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6d0vggc2x",
+            "title": "AI Art Update",
+            "subtitle": "ArtGourieff releases IFAQ T2I v1.1 on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "T2I",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlBYdm45TkFxM0pNN3BleHB4TFZHam0zaGFxaHJfNGVIUkxmazhRanRNTVotRXhxZEI5bG5YS2Q2U2FJMkdlZlBLWGFIMDI3YnhKN0UxQk5GODR3RGxsc2gyZnp5ZmUwU1Z4STVrOUJPcnJjOXJPQzVzRDhyNzA3ODRmU1N4QjYwenhMdg?oc=5",
+                "date": "2026-06-08T06:34:43.000Z"
+            },
+            "whatsNew": "ArtGourieff's IFAQ T2I model has been updated to version 1.1, offering improved performance and quality. The update is available on Civitai, a platform for AI workflows.",
+            "whyItMatters": "This update showcases the rapid advancement of AI art generation tools, providing artists and developers with more efficient and high-quality solutions. It highlights the growing importance of platforms like Civitai in facilitating access to these technologies.",
+            "howToUse": "Developers and artists can utilize the updated IFAQ T2I model by accessing it through Civitai, integrating it into their workflows to enhance their AI art generation capabilities.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
