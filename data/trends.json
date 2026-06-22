@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-22T00:08:47.096Z",
+        "scanDate": "2026-06-22T06:27:20.311Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 75,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-llio16of8",
+            "title": "Spine 2D Issue",
+            "subtitle": "CustomMaterialOverride not working as expected after upgrading to 4.3 in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "CustomMaterialOverride",
+                "Upgrade Issue"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdk0yZG90c1RVcFBFQkRsZElfS0xuV3k2RnpXS1NST0J0cll2SklFbzhwNDlrSGRKZ1VTdkFYeWVWbTcwVTdQYl9YRHRhRXJ1ZDJmUElOUlFQVWRUZWlYZnZ0T3JVRWdCTGcwOTJsNnBwMFE4Z3pRc1B4cnhzUG4xcGVLSU5KeTdRdkZSbmlNQTVlWjRSbzFZSTZ1U3VoZ0tfUnJUR1VZQ25qcURxbnlyZw?oc=5",
+                "date": "2026-06-16T15:37:58.000Z"
+            },
+            "whatsNew": "The CustomMaterialOverride feature in Spine 2D is not working as expected after the upgrade to version 4.3. This issue may affect game development workflows that rely on this feature.",
+            "whyItMatters": "The malfunction of CustomMaterialOverride can hinder the development process of 2D games and animations that utilize Spine 2D, potentially delaying project timelines.",
+            "howToUse": "Developers should review the upgrade documentation and community forums for potential workarounds or fixes for the CustomMaterialOverride issue in Spine 2D version 4.3.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-jaj3b47et",
+            "title": "Spine 2D Animation",
+            "subtitle": "Spine 2D character setup pose between animations",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGxKTkljYUU5b3ZYSUhzU3p6Y3VXX1ZfZ1NIMTd0cVVPZm5nNmJkbkNKbFJUbVVuQzhoV3BuTFFUenAwNFE2MnhOejZDaVBrQmxJQlRLcUk5Q1dSS0xJZVRVOHB5enM1TmlyamJvNlMzTW0ta2xfWW5KbHFHd2lUa3RQbVhQWTFaUUUxaTFPaFV1c0tPdDh2WG5ZZV9SaFE?oc=5",
+                "date": "2026-06-20T15:26:30.000Z"
+            },
+            "whatsNew": "Spine 2D allows characters to get into a setup pose between animations, enhancing the animation experience. This feature is useful for game developers. It provides a more seamless transition between animations.",
+            "whyItMatters": "This feature improves the overall gaming experience by providing a more realistic and engaging character animation. It is particularly useful for game developers who use Spine 2D for their game development needs.",
+            "howToUse": "Game developers can utilize this feature by setting up their character animations in Spine 2D, allowing for a more polished and professional look. They can also experiment with different setup poses to find the one that works best for their game.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-r16nhtawm",
+            "title": "Spine 2D Trim",
+            "subtitle": "Understanding trim function in Spine 2D animation",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Animation",
+                "Trim Function"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQcW9fUWFCU2tuajEtQTJZc2p4M0Vtd0E4TjlMNFJvcDk3VDI5bG8wVWlJNVBvNWlYZHo4QzJvQUZ6STFEb0xsV3VjckFYd0JDTUczOVJaekktd21OaXl4bmk3RzZCT0pqRmd5ZDRpU1RqSDNLU2lyUjhHcmU0eHV0TGZzcEZNV20wdzZhMi1tend6azZ1RjJxdFViZEU1ZWtyRVFnNHlHeVNVXzVjNVphT05Jd2sxTlZOVVQ0WTFlUjFqaEVMTlhFenA5NzMxV1FlWUExMVI1VlUzZ2lLbE9ENFhaNTBONV92UEFmbTk4ak1yN29IS3VXb3Ayck5DNGFlMFVCODBXSjFLTEFMVGdUZ1NhdFpPRkJRUnAxUnhUYU12cGNYenl2TGlmSmhuRFRWejd6c0NsbUl0LUJ1bWxUZTdXOWJ5VlRTSXlHWGpGbG41dw?oc=5",
+                "date": "2026-06-13T15:19:06.000Z"
+            },
+            "whatsNew": "The article discusses the trim function in Spine 2D, a 2D animation tool, and its difference from trimming weights. It aims to clarify the functionality for users. The trim function is a feature that allows for adjusting the animation timeline.",
+            "whyItMatters": "Understanding the trim function in Spine 2D is crucial for efficient animation creation and editing. It helps in refining the animation process, making it more precise and controlled.",
+            "howToUse": "To utilize the trim function effectively, users should experiment with different trim settings and observe how it affects their animations, allowing for more nuanced control over the animation timeline.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-9lytmqenc",
             "title": "Ghibli Style",
@@ -2423,7 +2516,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": null
         },
         {
@@ -2442,7 +2535,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2451,7 +2544,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2460,7 +2553,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "Regulatory updates"
         },
         {
@@ -2478,7 +2571,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2487,7 +2580,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2507,7 +2600,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2565,7 +2658,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2574,7 +2667,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T14:03:37.698Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2583,7 +2676,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T14:03:37.698Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "Style browsing signal"
         },
         {
@@ -2620,7 +2713,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-21T11:44:07.615Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": null
         },
         {
@@ -2629,7 +2722,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-21T11:44:07.615Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": null
         },
         {
@@ -2638,7 +2731,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-21T08:28:38.323Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": null
         },
         {
@@ -2665,7 +2758,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-15T10:24:24.263Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2710,7 +2803,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T00:08:47.096Z",
+            "lastScan": "2026-06-22T06:27:20.311Z",
             "note": null
         },
         {
