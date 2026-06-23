@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-23T14:57:02.378Z",
+        "scanDate": "2026-06-23T17:17:17.850Z",
         "version": "2.5.0",
-        "totalTrends": 67,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-kwhszllh6",
@@ -82,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8rhwvghr0",
@@ -1400,38 +1400,6 @@
             "isNew": false
         },
         {
-            "id": "t-hw0jybems",
-            "title": "Kalshi Sportradar Deal",
-            "subtitle": "Kalshi's partnership with Sportradar to enhance credibility with regulators",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "Regulation",
-                "Partnership"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVVycDktLV9IRVgyLTg4TDNzb0l4dVI0QWFBNEtnb21hQXhFVm9FNDlDMGVHTEljbi11UHJYRlNWdjQxWVZ3bmNxdHdTdno0NW1kYmhkWWgxTTZZQnQtd01MMG1pMWJsYURXYzd3eFRSQTVVak9YbmxyZWFxTlBjT3BhMmVKRFlvd0tGUnVuU1VUbE8tdVFzbUZzLXVCXzY0dmlkLXU0dkRoMTNkNVU5YW1XMHlpUQ?oc=5",
-                "date": "2026-06-09T16:08:04.000Z"
-            },
-            "whatsNew": "Kalshi has partnered with Sportradar to enhance its credibility with regulators. This deal is expected to improve Kalshi's standing in the industry.",
-            "whyItMatters": "The partnership will help Kalshi gain more trust with regulators, potentially leading to increased market access and growth. This is a significant development in the sports betting sector.",
-            "howToUse": "Companies can learn from Kalshi's strategy and explore similar partnerships to improve their regulatory credibility. This can be a key factor in expanding their market reach.",
-            "beneficiaries": [
-                "Sports Betting Operators",
-                "Regulators"
-            ],
-            "companies": [
-                "Kalshi",
-                "Sportradar"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-iopxzmwms",
             "title": "Nevada vs Kalshi",
             "subtitle": "Nevada regulator requests Kalshi be held in contempt of court related to potential iGaming regulation issues",
@@ -1460,35 +1428,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-ezi69leq6",
-            "title": "NY Sports Betting",
-            "subtitle": "New York sports betting revenue declines in May",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "New York",
-                "Revenue"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpCbXdXR0FOUW4yX3IzSF9tRWZWYmU0VzNZcVlYRnQ0ODZPckVfS3p1R1k3RFZZZURUeXZ2NlFIcFpZcnBIVmpnWHpFWHRVRFZwdlNoQmFyUFhIZ0R0ekhiYzRVOFFuUThHZUQ5LVFjXzItOEJ5dm5tZmNCS1BaZmZxMmdxeGZKdUtjc3oyaGRRUE9vOFlzOTlFaXF5b0pwOUE?oc=5",
-                "date": "2026-06-09T15:17:52.000Z"
-            },
-            "whatsNew": "New York's sports betting revenue has decreased in May, following previous months' high earnings. The decline is attributed to various factors, including seasonal changes in sports events. This shift may impact the state's overall gambling revenue.",
-            "whyItMatters": "The decline in sports betting revenue may influence the iGaming industry's growth and regulation in New York. It also affects the state's tax income from gambling activities.",
-            "howToUse": "Operators should analyze the decline in revenue and adjust their strategies to attract more customers and increase engagement. They can also explore new marketing techniques to compensate for the loss.",
-            "beneficiaries": [
-                "Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -1712,38 +1651,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-3rd8u9o7m",
-            "title": "AI Art Generation",
-            "subtitle": "Using Ideogram prompts for editorial photoshoots in pastel settings",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Ideogram Prompts"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcG0xcW5rOEdQdU56RWYtdUhtdmFIeE0yRzN1b3ZQM3Y1b0FwcldnVUtqTkpKMkxqUElOUDRBOWpCN1VCUXhzY01PNDZtTy1Tbi1LcURmSC1lQnNFQW9vMjgwZTF2aTU5b0hDMmhDUjhfSkVvUjFNem1HbW9GeF83V3FmMFNRdVVYRnNFQUhDUHNDc3VReXpydDN2TjBJZmZVWFROQUdqNDNSekpxb09EX1hKdlZKbHBqcFhvZllueENSMEQ5SDkycGg5UGFEY2hhaExJM2dlcWxDajg0bS11VkVmRmpWRWo2WGc2VWIwaXpLTXM1ZDVTMUFpR3lWZGY0Qkc4a2YzYmNFcUV3U25qcThB?oc=5",
-                "date": "2026-06-09T16:27:05.000Z"
-            },
-            "whatsNew": "The use of Ideogram prompts for generating editorial photoshoots in pastel settings is a new trend in AI art generation. This technique allows for the creation of unique and stylized images. The application of pastel colors adds a soft and dreamy quality to the generated images.",
-            "whyItMatters": "This trend matters because it showcases the potential of AI in creative fields, particularly in art and design. It also highlights the importance of prompts in AI image generation, allowing for more specific and detailed outputs.",
-            "howToUse": "To use this trend, artists and designers can experiment with Ideogram prompts and pastel color palettes to generate unique and stylized images for editorial or commercial use. They can also combine this technique with other AI tools for further editing and refinement.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Photographers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2085,37 +1992,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-9fo7pu4e6",
-            "title": "DraftKings Growth",
-            "subtitle": "DraftKings Predictions sees $3.1bn annualized trading volume in May",
-            "category": "iGaming",
-            "tags": [
-                "DraftKings",
-                "Sports Betting",
-                "Trading Volume"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlFUVEFsaUNCaUdqNEVTM0VwS1I3THZnLVpMZmxxQXBkZ0puOUlweWpGUUIyUEpBYWFyMmdUSFRFb1VPY2tGU1FBalhWNHRTT00xSWl6UFZvcVZjUmNBWGFZNlFZSXRDZzFzekFxdE5QX1dJekY4dFlVNnJNZXRmN19CX0w3dl91ZE1XYmJSVXJNSEdiSGVnQl9laVR5REtVeE5OaEJkWXhCN3gwdU9hVktiZTR2VkQtQmc?oc=5",
-                "date": "2026-06-09T16:08:12.000Z"
-            },
-            "whatsNew": "DraftKings Predictions has achieved a significant milestone with $3.1bn in annualized trading volume during May, indicating strong growth in the sports betting sector. This surge in trading volume reflects increasing user engagement and confidence in the platform. The achievement positions DraftKings as a major player in the iGaming industry.",
-            "whyItMatters": "The substantial trading volume underscores the potential for significant revenue generation and highlights the growing importance of sports betting in the iGaming landscape. It also indicates a competitive edge for DraftKings in the market.",
-            "howToUse": "Operators and investors can leverage this trend by focusing on enhancing user experience, expanding market reach, and developing innovative betting products to capitalize on the growing demand for sports betting.",
-            "beneficiaries": [
-                "Investors",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "DraftKings"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2272,7 +2148,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.378Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": null
         },
         {
@@ -2291,7 +2167,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-23T14:57:02.378Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2300,7 +2176,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.378Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2309,7 +2185,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.378Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": "Regulatory updates"
         },
         {
@@ -2327,7 +2203,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.378Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2336,7 +2212,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.378Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2356,7 +2232,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-23T14:57:02.379Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2414,7 +2290,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.379Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2559,7 +2435,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.379Z",
+            "lastScan": "2026-06-23T17:17:17.850Z",
             "note": null
         },
         {
@@ -32803,6 +32679,130 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-hw0jybems",
+            "title": "Kalshi Sportradar Deal",
+            "subtitle": "Kalshi's partnership with Sportradar to enhance credibility with regulators",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "Regulation",
+                "Partnership"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVVycDktLV9IRVgyLTg4TDNzb0l4dVI0QWFBNEtnb21hQXhFVm9FNDlDMGVHTEljbi11UHJYRlNWdjQxWVZ3bmNxdHdTdno0NW1kYmhkWWgxTTZZQnQtd01MMG1pMWJsYURXYzd3eFRSQTVVak9YbmxyZWFxTlBjT3BhMmVKRFlvd0tGUnVuU1VUbE8tdVFzbUZzLXVCXzY0dmlkLXU0dkRoMTNkNVU5YW1XMHlpUQ?oc=5",
+                "date": "2026-06-09T16:08:04.000Z"
+            },
+            "whatsNew": "Kalshi has partnered with Sportradar to enhance its credibility with regulators. This deal is expected to improve Kalshi's standing in the industry.",
+            "whyItMatters": "The partnership will help Kalshi gain more trust with regulators, potentially leading to increased market access and growth. This is a significant development in the sports betting sector.",
+            "howToUse": "Companies can learn from Kalshi's strategy and explore similar partnerships to improve their regulatory credibility. This can be a key factor in expanding their market reach.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "Kalshi",
+                "Sportradar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ezi69leq6",
+            "title": "NY Sports Betting",
+            "subtitle": "New York sports betting revenue declines in May",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "New York",
+                "Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpCbXdXR0FOUW4yX3IzSF9tRWZWYmU0VzNZcVlYRnQ0ODZPckVfS3p1R1k3RFZZZURUeXZ2NlFIcFpZcnBIVmpnWHpFWHRVRFZwdlNoQmFyUFhIZ0R0ekhiYzRVOFFuUThHZUQ5LVFjXzItOEJ5dm5tZmNCS1BaZmZxMmdxeGZKdUtjc3oyaGRRUE9vOFlzOTlFaXF5b0pwOUE?oc=5",
+                "date": "2026-06-09T15:17:52.000Z"
+            },
+            "whatsNew": "New York's sports betting revenue has decreased in May, following previous months' high earnings. The decline is attributed to various factors, including seasonal changes in sports events. This shift may impact the state's overall gambling revenue.",
+            "whyItMatters": "The decline in sports betting revenue may influence the iGaming industry's growth and regulation in New York. It also affects the state's tax income from gambling activities.",
+            "howToUse": "Operators should analyze the decline in revenue and adjust their strategies to attract more customers and increase engagement. They can also explore new marketing techniques to compensate for the loss.",
+            "beneficiaries": [
+                "Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-3rd8u9o7m",
+            "title": "AI Art Generation",
+            "subtitle": "Using Ideogram prompts for editorial photoshoots in pastel settings",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Ideogram Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcG0xcW5rOEdQdU56RWYtdUhtdmFIeE0yRzN1b3ZQM3Y1b0FwcldnVUtqTkpKMkxqUElOUDRBOWpCN1VCUXhzY01PNDZtTy1Tbi1LcURmSC1lQnNFQW9vMjgwZTF2aTU5b0hDMmhDUjhfSkVvUjFNem1HbW9GeF83V3FmMFNRdVVYRnNFQUhDUHNDc3VReXpydDN2TjBJZmZVWFROQUdqNDNSekpxb09EX1hKdlZKbHBqcFhvZllueENSMEQ5SDkycGg5UGFEY2hhaExJM2dlcWxDajg0bS11VkVmRmpWRWo2WGc2VWIwaXpLTXM1ZDVTMUFpR3lWZGY0Qkc4a2YzYmNFcUV3U25qcThB?oc=5",
+                "date": "2026-06-09T16:27:05.000Z"
+            },
+            "whatsNew": "The use of Ideogram prompts for generating editorial photoshoots in pastel settings is a new trend in AI art generation. This technique allows for the creation of unique and stylized images. The application of pastel colors adds a soft and dreamy quality to the generated images.",
+            "whyItMatters": "This trend matters because it showcases the potential of AI in creative fields, particularly in art and design. It also highlights the importance of prompts in AI image generation, allowing for more specific and detailed outputs.",
+            "howToUse": "To use this trend, artists and designers can experiment with Ideogram prompts and pastel color palettes to generate unique and stylized images for editorial or commercial use. They can also combine this technique with other AI tools for further editing and refinement.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Photographers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-9fo7pu4e6",
+            "title": "DraftKings Growth",
+            "subtitle": "DraftKings Predictions sees $3.1bn annualized trading volume in May",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Sports Betting",
+                "Trading Volume"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlFUVEFsaUNCaUdqNEVTM0VwS1I3THZnLVpMZmxxQXBkZ0puOUlweWpGUUIyUEpBYWFyMmdUSFRFb1VPY2tGU1FBalhWNHRTT00xSWl6UFZvcVZjUmNBWGFZNlFZSXRDZzFzekFxdE5QX1dJekY4dFlVNnJNZXRmN19CX0w3dl91ZE1XYmJSVXJNSEdiSGVnQl9laVR5REtVeE5OaEJkWXhCN3gwdU9hVktiZTR2VkQtQmc?oc=5",
+                "date": "2026-06-09T16:08:12.000Z"
+            },
+            "whatsNew": "DraftKings Predictions has achieved a significant milestone with $3.1bn in annualized trading volume during May, indicating strong growth in the sports betting sector. This surge in trading volume reflects increasing user engagement and confidence in the platform. The achievement positions DraftKings as a major player in the iGaming industry.",
+            "whyItMatters": "The substantial trading volume underscores the potential for significant revenue generation and highlights the growing importance of sports betting in the iGaming landscape. It also indicates a competitive edge for DraftKings in the market.",
+            "howToUse": "Operators and investors can leverage this trend by focusing on enhancing user experience, expanding market reach, and developing innovative betting products to capitalize on the growing demand for sports betting.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
