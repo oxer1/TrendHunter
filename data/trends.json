@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-23T11:58:31.690Z",
+        "scanDate": "2026-06-23T14:57:02.378Z",
         "version": "2.5.0",
         "totalTrends": 67,
         "categories": [
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-l268oww8j",
+            "title": "LTX Director 2",
+            "subtitle": "Civitai releases LTX Director 2 SEED HUNTER workflow v1.0 for video creation",
+            "category": "AI",
+            "tags": [
+                "LTX Director 2",
+                "SEED HUNTER",
+                "Civitai",
+                "Video Workflows"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNmNmS0F2cWJpUXpYVEppMXVDSlppdGZIWjViNWlkUUhhTGZTY1kybHlTSmJMZUY4dHRjVHJBcTJDVkdkUXJERk9veUhzc2VhS08tSjAwRnNqWmZMWVVIRFEweXcxWExzUmk3M1h2dDR2R0RQSUhLdFhB?oc=5",
+                "date": "2026-06-21T23:45:30.000Z"
+            },
+            "whatsNew": "Civitai introduces the LTX Director 2 SEED HUNTER workflow, a new tool for video creation. This workflow is designed to streamline video production. The release of this workflow marks a significant update to Civitai's offerings.",
+            "whyItMatters": "The LTX Director 2 SEED HUNTER workflow has the potential to significantly impact video creation by providing a more efficient and streamlined process. This could be particularly beneficial for creators and studios looking to produce high-quality video content.",
+            "howToUse": "To leverage the LTX Director 2 SEED HUNTER workflow, users can explore Civitai's resources and documentation to learn how to integrate this tool into their video production pipeline. By doing so, they can take advantage of the workflow's features to enhance their video creation capabilities.",
+            "beneficiaries": [
+                "Video Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-kwhszllh6",
+            "title": "AI Art Prompts",
+            "subtitle": "FLUX Prompts for generating female Germanic barbarian art with Teutonic tattoos",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "FLUX Prompts",
+                "Teutonic Tattoos"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1xX0hLWHpVM291S040ellfbXhBZWU5WDl6Mk9vd014MXhnbzZ5cFNwWWpqVTRnYTV4ZVlZRzUtM0xpZUd2dU80WEdnR3ZsMHgxaWd0RWJ3UEVWeVhqOGdvZ3JWclAwM19HeDBodFByT2tCUkpRRUxMZzFmM2R3NHVoWWV3OUp6a3ZoVTUtblI5d1dGc2xuMWwzdzZzYmRqMTdMd0kzTms1QQ?oc=5",
+                "date": "2026-06-17T21:15:27.000Z"
+            },
+            "whatsNew": "The use of FLUX Prompts for generating art of female Germanic barbarians with Teutonic tattoos is a novel application of AI art generation. This trend showcases the versatility of AI in creating unique and culturally-inspired art. The specificity of the prompts allows for highly detailed and customized art pieces.",
+            "whyItMatters": "This trend matters because it demonstrates the potential of AI in generating art that is not only aesthetically pleasing but also culturally significant. It also highlights the growing interest in using AI for creative purposes beyond traditional applications.",
+            "howToUse": "To utilize this trend, artists and designers can experiment with FLUX Prompts to generate their own unique pieces of art inspired by Germanic barbarian culture and Teutonic tattoos. They can also use these prompts as a starting point for further customization and refinement.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-8rhwvghr0",
             "title": "AI Avatars",
@@ -1929,37 +1993,6 @@
             "isNew": false
         },
         {
-            "id": "t-d6bxcynmo",
-            "title": "AI Image Generator",
-            "subtitle": "Grok Imagine is an AI-powered image and video generator with audio capabilities",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "Video Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzeEV2SUU5MENYOXhNNzl3R3hZdGZCb0xCb1FmdmpkSFdsclQ2MGZ0NlhQZlk1cUEtWVl5dl93eXI0ZkFHR0pXS05acVE5eWpmNHFF?oc=5",
-                "date": "2026-06-09T12:43:50.000Z"
-            },
-            "whatsNew": "Grok Imagine introduces an innovative AI image and video generator that also incorporates audio, marking a significant advancement in AI creative tools. This technology has the potential to revolutionize content creation. It allows for more immersive and engaging experiences.",
-            "whyItMatters": "The integration of audio into AI image and video generation opens up new possibilities for creators, enhancing the overall quality and impact of their work. This could significantly influence the future of digital content creation.",
-            "howToUse": "Content creators can utilize Grok Imagine to produce high-quality, engaging visual content with accompanying audio, streamlining their workflow and expanding their creative capabilities.",
-            "beneficiaries": [
-                "Content Creators",
-                "Digital Artists"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-1x70cdag6",
             "title": "AI Art Generator",
             "subtitle": "OpenArt introduces an AI tool to create professional podcast cover art in seconds",
@@ -2051,38 +2084,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-c6oep8snq",
-            "title": "AI Creator Studio",
-            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Video Creation",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RN3A3b0UxZUpGcWE3WVFQbUdpUHNaRkIzM0x4TG9xc3ZMNDE0Q2hqUVNnY3cycFFrMEswRXVoN0tMT0t4aVdaaG5IeS0wUXg2cmtrQnB2akhUUUVucXdnYURUUU9QQQ?oc=5",
-                "date": "2026-06-09T12:58:45.000Z"
-            },
-            "whatsNew": "OpenArt's AI Creator Studio allows users to generate high-quality videos and images using AI technology. This studio provides a range of tools and features for creative professionals. The platform aims to simplify the content creation process.",
-            "whyItMatters": "The AI Creator Studio has the potential to revolutionize the content creation industry by providing a user-friendly and efficient way to produce high-quality videos and images. This can be particularly impactful for the iGaming and game development industries, where visual content plays a crucial role.",
-            "howToUse": "Content creators can utilize the AI Creator Studio by signing up for the platform and exploring its various features and tools. They can then use the studio to generate videos and images tailored to their specific needs.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers",
-                "iGaming Professionals"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2271,7 +2272,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.378Z",
             "note": null
         },
         {
@@ -2290,7 +2291,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.378Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2299,7 +2300,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.378Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2308,7 +2309,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.378Z",
             "note": "Regulatory updates"
         },
         {
@@ -2326,7 +2327,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.378Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2335,7 +2336,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.378Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2355,7 +2356,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.379Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2413,7 +2414,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.379Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2422,7 +2423,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.379Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2431,7 +2432,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.379Z",
             "note": "Style browsing signal"
         },
         {
@@ -2558,7 +2559,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T11:58:31.690Z",
+            "lastScan": "2026-06-23T14:57:02.379Z",
             "note": null
         },
         {
@@ -32739,6 +32740,69 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-d6bxcynmo",
+            "title": "AI Image Generator",
+            "subtitle": "Grok Imagine is an AI-powered image and video generator with audio capabilities",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Video Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzeEV2SUU5MENYOXhNNzl3R3hZdGZCb0xCb1FmdmpkSFdsclQ2MGZ0NlhQZlk1cUEtWVl5dl93eXI0ZkFHR0pXS05acVE5eWpmNHFF?oc=5",
+                "date": "2026-06-09T12:43:50.000Z"
+            },
+            "whatsNew": "Grok Imagine introduces an innovative AI image and video generator that also incorporates audio, marking a significant advancement in AI creative tools. This technology has the potential to revolutionize content creation. It allows for more immersive and engaging experiences.",
+            "whyItMatters": "The integration of audio into AI image and video generation opens up new possibilities for creators, enhancing the overall quality and impact of their work. This could significantly influence the future of digital content creation.",
+            "howToUse": "Content creators can utilize Grok Imagine to produce high-quality, engaging visual content with accompanying audio, streamlining their workflow and expanding their creative capabilities.",
+            "beneficiaries": [
+                "Content Creators",
+                "Digital Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-c6oep8snq",
+            "title": "AI Creator Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Creation",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RN3A3b0UxZUpGcWE3WVFQbUdpUHNaRkIzM0x4TG9xc3ZMNDE0Q2hqUVNnY3cycFFrMEswRXVoN0tMT0t4aVdaaG5IeS0wUXg2cmtrQnB2akhUUUVucXdnYURUUU9QQQ?oc=5",
+                "date": "2026-06-09T12:58:45.000Z"
+            },
+            "whatsNew": "OpenArt's AI Creator Studio allows users to generate high-quality videos and images using AI technology. This studio provides a range of tools and features for creative professionals. The platform aims to simplify the content creation process.",
+            "whyItMatters": "The AI Creator Studio has the potential to revolutionize the content creation industry by providing a user-friendly and efficient way to produce high-quality videos and images. This can be particularly impactful for the iGaming and game development industries, where visual content plays a crucial role.",
+            "howToUse": "Content creators can utilize the AI Creator Studio by signing up for the platform and exploring its various features and tools. They can then use the studio to generate videos and images tailored to their specific needs.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers",
+                "iGaming Professionals"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
