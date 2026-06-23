@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-23T08:30:47.498Z",
+        "scanDate": "2026-06-23T11:58:31.690Z",
         "version": "2.5.0",
-        "totalTrends": 70,
+        "totalTrends": 67,
         "categories": [
             "iGaming",
             "AI",
@@ -1082,38 +1082,6 @@
             "isNew": false
         },
         {
-            "id": "t-n46kq9s5m",
-            "title": "AI Video Director",
-            "subtitle": "OpenArt introduces AI-powered video direction tool",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "OpenArt",
-                "Video Direction"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbHh2ZUM3cGtMVW5tNExOUG9DWjhLZDlkay1hNHdxeE53Mld6ZzlBZnRrUEhrMVlKTHNEWFZfdjRtZUVldFFfc01XU19KTDJzX01UMmNRRm0?oc=5",
-                "date": "2026-06-09T10:25:43.000Z"
-            },
-            "whatsNew": "OpenArt Director uses AI to direct videos, providing a new level of creative control. This tool allows users to easily create professional-looking videos with minimal effort. The AI technology behind OpenArt Director enables real-time adjustments and enhancements.",
-            "whyItMatters": "The introduction of OpenArt Director has the potential to revolutionize the video creation process, making it more accessible and efficient for creators. This tool can benefit various industries, including filmmaking, advertising, and social media.",
-            "howToUse": "To utilize OpenArt Director, users can simply upload their video content and let the AI technology work its magic, providing a customized and polished final product. Creators can also fine-tune the AI's suggestions to fit their specific vision.",
-            "beneficiaries": [
-                "Video Creators",
-                "Advertisers",
-                "Filmmakers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-owkl5tszw",
             "title": "FLUX2 Workflow",
             "subtitle": "Civitai introduces FLUX2 Klein_9b Pro Grade Workflow with Controlnet and GGUF capabilities",
@@ -2023,37 +1991,6 @@
             "isNew": false
         },
         {
-            "id": "t-k149l5o8u",
-            "title": "Spine 2D Feature",
-            "subtitle": "Request for filtering skins with attachments in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Game Development",
-                "Feature Request"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVpSeFg2Ujl6Q3p0MXM5emNCT0M2RDlXNjJaNFlxTXo4OTJUN2VLMkNKbi01OVRlSWZ1NXFKU0duQlBJdDBVZUVrS1ZKSHNtd1R0WHdNS3NGbEs5cm9MYklUYTJvWE5BNkJRbUtNbG04SXB0ejJwdWpvdTlKeE9aNzBQdTg0Q3Myb09DTjFYekJNeER2ejZGN1hrTVZvamRNb2JEb0VkQUs?oc=5",
-                "date": "2026-06-09T10:23:28.000Z"
-            },
-            "whatsNew": "A feature request has been made for Spine 2D to add an option to only show skins with attachments, aiming to improve workflow efficiency.",
-            "whyItMatters": "This feature could enhance user experience and productivity in game development using Spine 2D by simplifying skin management.",
-            "howToUse": "Developers can potentially utilize this feature to streamline their workflow once it's implemented, focusing on skins with attachments for more efficient project management.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-2bop1hjnd",
             "title": "Spine 2D Skeleton",
             "subtitle": "Understanding the center of skeleton in Spine 2D",
@@ -2177,35 +2114,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-9dsxlo56j",
-            "title": "Finnish Licenses",
-            "subtitle": "Finnish regulator receives 50 licence applications since March",
-            "category": "iGaming",
-            "tags": [
-                "Finnish regulator",
-                "licence applications",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHRmdjItNFVDZzdSSno0QnBCUjZ2MS1zT2pQd19vcnIyQkd1eU9jczVJQkplX2JEbkVLb3pScFVnc0YzOTExbnF2ZWxFSmFXRHZlaEMyanJ5eTVFcmRIM2hvWUFsU1haTHpXd2lSTk9ob3pSR18yMWx0UDlBQW1vYldNa2ZhNTY1eHFIU0lKOE5sMV9BRG5uenBMVDdkZTJndVdyUkFlbEw2blFzRGNRUjN3cw?oc=5",
-                "date": "2026-06-09T09:25:33.000Z"
-            },
-            "whatsNew": "The Finnish regulator has seen a surge in licence applications, with 50 submitted since March. This indicates a growing interest in the Finnish iGaming market. The regulator's decision on these applications will shape the market's future.",
-            "whyItMatters": "The influx of licence applications in Finland highlights the country's potential for iGaming growth. It also underscores the importance of regulatory oversight in shaping the industry's development.",
-            "howToUse": "Operators looking to enter the Finnish market should prepare for a potentially competitive landscape and ensure compliance with local regulations.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Finnish regulator"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         }
     ],
@@ -2363,7 +2271,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": null
         },
         {
@@ -2382,7 +2290,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2391,7 +2299,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2400,7 +2308,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "Regulatory updates"
         },
         {
@@ -2418,7 +2326,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2427,7 +2335,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2447,7 +2355,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2505,7 +2413,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2514,7 +2422,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2523,7 +2431,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": "Style browsing signal"
         },
         {
@@ -2650,7 +2558,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T08:30:47.498Z",
+            "lastScan": "2026-06-23T11:58:31.690Z",
             "note": null
         },
         {
@@ -32739,6 +32647,98 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-n46kq9s5m",
+            "title": "AI Video Director",
+            "subtitle": "OpenArt introduces AI-powered video direction tool",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "OpenArt",
+                "Video Direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbHh2ZUM3cGtMVW5tNExOUG9DWjhLZDlkay1hNHdxeE53Mld6ZzlBZnRrUEhrMVlKTHNEWFZfdjRtZUVldFFfc01XU19KTDJzX01UMmNRRm0?oc=5",
+                "date": "2026-06-09T10:25:43.000Z"
+            },
+            "whatsNew": "OpenArt Director uses AI to direct videos, providing a new level of creative control. This tool allows users to easily create professional-looking videos with minimal effort. The AI technology behind OpenArt Director enables real-time adjustments and enhancements.",
+            "whyItMatters": "The introduction of OpenArt Director has the potential to revolutionize the video creation process, making it more accessible and efficient for creators. This tool can benefit various industries, including filmmaking, advertising, and social media.",
+            "howToUse": "To utilize OpenArt Director, users can simply upload their video content and let the AI technology work its magic, providing a customized and polished final product. Creators can also fine-tune the AI's suggestions to fit their specific vision.",
+            "beneficiaries": [
+                "Video Creators",
+                "Advertisers",
+                "Filmmakers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-k149l5o8u",
+            "title": "Spine 2D Feature",
+            "subtitle": "Request for filtering skins with attachments in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Feature Request"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVpSeFg2Ujl6Q3p0MXM5emNCT0M2RDlXNjJaNFlxTXo4OTJUN2VLMkNKbi01OVRlSWZ1NXFKU0duQlBJdDBVZUVrS1ZKSHNtd1R0WHdNS3NGbEs5cm9MYklUYTJvWE5BNkJRbUtNbG04SXB0ejJwdWpvdTlKeE9aNzBQdTg0Q3Myb09DTjFYekJNeER2ejZGN1hrTVZvamRNb2JEb0VkQUs?oc=5",
+                "date": "2026-06-09T10:23:28.000Z"
+            },
+            "whatsNew": "A feature request has been made for Spine 2D to add an option to only show skins with attachments, aiming to improve workflow efficiency.",
+            "whyItMatters": "This feature could enhance user experience and productivity in game development using Spine 2D by simplifying skin management.",
+            "howToUse": "Developers can potentially utilize this feature to streamline their workflow once it's implemented, focusing on skins with attachments for more efficient project management.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-9dsxlo56j",
+            "title": "Finnish Licenses",
+            "subtitle": "Finnish regulator receives 50 licence applications since March",
+            "category": "iGaming",
+            "tags": [
+                "Finnish regulator",
+                "licence applications",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHRmdjItNFVDZzdSSno0QnBCUjZ2MS1zT2pQd19vcnIyQkd1eU9jczVJQkplX2JEbkVLb3pScFVnc0YzOTExbnF2ZWxFSmFXRHZlaEMyanJ5eTVFcmRIM2hvWUFsU1haTHpXd2lSTk9ob3pSR18yMWx0UDlBQW1vYldNa2ZhNTY1eHFIU0lKOE5sMV9BRG5uenBMVDdkZTJndVdyUkFlbEw2blFzRGNRUjN3cw?oc=5",
+                "date": "2026-06-09T09:25:33.000Z"
+            },
+            "whatsNew": "The Finnish regulator has seen a surge in licence applications, with 50 submitted since March. This indicates a growing interest in the Finnish iGaming market. The regulator's decision on these applications will shape the market's future.",
+            "whyItMatters": "The influx of licence applications in Finland highlights the country's potential for iGaming growth. It also underscores the importance of regulatory oversight in shaping the industry's development.",
+            "howToUse": "Operators looking to enter the Finnish market should prepare for a potentially competitive landscape and ensure compliance with local regulations.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Finnish regulator"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
