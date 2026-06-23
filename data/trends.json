@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-23T17:17:17.850Z",
+        "scanDate": "2026-06-23T19:58:47.058Z",
         "version": "2.5.0",
         "totalTrends": 63,
         "categories": [
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-549fhrjs1",
+            "title": "AI Creator Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HS2tHMFpLSTNHdWpTLTctSFhUQXlKMl9Hc1FOM0txaHFGREpPXzd4WkJFcXRnTWlwb0oyVEozVWFQQmVJeWZLVUlqNnFJV3BUTEUxbA?oc=5",
+                "date": "2026-06-22T04:34:23.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI Creator Studio, enabling users to generate high-quality videos and images using AI. This studio utilizes advanced AI algorithms to produce unique and customized content. The platform is designed to simplify the content creation process.",
+            "whyItMatters": "The AI Creator Studio by OpenArt has the potential to revolutionize the content creation industry by providing users with an efficient and innovative way to produce high-quality videos and images. This can be particularly beneficial for the iGaming and game development sectors, where engaging visuals are crucial.",
+            "howToUse": "Users can leverage the AI Creator Studio by accessing the OpenArt platform and utilizing its intuitive interface to generate customized videos and images. This can be achieved by inputting specific parameters and allowing the AI algorithms to produce the desired content.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-tjrrkgzi3",
+            "title": "OpenArt Director",
+            "subtitle": "A guide on using OpenArt Director for video direction",
+            "category": "AI",
+            "tags": [
+                "OpenArt",
+                "Video Tools",
+                "AI Direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KNHBIc3c2Y1d5elNmYTMyUHJMaEU4bFJJem5PSlc4VEFKNU40MFFJX3d2MktKTUowNjl5MnV5X2JrOFEzekR0UFBuMFBpcWEyNTdDSVFuVW16eXFBb1I3cg?oc=5",
+                "date": "2026-06-23T15:45:40.000Z"
+            },
+            "whatsNew": "OpenArt Director allows users to direct any video with its Vibe Direct feature, simplifying video editing with AI. This tool enables easy manipulation of video content. OpenArt provides a user-friendly interface for video direction.",
+            "whyItMatters": "The OpenArt Director simplifies video editing, making it accessible to a broader range of users. This tool has the potential to revolutionize the video editing industry with its AI-powered features.",
+            "howToUse": "To use OpenArt Director, simply upload your video and utilize the Vibe Direct feature to manipulate the content as desired. The interface is designed to be user-friendly, allowing for easy navigation and editing.",
+            "beneficiaries": [
+                "Video Editors",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-l268oww8j",
             "title": "LTX Director 2",
@@ -1900,68 +1963,6 @@
             "isNew": false
         },
         {
-            "id": "t-1x70cdag6",
-            "title": "AI Art Generator",
-            "subtitle": "OpenArt introduces an AI tool to create professional podcast cover art in seconds",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Podcast Cover",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVUtWbm9MR2lQdTd3cHVoLU1TWUE5cFg4X1dubkZaRXBWN01JYUJHdW1tMWpvdUIyaER2RE9mQTJZeGhMTGVzMGdtaElzMnlVVzhWOWtXaXIzX0tNQVVmNzMyRXZvQQ?oc=5",
-                "date": "2026-06-09T18:25:33.000Z"
-            },
-            "whatsNew": "OpenArt's AI Podcast Cover Generator uses AI to create professional-looking podcast cover art quickly. This tool simplifies the design process for podcasters. The generator can produce high-quality covers in seconds.",
-            "whyItMatters": "This tool impacts podcasters by saving them time and effort in creating cover art, allowing them to focus on content creation. It also democratizes access to professional design capabilities.",
-            "howToUse": "Podcast creators can use the AI Podcast Cover Generator by inputting their preferences and letting the AI generate a cover. They can then refine or finalize the design as needed.",
-            "beneficiaries": [
-                "Podcasters",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-2bop1hjnd",
-            "title": "Spine 2D Skeleton",
-            "subtitle": "Understanding the center of skeleton in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Game Development",
-                "Skeleton"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHk4V0xCdkhGdTNGZ19GUXh3cTRuZGpDdFJUaW9QVDdHeUdVa3h1ZmxsX3U0N0hVdkdKeHNEVjgtcWVSX2xCdDY4RXdvR0xuRmVydEZuUHJZZnpOdS1uX0ZQeTUzNmJURERwdVVMYUdERFl0V21yT3VBbkM0Z1lZbXJLaTFMVnlWbzRWTENUeXgyQWpWclNmWXFRdTVoNFRMNlZOSzM2MU1taXM1WWRmTTViVQ?oc=5",
-                "date": "2026-06-09T19:32:54.000Z"
-            },
-            "whatsNew": "The article discusses the relationship between the center of a skeleton and the origin or Rootbone in Spine 2D. It aims to clarify the concept for developers using the software.",
-            "whyItMatters": "Understanding this concept is crucial for game developers using Spine 2D to create accurate and efficient animations.",
-            "howToUse": "Developers can apply this knowledge to adjust their skeleton settings accordingly, ensuring proper animation and character movement in their games.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-cftk0d186",
             "title": "ASA Dismisses Complaint",
             "subtitle": "ASA dismisses complaint against Midnite over TikTok ad",
@@ -2148,7 +2149,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": null
         },
         {
@@ -2167,7 +2168,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2176,7 +2177,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2185,7 +2186,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": "Regulatory updates"
         },
         {
@@ -2203,7 +2204,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2212,7 +2213,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2232,7 +2233,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2290,7 +2291,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2299,7 +2300,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T14:57:02.379Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2435,7 +2436,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-23T17:17:17.850Z",
+            "lastScan": "2026-06-23T19:58:47.058Z",
             "note": null
         },
         {
@@ -32803,6 +32804,68 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1x70cdag6",
+            "title": "AI Art Generator",
+            "subtitle": "OpenArt introduces an AI tool to create professional podcast cover art in seconds",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Podcast Cover",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVUtWbm9MR2lQdTd3cHVoLU1TWUE5cFg4X1dubkZaRXBWN01JYUJHdW1tMWpvdUIyaER2RE9mQTJZeGhMTGVzMGdtaElzMnlVVzhWOWtXaXIzX0tNQVVmNzMyRXZvQQ?oc=5",
+                "date": "2026-06-09T18:25:33.000Z"
+            },
+            "whatsNew": "OpenArt's AI Podcast Cover Generator uses AI to create professional-looking podcast cover art quickly. This tool simplifies the design process for podcasters. The generator can produce high-quality covers in seconds.",
+            "whyItMatters": "This tool impacts podcasters by saving them time and effort in creating cover art, allowing them to focus on content creation. It also democratizes access to professional design capabilities.",
+            "howToUse": "Podcast creators can use the AI Podcast Cover Generator by inputting their preferences and letting the AI generate a cover. They can then refine or finalize the design as needed.",
+            "beneficiaries": [
+                "Podcasters",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-2bop1hjnd",
+            "title": "Spine 2D Skeleton",
+            "subtitle": "Understanding the center of skeleton in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Skeleton"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHk4V0xCdkhGdTNGZ19GUXh3cTRuZGpDdFJUaW9QVDdHeUdVa3h1ZmxsX3U0N0hVdkdKeHNEVjgtcWVSX2xCdDY4RXdvR0xuRmVydEZuUHJZZnpOdS1uX0ZQeTUzNmJURERwdVVMYUdERFl0V21yT3VBbkM0Z1lZbXJLaTFMVnlWbzRWTENUeXgyQWpWclNmWXFRdTVoNFRMNlZOSzM2MU1taXM1WWRmTTViVQ?oc=5",
+                "date": "2026-06-09T19:32:54.000Z"
+            },
+            "whatsNew": "The article discusses the relationship between the center of a skeleton and the origin or Rootbone in Spine 2D. It aims to clarify the concept for developers using the software.",
+            "whyItMatters": "Understanding this concept is crucial for game developers using Spine 2D to create accurate and efficient animations.",
+            "howToUse": "Developers can apply this knowledge to adjust their skeleton settings accordingly, ensuring proper animation and character movement in their games.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
