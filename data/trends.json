@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-25T08:56:51.784Z",
+        "scanDate": "2026-06-25T11:40:05.191Z",
         "version": "2.5.0",
         "totalTrends": 63,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2kbmj0mkd",
+            "title": "AI Face Extraction",
+            "subtitle": "PromptHero introduces Nano Banana for face extraction from input pictures.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Face Extraction",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcGNpVmI2WkZiSHRQM0gyaHlUSUkzN3d2YXprMVAxLUoyQkpVZDBncHZDTWJDRF94bU1pbDZwMnAwSFJoOFdiTW9kemxFMTc1REJlWnhmNHoybFNRNjJNb3kxdnUzSW5RUEhFN1p3d2pRdkNTZlRkNm0xbE9ud21EU1J3TjVJMVctQ0V3bFg2bVk4SkQ2ZHR5TnNldi1vQ0RFSml5NlpJNXhnalNqWVRRLUtWOTMzOE43Xy1jOU5XeUwxYnREWHVOb21aTGNqMjh0MDNQYWxWSDltazM5YkM4VHFycTBkMUl0QUlKYVlqMUphVzFERUVnWldPNmEzSnppZTdmeTJVUzhTMUdHWk8xRDRtZw?oc=5",
+                "date": "2026-06-25T06:13:04.000Z"
+            },
+            "whatsNew": "Nano Banana is a new AI tool that can extract faces from input pictures with high precision. It uses advanced algorithms to identify and isolate facial features. This technology has potential applications in various fields, including gaming and art.",
+            "whyItMatters": "The ability to extract faces from images can be useful in game development for creating realistic characters and in AI art generation for producing high-quality portraits.",
+            "howToUse": "Developers can utilize Nano Banana in their projects by integrating its API, allowing for seamless face extraction and manipulation in their applications.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-et2x63osx",
             "title": "Bingo Market Shifts",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-cv0t68lri",
@@ -80,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hj02exj5y",
@@ -111,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xq9r9ojef",
@@ -1770,38 +1801,6 @@
             "isNew": false
         },
         {
-            "id": "t-ynuhrzoox",
-            "title": "ATG New CEO",
-            "subtitle": "ATG appoints former Svenska Spel VP as new CEO, a move that could impact the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "ATG",
-                "Svenska Spel",
-                "CEO Appointment"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDAyaDBqZ3c2VlphNi1seVNLSHVXVTRFc2o1Tk1XMVhHMFRrYWtQRXVrMC11QWxhQjRzOE5vcmg0RTN5VDZrc185bnl2QnZEUmRyN1VvWUJEWFhvcVpqU013SC1QYlQ1THBjd291ei03WUk5M3ZOVEpuWXgxZ09qQTh5OTZzT1hh?oc=5",
-                "date": "2026-06-11T10:54:09.000Z"
-            },
-            "whatsNew": "ATG has appointed a new CEO, a former VP from Svenska Spel. This change in leadership may bring new strategies to the company. The appointment is seen as a significant move in the iGaming industry.",
-            "whyItMatters": "The new CEO's experience from Svenska Spel could bring valuable insights to ATG, potentially influencing the company's direction and decision-making. This appointment may have implications for the iGaming industry as a whole.",
-            "howToUse": "Companies in the iGaming sector should monitor ATG's future moves and strategies under the new leadership. This could provide opportunities for collaboration or insight into industry trends.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "ATG",
-                "Svenska Spel"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-abwbjk8z9",
             "title": "AI Photo Prompt",
             "subtitle": "PromptHero introduces high-resolution photograph generation using AI",
@@ -2147,7 +2146,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": null
         },
         {
@@ -2166,7 +2165,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2175,7 +2174,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2184,7 +2183,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "Regulatory updates"
         },
         {
@@ -2202,7 +2201,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2211,7 +2210,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2231,7 +2230,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2289,7 +2288,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2298,7 +2297,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2307,7 +2306,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": "Style browsing signal"
         },
         {
@@ -2434,7 +2433,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T08:56:51.784Z",
+            "lastScan": "2026-06-25T11:40:05.191Z",
             "note": null
         },
         {
@@ -33142,6 +33141,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-ynuhrzoox",
+            "title": "ATG New CEO",
+            "subtitle": "ATG appoints former Svenska Spel VP as new CEO, a move that could impact the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "ATG",
+                "Svenska Spel",
+                "CEO Appointment"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDAyaDBqZ3c2VlphNi1seVNLSHVXVTRFc2o1Tk1XMVhHMFRrYWtQRXVrMC11QWxhQjRzOE5vcmg0RTN5VDZrc185bnl2QnZEUmRyN1VvWUJEWFhvcVpqU013SC1QYlQ1THBjd291ei03WUk5M3ZOVEpuWXgxZ09qQTh5OTZzT1hh?oc=5",
+                "date": "2026-06-11T10:54:09.000Z"
+            },
+            "whatsNew": "ATG has appointed a new CEO, a former VP from Svenska Spel. This change in leadership may bring new strategies to the company. The appointment is seen as a significant move in the iGaming industry.",
+            "whyItMatters": "The new CEO's experience from Svenska Spel could bring valuable insights to ATG, potentially influencing the company's direction and decision-making. This appointment may have implications for the iGaming industry as a whole.",
+            "howToUse": "Companies in the iGaming sector should monitor ATG's future moves and strategies under the new leadership. This could provide opportunities for collaboration or insight into industry trends.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "ATG",
+                "Svenska Spel"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
