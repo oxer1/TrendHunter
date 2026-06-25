@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-25T00:08:39.585Z",
+        "scanDate": "2026-06-25T05:03:08.819Z",
         "version": "2.5.0",
         "totalTrends": 61,
         "categories": [
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xq9r9ojef",
+            "title": "Mad Max Vehicles",
+            "subtitle": "Mad Max vehicles and special forces are trending on Artstation with a focus on cinematic realism and dark, moody aesthetics",
+            "category": "Art",
+            "tags": [
+                "Mad Max",
+                "Artstation",
+                "Cinematic Realism",
+                "Vehicle Design"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Lexica",
+                "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEpQNHhZT0RjQ09TMlhwRUZsWVBkMFdESllRT1Q5RVAzTXN1YjNTWHR4WXJpdmZ3ZmZhS1l3UjRvRFZhMFhZT0Uzek01MExYYVVueEJvUFJ2T25VY0k5aXZwODNBaml6R3BPUzdjeVpLUnNpS2V6R3BweTBuWk9uVnZZVENqZ1AzSjlGNHlNX3VXVzFwZHZvSlNnaHVKN2pfN2Q3ZUNWN20tSElaM1BDdXV1RXU4cU5FZ3hTdDNKV1NITUFLY2JpTjQxeDNXSXIxZkNpUGVmblF2OG8?oc=5",
+                "date": "2026-06-22T11:54:09.000Z"
+            },
+            "whatsNew": "The trend features a focus on dark, dusk, and moody environments, with an emphasis on cinematic realism. Vehicles and special forces are the main subjects. The style is reminiscent of the Mad Max franchise.",
+            "whyItMatters": "This trend showcases the growing interest in cinematic and realistic art styles, particularly in the context of vehicle and character design. It highlights the influence of popular franchises like Mad Max on artistic trends.",
+            "howToUse": "Artists and designers can use this trend as inspiration for their own vehicle and character designs, incorporating elements of cinematic realism and moody aesthetics into their work.",
+            "beneficiaries": [
+                "Game Artists",
+                "Concept Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
         {
             "id": "t-lil8z4qyu",
             "title": "Boyle Sports Sponsorship",
@@ -49,7 +79,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pt2vvo06h",
@@ -897,37 +927,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-vlkqc0nr1",
-            "title": "AI Onboarding Scripts",
-            "subtitle": "Using AI for onboarding video script writing with Synthesia",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "Onboarding Scripts",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fdTlOdGIyYTZYcmNXREZlWmhtemJfdVI3bTNHVjZYdEZXLVVsYnVXTGJQU0plaG5ELWIzdHJQMXpYU0hmVWNDSmRfOW41ZGhadVVkV2pRX3VlSlRKbFMxZGYtNVhib2paXzAyS25BS0Y?oc=5",
-                "date": "2026-06-11T01:45:28.000Z"
-            },
-            "whatsNew": "Synthesia introduces AI-powered onboarding video script writing, streamlining the content creation process. This innovation leverages AI to generate engaging scripts. The use of AI in scriptwriting is becoming increasingly prevalent.",
-            "whyItMatters": "The integration of AI in onboarding video script writing enhances efficiency and personalization, potentially leading to better user engagement. It also opens up new avenues for content creators to focus on high-level strategy rather than tedious scriptwriting tasks.",
-            "howToUse": "Content creators can utilize Synthesia's AI tool to automate the scriptwriting process, allowing for more time to be spent on refining the message and visual elements of onboarding videos.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketing Teams"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -2087,7 +2086,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": null
         },
         {
@@ -2106,7 +2105,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2115,7 +2114,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2124,7 +2123,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "Regulatory updates"
         },
         {
@@ -2142,7 +2141,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2151,7 +2150,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2171,7 +2170,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2229,7 +2228,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2238,7 +2237,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-24T10:20:52.579Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2247,7 +2246,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-24T10:20:52.579Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": "Style browsing signal"
         },
         {
@@ -2284,7 +2283,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-24T06:47:26.662Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": null
         },
         {
@@ -2293,7 +2292,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-24T06:47:26.662Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": null
         },
         {
@@ -2374,7 +2373,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T00:08:39.585Z",
+            "lastScan": "2026-06-25T05:03:08.819Z",
             "note": null
         },
         {
@@ -33019,6 +33018,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-vlkqc0nr1",
+            "title": "AI Onboarding Scripts",
+            "subtitle": "Using AI for onboarding video script writing with Synthesia",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Onboarding Scripts",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fdTlOdGIyYTZYcmNXREZlWmhtemJfdVI3bTNHVjZYdEZXLVVsYnVXTGJQU0plaG5ELWIzdHJQMXpYU0hmVWNDSmRfOW41ZGhadVVkV2pRX3VlSlRKbFMxZGYtNVhib2paXzAyS25BS0Y?oc=5",
+                "date": "2026-06-11T01:45:28.000Z"
+            },
+            "whatsNew": "Synthesia introduces AI-powered onboarding video script writing, streamlining the content creation process. This innovation leverages AI to generate engaging scripts. The use of AI in scriptwriting is becoming increasingly prevalent.",
+            "whyItMatters": "The integration of AI in onboarding video script writing enhances efficiency and personalization, potentially leading to better user engagement. It also opens up new avenues for content creators to focus on high-level strategy rather than tedious scriptwriting tasks.",
+            "howToUse": "Content creators can utilize Synthesia's AI tool to automate the scriptwriting process, allowing for more time to be spent on refining the message and visual elements of onboarding videos.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketing Teams"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
