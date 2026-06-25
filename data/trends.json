@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-25T14:25:44.068Z",
+        "scanDate": "2026-06-25T17:10:18.085Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nxmd274r2",
+            "title": "MGA Notice",
+            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URLs",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Unauthorised URLs"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUZjRUNLNkVMMV83c2RaSXpfdTk0VDM2Slg1NVQ1Zjh4NDR4bmJrVEZObk8tT3RfZTJMcXdpUXJxZFlkTG1jSUdINUcwbWpIaDRuSUptdXpBcWFWaGF0ZnZYYVU2NnB5dEp6UFVJQml2eVRpbnFsS0phMmVFWWRuUE1xeEZ0MlUt?oc=5",
+                "date": "2026-06-25T14:09:04.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice regarding multiple unauthorised URLs. This move aims to protect players and maintain a regulated gaming environment.",
+            "whyItMatters": "The notice highlights the MGA's efforts to enforce regulation and combat unlicensed gaming activities, which is crucial for player protection and the integrity of the iGaming industry.",
+            "howToUse": "Operators should ensure their URLs are licensed and compliant with MGA regulations to avoid being listed as unauthorised.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-2kbmj0mkd",
             "title": "AI Face Extraction",
@@ -2114,7 +2143,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": null
         },
         {
@@ -2133,7 +2162,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2142,7 +2171,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2151,7 +2180,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "Regulatory updates"
         },
         {
@@ -2169,7 +2198,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2178,7 +2207,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2198,7 +2227,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2256,7 +2285,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2265,7 +2294,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2274,7 +2303,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": "Style browsing signal"
         },
         {
@@ -2401,7 +2430,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-25T14:25:44.068Z",
+            "lastScan": "2026-06-25T17:10:18.085Z",
             "note": null
         },
         {
