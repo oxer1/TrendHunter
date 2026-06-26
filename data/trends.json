@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-26T10:48:39.056Z",
+        "scanDate": "2026-06-26T13:08:56.257Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-q9rlq7d63",
+            "title": "William Hill Criticized",
+            "subtitle": "Ralph Topping criticizes William Hill's decision makers",
+            "category": "iGaming",
+            "tags": [
+                "William Hill",
+                "iGaming",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTdOYjFzWDJIeHE3UG4yUkE0UW44WUFtb3Vjc0Z2ZW1CN052Yk1XdzJfSEdpM0ZpZVVDTTN5c1hxSkhtQjI1am1LdVhaRGdJWkw4WnFET0t4NkJMaE5FTDBzc0NrSkluUUg0UXpCalh0R2V4NDhDekhFV0VGV0ROU1BkM3g0VTRrMFExaWxQd3BkMmMyXzYxa0ljQVIwZ2VlWXFCOUp4bWZiQUhERjF4TGFHVGIyRE9CWWVweHB5RHhzU045c1YtVA?oc=5",
+                "date": "2026-06-26T10:15:58.000Z"
+            },
+            "whatsNew": "Ralph Topping expresses disappointment in William Hill's brand management. He believes the brand has been let down by poor decision-making. This criticism comes from a notable figure in the industry.",
+            "whyItMatters": "This criticism highlights the importance of effective decision-making in the iGaming industry. Poor decisions can negatively impact a brand's reputation and success.",
+            "howToUse": "iGaming companies should prioritize informed decision-making and consider seeking external advice to improve their brand management.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "William Hill"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-rz8o82x26",
+            "title": "Krea 2 Edition",
+            "subtitle": "Civitai releases Krea 2 Red Mix Edition with new features",
+            "category": "AI",
+            "tags": [
+                "Krea 2",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGZYMVRDWmRPdjZib3pmUXhxMTJWVXlpSmR1Y0ZxOWtiSmowa3J0Vm9YM1UyTGR1eXdJRmdJb2J0a2VnSlo4NlJ4X2NRb1IwWG8tVHNvUDk0UzBpWXFWVXYyT0duWE92aDl5X0xhQURMOXNDYjEtbzE0ZUQ4WXY0QzV3?oc=5",
+                "date": "2026-06-24T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the Krea 2 Red Mix Edition, an updated version of their AI art generation tool. The new edition includes improved features and capabilities. The release is marked as NSFW, indicating it may contain adult content.",
+            "whyItMatters": "The Krea 2 Red Mix Edition is significant for AI art generation, offering new possibilities for creators. Its release reflects the growing interest in AI-powered art tools.",
+            "howToUse": "Users can access the Krea 2 Red Mix Edition through Civitai, exploring its features to generate unique art pieces. It's essential to review the platform's guidelines and terms of use, especially considering the NSFW designation.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-8ul14sdkc",
             "title": "AI Art Prompt",
@@ -2112,7 +2174,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": null
         },
         {
@@ -2131,7 +2193,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2140,7 +2202,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2149,7 +2211,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "Regulatory updates"
         },
         {
@@ -2167,7 +2229,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2176,7 +2238,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2196,7 +2258,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2254,7 +2316,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2263,7 +2325,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2272,7 +2334,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": "Style browsing signal"
         },
         {
@@ -2399,7 +2461,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T10:48:39.056Z",
+            "lastScan": "2026-06-26T13:08:56.257Z",
             "note": null
         },
         {
