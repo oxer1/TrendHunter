@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-26T18:29:32.438Z",
+        "scanDate": "2026-06-26T20:44:54.518Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 65,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-6gwc6qxl5",
+            "title": "AI UGC Videos",
+            "subtitle": "OpenArt introduces an AI-powered UGC ads generator for online video creation",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "UGC Ads",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RVWNYVHlNS0VLTXlvYS1fX0pncDExeEF5TFRXc1M4MUdfR0ZnMEFUa0xYMXJlRTVIeGhhdnV0dEVFd25MUUw2SHhsdDI?oc=5",
+                "date": "2026-06-24T11:11:05.000Z"
+            },
+            "whatsNew": "OpenArt has launched a UGC ads generator that utilizes AI to create online videos. This tool enables users to generate high-quality UGC videos with ease. The generator is designed to streamline the video creation process.",
+            "whyItMatters": "The introduction of this AI-powered UGC ads generator can significantly impact the advertising and marketing industries by providing a more efficient and creative way to produce video content. It also showcases the growing importance of AI in video production.",
+            "howToUse": "Users can leverage this tool by accessing the OpenArt platform and following the prompts to create their desired UGC videos. The AI technology will handle the video generation, allowing users to focus on other aspects of their marketing strategy.",
+            "beneficiaries": [
+                "Marketers",
+                "Advertisers",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-pwwqpc25z",
             "title": "Clever iGaming Stake",
@@ -2174,7 +2206,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": null
         },
         {
@@ -2193,7 +2225,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2202,7 +2234,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2211,7 +2243,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "Regulatory updates"
         },
         {
@@ -2229,7 +2261,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2238,7 +2270,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2258,7 +2290,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-26T18:29:32.438Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2316,7 +2348,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.439Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2325,7 +2357,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.439Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2334,7 +2366,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.439Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": "Style browsing signal"
         },
         {
@@ -2461,7 +2493,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T18:29:32.439Z",
+            "lastScan": "2026-06-26T20:44:54.518Z",
             "note": null
         },
         {
