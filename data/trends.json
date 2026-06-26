@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-26T16:14:05.135Z",
+        "scanDate": "2026-06-26T18:29:32.438Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-q9rlq7d63",
@@ -2018,38 +2018,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-9ccsxhiha",
-            "title": "AI Autoprompter",
-            "subtitle": "Civitai releases Ideogram 4 Autoprompter json workflow and custom node",
-            "category": "AI",
-            "tags": [
-                "AI Autoprompter",
-                "Ideogram 4",
-                "Civitai",
-                "JSON Workflow"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTQ1NGpzNzlrVXgxdEN6bUo5dUJxZkZ4T0NGSmRaTDF0UUY3QmYzc0I1b0F2NThxRkZ6TVc2UUxoYTVGd3JVVUxEUHE2WFNHeWRpR1dCV3VURzhnc1hOUTBPOTMxRU4tcUE4emY4cXVVMkZscExURVR1bEU3eEt1RDZwNVc2em1KeUZmeTRGa2U5QQ?oc=5",
-                "date": "2026-06-12T16:27:48.000Z"
-            },
-            "whatsNew": "Civitai has introduced the Ideogram 4 Autoprompter json workflow and custom node, a new tool for AI-powered content creation. This workflow aims to simplify and enhance the autoprompting process. The custom node allows for more flexibility and customization in AI workflows.",
-            "whyItMatters": "The Ideogram 4 Autoprompter has the potential to significantly impact AI content creation by providing a more efficient and customizable autoprompting process. This can lead to more innovative and high-quality AI-generated content.",
-            "howToUse": "Developers and content creators can utilize the Ideogram 4 Autoprompter by integrating it into their existing AI workflows, allowing for more streamlined and efficient content generation.",
-            "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2206,7 +2174,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "note": null
         },
         {
@@ -2225,7 +2193,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2234,7 +2202,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2243,7 +2211,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "note": "Regulatory updates"
         },
         {
@@ -2261,7 +2229,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2270,7 +2238,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2290,7 +2258,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.438Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2348,7 +2316,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.439Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2357,7 +2325,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.439Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2366,7 +2334,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.439Z",
             "note": "Style browsing signal"
         },
         {
@@ -2493,7 +2461,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T16:14:05.135Z",
+            "lastScan": "2026-06-26T18:29:32.439Z",
             "note": null
         },
         {
@@ -33359,6 +33327,38 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9ccsxhiha",
+            "title": "AI Autoprompter",
+            "subtitle": "Civitai releases Ideogram 4 Autoprompter json workflow and custom node",
+            "category": "AI",
+            "tags": [
+                "AI Autoprompter",
+                "Ideogram 4",
+                "Civitai",
+                "JSON Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTQ1NGpzNzlrVXgxdEN6bUo5dUJxZkZ4T0NGSmRaTDF0UUY3QmYzc0I1b0F2NThxRkZ6TVc2UUxoYTVGd3JVVUxEUHE2WFNHeWRpR1dCV3VURzhnc1hOUTBPOTMxRU4tcUE4emY4cXVVMkZscExURVR1bEU3eEt1RDZwNVc2em1KeUZmeTRGa2U5QQ?oc=5",
+                "date": "2026-06-12T16:27:48.000Z"
+            },
+            "whatsNew": "Civitai has introduced the Ideogram 4 Autoprompter json workflow and custom node, a new tool for AI-powered content creation. This workflow aims to simplify and enhance the autoprompting process. The custom node allows for more flexibility and customization in AI workflows.",
+            "whyItMatters": "The Ideogram 4 Autoprompter has the potential to significantly impact AI content creation by providing a more efficient and customizable autoprompting process. This can lead to more innovative and high-quality AI-generated content.",
+            "howToUse": "Developers and content creators can utilize the Ideogram 4 Autoprompter by integrating it into their existing AI workflows, allowing for more streamlined and efficient content generation.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
