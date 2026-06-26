@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-26T03:24:19.289Z",
+        "scanDate": "2026-06-26T07:49:00.670Z",
         "version": "2.5.0",
         "totalTrends": 63,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-8ul14sdkc",
+            "title": "AI Art Prompt",
+            "subtitle": "Flux Kontext prompt for photography portrait generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Photography",
+                "Portrait Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQmV1b25TU0RsMWRDNjUtZWZNeVl5VGRjc0Z4dHNwNTlMNGVvQWFyQ1NIMnRBS1A2cjZ5NjlSLVo5ZUdhNW8zRlNteWxFenkzMmJKSHljREVvYThtOXp6RUc4NElobWlBUnlFb1otdzVibnlJUmtRLUpjVE5xSWlmNThUR2FiYURwb2JSdGo4M3JpaW85SjFqVC1na1JkZmw1RjRVZTNKNDVHSlRTM21nVEtlNEJCa25fT2lkZk1IUXk3NjVtYjdvQ09zM2JDU1NtT2l2NkVuVW9UV0x0TnZoQjg1aF9tT1o3cXppZ3NZWUhLdXVqaEV4UWRaWUd2bU5ibGtuLWRCckNUVnpCemNNOEdHRENJR2d4Znp3WVF2ZmNoS0ktQ1A2bmFoQQ?oc=5",
+                "date": "2026-06-17T21:51:55.000Z"
+            },
+            "whatsNew": "The Flux Kontext prompt is a new development in AI art generation, allowing for the creation of portraits with high contrast and profile silhouettes. This technology has the potential to revolutionize the field of photography. The prompt is available on prompthero.com.",
+            "whyItMatters": "The Flux Kontext prompt is significant because it enables the creation of unique and stylized portraits, which can be used in various applications such as art, advertising, and social media. This technology also demonstrates the growing capabilities of AI in generating high-quality visual content.",
+            "howToUse": "To use the Flux Kontext prompt, users can visit prompthero.com and input the prompt to generate a portrait with the desired characteristics. The prompt can be customized to achieve specific effects and styles.",
+            "beneficiaries": [
+                "Artists",
+                "Photographers",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-6po6muea1",
             "title": "Custom Avatars",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nxmd274r2",
@@ -1830,37 +1862,6 @@
             "isNew": false
         },
         {
-            "id": "t-jbw204ctc",
-            "title": "Lenovo UltraReal",
-            "subtitle": "Lenovo releases UltraReal v1.0 Ideogram4 on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Lenovo",
-                "UltraReal"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
-                "date": "2026-06-12T07:00:00.000Z"
-            },
-            "whatsNew": "Lenovo has introduced UltraReal, a new AI model for generating realistic images. The v1.0 Ideogram4 model is available on Civitai. This model is part of the LoRA series, indicating its potential for fine-tuning and customization.",
-            "whyItMatters": "The introduction of Lenovo UltraReal marks a significant step in AI art generation, offering users a powerful tool for creating realistic images. This can have implications for various industries, including gaming, advertising, and design.",
-            "howToUse": "Developers and artists can utilize Lenovo UltraReal for generating high-quality images by fine-tuning the model on Civitai, exploring its capabilities in creating realistic and detailed visuals.",
-            "beneficiaries": [
-                "Game Developers",
-                "Graphic Designers"
-            ],
-            "companies": [
-                "Lenovo"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-nxvprjlfp",
             "title": "AI Art Update",
             "subtitle": "Civitai releases WAI-illustrious-HSWQ v17.0 base, an illustrious checkpoint for AI art generation",
@@ -2142,7 +2143,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": null
         },
         {
@@ -2161,7 +2162,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2170,7 +2171,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2179,7 +2180,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "Regulatory updates"
         },
         {
@@ -2197,7 +2198,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2206,7 +2207,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2226,7 +2227,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2284,7 +2285,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2293,7 +2294,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2302,7 +2303,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": "Style browsing signal"
         },
         {
@@ -2339,7 +2340,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": null
         },
         {
@@ -2348,7 +2349,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": null
         },
         {
@@ -2429,7 +2430,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-26T03:24:19.289Z",
+            "lastScan": "2026-06-26T07:49:00.670Z",
             "note": null
         },
         {
@@ -33230,6 +33231,37 @@
             ],
             "companies": [
                 "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-jbw204ctc",
+            "title": "Lenovo UltraReal",
+            "subtitle": "Lenovo releases UltraReal v1.0 Ideogram4 on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Lenovo",
+                "UltraReal"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
+                "date": "2026-06-12T07:00:00.000Z"
+            },
+            "whatsNew": "Lenovo has introduced UltraReal, a new AI model for generating realistic images. The v1.0 Ideogram4 model is available on Civitai. This model is part of the LoRA series, indicating its potential for fine-tuning and customization.",
+            "whyItMatters": "The introduction of Lenovo UltraReal marks a significant step in AI art generation, offering users a powerful tool for creating realistic images. This can have implications for various industries, including gaming, advertising, and design.",
+            "howToUse": "Developers and artists can utilize Lenovo UltraReal for generating high-quality images by fine-tuning the model on Civitai, exploring its capabilities in creating realistic and detailed visuals.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Lenovo"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
