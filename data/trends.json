@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-27T10:04:31.730Z",
+        "scanDate": "2026-06-27T12:07:25.768Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-o2ji7u2z2",
+            "title": "Stable Diffusion Update",
+            "subtitle": "Civitai releases CyberRealistic Final Stable Diffusion 1.x Checkpoint",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcHk2ckh0S2Z3WFJsTVIwdXVIQlJRcEJIMVVnN3BTeml1bzBTd1B1SENia1BRcnNuSGloSmY0b25YT1F6ZTY0RFlSSFhYQm1ycGxjdWstNDBBOHM?oc=5",
+                "date": "2026-06-14T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the final version of the CyberRealistic Stable Diffusion 1.x checkpoint, marking a significant update in AI art generation capabilities. This checkpoint is expected to improve the quality and realism of generated images. The release is part of the ongoing development of Stable Diffusion, a text-to-image model.",
+            "whyItMatters": "This update matters because it enhances the potential for creating highly realistic images using AI, which can be particularly useful in gaming, animation, and other creative fields. It showcases the rapid advancement in AI art generation technology.",
+            "howToUse": "Developers and artists can utilize this checkpoint to generate high-quality, realistic images for various applications, including game development and visual design, by integrating it into their existing workflows or tools.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-6gwc6qxl5",
             "title": "AI UGC Videos",
@@ -2052,7 +2083,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": null
         },
         {
@@ -2071,7 +2102,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2080,7 +2111,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2089,7 +2120,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "Regulatory updates"
         },
         {
@@ -2107,7 +2138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2116,7 +2147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2136,7 +2167,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2194,7 +2225,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2203,7 +2234,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T07:47:15.899Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2212,7 +2243,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T07:47:15.899Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": "Style browsing signal"
         },
         {
@@ -2339,7 +2370,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T10:04:31.730Z",
+            "lastScan": "2026-06-27T12:07:25.768Z",
             "note": null
         },
         {
