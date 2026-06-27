@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-27T12:07:25.768Z",
+        "scanDate": "2026-06-27T14:27:06.417Z",
         "version": "2.5.0",
         "totalTrends": 61,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-uuw566zdv",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases Ideogram-v4-workflow and Json Prompts v2.5",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Json Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdmNTakhBdk1DT3d4Mi1PY1JualEzOWhGbzBtUFVXb1dvSHN0bk5WSFVsbjMtcnE5VE5PZV9wNzVVTWlpNHhDSGRCaWlvaEVfVzExNS14c1JrYVBWTkw1b21oX20wNGtmemhvQUIyaUhVYlE0WmJJ?oc=5",
+                "date": "2026-06-22T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an updated version of its Ideogram-v4-workflow and Json Prompts, now at version 2.5. This update aims to improve AI art generation capabilities.",
+            "whyItMatters": "This update is significant for AI art enthusiasts and developers, as it may enhance the quality and customization of AI-generated art. It reflects the ongoing advancements in AI technology for creative work.",
+            "howToUse": "Users can leverage this update by exploring the new features and prompts in the Ideogram-v4-workflow and Json Prompts v2.5, potentially leading to more sophisticated AI art creations.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-o2ji7u2z2",
             "title": "Stable Diffusion Update",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6gwc6qxl5",
@@ -1833,38 +1864,6 @@
             "isNew": false
         },
         {
-            "id": "t-vysqm6mnw",
-            "title": "Anima v1.0",
-            "subtitle": "Civitai releases Anima Checkpoint version 1.0",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Anima",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5heEpiZzZzWE1aRldLLVZwbWxtZm9sbDVjT2dWd2RmZzJUblNyZU9XcWl5cHlhTVI0OTRFU3Q4SU9GQjFhNzgwVU1FdDlJejM3R1JhVEUwa19fU2l6T2VJa19Vbw?oc=5",
-                "date": "2026-06-13T12:47:14.000Z"
-            },
-            "whatsNew": "Civitai has released Anima Checkpoint version 1.0, a significant update to their AI art generation tool. This new version brings improved features and capabilities. The release is part of the ongoing development of AI art generation tools.",
-            "whyItMatters": "The release of Anima v1.0 matters because it showcases the rapid advancement of AI art generation technology, which can be applied to various creative fields, including gaming and visual design. This can lead to new possibilities for artists and designers.",
-            "howToUse": "Artists and designers can utilize Anima v1.0 to generate unique art pieces, explore new styles, and streamline their creative workflows. Experimenting with the tool's features can help unlock its full potential.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-nxvprjlfp",
             "title": "AI Art Update",
             "subtitle": "Civitai releases WAI-illustrious-HSWQ v17.0 base, an illustrious checkpoint for AI art generation",
@@ -2083,7 +2082,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": null
         },
         {
@@ -2102,7 +2101,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2111,7 +2110,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2120,7 +2119,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "Regulatory updates"
         },
         {
@@ -2138,7 +2137,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2147,7 +2146,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2167,7 +2166,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2225,7 +2224,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2234,7 +2233,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2243,7 +2242,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": "Style browsing signal"
         },
         {
@@ -2370,7 +2369,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T12:07:25.768Z",
+            "lastScan": "2026-06-27T14:27:06.417Z",
             "note": null
         },
         {
@@ -33416,6 +33415,38 @@
             "beneficiaries": [
                 "Artists",
                 "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-vysqm6mnw",
+            "title": "Anima v1.0",
+            "subtitle": "Civitai releases Anima Checkpoint version 1.0",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5heEpiZzZzWE1aRldLLVZwbWxtZm9sbDVjT2dWd2RmZzJUblNyZU9XcWl5cHlhTVI0OTRFU3Q4SU9GQjFhNzgwVU1FdDlJejM3R1JhVEUwa19fU2l6T2VJa19Vbw?oc=5",
+                "date": "2026-06-13T12:47:14.000Z"
+            },
+            "whatsNew": "Civitai has released Anima Checkpoint version 1.0, a significant update to their AI art generation tool. This new version brings improved features and capabilities. The release is part of the ongoing development of AI art generation tools.",
+            "whyItMatters": "The release of Anima v1.0 matters because it showcases the rapid advancement of AI art generation technology, which can be applied to various creative fields, including gaming and visual design. This can lead to new possibilities for artists and designers.",
+            "howToUse": "Artists and designers can utilize Anima v1.0 to generate unique art pieces, explore new styles, and streamline their creative workflows. Experimenting with the tool's features can help unlock its full potential.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
             ],
             "companies": [
                 "Civitai"
