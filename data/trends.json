@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-27T04:51:51.058Z",
+        "scanDate": "2026-06-27T07:47:15.899Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -1114,37 +1114,6 @@
             "isNew": false
         },
         {
-            "id": "t-sywnh1jb2",
-            "title": "Stable Diffusion XL",
-            "subtitle": "Juggernaut XL - Ragnarok Stable Diffusion XL Checkpoint released on civitai.com",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNnJVamZxYVBmMkNNcUhkTERmVWhuTWZ4Z1lSS0ZpanhSTnRXaGJaaDZmQVpLOUFxMVJSQmxzY25SQVNfVGM5cWxsREhlN2pDc2xJSUZHaHBEQ0E?oc=5",
-                "date": "2026-06-13T07:00:00.000Z"
-            },
-            "whatsNew": "The Juggernaut XL - Ragnarok checkpoint for Stable Diffusion XL has been released, offering advanced AI art generation capabilities. This checkpoint is available on civitai.com. It represents a significant update in the field of AI-generated art.",
-            "whyItMatters": "The release of this checkpoint is important because it provides artists and developers with more advanced tools for generating high-quality AI art. This can lead to new creative possibilities and applications in various fields, including gaming and visual design.",
-            "howToUse": "Developers and artists can utilize this checkpoint by integrating it into their Stable Diffusion XL workflows, allowing them to generate more complex and detailed AI art. This can be particularly useful for creating unique visual elements in games or other digital media.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-b0z4vxhbw",
             "title": "Anima Pencil v2",
             "subtitle": "Anima Pencil reaches version 2.0.0, available on Civitai",
@@ -1426,35 +1395,6 @@
             "isNew": false
         },
         {
-            "id": "t-55bhukmy3",
-            "title": "Atlantic City Jackpots",
-            "subtitle": "NJ Division of Gaming Enforcement reports jackpots over $40,000 in Atlantic City",
-            "category": "iGaming",
-            "tags": [
-                "NJ DGE",
-                "Atlantic City",
-                "Jackpots"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
-                "date": "2026-06-13T07:00:00.000Z"
-            },
-            "whatsNew": "The NJ Division of Gaming Enforcement has released a report detailing jackpots over $40,000 in Atlantic City. The report highlights significant wins in the city's casinos.",
-            "whyItMatters": "This report indicates a healthy gaming industry in Atlantic City, with significant jackpots being won. It also demonstrates transparency from the NJ DGE in reporting gaming activity.",
-            "howToUse": "Operators can use this data to understand player behavior and preferences, while players can use it to inform their gaming decisions.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Gaming Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-116wh0jjm",
             "title": "Civitai Nodes",
             "subtitle": "Civitai introduces nodes for ComfyUI, integrating the whole toolbox into user graphs",
@@ -1637,38 +1577,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-owkl5tszw",
-            "title": "FLUX2 Workflow",
-            "subtitle": "Civitai introduces FLUX2 Klein_9b Pro Grade Workflow with Controlnet and GGUF capabilities",
-            "category": "AI",
-            "tags": [
-                "Controlnet",
-                "GGUF",
-                "FLUX2",
-                "Klein_9b"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZPRHIxc0dNa1YtNm5sbzBpRXdkZXUyMUktc1MzSW9Pa0ZPUjR5RTdZNXZYbWhqM3lIMjhvdGRQOEVza3JEdUdSd0Q2bkxBcnBiakczODVFUXJRZk1KSFcyTENURU1ENk96cERMUVAzTzgtQWZ0WVZPVGJNTDRBSTZ1QkJWVERfVGwwWXNKVVQzcFoyMGRzdWpJVEdDekpvNHh5dWVkOE9VdkM2TDFSNg?oc=5",
-                "date": "2026-06-13T07:00:00.000Z"
-            },
-            "whatsNew": "The FLUX2 Klein_9b Pro Grade Workflow is a new tool that supports both high and low VRAM, and is compatible with Controlnet and GGUF. This workflow is designed for professional-grade applications. It offers flexibility in terms of system requirements, making it accessible to a wider range of users.",
-            "whyItMatters": "The introduction of FLUX2 Klein_9b Pro Grade Workflow matters because it provides professionals with a powerful tool that can adapt to different system specifications, enhancing productivity and creativity. This can lead to more efficient and high-quality output in AI-related tasks.",
-            "howToUse": "To utilize the FLUX2 Klein_9b Pro Grade Workflow, users should first ensure their system meets the minimum requirements for either high or low VRAM configurations. Then, they can integrate Controlnet and GGUF capabilities to streamline their workflow and improve results.",
-            "beneficiaries": [
-                "AI Artists",
-                "Graphic Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2175,7 +2083,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": null
         },
         {
@@ -2194,7 +2102,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2203,7 +2111,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2212,7 +2120,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "Regulatory updates"
         },
         {
@@ -2230,7 +2138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2239,7 +2147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2259,7 +2167,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2317,7 +2225,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2326,7 +2234,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2335,7 +2243,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": "Style browsing signal"
         },
         {
@@ -2462,7 +2370,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-27T07:47:15.899Z",
             "note": null
         },
         {
@@ -33391,6 +33299,98 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-sywnh1jb2",
+            "title": "Stable Diffusion XL",
+            "subtitle": "Juggernaut XL - Ragnarok Stable Diffusion XL Checkpoint released on civitai.com",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNnJVamZxYVBmMkNNcUhkTERmVWhuTWZ4Z1lSS0ZpanhSTnRXaGJaaDZmQVpLOUFxMVJSQmxzY25SQVNfVGM5cWxsREhlN2pDc2xJSUZHaHBEQ0E?oc=5",
+                "date": "2026-06-13T07:00:00.000Z"
+            },
+            "whatsNew": "The Juggernaut XL - Ragnarok checkpoint for Stable Diffusion XL has been released, offering advanced AI art generation capabilities. This checkpoint is available on civitai.com. It represents a significant update in the field of AI-generated art.",
+            "whyItMatters": "The release of this checkpoint is important because it provides artists and developers with more advanced tools for generating high-quality AI art. This can lead to new creative possibilities and applications in various fields, including gaming and visual design.",
+            "howToUse": "Developers and artists can utilize this checkpoint by integrating it into their Stable Diffusion XL workflows, allowing them to generate more complex and detailed AI art. This can be particularly useful for creating unique visual elements in games or other digital media.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-55bhukmy3",
+            "title": "Atlantic City Jackpots",
+            "subtitle": "NJ Division of Gaming Enforcement reports jackpots over $40,000 in Atlantic City",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Atlantic City",
+                "Jackpots"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-06-13T07:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has released a report detailing jackpots over $40,000 in Atlantic City. The report highlights significant wins in the city's casinos.",
+            "whyItMatters": "This report indicates a healthy gaming industry in Atlantic City, with significant jackpots being won. It also demonstrates transparency from the NJ DGE in reporting gaming activity.",
+            "howToUse": "Operators can use this data to understand player behavior and preferences, while players can use it to inform their gaming decisions.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gaming Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-owkl5tszw",
+            "title": "FLUX2 Workflow",
+            "subtitle": "Civitai introduces FLUX2 Klein_9b Pro Grade Workflow with Controlnet and GGUF capabilities",
+            "category": "AI",
+            "tags": [
+                "Controlnet",
+                "GGUF",
+                "FLUX2",
+                "Klein_9b"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZPRHIxc0dNa1YtNm5sbzBpRXdkZXUyMUktc1MzSW9Pa0ZPUjR5RTdZNXZYbWhqM3lIMjhvdGRQOEVza3JEdUdSd0Q2bkxBcnBiakczODVFUXJRZk1KSFcyTENURU1ENk96cERMUVAzTzgtQWZ0WVZPVGJNTDRBSTZ1QkJWVERfVGwwWXNKVVQzcFoyMGRzdWpJVEdDekpvNHh5dWVkOE9VdkM2TDFSNg?oc=5",
+                "date": "2026-06-13T07:00:00.000Z"
+            },
+            "whatsNew": "The FLUX2 Klein_9b Pro Grade Workflow is a new tool that supports both high and low VRAM, and is compatible with Controlnet and GGUF. This workflow is designed for professional-grade applications. It offers flexibility in terms of system requirements, making it accessible to a wider range of users.",
+            "whyItMatters": "The introduction of FLUX2 Klein_9b Pro Grade Workflow matters because it provides professionals with a powerful tool that can adapt to different system specifications, enhancing productivity and creativity. This can lead to more efficient and high-quality output in AI-related tasks.",
+            "howToUse": "To utilize the FLUX2 Klein_9b Pro Grade Workflow, users should first ensure their system meets the minimum requirements for either high or low VRAM configurations. Then, they can integrate Controlnet and GGUF capabilities to streamline their workflow and improve results.",
+            "beneficiaries": [
+                "AI Artists",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
