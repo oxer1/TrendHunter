@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-27T14:27:06.417Z",
+        "scanDate": "2026-06-27T16:02:37.546Z",
         "version": "2.5.0",
         "totalTrends": 61,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-o1b1qu3z4",
+            "title": "AnimaYume v1.0",
+            "subtitle": "Civitai releases AnimaYume version 1.0, a significant update to their Anima Checkpoint tool.",
+            "category": "AI",
+            "tags": [
+                "AnimaYume",
+                "Civitai",
+                "AI tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBd1ROR0FsR19ZX000cmh6X0ItOEJlTHFtZ3ZLY2FjdEY0OFZQb1pLZlBWYUFmazA3UFZwN0VtdHE2TzZDaXBwcndRRmljb1pRTEFjMkdCNA?oc=5",
+                "date": "2026-06-24T07:00:00.000Z"
+            },
+            "whatsNew": "AnimaYume v1.0 is the final base version, indicating a major milestone in its development. This update could bring significant improvements to AI-powered animation and video generation. The release is hosted on Civitai, a platform known for AI model sharing and development.",
+            "whyItMatters": "This release matters because it could enhance the capabilities of AI in creative work, particularly in animation and video production. It may offer new features or improvements that can be leveraged by artists, animators, and content creators.",
+            "howToUse": "To utilize AnimaYume v1.0, users can access it through Civitai's platform, where they can explore its features and apply them to their projects. This might involve experimenting with new animation techniques or integrating the tool into existing workflows.",
+            "beneficiaries": [
+                "Animators",
+                "Content Creators",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-uuw566zdv",
             "title": "AI Art Update",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o2ji7u2z2",
@@ -983,37 +1015,6 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
-            "id": "t-r16nhtawm",
-            "title": "Spine 2D Trim",
-            "subtitle": "Understanding trim function in Spine 2D animation",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Animation",
-                "Trim Function"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQcW9fUWFCU2tuajEtQTJZc2p4M0Vtd0E4TjlMNFJvcDk3VDI5bG8wVWlJNVBvNWlYZHo4QzJvQUZ6STFEb0xsV3VjckFYd0JDTUczOVJaekktd21OaXl4bmk3RzZCT0pqRmd5ZDRpU1RqSDNLU2lyUjhHcmU0eHV0TGZzcEZNV20wdzZhMi1tend6azZ1RjJxdFViZEU1ZWtyRVFnNHlHeVNVXzVjNVphT05Jd2sxTlZOVVQ0WTFlUjFqaEVMTlhFenA5NzMxV1FlWUExMVI1VlUzZ2lLbE9ENFhaNTBONV92UEFmbTk4ak1yN29IS3VXb3Ayck5DNGFlMFVCODBXSjFLTEFMVGdUZ1NhdFpPRkJRUnAxUnhUYU12cGNYenl2TGlmSmhuRFRWejd6c0NsbUl0LUJ1bWxUZTdXOWJ5VlRTSXlHWGpGbG41dw?oc=5",
-                "date": "2026-06-13T15:19:06.000Z"
-            },
-            "whatsNew": "The article discusses the trim function in Spine 2D, a 2D animation tool, and its difference from trimming weights. It aims to clarify the functionality for users. The trim function is a feature that allows for adjusting the animation timeline.",
-            "whyItMatters": "Understanding the trim function in Spine 2D is crucial for efficient animation creation and editing. It helps in refining the animation process, making it more precise and controlled.",
-            "howToUse": "To utilize the trim function effectively, users should experiment with different trim settings and observe how it affects their animations, allowing for more nuanced control over the animation timeline.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
             "isNew": false
         },
         {
@@ -2082,7 +2083,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": null
         },
         {
@@ -2101,7 +2102,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2110,7 +2111,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2119,7 +2120,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "Regulatory updates"
         },
         {
@@ -2137,7 +2138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2146,7 +2147,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2166,7 +2167,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2224,7 +2225,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2233,7 +2234,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2242,7 +2243,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": "Style browsing signal"
         },
         {
@@ -2369,7 +2370,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-27T14:27:06.417Z",
+            "lastScan": "2026-06-27T16:02:37.546Z",
             "note": null
         },
         {
@@ -33453,6 +33454,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-r16nhtawm",
+            "title": "Spine 2D Trim",
+            "subtitle": "Understanding trim function in Spine 2D animation",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Animation",
+                "Trim Function"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQcW9fUWFCU2tuajEtQTJZc2p4M0Vtd0E4TjlMNFJvcDk3VDI5bG8wVWlJNVBvNWlYZHo4QzJvQUZ6STFEb0xsV3VjckFYd0JDTUczOVJaekktd21OaXl4bmk3RzZCT0pqRmd5ZDRpU1RqSDNLU2lyUjhHcmU0eHV0TGZzcEZNV20wdzZhMi1tend6azZ1RjJxdFViZEU1ZWtyRVFnNHlHeVNVXzVjNVphT05Jd2sxTlZOVVQ0WTFlUjFqaEVMTlhFenA5NzMxV1FlWUExMVI1VlUzZ2lLbE9ENFhaNTBONV92UEFmbTk4ak1yN29IS3VXb3Ayck5DNGFlMFVCODBXSjFLTEFMVGdUZ1NhdFpPRkJRUnAxUnhUYU12cGNYenl2TGlmSmhuRFRWejd6c0NsbUl0LUJ1bWxUZTdXOWJ5VlRTSXlHWGpGbG41dw?oc=5",
+                "date": "2026-06-13T15:19:06.000Z"
+            },
+            "whatsNew": "The article discusses the trim function in Spine 2D, a 2D animation tool, and its difference from trimming weights. It aims to clarify the functionality for users. The trim function is a feature that allows for adjusting the animation timeline.",
+            "whyItMatters": "Understanding the trim function in Spine 2D is crucial for efficient animation creation and editing. It helps in refining the animation process, making it more precise and controlled.",
+            "howToUse": "To utilize the trim function effectively, users should experiment with different trim settings and observe how it affects their animations, allowing for more nuanced control over the animation timeline.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
