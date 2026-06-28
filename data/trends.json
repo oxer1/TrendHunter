@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-28T08:19:29.608Z",
+        "scanDate": "2026-06-28T11:05:00.126Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5y80bxle4",
+            "title": "Stable Diffusion",
+            "subtitle": "Best curvy Stable Diffusion prompts available on PromptHero",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzYTRhaFlJbmYwMjVmZDRpYkl5S0NDNXBsVXRSZWFmZE9fWS1qc3FrblNmemhrWElJT1JpcmFJOG1MT2xJdHdPc0FBTU5xV1lOWEtNaHZGaW42TGFIQUEzZVFlQ3UtQjNqOXpmeTFaZw?oc=5",
+                "date": "2026-06-17T21:23:02.000Z"
+            },
+            "whatsNew": "PromptHero offers a range of curvy Stable Diffusion prompts for AI art generation. These prompts enable users to create unique and diverse art pieces. The availability of such prompts showcases the evolving capabilities of AI in art creation.",
+            "whyItMatters": "The development of specialized prompts like these contributes to the growth of AI-generated art, offering new creative possibilities for artists and designers. This trend indicates a shift towards more sophisticated AI tools for artistic expression.",
+            "howToUse": "Artists can utilize these prompts to generate a wide range of curvy-themed art, from abstract designs to realistic depictions, by inputting the prompts into Stable Diffusion models.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-o1b1qu3z4",
             "title": "AnimaYume v1.0",
@@ -1989,7 +2020,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": null
         },
         {
@@ -2008,7 +2039,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2017,7 +2048,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2026,7 +2057,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "Regulatory updates"
         },
         {
@@ -2044,7 +2075,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2053,7 +2084,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2073,7 +2104,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2131,7 +2162,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2140,7 +2171,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2149,7 +2180,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.608Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": "Style browsing signal"
         },
         {
@@ -2276,7 +2307,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.609Z",
+            "lastScan": "2026-06-28T11:05:00.126Z",
             "note": null
         },
         {
