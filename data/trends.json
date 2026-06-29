@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-29T05:29:13.535Z",
+        "scanDate": "2026-06-29T10:52:06.725Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-y4i491a3h",
+            "title": "Moody Desire Mix",
+            "subtitle": "Civitai releases Moody Desire Mix - v3.0 with Flux.2 Klein Checkpoint",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Flux.2"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82dkxBRGZZOHhCVzNMekFYeEROaVNWVERMUklUNElMTXFWR09LNHprZmY3M3l0SEsxRnVycHg1MEN0MTdBM3Exd3ZReG55aUN2Z1ItMHJ2dDR2RDRhdGw5Rw?oc=5",
+                "date": "2026-06-24T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Moody Desire Mix - v3.0, an updated version with Flux.2 Klein Checkpoint, indicating advancements in AI art generation.",
+            "whyItMatters": "This update reflects the growing capabilities of AI in creative work, particularly in art generation, and its increasing accessibility through platforms like Civitai.",
+            "howToUse": "Artists and developers can utilize Civitai's Moody Desire Mix - v3.0 for generating unique, moody art pieces, exploring the potential of AI in their creative workflows.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-xs7pnwect",
             "title": "D7 & D28 IAP",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-n8976avso",
@@ -81,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xs9sse9r9",
@@ -112,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-biljt4dvb",
@@ -1019,36 +1050,6 @@
             "isNew": false
         },
         {
-            "id": "t-66vdsupii",
-            "title": "AI Art Generation",
-            "subtitle": "Using ChatGPT for expressive caricatures in Pixar style",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Pixar Style"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU01xYzlPYlU2a2ZJckpOWjNnNzQwTmNfMEItYkNzTlZvTUlqdWVWQnppaFVxTWNiLXFjQXNPQzBQcm1BTVQxY1pWVnlKaFAwQ1Y5UWtCSDFJb3FsaklLbmZ2enFFelpmZTdfRWMtTDVkRV9qY3NoQjJwaWRrQVdVb1Y3UTM5NGdIalFCYW1XVEJPR1RUREFiZ1BHeXpQMWhCNTdULU1Cb2xrZ0xQUDQySlF5N0hzSnVIcHM5VEtuM2J5NlV6N3hYMEdUTVgzcThmZXJReUdlWXZfSV9DX0picFBLeDlWM0FWNzhOaFhHMGI3RDhYMWd1WHNOd1hnWUUwS3Y4eHRVcldjTGMwYmF0LUNLZTRMOFlXNTg1MldCNDdpTW11RjZORm9JSGRkTzhVV1Z6YURYM0tuTjJtbW9J?oc=5",
-                "date": "2026-06-15T06:57:50.000Z"
-            },
-            "whatsNew": "ChatGPT can be used to generate expressive caricatures in Pixar style, showcasing the potential of AI in art creation. This development highlights the growing capabilities of AI image generation tools. The use of ChatGPT for artistic purposes expands its application beyond text-based tasks.",
-            "whyItMatters": "The ability to generate high-quality, stylized images using AI has significant implications for the art and design industries. It can also influence the development of new visual styles and trends in gaming and animation.",
-            "howToUse": "Artists and designers can utilize ChatGPT to explore new ideas and styles, automating parts of the creative process and focusing on high-level creative decisions. This can be particularly useful for concept art and character design in games and animations.",
-            "beneficiaries": [
-                "Game Developers",
-                "Graphic Designers",
-                "Artists"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-4nzgwn0kb",
             "title": "AI Motion Graphics",
             "subtitle": "Synthesia introduces a free AI motion graphics generator requiring no design skills",
@@ -1365,69 +1366,6 @@
             "isNew": false
         },
         {
-            "id": "t-5kecxbnjh",
-            "title": "Voice Clone Video",
-            "subtitle": "Using AI-generated voice clones in video content",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Voice Cloning",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW5wM01ybk1RY3pkNWh5V1dJTTNJb0xnaHNZMFpZSG5Gb2RzbFowNWJERUJTRUo5b3ktSUhfNTI4d29wSUdOTTFmVS1Rakh3Z2VnNmFWX1VvQXFvLURkWlA5Zmszb3FxcWJjX0t2SDM3alVnSkVTOGYyQnhqY1BhTjE5YU11aEtNZFlfaA?oc=5",
-                "date": "2026-06-15T09:13:54.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides guidance on utilizing AI-generated voice clones in video content, enabling users to create personalized audio narratives. This technology has the potential to revolutionize video production. The use of voice clones can enhance video engagement and accessibility.",
-            "whyItMatters": "The ability to use AI-generated voice clones in videos can significantly impact content creation, making it more efficient and personalized. This technology can also increase accessibility for users with disabilities.",
-            "howToUse": "To use a voice clone in a video, follow Synthesia's knowledge base guidelines, which include setting up the voice clone, recording, and editing the audio to create a seamless narrative.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-7idu0mvsx",
-            "title": "Autonomous Videos",
-            "subtitle": "HeyGen and Stripe Projects collaborate on autonomous launch videos",
-            "category": "AI",
-            "tags": [
-                "Autonomous Videos",
-                "HeyGen",
-                "Stripe Projects"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUmVjQk1SN0hBWnNwTXBYQnNiVVQ1Q3k0cHVmQ2pvV2lrNnZQTUQ1dDhnLUZTQ2RqUWhiUjFXaGVPc09QLW4zb3JYTkJXRXhLUlZDclZnSmpsZ1U?oc=5",
-                "date": "2026-06-15T07:00:00.000Z"
-            },
-            "whatsNew": "HeyGen and Stripe Projects are introducing autonomous launch videos, leveraging AI for automated video creation. This innovation streamlines video production, making it more efficient and accessible. The collaboration aims to revolutionize the way videos are produced and consumed.",
-            "whyItMatters": "The integration of AI in video production can significantly impact the creative industry, enabling faster and more cost-effective content creation. This technology has the potential to disrupt traditional video production methods, opening up new opportunities for creators and businesses.",
-            "howToUse": "To utilize this technology, users can explore HeyGen's platform and Stripe Projects' services, which provide tools and resources for creating autonomous launch videos. By leveraging these solutions, users can automate their video production workflows and focus on higher-level creative decisions.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "HeyGen",
-                "Stripe Projects"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-nurlj5z7k",
             "title": "Pixar Style Animation",
             "subtitle": "A young, quirky animated portrait generated with AI tools",
@@ -1639,37 +1577,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-alt25mrox",
-            "title": "ComfyUI Update",
-            "subtitle": "Civitai releases ComfyUI Image Workflows version 36, enhancing image processing capabilities",
-            "category": "AI",
-            "tags": [
-                "ComfyUI",
-                "Image Workflows",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
-                "date": "2026-06-15T07:00:00.000Z"
-            },
-            "whatsNew": "ComfyUI Image Workflows version 36 introduces improved image processing features, enhancing user experience and workflow efficiency. This update is part of Civitai's ongoing efforts to refine their tools. The new version aims to simplify complex image tasks.",
-            "whyItMatters": "The update matters because it can significantly impact the productivity of artists and designers using ComfyUI, allowing them to focus on creative aspects rather than technical hurdles. This can lead to higher quality outputs and faster project completion.",
-            "howToUse": "To leverage the new features, users should update to version 36 and explore the enhanced image workflow capabilities, which can be applied to various artistic and design projects.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2079,7 +1986,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": null
         },
         {
@@ -2098,7 +2005,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2107,7 +2014,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2116,7 +2023,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "Regulatory updates"
         },
         {
@@ -2134,7 +2041,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2143,7 +2050,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2163,7 +2070,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2221,7 +2128,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2230,7 +2137,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2239,7 +2146,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "Style browsing signal"
         },
         {
@@ -2276,7 +2183,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": null
         },
         {
@@ -2285,7 +2192,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": null
         },
         {
@@ -2294,7 +2201,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-27T04:51:51.058Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": null
         },
         {
@@ -2321,7 +2228,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-22T12:48:25.354Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2366,7 +2273,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T05:29:13.535Z",
+            "lastScan": "2026-06-29T10:52:06.725Z",
             "note": null
         },
         {
@@ -33641,6 +33548,130 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-66vdsupii",
+            "title": "AI Art Generation",
+            "subtitle": "Using ChatGPT for expressive caricatures in Pixar style",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Pixar Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU01xYzlPYlU2a2ZJckpOWjNnNzQwTmNfMEItYkNzTlZvTUlqdWVWQnppaFVxTWNiLXFjQXNPQzBQcm1BTVQxY1pWVnlKaFAwQ1Y5UWtCSDFJb3FsaklLbmZ2enFFelpmZTdfRWMtTDVkRV9qY3NoQjJwaWRrQVdVb1Y3UTM5NGdIalFCYW1XVEJPR1RUREFiZ1BHeXpQMWhCNTdULU1Cb2xrZ0xQUDQySlF5N0hzSnVIcHM5VEtuM2J5NlV6N3hYMEdUTVgzcThmZXJReUdlWXZfSV9DX0picFBLeDlWM0FWNzhOaFhHMGI3RDhYMWd1WHNOd1hnWUUwS3Y4eHRVcldjTGMwYmF0LUNLZTRMOFlXNTg1MldCNDdpTW11RjZORm9JSGRkTzhVV1Z6YURYM0tuTjJtbW9J?oc=5",
+                "date": "2026-06-15T06:57:50.000Z"
+            },
+            "whatsNew": "ChatGPT can be used to generate expressive caricatures in Pixar style, showcasing the potential of AI in art creation. This development highlights the growing capabilities of AI image generation tools. The use of ChatGPT for artistic purposes expands its application beyond text-based tasks.",
+            "whyItMatters": "The ability to generate high-quality, stylized images using AI has significant implications for the art and design industries. It can also influence the development of new visual styles and trends in gaming and animation.",
+            "howToUse": "Artists and designers can utilize ChatGPT to explore new ideas and styles, automating parts of the creative process and focusing on high-level creative decisions. This can be particularly useful for concept art and character design in games and animations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Artists"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-5kecxbnjh",
+            "title": "Voice Clone Video",
+            "subtitle": "Using AI-generated voice clones in video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Voice Cloning",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW5wM01ybk1RY3pkNWh5V1dJTTNJb0xnaHNZMFpZSG5Gb2RzbFowNWJERUJTRUo5b3ktSUhfNTI4d29wSUdOTTFmVS1Rakh3Z2VnNmFWX1VvQXFvLURkWlA5Zmszb3FxcWJjX0t2SDM3alVnSkVTOGYyQnhqY1BhTjE5YU11aEtNZFlfaA?oc=5",
+                "date": "2026-06-15T09:13:54.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides guidance on utilizing AI-generated voice clones in video content, enabling users to create personalized audio narratives. This technology has the potential to revolutionize video production. The use of voice clones can enhance video engagement and accessibility.",
+            "whyItMatters": "The ability to use AI-generated voice clones in videos can significantly impact content creation, making it more efficient and personalized. This technology can also increase accessibility for users with disabilities.",
+            "howToUse": "To use a voice clone in a video, follow Synthesia's knowledge base guidelines, which include setting up the voice clone, recording, and editing the audio to create a seamless narrative.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-7idu0mvsx",
+            "title": "Autonomous Videos",
+            "subtitle": "HeyGen and Stripe Projects collaborate on autonomous launch videos",
+            "category": "AI",
+            "tags": [
+                "Autonomous Videos",
+                "HeyGen",
+                "Stripe Projects"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUmVjQk1SN0hBWnNwTXBYQnNiVVQ1Q3k0cHVmQ2pvV2lrNnZQTUQ1dDhnLUZTQ2RqUWhiUjFXaGVPc09QLW4zb3JYTkJXRXhLUlZDclZnSmpsZ1U?oc=5",
+                "date": "2026-06-15T07:00:00.000Z"
+            },
+            "whatsNew": "HeyGen and Stripe Projects are introducing autonomous launch videos, leveraging AI for automated video creation. This innovation streamlines video production, making it more efficient and accessible. The collaboration aims to revolutionize the way videos are produced and consumed.",
+            "whyItMatters": "The integration of AI in video production can significantly impact the creative industry, enabling faster and more cost-effective content creation. This technology has the potential to disrupt traditional video production methods, opening up new opportunities for creators and businesses.",
+            "howToUse": "To utilize this technology, users can explore HeyGen's platform and Stripe Projects' services, which provide tools and resources for creating autonomous launch videos. By leveraging these solutions, users can automate their video production workflows and focus on higher-level creative decisions.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "HeyGen",
+                "Stripe Projects"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-alt25mrox",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows version 36, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-06-15T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows version 36 introduces improved image processing features, enhancing user experience and workflow efficiency. This update is part of Civitai's ongoing efforts to refine their tools. The new version aims to simplify complex image tasks.",
+            "whyItMatters": "The update matters because it can significantly impact the productivity of artists and designers using ComfyUI, allowing them to focus on creative aspects rather than technical hurdles. This can lead to higher quality outputs and faster project completion.",
+            "howToUse": "To leverage the new features, users should update to version 36 and explore the enhanced image workflow capabilities, which can be applied to various artistic and design projects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
