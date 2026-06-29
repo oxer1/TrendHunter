@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-29T00:05:46.379Z",
+        "scanDate": "2026-06-29T05:29:13.535Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xs7pnwect",
+            "title": "D7 & D28 IAP",
+            "subtitle": "Unity Ads expands optimization capabilities with D28 IAP ROAS optimizer to acquire high-value players",
+            "category": "Tech",
+            "tags": [
+                "Unity Ads",
+                "IAP ROAS",
+                "User Acquisition",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns",
+                "date": "2026-06-25T00:00:00.000Z"
+            },
+            "whatsNew": "Unity Ads introduces D28 IAP ROAS optimizer to capture players with longer monetization curves, expanding targeting capabilities for studios and publishers. The new optimizer uses machine learning to predict high-value players and adjust bids accordingly.",
+            "whyItMatters": "Effective user acquisition strategies are crucial for game development, and Unity's D28 IAP ROAS optimizer provides a new optimization window to acquire high-value players, improving revenue potential and long-term viability. By running both D7 and D28 campaigns, UA managers can capture improved performance throughout the entire value curve.",
+            "howToUse": "Studios and publishers can use Unity Vector to optimize both D7 and D28 IAP ROAS campaigns, leveraging holistic player and game intelligence to distinguish between player types and improve bidding decisions.",
+            "beneficiaries": [
+                "Game Developers",
+                "UA Managers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-n8976avso",
+            "title": "AI Video Generation",
+            "subtitle": "OpenArt releases Seedance 2.5 for 30-second 4K AI videos",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "4K Video",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01U2J4cXJtOFpMWF96ZmxfTjJUNlQyUHB3enJSc3pSdzVmZGpJa3FVWWhIZnRtVmE2cHdNYlFsN0F0YmJpcHJHNzNvVGlsZm1XcDY4?oc=5",
+                "date": "2026-06-27T07:53:15.000Z"
+            },
+            "whatsNew": "Seedance 2.5 enables the creation of 30-second 4K AI-generated videos, a significant advancement in AI video technology. This update showcases the rapid progress in AI video generation capabilities. The increased video length and resolution open up new possibilities for creative applications.",
+            "whyItMatters": "The ability to generate high-quality, longer-form videos using AI has significant implications for the entertainment, advertising, and gaming industries. It can streamline content creation, reduce production costs, and offer new forms of interactive and immersive experiences.",
+            "howToUse": "Content creators can utilize Seedance 2.5 to produce high-quality, engaging videos for various platforms, including social media, websites, and gaming environments, by leveraging its AI-powered video generation capabilities.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-xs9sse9r9",
+            "title": "AI Workflow Alternatives",
+            "subtitle": "Exploring alternatives to Higgsfield MCP for creative AI workflows",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Higgsfield MCP",
+                "Creative AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16ZThGQ1kwVXJqd3FoR1hraTBua2JoR05wZ25MSE5zZ2F6Z1hybko0ZEZRTHNqRG1HTGpvMGdvZFBDVHAycWpaNWc4RXJXLWgtcDVUM2puMWJfbW5vZmd2Ny13?oc=5",
+                "date": "2026-06-29T04:45:14.000Z"
+            },
+            "whatsNew": "The article discusses alternatives to Higgsfield MCP, highlighting new options for creative AI workflows. OpenArt provides insights into the best alternatives for various creative tasks. These alternatives aim to enhance productivity and efficiency in AI-driven creative processes.",
+            "whyItMatters": "The availability of alternatives to Higgsfield MCP can significantly impact the creative industry by providing more options for artists and developers. This can lead to increased innovation and better outcomes in AI-assisted creative work.",
+            "howToUse": "Artists and developers can explore these alternatives to find the best fit for their specific needs, potentially streamlining their creative workflows and improving overall quality.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-biljt4dvb",
             "title": "AI Art Update",
@@ -49,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5y80bxle4",
@@ -1985,7 +2079,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": null
         },
         {
@@ -2004,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2013,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2022,7 +2116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "Regulatory updates"
         },
         {
@@ -2040,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2049,7 +2143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2069,7 +2163,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2127,7 +2221,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2136,7 +2230,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T13:40:01.307Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2145,7 +2239,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T13:40:01.307Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": "Style browsing signal"
         },
         {
@@ -2182,7 +2276,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-28T08:19:29.609Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": null
         },
         {
@@ -2191,7 +2285,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-28T04:23:56.177Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": null
         },
         {
@@ -2272,7 +2366,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T00:05:46.379Z",
+            "lastScan": "2026-06-29T05:29:13.535Z",
             "note": null
         },
         {
