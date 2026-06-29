@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-29T10:52:06.725Z",
+        "scanDate": "2026-06-29T14:46:45.921Z",
         "version": "2.5.0",
         "totalTrends": 58,
         "categories": [
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-1irkng8cc",
+            "title": "Polymarket Probe",
+            "subtitle": "Polymarket faces CFTC probe after a $3.1m hacking scandal",
+            "category": "iGaming",
+            "tags": [
+                "CFTC",
+                "Polymarket",
+                "Hacking Scandal"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjZpTFNrQmlXYXQ5R0k4c2o2VEhoQm0wTFZtcWlFSzRUSjMyQ25zc09WUmhCZG91SkhDRWtxX3diZ2taVmJRUGhPcHdDSGhIMmMwWm00UFJJdWZEelF6bTJKcGg4cVNxWXBDVnBwOWJKUzJXMEVrX1ZGNHlJQmktS3ZsUHhGQXNZamwyUHRHVl9odw?oc=5",
+                "date": "2026-06-29T10:51:32.000Z"
+            },
+            "whatsNew": "Polymarket is under investigation by the CFTC following a significant hacking incident resulting in $3.1m losses. The probe highlights regulatory scrutiny in the online betting space.",
+            "whyItMatters": "This incident underscores the importance of security in online gambling platforms and the potential consequences of failing to protect user funds. Regulatory bodies are taking a closer look at these platforms.",
+            "howToUse": "Operators should prioritize robust security measures to prevent similar incidents and ensure compliance with regulatory requirements.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Online Gambling Operators"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-mlvu7ya3w",
+            "title": "Lenovo AI Model",
+            "subtitle": "Lenovo releases UltraReal v1.0 Krea2 AI model on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Model",
+                "Lenovo",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
+                "date": "2026-06-27T07:00:00.000Z"
+            },
+            "whatsNew": "Lenovo has released its UltraReal v1.0 Krea2 AI model, available on Civitai. This model is part of the Krea 2 LoRA series.",
+            "whyItMatters": "The release of Lenovo's UltraReal AI model indicates the company's growing interest in AI technology, potentially impacting the AI for creative work landscape.",
+            "howToUse": "Developers can utilize the Lenovo UltraReal v1.0 Krea2 model for various AI-related projects, such as image and video generation, by accessing it through Civitai.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Lenovo"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-y4i491a3h",
             "title": "Moody Desire Mix",
@@ -49,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xs7pnwect",
@@ -1644,38 +1706,6 @@
             "isNew": false
         },
         {
-            "id": "t-w0h53y5bm",
-            "title": "Evolution Lawsuit",
-            "subtitle": "Court denies Evolution's request to add Playtech as lawsuit defendant",
-            "category": "iGaming",
-            "tags": [
-                "Evolution",
-                "Playtech",
-                "Lawsuit"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXFwdUMzeVR2ZUh1THJGblpKWXpRUnRKV2toNHpoamJpYS1xSjJSYXh5R3N1bU5nRnNBQUZ3NmlKcjVQVkZvWjNmVUZabER2TEZVZHpWbkdmMUJtVUNKUE9BWHBBZDNQcUZMSnN1LWhXYUE5UFpXYUlxZWRjdmVaZEpUZ29hYWkyeVRlWmkzdk51Y0xDUlJubkl6cnZzcUd1dXJqSw?oc=5",
-                "date": "2026-06-15T14:32:16.000Z"
-            },
-            "whatsNew": "A court has denied Evolution's request to add Playtech as a defendant in an ongoing lawsuit, marking a significant development in the case. The lawsuit's outcome may impact the iGaming industry. Evolution's legal strategy has been rejected in this instance.",
-            "whyItMatters": "The lawsuit's outcome may have implications for the iGaming industry, particularly regarding legal disputes and partnerships between major players. This development reflects the complex and competitive nature of the industry.",
-            "howToUse": "iGaming companies should monitor legal developments and adjust their strategies accordingly, considering the potential impact of lawsuits on their operations and partnerships.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Evolution",
-                "Playtech"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-ovlytr2bb",
             "title": "1xBet Licensing",
             "subtitle": "1xBet invests in global licensing for long-term stability",
@@ -1798,37 +1828,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-iopxzmwms",
-            "title": "Nevada vs Kalshi",
-            "subtitle": "Nevada regulator requests Kalshi be held in contempt of court related to potential iGaming regulation issues",
-            "category": "iGaming",
-            "tags": [
-                "Nevada",
-                "Kalshi",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3E0NVVQUjcwNjR5Tnc2Q3hZcXczaHFwN19BeVZtUmJoaldJQzRQYmNsSlhmSV9qRmViMG9xQTBmQkxYUXJpb1Z3TGpvcFFmOV9iZzB2VlFtN0V3N1FkVmxOZ3QzOW9hWHpUcUVxMkdLV1c5Z0RtdGg0VjQzT3VoM0RlcnBPeVBYNGxKQmtiSmt1T3hwRXpRN1U3SmQ?oc=5",
-                "date": "2026-06-15T11:16:15.000Z"
-            },
-            "whatsNew": "The Nevada regulator has requested that Kalshi be held in contempt of court, indicating a significant development in the regulatory landscape of iGaming. This move suggests a potential crackdown on non-compliant operators. The specifics of the contempt request are not detailed but imply a serious breach of regulations.",
-            "whyItMatters": "This development matters because it highlights the increasing scrutiny of regulatory bodies over iGaming operators, potentially impacting the operations and compliance strategies of similar companies. It also underscores the importance of adherence to regulatory requirements in the industry.",
-            "howToUse": "Operators should review their compliance strategies to ensure they meet all regulatory requirements, and legal teams should be prepared to address any potential contempt issues promptly.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Compliance Teams"
-            ],
-            "companies": [
-                "Kalshi"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         }
     ],
@@ -1986,7 +1985,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": null
         },
         {
@@ -2005,7 +2004,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2014,7 +2013,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2023,7 +2022,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "Regulatory updates"
         },
         {
@@ -2041,7 +2040,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2050,7 +2049,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2070,7 +2069,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2128,7 +2127,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2137,7 +2136,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2146,7 +2145,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": "Style browsing signal"
         },
         {
@@ -2273,7 +2272,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-29T14:46:45.921Z",
             "note": null
         },
         {
@@ -33672,6 +33671,69 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-w0h53y5bm",
+            "title": "Evolution Lawsuit",
+            "subtitle": "Court denies Evolution's request to add Playtech as lawsuit defendant",
+            "category": "iGaming",
+            "tags": [
+                "Evolution",
+                "Playtech",
+                "Lawsuit"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXFwdUMzeVR2ZUh1THJGblpKWXpRUnRKV2toNHpoamJpYS1xSjJSYXh5R3N1bU5nRnNBQUZ3NmlKcjVQVkZvWjNmVUZabER2TEZVZHpWbkdmMUJtVUNKUE9BWHBBZDNQcUZMSnN1LWhXYUE5UFpXYUlxZWRjdmVaZEpUZ29hYWkyeVRlWmkzdk51Y0xDUlJubkl6cnZzcUd1dXJqSw?oc=5",
+                "date": "2026-06-15T14:32:16.000Z"
+            },
+            "whatsNew": "A court has denied Evolution's request to add Playtech as a defendant in an ongoing lawsuit, marking a significant development in the case. The lawsuit's outcome may impact the iGaming industry. Evolution's legal strategy has been rejected in this instance.",
+            "whyItMatters": "The lawsuit's outcome may have implications for the iGaming industry, particularly regarding legal disputes and partnerships between major players. This development reflects the complex and competitive nature of the industry.",
+            "howToUse": "iGaming companies should monitor legal developments and adjust their strategies accordingly, considering the potential impact of lawsuits on their operations and partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Evolution",
+                "Playtech"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-iopxzmwms",
+            "title": "Nevada vs Kalshi",
+            "subtitle": "Nevada regulator requests Kalshi be held in contempt of court related to potential iGaming regulation issues",
+            "category": "iGaming",
+            "tags": [
+                "Nevada",
+                "Kalshi",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3E0NVVQUjcwNjR5Tnc2Q3hZcXczaHFwN19BeVZtUmJoaldJQzRQYmNsSlhmSV9qRmViMG9xQTBmQkxYUXJpb1Z3TGpvcFFmOV9iZzB2VlFtN0V3N1FkVmxOZ3QzOW9hWHpUcUVxMkdLV1c5Z0RtdGg0VjQzT3VoM0RlcnBPeVBYNGxKQmtiSmt1T3hwRXpRN1U3SmQ?oc=5",
+                "date": "2026-06-15T11:16:15.000Z"
+            },
+            "whatsNew": "The Nevada regulator has requested that Kalshi be held in contempt of court, indicating a significant development in the regulatory landscape of iGaming. This move suggests a potential crackdown on non-compliant operators. The specifics of the contempt request are not detailed but imply a serious breach of regulations.",
+            "whyItMatters": "This development matters because it highlights the increasing scrutiny of regulatory bodies over iGaming operators, potentially impacting the operations and compliance strategies of similar companies. It also underscores the importance of adherence to regulatory requirements in the industry.",
+            "howToUse": "Operators should review their compliance strategies to ensure they meet all regulatory requirements, and legal teams should be prepared to address any potential contempt issues promptly.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Compliance Teams"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
