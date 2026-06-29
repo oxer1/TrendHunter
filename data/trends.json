@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-29T14:46:45.921Z",
+        "scanDate": "2026-06-29T17:33:45.552Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 57,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mlvu7ya3w",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-y4i491a3h",
@@ -1797,38 +1797,6 @@
             "visualStyle": null,
             "cluster": "ai-automation",
             "isNew": false
-        },
-        {
-            "id": "t-v9u582c8p",
-            "title": "AI Video Generator",
-            "subtitle": "OpenArt introduces an online paper background video generator",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "Background Generation",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QcmhlSHBib2c5ZnBRUXhZUUI3cFQ4b0lCcjV4S0ZOV290QTdyOVYzV0F2bFpfTUEyODdyRVp4Vm9FdEx1N0d4V2cyNk5lQTdkLUczZHZQTG9LeC1uUlE?oc=5",
-                "date": "2026-06-15T15:43:43.000Z"
-            },
-            "whatsNew": "OpenArt has introduced an online paper background video generator, utilizing AI for creative video production. This tool allows users to generate high-quality background videos. The generator is available online and can be used for various purposes.",
-            "whyItMatters": "The introduction of this AI-powered video generator can significantly impact the creative industry, providing an efficient and accessible tool for video production. It can benefit content creators, designers, and artists.",
-            "howToUse": "Users can access the generator on OpenArt's website and follow the provided instructions to create their own background videos. The tool is designed to be user-friendly and requires minimal expertise.",
-            "beneficiaries": [
-                "Content Creators",
-                "Designers",
-                "Artists"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1985,7 +1953,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": null
         },
         {
@@ -2004,7 +1972,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2013,7 +1981,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2022,7 +1990,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "Regulatory updates"
         },
         {
@@ -2040,7 +2008,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2049,7 +2017,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2069,7 +2037,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2127,7 +2095,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2136,7 +2104,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2145,7 +2113,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": "Style browsing signal"
         },
         {
@@ -2272,7 +2240,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T14:46:45.921Z",
+            "lastScan": "2026-06-29T17:33:45.552Z",
             "note": null
         },
         {
@@ -33734,6 +33702,38 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-v9u582c8p",
+            "title": "AI Video Generator",
+            "subtitle": "OpenArt introduces an online paper background video generator",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Background Generation",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QcmhlSHBib2c5ZnBRUXhZUUI3cFQ4b0lCcjV4S0ZOV290QTdyOVYzV0F2bFpfTUEyODdyRVp4Vm9FdEx1N0d4V2cyNk5lQTdkLUczZHZQTG9LeC1uUlE?oc=5",
+                "date": "2026-06-15T15:43:43.000Z"
+            },
+            "whatsNew": "OpenArt has introduced an online paper background video generator, utilizing AI for creative video production. This tool allows users to generate high-quality background videos. The generator is available online and can be used for various purposes.",
+            "whyItMatters": "The introduction of this AI-powered video generator can significantly impact the creative industry, providing an efficient and accessible tool for video production. It can benefit content creators, designers, and artists.",
+            "howToUse": "Users can access the generator on OpenArt's website and follow the provided instructions to create their own background videos. The tool is designed to be user-friendly and requires minimal expertise.",
+            "beneficiaries": [
+                "Content Creators",
+                "Designers",
+                "Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
