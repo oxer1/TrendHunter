@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-29T21:23:23.523Z",
+        "scanDate": "2026-06-29T22:53:51.411Z",
         "version": "2.5.0",
-        "totalTrends": 56,
+        "totalTrends": 57,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-nftulb2jk",
+            "title": "FIRST.bet New Co-CEO",
+            "subtitle": "FIRST.bet appoints ex-DraftKings sportsbook chief as co-CEO",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "iGaming Leadership",
+                "DraftKings"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEdYNGtscXQ0OS0yX3QtTDNEMTV1VVpsTDZFdVR1VTFpNkhJUzF5SGpmYnBNNW9XUVlXYThCekdyWVpNWC1Xa0VOR1RobGdEZmZWUUtkLXpaNWV6YnBzNmFtQngyNFBLNkVEN1YtanBWUVFmcGZVcXdqVTZTN3BtaU9ncGpuUloyaEV3?oc=5",
+                "date": "2026-06-29T10:52:53.000Z"
+            },
+            "whatsNew": "FIRST.bet has appointed the former DraftKings sportsbook chief as its new co-CEO, marking a significant move in the iGaming industry. This appointment could signal a shift in strategy for FIRST.bet. The move highlights the growing importance of experienced leadership in the sports betting sector.",
+            "whyItMatters": "The appointment reflects the increasing competition in the sports betting market and the need for experienced leadership to drive growth. It may also indicate potential expansions or innovations in FIRST.bet's offerings.",
+            "howToUse": "Companies in the iGaming sector can learn from this move by prioritizing experienced leadership and strategic appointments to stay competitive. This could involve seeking out talent from established players in the market.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Sports Betting Operators"
+            ],
+            "companies": [
+                "FIRST.bet",
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-1irkng8cc",
             "title": "Polymarket Probe",
@@ -1921,7 +1953,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": null
         },
         {
@@ -1940,7 +1972,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1949,7 +1981,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1958,7 +1990,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": "Regulatory updates"
         },
         {
@@ -1976,7 +2008,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1985,7 +2017,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2005,7 +2037,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2063,7 +2095,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2208,7 +2240,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T21:23:23.523Z",
+            "lastScan": "2026-06-29T22:53:51.411Z",
             "note": null
         },
         {
