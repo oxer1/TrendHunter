@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-30T17:04:59.031Z",
+        "scanDate": "2026-06-30T19:51:12.793Z",
         "version": "2.5.0",
         "totalTrends": 57,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qpykqi3wv",
+            "title": "Quantum Acquires Rewards",
+            "subtitle": "Quantum completes acquisition of digital rewards brands from Submission Technology",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "Digital Rewards",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWRVNnlsQ1BXbHk3aWxzMUR6R0dPSUVlUUNyeF9QWHhYWGZSaElqdDRWcGNicmF4OHRBNUN5ZEtvNzFtWUt1VnNXdTM3d0stR2ZfXzdYWGxSa0h4UjFfV29VY0tXNHpkOUxLLWJOUFRkSkZpRGlDQWNibThWeU1MbWJQT1BYdEZaWi1fQUxobnExNVFuX2I4MzkwZW56UUY5RU96QVpiOUNxQUhVcEpuWnFuRTM?oc=5",
+                "date": "2026-06-30T10:52:47.000Z"
+            },
+            "whatsNew": "Quantum has acquired digital rewards brands from Submission Technology, expanding its presence in the iGaming industry. This move indicates a growing trend of consolidation in the sector. The acquisition is expected to enhance Quantum's offerings and competitiveness.",
+            "whyItMatters": "The acquisition reflects the increasing importance of digital rewards in the iGaming industry, as companies seek to enhance user experience and loyalty. This deal may inspire similar moves by other industry players.",
+            "howToUse": "iGaming operators can consider strategic acquisitions to bolster their digital rewards capabilities and stay competitive. They should assess potential targets and integrate acquired assets effectively to maximize value.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Digital Rewards Providers"
+            ],
+            "companies": [
+                "Quantum",
+                "Submission Technology"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-2mc8dmjuy",
             "title": "1xCare Player Hub",
@@ -678,37 +710,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-6po6muea1",
-            "title": "Custom Avatars",
-            "subtitle": "Using custom avatar outfits and backgrounds to enhance video engagement",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "Custom Avatars",
-                "Video Engagement"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcldmNGFNWUg1SHhhN2VHd2kzMVl5c0dHS2Z3QkxFcmgxYzZzWW5uQ3NBazJJeXYyLVRadlBSQjBrVjNPd1VfOWlpYzFWTklyaWpJdkdJbEdkSFppcVJUYnJ0cGkyR0Y4cU1sRWRqcFZDaU83WjExblJaT1ZjZGpJWHBsaVlfeWd6Ym50d2FVUmVMZnczZnVRS2Y5bmJjRzRKbXRxYmlDOXFWN0VQME9fVXBNcFA2X3dYb1V1NEJPaG1sdw?oc=5",
-                "date": "2026-06-16T19:33:16.000Z"
-            },
-            "whatsNew": "Synthesia's knowledge base provides insights on making videos more engaging with custom avatar outfits and backgrounds, enhancing viewer experience through personalized content.",
-            "whyItMatters": "Customizable avatars and backgrounds can significantly increase viewer engagement and retention, making videos more effective for communication and marketing purposes.",
-            "howToUse": "Utilize AI video tools like Synthesia to create and customize avatars and backgrounds, tailoring them to specific audiences and content themes for maximum impact.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1955,7 +1956,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": null
         },
         {
@@ -1974,7 +1975,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1983,7 +1984,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1992,7 +1993,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "Regulatory updates"
         },
         {
@@ -2010,7 +2011,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2019,7 +2020,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2039,7 +2040,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2097,7 +2098,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2106,7 +2107,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2115,7 +2116,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": "Style browsing signal"
         },
         {
@@ -2242,7 +2243,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T17:04:59.031Z",
+            "lastScan": "2026-06-30T19:51:12.793Z",
             "note": null
         },
         {
@@ -33956,6 +33957,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6po6muea1",
+            "title": "Custom Avatars",
+            "subtitle": "Using custom avatar outfits and backgrounds to enhance video engagement",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "Custom Avatars",
+                "Video Engagement"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcldmNGFNWUg1SHhhN2VHd2kzMVl5c0dHS2Z3QkxFcmgxYzZzWW5uQ3NBazJJeXYyLVRadlBSQjBrVjNPd1VfOWlpYzFWTklyaWpJdkdJbEdkSFppcVJUYnJ0cGkyR0Y4cU1sRWRqcFZDaU83WjExblJaT1ZjZGpJWHBsaVlfeWd6Ym50d2FVUmVMZnczZnVRS2Y5bmJjRzRKbXRxYmlDOXFWN0VQME9fVXBNcFA2X3dYb1V1NEJPaG1sdw?oc=5",
+                "date": "2026-06-16T19:33:16.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides insights on making videos more engaging with custom avatar outfits and backgrounds, enhancing viewer experience through personalized content.",
+            "whyItMatters": "Customizable avatars and backgrounds can significantly increase viewer engagement and retention, making videos more effective for communication and marketing purposes.",
+            "howToUse": "Utilize AI video tools like Synthesia to create and customize avatars and backgrounds, tailoring them to specific audiences and content themes for maximum impact.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
