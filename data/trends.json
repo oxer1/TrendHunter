@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-30T00:01:13.312Z",
+        "scanDate": "2026-06-30T05:01:04.718Z",
         "version": "2.5.0",
-        "totalTrends": 57,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,102 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-iwq3dgau5",
+            "title": "Niji Semi Realism",
+            "subtitle": "Civitai releases Niji semi realism v5.0 with Anima and Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "Niji",
+                "Semi Realism",
+                "Anima",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56TlZCR2hxV2RxOVEyaDNEQnVVR0NMS3FHTUYzZ19YWmFzNUpnWjV4OWFFMm54Yk1KNW43T1plclFxTF9OREtiZHZTdlZ2eUNiaF9sWWFEQldNNndaMnIyVA?oc=5",
+                "date": "2026-06-26T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Niji semi realism v5.0, which includes Anima and Anima LoRA, marking an advancement in AI art generation capabilities. This update suggests a continued focus on improving realism in AI-generated art. The inclusion of Anima and LoRA technologies indicates a push towards more sophisticated and detailed art generation.",
+            "whyItMatters": "This release is significant because it demonstrates the ongoing development and refinement of AI art generation tools, which can have a substantial impact on the gaming and visual design industries. It showcases the potential for AI to produce high-quality, realistic art, which can be used in various applications, including game development and visual effects.",
+            "howToUse": "Artists and developers can utilize Niji semi realism v5.0 to generate realistic art for their projects, potentially streamlining their workflow and enhancing the visual quality of their work. By leveraging Anima and LoRA, users can explore new possibilities in AI-assisted art creation.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-ar3a7a92g",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces Illustrious/Pony/SDXL workflow for SFW and NSFW content",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck03R3Q1ZzAtSHpuYUI2NmdGTHpDbXpRbE9EM0xhS1NuVWJFMHc5TndKcXJBUDktQmR5OXNQVlpUSlpTeXZDbF9MOEFkZmwzZXdaX0k2b3paTjBtQnFmcE1JR1FreUVSdzBfWkZrOVVhTE95ZGdQNlphTkkxVzRaMWJYMlNrbm5rdTAtSWFJM1l2bEVYTGN3VkljQnJYNFkxSUYtTHpiVE1jQQ?oc=5",
+                "date": "2026-06-21T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, enabling more flexible AI art generation. It caters to both SFW and NSFW content creators. The workflow is designed for professional-grade output.",
+            "whyItMatters": "This development matters because it expands the accessibility of AI art tools for creators with varying hardware capabilities. It also signifies the growing importance of adaptable workflows in AI art generation.",
+            "howToUse": "Artists can utilize Civitai's workflow by adjusting parameters according to their VRAM and content type, ensuring high-quality output regardless of their system's specifications.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-6lti087g1",
+            "title": "AI Art Generation",
+            "subtitle": "Using ChatGPT for stylized celebrity illustrations",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV0twSVY5d2VBSjFhajFGN2JYUnVkZEFUckszODlMTHhWcWdTaTdGck45NzVsYVB2ODVQR0ZzMXlOTHIxcVlLRzRqMlNzS3ItQ2dleC1YNjVNYjZVOXhyTFI3TFhOWnF0a3lvbjQxeDR6dS1wY0dleUhwTFA1VmpQU21ETVNRTi1xTkVFZV9pV1RWcnItMG9uM0hmMmdYVkY4V2o3SDBCSE82T19JZ1hJWmRyN19FeUJfeUlEdzM3UmJseUdVRWwzM0l3NGJLZzlBSk9JOFJ0MFJyb1Y3NHJMa3JDdVl4TkxVeGZLR05WVDJvWVRTSlcyQ3B4VGpJdXNSem1aUDh1eV9Wb2tq?oc=5",
+                "date": "2026-06-16T07:00:00.000Z"
+            },
+            "whatsNew": "The use of ChatGPT for generating full-body illustrations of celebrities like Al Pacino in stylized forms is a new application of AI art generation. This technology can be used to create unique and personalized art pieces. The ability to generate high-quality images with specific prompts is advancing rapidly.",
+            "whyItMatters": "This development matters because it showcases the potential of AI in creative fields, allowing for new forms of artistic expression and potentially changing the way art is created and consumed. It also has implications for industries like gaming and entertainment, where personalized and stylized characters are in high demand.",
+            "howToUse": "To utilize this technology, users can experiment with different prompts and styles to generate unique images. This can be particularly useful for artists, designers, and developers looking to incorporate AI-generated art into their projects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-nftulb2jk",
             "title": "FIRST.bet New Co-CEO",
@@ -1953,7 +2049,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": null
         },
         {
@@ -1972,7 +2068,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1981,7 +2077,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1990,7 +2086,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "Regulatory updates"
         },
         {
@@ -2008,7 +2104,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2017,7 +2113,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2037,7 +2133,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2095,7 +2191,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T22:53:51.411Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2104,7 +2200,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T19:52:53.378Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2113,7 +2209,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T17:33:45.552Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": "Style browsing signal"
         },
         {
@@ -2150,7 +2246,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": null
         },
         {
@@ -2159,7 +2255,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-29T10:52:06.725Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": null
         },
         {
@@ -2240,7 +2336,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T00:01:13.312Z",
+            "lastScan": "2026-06-30T05:01:04.718Z",
             "note": null
         },
         {
