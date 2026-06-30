@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-30T14:12:32.125Z",
+        "scanDate": "2026-06-30T17:04:59.031Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 57,
         "categories": [
             "iGaming",
             "AI",
@@ -1302,37 +1302,6 @@
             "isNew": false
         },
         {
-            "id": "t-llio16of8",
-            "title": "Spine 2D Issue",
-            "subtitle": "CustomMaterialOverride not working as expected after upgrading to 4.3 in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "CustomMaterialOverride",
-                "Upgrade Issue"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdk0yZG90c1RVcFBFQkRsZElfS0xuV3k2RnpXS1NST0J0cll2SklFbzhwNDlrSGRKZ1VTdkFYeWVWbTcwVTdQYl9YRHRhRXJ1ZDJmUElOUlFQVWRUZWlYZnZ0T3JVRWdCTGcwOTJsNnBwMFE4Z3pRc1B4cnhzUG4xcGVLSU5KeTdRdkZSbmlNQTVlWjRSbzFZSTZ1U3VoZ0tfUnJUR1VZQ25qcURxbnlyZw?oc=5",
-                "date": "2026-06-16T15:37:58.000Z"
-            },
-            "whatsNew": "The CustomMaterialOverride feature in Spine 2D is not working as expected after the upgrade to version 4.3. This issue may affect game development workflows that rely on this feature.",
-            "whyItMatters": "The malfunction of CustomMaterialOverride can hinder the development process of 2D games and animations that utilize Spine 2D, potentially delaying project timelines.",
-            "howToUse": "Developers should review the upgrade documentation and community forums for potential workarounds or fixes for the CustomMaterialOverride issue in Spine 2D version 4.3.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-jaj3b47et",
             "title": "Spine 2D Animation",
             "subtitle": "Spine 2D character setup pose between animations",
@@ -1830,38 +1799,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-0zfd04nml",
-            "title": "Crypto Casino Launch",
-            "subtitle": "Former BetVictor CEO launches online crypto casino and sportsbook",
-            "category": "iGaming",
-            "tags": [
-                "Crypto Casino",
-                "Sportsbook",
-                "BetVictor"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTBQLVpZSnNsZzVIRnhndzBZbmJtdFBqOW1WWWdDRjlacFZaR1VmaHhVenNtTkdlY29lNmZLcmN0SzhRSkhQekNXSjdIQzdNWjdwaDRFY3VyUGlqdHlDcEFqdUZCZDlsWXJVZm9DNUlWZFpkLWxnODNTaS1CZXBIZ0F1R2d4QWJHTnNHMDJkUEtmT3R5ZWpTYlF4dnE?oc=5",
-                "date": "2026-06-16T14:29:24.000Z"
-            },
-            "whatsNew": "The former CEO of BetVictor has launched a new online crypto casino and sportsbook, marking a significant entry into the cryptocurrency-based gaming sector. This launch indicates a growing interest in crypto-based gaming solutions. The platform is expected to offer a range of casino games and sports betting options.",
-            "whyItMatters": "This launch is impactful as it combines the traditional gaming industry with the emerging cryptocurrency sector, potentially attracting a new demographic of players. It also signifies a strategic move by a veteran gaming executive into the crypto space.",
-            "howToUse": "Operators and investors can consider the potential of crypto-based gaming platforms for expansion and investment, while players can look forward to new gaming experiences and payment options.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Investors",
-                "Players"
-            ],
-            "companies": [
-                "BetVictor"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2018,7 +1955,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": null
         },
         {
@@ -2037,7 +1974,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2046,7 +1983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2055,7 +1992,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": "Regulatory updates"
         },
         {
@@ -2073,7 +2010,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2082,7 +2019,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2102,7 +2039,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2160,7 +2097,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2305,7 +2242,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T14:12:32.125Z",
+            "lastScan": "2026-06-30T17:04:59.031Z",
             "note": null
         },
         {
@@ -33953,6 +33890,69 @@
             ],
             "companies": [
                 "Midnite"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-llio16of8",
+            "title": "Spine 2D Issue",
+            "subtitle": "CustomMaterialOverride not working as expected after upgrading to 4.3 in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "CustomMaterialOverride",
+                "Upgrade Issue"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdk0yZG90c1RVcFBFQkRsZElfS0xuV3k2RnpXS1NST0J0cll2SklFbzhwNDlrSGRKZ1VTdkFYeWVWbTcwVTdQYl9YRHRhRXJ1ZDJmUElOUlFQVWRUZWlYZnZ0T3JVRWdCTGcwOTJsNnBwMFE4Z3pRc1B4cnhzUG4xcGVLSU5KeTdRdkZSbmlNQTVlWjRSbzFZSTZ1U3VoZ0tfUnJUR1VZQ25qcURxbnlyZw?oc=5",
+                "date": "2026-06-16T15:37:58.000Z"
+            },
+            "whatsNew": "The CustomMaterialOverride feature in Spine 2D is not working as expected after the upgrade to version 4.3. This issue may affect game development workflows that rely on this feature.",
+            "whyItMatters": "The malfunction of CustomMaterialOverride can hinder the development process of 2D games and animations that utilize Spine 2D, potentially delaying project timelines.",
+            "howToUse": "Developers should review the upgrade documentation and community forums for potential workarounds or fixes for the CustomMaterialOverride issue in Spine 2D version 4.3.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-0zfd04nml",
+            "title": "Crypto Casino Launch",
+            "subtitle": "Former BetVictor CEO launches online crypto casino and sportsbook",
+            "category": "iGaming",
+            "tags": [
+                "Crypto Casino",
+                "Sportsbook",
+                "BetVictor"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTBQLVpZSnNsZzVIRnhndzBZbmJtdFBqOW1WWWdDRjlacFZaR1VmaHhVenNtTkdlY29lNmZLcmN0SzhRSkhQekNXSjdIQzdNWjdwaDRFY3VyUGlqdHlDcEFqdUZCZDlsWXJVZm9DNUlWZFpkLWxnODNTaS1CZXBIZ0F1R2d4QWJHTnNHMDJkUEtmT3R5ZWpTYlF4dnE?oc=5",
+                "date": "2026-06-16T14:29:24.000Z"
+            },
+            "whatsNew": "The former CEO of BetVictor has launched a new online crypto casino and sportsbook, marking a significant entry into the cryptocurrency-based gaming sector. This launch indicates a growing interest in crypto-based gaming solutions. The platform is expected to offer a range of casino games and sports betting options.",
+            "whyItMatters": "This launch is impactful as it combines the traditional gaming industry with the emerging cryptocurrency sector, potentially attracting a new demographic of players. It also signifies a strategic move by a veteran gaming executive into the crypto space.",
+            "howToUse": "Operators and investors can consider the potential of crypto-based gaming platforms for expansion and investment, while players can look forward to new gaming experiences and payment options.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors",
+                "Players"
+            ],
+            "companies": [
+                "BetVictor"
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
