@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-06-30T05:01:04.718Z",
+        "scanDate": "2026-06-30T08:35:51.754Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xu3j8qnbz",
+            "title": "AI Art Generation",
+            "subtitle": "Miraclein NSFW Generation and Edit tool updated to version 3.0 with Flux.2 Klein Checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "NSFW Generation",
+                "Flux2Klein",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXItS3M5N2UxTUtPQzB1MTR5cGs3b1FZYzVpNHdpTUZDbTBwZktBcWlCeENTM3RUb29LZFNxNVRxZkM4dDRrWXBGVnF0bC1lUzFxVHRjMzMwNDA2MmxnZkU4Skw3Z3MzQ3ByS0MweVBiNUEwVzZwNGE4Nkt4LTRWbVJ6NzVkZEk?oc=5",
+                "date": "2026-06-22T07:00:00.000Z"
+            },
+            "whatsNew": "The Miraclein NSFW Generation and Edit tool has been updated to version 3.0, incorporating the Flux.2 Klein Checkpoint and supporting bf16 and fp8 formats. This update enhances the tool's capabilities for generating and editing NSFW content.",
+            "whyItMatters": "This update is significant for AI art generation, particularly in the NSFW category, as it improves the quality and versatility of generated content. It also reflects the ongoing development and refinement of AI tools for creative work.",
+            "howToUse": "Users can access the updated tool on Civitai, utilizing the Flux.2 Klein Checkpoint for enhanced generation and editing capabilities. This requires familiarity with AI art generation tools and the specific parameters of the Miraclein NSFW tool.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-iwq3dgau5",
             "title": "Niji Semi Realism",
@@ -51,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ar3a7a92g",
@@ -82,39 +114,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
-        },
-        {
-            "id": "t-6lti087g1",
-            "title": "AI Art Generation",
-            "subtitle": "Using ChatGPT for stylized celebrity illustrations",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV0twSVY5d2VBSjFhajFGN2JYUnVkZEFUckszODlMTHhWcWdTaTdGck45NzVsYVB2ODVQR0ZzMXlOTHIxcVlLRzRqMlNzS3ItQ2dleC1YNjVNYjZVOXhyTFI3TFhOWnF0a3lvbjQxeDR6dS1wY0dleUhwTFA1VmpQU21ETVNRTi1xTkVFZV9pV1RWcnItMG9uM0hmMmdYVkY4V2o3SDBCSE82T19JZ1hJWmRyN19FeUJfeUlEdzM3UmJseUdVRWwzM0l3NGJLZzlBSk9JOFJ0MFJyb1Y3NHJMa3JDdVl4TkxVeGZLR05WVDJvWVRTSlcyQ3B4VGpJdXNSem1aUDh1eV9Wb2tq?oc=5",
-                "date": "2026-06-16T07:00:00.000Z"
-            },
-            "whatsNew": "The use of ChatGPT for generating full-body illustrations of celebrities like Al Pacino in stylized forms is a new application of AI art generation. This technology can be used to create unique and personalized art pieces. The ability to generate high-quality images with specific prompts is advancing rapidly.",
-            "whyItMatters": "This development matters because it showcases the potential of AI in creative fields, allowing for new forms of artistic expression and potentially changing the way art is created and consumed. It also has implications for industries like gaming and entertainment, where personalized and stylized characters are in high demand.",
-            "howToUse": "To utilize this technology, users can experiment with different prompts and styles to generate unique images. This can be particularly useful for artists, designers, and developers looking to incorporate AI-generated art into their projects.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nftulb2jk",
@@ -1802,37 +1802,6 @@
             "isNew": false
         },
         {
-            "id": "t-ovlytr2bb",
-            "title": "1xBet Licensing",
-            "subtitle": "1xBet invests in global licensing for long-term stability",
-            "category": "iGaming",
-            "tags": [
-                "Licensing",
-                "1xBet",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnl2czJiblR1M1dEY0FXbkZkaGs2MnNndVd5cy1tZ0M0enNYdFlIcTN3QmxESE5xbG45NGgtamMzTlZ6STZIbFdWVmpuUjg4NkcyU3RXLWUzRG92SmpmV2dzZ2hGUFlubEdYQUI3Z3NEck92U1BPMUVNWTdscXlhRDNrektEdDNrVDFsUUFLNlB3elB2cDRfNTVfSHBxNFZt?oc=5",
-                "date": "2026-06-16T08:18:35.000Z"
-            },
-            "whatsNew": "1xBet is focusing on obtaining global licenses to ensure long-term stability and compliance with regulatory requirements. This move is part of the company's strategy to expand its presence in new markets.",
-            "whyItMatters": "The investment in global licensing demonstrates 1xBet's commitment to operating within regulated markets, which is crucial for the company's reputation and future growth.",
-            "howToUse": "Operators can follow 1xBet's example by prioritizing licensing and compliance to establish a strong foundation for their business.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "1xBet"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-mupa5b19w",
             "title": "Midnite Sponsors Podcast",
             "subtitle": "Midnite sponsors ex-Manchester United player's podcast as part of its marketing efforts",
@@ -1861,37 +1830,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-bvqousght",
-            "title": "AI Adoption",
-            "subtitle": "Synthesia shares insights on driving AI adoption at work",
-            "category": "AI",
-            "tags": [
-                "AI Adoption",
-                "Synthesia",
-                "Workplace AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOG85OTBIazVadUNpYjZqQ2h1Y3UzUnhjeUtrcFR6bUZSNGpST1BxYklMcnNmOTB5M0I4d2dEaE9lRlQxc3ljX2s2YUFJVmd6R0s4SzhYMTFpd0w3NXJaRGRBd3J2T0lva1E?oc=5",
-                "date": "2026-06-16T06:18:09.000Z"
-            },
-            "whatsNew": "Synthesia provides guidance on implementing AI in the workplace, focusing on strategies for successful adoption. The article highlights the importance of AI integration for business growth. It emphasizes changing work cultures to accommodate AI technologies.",
-            "whyItMatters": "Driving AI adoption at work can significantly enhance productivity and efficiency, giving businesses a competitive edge. It also prepares the workforce for future technological advancements.",
-            "howToUse": "Businesses can start by identifying areas where AI can add value, then develop strategies for integration and training to ensure a smooth transition.",
-            "beneficiaries": [
-                "Business Owners",
-                "IT Managers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         }
     ],
@@ -2049,7 +1987,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": null
         },
         {
@@ -2068,7 +2006,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2077,7 +2015,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2086,7 +2024,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "Regulatory updates"
         },
         {
@@ -2104,7 +2042,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2113,7 +2051,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2133,7 +2071,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2191,7 +2129,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2200,7 +2138,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2209,7 +2147,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": "Style browsing signal"
         },
         {
@@ -2246,7 +2184,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": null
         },
         {
@@ -2255,7 +2193,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": null
         },
         {
@@ -2336,7 +2274,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T05:01:04.718Z",
+            "lastScan": "2026-06-30T08:35:51.754Z",
             "note": null
         },
         {
@@ -33862,6 +33800,100 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-6lti087g1",
+            "title": "AI Art Generation",
+            "subtitle": "Using ChatGPT for stylized celebrity illustrations",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV0twSVY5d2VBSjFhajFGN2JYUnVkZEFUckszODlMTHhWcWdTaTdGck45NzVsYVB2ODVQR0ZzMXlOTHIxcVlLRzRqMlNzS3ItQ2dleC1YNjVNYjZVOXhyTFI3TFhOWnF0a3lvbjQxeDR6dS1wY0dleUhwTFA1VmpQU21ETVNRTi1xTkVFZV9pV1RWcnItMG9uM0hmMmdYVkY4V2o3SDBCSE82T19JZ1hJWmRyN19FeUJfeUlEdzM3UmJseUdVRWwzM0l3NGJLZzlBSk9JOFJ0MFJyb1Y3NHJMa3JDdVl4TkxVeGZLR05WVDJvWVRTSlcyQ3B4VGpJdXNSem1aUDh1eV9Wb2tq?oc=5",
+                "date": "2026-06-16T07:00:00.000Z"
+            },
+            "whatsNew": "The use of ChatGPT for generating full-body illustrations of celebrities like Al Pacino in stylized forms is a new application of AI art generation. This technology can be used to create unique and personalized art pieces. The ability to generate high-quality images with specific prompts is advancing rapidly.",
+            "whyItMatters": "This development matters because it showcases the potential of AI in creative fields, allowing for new forms of artistic expression and potentially changing the way art is created and consumed. It also has implications for industries like gaming and entertainment, where personalized and stylized characters are in high demand.",
+            "howToUse": "To utilize this technology, users can experiment with different prompts and styles to generate unique images. This can be particularly useful for artists, designers, and developers looking to incorporate AI-generated art into their projects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ovlytr2bb",
+            "title": "1xBet Licensing",
+            "subtitle": "1xBet invests in global licensing for long-term stability",
+            "category": "iGaming",
+            "tags": [
+                "Licensing",
+                "1xBet",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnl2czJiblR1M1dEY0FXbkZkaGs2MnNndVd5cy1tZ0M0enNYdFlIcTN3QmxESE5xbG45NGgtamMzTlZ6STZIbFdWVmpuUjg4NkcyU3RXLWUzRG92SmpmV2dzZ2hGUFlubEdYQUI3Z3NEck92U1BPMUVNWTdscXlhRDNrektEdDNrVDFsUUFLNlB3elB2cDRfNTVfSHBxNFZt?oc=5",
+                "date": "2026-06-16T08:18:35.000Z"
+            },
+            "whatsNew": "1xBet is focusing on obtaining global licenses to ensure long-term stability and compliance with regulatory requirements. This move is part of the company's strategy to expand its presence in new markets.",
+            "whyItMatters": "The investment in global licensing demonstrates 1xBet's commitment to operating within regulated markets, which is crucial for the company's reputation and future growth.",
+            "howToUse": "Operators can follow 1xBet's example by prioritizing licensing and compliance to establish a strong foundation for their business.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "1xBet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-bvqousght",
+            "title": "AI Adoption",
+            "subtitle": "Synthesia shares insights on driving AI adoption at work",
+            "category": "AI",
+            "tags": [
+                "AI Adoption",
+                "Synthesia",
+                "Workplace AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOG85OTBIazVadUNpYjZqQ2h1Y3UzUnhjeUtrcFR6bUZSNGpST1BxYklMcnNmOTB5M0I4d2dEaE9lRlQxc3ljX2s2YUFJVmd6R0s4SzhYMTFpd0w3NXJaRGRBd3J2T0lva1E?oc=5",
+                "date": "2026-06-16T06:18:09.000Z"
+            },
+            "whatsNew": "Synthesia provides guidance on implementing AI in the workplace, focusing on strategies for successful adoption. The article highlights the importance of AI integration for business growth. It emphasizes changing work cultures to accommodate AI technologies.",
+            "whyItMatters": "Driving AI adoption at work can significantly enhance productivity and efficiency, giving businesses a competitive edge. It also prepares the workforce for future technological advancements.",
+            "howToUse": "Businesses can start by identifying areas where AI can add value, then develop strategies for integration and training to ensure a smooth transition.",
+            "beneficiaries": [
+                "Business Owners",
+                "IT Managers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
