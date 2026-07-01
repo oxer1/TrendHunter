@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-06-30T23:09:09.019Z",
+        "scanDate": "2026-07-01T03:31:48.527Z",
         "version": "2.5.0",
         "totalTrends": 57,
         "categories": [
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-4pywb9cr7",
+            "title": "Irresponsible Ad",
+            "subtitle": "Advertising watchdog criticizes Mr Vegas Facebook ad",
+            "category": "iGaming",
+            "tags": [
+                "Advertising",
+                "Regulation",
+                "Facebook"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlpzNUhRaWViOEQ4TjVOTS15dDMtSTduWUgwVlNIdnprYkdDbEhTaVNJdlhYZTk4YzhyVWQzd2pSSGFIRmZ3bm9hWWlFRURxblBxTnRheFdHTFdhUmF4Znc0aHZhMzNvZm54WmlWNEc0WHJ4YUl0ci1HcVRMdnFCUTVhT1VQN1BCWkpfZlZJWWY0NFdfQkN4S1RuQkk?oc=5",
+                "date": "2026-07-01T00:05:12.000Z"
+            },
+            "whatsNew": "The advertising watchdog has deemed a Mr Vegas Facebook ad as irresponsible. This decision highlights the importance of responsible advertising in the iGaming industry.",
+            "whyItMatters": "The ruling sets a precedent for future advertising regulation in the iGaming sector, emphasizing the need for operators to ensure their ads are socially responsible.",
+            "howToUse": "Operators should review their advertising strategies to ensure compliance with regulatory guidelines and avoid similar rulings.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Mr Vegas"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-9tvv7m4xo",
+            "title": "Interactive Avatars",
+            "subtitle": "Synthesia introduces real-time avatar building technology",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "Real-Time Avatars",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSVMxWXhSME1WanpOVHV4V1ZjYVY1SVVpUER1WDV6ekRnYUtlVTM0cHRuNUxOR3dtdjRyWjI2N1JKWlRUdHZXUk1qWmtPdmdQZ2NuZUVtc19Ic2VIenVkUnVrcUdFQ2Fob2JEX0R3?oc=5",
+                "date": "2026-06-25T17:19:23.000Z"
+            },
+            "whatsNew": "Synthesia has introduced a new technology for building interactive avatars in real-time. This innovation allows for more immersive and engaging experiences. The avatars can be used in various applications, including gaming and virtual events.",
+            "whyItMatters": "The introduction of real-time avatars can significantly enhance user experience in gaming and other interactive applications. It also opens up new possibilities for AI-powered character development and animation.",
+            "howToUse": "Developers can utilize Synthesia's API to integrate the real-time avatar technology into their applications, enabling users to create and interact with customizable avatars.",
+            "beneficiaries": [
+                "Game Developers",
+                "Virtual Event Planners"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-qpykqi3wv",
             "title": "Quantum Acquires Rewards",
@@ -1430,38 +1492,6 @@
             "isNew": false
         },
         {
-            "id": "t-d2ltuqqwb",
-            "title": "AI Art Generation",
-            "subtitle": "PromptHero generates art of a hero serving Japanese tea",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "PromptHero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXlUZF9JRERWQVRJOXd3eDdBdXprY3haQ05vYjJDWmpHMXQ2Nmh4VXQ1WUc3elhTYmI4UHhJVjJWeWgwVmNGaWRQcWtnQWIxV0lsYW9reWNLLXRkSUViUGVkSDlYZFBaRVRzZDlVU056SHF2dEFtb0VUUXhXZ2JSRE1wZV94amUydzhrT0RIdmFtdmNKc1JhUG5nbzNfeUh2VDlCZlpyZW5tWm5PSTdWN21fNjBvS1BVdGVZUm9rUTUxcGs?oc=5",
-                "date": "2026-06-17T00:24:45.000Z"
-            },
-            "whatsNew": "PromptHero's AI model can create detailed images based on text prompts, including cultural and traditional scenes like a hero serving Japanese tea. The model's ability to understand and generate art from complex prompts is improving. This technology has the potential to revolutionize the art and design industries.",
-            "whyItMatters": "The development of AI art generation tools like PromptHero's has significant implications for the future of art, design, and entertainment. It enables the rapid creation of high-quality, customized images, which can be used in various applications, from advertising to gaming.",
-            "howToUse": "Artists and designers can use PromptHero's AI model to generate ideas, explore different styles, and automate repetitive tasks, freeing up time for more creative and high-level work. Additionally, the model can be used to create customized images for specific projects or clients.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-gg0uwrkad",
             "title": "Betfred Branding Mimicked",
             "subtitle": "Black market affiliate copies Betfred branding, potentially impacting iGaming industry",
@@ -1676,37 +1706,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-116wh0jjm",
-            "title": "Civitai Nodes",
-            "subtitle": "Civitai introduces nodes for ComfyUI, integrating the whole toolbox into user graphs",
-            "category": "AI",
-            "tags": [
-                "Civitai",
-                "ComfyUI",
-                "AI Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTBZNFpITGRjVHdIQlNyMERLbUhHZk5BWDlFdWlxWUdIdWZXWkNBdGJhSDF0c3hoUzFSUWJCQmpQUjFXMzgxT1JDbWVHS0E5ZXBoSDRkTE5xbkh2cVBBMzE4OGxwZkdtQ2sxOVVseEpnNWE5Tl9Wdkg5THFpOTlCRHRjSDAwV0pEajRBZ0FGbDVXQ2g0SXhV?oc=5",
-                "date": "2026-06-17T00:26:40.000Z"
-            },
-            "whatsNew": "Civitai has launched nodes for ComfyUI, allowing users to access the entire toolbox directly within their graphs. This integration aims to streamline workflows and enhance productivity. The move signifies Civitai's efforts to expand its utility and compatibility with other platforms.",
-            "whyItMatters": "This integration matters because it simplifies the workflow for users who rely on both Civitai and ComfyUI, potentially leading to more efficient and creative outcomes. It also highlights the growing importance of interoperability in the AI and UI design communities.",
-            "howToUse": "To leverage this integration, users can simply add Civitai nodes to their ComfyUI graphs, granting them access to the full range of Civitai tools and functionalities. This can be particularly useful for tasks that require complex AI-driven processes or custom UI design elements.",
-            "beneficiaries": [
-                "AI Developers",
-                "UI/UX Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
             "isNew": false
         },
         {
@@ -1956,7 +1955,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": null
         },
         {
@@ -1975,7 +1974,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1984,7 +1983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1993,7 +1992,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "Regulatory updates"
         },
         {
@@ -2011,7 +2010,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2020,7 +2019,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2040,7 +2039,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2098,7 +2097,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2107,7 +2106,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2116,7 +2115,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": "Style browsing signal"
         },
         {
@@ -2153,7 +2152,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": null
         },
         {
@@ -2162,7 +2161,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": null
         },
         {
@@ -2245,7 +2244,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-06-30T23:09:09.019Z",
+            "lastScan": "2026-07-01T03:31:48.527Z",
             "note": null
         },
         {
@@ -33990,6 +33989,69 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-d2ltuqqwb",
+            "title": "AI Art Generation",
+            "subtitle": "PromptHero generates art of a hero serving Japanese tea",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXlUZF9JRERWQVRJOXd3eDdBdXprY3haQ05vYjJDWmpHMXQ2Nmh4VXQ1WUc3elhTYmI4UHhJVjJWeWgwVmNGaWRQcWtnQWIxV0lsYW9reWNLLXRkSUViUGVkSDlYZFBaRVRzZDlVU056SHF2dEFtb0VUUXhXZ2JSRE1wZV94amUydzhrT0RIdmFtdmNKc1JhUG5nbzNfeUh2VDlCZlpyZW5tWm5PSTdWN21fNjBvS1BVdGVZUm9rUTUxcGs?oc=5",
+                "date": "2026-06-17T00:24:45.000Z"
+            },
+            "whatsNew": "PromptHero's AI model can create detailed images based on text prompts, including cultural and traditional scenes like a hero serving Japanese tea. The model's ability to understand and generate art from complex prompts is improving. This technology has the potential to revolutionize the art and design industries.",
+            "whyItMatters": "The development of AI art generation tools like PromptHero's has significant implications for the future of art, design, and entertainment. It enables the rapid creation of high-quality, customized images, which can be used in various applications, from advertising to gaming.",
+            "howToUse": "Artists and designers can use PromptHero's AI model to generate ideas, explore different styles, and automate repetitive tasks, freeing up time for more creative and high-level work. Additionally, the model can be used to create customized images for specific projects or clients.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-116wh0jjm",
+            "title": "Civitai Nodes",
+            "subtitle": "Civitai introduces nodes for ComfyUI, integrating the whole toolbox into user graphs",
+            "category": "AI",
+            "tags": [
+                "Civitai",
+                "ComfyUI",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTBZNFpITGRjVHdIQlNyMERLbUhHZk5BWDlFdWlxWUdIdWZXWkNBdGJhSDF0c3hoUzFSUWJCQmpQUjFXMzgxT1JDbWVHS0E5ZXBoSDRkTE5xbkh2cVBBMzE4OGxwZkdtQ2sxOVVseEpnNWE5Tl9Wdkg5THFpOTlCRHRjSDAwV0pEajRBZ0FGbDVXQ2g0SXhV?oc=5",
+                "date": "2026-06-17T00:26:40.000Z"
+            },
+            "whatsNew": "Civitai has launched nodes for ComfyUI, allowing users to access the entire toolbox directly within their graphs. This integration aims to streamline workflows and enhance productivity. The move signifies Civitai's efforts to expand its utility and compatibility with other platforms.",
+            "whyItMatters": "This integration matters because it simplifies the workflow for users who rely on both Civitai and ComfyUI, potentially leading to more efficient and creative outcomes. It also highlights the growing importance of interoperability in the AI and UI design communities.",
+            "howToUse": "To leverage this integration, users can simply add Civitai nodes to their ComfyUI graphs, granting them access to the full range of Civitai tools and functionalities. This can be particularly useful for tasks that require complex AI-driven processes or custom UI design elements.",
+            "beneficiaries": [
+                "AI Developers",
+                "UI/UX Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
