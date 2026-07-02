@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-02T10:08:49.147Z",
+        "scanDate": "2026-07-02T12:55:34.123Z",
         "version": "2.5.0",
         "totalTrends": 54,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xuytpnlcc",
+            "title": "WSM Anima Beta",
+            "subtitle": "MGHerder releases WaiSnackMix Collection on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "MGHerder"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40T1pzYzVGdGl6bkQxMVdycnFwWkJobldybEJZVjhqNUpFS0hJWDdVd3FfNURnXzJ4WVZlS19rVTJkdDNRWXpobEprbHJOLTRaUWRyc2t0V3huWmpNcm9NLXdmNDl2SHFzbzFDMmhtb2JSREczU3ZCZA?oc=5",
+                "date": "2026-06-25T07:00:00.000Z"
+            },
+            "whatsNew": "MGHerder has released the WaiSnackMix Collection, featuring WSM Anima Beta, on the Civitai platform. This collection represents a new milestone in AI-generated art. The release is part of the Anima Checkpoint series.",
+            "whyItMatters": "The release of WSM Anima Beta showcases the evolving capabilities of AI in generating complex and detailed art, potentially influencing future trends in digital art creation. It also highlights Civitai's role in promoting AI art innovation.",
+            "howToUse": "Art enthusiasts and creators can explore the WaiSnackMix Collection on Civitai to discover new AI-generated art pieces and potentially use them as inspiration or integrate them into their own projects.",
+            "beneficiaries": [
+                "Digital Artists",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-rryj4zvar",
             "title": "Anime Image Creation",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zqrmtmo0j",
@@ -81,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dx7rpl14u",
@@ -113,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qzmpwfcjv",
@@ -1298,37 +1329,6 @@
             "isNew": false
         },
         {
-            "id": "t-ozxtvbqou",
-            "title": "MGA Seal Update",
-            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Licensing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUNZbTBzR3JTYm9nSF9la2VSX0tvWEtjVDBKbkNqTi1KN2NPUXVyQkpfN2ZkakwzWUQ3enhQdi04OHlqRFNsc1Z1dUNldk1XLVFhWTRTalRBdjFRVGlQQ193LUJvTWVrTWpGQ1pDZ0pkVnBYVkFaMmxqZTB2aDlBMU5EbGZNa2l4Q1BHWnllei1HOGUzV3BONThPTHVTelgzZi1KWXJyVjQyY25yNzBReWxnaw?oc=5",
-                "date": "2026-06-18T12:21:32.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt. This move aims to enhance transparency and authenticity in the iGaming industry.",
-            "whyItMatters": "The Dynamic Seal Of Authorisation is crucial for ensuring that online gaming operators are licensed and compliant with regulatory requirements, thereby protecting consumers.",
-            "howToUse": "Operators can use the Dynamic Seal to demonstrate their compliance, and players can verify the authenticity of their chosen gaming platforms.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Consumers"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-4sj3hbrkx",
             "title": "Vibe Directing",
             "subtitle": "A walkthrough of vibe directing by OpenArt",
@@ -1861,7 +1861,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.147Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": null
         },
         {
@@ -1880,7 +1880,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1889,7 +1889,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1898,7 +1898,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "Regulatory updates"
         },
         {
@@ -1916,7 +1916,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1925,7 +1925,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1945,7 +1945,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2003,7 +2003,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2012,7 +2012,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2021,7 +2021,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": "Style browsing signal"
         },
         {
@@ -2058,7 +2058,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": null
         },
         {
@@ -2067,7 +2067,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": null
         },
         {
@@ -2150,7 +2150,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T10:08:49.148Z",
+            "lastScan": "2026-07-02T12:55:34.123Z",
             "note": null
         },
         {
@@ -34395,6 +34395,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ozxtvbqou",
+            "title": "MGA Seal Update",
+            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUNZbTBzR3JTYm9nSF9la2VSX0tvWEtjVDBKbkNqTi1KN2NPUXVyQkpfN2ZkakwzWUQ3enhQdi04OHlqRFNsc1Z1dUNldk1XLVFhWTRTalRBdjFRVGlQQ193LUJvTWVrTWpGQ1pDZ0pkVnBYVkFaMmxqZTB2aDlBMU5EbGZNa2l4Q1BHWnllei1HOGUzV3BONThPTHVTelgzZi1KWXJyVjQyY25yNzBReWxnaw?oc=5",
+                "date": "2026-06-18T12:21:32.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt. This move aims to enhance transparency and authenticity in the iGaming industry.",
+            "whyItMatters": "The Dynamic Seal Of Authorisation is crucial for ensuring that online gaming operators are licensed and compliant with regulatory requirements, thereby protecting consumers.",
+            "howToUse": "Operators can use the Dynamic Seal to demonstrate their compliance, and players can verify the authenticity of their chosen gaming platforms.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Consumers"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
