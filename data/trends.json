@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-02T06:40:21.514Z",
+        "scanDate": "2026-07-02T10:08:49.147Z",
         "version": "2.5.0",
         "totalTrends": 54,
         "categories": [
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rryj4zvar",
+            "title": "Anime Image Creation",
+            "subtitle": "OpenArt guides on creating 2D anime images with Nano Banana 2 Lite",
+            "category": "Art",
+            "tags": [
+                "Anime",
+                "Nano Banana 2 Lite",
+                "2D Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNRkpoVlI4QndPTVRVTmpVTTZ6MXRESjN1cXlMN3lwak5RWHRUdHBkc3c0U2VzOHlFUF9HRzZmQUQybVNmakE5R3pCX0NRZXlIMEpuZFI3cWQwcGctNVJXX2FTRy01UFRtZHBaR2pobmZndURzNUVF?oc=5",
+                "date": "2026-07-02T06:58:18.000Z"
+            },
+            "whatsNew": "Nano Banana 2 Lite is used for creating 2D anime images. This tool simplifies the anime image creation process. OpenArt provides a guide on how to use it.",
+            "whyItMatters": "The ability to create 2D anime images with ease can democratize anime-style art creation. It impacts artists and designers looking to explore anime styles without extensive traditional drawing skills.",
+            "howToUse": "Use Nano Banana 2 Lite by following OpenArt's guide to create your own 2D anime images. Experiment with different settings and styles to achieve desired effects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-zqrmtmo0j",
+            "title": "AI Art Generation",
+            "subtitle": "Lexica.art generates art based on text prompts, including a bottle filled with a clear liquid",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Lexica",
+                "Text-to-Image"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Lexica",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzVKYzZtZEExZV9ZQ1BXSmlTUmpYMmNadTl3TkVLT19KSUp1U2FPcWlpVGptV1hBOU0xQWtGdDFqYk9vdGthVm5UdzRUcDRpZ0tWUEw3OU92S1dkRUEybHU3N0pVVnhYem8xWEM0cFVTTC0zaXVqYm5wTF9HYjRXSkNGTXF0RkdhNFVNUURR?oc=5",
+                "date": "2026-06-27T07:58:52.000Z"
+            },
+            "whatsNew": "Lexica.art is using AI to generate art based on text prompts, allowing for unique and creative images. The example given is a bottle filled with a clear liquid, showcasing the model's ability to understand and create based on descriptive text.",
+            "whyItMatters": "This technology has the potential to revolutionize the art world by making it easier for people to create high-quality art without extensive training or experience. It also opens up new possibilities for AI-assisted art generation in various industries, including gaming and visual design.",
+            "howToUse": "To use this technology, simply input a descriptive text prompt into the Lexica.art model, and it will generate an image based on the prompt. This can be used to create unique and creative art for various applications.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Lexica"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-dx7rpl14u",
+            "title": "3D Garden Art",
+            "subtitle": "Lexica features a 3D art piece of a man living in a garden",
+            "category": "Art",
+            "tags": [
+                "3D Art",
+                "Lexica",
+                "Garden Scene"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Lexica",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QLVJ0WW5vOFZ3bXktYlpSMmc4azJPeVdVdTI1ajlHOWZMN3V2UXNJZVVKbWt3cWRVME1vdjR4cEVyTzJpTV9fS2Z6OC1UV3puTmtib004TjNWOEVaUEZsNVhWWFR5TklZbzNpQUp6VUE?oc=5",
+                "date": "2026-06-25T11:09:20.000Z"
+            },
+            "whatsNew": "A new 3D art piece is featured on Lexica, showcasing a man living in a garden. The piece highlights the artist's use of 3D modeling and rendering techniques. The art style is reminiscent of futuristic and serene environments.",
+            "whyItMatters": "This art piece demonstrates the capabilities of 3D art and its potential applications in various fields, including gaming and visual design. It also showcases the talent of the artist and the platform's ability to showcase unique art pieces.",
+            "howToUse": "Artists and designers can use this piece as inspiration for their own work, experimenting with 3D modeling and rendering techniques to create unique and immersive environments.",
+            "beneficiaries": [
+                "3D Artists",
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "Lexica"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-qzmpwfcjv",
             "title": "AI Image Prompts",
@@ -50,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5hehv4adl",
@@ -1610,97 +1705,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-qzmxe41oc",
-            "title": "Sweepstakes Casinos Rise",
-            "subtitle": "Sweepstakes casinos are changing the US online gaming landscape",
-            "category": "iGaming",
-            "tags": [
-                "Sweepstakes Casinos",
-                "US Online Gaming",
-                "iGaming Trends"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHVFOE8td3QzYlZmaXFJa2tvWWJhUnBHMmszX3p4LXc5UG41R2k5b1YxbXdKUVY0TTZJZ2J2cDd5d19DRkFjZGMwXzRWMl9WbzhleWdTZnQxYWNNSzNGMGdFWFJNdDgzUl9XUHUwR2w5QjNqaFI1cldQZ0tHbU1lNGg1NjZETVF5VmZBOGFHcjBkQ2xfUzVzaHB2a3BHN002TldGa1FROUNCZw?oc=5",
-                "date": "2026-06-18T09:47:06.000Z"
-            },
-            "whatsNew": "Sweepstakes casinos are offering an alternative to traditional online gaming, attracting new players and changing market dynamics. They operate under a different regulatory framework, allowing them to reach a broader audience. This shift is forcing traditional online casinos to adapt and innovate.",
-            "whyItMatters": "The rise of sweepstakes casinos is significant because it indicates a shift in consumer preferences and regulatory compliance, potentially disrupting the traditional online gaming market. It also presents opportunities for new entrants and innovation in the sector.",
-            "howToUse": "Operators can leverage the sweepstakes model to expand their reach and offer new types of games and experiences, while regulators can learn from the model's compliance strategies to inform future policy decisions.",
-            "beneficiaries": [
-                "Online Gaming Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-ynt5kz22q",
-            "title": "Pragmatic Play Challenge",
-            "subtitle": "Pragmatic Play faces a new challenge in the slots market with the rise of Aviator games",
-            "category": "iGaming",
-            "tags": [
-                "Pragmatic Play",
-                "Aviator",
-                "Slots Tracker"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJrcDZqY2lDT29zcTB0WWVvbnVSd2NwZ2JUWF9SNndJa3VQWUpzdlM0bHdjVlZHSUs4a0p4dVV4WFhXTmpaNU0xanRjcEdiYTBEZkl1WHY5TTBVUjAyejdqMUs1cUY3cHo5ZHZqT3BCb2FkQU9QYzAzLU91ZjVPYjBKVVRrS2w1NVh2ejlnWVV1TkVUNnFZYWVHbU14MG0yYmhJVGJTSzJZVkZreWJN?oc=5",
-                "date": "2026-06-18T07:37:06.000Z"
-            },
-            "whatsNew": "Pragmatic Play is facing a fresh challenge from Aviator games, which are gaining popularity in the slots market. The Aviator game type is becoming increasingly competitive, posing a threat to Pragmatic Play's market share. This challenge may lead to innovations in slot game development.",
-            "whyItMatters": "The rise of Aviator games could impact Pragmatic Play's revenue and market position, prompting the company to adapt and innovate to stay competitive. This trend may also influence the broader iGaming industry, as other game developers respond to the growing demand for Aviator-style games.",
-            "howToUse": "Game developers can respond to this trend by creating their own Aviator-style games or incorporating similar features into their existing titles. Operators can also capitalize on the popularity of Aviator games by promoting them to their users.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "Pragmatic Play"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-0diywi03v",
-            "title": "Latam Slots",
-            "subtitle": "Aviator's success and PG Soft's rise in the Latin American slots market",
-            "category": "iGaming",
-            "tags": [
-                "Latam Slots",
-                "Aviator",
-                "PG Soft"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNjTTF4ck9wSXVoQ1VBY3RUZlBjeldOMGpIWUlBalozbFRIem1rNW5TZTZENXpxc1hPOW45RjdSQ1hYZk8tVHBZaTBmc0ZPSGFnT1E3STZONTBTLXBMWmdfMWhBZzd2RVdQMnl4RkhKVFl5bHN4WWFtOXk0MkpUVDBBLWxmVE9lZWViX2NSa0xBRWoweTc3SHhtcjc2Vjc0eGVERnAwdw?oc=5",
-                "date": "2026-06-18T07:32:16.000Z"
-            },
-            "whatsNew": "Aviator is experiencing significant success, while PG Soft has moved into second place in the Latin American slots market. This shift indicates a change in player preferences and market dynamics.",
-            "whyItMatters": "The rise of Aviator and PG Soft reflects the evolving landscape of the iGaming industry, particularly in the Latin American region, and may influence future game development and market strategies.",
-            "howToUse": "Game developers and iGaming operators can use this information to inform their decisions on game development, marketing, and regional expansion.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "PG Soft"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1857,7 +1861,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.147Z",
             "note": null
         },
         {
@@ -1876,7 +1880,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1885,7 +1889,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1894,7 +1898,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "Regulatory updates"
         },
         {
@@ -1912,7 +1916,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1921,7 +1925,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1941,7 +1945,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1999,7 +2003,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2008,7 +2012,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2017,7 +2021,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": "Style browsing signal"
         },
         {
@@ -2054,7 +2058,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": null
         },
         {
@@ -2063,7 +2067,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": null
         },
         {
@@ -2146,7 +2150,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T06:40:21.514Z",
+            "lastScan": "2026-07-02T10:08:49.148Z",
             "note": null
         },
         {
@@ -34300,6 +34304,97 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-qzmxe41oc",
+            "title": "Sweepstakes Casinos Rise",
+            "subtitle": "Sweepstakes casinos are changing the US online gaming landscape",
+            "category": "iGaming",
+            "tags": [
+                "Sweepstakes Casinos",
+                "US Online Gaming",
+                "iGaming Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHVFOE8td3QzYlZmaXFJa2tvWWJhUnBHMmszX3p4LXc5UG41R2k5b1YxbXdKUVY0TTZJZ2J2cDd5d19DRkFjZGMwXzRWMl9WbzhleWdTZnQxYWNNSzNGMGdFWFJNdDgzUl9XUHUwR2w5QjNqaFI1cldQZ0tHbU1lNGg1NjZETVF5VmZBOGFHcjBkQ2xfUzVzaHB2a3BHN002TldGa1FROUNCZw?oc=5",
+                "date": "2026-06-18T09:47:06.000Z"
+            },
+            "whatsNew": "Sweepstakes casinos are offering an alternative to traditional online gaming, attracting new players and changing market dynamics. They operate under a different regulatory framework, allowing them to reach a broader audience. This shift is forcing traditional online casinos to adapt and innovate.",
+            "whyItMatters": "The rise of sweepstakes casinos is significant because it indicates a shift in consumer preferences and regulatory compliance, potentially disrupting the traditional online gaming market. It also presents opportunities for new entrants and innovation in the sector.",
+            "howToUse": "Operators can leverage the sweepstakes model to expand their reach and offer new types of games and experiences, while regulators can learn from the model's compliance strategies to inform future policy decisions.",
+            "beneficiaries": [
+                "Online Gaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-ynt5kz22q",
+            "title": "Pragmatic Play Challenge",
+            "subtitle": "Pragmatic Play faces a new challenge in the slots market with the rise of Aviator games",
+            "category": "iGaming",
+            "tags": [
+                "Pragmatic Play",
+                "Aviator",
+                "Slots Tracker"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDJrcDZqY2lDT29zcTB0WWVvbnVSd2NwZ2JUWF9SNndJa3VQWUpzdlM0bHdjVlZHSUs4a0p4dVV4WFhXTmpaNU0xanRjcEdiYTBEZkl1WHY5TTBVUjAyejdqMUs1cUY3cHo5ZHZqT3BCb2FkQU9QYzAzLU91ZjVPYjBKVVRrS2w1NVh2ejlnWVV1TkVUNnFZYWVHbU14MG0yYmhJVGJTSzJZVkZreWJN?oc=5",
+                "date": "2026-06-18T07:37:06.000Z"
+            },
+            "whatsNew": "Pragmatic Play is facing a fresh challenge from Aviator games, which are gaining popularity in the slots market. The Aviator game type is becoming increasingly competitive, posing a threat to Pragmatic Play's market share. This challenge may lead to innovations in slot game development.",
+            "whyItMatters": "The rise of Aviator games could impact Pragmatic Play's revenue and market position, prompting the company to adapt and innovate to stay competitive. This trend may also influence the broader iGaming industry, as other game developers respond to the growing demand for Aviator-style games.",
+            "howToUse": "Game developers can respond to this trend by creating their own Aviator-style games or incorporating similar features into their existing titles. Operators can also capitalize on the popularity of Aviator games by promoting them to their users.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Pragmatic Play"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-0diywi03v",
+            "title": "Latam Slots",
+            "subtitle": "Aviator's success and PG Soft's rise in the Latin American slots market",
+            "category": "iGaming",
+            "tags": [
+                "Latam Slots",
+                "Aviator",
+                "PG Soft"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzNjTTF4ck9wSXVoQ1VBY3RUZlBjeldOMGpIWUlBalozbFRIem1rNW5TZTZENXpxc1hPOW45RjdSQ1hYZk8tVHBZaTBmc0ZPSGFnT1E3STZONTBTLXBMWmdfMWhBZzd2RVdQMnl4RkhKVFl5bHN4WWFtOXk0MkpUVDBBLWxmVE9lZWViX2NSa0xBRWoweTc3SHhtcjc2Vjc0eGVERnAwdw?oc=5",
+                "date": "2026-06-18T07:32:16.000Z"
+            },
+            "whatsNew": "Aviator is experiencing significant success, while PG Soft has moved into second place in the Latin American slots market. This shift indicates a change in player preferences and market dynamics.",
+            "whyItMatters": "The rise of Aviator and PG Soft reflects the evolving landscape of the iGaming industry, particularly in the Latin American region, and may influence future game development and market strategies.",
+            "howToUse": "Game developers and iGaming operators can use this information to inform their decisions on game development, marketing, and regional expansion.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "PG Soft"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
