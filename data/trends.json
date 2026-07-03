@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-03T02:39:51.594Z",
+        "scanDate": "2026-07-03T06:29:18.431Z",
         "version": "2.5.0",
-        "totalTrends": 56,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-2lmjkse0v",
+            "title": "Krea 2 Workflow",
+            "subtitle": "A simple generation workflow for high-quality realism with tips and information on Civitai",
+            "category": "AI",
+            "tags": [
+                "Krea 2",
+                "Gen Workflow",
+                "Realism",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmJOVll1dkNzcFREeHRmTXEzQ2xEdUNIUC1MQTByMkFXWDIwQWhFWVVabW90SWxJZ3E4c014bnZOY0FQTTBxRmhJTG9pRE1oRXNRT2FXNDRkVWNtRGE4d2ZjRUNicE5HM1ZRMjhtczI0cHR0a0lhclRqNXk5cnhZMnl0dWFGclljaFhLTDlEMmZWcV90Vi1LSzQzNHkxMHhvWlZKSVNDNS1DQUhr?oc=5",
+                "date": "2026-07-02T23:30:53.000Z"
+            },
+            "whatsNew": "Krea 2 introduces a simplified workflow for achieving high-quality realism in generated content, offering a wealth of information and tips for users. This workflow is designed to make high-end generation more accessible. Civitai hosts this workflow, providing a platform for users to explore and apply these techniques.",
+            "whyItMatters": "The Krea 2 workflow matters because it democratizes access to high-quality generation capabilities, potentially lowering the barrier for creators to produce realistic content. This could significantly impact the visual design and AI art generation landscapes.",
+            "howToUse": "To utilize Krea 2, users can follow the provided workflow on Civitai, which includes detailed tips and information to guide them through the process of generating high-quality, realistic content.",
+            "beneficiaries": [
+                "Content Creators",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-3iit7r9iw",
+            "title": "Interactive Video",
+            "subtitle": "Synthesia introduces three levels of interactive video agents",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Interactive Video",
+                "AI Agents"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41cW81dXZubGNNcTQ3eTlCbERUNWtXVDEycl9VV19abjdnZ2d1OTRXcWVrTThlNEI1T19yMXpuaVZDZjNfNGxTejhhNko2SlFfbEJwWmk4SG9wMDJKc1V5YzFXdGRab0lvRUcyTVFFazBFbWZtbVg3dXRR?oc=5",
+                "date": "2026-07-02T14:07:22.000Z"
+            },
+            "whatsNew": "Synthesia has introduced three levels of interactive video agents, enhancing user interaction. These levels include talking, listening, and seeing, which can be applied to various AI applications. The technology has the potential to revolutionize video engagement.",
+            "whyItMatters": "The introduction of interactive video agents can significantly impact the iGaming industry by providing more immersive experiences and the game development sector by offering new tools for creating interactive content.",
+            "howToUse": "Developers can utilize Synthesia's interactive video agents to create more engaging and personalized experiences for users, such as in-game characters or virtual assistants.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-o840md2tt",
             "title": "Gemini Omni Flash",
@@ -49,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2a8b07fkn",
@@ -1919,7 +1983,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": null
         },
         {
@@ -1938,7 +2002,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1947,7 +2011,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1956,7 +2020,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "Regulatory updates"
         },
         {
@@ -1974,7 +2038,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1983,7 +2047,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2003,7 +2067,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2061,7 +2125,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2070,7 +2134,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2079,7 +2143,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": "Style browsing signal"
         },
         {
@@ -2116,7 +2180,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": null
         },
         {
@@ -2125,7 +2189,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": null
         },
         {
@@ -2207,7 +2271,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T02:39:51.594Z",
+            "lastScan": "2026-07-03T06:29:18.431Z",
             "note": null
         },
         {
