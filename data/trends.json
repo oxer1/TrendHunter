@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-02T23:02:14.102Z",
+        "scanDate": "2026-07-03T02:39:51.594Z",
         "version": "2.5.0",
         "totalTrends": 56,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-o840md2tt",
+            "title": "Gemini Omni Flash",
+            "subtitle": "Guide on using Google AI app for creative work",
+            "category": "AI",
+            "tags": [
+                "Google AI",
+                "Gemini Omni Flash",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UQzVWQ1pTWmUtdUtaUHBYWHJkTEVyQkV3dVhVU3NLU1lwbUFWNWVlQm9nbklraXI3NW11aXI0VDdLVGxlZS1OalA3R1psZzgwZ0NGZEVSQjhmSVJsc1k1WG9YYw?oc=5",
+                "date": "2026-07-01T07:00:00.000Z"
+            },
+            "whatsNew": "Gemini Omni Flash is a new AI app from Google that allows for advanced art generation and editing. The app utilizes machine learning algorithms to produce high-quality images. It offers a range of features, including text-to-image synthesis and image editing.",
+            "whyItMatters": "The introduction of Gemini Omni Flash signifies a major step forward in AI-powered art generation, offering new possibilities for artists and designers. This technology has the potential to revolutionize the creative industry by providing users with powerful tools to generate and edit images.",
+            "howToUse": "To use Gemini Omni Flash, users need to download the app and follow the provided tutorials to learn how to navigate its features and generate art. The app's user-friendly interface makes it accessible to both beginners and experienced artists.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Google"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-2a8b07fkn",
             "title": "Stable Yogi v5.5",
@@ -1702,37 +1733,6 @@
             "isNew": false
         },
         {
-            "id": "t-85dhxsynu",
-            "title": "AI Video Community",
-            "subtitle": "OpenArt launches AI video story community for creative content sharing",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "Creative Content",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLR19pdkgyRjlRVzRfYmhveDdZYUN6ZVo2NHdVcDFLQmhtOXVZbGRjZ3ZqT3hLT1gtSDZQZ1F2R2FfN3dmUHJUQ0hYc1hhZUZpeE5DdGN2OHhodlRmS3FwbC0yaFQxUQ?oc=5",
-                "date": "2026-06-19T00:33:30.000Z"
-            },
-            "whatsNew": "OpenArt introduces a community platform for discovering and sharing AI-generated video stories, enabling creators to showcase their work and connect with like-minded individuals. This platform aims to foster innovation and collaboration in the AI video creation space. The community is designed to facilitate the sharing of creative content and provide a space for feedback and growth.",
-            "whyItMatters": "The launch of this community has the potential to significantly impact the AI video creation landscape, providing a dedicated space for creators to share and learn from each other. This can lead to accelerated innovation and the development of new AI video generation techniques.",
-            "howToUse": "Creators can join the community by signing up on the OpenArt platform, where they can upload their AI-generated video stories and engage with other members. The platform provides tools and resources for creators to improve their craft and stay updated on the latest trends in AI video generation.",
-            "beneficiaries": [
-                "AI Creators",
-                "Video Artists"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-6cmd90dcg",
             "title": "BetMGM Brazil",
             "subtitle": "Licensed sector must fight reputational contagion of illegal operators in Brazil",
@@ -1919,7 +1919,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": null
         },
         {
@@ -1938,7 +1938,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1947,7 +1947,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1956,7 +1956,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "Regulatory updates"
         },
         {
@@ -1974,7 +1974,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1983,7 +1983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2003,7 +2003,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2061,7 +2061,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2070,7 +2070,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T12:55:34.123Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2079,7 +2079,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T12:55:34.123Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": "Style browsing signal"
         },
         {
@@ -2116,7 +2116,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T12:55:34.123Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": null
         },
         {
@@ -2125,18 +2125,17 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-02T12:55:34.123Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": null
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-06-30T21:27:38.731Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-03T02:39:51.594Z",
+            "note": null
         },
         {
             "name": "Nano-banana",
@@ -2208,7 +2207,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-02T23:02:14.102Z",
+            "lastScan": "2026-07-03T02:39:51.594Z",
             "note": null
         },
         {
@@ -34515,6 +34514,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-85dhxsynu",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt launches AI video story community for creative content sharing",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Creative Content",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLR19pdkgyRjlRVzRfYmhveDdZYUN6ZVo2NHdVcDFLQmhtOXVZbGRjZ3ZqT3hLT1gtSDZQZ1F2R2FfN3dmUHJUQ0hYc1hhZUZpeE5DdGN2OHhodlRmS3FwbC0yaFQxUQ?oc=5",
+                "date": "2026-06-19T00:33:30.000Z"
+            },
+            "whatsNew": "OpenArt introduces a community platform for discovering and sharing AI-generated video stories, enabling creators to showcase their work and connect with like-minded individuals. This platform aims to foster innovation and collaboration in the AI video creation space. The community is designed to facilitate the sharing of creative content and provide a space for feedback and growth.",
+            "whyItMatters": "The launch of this community has the potential to significantly impact the AI video creation landscape, providing a dedicated space for creators to share and learn from each other. This can lead to accelerated innovation and the development of new AI video generation techniques.",
+            "howToUse": "Creators can join the community by signing up on the OpenArt platform, where they can upload their AI-generated video stories and engage with other members. The platform provides tools and resources for creators to improve their craft and stay updated on the latest trends in AI video generation.",
+            "beneficiaries": [
+                "AI Creators",
+                "Video Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
