@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-03T06:29:18.431Z",
+        "scanDate": "2026-07-03T09:54:49.798Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 56,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-559bbzanr",
+            "title": "RedCraft Update",
+            "subtitle": "RedCraft releases RedMix Edition with INT8 Convrot and 2x speed on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Models",
+                "Civitai",
+                "RedCraft"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWkwZWlZWkY1NDdRLVZXT1paWjltMDZmbHpWRmZLdDJxcmh6MTVXZ2NMZFQyeUFUSlBNYVM0bWNyUjFyYU4tdnlhN2toWDEyY0JVSmxuT3NaWktnWXRjR0Zya18yMnlBem05Z2VGSE9hUjNwemtKd28zWk93eGVQekdB?oc=5",
+                "date": "2026-07-02T14:02:16.000Z"
+            },
+            "whatsNew": "RedCraft has released its RedMix Edition, featuring INT8 Convrot for improved performance and 2x speed. This update is available on Civitai.",
+            "whyItMatters": "The update enhances the capabilities of RedCraft, potentially impacting AI art generation and related creative workflows. It signifies ongoing development in AI tools.",
+            "howToUse": "Access the RedMix Edition through Civitai to leverage its enhanced features for AI art generation and exploration.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-8qxymhhm5",
+            "title": "AI Video Tools",
+            "subtitle": "Civitai introduces DaSiWa LTX2.3 Workflows for AI video generation",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Civitai",
+                "OmniForge"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1BzRkxjZDRUVVQ3VmJ4aUNhUUhiUDZES0g3dTRESzduTTdNZnRjR1V4dGN1clIxcnpaVzJmcTdZM1VEb1hoYXBZUDlSOHpIbkdwRktjclVGNnpldV9YSW9oRzFfTGNYLVVHa0JvbzNEbVV5aHlVRjhwSU5CSjhxeHJ2N0VhSHg1eEROM1pQNVh1QWM?oc=5",
+                "date": "2026-06-24T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai releases DaSiWa LTX2.3 Workflows, including I2V, FLF2V, T2V, and Audio, as part of OmniForge C-LTX23 v4.2. This update enhances AI video generation capabilities.",
+            "whyItMatters": "The update impacts AI video generation, offering improved workflows and tools for creators. This can lead to more efficient and high-quality video production.",
+            "howToUse": "Use Civitai's DaSiWa LTX2.3 Workflows to generate AI videos with enhanced audio and visual capabilities. Explore OmniForge C-LTX23 v4.2 for more features.",
+            "beneficiaries": [
+                "AI Video Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-2lmjkse0v",
             "title": "Krea 2 Workflow",
@@ -51,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3iit7r9iw",
@@ -82,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o840md2tt",
@@ -544,38 +606,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-vf8qt5t93",
-            "title": "AI Video Tools",
-            "subtitle": "Synthesia allows users to create video presentations without equipment",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Synthesia",
-                "Video presentation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZc0c1WENoekdIOFlxZUVfbXBteXRtek0xV2M5TlBqVm9NZmNQNExEeWZZYlp3YXc0eDIxbkwwLWtwU1ZhT2tsbTAtZzZuaWNrZFk1UzlrRkxObGt2UGl3VHRnS0l0TV9IdnJKajhOTQ?oc=5",
-                "date": "2026-06-19T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia's technology enables the creation of video presentations without the need for any equipment, leveraging AI for video generation. This simplifies the content creation process and makes it more accessible. The tool can be particularly useful for educational, marketing, and training purposes.",
-            "whyItMatters": "The ability to create video presentations with no equipment can significantly lower barriers to entry for content creators, enhancing accessibility and democratizing video content creation. This can have a substantial impact on how information is disseminated and consumed online.",
-            "howToUse": "To utilize Synthesia, users can follow a series of steps including scripting their presentation, selecting an avatar, and customizing the video's appearance and audio, all within the Synthesia platform.",
-            "beneficiaries": [
-                "Content creators",
-                "Educators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1047,37 +1077,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
-            "id": "t-biljt4dvb",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases WAI-illustrious-HSWQ v17.0 base, an illustrious checkpoint for AI art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "WAI-illustrious-HSWQ"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Da1p2RVg0bGJCcU5ZdTNnSkpGVTdvcDFCelloWnM1ZnhXLXVGaUJZdDB2TU5Ya25zNVQ3STlldW9PWHhKenV0NmpYOFgxU21GTW5WcDBDbl9xWkcyWXowbmdwOTZWQQ?oc=5",
-                "date": "2026-06-19T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released a new version of its AI art generation model, WAI-illustrious-HSWQ, with a base version of v17.0. This update brings improved capabilities for generating high-quality art.",
-            "whyItMatters": "The update is significant for AI art generation, offering improved performance and capabilities for artists and developers. It highlights the rapid advancement in AI technology for creative work.",
-            "howToUse": "Developers and artists can utilize this updated model to generate more realistic and detailed art, enhancing their projects and products.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1764,69 +1763,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-8mzugokah",
-            "title": "Bragg CEO Resigns",
-            "subtitle": "Bragg CEO to resign from board following shareholder vote",
-            "category": "iGaming",
-            "tags": [
-                "Bragg",
-                "CEO Resignation",
-                "Shareholder Vote"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE1XQ2JoSDhUUWdGdjVKbHZjOW4yX0k5bFdvbDFHRFRfdEpmZy1WM1RnS0NMTUFoSmJWNnZwd2wxMFY4NHJjRzJlZ2x5b0JkRXFuck5UMDg5MFlieVpjZ2lOVWN1cjg1TUNjbGl1azRSVFFPWmJDWEtFX0J3YWNzcnZMZmJRRDgyMjZpbm1hdUhGTlh0YTlB?oc=5",
-                "date": "2026-06-19T09:44:35.000Z"
-            },
-            "whatsNew": "Bragg's CEO is set to resign from the board after a shareholder vote. The move may impact the company's strategic direction and leadership.",
-            "whyItMatters": "The resignation could lead to changes in Bragg's operations and decision-making processes, potentially affecting the iGaming industry.",
-            "howToUse": "Industry stakeholders should monitor Bragg's future developments and adjust their strategies accordingly.",
-            "beneficiaries": [
-                "Investors",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Bragg"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-6cmd90dcg",
-            "title": "BetMGM Brazil",
-            "subtitle": "Licensed sector must fight reputational contagion of illegal operators in Brazil",
-            "category": "iGaming",
-            "tags": [
-                "BetMGM",
-                "Brazil",
-                "Licensing",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGdKblFHenZJT2RSdVVOZ3RCUWxOdW0za2FYZ3N1SjRXa09qSlVKcWYxM3AySzlPWk11XzNQQUZ4RGhId1lQSkRCZjhfQ1h5aENyemlTc2ktdmR4aVp2UXBIVzZHYkF5UzF1eExHVHlWZDF1YktfUERRRlI5aGNsRzE4S0RFQ2Nob2RmVWQ0YmNYNFNGckg5a0RpUE55N1NRSzRCcGk1ck9WU1VId2kyRVNOTWR4U0liWDcyRVY4cw?oc=5",
-                "date": "2026-06-19T07:54:27.000Z"
-            },
-            "whatsNew": "BetMGM Brazil emphasizes the need for the licensed sector to combat the reputational damage caused by illegal operators. The company highlights the importance of differentiation between legal and illegal gaming operators.",
-            "whyItMatters": "The rise of illegal operators can negatively impact the reputation of the entire iGaming industry, making it crucial for licensed operators to take a stand. This can lead to increased regulation and scrutiny of the industry as a whole.",
-            "howToUse": "Licensed operators should focus on transparency, fair play, and responsible gaming practices to differentiate themselves from illegal operators and maintain a positive reputation.",
-            "beneficiaries": [
-                "Licensed Operators",
-                "Regulators"
-            ],
-            "companies": [
-                "BetMGM"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1983,7 +1919,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": null
         },
         {
@@ -2002,7 +1938,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2011,7 +1947,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2020,7 +1956,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "Regulatory updates"
         },
         {
@@ -2038,7 +1974,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2047,7 +1983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2067,7 +2003,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2125,7 +2061,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2134,7 +2070,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2143,7 +2079,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": "Style browsing signal"
         },
         {
@@ -2180,7 +2116,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": null
         },
         {
@@ -2189,7 +2125,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": null
         },
         {
@@ -2271,7 +2207,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-03T06:29:18.431Z",
+            "lastScan": "2026-07-03T09:54:49.798Z",
             "note": null
         },
         {
@@ -34609,6 +34545,132 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-vf8qt5t93",
+            "title": "AI Video Tools",
+            "subtitle": "Synthesia allows users to create video presentations without equipment",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Synthesia",
+                "Video presentation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZc0c1WENoekdIOFlxZUVfbXBteXRtek0xV2M5TlBqVm9NZmNQNExEeWZZYlp3YXc0eDIxbkwwLWtwU1ZhT2tsbTAtZzZuaWNrZFk1UzlrRkxObGt2UGl3VHRnS0l0TV9IdnJKajhOTQ?oc=5",
+                "date": "2026-06-19T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia's technology enables the creation of video presentations without the need for any equipment, leveraging AI for video generation. This simplifies the content creation process and makes it more accessible. The tool can be particularly useful for educational, marketing, and training purposes.",
+            "whyItMatters": "The ability to create video presentations with no equipment can significantly lower barriers to entry for content creators, enhancing accessibility and democratizing video content creation. This can have a substantial impact on how information is disseminated and consumed online.",
+            "howToUse": "To utilize Synthesia, users can follow a series of steps including scripting their presentation, selecting an avatar, and customizing the video's appearance and audio, all within the Synthesia platform.",
+            "beneficiaries": [
+                "Content creators",
+                "Educators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-biljt4dvb",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases WAI-illustrious-HSWQ v17.0 base, an illustrious checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "WAI-illustrious-HSWQ"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Da1p2RVg0bGJCcU5ZdTNnSkpGVTdvcDFCelloWnM1ZnhXLXVGaUJZdDB2TU5Ya25zNVQ3STlldW9PWHhKenV0NmpYOFgxU21GTW5WcDBDbl9xWkcyWXowbmdwOTZWQQ?oc=5",
+                "date": "2026-06-19T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released a new version of its AI art generation model, WAI-illustrious-HSWQ, with a base version of v17.0. This update brings improved capabilities for generating high-quality art.",
+            "whyItMatters": "The update is significant for AI art generation, offering improved performance and capabilities for artists and developers. It highlights the rapid advancement in AI technology for creative work.",
+            "howToUse": "Developers and artists can utilize this updated model to generate more realistic and detailed art, enhancing their projects and products.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-8mzugokah",
+            "title": "Bragg CEO Resigns",
+            "subtitle": "Bragg CEO to resign from board following shareholder vote",
+            "category": "iGaming",
+            "tags": [
+                "Bragg",
+                "CEO Resignation",
+                "Shareholder Vote"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE1XQ2JoSDhUUWdGdjVKbHZjOW4yX0k5bFdvbDFHRFRfdEpmZy1WM1RnS0NMTUFoSmJWNnZwd2wxMFY4NHJjRzJlZ2x5b0JkRXFuck5UMDg5MFlieVpjZ2lOVWN1cjg1TUNjbGl1azRSVFFPWmJDWEtFX0J3YWNzcnZMZmJRRDgyMjZpbm1hdUhGTlh0YTlB?oc=5",
+                "date": "2026-06-19T09:44:35.000Z"
+            },
+            "whatsNew": "Bragg's CEO is set to resign from the board after a shareholder vote. The move may impact the company's strategic direction and leadership.",
+            "whyItMatters": "The resignation could lead to changes in Bragg's operations and decision-making processes, potentially affecting the iGaming industry.",
+            "howToUse": "Industry stakeholders should monitor Bragg's future developments and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "Investors",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Bragg"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6cmd90dcg",
+            "title": "BetMGM Brazil",
+            "subtitle": "Licensed sector must fight reputational contagion of illegal operators in Brazil",
+            "category": "iGaming",
+            "tags": [
+                "BetMGM",
+                "Brazil",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGdKblFHenZJT2RSdVVOZ3RCUWxOdW0za2FYZ3N1SjRXa09qSlVKcWYxM3AySzlPWk11XzNQQUZ4RGhId1lQSkRCZjhfQ1h5aENyemlTc2ktdmR4aVp2UXBIVzZHYkF5UzF1eExHVHlWZDF1YktfUERRRlI5aGNsRzE4S0RFQ2Nob2RmVWQ0YmNYNFNGckg5a0RpUE55N1NRSzRCcGk1ck9WU1VId2kyRVNOTWR4U0liWDcyRVY4cw?oc=5",
+                "date": "2026-06-19T07:54:27.000Z"
+            },
+            "whatsNew": "BetMGM Brazil emphasizes the need for the licensed sector to combat the reputational damage caused by illegal operators. The company highlights the importance of differentiation between legal and illegal gaming operators.",
+            "whyItMatters": "The rise of illegal operators can negatively impact the reputation of the entire iGaming industry, making it crucial for licensed operators to take a stand. This can lead to increased regulation and scrutiny of the industry as a whole.",
+            "howToUse": "Licensed operators should focus on transparency, fair play, and responsible gaming practices to differentiate themselves from illegal operators and maintain a positive reputation.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "BetMGM"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
