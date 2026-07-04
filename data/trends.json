@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-04T14:27:38.985Z",
+        "scanDate": "2026-07-04T15:59:12.343Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -50,7 +50,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-00rrjgske",
@@ -81,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-eno4aoywx",
@@ -112,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dvcnbofws",
@@ -143,7 +143,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-c345lx5l2",
@@ -1949,37 +1949,6 @@
             "isNew": false
         },
         {
-            "id": "t-jaj3b47et",
-            "title": "Spine 2D Animation",
-            "subtitle": "Spine 2D character setup pose between animations",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Animation",
-                "Game Development"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGxKTkljYUU5b3ZYSUhzU3p6Y3VXX1ZfZ1NIMTd0cVVPZm5nNmJkbkNKbFJUbVVuQzhoV3BuTFFUenAwNFE2MnhOejZDaVBrQmxJQlRLcUk5Q1dSS0xJZVRVOHB5enM1TmlyamJvNlMzTW0ta2xfWW5KbHFHd2lUa3RQbVhQWTFaUUUxaTFPaFV1c0tPdDh2WG5ZZV9SaFE?oc=5",
-                "date": "2026-06-20T15:26:30.000Z"
-            },
-            "whatsNew": "Spine 2D allows characters to get into a setup pose between animations, enhancing the animation experience. This feature is useful for game developers. It provides a more seamless transition between animations.",
-            "whyItMatters": "This feature improves the overall gaming experience by providing a more realistic and engaging character animation. It is particularly useful for game developers who use Spine 2D for their game development needs.",
-            "howToUse": "Game developers can utilize this feature by setting up their character animations in Spine 2D, allowing for a more polished and professional look. They can also experiment with different setup poses to find the one that works best for their game.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-9lytmqenc",
             "title": "Ghibli Style",
             "subtitle": "Civitai releases Studio Ghibli Style v1.0 with Ideogram 4.0 LoRA",
@@ -2167,7 +2136,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": null
         },
         {
@@ -2186,7 +2155,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2195,7 +2164,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2204,7 +2173,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": "Regulatory updates"
         },
         {
@@ -2222,7 +2191,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2231,7 +2200,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2251,7 +2220,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2309,7 +2278,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2456,7 +2425,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-04T14:27:38.985Z",
+            "lastScan": "2026-07-04T15:59:12.343Z",
             "note": null
         },
         {
@@ -34951,6 +34920,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-jaj3b47et",
+            "title": "Spine 2D Animation",
+            "subtitle": "Spine 2D character setup pose between animations",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Animation",
+                "Game Development"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGxKTkljYUU5b3ZYSUhzU3p6Y3VXX1ZfZ1NIMTd0cVVPZm5nNmJkbkNKbFJUbVVuQzhoV3BuTFFUenAwNFE2MnhOejZDaVBrQmxJQlRLcUk5Q1dSS0xJZVRVOHB5enM1TmlyamJvNlMzTW0ta2xfWW5KbHFHd2lUa3RQbVhQWTFaUUUxaTFPaFV1c0tPdDh2WG5ZZV9SaFE?oc=5",
+                "date": "2026-06-20T15:26:30.000Z"
+            },
+            "whatsNew": "Spine 2D allows characters to get into a setup pose between animations, enhancing the animation experience. This feature is useful for game developers. It provides a more seamless transition between animations.",
+            "whyItMatters": "This feature improves the overall gaming experience by providing a more realistic and engaging character animation. It is particularly useful for game developers who use Spine 2D for their game development needs.",
+            "howToUse": "Game developers can utilize this feature by setting up their character animations in Spine 2D, allowing for a more polished and professional look. They can also experiment with different setup poses to find the one that works best for their game.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
