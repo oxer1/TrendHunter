@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-05T04:56:37.538Z",
+        "scanDate": "2026-07-05T07:54:43.779Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -21,28 +21,29 @@
     },
     "trends": [
         {
-            "id": "t-gaz3wmd2o",
-            "title": "Z-Image Workflow",
-            "subtitle": "Civitai releases V15 Sampler Upgrade for Z-Image Base and Turbo Workflows",
+            "id": "t-8peo4zjsj",
+            "title": "Krea2 Enhancer",
+            "subtitle": "Civitai releases Krea2_Enhancer, a version 1.0 LoRA model",
             "category": "AI",
             "tags": [
-                "AI Image Generation",
-                "Z-Image",
-                "Civitai"
+                "Krea2",
+                "LoRA",
+                "Civitai",
+                "AI Models"
             ],
             "trendStrength": 4,
             "velocity": "rising",
             "source": {
                 "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQ1aTk0Y0hRdWhVX0xKajZoMlBpTjVEM0JSR2NjdFhTWmtEZUNWVGExYnlIUFlrY2dxcEtRUDlwanE4Zi04S3R5MDduWGk2SEVoNnJ2Z3VUZ1dHOXdRa1lnYkY5NTBnX0JhR0pyaFlZZ2w2Z1ZQbVJ5cHhBSENlbmtpVHp3YzZlSzdUSi1TNUloS1Mz?oc=5",
-                "date": "2026-06-21T07:00:00.000Z"
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QUC1zUWc3MzJDY0pBYWI4NEE2RGNzSzJ4cXR3ZTBPLWZXT0ZTVWdkcGpNaEl1ZE5QTjdNbmMxS3J4aC1zTXRIOURDMFBpd0I5Y3RSRzZLMmUxT3NK?oc=5",
+                "date": "2026-06-25T07:00:00.000Z"
             },
-            "whatsNew": "The V15 Sampler Upgrade enhances the Z-Image Base and Turbo Workflows for image-to-image and text-to-image tasks, supporting both low and high VRAM configurations. This upgrade aims to improve the efficiency and quality of AI-generated images.",
-            "whyItMatters": "The upgrade matters because it makes AI image generation more accessible and efficient for users with varying hardware capabilities, potentially expanding the creative applications of AI in gaming, art, and design.",
-            "howToUse": "Users can utilize the upgraded workflows by accessing the V15 Sampler through Civitai's platform, following the provided guidelines for optimal performance based on their VRAM.",
+            "whatsNew": "Civitai has introduced the Krea2_Enhancer, a version 1.0 LoRA model, marking a significant update in AI technology. This model is designed to enhance and expand upon existing capabilities. The release of Krea2_Enhancer indicates a growing interest in AI enhancement tools.",
+            "whyItMatters": "The Krea2_Enhancer has the potential to significantly impact the field of AI, particularly in areas such as image and video generation, by providing more advanced and refined outputs. This could lead to increased adoption of AI tools in creative industries.",
+            "howToUse": "Developers and artists can utilize the Krea2_Enhancer by integrating it into their existing workflows to enhance the quality and realism of their AI-generated content. This can be achieved by accessing the model through Civitai's platform and following their implementation guidelines.",
             "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
+                "AI Developers",
+                "Digital Artists"
             ],
             "companies": [
                 "Civitai"
@@ -1203,37 +1204,6 @@
             "isNew": false
         },
         {
-            "id": "t-ar3a7a92g",
-            "title": "AI Art Workflow",
-            "subtitle": "Civitai introduces Illustrious/Pony/SDXL workflow for SFW and NSFW content",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Workflow"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck03R3Q1ZzAtSHpuYUI2NmdGTHpDbXpRbE9EM0xhS1NuVWJFMHc5TndKcXJBUDktQmR5OXNQVlpUSlpTeXZDbF9MOEFkZmwzZXdaX0k2b3paTjBtQnFmcE1JR1FreUVSdzBfWkZrOVVhTE95ZGdQNlphTkkxVzRaMWJYMlNrbm5rdTAtSWFJM1l2bEVYTGN3VkljQnJYNFkxSUYtTHpiVE1jQQ?oc=5",
-                "date": "2026-06-21T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai's new workflow supports both low and high VRAM, enabling more flexible AI art generation. It caters to both SFW and NSFW content creators. The workflow is designed for professional-grade output.",
-            "whyItMatters": "This development matters because it expands the accessibility of AI art tools for creators with varying hardware capabilities. It also signifies the growing importance of adaptable workflows in AI art generation.",
-            "howToUse": "Artists can utilize Civitai's workflow by adjusting parameters according to their VRAM and content type, ensuring high-quality output regardless of their system's specifications.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-nftulb2jk",
             "title": "FIRST.bet New Co-CEO",
             "subtitle": "FIRST.bet appoints ex-DraftKings sportsbook chief as co-CEO",
@@ -2197,7 +2167,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": null
         },
         {
@@ -2216,7 +2186,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2225,7 +2195,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2234,7 +2204,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": "Regulatory updates"
         },
         {
@@ -2252,7 +2222,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2261,7 +2231,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2281,7 +2251,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2339,7 +2309,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2485,7 +2455,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T04:56:37.538Z",
+            "lastScan": "2026-07-05T07:54:43.779Z",
             "note": null
         },
         {
@@ -35038,6 +35008,68 @@
                 "Artists",
                 "Animators",
                 "Fans of Studio Ghibli"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-gaz3wmd2o",
+            "title": "Z-Image Workflow",
+            "subtitle": "Civitai releases V15 Sampler Upgrade for Z-Image Base and Turbo Workflows",
+            "category": "AI",
+            "tags": [
+                "AI Image Generation",
+                "Z-Image",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQ1aTk0Y0hRdWhVX0xKajZoMlBpTjVEM0JSR2NjdFhTWmtEZUNWVGExYnlIUFlrY2dxcEtRUDlwanE4Zi04S3R5MDduWGk2SEVoNnJ2Z3VUZ1dHOXdRa1lnYkY5NTBnX0JhR0pyaFlZZ2w2Z1ZQbVJ5cHhBSENlbmtpVHp3YzZlSzdUSi1TNUloS1Mz?oc=5",
+                "date": "2026-06-21T07:00:00.000Z"
+            },
+            "whatsNew": "The V15 Sampler Upgrade enhances the Z-Image Base and Turbo Workflows for image-to-image and text-to-image tasks, supporting both low and high VRAM configurations. This upgrade aims to improve the efficiency and quality of AI-generated images.",
+            "whyItMatters": "The upgrade matters because it makes AI image generation more accessible and efficient for users with varying hardware capabilities, potentially expanding the creative applications of AI in gaming, art, and design.",
+            "howToUse": "Users can utilize the upgraded workflows by accessing the V15 Sampler through Civitai's platform, following the provided guidelines for optimal performance based on their VRAM.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-ar3a7a92g",
+            "title": "AI Art Workflow",
+            "subtitle": "Civitai introduces Illustrious/Pony/SDXL workflow for SFW and NSFW content",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck03R3Q1ZzAtSHpuYUI2NmdGTHpDbXpRbE9EM0xhS1NuVWJFMHc5TndKcXJBUDktQmR5OXNQVlpUSlpTeXZDbF9MOEFkZmwzZXdaX0k2b3paTjBtQnFmcE1JR1FreUVSdzBfWkZrOVVhTE95ZGdQNlphTkkxVzRaMWJYMlNrbm5rdTAtSWFJM1l2bEVYTGN3VkljQnJYNFkxSUYtTHpiVE1jQQ?oc=5",
+                "date": "2026-06-21T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai's new workflow supports both low and high VRAM, enabling more flexible AI art generation. It caters to both SFW and NSFW content creators. The workflow is designed for professional-grade output.",
+            "whyItMatters": "This development matters because it expands the accessibility of AI art tools for creators with varying hardware capabilities. It also signifies the growing importance of adaptable workflows in AI art generation.",
+            "howToUse": "Artists can utilize Civitai's workflow by adjusting parameters according to their VRAM and content type, ensuring high-quality output regardless of their system's specifications.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
             ],
             "companies": [
                 "Civitai"
