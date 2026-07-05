@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-05T00:02:37.230Z",
+        "scanDate": "2026-07-05T04:56:37.538Z",
         "version": "2.5.0",
         "totalTrends": 65,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-gaz3wmd2o",
+            "title": "Z-Image Workflow",
+            "subtitle": "Civitai releases V15 Sampler Upgrade for Z-Image Base and Turbo Workflows",
+            "category": "AI",
+            "tags": [
+                "AI Image Generation",
+                "Z-Image",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQ1aTk0Y0hRdWhVX0xKajZoMlBpTjVEM0JSR2NjdFhTWmtEZUNWVGExYnlIUFlrY2dxcEtRUDlwanE4Zi04S3R5MDduWGk2SEVoNnJ2Z3VUZ1dHOXdRa1lnYkY5NTBnX0JhR0pyaFlZZ2w2Z1ZQbVJ5cHhBSENlbmtpVHp3YzZlSzdUSi1TNUloS1Mz?oc=5",
+                "date": "2026-06-21T07:00:00.000Z"
+            },
+            "whatsNew": "The V15 Sampler Upgrade enhances the Z-Image Base and Turbo Workflows for image-to-image and text-to-image tasks, supporting both low and high VRAM configurations. This upgrade aims to improve the efficiency and quality of AI-generated images.",
+            "whyItMatters": "The upgrade matters because it makes AI image generation more accessible and efficient for users with varying hardware capabilities, potentially expanding the creative applications of AI in gaming, art, and design.",
+            "howToUse": "Users can utilize the upgraded workflows by accessing the V15 Sampler through Civitai's platform, following the provided guidelines for optimal performance based on their VRAM.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-j5ylovbdy",
             "title": "Fanatics UAE Push",
@@ -2010,39 +2041,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-9lytmqenc",
-            "title": "Ghibli Style",
-            "subtitle": "Civitai releases Studio Ghibli Style v1.0 with Ideogram 4.0 LoRA",
-            "category": "Art",
-            "tags": [
-                "Studio Ghibli",
-                "Ideogram",
-                "LoRA",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vc1llbU9DNGNMNkMyTktRczNieTNmOU1aQ0VtbFBpMnRCR0pnWUZHX19pcGpxbEN1bTZJV1Y1cHh6Y0ptcEdhZ1JQWXdUVy1BV3RrNnNZQTdEUEtsamY4aU5yQzQ?oc=5",
-                "date": "2026-06-21T01:19:42.000Z"
-            },
-            "whatsNew": "Civitai introduces Studio Ghibli Style v1.0, utilizing Ideogram 4.0 LoRA for AI-generated art. This model allows for the creation of artwork in the distinctive style of Studio Ghibli. The integration of LoRA enhances the model's ability to generate detailed and stylized images.",
-            "whyItMatters": "This release is significant for artists and fans of Studio Ghibli, as it provides a tool for generating art in a beloved style. It also showcases the growing capabilities of AI in art generation, particularly with the use of LoRA for more refined outputs.",
-            "howToUse": "Artists can utilize this model by accessing it through Civitai's platform, where they can input their prompts to generate unique artwork in the Studio Ghibli style. This can be particularly useful for concept artists, animators, and fans looking to create their own Ghibli-inspired pieces.",
-            "beneficiaries": [
-                "Artists",
-                "Animators",
-                "Fans of Studio Ghibli"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2199,7 +2197,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
+            "lastScan": "2026-07-05T04:56:37.538Z",
             "note": null
         },
         {
@@ -2216,31 +2214,28 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "fallbackUsed": "metadata-only",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "fallbackUsed": "search-summary",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -2255,22 +2250,20 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": "EU regulatory insights",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": "EU regulatory insights"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
+            "lastScan": "2026-07-05T04:56:37.538Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop",
-            "errorReason": "HTTP 503"
+            "fallbackUsed": "manual_link_drop"
         },
         {
             "name": "X / Twitter",
@@ -2286,11 +2279,10 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
             "name": "r/StableDiffusion",
@@ -2345,31 +2337,28 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": "Prompt gallery signal — style/trend detection",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": "Prompt gallery signal — style/trend detection"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": "Promptbook — style/prompt signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": "Style browsing signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": "Style browsing signal"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -2403,31 +2392,28 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": null
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-05T00:02:37.230Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-05T04:56:37.538Z",
+            "note": null
         },
         {
             "name": "Nano-banana",
@@ -2499,7 +2485,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T00:02:37.230Z",
+            "lastScan": "2026-07-05T04:56:37.538Z",
             "note": null
         },
         {
@@ -35025,6 +35011,39 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-9lytmqenc",
+            "title": "Ghibli Style",
+            "subtitle": "Civitai releases Studio Ghibli Style v1.0 with Ideogram 4.0 LoRA",
+            "category": "Art",
+            "tags": [
+                "Studio Ghibli",
+                "Ideogram",
+                "LoRA",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vc1llbU9DNGNMNkMyTktRczNieTNmOU1aQ0VtbFBpMnRCR0pnWUZHX19pcGpxbEN1bTZJV1Y1cHh6Y0ptcEdhZ1JQWXdUVy1BV3RrNnNZQTdEUEtsamY4aU5yQzQ?oc=5",
+                "date": "2026-06-21T01:19:42.000Z"
+            },
+            "whatsNew": "Civitai introduces Studio Ghibli Style v1.0, utilizing Ideogram 4.0 LoRA for AI-generated art. This model allows for the creation of artwork in the distinctive style of Studio Ghibli. The integration of LoRA enhances the model's ability to generate detailed and stylized images.",
+            "whyItMatters": "This release is significant for artists and fans of Studio Ghibli, as it provides a tool for generating art in a beloved style. It also showcases the growing capabilities of AI in art generation, particularly with the use of LoRA for more refined outputs.",
+            "howToUse": "Artists can utilize this model by accessing it through Civitai's platform, where they can input their prompts to generate unique artwork in the Studio Ghibli style. This can be particularly useful for concept artists, animators, and fans looking to create their own Ghibli-inspired pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Animators",
+                "Fans of Studio Ghibli"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
