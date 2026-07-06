@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-06T02:53:26.329Z",
+        "scanDate": "2026-07-06T07:10:57.430Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -210,37 +210,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-00rrjgske",
-            "title": "AI Video Tools",
-            "subtitle": "Synthesia provides a guide on creating effective explainer videos using AI video tools.",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Explainer videos",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VVHlCT3YzYzBxOTFjdXVJN1hEMHZWNUNad2E5X0F2YkJjR0gxNnhVbVFJZXVhM0pWbW9sTnVxcEI2S1d0SzAxcVNWSW8zTjZSS0V1NnNQWjJwQQ?oc=5",
-                "date": "2026-06-22T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia's guide highlights the importance of AI in creating engaging explainer videos, providing examples and best practices for effective video creation.",
-            "whyItMatters": "The use of AI in video creation is becoming increasingly popular, and Synthesia's guide helps businesses and creators leverage this technology to enhance their video content.",
-            "howToUse": "Use Synthesia's AI video tools to create customized explainer videos that cater to your specific needs and audience, following the guide's best practices for maximum impact.",
-            "beneficiaries": [
-                "Content creators",
-                "Businesses"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         },
         {
@@ -1204,38 +1173,6 @@
             "isNew": false
         },
         {
-            "id": "t-xu3j8qnbz",
-            "title": "AI Art Generation",
-            "subtitle": "Miraclein NSFW Generation and Edit tool updated to version 3.0 with Flux.2 Klein Checkpoint on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "NSFW Generation",
-                "Flux2Klein",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXItS3M5N2UxTUtPQzB1MTR5cGs3b1FZYzVpNHdpTUZDbTBwZktBcWlCeENTM3RUb29LZFNxNVRxZkM4dDRrWXBGVnF0bC1lUzFxVHRjMzMwNDA2MmxnZkU4Skw3Z3MzQ3ByS0MweVBiNUEwVzZwNGE4Nkt4LTRWbVJ6NzVkZEk?oc=5",
-                "date": "2026-06-22T07:00:00.000Z"
-            },
-            "whatsNew": "The Miraclein NSFW Generation and Edit tool has been updated to version 3.0, incorporating the Flux.2 Klein Checkpoint and supporting bf16 and fp8 formats. This update enhances the tool's capabilities for generating and editing NSFW content.",
-            "whyItMatters": "This update is significant for AI art generation, particularly in the NSFW category, as it improves the quality and versatility of generated content. It also reflects the ongoing development and refinement of AI tools for creative work.",
-            "howToUse": "Users can access the updated tool on Civitai, utilizing the Flux.2 Klein Checkpoint for enhanced generation and editing capabilities. This requires familiarity with AI art generation tools and the specific parameters of the Miraclein NSFW tool.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-iwq3dgau5",
             "title": "Niji Semi Realism",
             "subtitle": "Civitai releases Niji semi realism v5.0 with Anima and Anima LoRA",
@@ -1517,37 +1454,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-uuw566zdv",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases Ideogram-v4-workflow and Json Prompts v2.5",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Json Prompts"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdmNTakhBdk1DT3d4Mi1PY1JualEzOWhGbzBtUFVXb1dvSHN0bk5WSFVsbjMtcnE5VE5PZV9wNzVVTWlpNHhDSGRCaWlvaEVfVzExNS14c1JrYVBWTkw1b21oX20wNGtmemhvQUIyaUhVYlE0WmJJ?oc=5",
-                "date": "2026-06-22T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an updated version of its Ideogram-v4-workflow and Json Prompts, now at version 2.5. This update aims to improve AI art generation capabilities.",
-            "whyItMatters": "This update is significant for AI art enthusiasts and developers, as it may enhance the quality and customization of AI-generated art. It reflects the ongoing advancements in AI technology for creative work.",
-            "howToUse": "Users can leverage this update by exploring the new features and prompts in the Ideogram-v4-workflow and Json Prompts v2.5, potentially leading to more sophisticated AI art creations.",
-            "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1920,38 +1826,6 @@
             "isNew": false
         },
         {
-            "id": "t-549fhrjs1",
-            "title": "AI Creator Studio",
-            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Video Generation",
-                "Image Creation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HS2tHMFpLSTNHdWpTLTctSFhUQXlKMl9Hc1FOM0txaHFGREpPXzd4WkJFcXRnTWlwb0oyVEozVWFQQmVJeWZLVUlqNnFJV3BUTEUxbA?oc=5",
-                "date": "2026-06-22T04:34:23.000Z"
-            },
-            "whatsNew": "OpenArt has launched an AI Creator Studio, enabling users to generate high-quality videos and images using AI. This studio utilizes advanced AI algorithms to produce unique and customized content. The platform is designed to simplify the content creation process.",
-            "whyItMatters": "The AI Creator Studio by OpenArt has the potential to revolutionize the content creation industry by providing users with an efficient and innovative way to produce high-quality videos and images. This can be particularly beneficial for the iGaming and game development sectors, where engaging visuals are crucial.",
-            "howToUse": "Users can leverage the AI Creator Studio by accessing the OpenArt platform and utilizing its intuitive interface to generate customized videos and images. This can be achieved by inputting specific parameters and allowing the AI algorithms to produce the desired content.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Operators",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-tjrrkgzi3",
             "title": "OpenArt Director",
             "subtitle": "A guide on using OpenArt Director for video direction",
@@ -2169,7 +2043,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.329Z",
+            "lastScan": "2026-07-06T07:10:57.430Z",
             "note": null
         },
         {
@@ -2188,7 +2062,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.430Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2197,7 +2071,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.430Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2206,7 +2080,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.430Z",
             "note": "Regulatory updates"
         },
         {
@@ -2224,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2233,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2253,7 +2127,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2311,7 +2185,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2320,7 +2194,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2329,7 +2203,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": "Style browsing signal"
         },
         {
@@ -2366,7 +2240,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": null
         },
         {
@@ -2375,7 +2249,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": null
         },
         {
@@ -2384,7 +2258,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": null
         },
         {
@@ -2457,7 +2331,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T02:53:26.330Z",
+            "lastScan": "2026-07-06T07:10:57.431Z",
             "note": null
         },
         {
@@ -35141,6 +35015,132 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-00rrjgske",
+            "title": "AI Video Tools",
+            "subtitle": "Synthesia provides a guide on creating effective explainer videos using AI video tools.",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Explainer videos",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VVHlCT3YzYzBxOTFjdXVJN1hEMHZWNUNad2E5X0F2YkJjR0gxNnhVbVFJZXVhM0pWbW9sTnVxcEI2S1d0SzAxcVNWSW8zTjZSS0V1NnNQWjJwQQ?oc=5",
+                "date": "2026-06-22T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia's guide highlights the importance of AI in creating engaging explainer videos, providing examples and best practices for effective video creation.",
+            "whyItMatters": "The use of AI in video creation is becoming increasingly popular, and Synthesia's guide helps businesses and creators leverage this technology to enhance their video content.",
+            "howToUse": "Use Synthesia's AI video tools to create customized explainer videos that cater to your specific needs and audience, following the guide's best practices for maximum impact.",
+            "beneficiaries": [
+                "Content creators",
+                "Businesses"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-xu3j8qnbz",
+            "title": "AI Art Generation",
+            "subtitle": "Miraclein NSFW Generation and Edit tool updated to version 3.0 with Flux.2 Klein Checkpoint on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "NSFW Generation",
+                "Flux2Klein",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXItS3M5N2UxTUtPQzB1MTR5cGs3b1FZYzVpNHdpTUZDbTBwZktBcWlCeENTM3RUb29LZFNxNVRxZkM4dDRrWXBGVnF0bC1lUzFxVHRjMzMwNDA2MmxnZkU4Skw3Z3MzQ3ByS0MweVBiNUEwVzZwNGE4Nkt4LTRWbVJ6NzVkZEk?oc=5",
+                "date": "2026-06-22T07:00:00.000Z"
+            },
+            "whatsNew": "The Miraclein NSFW Generation and Edit tool has been updated to version 3.0, incorporating the Flux.2 Klein Checkpoint and supporting bf16 and fp8 formats. This update enhances the tool's capabilities for generating and editing NSFW content.",
+            "whyItMatters": "This update is significant for AI art generation, particularly in the NSFW category, as it improves the quality and versatility of generated content. It also reflects the ongoing development and refinement of AI tools for creative work.",
+            "howToUse": "Users can access the updated tool on Civitai, utilizing the Flux.2 Klein Checkpoint for enhanced generation and editing capabilities. This requires familiarity with AI art generation tools and the specific parameters of the Miraclein NSFW tool.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-uuw566zdv",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases Ideogram-v4-workflow and Json Prompts v2.5",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Json Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdmNTakhBdk1DT3d4Mi1PY1JualEzOWhGbzBtUFVXb1dvSHN0bk5WSFVsbjMtcnE5VE5PZV9wNzVVTWlpNHhDSGRCaWlvaEVfVzExNS14c1JrYVBWTkw1b21oX20wNGtmemhvQUIyaUhVYlE0WmJJ?oc=5",
+                "date": "2026-06-22T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an updated version of its Ideogram-v4-workflow and Json Prompts, now at version 2.5. This update aims to improve AI art generation capabilities.",
+            "whyItMatters": "This update is significant for AI art enthusiasts and developers, as it may enhance the quality and customization of AI-generated art. It reflects the ongoing advancements in AI technology for creative work.",
+            "howToUse": "Users can leverage this update by exploring the new features and prompts in the Ideogram-v4-workflow and Json Prompts v2.5, potentially leading to more sophisticated AI art creations.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-549fhrjs1",
+            "title": "AI Creator Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HS2tHMFpLSTNHdWpTLTctSFhUQXlKMl9Hc1FOM0txaHFGREpPXzd4WkJFcXRnTWlwb0oyVEozVWFQQmVJeWZLVUlqNnFJV3BUTEUxbA?oc=5",
+                "date": "2026-06-22T04:34:23.000Z"
+            },
+            "whatsNew": "OpenArt has launched an AI Creator Studio, enabling users to generate high-quality videos and images using AI. This studio utilizes advanced AI algorithms to produce unique and customized content. The platform is designed to simplify the content creation process.",
+            "whyItMatters": "The AI Creator Studio by OpenArt has the potential to revolutionize the content creation industry by providing users with an efficient and innovative way to produce high-quality videos and images. This can be particularly beneficial for the iGaming and game development sectors, where engaging visuals are crucial.",
+            "howToUse": "Users can leverage the AI Creator Studio by accessing the OpenArt platform and utilizing its intuitive interface to generate customized videos and images. This can be achieved by inputting specific parameters and allowing the AI algorithms to produce the desired content.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
