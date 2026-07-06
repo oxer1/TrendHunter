@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-06T12:03:19.473Z",
+        "scanDate": "2026-07-06T16:18:54.787Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-n7w8lw08h",
@@ -81,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xgr1pivwa",
@@ -1888,38 +1888,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-roi3e38s1",
-            "title": "LTX2.3 Release",
-            "subtitle": "Civitai introduces LTX2.3, an all-in-one AI model combining various tools for image generation and manipulation.",
-            "category": "AI",
-            "tags": [
-                "AI Art Generation",
-                "LTX2.3",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd091MHZHQzYwSVczTDBHMDhka1QwU1NvMmR6VkZrUE9Udi1uZUdhV2dTWXdFTUxKQk14S3pyMG5QY0R0SlZ2NTdValgwa2JkYWpUTzA4c19US05uUDNDeW1tTW5Cdm1FS3F3SlY1aUY3b3NyWTdOUUhWMDFZcVlOaWNSdEVaRHR5dGxOdEJ0R1YxcnkyakFDOVh5YjBNRDFvNWVrSlVra1hHWWhUSlZjLUh2MGZxU3Bxc25QaXU2VXo?oc=5",
-                "date": "2026-06-22T14:01:31.000Z"
-            },
-            "whatsNew": "LTX2.3 integrates LTX Director, ID LoRA, ControlNet, Detailer, Upscaler, and Interpolator, offering a comprehensive suite for AI-powered image creation and editing. This model supports both SFW and NSFW content. The integration aims to streamline workflows and enhance image quality.",
-            "whyItMatters": "The release of LTX2.3 signifies a significant step in AI art generation, providing users with a robust toolset for creating and manipulating images. This can impact various creative fields, including gaming and visual design.",
-            "howToUse": "Users can leverage LTX2.3 for generating high-quality images, editing existing ones, and exploring the capabilities of AI in art creation. It's advisable to experiment with the different components of the model to understand its full potential.",
-            "beneficiaries": [
-                "Artists",
-                "Game Developers",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2076,7 +2044,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": null
         },
         {
@@ -2095,7 +2063,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2104,7 +2072,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2113,7 +2081,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "Regulatory updates"
         },
         {
@@ -2131,7 +2099,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2140,7 +2108,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2160,7 +2128,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2218,7 +2186,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2227,7 +2195,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2236,7 +2204,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": "Style browsing signal"
         },
         {
@@ -2273,7 +2241,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.787Z",
             "note": null
         },
         {
@@ -2282,7 +2250,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.788Z",
             "note": null
         },
         {
@@ -2291,7 +2259,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.788Z",
             "note": null
         },
         {
@@ -2364,7 +2332,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T12:03:19.473Z",
+            "lastScan": "2026-07-06T16:18:54.788Z",
             "note": null
         },
         {
@@ -35204,6 +35172,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "visual-style-trends",
+            "isNew": false
+        },
+        {
+            "id": "t-roi3e38s1",
+            "title": "LTX2.3 Release",
+            "subtitle": "Civitai introduces LTX2.3, an all-in-one AI model combining various tools for image generation and manipulation.",
+            "category": "AI",
+            "tags": [
+                "AI Art Generation",
+                "LTX2.3",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd091MHZHQzYwSVczTDBHMDhka1QwU1NvMmR6VkZrUE9Udi1uZUdhV2dTWXdFTUxKQk14S3pyMG5QY0R0SlZ2NTdValgwa2JkYWpUTzA4c19US05uUDNDeW1tTW5Cdm1FS3F3SlY1aUY3b3NyWTdOUUhWMDFZcVlOaWNSdEVaRHR5dGxOdEJ0R1YxcnkyakFDOVh5YjBNRDFvNWVrSlVra1hHWWhUSlZjLUh2MGZxU3Bxc25QaXU2VXo?oc=5",
+                "date": "2026-06-22T14:01:31.000Z"
+            },
+            "whatsNew": "LTX2.3 integrates LTX Director, ID LoRA, ControlNet, Detailer, Upscaler, and Interpolator, offering a comprehensive suite for AI-powered image creation and editing. This model supports both SFW and NSFW content. The integration aims to streamline workflows and enhance image quality.",
+            "whyItMatters": "The release of LTX2.3 signifies a significant step in AI art generation, providing users with a robust toolset for creating and manipulating images. This can impact various creative fields, including gaming and visual design.",
+            "howToUse": "Users can leverage LTX2.3 for generating high-quality images, editing existing ones, and exploring the capabilities of AI in art creation. It's advisable to experiment with the different components of the model to understand its full potential.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
