@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-06T18:53:36.440Z",
+        "scanDate": "2026-07-06T20:51:01.015Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -704,37 +704,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-mxzcajxjk",
-            "title": "AI Art Generation",
-            "subtitle": "PromptHero introduces a new artwork piece with multiple biological elements generated using AI",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Art Generation",
-                "PromptHero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRjFNX1gtWjdkaGFibGJvOWM2MG1TWlBxaDRwUUJwamhaT2hGVjE5bGxrVTNmUUVtc1RNMWVhMGlkczRaUzVLbWtZSmZzMmN2amxUSzdPYzBzdmRTbWQzU2RYaGM4NDNzYzBZaXF6b2ZQZ1dxSk4zOEJHU0tJUmhBcGlOWXFDSWFRcUMzZjY0a0lqSm1BS3g2TjJSUWVueGJwMDMxWXF6dGxNcmJNcG9NZG5kMUpsLUhYU1pwN0ZOeENhMnVuTTRfYVZYSS1ReXBjVWZGbE9wVGg4T2tabXhCVWNpdE91QkE?oc=5",
-                "date": "2026-06-22T20:20:42.000Z"
-            },
-            "whatsNew": "PromptHero's new artwork piece showcases the capabilities of AI in generating complex biological elements. The artwork is a testament to the advancements in AI art generation. This technology has the potential to revolutionize the art world.",
-            "whyItMatters": "The development of AI art generation tools like PromptHero's has significant implications for the art world, enabling new forms of creative expression and potentially disrupting traditional art markets.",
-            "howToUse": "Artists and designers can utilize PromptHero's AI art generation tools to create innovative and complex artworks, exploring new possibilities in biological and organic designs.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2044,7 +2013,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": null
         },
         {
@@ -2063,7 +2032,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2072,7 +2041,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2081,7 +2050,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": "Regulatory updates"
         },
         {
@@ -2099,7 +2068,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2108,7 +2077,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2128,7 +2097,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2186,7 +2155,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2332,7 +2301,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-06T20:51:01.015Z",
             "note": null
         },
         {
@@ -35201,6 +35170,37 @@
             ],
             "companies": [
                 "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-mxzcajxjk",
+            "title": "AI Art Generation",
+            "subtitle": "PromptHero introduces a new artwork piece with multiple biological elements generated using AI",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Art Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRjFNX1gtWjdkaGFibGJvOWM2MG1TWlBxaDRwUUJwamhaT2hGVjE5bGxrVTNmUUVtc1RNMWVhMGlkczRaUzVLbWtZSmZzMmN2amxUSzdPYzBzdmRTbWQzU2RYaGM4NDNzYzBZaXF6b2ZQZ1dxSk4zOEJHU0tJUmhBcGlOWXFDSWFRcUMzZjY0a0lqSm1BS3g2TjJSUWVueGJwMDMxWXF6dGxNcmJNcG9NZG5kMUpsLUhYU1pwN0ZOeENhMnVuTTRfYVZYSS1ReXBjVWZGbE9wVGg4T2tabXhCVWNpdE91QkE?oc=5",
+                "date": "2026-06-22T20:20:42.000Z"
+            },
+            "whatsNew": "PromptHero's new artwork piece showcases the capabilities of AI in generating complex biological elements. The artwork is a testament to the advancements in AI art generation. This technology has the potential to revolutionize the art world.",
+            "whyItMatters": "The development of AI art generation tools like PromptHero's has significant implications for the art world, enabling new forms of creative expression and potentially disrupting traditional art markets.",
+            "howToUse": "Artists and designers can utilize PromptHero's AI art generation tools to create innovative and complex artworks, exploring new possibilities in biological and organic designs.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
