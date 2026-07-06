@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-05T23:07:51.043Z",
+        "scanDate": "2026-07-06T02:53:26.329Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -1983,38 +1983,6 @@
             "isNew": false
         },
         {
-            "id": "t-l268oww8j",
-            "title": "LTX Director 2",
-            "subtitle": "Civitai releases LTX Director 2 SEED HUNTER workflow v1.0 for video creation",
-            "category": "AI",
-            "tags": [
-                "LTX Director 2",
-                "SEED HUNTER",
-                "Civitai",
-                "Video Workflows"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNmNmS0F2cWJpUXpYVEppMXVDSlppdGZIWjViNWlkUUhhTGZTY1kybHlTSmJMZUY4dHRjVHJBcTJDVkdkUXJERk9veUhzc2VhS08tSjAwRnNqWmZMWVVIRFEweXcxWExzUmk3M1h2dDR2R0RQSUhLdFhB?oc=5",
-                "date": "2026-06-21T23:45:30.000Z"
-            },
-            "whatsNew": "Civitai introduces the LTX Director 2 SEED HUNTER workflow, a new tool for video creation. This workflow is designed to streamline video production. The release of this workflow marks a significant update to Civitai's offerings.",
-            "whyItMatters": "The LTX Director 2 SEED HUNTER workflow has the potential to significantly impact video creation by providing a more efficient and streamlined process. This could be particularly beneficial for creators and studios looking to produce high-quality video content.",
-            "howToUse": "To leverage the LTX Director 2 SEED HUNTER workflow, users can explore Civitai's resources and documentation to learn how to integrate this tool into their video production pipeline. By doing so, they can take advantage of the workflow's features to enhance their video creation capabilities.",
-            "beneficiaries": [
-                "Video Creators",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-roi3e38s1",
             "title": "LTX2.3 Release",
             "subtitle": "Civitai introduces LTX2.3, an all-in-one AI model combining various tools for image generation and manipulation.",
@@ -2201,7 +2169,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.329Z",
             "note": null
         },
         {
@@ -2220,7 +2188,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2229,7 +2197,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2238,7 +2206,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "Regulatory updates"
         },
         {
@@ -2256,7 +2224,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2265,7 +2233,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2285,7 +2253,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2343,7 +2311,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2352,7 +2320,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T21:59:28.451Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2361,7 +2329,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T21:59:28.451Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": "Style browsing signal"
         },
         {
@@ -2398,28 +2366,26 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T21:59:28.451Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-05T20:57:40.384Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-06T02:53:26.330Z",
+            "note": null
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-05T20:57:40.384Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-06T02:53:26.330Z",
+            "note": null
         },
         {
             "name": "Nano-banana",
@@ -2491,7 +2457,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T23:07:51.043Z",
+            "lastScan": "2026-07-06T02:53:26.330Z",
             "note": null
         },
         {
@@ -35143,6 +35109,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-l268oww8j",
+            "title": "LTX Director 2",
+            "subtitle": "Civitai releases LTX Director 2 SEED HUNTER workflow v1.0 for video creation",
+            "category": "AI",
+            "tags": [
+                "LTX Director 2",
+                "SEED HUNTER",
+                "Civitai",
+                "Video Workflows"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNmNmS0F2cWJpUXpYVEppMXVDSlppdGZIWjViNWlkUUhhTGZTY1kybHlTSmJMZUY4dHRjVHJBcTJDVkdkUXJERk9veUhzc2VhS08tSjAwRnNqWmZMWVVIRFEweXcxWExzUmk3M1h2dDR2R0RQSUhLdFhB?oc=5",
+                "date": "2026-06-21T23:45:30.000Z"
+            },
+            "whatsNew": "Civitai introduces the LTX Director 2 SEED HUNTER workflow, a new tool for video creation. This workflow is designed to streamline video production. The release of this workflow marks a significant update to Civitai's offerings.",
+            "whyItMatters": "The LTX Director 2 SEED HUNTER workflow has the potential to significantly impact video creation by providing a more efficient and streamlined process. This could be particularly beneficial for creators and studios looking to produce high-quality video content.",
+            "howToUse": "To leverage the LTX Director 2 SEED HUNTER workflow, users can explore Civitai's resources and documentation to learn how to integrate this tool into their video production pipeline. By doing so, they can take advantage of the workflow's features to enhance their video creation capabilities.",
+            "beneficiaries": [
+                "Video Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
