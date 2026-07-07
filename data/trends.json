@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-07T21:21:04.804Z",
+        "scanDate": "2026-07-07T22:58:35.789Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-bl28bod8x",
+            "title": "ZIT v7.0 Released",
+            "subtitle": "IntoRealism's ZImage Checkpoint updates to version 7.0 on Civitai",
+            "category": "AI",
+            "tags": [
+                "ZIT",
+                "ZImage",
+                "Civitai",
+                "IntoRealism"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9salRKRjRJVVRXWDRfUC10dXplakpLSFpoZzV2U3Y1clJPbXR3REhZQ2NjZ09lY2hHcHZDTGZCcV9nYlI4N2wyVk9IY3RfSGRaTlJNQ1V3M2t1UQ?oc=5",
+                "date": "2026-07-01T07:00:00.000Z"
+            },
+            "whatsNew": "IntoRealism's ZIT v7.0 update brings new features to ZImage Checkpoint on Civitai, enhancing AI image generation capabilities. This update is part of the ongoing development in AI art generation. The specifics of the update include improvements to the model's ability to generate realistic images.",
+            "whyItMatters": "This update matters because it showcases the rapid advancement in AI image generation technology, potentially impacting various creative industries. It also highlights Civitai's role in hosting and supporting AI model development.",
+            "howToUse": "Developers and artists can utilize ZIT v7.0 by accessing it through Civitai, integrating its capabilities into their projects to generate high-quality, realistic images.",
+            "beneficiaries": [
+                "AI Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-3ll6gsq8q",
             "title": "WAI-ANIMA int8",
@@ -2075,7 +2107,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": null
         },
         {
@@ -2094,7 +2126,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2103,7 +2135,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2112,7 +2144,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": "Regulatory updates"
         },
         {
@@ -2130,7 +2162,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2139,7 +2171,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2159,7 +2191,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-07T19:51:01.924Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2217,7 +2249,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T19:51:01.924Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2363,7 +2395,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T21:21:04.805Z",
+            "lastScan": "2026-07-07T22:58:35.789Z",
             "note": null
         },
         {
