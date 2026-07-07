@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-07T14:25:19.021Z",
+        "scanDate": "2026-07-07T17:11:22.899Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-utn1ro2iw",
@@ -1919,68 +1919,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-4sj3hbrkx",
-            "title": "Vibe Directing",
-            "subtitle": "A walkthrough of vibe directing by OpenArt",
-            "category": "Art",
-            "tags": [
-                "Vibe Directing",
-                "OpenArt",
-                "Art Trends"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNmtidXIzRzJfdTRvYkpnXy1XRFRSVEdrX0wwRzA5bG9KVXZ4VGx1cFNJTHlnMzB2Nld2UFgyZWxmaTJBcHB5RzRrWDh4Zk1HUXJjOVRtS0JQcTA?oc=5",
-                "date": "2026-06-23T15:13:36.000Z"
-            },
-            "whatsNew": "Vibe directing is a new concept being explored in the art world, focusing on creating a specific atmosphere or mood in art pieces. OpenArt provides a simple walkthrough of this technique. It involves understanding the emotional impact of art on viewers.",
-            "whyItMatters": "Vibe directing has the potential to revolutionize the way artists approach their work, focusing on evoking emotions rather than just creating visually appealing pieces. This could lead to a new wave of art that resonates deeply with audiences.",
-            "howToUse": "Artists can apply vibe directing by considering the emotional impact of their work, using color, lighting, and composition to create a specific mood or atmosphere. Experimenting with different techniques and styles can help achieve the desired vibe.",
-            "beneficiaries": [
-                "Artists",
-                "Art Enthusiasts"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "visual-style-trends",
-            "isNew": false
-        },
-        {
-            "id": "t-tjrrkgzi3",
-            "title": "OpenArt Director",
-            "subtitle": "A guide on using OpenArt Director for video direction",
-            "category": "AI",
-            "tags": [
-                "OpenArt",
-                "Video Tools",
-                "AI Direction"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KNHBIc3c2Y1d5elNmYTMyUHJMaEU4bFJJem5PSlc4VEFKNU40MFFJX3d2MktKTUowNjl5MnV5X2JrOFEzekR0UFBuMFBpcWEyNTdDSVFuVW16eXFBb1I3cg?oc=5",
-                "date": "2026-06-23T15:45:40.000Z"
-            },
-            "whatsNew": "OpenArt Director allows users to direct any video with its Vibe Direct feature, simplifying video editing with AI. This tool enables easy manipulation of video content. OpenArt provides a user-friendly interface for video direction.",
-            "whyItMatters": "The OpenArt Director simplifies video editing, making it accessible to a broader range of users. This tool has the potential to revolutionize the video editing industry with its AI-powered features.",
-            "howToUse": "To use OpenArt Director, simply upload your video and utilize the Vibe Direct feature to manipulate the content as desired. The interface is designed to be user-friendly, allowing for easy navigation and editing.",
-            "beneficiaries": [
-                "Video Editors",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2137,7 +2075,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": null
         },
         {
@@ -2156,7 +2094,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2165,7 +2103,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2174,7 +2112,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "Regulatory updates"
         },
         {
@@ -2192,7 +2130,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2201,7 +2139,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2221,7 +2159,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2279,7 +2217,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2288,7 +2226,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T11:46:33.947Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2297,7 +2235,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T11:46:33.947Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": "Style browsing signal"
         },
         {
@@ -2334,7 +2272,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T11:46:33.947Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": null
         },
         {
@@ -2425,7 +2363,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T14:25:19.021Z",
+            "lastScan": "2026-07-07T17:11:22.899Z",
             "note": null
         },
         {
@@ -35391,6 +35329,68 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-4sj3hbrkx",
+            "title": "Vibe Directing",
+            "subtitle": "A walkthrough of vibe directing by OpenArt",
+            "category": "Art",
+            "tags": [
+                "Vibe Directing",
+                "OpenArt",
+                "Art Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNmtidXIzRzJfdTRvYkpnXy1XRFRSVEdrX0wwRzA5bG9KVXZ4VGx1cFNJTHlnMzB2Nld2UFgyZWxmaTJBcHB5RzRrWDh4Zk1HUXJjOVRtS0JQcTA?oc=5",
+                "date": "2026-06-23T15:13:36.000Z"
+            },
+            "whatsNew": "Vibe directing is a new concept being explored in the art world, focusing on creating a specific atmosphere or mood in art pieces. OpenArt provides a simple walkthrough of this technique. It involves understanding the emotional impact of art on viewers.",
+            "whyItMatters": "Vibe directing has the potential to revolutionize the way artists approach their work, focusing on evoking emotions rather than just creating visually appealing pieces. This could lead to a new wave of art that resonates deeply with audiences.",
+            "howToUse": "Artists can apply vibe directing by considering the emotional impact of their work, using color, lighting, and composition to create a specific mood or atmosphere. Experimenting with different techniques and styles can help achieve the desired vibe.",
+            "beneficiaries": [
+                "Artists",
+                "Art Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": false
+        },
+        {
+            "id": "t-tjrrkgzi3",
+            "title": "OpenArt Director",
+            "subtitle": "A guide on using OpenArt Director for video direction",
+            "category": "AI",
+            "tags": [
+                "OpenArt",
+                "Video Tools",
+                "AI Direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KNHBIc3c2Y1d5elNmYTMyUHJMaEU4bFJJem5PSlc4VEFKNU40MFFJX3d2MktKTUowNjl5MnV5X2JrOFEzekR0UFBuMFBpcWEyNTdDSVFuVW16eXFBb1I3cg?oc=5",
+                "date": "2026-06-23T15:45:40.000Z"
+            },
+            "whatsNew": "OpenArt Director allows users to direct any video with its Vibe Direct feature, simplifying video editing with AI. This tool enables easy manipulation of video content. OpenArt provides a user-friendly interface for video direction.",
+            "whyItMatters": "The OpenArt Director simplifies video editing, making it accessible to a broader range of users. This tool has the potential to revolutionize the video editing industry with its AI-powered features.",
+            "howToUse": "To use OpenArt Director, simply upload your video and utilize the Vibe Direct feature to manipulate the content as desired. The interface is designed to be user-friendly, allowing for easy navigation and editing.",
+            "beneficiaries": [
+                "Video Editors",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
