@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-07T00:05:18.754Z",
+        "scanDate": "2026-07-07T04:49:58.714Z",
         "version": "2.5.0",
         "totalTrends": 59,
         "categories": [
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3px3167t6",
+            "title": "AI Video Generators",
+            "subtitle": "OpenArt compares the top 15 AI video generators of 2026",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "AI comparison"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43YUctMkx5ekcwcnZLZ0JFMFpOVTZIRHpMeDZETGJLa1JqeXlCaU4tRWJZM09keDZjZFByVGxpOHYyRENuYXowMk5WdF9IZ2VnQk1oVDhxak5ZY0VvMVE?oc=5",
+                "date": "2026-07-03T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt has tested and compared the top 15 AI video generators of 2026, providing insights into their capabilities and performance. The comparison highlights the latest advancements in AI video generation technology. The top generators are ranked based on their features and user experience.",
+            "whyItMatters": "The comparison helps content creators and businesses choose the best AI video generator for their needs, enabling them to produce high-quality video content efficiently. This can significantly impact the video production industry, making it more accessible and affordable.",
+            "howToUse": "Content creators can use the comparison to select the most suitable AI video generator for their projects, considering factors such as video quality, customization options, and user interface. They can also explore the latest features and advancements in AI video generation technology.",
+            "beneficiaries": [
+                "Content creators",
+                "Video producers",
+                "Marketers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-415ztea65",
+            "title": "AI Video Tools",
+            "subtitle": "Synthesia provides tips on creating engaging professional videos",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video creation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xb196aElKX3VrdnhKVEM0REtyc0F5Q1NacjRZN3MydUtTZ21FbHNPd0IwWHU3cVp5TmRoVGl4NnFuM1R1cWtzdTdWY2EzQWhjSV9VXzlFcDdvZzJWSGprandOUFcwamdGNXZPZw?oc=5",
+                "date": "2026-06-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia is offering guidance on making professional videos, highlighting the growing importance of high-quality video content. This includes using AI for video creation. The focus is on engagement and professionalism in video production.",
+            "whyItMatters": "The ability to create engaging, professional videos can significantly impact content creators and marketers, enhancing their reach and credibility. AI video tools like those from Synthesia are making this process more accessible.",
+            "howToUse": "Content creators can utilize Synthesia's AI video tools to streamline their video production, focusing on engagement strategies and professional editing techniques to improve their content's impact.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-dv3qx2qkx",
             "title": "UK Tote Losses",
@@ -210,37 +273,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-cvzs6d2t8",
-            "title": "MGA Seal Update",
-            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Licensing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUldOYmJ0MEMyRnlpQW5JalUzMDRXbzJWQTFsQVJ5Z0lCbHpfQWZVWGZYSmZKeFNoeS1ubDh3cWkteDk0Sl9oWnJlUWFVYmdlZ3BEVHMzaVc1UlVTZkdtX1BuNDU0RFFnQmcxMW9fQk10Q29TUTlSTzg0SjlrcTVQalZQQ2FTLUl6TTFFdldyOGJzUEV6SUxWQVFQeU1tal9lRmlMNld5TTZ6bnBGbng3UXZUWQ?oc=5",
-                "date": "2026-06-23T04:43:38.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This move aims to provide a more secure and reliable way to verify the legitimacy of licensed operators. The dynamic seal is expected to reduce fraud and increase player trust.",
-            "whyItMatters": "The introduction of the Dynamic Seal Of Authorisation by the MGA is a significant step towards enhancing regulatory compliance and player protection in the iGaming sector. It demonstrates the authority's commitment to innovation and security in the industry.",
-            "howToUse": "Licensed operators can use the Dynamic Seal Of Authorisation to demonstrate their compliance with MGA regulations, while players can verify the authenticity of their chosen gaming platforms.",
-            "beneficiaries": [
-                "Licensed Operators",
-                "Players"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -827,38 +859,6 @@
             ],
             "companies": [
                 "Lexica"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-qzmpwfcjv",
-            "title": "AI Image Prompts",
-            "subtitle": "Best prompts for Google Imagen to generate spread legs images",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Google Imagen",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OR0RiUFg5TXgxNnp6anBqck51MnRyQnM5enB4ZlJvTjllTERCWHY1c1pmallBNGc1OERhTTB1WVpsLVB0M2I4YWU1RVlhTzczSDhmaDNsWU1oVFl1Vl9zTWQyTUJiRDhyQ1JLZnZDMDI?oc=5",
-                "date": "2026-06-23T01:23:03.000Z"
-            },
-            "whatsNew": "The article discusses the best prompts for generating images with spread legs using Google Imagen. It highlights the importance of specific keywords and phrases in achieving desired outcomes. The use of AI in image generation is becoming increasingly popular.",
-            "whyItMatters": "The ability to generate high-quality images using AI has significant implications for various industries, including art, design, and entertainment. It also raises questions about authorship and ownership in the context of AI-generated content.",
-            "howToUse": "To use these prompts, simply copy and paste them into Google Imagen and adjust the parameters to achieve the desired outcome. Experimenting with different keywords and phrases can help refine the results.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Google"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -2013,7 +2013,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": null
         },
         {
@@ -2032,7 +2032,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2041,7 +2041,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2050,7 +2050,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "Regulatory updates"
         },
         {
@@ -2068,7 +2068,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2077,7 +2077,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2097,7 +2097,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2155,7 +2155,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2164,7 +2164,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2173,7 +2173,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": "Style browsing signal"
         },
         {
@@ -2210,7 +2210,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": null
         },
         {
@@ -2219,7 +2219,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-06T18:53:36.440Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": null
         },
         {
@@ -2228,7 +2228,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-06T16:18:54.788Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": null
         },
         {
@@ -2301,7 +2301,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T00:05:18.754Z",
+            "lastScan": "2026-07-07T04:49:58.714Z",
             "note": null
         },
         {
@@ -35201,6 +35201,69 @@
             ],
             "companies": [
                 "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-cvzs6d2t8",
+            "title": "MGA Seal Update",
+            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUldOYmJ0MEMyRnlpQW5JalUzMDRXbzJWQTFsQVJ5Z0lCbHpfQWZVWGZYSmZKeFNoeS1ubDh3cWkteDk0Sl9oWnJlUWFVYmdlZ3BEVHMzaVc1UlVTZkdtX1BuNDU0RFFnQmcxMW9fQk10Q29TUTlSTzg0SjlrcTVQalZQQ2FTLUl6TTFFdldyOGJzUEV6SUxWQVFQeU1tal9lRmlMNld5TTZ6bnBGbng3UXZUWQ?oc=5",
+                "date": "2026-06-23T04:43:38.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This move aims to provide a more secure and reliable way to verify the legitimacy of licensed operators. The dynamic seal is expected to reduce fraud and increase player trust.",
+            "whyItMatters": "The introduction of the Dynamic Seal Of Authorisation by the MGA is a significant step towards enhancing regulatory compliance and player protection in the iGaming sector. It demonstrates the authority's commitment to innovation and security in the industry.",
+            "howToUse": "Licensed operators can use the Dynamic Seal Of Authorisation to demonstrate their compliance with MGA regulations, while players can verify the authenticity of their chosen gaming platforms.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Players"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qzmpwfcjv",
+            "title": "AI Image Prompts",
+            "subtitle": "Best prompts for Google Imagen to generate spread legs images",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Google Imagen",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OR0RiUFg5TXgxNnp6anBqck51MnRyQnM5enB4ZlJvTjllTERCWHY1c1pmallBNGc1OERhTTB1WVpsLVB0M2I4YWU1RVlhTzczSDhmaDNsWU1oVFl1Vl9zTWQyTUJiRDhyQ1JLZnZDMDI?oc=5",
+                "date": "2026-06-23T01:23:03.000Z"
+            },
+            "whatsNew": "The article discusses the best prompts for generating images with spread legs using Google Imagen. It highlights the importance of specific keywords and phrases in achieving desired outcomes. The use of AI in image generation is becoming increasingly popular.",
+            "whyItMatters": "The ability to generate high-quality images using AI has significant implications for various industries, including art, design, and entertainment. It also raises questions about authorship and ownership in the context of AI-generated content.",
+            "howToUse": "To use these prompts, simply copy and paste them into Google Imagen and adjust the parameters to achieve the desired outcome. Experimenting with different keywords and phrases can help refine the results.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Google"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
