@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-07T08:20:47.696Z",
+        "scanDate": "2026-07-07T11:46:33.946Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-utn1ro2iw",
+            "title": "DraftKings Departure",
+            "subtitle": "Jackpocket founder leaves DraftKings",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Jackpocket",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeko5NWNLWmhiUElpX3dfZEZFN3NfSW5NamNETHRNQVZlcTdGSWFncnlxUWpwbG50dnFjRjdaTGtxaXRzdFhmNzhVeFJibllGdW5iQWpiVkEyNnRQNldFdnA5MHlIVU1UcWowc0ViWU5TMjZKNHUtT3dXOGxNU0VaVzNleTVCeDhHNm9pdnNUWHl0MGc?oc=5",
+                "date": "2026-07-02T16:52:11.000Z"
+            },
+            "whatsNew": "The founder of Jackpocket has announced their departure from DraftKings, a significant move in the iGaming industry. This departure may signal changes in the company's strategy or direction. The move could impact the online gaming and lottery sectors.",
+            "whyItMatters": "This departure matters as it could influence DraftKings' future plans and partnerships, potentially affecting the broader iGaming landscape. It may also reflect on the evolving nature of leadership within key iGaming companies.",
+            "howToUse": "Industry watchers should monitor DraftKings' subsequent moves and announcements for insight into the company's strategic direction. This could involve tracking changes in leadership, new partnerships, or shifts in product offerings.",
+            "beneficiaries": [
+                "iGaming analysts",
+                "DraftKings stakeholders"
+            ],
+            "companies": [
+                "DraftKings",
+                "Jackpocket"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-lfunzvjmt",
+            "title": "Affiliates in Black Market",
+            "subtitle": "Gambling Commission director highlights affiliates' role in the black market",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Affiliates",
+                "Black Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFdRbTE0VlpiTjR0UzZPdXZIb0REdXlickxRSWVWV2pZcHhOTVpkQ1Q0T2hwZy0tQnpXRW5jLU5CSXROa29zT1R2NEJOYUEwcFFLYk9BbDVpLV9EMUZXLWxHZVI4N0VNT2d6Ny1ORThQOVpyd3J4NFhobWdkVm01Q3EwZFpjUHI3dm9TZFktZW94dmllYndrU2xLZy11QnJxTkJr?oc=5",
+                "date": "2026-07-01T13:25:42.000Z"
+            },
+            "whatsNew": "The Gambling Commission director has stated that affiliates play a significant role in the black market, indicating a growing concern over their activities. This statement comes as regulatory bodies increase scrutiny over affiliate marketing practices in the iGaming industry. The director's comments suggest a need for stricter regulations and oversight.",
+            "whyItMatters": "The involvement of affiliates in the black market can lead to significant losses for legitimate operators and undermine consumer protection efforts. Stricter regulations could help mitigate these risks and promote a safer, more transparent iGaming environment.",
+            "howToUse": "Operators should review their affiliate partnerships and ensure compliance with existing regulations to avoid potential repercussions. They should also prepare for potential changes in regulatory requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-x2etlvtrh",
             "title": "Comfy Cloud Launch",
@@ -50,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3px3167t6",
@@ -2045,7 +2106,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.946Z",
             "note": null
         },
         {
@@ -2064,7 +2125,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.946Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2073,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2082,7 +2143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "Regulatory updates"
         },
         {
@@ -2100,7 +2161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2109,7 +2170,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2129,7 +2190,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2187,7 +2248,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2196,7 +2257,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2205,7 +2266,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": "Style browsing signal"
         },
         {
@@ -2242,7 +2303,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": null
         },
         {
@@ -2251,7 +2312,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": null
         },
         {
@@ -2333,7 +2394,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-07T08:20:47.696Z",
+            "lastScan": "2026-07-07T11:46:33.947Z",
             "note": null
         },
         {
