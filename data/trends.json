@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-08T19:20:15.571Z",
+        "scanDate": "2026-07-08T21:04:01.659Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-fg891r91x",
+            "title": "Bet365 AML Probe",
+            "subtitle": "Bet365 enters enforceable undertaking after AUSTRAC probe into AML and CTF processes",
+            "category": "iGaming",
+            "tags": [
+                "AML",
+                "CTF",
+                "AUSTRAC",
+                "Bet365"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRi1HX3F0MGVwZDFGTDdWdHZQVGZUWmJyYVlYOUdfdkYyWS1GU25YSXBPWUlqMF83ZWVDYlhOcWowTkRaMmdicGcyLXliSFhZR2psU1lzQWxISzRFeGx2VVY4TVB2NDlPUkJfT3RuLWh3bGl0Ql9LYUs1WVE3RWdadl9FdGo2NF9xZjlxcEpjOHRCNWVWb3p6V082S0ZNTk8yMmUxeTVheGlsbi1LbzN1ZTctY3dDSmFPa0xR?oc=5",
+                "date": "2026-07-06T11:21:30.000Z"
+            },
+            "whatsNew": "Bet365 has entered an enforceable undertaking following an AUSTRAC probe into its anti-money laundering and counter-terrorism financing processes. The undertaking aims to improve the company's AML and CTF practices. This development highlights the increasing regulatory scrutiny in the iGaming industry.",
+            "whyItMatters": "The enforceable undertaking underscores the importance of robust AML and CTF measures in the iGaming sector. It also indicates that regulatory bodies are actively monitoring and enforcing compliance with AML and CTF regulations.",
+            "howToUse": "iGaming operators should review and strengthen their AML and CTF processes to ensure compliance with regulatory requirements. They can also learn from Bet365's experience and implement best practices to mitigate risks.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Bet365"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-5g1ppwdmm",
             "title": "IGT Leads Slots",
@@ -2109,7 +2141,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": null
         },
         {
@@ -2128,7 +2160,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2137,7 +2169,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2146,7 +2178,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": "Regulatory updates"
         },
         {
@@ -2164,7 +2196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2173,7 +2205,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2193,7 +2225,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2251,7 +2283,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2396,7 +2428,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T19:20:15.571Z",
+            "lastScan": "2026-07-08T21:04:01.659Z",
             "note": null
         },
         {
