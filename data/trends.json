@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-08T10:13:16.623Z",
+        "scanDate": "2026-07-08T12:19:11.712Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-dvn1f5brc",
+            "title": "Spine 4.3 Examples",
+            "subtitle": "Request for more example projects for Spine 2D version 4.3",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Animation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhScFc2aGdiTldtSmoxYTZJS1l0S05SU3VNNklXVXVweWJwMHJRT05CWGlZYTlOaWtTclZJem9Td3ViTk44Sk5URllDRkxLNFpBQzFyUlBhRnl1X3RaYnkyYXBTZS1fcHJUSVpqU1NPLXdBTGRZU053LVBNdzZyRVdJc19RM0llc29YXzU4TDM?oc=5",
+                "date": "2026-07-07T11:39:02.000Z"
+            },
+            "whatsNew": "Users are seeking additional example projects for Spine 4.3 to enhance their learning and implementation experience. The current lack of examples may hinder the adoption and mastery of the tool. More projects could showcase the capabilities and best practices of Spine 2D.",
+            "whyItMatters": "Having more example projects can significantly improve the onboarding process for new users and help experienced developers explore advanced features of Spine 2D. This can lead to more efficient game development and higher quality animations.",
+            "howToUse": "Developers can utilize these example projects to learn specific techniques, understand how to integrate Spine 2D into their game development workflow, and explore the full potential of the software.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-m6lqh4mvs",
+            "title": "Spine 2D Filter",
+            "subtitle": "User requests layer filter to filter constraints in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Layer Filter"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSW5RN19QaFU5aDZnVjhfZlVMR2U4ejNmZEJOanBUR2J3ckhmN2FGcXg4dktpaGcwbmFVaWFzY2FfcEdyYnhtLWFZa3l2U1I1S1htTkFzRzV4YjlfVy1lTng5ZmdURUNzc0FFX1pmbXZuYURXOWNfcUxiVGMzMmpLQlUyb2Vta256RHVJSXVHTWp0c2FXZGxXUC1mYnNCUmN4aGlORVpRUXlvdUVFdElIVjR6RGFZZzBDc3lLWWJVcmk0WjUtMTEyX2hybWY4b1N3WEJXZkVhTjdFWEdZWmplYlFCVUVzUQ?oc=5",
+                "date": "2026-06-30T10:34:33.000Z"
+            },
+            "whatsNew": "A user has requested an enhancement to the layer filter in Spine 2D to include filtering constraints. This feature would improve workflow efficiency for animators and game developers. The request highlights the need for more advanced filtering options in game development tools.",
+            "whyItMatters": "Enhanced filtering capabilities can significantly improve the productivity of game developers and animators using Spine 2D. This feature request underscores the evolving needs of the game development community for more sophisticated tools.",
+            "howToUse": "Developers can utilize the existing layer filter in Spine 2D to organize their work, and potentially look forward to an update that includes constraint filtering. They can also provide feedback to the Spine development team on desired features.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-2uesvpvg4",
+            "title": "Spine 2D Update",
+            "subtitle": "Spine introduces Physics Blending in 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D",
+                "Physics Blending"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXdhTjMzWVhoVG9VejNVRkVHbjh0UVRhZUcwZ3hYckdLVTRJV242NXc4MnNmTEd2VXdLeDlOT2dRNE5BblZ5UWd3cjh3N2VkWUZqclN6V1dHek5YaTVyMFBLUElLeFlZV3gtZHJ4VzNOZmRPeUcxT1lueDdIN010Q0NmTmdjUQ?oc=5",
+                "date": "2026-06-30T08:16:16.000Z"
+            },
+            "whatsNew": "Spine has introduced Physics Blending, a new feature in Spine 2D. This update aims to enhance animation capabilities. Physics Blending allows for more realistic interactions between characters and their environment.",
+            "whyItMatters": "This update can significantly improve the quality of 2D animations, especially in game development. It provides developers with more tools to create engaging and realistic experiences.",
+            "howToUse": "Developers can utilize Physics Blending in Spine 2D to create more immersive animations by blending physics simulations with keyframe animations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-im02mugnz",
             "title": "RubyPlay Acquires Splash",
@@ -1613,38 +1706,6 @@
             "isNew": false
         },
         {
-            "id": "t-6gwc6qxl5",
-            "title": "AI UGC Videos",
-            "subtitle": "OpenArt introduces an AI-powered UGC ads generator for online video creation",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "UGC Ads",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RVWNYVHlNS0VLTXlvYS1fX0pncDExeEF5TFRXc1M4MUdfR0ZnMEFUa0xYMXJlRTVIeGhhdnV0dEVFd25MUUw2SHhsdDI?oc=5",
-                "date": "2026-06-24T11:11:05.000Z"
-            },
-            "whatsNew": "OpenArt has launched a UGC ads generator that utilizes AI to create online videos. This tool enables users to generate high-quality UGC videos with ease. The generator is designed to streamline the video creation process.",
-            "whyItMatters": "The introduction of this AI-powered UGC ads generator can significantly impact the advertising and marketing industries by providing a more efficient and creative way to produce video content. It also showcases the growing importance of AI in video production.",
-            "howToUse": "Users can leverage this tool by accessing the OpenArt platform and following the prompts to create their desired UGC videos. The AI technology will handle the video generation, allowing users to focus on other aspects of their marketing strategy.",
-            "beneficiaries": [
-                "Marketers",
-                "Advertisers",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-pwwqpc25z",
             "title": "Clever iGaming Stake",
             "subtitle": "Clever Advertising invests in iGaming Nuts",
@@ -2013,7 +2074,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": null
         },
         {
@@ -2032,7 +2093,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2041,7 +2102,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2050,7 +2111,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "Regulatory updates"
         },
         {
@@ -2068,7 +2129,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2077,7 +2138,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2097,7 +2158,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2155,7 +2216,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2164,7 +2225,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2173,7 +2234,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": "Style browsing signal"
         },
         {
@@ -2210,7 +2271,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": null
         },
         {
@@ -2219,7 +2280,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": null
         },
         {
@@ -2228,7 +2289,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-08T04:12:10.293Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": null
         },
         {
@@ -2253,11 +2314,10 @@
             "name": "PixiJS Blog",
             "url": "https://pixijs.com/blog",
             "category": "Tech",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-05T20:57:40.384Z",
-            "note": "Release notes, migrations",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-08T12:19:11.712Z",
+            "note": "Release notes, migrations"
         },
         {
             "name": "PixiJS Discord",
@@ -2301,7 +2361,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T10:13:16.623Z",
+            "lastScan": "2026-07-08T12:19:11.712Z",
             "note": null
         },
         {
@@ -35516,6 +35576,38 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-6gwc6qxl5",
+            "title": "AI UGC Videos",
+            "subtitle": "OpenArt introduces an AI-powered UGC ads generator for online video creation",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "UGC Ads",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RVWNYVHlNS0VLTXlvYS1fX0pncDExeEF5TFRXc1M4MUdfR0ZnMEFUa0xYMXJlRTVIeGhhdnV0dEVFd25MUUw2SHhsdDI?oc=5",
+                "date": "2026-06-24T11:11:05.000Z"
+            },
+            "whatsNew": "OpenArt has launched a UGC ads generator that utilizes AI to create online videos. This tool enables users to generate high-quality UGC videos with ease. The generator is designed to streamline the video creation process.",
+            "whyItMatters": "The introduction of this AI-powered UGC ads generator can significantly impact the advertising and marketing industries by providing a more efficient and creative way to produce video content. It also showcases the growing importance of AI in video production.",
+            "howToUse": "Users can leverage this tool by accessing the OpenArt platform and following the prompts to create their desired UGC videos. The AI technology will handle the video generation, allowing users to focus on other aspects of their marketing strategy.",
+            "beneficiaries": [
+                "Marketers",
+                "Advertisers",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
