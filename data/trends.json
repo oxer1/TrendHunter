@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-08T21:04:01.659Z",
+        "scanDate": "2026-07-08T23:03:48.144Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 67,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,131 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-uh8jyp1t2",
+            "title": "Backface Culling",
+            "subtitle": "Using backface culling in Unity and Godot with Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Godot",
+                "Spine 2D",
+                "Backface Culling"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck5GeGppNHNwMGtkRnZRVlk4VEFyNzlST0ZmQVVUNGIzNUdsb2d2WG82T2VFUExWRTY4Rkc3Ynh0NHFNWVQyQzgxQkhTZjAyd3ZObm90R2pNaWctOWxrZWdZN2lqbGZEbWdZSFBzeUstUWZ0QUlTR0V1R2Z3aHdTdVZIVFpmVUJtb0RfSHlMZDFYakdocnNvMGJKYUNIbk1MVzZ6eWFwdjU3REhUX2pGbnVod1Z3b1NSMWcyd2RZbXB2bXp2NEFVcW1Wai01dVNTaFE?oc=5",
+                "date": "2026-07-08T02:34:03.000Z"
+            },
+            "whatsNew": "The article discusses the implementation of backface culling in Unity and Godot using Spine 2D, a technique to improve rendering efficiency. It highlights the benefits of backface culling in 2D animation. The technique helps reduce unnecessary rendering, thus enhancing performance.",
+            "whyItMatters": "Backface culling is crucial for optimizing the performance of 2D games and animations, especially those with complex scenes. It helps developers achieve smoother gameplay and better visuals.",
+            "howToUse": "Developers can apply backface culling in their Unity or Godot projects by utilizing Spine 2D and following the techniques outlined in the article to improve their game's performance.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-zhmerfw12",
+            "title": "Spine 2D Issue",
+            "subtitle": "Color difference found in SkeletonGraphic of Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "SkeletonGraphic",
+                "Color Difference"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTVIaUVDT1VYcnYtNEs5N21rZWdlSHMxZ2QtVDBtZU9Ec1Jld0hFdEVnemtEb2NKc2hFQ0RfTU5KeUYzLUw2RnhVU01ILXBMeWNyTEI5ODhjS083RmxCQkF5T3hKcXdmdDVBc3o1b0lIUEVSU0JwU1dTODJtODJlVVBZTTY?oc=5",
+                "date": "2026-07-06T14:48:48.000Z"
+            },
+            "whatsNew": "A color difference issue has been identified in SkeletonGraphic within Spine 2D. This affects the visual output of graphic elements. The issue is currently under review for a potential fix.",
+            "whyItMatters": "This issue matters because it impacts the visual fidelity of games and animations created with Spine 2D, potentially affecting user experience. Developers relying on Spine 2D for their projects need to be aware of this issue.",
+            "howToUse": "Developers should check their projects for any color discrepancies in SkeletonGraphic elements and consider workarounds until an official fix is released.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Artists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-7d9udcbn2",
+            "title": "Spine 2D Update",
+            "subtitle": "Polygons packing is now default in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "2D Animation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzclhNcFJuS0ZGaG9XNDlNVTMxR0E1YUNVTFVLcU1JQXFIX1U5T3dWXzZnUzM3aFR4NENyUGNYUkZPNVhhczNJZkNnZW1LenFoa3ZpQ1NSRl9LT1RDQnFzeGJiOW94anl1NHMzU1lrWlNrLUxUZ2tWVmRB?oc=5",
+                "date": "2026-06-29T11:20:13.000Z"
+            },
+            "whatsNew": "Spine 2D has updated its default settings to include polygons packing, enhancing the animation and game development process. This change aims to improve efficiency and performance. The update reflects the ongoing evolution of 2D animation tools.",
+            "whyItMatters": "This update matters because it can significantly impact the workflow of game developers and animators using Spine 2D, potentially leading to more efficient and high-quality productions. It showcases the continuous improvement in game development technologies.",
+            "howToUse": "Developers can utilize this feature by ensuring their Spine 2D software is updated to the latest version and then exploring the polygons packing option in their project settings. This can help in optimizing their workflow and output.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
+        {
+            "id": "t-chggp4bby",
+            "title": "Spine 2D Collision",
+            "subtitle": "Exploring direct collision-style interaction between bones in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Animation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGltWlR2YUtNTUVVeHJUcEtBX0hHeklPZVFlT1V3MmJ4WHhjZXlqNGhmZjMyQjZEVzhXNnZWcGdaN09BVXloUW15WVpDVjh4LU82ZjlRLThoWmliY0Y5b05EdnhyczFRS0VteWZhS1ZvU19rMUcxQUNEZkxFV3hoNXFHX1B5SUI2Z01XYVJvcVp5Qi1Gb0RTd1RuRk1WTE9uN2RxdERR?oc=5",
+                "date": "2026-07-03T20:12:38.000Z"
+            },
+            "whatsNew": "The question explores the possibility of direct collision-style interaction between bones in Spine 2D, a popular game development tool. This inquiry suggests a need for more advanced animation and interaction capabilities. Developers are seeking ways to enhance game physics and realism.",
+            "whyItMatters": "Understanding the capabilities and limitations of Spine 2D is crucial for game developers aiming to create more immersive and interactive experiences. The ability to simulate complex interactions can significantly enhance game quality and player engagement.",
+            "howToUse": "Developers can utilize this information to assess whether Spine 2D meets their project's requirements for bone interaction and collision detection, potentially guiding their choice of game development tools and technologies.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Specialists"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": true
+        },
         {
             "id": "t-fg891r91x",
             "title": "Bet365 AML Probe",
@@ -50,7 +175,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-5g1ppwdmm",
@@ -2141,7 +2266,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": null
         },
         {
@@ -2160,7 +2285,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2169,7 +2294,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2178,7 +2303,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "Regulatory updates"
         },
         {
@@ -2196,7 +2321,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2205,7 +2330,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2225,7 +2350,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2283,7 +2408,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2292,7 +2417,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T17:26:10.248Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2301,7 +2426,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T17:26:10.248Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "Style browsing signal"
         },
         {
@@ -2338,7 +2463,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T17:26:10.248Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": null
         },
         {
@@ -2347,7 +2472,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-08T17:26:10.248Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": null
         },
         {
@@ -2356,7 +2481,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-08T15:18:20.400Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": null
         },
         {
@@ -2383,7 +2508,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T12:19:11.712Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2428,7 +2553,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T21:04:01.659Z",
+            "lastScan": "2026-07-08T23:03:48.144Z",
             "note": null
         },
         {
