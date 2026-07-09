@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-09T13:47:17.636Z",
+        "scanDate": "2026-07-09T16:25:37.381Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-uh8jyp1t2",
@@ -1830,35 +1830,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-nxmd274r2",
-            "title": "MGA Notice",
-            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URLs",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Unauthorised URLs"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUZjRUNLNkVMMV83c2RaSXpfdTk0VDM2Slg1NVQ1Zjh4NDR4bmJrVEZObk8tT3RfZTJMcXdpUXJxZFlkTG1jSUdINUcwbWpIaDRuSUptdXpBcWFWaGF0ZnZYYVU2NnB5dEp6UFVJQml2eVRpbnFsS0phMmVFWWRuUE1xeEZ0MlUt?oc=5",
-                "date": "2026-06-25T14:09:04.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has published a notice regarding multiple unauthorised URLs. This move aims to protect players and maintain a regulated gaming environment.",
-            "whyItMatters": "The notice highlights the MGA's efforts to enforce regulation and combat unlicensed gaming activities, which is crucial for player protection and the integrity of the iGaming industry.",
-            "howToUse": "Operators should ensure their URLs are licensed and compliant with MGA regulations to avoid being listed as unauthorised.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2015,7 +1986,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": null
         },
         {
@@ -2034,7 +2005,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2043,7 +2014,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2052,7 +2023,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "Regulatory updates"
         },
         {
@@ -2070,7 +2041,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2079,7 +2050,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2099,7 +2070,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2157,7 +2128,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2166,7 +2137,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2175,7 +2146,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": "Style browsing signal"
         },
         {
@@ -2212,7 +2183,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": null
         },
         {
@@ -2221,7 +2192,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": null
         },
         {
@@ -2302,7 +2273,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T13:47:17.636Z",
+            "lastScan": "2026-07-09T16:25:37.381Z",
             "note": null
         },
         {
@@ -35860,6 +35831,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-nxmd274r2",
+            "title": "MGA Notice",
+            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URLs",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Unauthorised URLs"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUZjRUNLNkVMMV83c2RaSXpfdTk0VDM2Slg1NVQ1Zjh4NDR4bmJrVEZObk8tT3RfZTJMcXdpUXJxZFlkTG1jSUdINUcwbWpIaDRuSUptdXpBcWFWaGF0ZnZYYVU2NnB5dEp6UFVJQml2eVRpbnFsS0phMmVFWWRuUE1xeEZ0MlUt?oc=5",
+                "date": "2026-06-25T14:09:04.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice regarding multiple unauthorised URLs. This move aims to protect players and maintain a regulated gaming environment.",
+            "whyItMatters": "The notice highlights the MGA's efforts to enforce regulation and combat unlicensed gaming activities, which is crucial for player protection and the integrity of the iGaming industry.",
+            "howToUse": "Operators should ensure their URLs are licensed and compliant with MGA regulations to avoid being listed as unauthorised.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
