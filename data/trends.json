@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-09T16:25:37.381Z",
+        "scanDate": "2026-07-09T18:49:24.832Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,97 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-1kpyikkja",
+            "title": "Betway Naming Rights",
+            "subtitle": "Betway acquires naming rights for Towcester Racecourse as racing returns.",
+            "category": "iGaming",
+            "tags": [
+                "Betway",
+                "Towcester Racecourse",
+                "Racing"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXIteXhLVDBXVVp5dExfal9BUDhSNndicDhqdkJtbUlZQjUwRlBhLXNlckQwVDdkQVZDRUxhZzZORmpsMDVhd3VQZTA5WlpxVnNYOEtkNkJBc2RjUVJXb2dZNWhaaC1kTnhyNXVaZXdUeWdnOTZIWFJKeDRxU09PRmw3Qm1LX1laUVhUbXg1OGdIS19RUzV0STB1dkptNWhnMTcyVDY1dTY5WTNZMkJBZkw2Z3pPZw?oc=5",
+                "date": "2026-07-09T11:23:03.000Z"
+            },
+            "whatsNew": "Betway has secured the naming rights for Towcester Racecourse, marking a significant partnership in the racing industry. This deal is announced ahead of racing's return to the venue. The partnership reflects the growing intersection of sports betting and racing.",
+            "whyItMatters": "This partnership highlights the increasing importance of sponsorship deals in the sports betting sector, particularly in racing. It also underscores Betway's commitment to expanding its presence in the UK market.",
+            "howToUse": "Operators can leverage such partnerships to enhance brand visibility and engage with a broader audience, while racecourses can benefit from the financial and promotional support.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Racecourses"
+            ],
+            "companies": [
+                "Betway"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-dmsnnovmt",
+            "title": "MGA Annual Report",
+            "subtitle": "Malta Gaming Authority publishes its 2025 Annual Report and Financial Statements",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Annual Report",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWdTY1hXOTQzQ1M1a1ZwZDB5Y2VtdGZVSlV2ZUs0TllsbzBpUTF5ckhtUEVTVFZwRGZ4bGN2WC1lUFdmeG5LeF8xZ0Z3SEV6OEdnVlNPYUFjY1ltSTZ6VWFMV3RtZUhRR05wbmFVS2ExajRnUG9lb1d2VkZZQVYtMDhMeUFNTXphay1iWmxsMnd5LU0?oc=5",
+                "date": "2026-07-07T14:02:23.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published its 2025 Annual Report and Financial Statements, providing insights into the authority's activities and financial performance. The report highlights the MGA's efforts to regulate the gaming industry. The publication of the report is a routine but important event for the iGaming industry.",
+            "whyItMatters": "The report is significant for the iGaming industry as it provides transparency into the MGA's operations and decision-making processes. It also offers valuable information for operators, regulators, and other stakeholders.",
+            "howToUse": "Operators and stakeholders can use the report to gain insights into the MGA's regulatory approach and to inform their own compliance strategies. The report can also be used to identify trends and developments in the iGaming industry.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-dsch4qfn8",
+            "title": "Synthesia Assets",
+            "subtitle": "Generating custom video and image assets in Synthesia",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "AI Video Tools",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG9NN3ppWnpyTnQycHpJZWtidkJZTmpmZWZveHVmSkFSM3VTTlFNQW1mQmZtdzhob0dmQ2VzTGxoVEpjNEpFUXRIU1ZPSTAxem5zQmNpWFhCemdobTV0UXlNNWxLQkl1RW80bS05YmttTjhYVGVaYlNvTGZ0OV91XzU2TFRlQ2VqQlhaN3BhalVCa0xRb1g3elJMNnpPS3ZIbjlWUkNiUGxUVUJu?oc=5",
+                "date": "2026-07-02T16:20:53.000Z"
+            },
+            "whatsNew": "Synthesia allows users to generate custom video and image assets, expanding its creative capabilities. This feature enables the creation of unique visual content. It simplifies the process of producing customized media assets.",
+            "whyItMatters": "The ability to generate custom assets in Synthesia impacts content creators by streamlining their workflow and enhancing their ability to produce personalized content. This can lead to more engaging and tailored media experiences.",
+            "howToUse": "To generate custom assets, users can utilize Synthesia's built-in tools and features, following the guidelines provided in the Synthesia Knowledge Base. This involves understanding the platform's capabilities and limitations.",
+            "beneficiaries": [
+                "Content Creators",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-p3vofzxxq",
             "title": "ComfyUI Update",
@@ -1455,37 +1546,6 @@
             "isNew": false
         },
         {
-            "id": "t-9tvv7m4xo",
-            "title": "Interactive Avatars",
-            "subtitle": "Synthesia introduces real-time avatar building technology",
-            "category": "AI",
-            "tags": [
-                "AI Avatars",
-                "Real-Time Avatars",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSVMxWXhSME1WanpOVHV4V1ZjYVY1SVVpUER1WDV6ekRnYUtlVTM0cHRuNUxOR3dtdjRyWjI2N1JKWlRUdHZXUk1qWmtPdmdQZ2NuZUVtc19Ic2VIenVkUnVrcUdFQ2Fob2JEX0R3?oc=5",
-                "date": "2026-06-25T17:19:23.000Z"
-            },
-            "whatsNew": "Synthesia has introduced a new technology for building interactive avatars in real-time. This innovation allows for more immersive and engaging experiences. The avatars can be used in various applications, including gaming and virtual events.",
-            "whyItMatters": "The introduction of real-time avatars can significantly enhance user experience in gaming and other interactive applications. It also opens up new possibilities for AI-powered character development and animation.",
-            "howToUse": "Developers can utilize Synthesia's API to integrate the real-time avatar technology into their applications, enabling users to create and interact with customizable avatars.",
-            "beneficiaries": [
-                "Game Developers",
-                "Virtual Event Planners"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
             "id": "t-qpykqi3wv",
             "title": "Quantum Acquires Rewards",
             "subtitle": "Quantum completes acquisition of digital rewards brands from Submission Technology",
@@ -1986,7 +2046,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": null
         },
         {
@@ -2005,7 +2065,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2014,7 +2074,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2023,7 +2083,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "Regulatory updates"
         },
         {
@@ -2041,7 +2101,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2050,7 +2110,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2070,7 +2130,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2128,7 +2188,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2137,7 +2197,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2146,7 +2206,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "Style browsing signal"
         },
         {
@@ -2183,7 +2243,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": null
         },
         {
@@ -2192,7 +2252,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": null
         },
         {
@@ -2201,7 +2261,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-09T06:41:12.745Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": null
         },
         {
@@ -2228,7 +2288,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-08T23:03:48.144Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2273,7 +2333,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T16:25:37.381Z",
+            "lastScan": "2026-07-09T18:49:24.832Z",
             "note": null
         },
         {
@@ -35860,6 +35920,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-9tvv7m4xo",
+            "title": "Interactive Avatars",
+            "subtitle": "Synthesia introduces real-time avatar building technology",
+            "category": "AI",
+            "tags": [
+                "AI Avatars",
+                "Real-Time Avatars",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSVMxWXhSME1WanpOVHV4V1ZjYVY1SVVpUER1WDV6ekRnYUtlVTM0cHRuNUxOR3dtdjRyWjI2N1JKWlRUdHZXUk1qWmtPdmdQZ2NuZUVtc19Ic2VIenVkUnVrcUdFQ2Fob2JEX0R3?oc=5",
+                "date": "2026-06-25T17:19:23.000Z"
+            },
+            "whatsNew": "Synthesia has introduced a new technology for building interactive avatars in real-time. This innovation allows for more immersive and engaging experiences. The avatars can be used in various applications, including gaming and virtual events.",
+            "whyItMatters": "The introduction of real-time avatars can significantly enhance user experience in gaming and other interactive applications. It also opens up new possibilities for AI-powered character development and animation.",
+            "howToUse": "Developers can utilize Synthesia's API to integrate the real-time avatar technology into their applications, enabling users to create and interact with customizable avatars.",
+            "beneficiaries": [
+                "Game Developers",
+                "Virtual Event Planners"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
