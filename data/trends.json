@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-09T10:22:36.116Z",
+        "scanDate": "2026-07-09T13:47:17.636Z",
         "version": "2.5.0",
         "totalTrends": 59,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-p3vofzxxq",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows - V37, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-07-07T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows - V37 introduces improved image processing features, enhancing user experience and efficiency. This update focuses on streamlining workflows for better productivity. Civitai's continuous updates to ComfyUI demonstrate its commitment to AI-powered image generation and editing.",
+            "whyItMatters": "The update matters as it reflects the growing importance of efficient image workflows in AI-driven creative processes, impacting both professionals and hobbyists. Improved workflows can significantly enhance the quality and speed of image generation and editing tasks.",
+            "howToUse": "To leverage ComfyUI Image Workflows - V37, users should explore the updated features and tutorials provided by Civitai, focusing on how the new version can integrate into their existing workflows and projects.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-uh8jyp1t2",
             "title": "Backface Culling",
@@ -1209,38 +1240,6 @@
             "isNew": false
         },
         {
-            "id": "t-dx7rpl14u",
-            "title": "3D Garden Art",
-            "subtitle": "Lexica features a 3D art piece of a man living in a garden",
-            "category": "Art",
-            "tags": [
-                "3D Art",
-                "Lexica",
-                "Garden Scene"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Lexica",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QLVJ0WW5vOFZ3bXktYlpSMmc4azJPeVdVdTI1ajlHOWZMN3V2UXNJZVVKbWt3cWRVME1vdjR4cEVyTzJpTV9fS2Z6OC1UV3puTmtib004TjNWOEVaUEZsNVhWWFR5TklZbzNpQUp6VUE?oc=5",
-                "date": "2026-06-25T11:09:20.000Z"
-            },
-            "whatsNew": "A new 3D art piece is featured on Lexica, showcasing a man living in a garden. The piece highlights the artist's use of 3D modeling and rendering techniques. The art style is reminiscent of futuristic and serene environments.",
-            "whyItMatters": "This art piece demonstrates the capabilities of 3D art and its potential applications in various fields, including gaming and visual design. It also showcases the talent of the artist and the platform's ability to showcase unique art pieces.",
-            "howToUse": "Artists and designers can use this piece as inspiration for their own work, experimenting with 3D modeling and rendering techniques to create unique and immersive environments.",
-            "beneficiaries": [
-                "3D Artists",
-                "Game Developers",
-                "Visual Designers"
-            ],
-            "companies": [
-                "Lexica"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-5hehv4adl",
             "title": "AI Motion Graphics",
             "subtitle": "Synthesia introduces a free AI motion graphics generator requiring no design skills",
@@ -2016,7 +2015,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.116Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": null
         },
         {
@@ -2035,7 +2034,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-09T10:22:36.116Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2044,7 +2043,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.116Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2053,7 +2052,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.116Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "Regulatory updates"
         },
         {
@@ -2071,7 +2070,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2080,7 +2079,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2100,7 +2099,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2158,7 +2157,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2167,7 +2166,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2176,7 +2175,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": "Style browsing signal"
         },
         {
@@ -2213,7 +2212,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": null
         },
         {
@@ -2222,7 +2221,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": null
         },
         {
@@ -2303,7 +2302,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T10:22:36.117Z",
+            "lastScan": "2026-07-09T13:47:17.636Z",
             "note": null
         },
         {
@@ -35829,6 +35828,38 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-dx7rpl14u",
+            "title": "3D Garden Art",
+            "subtitle": "Lexica features a 3D art piece of a man living in a garden",
+            "category": "Art",
+            "tags": [
+                "3D Art",
+                "Lexica",
+                "Garden Scene"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Lexica",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QLVJ0WW5vOFZ3bXktYlpSMmc4azJPeVdVdTI1ajlHOWZMN3V2UXNJZVVKbWt3cWRVME1vdjR4cEVyTzJpTV9fS2Z6OC1UV3puTmtib004TjNWOEVaUEZsNVhWWFR5TklZbzNpQUp6VUE?oc=5",
+                "date": "2026-06-25T11:09:20.000Z"
+            },
+            "whatsNew": "A new 3D art piece is featured on Lexica, showcasing a man living in a garden. The piece highlights the artist's use of 3D modeling and rendering techniques. The art style is reminiscent of futuristic and serene environments.",
+            "whyItMatters": "This art piece demonstrates the capabilities of 3D art and its potential applications in various fields, including gaming and visual design. It also showcases the talent of the artist and the platform's ability to showcase unique art pieces.",
+            "howToUse": "Artists and designers can use this piece as inspiration for their own work, experimenting with 3D modeling and rendering techniques to create unique and immersive environments.",
+            "beneficiaries": [
+                "3D Artists",
+                "Game Developers",
+                "Visual Designers"
+            ],
+            "companies": [
+                "Lexica"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
