@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-09T18:49:24.832Z",
+        "scanDate": "2026-07-09T20:44:56.107Z",
         "version": "2.5.0",
         "totalTrends": 60,
         "categories": [
@@ -20,6 +20,41 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-sjwu4pa2r",
+            "title": "Unity XR Hackathon",
+            "subtitle": "Google's first Android XR hackathon showcases innovative projects built with Unity for XREAL AURA glasses",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "XREAL AURA",
+                "Android XR",
+                "Hackathon"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/inside-google-s-first-xr-hackathon",
+                "date": "2026-07-01T00:00:00.000Z"
+            },
+            "whatsNew": "The hackathon featured 19 teams competing to build innovative projects for XREAL AURA, with a focus on healthcare, robotics, and accessibility. The winning projects included a conference networking platform, a real-time naval strategy game, and a clinical spatial computing platform.",
+            "whyItMatters": "The hackathon demonstrates the growing interest in XR development and the potential of XREAL AURA to attract serious builders. Unity's support for Android XR and XREAL AURA has real momentum, with a range of projects on display showcasing the platform's versatility.",
+            "howToUse": "Developers can start building for XREAL AURA using Unity's documentation and tools, and can participate in future hackathons to showcase their projects and connect with the XR community.",
+            "beneficiaries": [
+                "XR developers",
+                "Healthcare professionals",
+                "Gaming industry"
+            ],
+            "companies": [
+                "Unity",
+                "Google",
+                "XREAL"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-1kpyikkja",
             "title": "Betway Naming Rights",
@@ -49,7 +84,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dmsnnovmt",
@@ -78,7 +113,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-dsch4qfn8",
@@ -109,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p3vofzxxq",
@@ -1485,36 +1520,6 @@
             "isNew": false
         },
         {
-            "id": "t-vnlq4gufa",
-            "title": "Gambling Research",
-            "subtitle": "Qualitative research on lived experiences of those affected by gambling, released by the UK Gambling Commission.",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Qualitative Research",
-                "Responsible Gambling"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzZac05Rdk0xVnhuOFF0QzFCLUpFQi04dUtCVWtCQURiS2Vsby1sM2YwQ3pDYXY4ekpfd3hmVEU2clpUME5OWXVDQlJUY295UWFvR1BCcXpCZ3NYMGg4bnR0TUhkaEtSODZzRmNmdHFlY0hkNUhyLVpLY1hWLUJPZVB0dE1PeERfSTdNVEFvazQ3UlAyemtEbHFkc0hiVFRYdVJxMGVrQzFseWVWTnhNM3BfYmFUejhFWkJpRWJRclI0OUpFMElaRXVCMk8xVUZrMjJzai13?oc=5",
-                "date": "2026-06-25T19:42:57.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has released qualitative research focusing on the lived experiences of those affected by gambling. This research aims to deepen understanding of the impacts of gambling on individuals and their families.",
-            "whyItMatters": "This research is crucial for informing policies and interventions that mitigate the negative effects of gambling. It underscores the importance of considering the broader social impacts of gambling beyond the individual gambler.",
-            "howToUse": "Regulators and gambling operators can use these findings to develop more effective support systems and responsible gambling practices, enhancing protection for vulnerable individuals.",
-            "beneficiaries": [
-                "Regulators",
-                "Gambling Operators",
-                "Affected Individuals"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-4pywb9cr7",
             "title": "Irresponsible Ad",
             "subtitle": "Advertising watchdog criticizes Mr Vegas Facebook ad",
@@ -2046,7 +2051,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "note": null
         },
         {
@@ -2065,7 +2070,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2074,7 +2079,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2083,7 +2088,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "note": "Regulatory updates"
         },
         {
@@ -2101,7 +2106,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2110,7 +2115,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2333,7 +2338,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T20:44:56.107Z",
             "note": null
         },
         {
@@ -35951,6 +35956,36 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-vnlq4gufa",
+            "title": "Gambling Research",
+            "subtitle": "Qualitative research on lived experiences of those affected by gambling, released by the UK Gambling Commission.",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Qualitative Research",
+                "Responsible Gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzZac05Rdk0xVnhuOFF0QzFCLUpFQi04dUtCVWtCQURiS2Vsby1sM2YwQ3pDYXY4ekpfd3hmVEU2clpUME5OWXVDQlJUY295UWFvR1BCcXpCZ3NYMGg4bnR0TUhkaEtSODZzRmNmdHFlY0hkNUhyLVpLY1hWLUJPZVB0dE1PeERfSTdNVEFvazQ3UlAyemtEbHFkc0hiVFRYdVJxMGVrQzFseWVWTnhNM3BfYmFUejhFWkJpRWJRclI0OUpFMElaRXVCMk8xVUZrMjJzai13?oc=5",
+                "date": "2026-06-25T19:42:57.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released qualitative research focusing on the lived experiences of those affected by gambling. This research aims to deepen understanding of the impacts of gambling on individuals and their families.",
+            "whyItMatters": "This research is crucial for informing policies and interventions that mitigate the negative effects of gambling. It underscores the importance of considering the broader social impacts of gambling beyond the individual gambler.",
+            "howToUse": "Regulators and gambling operators can use these findings to develop more effective support systems and responsible gambling practices, enhancing protection for vulnerable individuals.",
+            "beneficiaries": [
+                "Regulators",
+                "Gambling Operators",
+                "Affected Individuals"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
