@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-09T20:44:56.107Z",
+        "scanDate": "2026-07-09T22:20:36.674Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-cg64qvjk2",
+            "title": "Avatar Appearance",
+            "subtitle": "HeyGen Community shares tips on perfecting avatar looks for videos",
+            "category": "AI",
+            "tags": [
+                "Avatar Creation",
+                "Video Production",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzFJczBlSHQ4YTdlbC11TG9yVW1zWm5Ja3hIREVwbnkwZHVLZjQxN1dXSVR0bHFRU0cyNnUyNzl0aFJvRFZjWVJrVTFCNEg2TnBMOF9VOUlsR0pJdVhwZkZ1ckhmNFAxYjg5empvWVIyQzM2S0hBaW9SOTJxTU9lY05VckE1RTFON2VBeXdSWlE3a0pEY2tMRHpXbkMyRFRWcWlWdnFn?oc=5",
+                "date": "2026-07-09T17:55:27.000Z"
+            },
+            "whatsNew": "The HeyGen Community provides guidance on customizing avatars for video content, focusing on appearance and consistency. This involves selecting appropriate attire, accessories, and facial features. The community aims to enhance video production quality through detailed avatar design.",
+            "whyItMatters": "Perfecting avatar appearance can significantly enhance the engagement and realism of video content, making it crucial for creators to get it right. This expertise can elevate the overall quality of videos, contributing to a more immersive experience for viewers.",
+            "howToUse": "To nail your avatar's appearance, consider the context of your video, the message you want to convey, and the audience you're targeting. Experiment with different customization options to find the look that best fits your narrative.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-5e8jj6hu9",
+            "title": "Adobe AI Credits",
+            "subtitle": "Adobe introduces generative credits for AI-powered tools",
+            "category": "AI",
+            "tags": [
+                "Adobe",
+                "AI",
+                "Generative Credits"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Adobe Photoshop",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5SSmY2VEVxQzBQVmU4eWEtOFRNbkxTRWoxVWp6bDdjRGNacXh2SlBQWS1RRWVUbEE3dlRhOFlPcFNYUTVNamxLdlFBanNDYUhfajl6WWEwYjk3TjlaQnIxVl9BbThsUF9nM1NuNWpJc0EtSjFkNlNBSEU5SllaVFNReENWMTl5RzBzU1FGREhCUQ?oc=5",
+                "date": "2026-06-30T07:00:00.000Z"
+            },
+            "whatsNew": "Adobe has introduced generative credits, a new system for accessing AI-powered tools within their software suite. This system aims to provide users with a clear understanding of how AI is being used in their creative workflows. The generative credits FAQ provides detailed information on how to use these credits and what they entail.",
+            "whyItMatters": "The introduction of generative credits by Adobe signifies a significant step towards integrating AI into creative workflows, offering users more control and transparency over AI usage. This development is crucial for professionals and hobbyists alike, as it sets a precedent for how AI tools are accessed and utilized in graphic design and photography.",
+            "howToUse": "To use generative credits, users need to purchase or subscribe to Adobe's services that include AI-powered tools, then access the credits through their Adobe account. The credits can be used across various Adobe applications that support AI features.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Photographers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Adobe"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-sjwu4pa2r",
             "title": "Unity XR Hackathon",
@@ -53,7 +116,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1kpyikkja",
@@ -2051,7 +2114,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": null
         },
         {
@@ -2070,7 +2133,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2079,7 +2142,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2088,7 +2151,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "Regulatory updates"
         },
         {
@@ -2106,7 +2169,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2115,7 +2178,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2135,7 +2198,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2193,7 +2256,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2202,7 +2265,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2211,7 +2274,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "Style browsing signal"
         },
         {
@@ -2248,7 +2311,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": null
         },
         {
@@ -2257,7 +2320,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": null
         },
         {
@@ -2266,7 +2329,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": null
         },
         {
@@ -2293,7 +2356,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T18:49:24.832Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": "Release notes, migrations"
         },
         {
@@ -2338,7 +2401,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-09T20:44:56.107Z",
+            "lastScan": "2026-07-09T22:20:36.674Z",
             "note": null
         },
         {
