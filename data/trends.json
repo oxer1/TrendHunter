@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-10T04:48:46.378Z",
+        "scanDate": "2026-07-10T08:19:38.201Z",
         "version": "2.5.0",
         "totalTrends": 61,
         "categories": [
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-utu93edht",
+            "title": "Gambling Risk Update",
+            "subtitle": "UK Gambling Commission updates financial risk assessments for July 2026",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcy11RlROUFNFYWN1TmhQb25HeDFaeE1iUUNsdkFPQXc5TEFUbWxoM01pQ3dlR3BXR0gyNDNLRVJfc1ZhOFdUbTcwRWRIbG1teTVVQ2Z4T2NtbnlkV0ltbU56R19xTG9XN0RaaTRtREkwQ3YydHpGNXhVR3F0UWZScWhOVzlEdnB5QkJ3d0o3TzJEU2xxLXc?oc=5",
+                "date": "2026-07-07T11:33:22.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated its financial risk assessments for July 2026, aiming to enhance regulatory oversight in the gambling industry. This update reflects the commission's ongoing efforts to manage and mitigate financial risks associated with gambling. The new assessments are designed to provide clearer guidelines for operators.",
+            "whyItMatters": "This update is crucial for gambling operators as it may impact their licensing and compliance requirements. It also reflects the commission's commitment to protecting consumers and maintaining the integrity of the gambling industry.",
+            "howToUse": "Operators should review the updated financial risk assessments and ensure their practices align with the new guidelines to avoid potential compliance issues.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-cg64qvjk2",
             "title": "Avatar Appearance",
@@ -1677,39 +1706,6 @@
             "isNew": false
         },
         {
-            "id": "t-iwq3dgau5",
-            "title": "Niji Semi Realism",
-            "subtitle": "Civitai releases Niji semi realism v5.0 with Anima and Anima LoRA",
-            "category": "AI",
-            "tags": [
-                "Niji",
-                "Semi Realism",
-                "Anima",
-                "LoRA",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56TlZCR2hxV2RxOVEyaDNEQnVVR0NMS3FHTUYzZ19YWmFzNUpnWjV4OWFFMm54Yk1KNW43T1plclFxTF9OREtiZHZTdlZ2eUNiaF9sWWFEQldNNndaMnIyVA?oc=5",
-                "date": "2026-06-26T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released Niji semi realism v5.0, which includes Anima and Anima LoRA, marking an advancement in AI art generation capabilities. This update suggests a continued focus on improving realism in AI-generated art. The inclusion of Anima and LoRA technologies indicates a push towards more sophisticated and detailed art generation.",
-            "whyItMatters": "This release is significant because it demonstrates the ongoing development and refinement of AI art generation tools, which can have a substantial impact on the gaming and visual design industries. It showcases the potential for AI to produce high-quality, realistic art, which can be used in various applications, including game development and visual effects.",
-            "howToUse": "Artists and developers can utilize Niji semi realism v5.0 to generate realistic art for their projects, potentially streamlining their workflow and enhancing the visual quality of their work. By leveraging Anima and LoRA, users can explore new possibilities in AI-assisted art creation.",
-            "beneficiaries": [
-                "Game Developers",
-                "Visual Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-nftulb2jk",
             "title": "FIRST.bet New Co-CEO",
             "subtitle": "FIRST.bet appoints ex-DraftKings sportsbook chief as co-CEO",
@@ -2083,7 +2079,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": null
         },
         {
@@ -2102,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2111,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2120,7 +2116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "Regulatory updates"
         },
         {
@@ -2138,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2147,7 +2143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2167,7 +2163,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2225,7 +2221,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2234,7 +2230,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2243,7 +2239,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": "Style browsing signal"
         },
         {
@@ -2280,7 +2276,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": null
         },
         {
@@ -2289,7 +2285,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": null
         },
         {
@@ -2370,7 +2366,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T04:48:46.378Z",
+            "lastScan": "2026-07-10T08:19:38.201Z",
             "note": null
         },
         {
@@ -36049,6 +36045,39 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-iwq3dgau5",
+            "title": "Niji Semi Realism",
+            "subtitle": "Civitai releases Niji semi realism v5.0 with Anima and Anima LoRA",
+            "category": "AI",
+            "tags": [
+                "Niji",
+                "Semi Realism",
+                "Anima",
+                "LoRA",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56TlZCR2hxV2RxOVEyaDNEQnVVR0NMS3FHTUYzZ19YWmFzNUpnWjV4OWFFMm54Yk1KNW43T1plclFxTF9OREtiZHZTdlZ2eUNiaF9sWWFEQldNNndaMnIyVA?oc=5",
+                "date": "2026-06-26T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Niji semi realism v5.0, which includes Anima and Anima LoRA, marking an advancement in AI art generation capabilities. This update suggests a continued focus on improving realism in AI-generated art. The inclusion of Anima and LoRA technologies indicates a push towards more sophisticated and detailed art generation.",
+            "whyItMatters": "This release is significant because it demonstrates the ongoing development and refinement of AI art generation tools, which can have a substantial impact on the gaming and visual design industries. It showcases the potential for AI to produce high-quality, realistic art, which can be used in various applications, including game development and visual effects.",
+            "howToUse": "Artists and developers can utilize Niji semi realism v5.0 to generate realistic art for their projects, potentially streamlining their workflow and enhancing the visual quality of their work. By leveraging Anima and LoRA, users can explore new possibilities in AI-assisted art creation.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
