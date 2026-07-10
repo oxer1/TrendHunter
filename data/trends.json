@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-10T16:53:29.704Z",
+        "scanDate": "2026-07-10T18:20:52.715Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pxc4llcru",
+            "title": "EGBA vs Lithuania",
+            "subtitle": "EGBA files complaint against Lithuanian payment provider to stop illegal gambling operators",
+            "category": "iGaming",
+            "tags": [
+                "EGBA",
+                "Lithuania",
+                "Regulation",
+                "Illegal Gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGBA",
+                "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYmZDdzFYa2hqQVQ1Mm9HSFkxUlIwTFk3ZjBXRXdyTEllU0k1T3YtSlZNSk5FZ3g3QjhpRHB6QkduYjVBMndHS3R2NlNQS21mM3VqRzUySmhEZEtjN3lhWEMydFJtdmtkc3dkcGY2WllGdjFPdk1jYWJqS3AwZ3NTMXlyVF9Xd3NNaVZ4dWpLalBEZlV6ZGRkU21weVRCNkl4NFdmT2dES2NBUk1Qckl6NWloZG8ybkU5TEhYUEpZczJwMm5XdlBNX0hiT1BjbW5jdTJHd1UyQkJod0l2bTNuVkc2Rjc?oc=5",
+                "date": "2026-07-10T12:32:45.000Z"
+            },
+            "whatsNew": "The EGBA has filed a complaint against a Lithuanian payment provider for facilitating transactions with illegal gambling operators. This move aims to curb illegal gambling activities in the region.",
+            "whyItMatters": "The complaint highlights the need for stricter regulations and enforcement to prevent illegal gambling operators from accessing the market. It also underscores the importance of cooperation between regulatory bodies and payment providers to combat illegal activities.",
+            "howToUse": "Regulatory bodies and payment providers can work together to identify and block transactions with illegal operators, while operators can ensure compliance with local regulations to avoid reputational damage.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Payment Providers",
+                "Licensed Operators"
+            ],
+            "companies": [
+                "EGBA"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-fzbllxmim",
             "title": "Alberta Regulation",
@@ -48,7 +81,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-utu93edht",
@@ -2046,7 +2079,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "note": null
         },
         {
@@ -2065,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2074,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2083,7 +2116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "note": "Regulatory updates"
         },
         {
@@ -2101,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2110,7 +2143,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2334,7 +2367,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T16:53:29.704Z",
+            "lastScan": "2026-07-10T18:20:52.715Z",
             "note": null
         },
         {
