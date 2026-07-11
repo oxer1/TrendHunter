@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-11T02:22:52.655Z",
+        "scanDate": "2026-07-11T05:37:46.731Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xcal9htew",
+            "title": "AI Photo Prompts",
+            "subtitle": "OpenArt shares best Nano Banana prompts for viral AI photos",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Nano Banana",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPNng1ZG1GSUNzMUhMdjc1SkpBalRSenh0OS1RNi1vemtxclBzQ3NRbmgxUGpxUS05MmhXVUJla3JEZmtfM0lHbFZNT2NvRzlYMDJpcFlQUXNKQXNuRTFqRlBGc3NOSUtYLUJ0aG1fVUtzX0hK?oc=5",
+                "date": "2026-07-10T11:20:25.000Z"
+            },
+            "whatsNew": "OpenArt provides copy-and-paste prompts for creating viral AI photos with Nano Banana, a new trend in AI-generated art. These prompts enable users to generate unique and engaging images. The use of specific prompts can lead to more consistent and high-quality AI art.",
+            "whyItMatters": "The availability of these prompts can democratize access to AI art generation, allowing more users to create viral content. This can also inspire new forms of creative expression and community engagement around AI art.",
+            "howToUse": "Users can copy and paste the provided prompts into their AI art generation tool to create unique images. Experimenting with different prompts and parameters can help achieve the desired outcome.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-txnyv70lv",
             "title": "Krea2 Update",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-vgbn13okz",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gqj22orvm",
@@ -2142,7 +2173,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": null
         },
         {
@@ -2161,7 +2192,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2170,7 +2201,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2179,7 +2210,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": "Regulatory updates"
         },
         {
@@ -2197,7 +2228,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2206,7 +2237,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2226,7 +2257,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2284,7 +2315,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2293,7 +2324,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T14:17:16.017Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2430,7 +2461,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T02:22:52.655Z",
+            "lastScan": "2026-07-11T05:37:46.731Z",
             "note": null
         },
         {
