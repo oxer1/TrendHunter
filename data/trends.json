@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-10T23:02:02.285Z",
+        "scanDate": "2026-07-11T02:22:52.655Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-txnyv70lv",
+            "title": "Krea2 Update",
+            "subtitle": "Krea2 Turbo+NSFW patches+upscale released as v1.9 on Civitai",
+            "category": "AI",
+            "tags": [
+                "Krea2",
+                "AI Art",
+                "NSFW Patches",
+                "Upscale"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OM0V6UWtKNW9ZY3RwSWtYVDR1S0RDeWVVamJaTkFqeW5zRmRDOUpnbGZhSGRaQ2lCdWhZQllNVHNzOVZ2N3o2YWphS2NqREpUZThucl9KUVh1TmlDNk5EZktVaHdpSjJjUzZqdDhEdGZXQmM?oc=5",
+                "date": "2026-07-05T07:00:00.000Z"
+            },
+            "whatsNew": "The latest version of Krea2, v1.9, includes Turbo+NSFW patches and upscale features. This update is available on Civitai, a platform known for AI models and workflows.",
+            "whyItMatters": "This update is significant for AI art generation, offering improved capabilities and features for users. It reflects the ongoing development and refinement of AI tools for creative work.",
+            "howToUse": "Users can access the updated Krea2 version on Civitai and explore its new features for enhanced AI art generation and manipulation.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-vgbn13okz",
+            "title": "Midjourney Prompts",
+            "subtitle": "Insane details for Midjourney prompts are available on PromptHero",
+            "category": "AI",
+            "tags": [
+                "Midjourney",
+                "AI Art",
+                "Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VN1dLVV9iOEsxeEFqcWVvRmNJWmJ1c1FNZzhEY0pjcjZ6X2dJVUtQRUpBU0l4bXlLNlRzZktXMml0d25UcXdTLWhrN2dDTTYxYkh5Sk1femc3TlRCek5LdzdZV2pSMWc4TlhmUkNPUWI?oc=5",
+                "date": "2026-06-28T10:50:41.000Z"
+            },
+            "whatsNew": "PromptHero provides insane details for Midjourney prompts, enhancing AI art generation capabilities. These prompts can create highly detailed and realistic images. The use of such prompts is becoming increasingly popular in the AI art community.",
+            "whyItMatters": "The availability of detailed Midjourney prompts can significantly impact the quality and creativity of AI-generated art, making it more accessible to artists and designers. This can also influence the development of AI art tools and pipelines.",
+            "howToUse": "Artists and designers can utilize these prompts to generate high-quality AI art, exploring new creative possibilities and enhancing their workflows. By experimenting with different prompts, users can achieve unique and detailed results.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Art Enthusiasts"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-gqj22orvm",
             "title": "Sportsbook Casino Convergence",
@@ -2078,7 +2142,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": null
         },
         {
@@ -2097,7 +2161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2106,7 +2170,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2115,7 +2179,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": "Regulatory updates"
         },
         {
@@ -2133,7 +2197,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2142,7 +2206,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2162,7 +2226,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-10T21:58:48.908Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2220,7 +2284,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T21:58:48.908Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2366,7 +2430,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-10T23:02:02.285Z",
+            "lastScan": "2026-07-11T02:22:52.655Z",
             "note": null
         },
         {
