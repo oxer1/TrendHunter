@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-11T05:37:46.731Z",
+        "scanDate": "2026-07-11T07:50:11.825Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-txnyv70lv",
@@ -1054,37 +1054,6 @@
             "isNew": false
         },
         {
-            "id": "t-415ztea65",
-            "title": "AI Video Tools",
-            "subtitle": "Synthesia provides tips on creating engaging professional videos",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Video creation",
-                "Synthesia"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xb196aElKX3VrdnhKVEM0REtyc0F5Q1NacjRZN3MydUtTZ21FbHNPd0IwWHU3cVp5TmRoVGl4NnFuM1R1cWtzdTdWY2EzQWhjSV9VXzlFcDdvZzJWSGprandOUFcwamdGNXZPZw?oc=5",
-                "date": "2026-06-27T07:00:00.000Z"
-            },
-            "whatsNew": "Synthesia is offering guidance on making professional videos, highlighting the growing importance of high-quality video content. This includes using AI for video creation. The focus is on engagement and professionalism in video production.",
-            "whyItMatters": "The ability to create engaging, professional videos can significantly impact content creators and marketers, enhancing their reach and credibility. AI video tools like those from Synthesia are making this process more accessible.",
-            "howToUse": "Content creators can utilize Synthesia's AI video tools to streamline their video production, focusing on engagement strategies and professional editing techniques to improve their content's impact.",
-            "beneficiaries": [
-                "Content Creators",
-                "Marketers"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-dv3qx2qkx",
             "title": "UK Tote Losses",
             "subtitle": "UK Tote Group reports widening losses but expects EBITDA growth in 2026",
@@ -1926,37 +1895,6 @@
             "isNew": false
         },
         {
-            "id": "t-mlvu7ya3w",
-            "title": "Lenovo AI Model",
-            "subtitle": "Lenovo releases UltraReal v1.0 Krea2 AI model on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Model",
-                "Lenovo",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
-                "date": "2026-06-27T07:00:00.000Z"
-            },
-            "whatsNew": "Lenovo has released its UltraReal v1.0 Krea2 AI model, available on Civitai. This model is part of the Krea 2 LoRA series.",
-            "whyItMatters": "The release of Lenovo's UltraReal AI model indicates the company's growing interest in AI technology, potentially impacting the AI for creative work landscape.",
-            "howToUse": "Developers can utilize the Lenovo UltraReal v1.0 Krea2 model for various AI-related projects, such as image and video generation, by accessing it through Civitai.",
-            "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Lenovo"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-n8976avso",
             "title": "AI Video Generation",
             "subtitle": "OpenArt releases Seedance 2.5 for 30-second 4K AI videos",
@@ -2173,7 +2111,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": null
         },
         {
@@ -2192,7 +2130,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2201,7 +2139,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2210,7 +2148,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": "Regulatory updates"
         },
         {
@@ -2228,7 +2166,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2237,7 +2175,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2257,7 +2195,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2315,7 +2253,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2461,7 +2399,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-11T07:50:11.825Z",
             "note": null
         },
         {
@@ -36265,6 +36203,68 @@
             ],
             "companies": [
                 "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-415ztea65",
+            "title": "AI Video Tools",
+            "subtitle": "Synthesia provides tips on creating engaging professional videos",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video creation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xb196aElKX3VrdnhKVEM0REtyc0F5Q1NacjRZN3MydUtTZ21FbHNPd0IwWHU3cVp5TmRoVGl4NnFuM1R1cWtzdTdWY2EzQWhjSV9VXzlFcDdvZzJWSGprandOUFcwamdGNXZPZw?oc=5",
+                "date": "2026-06-27T07:00:00.000Z"
+            },
+            "whatsNew": "Synthesia is offering guidance on making professional videos, highlighting the growing importance of high-quality video content. This includes using AI for video creation. The focus is on engagement and professionalism in video production.",
+            "whyItMatters": "The ability to create engaging, professional videos can significantly impact content creators and marketers, enhancing their reach and credibility. AI video tools like those from Synthesia are making this process more accessible.",
+            "howToUse": "Content creators can utilize Synthesia's AI video tools to streamline their video production, focusing on engagement strategies and professional editing techniques to improve their content's impact.",
+            "beneficiaries": [
+                "Content Creators",
+                "Marketers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-mlvu7ya3w",
+            "title": "Lenovo AI Model",
+            "subtitle": "Lenovo releases UltraReal v1.0 Krea2 AI model on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Model",
+                "Lenovo",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcGtGWnkwSFdqS2Q2MThUTm1nYmZFa3RLQllZQVBibTEwejVXR1lzU1FvX05SS0d0c0t5ZzJLVkRVbEpHTHk4ZlFkN1lRNUxhY0hnUzNyMkhRdktJVDNxMQ?oc=5",
+                "date": "2026-06-27T07:00:00.000Z"
+            },
+            "whatsNew": "Lenovo has released its UltraReal v1.0 Krea2 AI model, available on Civitai. This model is part of the Krea 2 LoRA series.",
+            "whyItMatters": "The release of Lenovo's UltraReal AI model indicates the company's growing interest in AI technology, potentially impacting the AI for creative work landscape.",
+            "howToUse": "Developers can utilize the Lenovo UltraReal v1.0 Krea2 model for various AI-related projects, such as image and video generation, by accessing it through Civitai.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Lenovo"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
