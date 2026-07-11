@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-11T07:50:11.825Z",
+        "scanDate": "2026-07-11T09:25:16.869Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -1552,38 +1552,6 @@
             "isNew": false
         },
         {
-            "id": "t-zqrmtmo0j",
-            "title": "AI Art Generation",
-            "subtitle": "Lexica.art generates art based on text prompts, including a bottle filled with a clear liquid",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Lexica",
-                "Text-to-Image"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Lexica",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzVKYzZtZEExZV9ZQ1BXSmlTUmpYMmNadTl3TkVLT19KSUp1U2FPcWlpVGptV1hBOU0xQWtGdDFqYk9vdGthVm5UdzRUcDRpZ0tWUEw3OU92S1dkRUEybHU3N0pVVnhYem8xWEM0cFVTTC0zaXVqYm5wTF9HYjRXSkNGTXF0RkdhNFVNUURR?oc=5",
-                "date": "2026-06-27T07:58:52.000Z"
-            },
-            "whatsNew": "Lexica.art is using AI to generate art based on text prompts, allowing for unique and creative images. The example given is a bottle filled with a clear liquid, showcasing the model's ability to understand and create based on descriptive text.",
-            "whyItMatters": "This technology has the potential to revolutionize the art world by making it easier for people to create high-quality art without extensive training or experience. It also opens up new possibilities for AI-assisted art generation in various industries, including gaming and visual design.",
-            "howToUse": "To use this technology, simply input a descriptive text prompt into the Lexica.art model, and it will generate an image based on the prompt. This can be used to create unique and creative art for various applications.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Game Developers"
-            ],
-            "companies": [
-                "Lexica"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-5hehv4adl",
             "title": "AI Motion Graphics",
             "subtitle": "Synthesia introduces a free AI motion graphics generator requiring no design skills",
@@ -1895,37 +1863,6 @@
             "isNew": false
         },
         {
-            "id": "t-n8976avso",
-            "title": "AI Video Generation",
-            "subtitle": "OpenArt releases Seedance 2.5 for 30-second 4K AI videos",
-            "category": "AI",
-            "tags": [
-                "AI Video Tools",
-                "4K Video",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01U2J4cXJtOFpMWF96ZmxfTjJUNlQyUHB3enJSc3pSdzVmZGpJa3FVWWhIZnRtVmE2cHdNYlFsN0F0YmJpcHJHNzNvVGlsZm1XcDY4?oc=5",
-                "date": "2026-06-27T07:53:15.000Z"
-            },
-            "whatsNew": "Seedance 2.5 enables the creation of 30-second 4K AI-generated videos, a significant advancement in AI video technology. This update showcases the rapid progress in AI video generation capabilities. The increased video length and resolution open up new possibilities for creative applications.",
-            "whyItMatters": "The ability to generate high-quality, longer-form videos using AI has significant implications for the entertainment, advertising, and gaming industries. It can streamline content creation, reduce production costs, and offer new forms of interactive and immersive experiences.",
-            "howToUse": "Content creators can utilize Seedance 2.5 to produce high-quality, engaging videos for various platforms, including social media, websites, and gaming environments, by leveraging its AI-powered video generation capabilities.",
-            "beneficiaries": [
-                "Content Creators",
-                "Game Developers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-xs9sse9r9",
             "title": "AI Workflow Alternatives",
             "subtitle": "Exploring alternatives to Higgsfield MCP for creative AI workflows",
@@ -2111,7 +2048,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": null
         },
         {
@@ -2130,7 +2067,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2139,7 +2076,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2148,7 +2085,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": "Regulatory updates"
         },
         {
@@ -2166,7 +2103,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2175,7 +2112,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2195,7 +2132,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2253,7 +2190,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2399,7 +2336,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T07:50:11.825Z",
+            "lastScan": "2026-07-11T09:25:16.869Z",
             "note": null
         },
         {
@@ -36268,6 +36205,69 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-zqrmtmo0j",
+            "title": "AI Art Generation",
+            "subtitle": "Lexica.art generates art based on text prompts, including a bottle filled with a clear liquid",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Lexica",
+                "Text-to-Image"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Lexica",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzVKYzZtZEExZV9ZQ1BXSmlTUmpYMmNadTl3TkVLT19KSUp1U2FPcWlpVGptV1hBOU0xQWtGdDFqYk9vdGthVm5UdzRUcDRpZ0tWUEw3OU92S1dkRUEybHU3N0pVVnhYem8xWEM0cFVTTC0zaXVqYm5wTF9HYjRXSkNGTXF0RkdhNFVNUURR?oc=5",
+                "date": "2026-06-27T07:58:52.000Z"
+            },
+            "whatsNew": "Lexica.art is using AI to generate art based on text prompts, allowing for unique and creative images. The example given is a bottle filled with a clear liquid, showcasing the model's ability to understand and create based on descriptive text.",
+            "whyItMatters": "This technology has the potential to revolutionize the art world by making it easier for people to create high-quality art without extensive training or experience. It also opens up new possibilities for AI-assisted art generation in various industries, including gaming and visual design.",
+            "howToUse": "To use this technology, simply input a descriptive text prompt into the Lexica.art model, and it will generate an image based on the prompt. This can be used to create unique and creative art for various applications.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Lexica"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-n8976avso",
+            "title": "AI Video Generation",
+            "subtitle": "OpenArt releases Seedance 2.5 for 30-second 4K AI videos",
+            "category": "AI",
+            "tags": [
+                "AI Video Tools",
+                "4K Video",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01U2J4cXJtOFpMWF96ZmxfTjJUNlQyUHB3enJSc3pSdzVmZGpJa3FVWWhIZnRtVmE2cHdNYlFsN0F0YmJpcHJHNzNvVGlsZm1XcDY4?oc=5",
+                "date": "2026-06-27T07:53:15.000Z"
+            },
+            "whatsNew": "Seedance 2.5 enables the creation of 30-second 4K AI-generated videos, a significant advancement in AI video technology. This update showcases the rapid progress in AI video generation capabilities. The increased video length and resolution open up new possibilities for creative applications.",
+            "whyItMatters": "The ability to generate high-quality, longer-form videos using AI has significant implications for the entertainment, advertising, and gaming industries. It can streamline content creation, reduce production costs, and offer new forms of interactive and immersive experiences.",
+            "howToUse": "Content creators can utilize Seedance 2.5 to produce high-quality, engaging videos for various platforms, including social media, websites, and gaming environments, by leveraging its AI-powered video generation capabilities.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
