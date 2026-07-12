@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-12T02:27:31.873Z",
+        "scanDate": "2026-07-12T05:54:57.557Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 65,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9lwx4xihm",
+            "title": "Vibe Directing",
+            "subtitle": "A new method to direct AI video by chat is introduced, allowing for more intuitive control over AI-generated video content.",
+            "category": "AI",
+            "tags": [
+                "AI video",
+                "Vibe Directing",
+                "Chat-based direction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNmtidXIzRzJfdTRvYkpnXy1XRFRSVEdrX0wwRzA5bG9KVXZ4VGx1cFNJTHlnMzB2Nld2UFgyZWxmaTJBcHB5RzRrWDh4Zk1HUXJjOVRtS0JQcTA?oc=5",
+                "date": "2026-07-11T09:30:03.000Z"
+            },
+            "whatsNew": "Vibe Directing is a novel approach that enables users to direct AI video generation through chat, making the process more accessible and user-friendly. This method allows for real-time feedback and adjustments, streamlining the content creation process. The technology has the potential to revolutionize the way AI video content is produced.",
+            "whyItMatters": "Vibe Directing can significantly impact the efficiency and quality of AI-generated video content, making it a valuable tool for content creators and industries relying on AI video production. Its accessibility can also open up new opportunities for individuals without extensive technical backgrounds to engage with AI video generation.",
+            "howToUse": "To utilize Vibe Directing, users can engage with AI systems through chat interfaces, providing directives and feedback that guide the video generation process. This can be particularly useful for applications where dynamic, real-time content adjustment is necessary.",
+            "beneficiaries": [
+                "Content creators",
+                "AI developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-xm0ep39z1",
             "title": "Banijay Gaming Acquires",
@@ -2168,7 +2199,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.557Z",
             "note": null
         },
         {
@@ -2187,7 +2218,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.557Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2196,7 +2227,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.557Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2205,7 +2236,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.557Z",
             "note": "Regulatory updates"
         },
         {
@@ -2223,7 +2254,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.558Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2232,7 +2263,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.558Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2252,7 +2283,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.558Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2310,7 +2341,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.558Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2319,7 +2350,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-11T05:37:46.731Z",
+            "lastScan": "2026-07-12T05:54:57.558Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2456,7 +2487,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T02:27:31.873Z",
+            "lastScan": "2026-07-12T05:54:57.558Z",
             "note": null
         },
         {
