@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-12T05:54:57.557Z",
+        "scanDate": "2026-07-12T08:11:52.591Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-xm0ep39z1",
@@ -1735,37 +1735,6 @@
             "isNew": false
         },
         {
-            "id": "t-fhw7og81h",
-            "title": "Stable Diffusion Update",
-            "subtitle": "Civitai releases Deliberate Cyber v8.0 with Stable Diffusion 1.x checkpoint",
-            "category": "AI",
-            "tags": [
-                "Stable Diffusion",
-                "AI Art",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLX2pycllNQ0RuNC1hN2tRMTJhemwzZElDUVhaUXozakVMZ3dydFllUWRGVVQyWVFjWnpuMlBsNmtTSWNuV2xVX2pIMFBFUld3VUhFQjFHM0NWTWRXdzlJ?oc=5",
-                "date": "2026-06-28T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released Deliberate Cyber v8.0, which includes a Stable Diffusion 1.x checkpoint. This update is expected to improve AI art generation capabilities. The new version is available on Civitai's platform.",
-            "whyItMatters": "This update matters because it showcases the continuous improvement of AI art generation tools, which can be used in various creative fields, including gaming and visual design. The use of Stable Diffusion checkpoints can lead to more realistic and detailed art generation.",
-            "howToUse": "Developers and artists can utilize this update by integrating the Deliberate Cyber v8.0 model into their projects, allowing for more advanced AI-generated art. They can experiment with different prompts and settings to achieve desired results.",
-            "beneficiaries": [
-                "Game Developers",
-                "AI Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-yj2qyhmzp",
             "title": "GC Commissioner Departs",
             "subtitle": "Tim Miller leaves the UK Gambling Commission",
@@ -2199,7 +2168,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.557Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": null
         },
         {
@@ -2218,7 +2187,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-12T05:54:57.557Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2227,7 +2196,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.557Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2236,7 +2205,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.557Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": "Regulatory updates"
         },
         {
@@ -2254,7 +2223,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.558Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2263,7 +2232,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.558Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2283,7 +2252,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-12T05:54:57.558Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2341,7 +2310,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.558Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2487,7 +2456,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T05:54:57.558Z",
+            "lastScan": "2026-07-12T08:11:52.591Z",
             "note": null
         },
         {
@@ -36419,6 +36388,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-fhw7og81h",
+            "title": "Stable Diffusion Update",
+            "subtitle": "Civitai releases Deliberate Cyber v8.0 with Stable Diffusion 1.x checkpoint",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLX2pycllNQ0RuNC1hN2tRMTJhemwzZElDUVhaUXozakVMZ3dydFllUWRGVVQyWVFjWnpuMlBsNmtTSWNuV2xVX2pIMFBFUld3VUhFQjFHM0NWTWRXdzlJ?oc=5",
+                "date": "2026-06-28T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Deliberate Cyber v8.0, which includes a Stable Diffusion 1.x checkpoint. This update is expected to improve AI art generation capabilities. The new version is available on Civitai's platform.",
+            "whyItMatters": "This update matters because it showcases the continuous improvement of AI art generation tools, which can be used in various creative fields, including gaming and visual design. The use of Stable Diffusion checkpoints can lead to more realistic and detailed art generation.",
+            "howToUse": "Developers and artists can utilize this update by integrating the Deliberate Cyber v8.0 model into their projects, allowing for more advanced AI-generated art. They can experiment with different prompts and settings to achieve desired results.",
+            "beneficiaries": [
+                "Game Developers",
+                "AI Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
