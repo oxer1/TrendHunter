@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-13T10:22:47.175Z",
+        "scanDate": "2026-07-13T13:21:12.816Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-j0l6e6sfa",
+            "title": "CIRSA Acquires Slots",
+            "subtitle": "CIRSA acquires majority stake in Paraguay's Slots del Sol",
+            "category": "iGaming",
+            "tags": [
+                "CIRSA",
+                "Slots del Sol",
+                "Acquisition"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtwd0t6cnVIUUx0cVhHZHFNRVhybV8xZ0RzWVhaRkp4dWZZNEI0ckZYVk54RUdWRHBZZ0ZWREw2dlFqRlNBcnN5QzNkQkhET3J5M2Y1Y1YyX2N6blprM3RQZlk4RlFvWEpzckFUdFJrNlFVM3ZCZnphOUlWYW9uTElRekVaU3E1NlIybjVaN0NoWnR2V3c?oc=5",
+                "date": "2026-07-13T11:33:23.000Z"
+            },
+            "whatsNew": "CIRSA has acquired a majority stake in Paraguay's Slots del Sol, expanding its presence in the region. This move is expected to increase CIRSA's market share and revenue. The acquisition is part of CIRSA's growth strategy in Latin America.",
+            "whyItMatters": "The acquisition is significant for the iGaming industry as it shows the growing interest of major players in expanding their presence in Latin America. It may lead to increased competition and innovation in the region.",
+            "howToUse": "Companies looking to expand in Latin America can consider similar strategic acquisitions to increase their market share and revenue.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "CIRSA",
+                "Slots del Sol"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-o1vima4vl",
             "title": "Alberta iGaming Launch",
@@ -49,7 +81,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-rel0spox5",
@@ -82,7 +114,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-2ng87wb1x",
@@ -113,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0rj25dqol",
@@ -819,37 +851,6 @@
             "beneficiaries": [
                 "Game Developers",
                 "Animation Artists"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
-            "id": "t-7d9udcbn2",
-            "title": "Spine 2D Update",
-            "subtitle": "Polygons packing is now default in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Game Development",
-                "2D Animation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzclhNcFJuS0ZGaG9XNDlNVTMxR0E1YUNVTFVLcU1JQXFIX1U5T3dWXzZnUzM3aFR4NENyUGNYUkZPNVhhczNJZkNnZW1LenFoa3ZpQ1NSRl9LT1RDQnFzeGJiOW94anl1NHMzU1lrWlNrLUxUZ2tWVmRB?oc=5",
-                "date": "2026-06-29T11:20:13.000Z"
-            },
-            "whatsNew": "Spine 2D has updated its default settings to include polygons packing, enhancing the animation and game development process. This change aims to improve efficiency and performance. The update reflects the ongoing evolution of 2D animation tools.",
-            "whyItMatters": "This update matters because it can significantly impact the workflow of game developers and animators using Spine 2D, potentially leading to more efficient and high-quality productions. It showcases the continuous improvement in game development technologies.",
-            "howToUse": "Developers can utilize this feature by ensuring their Spine 2D software is updated to the latest version and then exploring the polygons packing option in their project settings. This can help in optimizing their workflow and output.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
             ],
             "companies": [
                 "Esoteric Software"
@@ -1860,69 +1861,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-nftulb2jk",
-            "title": "FIRST.bet New Co-CEO",
-            "subtitle": "FIRST.bet appoints ex-DraftKings sportsbook chief as co-CEO",
-            "category": "iGaming",
-            "tags": [
-                "Sports Betting",
-                "iGaming Leadership",
-                "DraftKings"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEdYNGtscXQ0OS0yX3QtTDNEMTV1VVpsTDZFdVR1VTFpNkhJUzF5SGpmYnBNNW9XUVlXYThCekdyWVpNWC1Xa0VOR1RobGdEZmZWUUtkLXpaNWV6YnBzNmFtQngyNFBLNkVEN1YtanBWUVFmcGZVcXdqVTZTN3BtaU9ncGpuUloyaEV3?oc=5",
-                "date": "2026-06-29T10:52:53.000Z"
-            },
-            "whatsNew": "FIRST.bet has appointed the former DraftKings sportsbook chief as its new co-CEO, marking a significant move in the iGaming industry. This appointment could signal a shift in strategy for FIRST.bet. The move highlights the growing importance of experienced leadership in the sports betting sector.",
-            "whyItMatters": "The appointment reflects the increasing competition in the sports betting market and the need for experienced leadership to drive growth. It may also indicate potential expansions or innovations in FIRST.bet's offerings.",
-            "howToUse": "Companies in the iGaming sector can learn from this move by prioritizing experienced leadership and strategic appointments to stay competitive. This could involve seeking out talent from established players in the market.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Sports Betting Operators"
-            ],
-            "companies": [
-                "FIRST.bet",
-                "DraftKings"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-1irkng8cc",
-            "title": "Polymarket Probe",
-            "subtitle": "Polymarket faces CFTC probe after a $3.1m hacking scandal",
-            "category": "iGaming",
-            "tags": [
-                "CFTC",
-                "Polymarket",
-                "Hacking Scandal"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjZpTFNrQmlXYXQ5R0k4c2o2VEhoQm0wTFZtcWlFSzRUSjMyQ25zc09WUmhCZG91SkhDRWtxX3diZ2taVmJRUGhPcHdDSGhIMmMwWm00UFJJdWZEelF6bTJKcGg4cVNxWXBDVnBwOWJKUzJXMEVrX1ZGNHlJQmktS3ZsUHhGQXNZamwyUHRHVl9odw?oc=5",
-                "date": "2026-06-29T10:51:32.000Z"
-            },
-            "whatsNew": "Polymarket is under investigation by the CFTC following a significant hacking incident resulting in $3.1m losses. The probe highlights regulatory scrutiny in the online betting space.",
-            "whyItMatters": "This incident underscores the importance of security in online gambling platforms and the potential consequences of failing to protect user funds. Regulatory bodies are taking a closer look at these platforms.",
-            "howToUse": "Operators should prioritize robust security measures to prevent similar incidents and ensure compliance with regulatory requirements.",
-            "beneficiaries": [
-                "Regulatory Bodies",
-                "Online Gambling Operators"
-            ],
-            "companies": [
-                "Polymarket"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2079,7 +2017,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": null
         },
         {
@@ -2098,7 +2036,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2107,7 +2045,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2116,7 +2054,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": "Regulatory updates"
         },
         {
@@ -2134,7 +2072,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2143,7 +2081,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2163,7 +2101,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2221,7 +2159,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2371,7 +2309,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T10:22:47.175Z",
+            "lastScan": "2026-07-13T13:21:12.816Z",
             "note": null
         },
         {
@@ -36610,6 +36548,100 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-7d9udcbn2",
+            "title": "Spine 2D Update",
+            "subtitle": "Polygons packing is now default in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "2D Animation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzclhNcFJuS0ZGaG9XNDlNVTMxR0E1YUNVTFVLcU1JQXFIX1U5T3dWXzZnUzM3aFR4NENyUGNYUkZPNVhhczNJZkNnZW1LenFoa3ZpQ1NSRl9LT1RDQnFzeGJiOW94anl1NHMzU1lrWlNrLUxUZ2tWVmRB?oc=5",
+                "date": "2026-06-29T11:20:13.000Z"
+            },
+            "whatsNew": "Spine 2D has updated its default settings to include polygons packing, enhancing the animation and game development process. This change aims to improve efficiency and performance. The update reflects the ongoing evolution of 2D animation tools.",
+            "whyItMatters": "This update matters because it can significantly impact the workflow of game developers and animators using Spine 2D, potentially leading to more efficient and high-quality productions. It showcases the continuous improvement in game development technologies.",
+            "howToUse": "Developers can utilize this feature by ensuring their Spine 2D software is updated to the latest version and then exploring the polygons packing option in their project settings. This can help in optimizing their workflow and output.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-nftulb2jk",
+            "title": "FIRST.bet New Co-CEO",
+            "subtitle": "FIRST.bet appoints ex-DraftKings sportsbook chief as co-CEO",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "iGaming Leadership",
+                "DraftKings"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEdYNGtscXQ0OS0yX3QtTDNEMTV1VVpsTDZFdVR1VTFpNkhJUzF5SGpmYnBNNW9XUVlXYThCekdyWVpNWC1Xa0VOR1RobGdEZmZWUUtkLXpaNWV6YnBzNmFtQngyNFBLNkVEN1YtanBWUVFmcGZVcXdqVTZTN3BtaU9ncGpuUloyaEV3?oc=5",
+                "date": "2026-06-29T10:52:53.000Z"
+            },
+            "whatsNew": "FIRST.bet has appointed the former DraftKings sportsbook chief as its new co-CEO, marking a significant move in the iGaming industry. This appointment could signal a shift in strategy for FIRST.bet. The move highlights the growing importance of experienced leadership in the sports betting sector.",
+            "whyItMatters": "The appointment reflects the increasing competition in the sports betting market and the need for experienced leadership to drive growth. It may also indicate potential expansions or innovations in FIRST.bet's offerings.",
+            "howToUse": "Companies in the iGaming sector can learn from this move by prioritizing experienced leadership and strategic appointments to stay competitive. This could involve seeking out talent from established players in the market.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Sports Betting Operators"
+            ],
+            "companies": [
+                "FIRST.bet",
+                "DraftKings"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-1irkng8cc",
+            "title": "Polymarket Probe",
+            "subtitle": "Polymarket faces CFTC probe after a $3.1m hacking scandal",
+            "category": "iGaming",
+            "tags": [
+                "CFTC",
+                "Polymarket",
+                "Hacking Scandal"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjZpTFNrQmlXYXQ5R0k4c2o2VEhoQm0wTFZtcWlFSzRUSjMyQ25zc09WUmhCZG91SkhDRWtxX3diZ2taVmJRUGhPcHdDSGhIMmMwWm00UFJJdWZEelF6bTJKcGg4cVNxWXBDVnBwOWJKUzJXMEVrX1ZGNHlJQmktS3ZsUHhGQXNZamwyUHRHVl9odw?oc=5",
+                "date": "2026-06-29T10:51:32.000Z"
+            },
+            "whatsNew": "Polymarket is under investigation by the CFTC following a significant hacking incident resulting in $3.1m losses. The probe highlights regulatory scrutiny in the online betting space.",
+            "whyItMatters": "This incident underscores the importance of security in online gambling platforms and the potential consequences of failing to protect user funds. Regulatory bodies are taking a closer look at these platforms.",
+            "howToUse": "Operators should prioritize robust security measures to prevent similar incidents and ensure compliance with regulatory requirements.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Online Gambling Operators"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
