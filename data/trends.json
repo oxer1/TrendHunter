@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-13T02:29:00.169Z",
+        "scanDate": "2026-07-13T06:13:30.477Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 64,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,98 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0rj25dqol",
+            "title": "Polish Tax Impact",
+            "subtitle": "Polish tax rate may deter gaming operators",
+            "category": "iGaming",
+            "tags": [
+                "Polish Gaming",
+                "Taxation",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iMDhwdFU5cVc3Tkcwd05ycVhCdHcwdVNLWTUxVmlKaVA0Y2xkOXJzRVdsNTdrLXppbDdWeXFmMjhnZkw2NUVPRHFIR3JyaHR1R29kc0NmQ3RfVGFDaDg4a1Z5T3NUNWhPUWNVZm1Xc0FZUmxsb2V0WXY2X2tBUQ?oc=5",
+                "date": "2026-07-11T19:00:18.000Z"
+            },
+            "whatsNew": "The Polish tax rate is expected to keep gaming operators out of the market. High tax rates can significantly impact the profitability of gaming operations.",
+            "whyItMatters": "This development may lead to a reduction in the number of gaming operators in Poland, affecting the gaming industry as a whole. It could also influence regulatory decisions in other jurisdictions.",
+            "howToUse": "Gaming operators should carefully consider the tax implications before entering the Polish market. Regulatory bodies should assess the impact of tax rates on the industry.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-qs1kgxisc",
+            "title": "Anima Detail Tweaker",
+            "subtitle": "Civitai releases Anima Detail Tweaker, a tool for enhancing details in AI-generated images",
+            "category": "AI",
+            "tags": [
+                "Anima",
+                "LoRA",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QVXN5clB4UmhkeTFOU2lRMXlORFBDakV2UFl1SEd5bDdjdXBvMC02eDl2R0ZFS1E1VkpCMHg3TWRQNnY3YzJ6djhhMUE4WjNtN1ZHc2FPMTVRTWw2T0YtQjFQSjA4dw?oc=5",
+                "date": "2026-07-03T07:00:00.000Z"
+            },
+            "whatsNew": "The Anima Detail Tweaker is a new tool from Civitai that allows for finer control over details in AI-generated images. This tool utilizes the LoRA technique to enhance image quality. The release of such tools indicates growing interest in refining AI art generation capabilities.",
+            "whyItMatters": "This tool matters because it contributes to the advancement of AI art generation, allowing for more detailed and realistic images. It can be particularly useful for artists and designers looking to leverage AI in their work.",
+            "howToUse": "Artists can use the Anima Detail Tweaker by integrating it into their workflow to enhance the details of AI-generated images, potentially saving time and improving the quality of their work.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-evmt45p2d",
+            "title": "AI Art Style",
+            "subtitle": "Rurudo Style combines Illustrious and ANIMA for unique art generation",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Art Generation",
+                "Rurudo Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObENKQ292dl9DX29jdDJTMW04djFreG12LUJ3YWgwdXU1a0Y2QWwzcWRqS3Y4NkhPX3ozUjBWNzVLV25VSEdpZUc3RUdqTXNncUJJNENYM0MwZmUyRDR3ejIzc0Z6X3NLSllZTDlxdmhRYnZ5c0tXWHM0Qy1NbXpzMW9QaFhyV2tIb0h3eXlXQmE0cFQ1YWxLdkxRa1Brc0g5WVlkNzl2aWk1Ykt5dWppUzBzU0lPWjJKdWtod2xnTXQ?oc=5",
+                "date": "2026-07-10T02:13:15.000Z"
+            },
+            "whatsNew": "Rurudo Style introduces a new art generation technique combining Illustrious and ANIMA styles, available on PromptHero. This style offers unique and intricate designs. The introduction of this style expands the possibilities for AI-generated art.",
+            "whyItMatters": "The emergence of Rurudo Style impacts the AI art generation landscape by providing more diverse and complex art options. This can influence the development of new visual trends in various creative fields.",
+            "howToUse": "Artists and designers can utilize Rurudo Style on PromptHero to generate unique art pieces, exploring new visual possibilities for their projects. By experimenting with this style, they can create distinctive and captivating designs.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-9lwx4xihm",
             "title": "Vibe Directing",
@@ -1918,37 +2010,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-xs9sse9r9",
-            "title": "AI Workflow Alternatives",
-            "subtitle": "Exploring alternatives to Higgsfield MCP for creative AI workflows",
-            "category": "AI",
-            "tags": [
-                "AI Workflows",
-                "Higgsfield MCP",
-                "Creative AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16ZThGQ1kwVXJqd3FoR1hraTBua2JoR05wZ25MSE5zZ2F6Z1hybko0ZEZRTHNqRG1HTGpvMGdvZFBDVHAycWpaNWc4RXJXLWgtcDVUM2puMWJfbW5vZmd2Ny13?oc=5",
-                "date": "2026-06-29T04:45:14.000Z"
-            },
-            "whatsNew": "The article discusses alternatives to Higgsfield MCP, highlighting new options for creative AI workflows. OpenArt provides insights into the best alternatives for various creative tasks. These alternatives aim to enhance productivity and efficiency in AI-driven creative processes.",
-            "whyItMatters": "The availability of alternatives to Higgsfield MCP can significantly impact the creative industry by providing more options for artists and developers. This can lead to increased innovation and better outcomes in AI-assisted creative work.",
-            "howToUse": "Artists and developers can explore these alternatives to find the best fit for their specific needs, potentially streamlining their creative workflows and improving overall quality.",
-            "beneficiaries": [
-                "Artists",
-                "Developers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2105,7 +2166,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": null
         },
         {
@@ -2124,7 +2185,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2133,7 +2194,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2142,7 +2203,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": "Regulatory updates"
         },
         {
@@ -2160,7 +2221,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2169,7 +2230,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2189,7 +2250,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2247,7 +2308,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2398,7 +2459,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T02:29:00.169Z",
+            "lastScan": "2026-07-13T06:13:30.477Z",
             "note": null
         },
         {
@@ -36424,6 +36485,37 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-xs9sse9r9",
+            "title": "AI Workflow Alternatives",
+            "subtitle": "Exploring alternatives to Higgsfield MCP for creative AI workflows",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Higgsfield MCP",
+                "Creative AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16ZThGQ1kwVXJqd3FoR1hraTBua2JoR05wZ25MSE5zZ2F6Z1hybko0ZEZRTHNqRG1HTGpvMGdvZFBDVHAycWpaNWc4RXJXLWgtcDVUM2puMWJfbW5vZmd2Ny13?oc=5",
+                "date": "2026-06-29T04:45:14.000Z"
+            },
+            "whatsNew": "The article discusses alternatives to Higgsfield MCP, highlighting new options for creative AI workflows. OpenArt provides insights into the best alternatives for various creative tasks. These alternatives aim to enhance productivity and efficiency in AI-driven creative processes.",
+            "whyItMatters": "The availability of alternatives to Higgsfield MCP can significantly impact the creative industry by providing more options for artists and developers. This can lead to increased innovation and better outcomes in AI-assisted creative work.",
+            "howToUse": "Artists and developers can explore these alternatives to find the best fit for their specific needs, potentially streamlining their creative workflows and improving overall quality.",
+            "beneficiaries": [
+                "Artists",
+                "Developers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
