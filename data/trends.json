@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-13T13:21:12.816Z",
+        "scanDate": "2026-07-13T16:29:43.011Z",
         "version": "2.5.0",
         "totalTrends": 59,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-v4d55cmhv",
+            "title": "Lustify Workflows",
+            "subtitle": "Civitai introduces Lustify Workflows with Krea 2 and SDXL integration",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Krea 2",
+                "SDXL",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SVmNCakhmZ0MtdTZBelNiN2VmbFlmcWlLMmo2alZVUW5POEhhdUc5M2I5R2JoSGZRUGw2b0ktUmNHQ2p0c3VVLXdBWUN3aURGTzk0UnhzOEJodHZYV25IUVZ6Qm5CcENPVTNHNlFuNWVTdw?oc=5",
+                "date": "2026-07-13T10:32:44.000Z"
+            },
+            "whatsNew": "Civitai has introduced Lustify Workflows, integrating Krea 2 and SDXL for enhanced AI capabilities. This development aims to streamline AI workflows, improving efficiency and output quality. The integration is expected to have a significant impact on AI art generation and related applications.",
+            "whyItMatters": "The introduction of Lustify Workflows by Civitai marks a significant step in AI workflow optimization, potentially benefiting various stakeholders in the AI and art generation sectors. This could lead to more sophisticated and accessible AI tools for creative work.",
+            "howToUse": "Developers and artists can leverage Lustify Workflows by integrating Krea 2 and SDXL into their projects, potentially enhancing their AI art generation capabilities and workflow efficiency. Civitai's documentation and community resources can provide guidance on implementation and best practices.",
+            "beneficiaries": [
+                "AI Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-j0l6e6sfa",
             "title": "CIRSA Acquires Slots",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o1vima4vl",
@@ -1458,38 +1490,6 @@
             "isNew": false
         },
         {
-            "id": "t-j5ylovbdy",
-            "title": "Fanatics UAE Push",
-            "subtitle": "Fanatics partners with Momentum for gaming expansion in the UAE",
-            "category": "iGaming",
-            "tags": [
-                "Fanatics",
-                "Momentum",
-                "UAE Gaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FXYkR6TXZqVEZFNXRsaDltVGx2cl8yMUNpYzlJdXhqZFczS3V2cWN4ZWZmMFdyM2lwVkcyN3Mxb2xPQVEwWWRaRjgtSUFjU3AwTy1fRzFYVzFDSi1PWU5Ba29SMjBOcXBrV2E0NzA5NjFqdmZqeHRJQV9ncVRCamVzNFlDV0stQUhvZXFvNnJrSjlYNjBmODZqRTU?oc=5",
-                "date": "2026-06-29T16:29:17.000Z"
-            },
-            "whatsNew": "Fanatics has partnered with Momentum to expand its gaming presence in the UAE, marking a significant move into the Middle Eastern market. This partnership aims to leverage Momentum's local expertise to drive growth. The collaboration is expected to enhance the gaming experience for UAE users.",
-            "whyItMatters": "The partnership between Fanatics and Momentum signifies a strategic expansion into the UAE's growing gaming market, potentially setting a precedent for other international gaming companies. This move could lead to increased competition and innovation in the region's gaming sector.",
-            "howToUse": "Gaming companies looking to expand into the UAE should consider partnering with local experts to navigate regulatory and cultural nuances. By doing so, they can tailor their offerings to better suit local preferences and comply with regional regulations.",
-            "beneficiaries": [
-                "Gaming Companies",
-                "UAE Gamers"
-            ],
-            "companies": [
-                "Fanatics",
-                "Momentum"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
             "id": "t-5j1l0uk56",
             "title": "AI Video Generation",
             "subtitle": "OpenArt's MCP allows AI video generation straight from Claude",
@@ -2017,7 +2017,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": null
         },
         {
@@ -2036,7 +2036,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2045,7 +2045,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2054,7 +2054,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": "Regulatory updates"
         },
         {
@@ -2072,7 +2072,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2081,7 +2081,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2101,7 +2101,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2159,7 +2159,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2309,7 +2309,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-13T13:21:12.816Z",
+            "lastScan": "2026-07-13T16:29:43.011Z",
             "note": null
         },
         {
@@ -36642,6 +36642,38 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-j5ylovbdy",
+            "title": "Fanatics UAE Push",
+            "subtitle": "Fanatics partners with Momentum for gaming expansion in the UAE",
+            "category": "iGaming",
+            "tags": [
+                "Fanatics",
+                "Momentum",
+                "UAE Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3FXYkR6TXZqVEZFNXRsaDltVGx2cl8yMUNpYzlJdXhqZFczS3V2cWN4ZWZmMFdyM2lwVkcyN3Mxb2xPQVEwWWRaRjgtSUFjU3AwTy1fRzFYVzFDSi1PWU5Ba29SMjBOcXBrV2E0NzA5NjFqdmZqeHRJQV9ncVRCamVzNFlDV0stQUhvZXFvNnJrSjlYNjBmODZqRTU?oc=5",
+                "date": "2026-06-29T16:29:17.000Z"
+            },
+            "whatsNew": "Fanatics has partnered with Momentum to expand its gaming presence in the UAE, marking a significant move into the Middle Eastern market. This partnership aims to leverage Momentum's local expertise to drive growth. The collaboration is expected to enhance the gaming experience for UAE users.",
+            "whyItMatters": "The partnership between Fanatics and Momentum signifies a strategic expansion into the UAE's growing gaming market, potentially setting a precedent for other international gaming companies. This move could lead to increased competition and innovation in the region's gaming sector.",
+            "howToUse": "Gaming companies looking to expand into the UAE should consider partnering with local experts to navigate regulatory and cultural nuances. By doing so, they can tailor their offerings to better suit local preferences and comply with regional regulations.",
+            "beneficiaries": [
+                "Gaming Companies",
+                "UAE Gamers"
+            ],
+            "companies": [
+                "Fanatics",
+                "Momentum"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
