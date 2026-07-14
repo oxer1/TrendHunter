@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-14T10:00:22.301Z",
+        "scanDate": "2026-07-14T11:38:49.984Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pfs0nud7k",
+            "title": "Crypto Exit",
+            "subtitle": "Crypto.com prediction markets chief leaves the company",
+            "category": "iGaming",
+            "tags": [
+                "Crypto.com",
+                "Prediction Markets",
+                "Executive Exit"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMms3bndOT3dLVmhmVnNDUUVxdjJjcVBldHlGRHYxTnBnLXJRUDdiWEZKb0V0RU1RREgxVVZwSVRqUDdYVVp6b0Jkc25xUkNtdU1sN09qay0yQ2xscm8ydi12ZGNQMExJRlRINlZhSlhUcU5rczlNdTZQV1NFQnFZZ1hhX3BJZlRteXFJ?oc=5",
+                "date": "2026-07-14T09:54:56.000Z"
+            },
+            "whatsNew": "The chief of Crypto.com's prediction markets has exited the company, potentially signaling a shift in the company's strategy. This move may impact the online gambling and sports betting sectors. The exit could lead to changes in how prediction markets are operated and regulated.",
+            "whyItMatters": "The exit of a high-ranking executive in the prediction markets space could have implications for the broader iGaming industry, particularly in terms of regulatory compliance and market trends. This development may also affect the adoption of cryptocurrency in online gaming.",
+            "howToUse": "Companies in the iGaming space should monitor the situation and adjust their strategies accordingly, considering potential changes in market trends and regulatory requirements.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Crypto.com"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-e8l2kmjcp",
             "title": "UK Gambling Sanctions",
@@ -1138,37 +1169,6 @@
             "isNew": false
         },
         {
-            "id": "t-m6lqh4mvs",
-            "title": "Spine 2D Filter",
-            "subtitle": "User requests layer filter to filter constraints in Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Game Development",
-                "Layer Filter"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSW5RN19QaFU5aDZnVjhfZlVMR2U4ejNmZEJOanBUR2J3ckhmN2FGcXg4dktpaGcwbmFVaWFzY2FfcEdyYnhtLWFZa3l2U1I1S1htTkFzRzV4YjlfVy1lTng5ZmdURUNzc0FFX1pmbXZuYURXOWNfcUxiVGMzMmpLQlUyb2Vta256RHVJSXVHTWp0c2FXZGxXUC1mYnNCUmN4aGlORVpRUXlvdUVFdElIVjR6RGFZZzBDc3lLWWJVcmk0WjUtMTEyX2hybWY4b1N3WEJXZkVhTjdFWEdZWmplYlFCVUVzUQ?oc=5",
-                "date": "2026-06-30T10:34:33.000Z"
-            },
-            "whatsNew": "A user has requested an enhancement to the layer filter in Spine 2D to include filtering constraints. This feature would improve workflow efficiency for animators and game developers. The request highlights the need for more advanced filtering options in game development tools.",
-            "whyItMatters": "Enhanced filtering capabilities can significantly improve the productivity of game developers and animators using Spine 2D. This feature request underscores the evolving needs of the game development community for more sophisticated tools.",
-            "howToUse": "Developers can utilize the existing layer filter in Spine 2D to organize their work, and potentially look forward to an update that includes constraint filtering. They can also provide feedback to the Spine development team on desired features.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-im02mugnz",
             "title": "RubyPlay Acquires Splash",
             "subtitle": "RubyPlay acquires Splash Tech for strategic expansion in the iGaming industry",
@@ -1824,69 +1824,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-qpykqi3wv",
-            "title": "Quantum Acquires Rewards",
-            "subtitle": "Quantum completes acquisition of digital rewards brands from Submission Technology",
-            "category": "iGaming",
-            "tags": [
-                "Acquisition",
-                "Digital Rewards",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWRVNnlsQ1BXbHk3aWxzMUR6R0dPSUVlUUNyeF9QWHhYWGZSaElqdDRWcGNicmF4OHRBNUN5ZEtvNzFtWUt1VnNXdTM3d0stR2ZfXzdYWGxSa0h4UjFfV29VY0tXNHpkOUxLLWJOUFRkSkZpRGlDQWNibThWeU1MbWJQT1BYdEZaWi1fQUxobnExNVFuX2I4MzkwZW56UUY5RU96QVpiOUNxQUhVcEpuWnFuRTM?oc=5",
-                "date": "2026-06-30T10:52:47.000Z"
-            },
-            "whatsNew": "Quantum has acquired digital rewards brands from Submission Technology, expanding its presence in the iGaming industry. This move indicates a growing trend of consolidation in the sector. The acquisition is expected to enhance Quantum's offerings and competitiveness.",
-            "whyItMatters": "The acquisition reflects the increasing importance of digital rewards in the iGaming industry, as companies seek to enhance user experience and loyalty. This deal may inspire similar moves by other industry players.",
-            "howToUse": "iGaming operators can consider strategic acquisitions to bolster their digital rewards capabilities and stay competitive. They should assess potential targets and integrate acquired assets effectively to maximize value.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Digital Rewards Providers"
-            ],
-            "companies": [
-                "Quantum",
-                "Submission Technology"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-2mc8dmjuy",
-            "title": "1xCare Player Hub",
-            "subtitle": "1xCare is a new dedicated player protection hub in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Player Protection",
-                "iGaming",
-                "Responsible Gaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGlhYjFDNTV2QkdQQzNHOGF3VnloYV9HSGV4aWk5dUxlRUZIcGlwWGEyUVVFczVQdFlLQmJSVUd0eDBtTzNnWWhUNzZHbkt1ZjkxMnFkR0RqMDF0Z3MwcndKS1liOF9zS2RFSTFLUFliQ2MwQlAzQ2pUNjhMRE9xVWR1TWVoUnpnY1kxejJ3?oc=5",
-                "date": "2026-06-30T11:07:47.000Z"
-            },
-            "whatsNew": "1xCare has been unveiled as a dedicated player protection hub, aiming to promote responsible gaming practices. This initiative highlights the growing importance of player protection in the iGaming industry. The hub is expected to provide resources and support for players.",
-            "whyItMatters": "The launch of 1xCare underscores the industry's commitment to responsible gaming and player well-being. It may set a new standard for player protection, influencing other operators to follow suit.",
-            "howToUse": "Operators can utilize 1xCare as a resource to enhance their player protection measures, while players can access the hub for support and guidance on responsible gaming practices.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [
-                "1xCare"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2043,7 +1980,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": null
         },
         {
@@ -2062,7 +1999,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2071,7 +2008,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2080,7 +2017,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": "Regulatory updates"
         },
         {
@@ -2098,7 +2035,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2107,7 +2044,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2127,7 +2064,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2185,7 +2122,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2335,7 +2272,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T10:00:22.301Z",
+            "lastScan": "2026-07-14T11:38:49.984Z",
             "note": null
         },
         {
@@ -36794,6 +36731,100 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-m6lqh4mvs",
+            "title": "Spine 2D Filter",
+            "subtitle": "User requests layer filter to filter constraints in Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Layer Filter"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSW5RN19QaFU5aDZnVjhfZlVMR2U4ejNmZEJOanBUR2J3ckhmN2FGcXg4dktpaGcwbmFVaWFzY2FfcEdyYnhtLWFZa3l2U1I1S1htTkFzRzV4YjlfVy1lTng5ZmdURUNzc0FFX1pmbXZuYURXOWNfcUxiVGMzMmpLQlUyb2Vta256RHVJSXVHTWp0c2FXZGxXUC1mYnNCUmN4aGlORVpRUXlvdUVFdElIVjR6RGFZZzBDc3lLWWJVcmk0WjUtMTEyX2hybWY4b1N3WEJXZkVhTjdFWEdZWmplYlFCVUVzUQ?oc=5",
+                "date": "2026-06-30T10:34:33.000Z"
+            },
+            "whatsNew": "A user has requested an enhancement to the layer filter in Spine 2D to include filtering constraints. This feature would improve workflow efficiency for animators and game developers. The request highlights the need for more advanced filtering options in game development tools.",
+            "whyItMatters": "Enhanced filtering capabilities can significantly improve the productivity of game developers and animators using Spine 2D. This feature request underscores the evolving needs of the game development community for more sophisticated tools.",
+            "howToUse": "Developers can utilize the existing layer filter in Spine 2D to organize their work, and potentially look forward to an update that includes constraint filtering. They can also provide feedback to the Spine development team on desired features.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-qpykqi3wv",
+            "title": "Quantum Acquires Rewards",
+            "subtitle": "Quantum completes acquisition of digital rewards brands from Submission Technology",
+            "category": "iGaming",
+            "tags": [
+                "Acquisition",
+                "Digital Rewards",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWRVNnlsQ1BXbHk3aWxzMUR6R0dPSUVlUUNyeF9QWHhYWGZSaElqdDRWcGNicmF4OHRBNUN5ZEtvNzFtWUt1VnNXdTM3d0stR2ZfXzdYWGxSa0h4UjFfV29VY0tXNHpkOUxLLWJOUFRkSkZpRGlDQWNibThWeU1MbWJQT1BYdEZaWi1fQUxobnExNVFuX2I4MzkwZW56UUY5RU96QVpiOUNxQUhVcEpuWnFuRTM?oc=5",
+                "date": "2026-06-30T10:52:47.000Z"
+            },
+            "whatsNew": "Quantum has acquired digital rewards brands from Submission Technology, expanding its presence in the iGaming industry. This move indicates a growing trend of consolidation in the sector. The acquisition is expected to enhance Quantum's offerings and competitiveness.",
+            "whyItMatters": "The acquisition reflects the increasing importance of digital rewards in the iGaming industry, as companies seek to enhance user experience and loyalty. This deal may inspire similar moves by other industry players.",
+            "howToUse": "iGaming operators can consider strategic acquisitions to bolster their digital rewards capabilities and stay competitive. They should assess potential targets and integrate acquired assets effectively to maximize value.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Digital Rewards Providers"
+            ],
+            "companies": [
+                "Quantum",
+                "Submission Technology"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-2mc8dmjuy",
+            "title": "1xCare Player Hub",
+            "subtitle": "1xCare is a new dedicated player protection hub in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Player Protection",
+                "iGaming",
+                "Responsible Gaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGlhYjFDNTV2QkdQQzNHOGF3VnloYV9HSGV4aWk5dUxlRUZIcGlwWGEyUVVFczVQdFlLQmJSVUd0eDBtTzNnWWhUNzZHbkt1ZjkxMnFkR0RqMDF0Z3MwcndKS1liOF9zS2RFSTFLUFliQ2MwQlAzQ2pUNjhMRE9xVWR1TWVoUnpnY1kxejJ3?oc=5",
+                "date": "2026-06-30T11:07:47.000Z"
+            },
+            "whatsNew": "1xCare has been unveiled as a dedicated player protection hub, aiming to promote responsible gaming practices. This initiative highlights the growing importance of player protection in the iGaming industry. The hub is expected to provide resources and support for players.",
+            "whyItMatters": "The launch of 1xCare underscores the industry's commitment to responsible gaming and player well-being. It may set a new standard for player protection, influencing other operators to follow suit.",
+            "howToUse": "Operators can utilize 1xCare as a resource to enhance their player protection measures, while players can access the hub for support and guidance on responsible gaming practices.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "1xCare"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
