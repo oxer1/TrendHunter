@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-14T02:08:47.784Z",
+        "scanDate": "2026-07-14T05:26:48.068Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-8dtj28hxk",
+            "title": "Wilkie License",
+            "subtitle": "Wilkie Leisure Group Ltd receives attention from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREcxLWJ4Y1hIajBfaGpGSGxWUzc2ZEFYRWNBcWgtdHBhc2RKQi1acWhvREIxWmFUMllDTlQwVE5UYk9ySmQtcENWQmUwMkpuZXo1dm1xQWs4dWQ2eVJ1aVhkVjh5bWhZX2V5UmczUXdfcHZJRTBwczZsQUN1WVhjNlltaw?oc=5",
+                "date": "2026-07-10T23:38:32.000Z"
+            },
+            "whatsNew": "Wilkie Leisure Group Ltd has been mentioned by the UK Gambling Commission, potentially indicating a regulatory update or change in their licensing status.",
+            "whyItMatters": "This development could impact the operations of Wilkie Leisure Group Ltd and the broader iGaming industry in the UK, as regulatory compliance is crucial for operators.",
+            "howToUse": "Operators should stay informed about regulatory updates and ensure compliance with UK Gambling Commission requirements to avoid licensing issues.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Wilkie Leisure Group Ltd"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-nvepa64c4",
             "title": "GC Risk Assessments",
@@ -2077,7 +2108,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": null
         },
         {
@@ -2096,7 +2127,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2105,7 +2136,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2114,7 +2145,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": "Regulatory updates"
         },
         {
@@ -2132,7 +2163,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2141,7 +2172,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2161,7 +2192,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2219,7 +2250,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2369,7 +2400,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T02:08:47.784Z",
+            "lastScan": "2026-07-14T05:26:48.068Z",
             "note": null
         },
         {
