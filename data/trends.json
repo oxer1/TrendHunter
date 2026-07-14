@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-14T11:38:49.984Z",
+        "scanDate": "2026-07-14T13:27:12.857Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-vt54lgkqa",
+            "title": "Octane Studios Unveils",
+            "subtitle": "Octane Studios launches a new games studio featuring photorealistic dealers.",
+            "category": "iGaming",
+            "tags": [
+                "Octane Studios",
+                "Photorealistic Dealers",
+                "Game Studio"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWR0a0s2MnlWYVl2S2ZJSkVLc0pkMUVGRk5kVHp1em5Ja1RSdlRjbnpncFp1UjZhTHZJemhlazNGUDhlMVJmUG1aamhJTnU3TXFLMWFUekY1VVdYZmJHNUVCNEZ5UGpsLXRWb2h2TDdXLUNxdWpwbEdHd2RoSDBrblFCeGhybTFHbXg5cWUxSWxxN3I3WDNxUEtOaWtlMGs?oc=5",
+                "date": "2026-07-14T11:44:58.000Z"
+            },
+            "whatsNew": "Octane Studios has launched a new games studio with photorealistic dealers, enhancing the gaming experience. This innovation is expected to raise the bar in the iGaming industry. The studio's focus on realism could set a new standard for online gaming.",
+            "whyItMatters": "The introduction of photorealistic dealers by Octane Studios could significantly enhance player engagement and immersion in online games, potentially leading to increased market share for the company. This technology could also influence the broader iGaming industry to adopt more realistic and interactive features.",
+            "howToUse": "Game developers and iGaming operators can leverage this technology to create more immersive and engaging experiences for their users, potentially increasing user retention and attracting new players.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Octane Studios"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-pfs0nud7k",
             "title": "Crypto Exit",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-e8l2kmjcp",
@@ -1980,7 +2011,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": null
         },
         {
@@ -1999,7 +2030,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2008,7 +2039,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2017,7 +2048,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": "Regulatory updates"
         },
         {
@@ -2035,7 +2066,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2044,7 +2075,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2064,7 +2095,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2122,7 +2153,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2272,7 +2303,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T11:38:49.984Z",
+            "lastScan": "2026-07-14T13:27:12.857Z",
             "note": null
         },
         {
