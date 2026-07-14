@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-14T13:27:12.857Z",
+        "scanDate": "2026-07-14T15:21:39.754Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-df4clft8p",
+            "title": "Knicks Impact Sportsbooks",
+            "subtitle": "New York sportsbooks see decreased returns in June due to Knicks title run",
+            "category": "iGaming",
+            "tags": [
+                "Sports Betting",
+                "New York",
+                "Knicks"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnBULUQ3UmF0S0FmeHpiY1RSczBXckxkVFd5TXB4YzFpcG9MODVDLXhDMXg0czNhTWdaX1NUYzQ3Tmw4ekFLQmlCRlZqUVNGT0VIb2NaQU5qR2tsVTZMbHRsMmpXSlpIcnNic2hxR0RuWm9JUVhfQnJQVzZPSkl6UjBTVExLalM3Y3BkQUJxc19sbzlRQUVzUVlGZUtwcGxXa21Qbg?oc=5",
+                "date": "2026-07-14T14:24:58.000Z"
+            },
+            "whatsNew": "The Knicks' title run has led to decreased returns for New York sportsbooks in June. This event highlights the impact of major sports outcomes on the sports betting industry. The decrease in returns is attributed to the unexpected success of the Knicks.",
+            "whyItMatters": "This trend matters as it shows how significant sports events can influence the financial performance of sportsbooks. It also underscores the importance of risk management and adaptability in the sports betting industry.",
+            "howToUse": "Sportsbooks can use this information to adjust their strategies and odds for future events, taking into account the potential impact of unexpected team performances.",
+            "beneficiaries": [
+                "Sportsbook Operators",
+                "Bettors"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-vt54lgkqa",
             "title": "Octane Studios Unveils",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-pfs0nud7k",
@@ -2011,7 +2040,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": null
         },
         {
@@ -2030,7 +2059,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2039,7 +2068,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2048,7 +2077,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": "Regulatory updates"
         },
         {
@@ -2066,7 +2095,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2075,7 +2104,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2095,7 +2124,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2153,7 +2182,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2303,7 +2332,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T13:27:12.857Z",
+            "lastScan": "2026-07-14T15:21:39.754Z",
             "note": null
         },
         {
