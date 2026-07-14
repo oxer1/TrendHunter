@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-14T07:57:47.506Z",
+        "scanDate": "2026-07-14T10:00:22.301Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -47,7 +47,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8dtj28hxk",
@@ -1169,37 +1169,6 @@
             "isNew": false
         },
         {
-            "id": "t-2uesvpvg4",
-            "title": "Spine 2D Update",
-            "subtitle": "Spine introduces Physics Blending in 2D",
-            "category": "Tech",
-            "tags": [
-                "Spine",
-                "2D",
-                "Physics Blending"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXdhTjMzWVhoVG9VejNVRkVHbjh0UVRhZUcwZ3hYckdLVTRJV242NXc4MnNmTEd2VXdLeDlOT2dRNE5BblZ5UWd3cjh3N2VkWUZqclN6V1dHek5YaTVyMFBLUElLeFlZV3gtZHJ4VzNOZmRPeUcxT1lueDdIN010Q0NmTmdjUQ?oc=5",
-                "date": "2026-06-30T08:16:16.000Z"
-            },
-            "whatsNew": "Spine has introduced Physics Blending, a new feature in Spine 2D. This update aims to enhance animation capabilities. Physics Blending allows for more realistic interactions between characters and their environment.",
-            "whyItMatters": "This update can significantly improve the quality of 2D animations, especially in game development. It provides developers with more tools to create engaging and realistic experiences.",
-            "howToUse": "Developers can utilize Physics Blending in Spine 2D to create more immersive animations by blending physics simulations with keyframe animations.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-im02mugnz",
             "title": "RubyPlay Acquires Splash",
             "subtitle": "RubyPlay acquires Splash Tech for strategic expansion in the iGaming industry",
@@ -2074,7 +2043,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": null
         },
         {
@@ -2093,7 +2062,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2102,7 +2071,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2111,7 +2080,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": "Regulatory updates"
         },
         {
@@ -2129,7 +2098,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2138,7 +2107,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2158,7 +2127,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2216,7 +2185,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2366,7 +2335,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T07:57:47.506Z",
+            "lastScan": "2026-07-14T10:00:22.301Z",
             "note": null
         },
         {
@@ -36794,6 +36763,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-2uesvpvg4",
+            "title": "Spine 2D Update",
+            "subtitle": "Spine introduces Physics Blending in 2D",
+            "category": "Tech",
+            "tags": [
+                "Spine",
+                "2D",
+                "Physics Blending"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXdhTjMzWVhoVG9VejNVRkVHbjh0UVRhZUcwZ3hYckdLVTRJV242NXc4MnNmTEd2VXdLeDlOT2dRNE5BblZ5UWd3cjh3N2VkWUZqclN6V1dHek5YaTVyMFBLUElLeFlZV3gtZHJ4VzNOZmRPeUcxT1lueDdIN010Q0NmTmdjUQ?oc=5",
+                "date": "2026-06-30T08:16:16.000Z"
+            },
+            "whatsNew": "Spine has introduced Physics Blending, a new feature in Spine 2D. This update aims to enhance animation capabilities. Physics Blending allows for more realistic interactions between characters and their environment.",
+            "whyItMatters": "This update can significantly improve the quality of 2D animations, especially in game development. It provides developers with more tools to create engaging and realistic experiences.",
+            "howToUse": "Developers can utilize Physics Blending in Spine 2D to create more immersive animations by blending physics simulations with keyframe animations.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
