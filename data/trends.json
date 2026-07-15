@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-15T02:06:32.326Z",
+        "scanDate": "2026-07-15T05:27:45.001Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-iwrmgo4pw",
+            "title": "AI Art Copyright",
+            "subtitle": "Supreme Court's non-ruling impacts AI art and copyright laws",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Copyright Law",
+                "Supreme Court"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wN0QxZEdab281X19pTDNnMm1tN2lHY2VjRS1wVzFNN2tLOGF4RmZBNE90X0N6LW1KLW1hUWYxMk80T0hKTlR6TFJtTDNDVFB2RUx4VUR1c2IxQzZLYXhPYU5IWmJvVzdQWXRLMHBscWVrQQ?oc=5",
+                "date": "2026-07-03T07:00:00.000Z"
+            },
+            "whatsNew": "The Supreme Court's recent non-ruling has significant implications for AI-generated art and copyright laws. This change may affect how AI art is created, used, and protected. The non-ruling leaves room for interpretation and potential legal challenges.",
+            "whyItMatters": "The Supreme Court's decision impacts the future of AI art, influencing how artists, creators, and companies approach copyright and ownership. This change can have far-reaching consequences for the art and technology industries.",
+            "howToUse": "Artists and creators should stay informed about the evolving copyright laws and consider seeking legal counsel to protect their AI-generated work. Companies should review their AI art policies and ensure compliance with changing regulations.",
+            "beneficiaries": [
+                "Artists",
+                "Creators",
+                "Lawyers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-f7y20d5gh",
             "title": "Dieselpunk Art",
@@ -47,7 +77,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "visual-style-trends",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zt5rux7r8",
@@ -79,7 +109,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0pgkut1qz",
@@ -2067,7 +2097,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": null
         },
         {
@@ -2086,7 +2116,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2095,7 +2125,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2104,7 +2134,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": "Regulatory updates"
         },
         {
@@ -2122,7 +2152,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2131,7 +2161,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2151,7 +2181,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2209,7 +2239,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2218,18 +2248,17 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T16:59:40.436Z",
-            "note": "Style browsing signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-15T05:27:45.001Z",
+            "note": "Style browsing signal"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -2263,21 +2292,19 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-12T16:59:40.436Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-15T05:27:45.001Z",
+            "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-12T16:59:40.436Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-07-15T05:27:45.001Z",
+            "note": null
         },
         {
             "name": "HeyGen",
@@ -2359,7 +2386,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T02:06:32.326Z",
+            "lastScan": "2026-07-15T05:27:45.001Z",
             "note": null
         },
         {
