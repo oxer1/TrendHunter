@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-15T14:46:21.182Z",
+        "scanDate": "2026-07-15T16:18:21.203Z",
         "version": "2.5.0",
-        "totalTrends": 61,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hzz1wpg2h",
+            "title": "US Gaming Regulation",
+            "subtitle": "Regulation updates in California, Mississippi, Nevada, and more",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "US Gaming",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWczYXdtQTVnZHNqYklxMXJNWnZwc3RjRlNJQnZlUjVfbU5WWVlhYVpTdE5hZmdoV0x6TTBDYXlNa1Rzd29zeDgxLXNBOEdMU3pOZGdfblZnZm10UDZxS0Z2dWZUQnExMXhVYjc1NXhicEpoUmhCU1F3dXlWRkFKZEVBTy1VZFpXUE9idXROYmR6Z0ZxMTJLaDNmcFo0OXFy?oc=5",
+                "date": "2026-07-15T14:55:52.000Z"
+            },
+            "whatsNew": "Recent updates in gaming regulations across several US states, including California, Mississippi, and Nevada. These changes may impact the iGaming industry's operations and expansion plans.",
+            "whyItMatters": "The regulatory landscape significantly affects the iGaming industry's growth and profitability. Changes in regulations can open up new markets or impose restrictions on existing ones.",
+            "howToUse": "Operators should closely monitor these regulatory updates to adjust their strategies and ensure compliance in the affected states.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-53n4m3tmx",
             "title": "AI Image Turbo",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fax4otekf",
@@ -2069,7 +2098,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": null
         },
         {
@@ -2088,7 +2117,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2097,7 +2126,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2106,7 +2135,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": "Regulatory updates"
         },
         {
@@ -2124,7 +2153,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2133,7 +2162,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2153,7 +2182,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2211,7 +2240,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2358,7 +2387,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T14:46:21.182Z",
+            "lastScan": "2026-07-15T16:18:21.203Z",
             "note": null
         },
         {
