@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-15T18:03:20.173Z",
+        "scanDate": "2026-07-15T20:05:40.266Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-j1azxvnhf",
+            "title": "UK Gambling Update",
+            "subtitle": "Crown Leisure receives attention from the UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMG1qcXNSaUJoRHc2aF9wbThsVENEUDc5R3pwOHVxNnY3Z3d4ajMtYzVONjloVVQ1MTN3T1pFSDV1aW92NXFpcDR2N0pJZS11d25ORkhfRVJZX3dFT1V1WTR3UWwyZnZ3ZEpEWmk2c1BYNktNaUcwT0VBYlV1TjJCWVJCaw?oc=5",
+                "date": "2026-07-03T21:38:30.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken notice of Crown Leisure, indicating potential regulatory actions or updates. This could impact the company's operations and the broader iGaming industry. The specifics of the notice are not detailed in the provided information.",
+            "whyItMatters": "Regulatory actions can significantly affect iGaming companies, influencing their ability to operate and innovate. This development is crucial for understanding the evolving regulatory landscape in the UK.",
+            "howToUse": "Companies in the iGaming sector should monitor regulatory updates closely to ensure compliance and plan strategically. Understanding the implications of such notices can help in mitigating risks and capitalizing on opportunities.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Compliance Officers"
+            ],
+            "companies": [
+                "Crown Leisure"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-hzz1wpg2h",
             "title": "US Gaming Regulation",
@@ -2098,7 +2129,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": null
         },
         {
@@ -2117,7 +2148,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2126,7 +2157,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2135,7 +2166,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": "Regulatory updates"
         },
         {
@@ -2153,7 +2184,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2162,7 +2193,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2182,7 +2213,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2240,7 +2271,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2387,7 +2418,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T18:03:20.173Z",
+            "lastScan": "2026-07-15T20:05:40.266Z",
             "note": null
         },
         {
