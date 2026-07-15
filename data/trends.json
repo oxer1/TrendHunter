@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-15T08:02:58.259Z",
+        "scanDate": "2026-07-15T10:46:14.513Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,39 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-fax4otekf",
+            "title": "Merkur Acquires Studio",
+            "subtitle": "Merkur Group to acquire White Hat Studios for US expansion",
+            "category": "iGaming",
+            "tags": [
+                "Merkur Group",
+                "White Hat Studios",
+                "US Market"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWF6TzZiNWpiOUFuNEI1Z0Q4Zm5VeU1yOTRHdkFTSGdJTlhGTTRKY3ducXg1aVRMd1B6bmI4eUNmajk4OTFfOEk0Y3RWb2dFaUFMUXVTZzJKTHJVTnVYUUJGdThsd2lDMmVXaUZ3cWNiQVlTMWdqOEtCRDBIWnJzQjE1YWFDOG5qN3gzaktfRUttUWw2V1pEclFSTXNadw?oc=5",
+                "date": "2026-07-15T08:55:32.000Z"
+            },
+            "whatsNew": "Merkur Group is acquiring White Hat Studios to strengthen its presence in the US market. This move is part of Merkur's strategy to expand its iGaming operations. The acquisition will likely enhance Merkur's game development capabilities.",
+            "whyItMatters": "The acquisition signifies a significant push by Merkur into the US iGaming market, indicating growing competition and investment in the sector. It may lead to new game releases and platform developments.",
+            "howToUse": "Game developers and iGaming operators should monitor this acquisition for potential partnerships and new market opportunities. Investors can consider the growing US iGaming market for potential investments.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Merkur Group",
+                "White Hat Studios"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-iwrmgo4pw",
             "title": "AI Art Copyright",
@@ -2034,7 +2067,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": null
         },
         {
@@ -2053,7 +2086,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2062,7 +2095,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2071,7 +2104,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": "Regulatory updates"
         },
         {
@@ -2089,7 +2122,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2098,7 +2131,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2118,7 +2151,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2176,7 +2209,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2323,7 +2356,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T08:02:58.259Z",
+            "lastScan": "2026-07-15T10:46:14.513Z",
             "note": null
         },
         {
