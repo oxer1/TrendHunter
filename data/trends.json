@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-14T23:01:25.231Z",
+        "scanDate": "2026-07-15T02:06:32.326Z",
         "version": "2.5.0",
         "totalTrends": 61,
         "categories": [
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-f7y20d5gh",
+            "title": "Dieselpunk Art",
+            "subtitle": "Dieselpunk propaganda art style explored with Anima",
+            "category": "Art",
+            "tags": [
+                "Dieselpunk",
+                "Propaganda Art",
+                "Anima"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlA1enFjSVprcENrMlNsVkgyR2h5dENqcGNPQVhEMzBFaFlHVDB0VlN5eC1tMWR1TENuZEV6U3docHZmaVFvR0pXNUFsTHNFcW5VRHpYaWJOQnhPY0J0VWFEb1ZUUXZMU3RZem1GeDFWNlhackVjeVRRM3hmaFZUSXl5VmpnYWFLcHpOaHVucTdjX0RzTGNtODBWWXk2RUtzVjVmM3AtbUdXdDg?oc=5",
+                "date": "2026-07-12T02:12:44.000Z"
+            },
+            "whatsNew": "The article discusses the dieselpunk propaganda art style and its implementation using Anima. This style combines futuristic and vintage elements, creating a unique visual aesthetic. The use of Anima suggests a focus on digital art generation.",
+            "whyItMatters": "The exploration of dieselpunk propaganda art can inspire new visual design trends in the gaming and art industries. The use of digital tools like Anima can streamline the art creation process, making it more accessible to artists and designers.",
+            "howToUse": "Artists and designers can use Anima to experiment with dieselpunk propaganda art styles, creating unique and captivating visuals for their projects. They can also explore combining dieselpunk elements with other styles to create innovative designs.",
+            "beneficiaries": [
+                "Game Artists",
+                "Graphic Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
+        {
+            "id": "t-zt5rux7r8",
+            "title": "AI Fruit Generator",
+            "subtitle": "OpenArt introduces an AI tool to generate cute fruit character images",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "Character Design"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rLXdtQW1fOVp0VVR3V0dfa043c0Myc3VMUlQ0SlctWVg5V2JlZ0lLcXRkT1dmUnA2MWo5b3ZPYUVuYWhfUGdLUi1mXzd0c0RXM0FSTzBYd2c0SEE?oc=5",
+                "date": "2026-07-13T22:51:31.000Z"
+            },
+            "whatsNew": "OpenArt's AI Fruit with Face Generator creates adorable fruit characters with faces, showcasing advancements in AI-generated art. This tool can be used for various creative projects, including game development and visual design. The generator's ability to produce cute and unique characters can inspire new ideas in the gaming and art industries.",
+            "whyItMatters": "The AI Fruit with Face Generator demonstrates the potential of AI in creative work, particularly in generating character designs and art assets. This can significantly impact the game development and visual design industries by providing new tools for creators.",
+            "howToUse": "Developers and designers can utilize this generator to create unique characters for their games or projects, saving time and exploring new ideas. They can also experiment with the generator's capabilities to push the boundaries of AI-generated art.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-0pgkut1qz",
             "title": "Honkai Impact 3rd",
@@ -880,41 +941,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": false
-        },
-        {
-            "id": "t-sjwu4pa2r",
-            "title": "Unity XR Hackathon",
-            "subtitle": "Google's first Android XR hackathon showcases innovative projects built with Unity for XREAL AURA glasses",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "XREAL AURA",
-                "Android XR",
-                "Hackathon"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/inside-google-s-first-xr-hackathon",
-                "date": "2026-07-01T00:00:00.000Z"
-            },
-            "whatsNew": "The hackathon featured 19 teams competing to build innovative projects for XREAL AURA, with a focus on healthcare, robotics, and accessibility. The winning projects included a conference networking platform, a real-time naval strategy game, and a clinical spatial computing platform.",
-            "whyItMatters": "The hackathon demonstrates the growing interest in XR development and the potential of XREAL AURA to attract serious builders. Unity's support for Android XR and XREAL AURA has real momentum, with a range of projects on display showcasing the platform's versatility.",
-            "howToUse": "Developers can start building for XREAL AURA using Unity's documentation and tools, and can participate in future hackathons to showcase their projects and connect with the XR community.",
-            "beneficiaries": [
-                "XR developers",
-                "Healthcare professionals",
-                "Gaming industry"
-            ],
-            "companies": [
-                "Unity",
-                "Google",
-                "XREAL"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
             "isNew": false
         },
         {
@@ -1885,37 +1911,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-4pywb9cr7",
-            "title": "Irresponsible Ad",
-            "subtitle": "Advertising watchdog criticizes Mr Vegas Facebook ad",
-            "category": "iGaming",
-            "tags": [
-                "Advertising",
-                "Regulation",
-                "Facebook"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlpzNUhRaWViOEQ4TjVOTS15dDMtSTduWUgwVlNIdnprYkdDbEhTaVNJdlhYZTk4YzhyVWQzd2pSSGFIRmZ3bm9hWWlFRURxblBxTnRheFdHTFdhUmF4Znc0aHZhMzNvZm54WmlWNEc0WHJ4YUl0ci1HcVRMdnFCUTVhT1VQN1BCWkpfZlZJWWY0NFdfQkN4S1RuQkk?oc=5",
-                "date": "2026-07-01T00:05:12.000Z"
-            },
-            "whatsNew": "The advertising watchdog has deemed a Mr Vegas Facebook ad as irresponsible. This decision highlights the importance of responsible advertising in the iGaming industry.",
-            "whyItMatters": "The ruling sets a precedent for future advertising regulation in the iGaming sector, emphasizing the need for operators to ensure their ads are socially responsible.",
-            "howToUse": "Operators should review their advertising strategies to ensure compliance with regulatory guidelines and avoid similar rulings.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Mr Vegas"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2072,7 +2067,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": null
         },
         {
@@ -2091,7 +2086,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2100,7 +2095,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2109,7 +2104,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": "Regulatory updates"
         },
         {
@@ -2127,7 +2122,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2136,7 +2131,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2156,7 +2151,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2214,7 +2209,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2223,7 +2218,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T19:15:05.767Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2364,7 +2359,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-14T23:01:25.231Z",
+            "lastScan": "2026-07-15T02:06:32.326Z",
             "note": null
         },
         {
@@ -36917,6 +36912,72 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-sjwu4pa2r",
+            "title": "Unity XR Hackathon",
+            "subtitle": "Google's first Android XR hackathon showcases innovative projects built with Unity for XREAL AURA glasses",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "XREAL AURA",
+                "Android XR",
+                "Hackathon"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/inside-google-s-first-xr-hackathon",
+                "date": "2026-07-01T00:00:00.000Z"
+            },
+            "whatsNew": "The hackathon featured 19 teams competing to build innovative projects for XREAL AURA, with a focus on healthcare, robotics, and accessibility. The winning projects included a conference networking platform, a real-time naval strategy game, and a clinical spatial computing platform.",
+            "whyItMatters": "The hackathon demonstrates the growing interest in XR development and the potential of XREAL AURA to attract serious builders. Unity's support for Android XR and XREAL AURA has real momentum, with a range of projects on display showcasing the platform's versatility.",
+            "howToUse": "Developers can start building for XREAL AURA using Unity's documentation and tools, and can participate in future hackathons to showcase their projects and connect with the XR community.",
+            "beneficiaries": [
+                "XR developers",
+                "Healthcare professionals",
+                "Gaming industry"
+            ],
+            "companies": [
+                "Unity",
+                "Google",
+                "XREAL"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": false
+        },
+        {
+            "id": "t-4pywb9cr7",
+            "title": "Irresponsible Ad",
+            "subtitle": "Advertising watchdog criticizes Mr Vegas Facebook ad",
+            "category": "iGaming",
+            "tags": [
+                "Advertising",
+                "Regulation",
+                "Facebook"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlpzNUhRaWViOEQ4TjVOTS15dDMtSTduWUgwVlNIdnprYkdDbEhTaVNJdlhYZTk4YzhyVWQzd2pSSGFIRmZ3bm9hWWlFRURxblBxTnRheFdHTFdhUmF4Znc0aHZhMzNvZm54WmlWNEc0WHJ4YUl0ci1HcVRMdnFCUTVhT1VQN1BCWkpfZlZJWWY0NFdfQkN4S1RuQkk?oc=5",
+                "date": "2026-07-01T00:05:12.000Z"
+            },
+            "whatsNew": "The advertising watchdog has deemed a Mr Vegas Facebook ad as irresponsible. This decision highlights the importance of responsible advertising in the iGaming industry.",
+            "whyItMatters": "The ruling sets a precedent for future advertising regulation in the iGaming sector, emphasizing the need for operators to ensure their ads are socially responsible.",
+            "howToUse": "Operators should review their advertising strategies to ensure compliance with regulatory guidelines and avoid similar rulings.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Mr Vegas"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
