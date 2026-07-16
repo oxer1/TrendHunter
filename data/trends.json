@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-16T15:36:47.003Z",
+        "scanDate": "2026-07-16T17:11:28.734Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 68,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-wvhq1a6kz",
+            "title": "AI Context Gap",
+            "subtitle": "Enterprises face trust issues with AI agents due to inconsistent business context",
+            "category": "AI",
+            "tags": [
+                "AI context gap",
+                "Enterprise AI",
+                "Retrieval-augmented generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "VentureBeat AI",
+                "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+                "date": "2026-07-16T17:06:08.000Z"
+            },
+            "whatsNew": "A majority of enterprises have experienced AI agents producing confident but wrong answers due to missing or inconsistent business context, highlighting the need for a governed semantic layer and hybrid retrieval systems.",
+            "whyItMatters": "The context gap poses a significant risk to enterprises, as it can lead to incorrect decisions and damage to their reputation, emphasizing the importance of addressing this issue to ensure trustworthy AI systems.",
+            "howToUse": "Enterprises can address the context gap by implementing a governed semantic layer and hybrid retrieval systems, and by prioritizing the development of these solutions to prevent confident-but-wrong failures.",
+            "beneficiaries": [
+                "Enterprise AI developers",
+                "Business decision-makers"
+            ],
+            "companies": [
+                "OpenAI",
+                "Google"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-ko7lpryxt",
             "title": "EGBA Board Update",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1uiysf7uz",
@@ -80,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-13jf6mvsc",
@@ -1492,37 +1524,6 @@
             "isNew": false
         },
         {
-            "id": "t-dsch4qfn8",
-            "title": "Synthesia Assets",
-            "subtitle": "Generating custom video and image assets in Synthesia",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "AI Video Tools",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG9NN3ppWnpyTnQycHpJZWtidkJZTmpmZWZveHVmSkFSM3VTTlFNQW1mQmZtdzhob0dmQ2VzTGxoVEpjNEpFUXRIU1ZPSTAxem5zQmNpWFhCemdobTV0UXlNNWxLQkl1RW80bS05YmttTjhYVGVaYlNvTGZ0OV91XzU2TFRlQ2VqQlhaN3BhalVCa0xRb1g3elJMNnpPS3ZIbjlWUkNiUGxUVUJu?oc=5",
-                "date": "2026-07-02T16:20:53.000Z"
-            },
-            "whatsNew": "Synthesia allows users to generate custom video and image assets, expanding its creative capabilities. This feature enables the creation of unique visual content. It simplifies the process of producing customized media assets.",
-            "whyItMatters": "The ability to generate custom assets in Synthesia impacts content creators by streamlining their workflow and enhancing their ability to produce personalized content. This can lead to more engaging and tailored media experiences.",
-            "howToUse": "To generate custom assets, users can utilize Synthesia's built-in tools and features, following the guidelines provided in the Synthesia Knowledge Base. This involves understanding the platform's capabilities and limitations.",
-            "beneficiaries": [
-                "Content Creators",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-p3vofzxxq",
             "title": "ComfyUI Update",
             "subtitle": "Civitai releases ComfyUI Image Workflows - V37, enhancing image processing capabilities",
@@ -1896,38 +1897,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-utn1ro2iw",
-            "title": "DraftKings Departure",
-            "subtitle": "Jackpocket founder leaves DraftKings",
-            "category": "iGaming",
-            "tags": [
-                "DraftKings",
-                "Jackpocket",
-                "iGaming"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeko5NWNLWmhiUElpX3dfZEZFN3NfSW5NamNETHRNQVZlcTdGSWFncnlxUWpwbG50dnFjRjdaTGtxaXRzdFhmNzhVeFJibllGdW5iQWpiVkEyNnRQNldFdnA5MHlIVU1UcWowc0ViWU5TMjZKNHUtT3dXOGxNU0VaVzNleTVCeDhHNm9pdnNUWHl0MGc?oc=5",
-                "date": "2026-07-02T16:52:11.000Z"
-            },
-            "whatsNew": "The founder of Jackpocket has announced their departure from DraftKings, a significant move in the iGaming industry. This departure may signal changes in the company's strategy or direction. The move could impact the online gaming and lottery sectors.",
-            "whyItMatters": "This departure matters as it could influence DraftKings' future plans and partnerships, potentially affecting the broader iGaming landscape. It may also reflect on the evolving nature of leadership within key iGaming companies.",
-            "howToUse": "Industry watchers should monitor DraftKings' subsequent moves and announcements for insight into the company's strategic direction. This could involve tracking changes in leadership, new partnerships, or shifts in product offerings.",
-            "beneficiaries": [
-                "iGaming analysts",
-                "DraftKings stakeholders"
-            ],
-            "companies": [
-                "DraftKings",
-                "Jackpocket"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -2307,7 +2276,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-16T17:11:28.734Z",
             "note": null
         },
         {
@@ -37463,6 +37432,69 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-dsch4qfn8",
+            "title": "Synthesia Assets",
+            "subtitle": "Generating custom video and image assets in Synthesia",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "AI Video Tools",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG9NN3ppWnpyTnQycHpJZWtidkJZTmpmZWZveHVmSkFSM3VTTlFNQW1mQmZtdzhob0dmQ2VzTGxoVEpjNEpFUXRIU1ZPSTAxem5zQmNpWFhCemdobTV0UXlNNWxLQkl1RW80bS05YmttTjhYVGVaYlNvTGZ0OV91XzU2TFRlQ2VqQlhaN3BhalVCa0xRb1g3elJMNnpPS3ZIbjlWUkNiUGxUVUJu?oc=5",
+                "date": "2026-07-02T16:20:53.000Z"
+            },
+            "whatsNew": "Synthesia allows users to generate custom video and image assets, expanding its creative capabilities. This feature enables the creation of unique visual content. It simplifies the process of producing customized media assets.",
+            "whyItMatters": "The ability to generate custom assets in Synthesia impacts content creators by streamlining their workflow and enhancing their ability to produce personalized content. This can lead to more engaging and tailored media experiences.",
+            "howToUse": "To generate custom assets, users can utilize Synthesia's built-in tools and features, following the guidelines provided in the Synthesia Knowledge Base. This involves understanding the platform's capabilities and limitations.",
+            "beneficiaries": [
+                "Content Creators",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-utn1ro2iw",
+            "title": "DraftKings Departure",
+            "subtitle": "Jackpocket founder leaves DraftKings",
+            "category": "iGaming",
+            "tags": [
+                "DraftKings",
+                "Jackpocket",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeko5NWNLWmhiUElpX3dfZEZFN3NfSW5NamNETHRNQVZlcTdGSWFncnlxUWpwbG50dnFjRjdaTGtxaXRzdFhmNzhVeFJibllGdW5iQWpiVkEyNnRQNldFdnA5MHlIVU1UcWowc0ViWU5TMjZKNHUtT3dXOGxNU0VaVzNleTVCeDhHNm9pdnNUWHl0MGc?oc=5",
+                "date": "2026-07-02T16:52:11.000Z"
+            },
+            "whatsNew": "The founder of Jackpocket has announced their departure from DraftKings, a significant move in the iGaming industry. This departure may signal changes in the company's strategy or direction. The move could impact the online gaming and lottery sectors.",
+            "whyItMatters": "This departure matters as it could influence DraftKings' future plans and partnerships, potentially affecting the broader iGaming landscape. It may also reflect on the evolving nature of leadership within key iGaming companies.",
+            "howToUse": "Industry watchers should monitor DraftKings' subsequent moves and announcements for insight into the company's strategic direction. This could involve tracking changes in leadership, new partnerships, or shifts in product offerings.",
+            "beneficiaries": [
+                "iGaming analysts",
+                "DraftKings stakeholders"
+            ],
+            "companies": [
+                "DraftKings",
+                "Jackpocket"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
