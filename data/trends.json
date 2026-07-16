@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-16T11:37:01.900Z",
+        "scanDate": "2026-07-16T13:42:59.528Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-13jf6mvsc",
+            "title": "Stable Diffusion XL",
+            "subtitle": "Civitai releases Juggernaut XL - Ragnarok Stable Diffusion XL Checkpoint",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNnJVamZxYVBmMkNNcUhkTERmVWhuTWZ4Z1lSS0ZpanhSTnRXaGJaaDZmQVpLOUFxMVJSQmxzY25SQVNfVGM5cWxsREhlN2pDc2xJSUZHaHBEQ0E?oc=5",
+                "date": "2026-07-14T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Juggernaut XL - Ragnarok, a new Stable Diffusion XL checkpoint. This checkpoint is designed to generate high-quality images with improved stability and detail.",
+            "whyItMatters": "The release of Juggernaut XL - Ragnarok demonstrates the ongoing advancements in AI art generation, offering new possibilities for creators and artists. This technology has the potential to significantly impact the visual design trends in the gaming and art industries.",
+            "howToUse": "Artists and developers can utilize Juggernaut XL - Ragnarok by integrating it into their existing workflows, allowing for the creation of more realistic and detailed images.",
+            "beneficiaries": [
+                "Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ylrfpsjxq",
             "title": "CFTC Proposal",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6qw74z484",
@@ -77,7 +108,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-r560deb7b",
@@ -106,7 +137,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9qsfw6ib8",
@@ -137,7 +168,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fuj5y1e19",
@@ -2276,7 +2307,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": null
         },
         {
@@ -2295,7 +2326,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2304,7 +2335,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2313,7 +2344,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": "Regulatory updates"
         },
         {
@@ -2331,7 +2362,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2340,7 +2371,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2360,7 +2391,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2418,7 +2449,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2565,7 +2596,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T11:37:01.900Z",
+            "lastScan": "2026-07-16T13:42:59.528Z",
             "note": null
         },
         {
