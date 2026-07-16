@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-15T23:59:31.593Z",
+        "scanDate": "2026-07-16T03:23:52.775Z",
         "version": "2.5.0",
-        "totalTrends": 64,
+        "totalTrends": 65,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-d14oqdamt",
+            "title": "Alien Art Generation",
+            "subtitle": "Civitai introduces a new AI tool for generating alien-themed art",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Alien Imagination",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUVdkeXd5QzI3eVplWXlVVTFQMlBmZ3R4cnF6YWtCMzA4a2VnSUJoeUpuZG9XMzllQ2JhYmUwZndLaFJ0ZkU0ZGJyc3VkUkJyWDlGeExpTVlLa18ydGpPbDlOSUlIQ1ZHUmZtSzFILUJJT3c?oc=5",
+                "date": "2026-07-09T00:05:58.000Z"
+            },
+            "whatsNew": "Civitai's new tool allows users to generate unique alien-themed art using AI. This tool can be used to create new and exciting visuals for various applications, including gaming and entertainment.",
+            "whyItMatters": "The ability to generate alien-themed art using AI can inspire new ideas and creativity in the gaming and entertainment industries. It can also provide a new way for artists to express themselves and explore new themes.",
+            "howToUse": "Users can access Civitai's tool and start generating their own alien-themed art by providing prompts and adjusting parameters to achieve the desired outcome.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-g6fzw4gwd",
             "title": "UK Gambling Update",
@@ -2157,7 +2189,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": null
         },
         {
@@ -2176,7 +2208,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2185,7 +2217,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2194,7 +2226,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": "Regulatory updates"
         },
         {
@@ -2212,7 +2244,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2221,7 +2253,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2241,7 +2273,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2299,7 +2331,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2308,7 +2340,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T05:27:45.001Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2446,7 +2478,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T23:59:31.593Z",
+            "lastScan": "2026-07-16T03:23:52.775Z",
             "note": null
         },
         {
