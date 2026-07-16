@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-16T06:14:00.939Z",
+        "scanDate": "2026-07-16T09:10:28.731Z",
         "version": "2.5.0",
         "totalTrends": 65,
         "categories": [
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-fuj5y1e19",
+            "title": "Evolution Settlement",
+            "subtitle": "Evolution to pay £4.75m settlement as part of a Gambling Commission review",
+            "category": "iGaming",
+            "tags": [
+                "Evolution",
+                "Gambling Commission",
+                "Settlement"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ040VWl4ZndxbVh2R0Jvc0hISXNOYVdtci10NHdXTzBiemhaSTlOclR3WFUtUDRjME0wYm9QcGN3V2ZHRVFKOWhlZmowT1pSUWtCaXJyVnkzQ0FQbW5uTkJ6enZzSW43MkN1RUpwQ0xnTlY1UF9FLS1wNHpnT3owUkJOSDJ2aGU2cndEMzNrdFNDWjBmS29DV0tPVzlMdEVxWS1iZ1AzNF9kdw?oc=5",
+                "date": "2026-07-15T09:25:34.000Z"
+            },
+            "whatsNew": "Evolution has agreed to pay a £4.75m settlement as a result of a review by the UK Gambling Commission. The settlement is part of the Commission's ongoing efforts to ensure compliance with gaming regulations.",
+            "whyItMatters": "This settlement highlights the importance of regulatory compliance in the iGaming industry and demonstrates the Commission's commitment to enforcing strict standards. It may also have implications for other operators in the industry.",
+            "howToUse": "Operators should review their compliance procedures to ensure they meet the necessary regulatory standards, and consider the potential impact of non-compliance on their business.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Evolution"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-nrxw8qo0x",
+            "title": "MGA Seal Update",
+            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV18yUUE1WEp0VmNleS1teXFNOXVRSkpESWM2WU5rajh4ZVB1bnZMX25CaHplcjFDVThaZ1ZsZ1ZwV0Fack9EbDVKVmgwYi1UUGN6QmlfY25zeTdCTEZvRnkwRDd0MHBiaERuOHhDUWdDUmJkdk10U1RnaHEyRm9NOERkNS1ua0NhRGVMbXRCeFdTS3JoVnNvNE5Vdk9UTU9ZbFpOX0VaOHQ1SFBXeUVBUnluMA?oc=5",
+                "date": "2026-07-16T07:12:55.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This seal is expected to provide a more secure and reliable way to verify the legitimacy of licensed operators. The introduction of this seal reflects the authority's ongoing efforts to improve regulatory standards.",
+            "whyItMatters": "The Dynamic Seal Of Authorisation is crucial for maintaining the integrity of the iGaming industry, as it helps protect players by ensuring they are engaging with licensed and regulated operators. This move also underscores the authority's commitment to innovation and consumer protection.",
+            "howToUse": "Operators can use the Dynamic Seal to demonstrate their compliance with MGA regulations, and players can verify the seal to ensure they are playing with a licensed operator.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-d14oqdamt",
             "title": "Alien Art Generation",
@@ -1784,40 +1846,6 @@
             "isNew": false
         },
         {
-            "id": "t-xgr1pivwa",
-            "title": "Granblue Style",
-            "subtitle": "Granblue fantasy style integration with Krea2 using LoRA on Civitai",
-            "category": "AI",
-            "tags": [
-                "Granblue Fantasy",
-                "Krea2",
-                "LoRA",
-                "Civitai",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kdnllTDAxWmZrUXFZeU5kbXVrdEpxLTd6dEoyU1VfaFA4azRzVHRJcTlQbEJSamVNcTNOMjIwVnlMajFOR3Q2WGNxSURhbXBfZG1rMXRnYnhnNXRjaVV6NFpRajhFUQ?oc=5",
-                "date": "2026-07-02T07:00:00.000Z"
-            },
-            "whatsNew": "The integration of Granblue fantasy style with Krea2 using LoRA on Civitai allows for the generation of art in the style of Granblue Fantasy. This is a novel application of AI art generation. The use of LoRA enables more efficient and customizable art generation.",
-            "whyItMatters": "This integration matters because it showcases the potential of AI in generating art in specific styles, which can be useful for game development, animation, and other creative fields. It also highlights the growing importance of platforms like Civitai in facilitating AI art generation.",
-            "howToUse": "To use this integration, users can access the Civitai platform and utilize the Krea2 LoRA model to generate art in the Granblue Fantasy style. This can be used for various purposes such as concept art, character design, or even fan art.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists",
-                "Animators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-5j1l0uk56",
             "title": "AI Video Generation",
             "subtitle": "OpenArt's MCP allows AI video generation straight from Claude",
@@ -2002,37 +2030,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-rryj4zvar",
-            "title": "Anime Image Creation",
-            "subtitle": "OpenArt guides on creating 2D anime images with Nano Banana 2 Lite",
-            "category": "Art",
-            "tags": [
-                "Anime",
-                "Nano Banana 2 Lite",
-                "2D Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNRkpoVlI4QndPTVRVTmpVTTZ6MXRESjN1cXlMN3lwak5RWHRUdHBkc3c0U2VzOHlFUF9HRzZmQUQybVNmakE5R3pCX0NRZXlIMEpuZFI3cWQwcGctNVJXX2FTRy01UFRtZHBaR2pobmZndURzNUVF?oc=5",
-                "date": "2026-07-02T06:58:18.000Z"
-            },
-            "whatsNew": "Nano Banana 2 Lite is used for creating 2D anime images. This tool simplifies the anime image creation process. OpenArt provides a guide on how to use it.",
-            "whyItMatters": "The ability to create 2D anime images with ease can democratize anime-style art creation. It impacts artists and designers looking to explore anime styles without extensive traditional drawing skills.",
-            "howToUse": "Use Nano Banana 2 Lite by following OpenArt's guide to create your own 2D anime images. Experiment with different settings and styles to achieve desired effects.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2189,7 +2186,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": null
         },
         {
@@ -2208,7 +2205,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2217,7 +2214,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2226,7 +2223,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": "Regulatory updates"
         },
         {
@@ -2244,7 +2241,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2253,7 +2250,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2273,7 +2270,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2331,7 +2328,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2478,7 +2475,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T06:14:00.939Z",
+            "lastScan": "2026-07-16T09:10:28.731Z",
             "note": null
         },
         {
@@ -37189,6 +37186,71 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xgr1pivwa",
+            "title": "Granblue Style",
+            "subtitle": "Granblue fantasy style integration with Krea2 using LoRA on Civitai",
+            "category": "AI",
+            "tags": [
+                "Granblue Fantasy",
+                "Krea2",
+                "LoRA",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kdnllTDAxWmZrUXFZeU5kbXVrdEpxLTd6dEoyU1VfaFA4azRzVHRJcTlQbEJSamVNcTNOMjIwVnlMajFOR3Q2WGNxSURhbXBfZG1rMXRnYnhnNXRjaVV6NFpRajhFUQ?oc=5",
+                "date": "2026-07-02T07:00:00.000Z"
+            },
+            "whatsNew": "The integration of Granblue fantasy style with Krea2 using LoRA on Civitai allows for the generation of art in the style of Granblue Fantasy. This is a novel application of AI art generation. The use of LoRA enables more efficient and customizable art generation.",
+            "whyItMatters": "This integration matters because it showcases the potential of AI in generating art in specific styles, which can be useful for game development, animation, and other creative fields. It also highlights the growing importance of platforms like Civitai in facilitating AI art generation.",
+            "howToUse": "To use this integration, users can access the Civitai platform and utilize the Krea2 LoRA model to generate art in the Granblue Fantasy style. This can be used for various purposes such as concept art, character design, or even fan art.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists",
+                "Animators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-rryj4zvar",
+            "title": "Anime Image Creation",
+            "subtitle": "OpenArt guides on creating 2D anime images with Nano Banana 2 Lite",
+            "category": "Art",
+            "tags": [
+                "Anime",
+                "Nano Banana 2 Lite",
+                "2D Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNRkpoVlI4QndPTVRVTmpVTTZ6MXRESjN1cXlMN3lwak5RWHRUdHBkc3c0U2VzOHlFUF9HRzZmQUQybVNmakE5R3pCX0NRZXlIMEpuZFI3cWQwcGctNVJXX2FTRy01UFRtZHBaR2pobmZndURzNUVF?oc=5",
+                "date": "2026-07-02T06:58:18.000Z"
+            },
+            "whatsNew": "Nano Banana 2 Lite is used for creating 2D anime images. This tool simplifies the anime image creation process. OpenArt provides a guide on how to use it.",
+            "whyItMatters": "The ability to create 2D anime images with ease can democratize anime-style art creation. It impacts artists and designers looking to explore anime styles without extensive traditional drawing skills.",
+            "howToUse": "Use Nano Banana 2 Lite by following OpenArt's guide to create your own 2D anime images. Experiment with different settings and styles to achieve desired effects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
