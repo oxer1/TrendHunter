@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-16T09:10:28.731Z",
+        "scanDate": "2026-07-16T11:37:01.900Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 68,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,125 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ylrfpsjxq",
+            "title": "CFTC Proposal",
+            "subtitle": "The CFTC has introduced a new proposal for regulating prediction markets, which could impact the iGaming industry.",
+            "category": "iGaming",
+            "tags": [
+                "CFTC",
+                "Prediction Markets",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkNOcm9weVVNWklIaWJ3U1BhTHdzUGNpdjZ2OUd2TEwtcUhxTFdXdnNhbG1hVDBWdzdGZGd3eFZIaVk3bGpKSlNhbGlvdVBuRHFZQVlhTGJ5Wl9Id3hxcnJ0M2ljWndORlFhLXpmX0dNTktybEkyQUFVSGowQlNod0VBa0l6NTg2XzBkUFVZcnJiQU9mNV9Ma0RHbHFCaE5udjJ1UktKd1ZzZ3Rq?oc=5",
+                "date": "2026-07-16T09:53:01.000Z"
+            },
+            "whatsNew": "The CFTC's new proposal aims to establish a regulatory framework for prediction markets, providing clarity on allowed activities and operator requirements. This move could lead to increased transparency and accountability in the industry. The proposal may also pave the way for further innovation in the iGaming sector.",
+            "whyItMatters": "The CFTC's proposal has significant implications for the iGaming industry, as it could lead to increased regulatory clarity and potentially open up new opportunities for operators. This development may also influence the growth of related markets, such as sports betting and online gambling.",
+            "howToUse": "Operators and stakeholders should closely review the proposal and provide feedback to the CFTC to ensure their concerns are addressed. They should also prepare for potential changes to their business operations and compliance procedures.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-6qw74z484",
+            "title": "Atlantic City Jackpots",
+            "subtitle": "NJ Division of Gaming Enforcement releases list of jackpots over $40,000",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Atlantic City",
+                "Jackpots"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-07-13T07:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has published a list of jackpots won in Atlantic City, with wins exceeding $40,000. The list is 98 pages long, indicating a significant number of large wins. The publication of this list provides transparency into the gaming industry in New Jersey.",
+            "whyItMatters": "This list matters as it shows the scale of winnings in Atlantic City, which can impact the attractiveness of the city as a gaming destination. It also demonstrates regulatory transparency, which is crucial for the integrity of the gaming industry.",
+            "howToUse": "Gaming operators and regulators can use this information to understand player behavior and preferences, while players can use it to inform their gaming decisions.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-r560deb7b",
+            "title": "NJ Casino Update",
+            "subtitle": "New Jersey Casino Control Commission public meeting announcement",
+            "category": "iGaming",
+            "tags": [
+                "Casino Control Commission",
+                "New Jersey",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05OGU3NEVMWF9DaV9RWFNWRloxdTI3ZnVlU1c4RWdRTDlYdWxZX1l4LTFwRThFdHlMa21RZGVkWjRDelZlY18tRi1hOUY2QnJKN2ZGcUw1MmxPa1JiUUFfYnZLc0d2LXliN2FBX1hqdEpTZGJjc3JLeTVRbzZTYzg?oc=5",
+                "date": "2026-07-08T07:00:00.000Z"
+            },
+            "whatsNew": "The New Jersey Casino Control Commission has announced a public meeting. The meeting may discuss recent developments in the state's casino industry, including potential regulation changes.",
+            "whyItMatters": "This meeting could impact the future of the iGaming industry in New Jersey, affecting both operators and players. Regulatory changes may influence the overall gaming landscape in the state.",
+            "howToUse": "Industry stakeholders should monitor the meeting's outcome for potential regulatory updates and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-9qsfw6ib8",
+            "title": "Krea2 TextFusion",
+            "subtitle": "Civitai releases Krea2 TextFusion Refusal-Reduction LoRA - v1.0",
+            "category": "AI",
+            "tags": [
+                "LoRA",
+                "TextFusion",
+                "Krea2"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNXNONU03NUtKRFJFVEtpcjBKaC11a1NnRHkwc3JuM1NJZm1fa1hfcGhsMmlmRktkeFdyUGhpWU9sZmNpcXFJUEViajA5bV80WnRqdUZNSW43SHlqRUM3czEtcVpSSUljSTVaYzBlazFOLWlUQlRacm9ra3Axc3c?oc=5",
+                "date": "2026-07-13T06:52:04.000Z"
+            },
+            "whatsNew": "Civitai has introduced Krea2 TextFusion Refusal-Reduction LoRA, a new tool for AI text generation. This version, v1.0, marks the initial release of the technology. The tool aims to improve text generation capabilities.",
+            "whyItMatters": "This technology has the potential to significantly impact AI text generation, offering improved refusal-reduction capabilities. It could be particularly useful in applications requiring nuanced and contextually appropriate text outputs.",
+            "howToUse": "Developers can integrate Krea2 TextFusion into their projects to enhance text generation tasks, potentially leading to more realistic and engaging outputs. Civitai provides resources and documentation for effective implementation.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-fuj5y1e19",
             "title": "Evolution Settlement",
@@ -49,7 +168,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-nrxw8qo0x",
@@ -80,7 +199,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-d14oqdamt",
@@ -2001,35 +2120,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-jo58p2ukh",
-            "title": "iGaming Stocks",
-            "subtitle": "Publicly traded gambling companies experience mixed fortunes in June",
-            "category": "iGaming",
-            "tags": [
-                "iGaming",
-                "Stocks",
-                "Gambling"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDBSRFc0QlJIOUxkeFdGb2d2dUpDOVFPbTl4QmRkVFptblBTVGtLUDhNV0t6aW1YY2UwRVNSUGdHWS04VWhDTUxFWjR6Tkw4VzI0RWpkLWsxTFE4ajRDWGZZLVZrNmR0QktzV1lzRFpCR0FndGMwSml6N0prTXA4eWZJbjNiYmEyY0pSV0FoUzlsUWFMTFY2OFlFM1FtMHkzUF9UemJ5eWFPVTRLT0gxMnpfRXBYbXIxTHRseUhtVQ?oc=5",
-                "date": "2026-07-02T10:47:04.000Z"
-            },
-            "whatsNew": "The performance of publicly traded gambling companies varied throughout June, with some experiencing gains and others facing losses. This mixed trend reflects the current state of the iGaming industry. The market fluctuations are likely due to various factors, including regulatory changes and shifting consumer behaviors.",
-            "whyItMatters": "The mixed fortunes of publicly traded gambling companies can impact investor confidence and influence the overall direction of the iGaming industry. Understanding these trends is crucial for companies looking to navigate the complex and evolving landscape of online gambling.",
-            "howToUse": "Investors and industry stakeholders should closely monitor market trends and regulatory updates to make informed decisions. Companies can also use this information to adjust their strategies and stay competitive in the market.",
-            "beneficiaries": [
-                "Investors",
-                "iGaming Companies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2186,7 +2276,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "note": null
         },
         {
@@ -2205,7 +2295,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2214,7 +2304,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2223,7 +2313,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "note": "Regulatory updates"
         },
         {
@@ -2241,7 +2331,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2250,7 +2340,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2270,7 +2360,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2475,7 +2565,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T09:10:28.731Z",
+            "lastScan": "2026-07-16T11:37:01.900Z",
             "note": null
         },
         {
@@ -37251,6 +37341,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-jo58p2ukh",
+            "title": "iGaming Stocks",
+            "subtitle": "Publicly traded gambling companies experience mixed fortunes in June",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "Stocks",
+                "Gambling"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDBSRFc0QlJIOUxkeFdGb2d2dUpDOVFPbTl4QmRkVFptblBTVGtLUDhNV0t6aW1YY2UwRVNSUGdHWS04VWhDTUxFWjR6Tkw4VzI0RWpkLWsxTFE4ajRDWGZZLVZrNmR0QktzV1lzRFpCR0FndGMwSml6N0prTXA4eWZJbjNiYmEyY0pSV0FoUzlsUWFMTFY2OFlFM1FtMHkzUF9UemJ5eWFPVTRLT0gxMnpfRXBYbXIxTHRseUhtVQ?oc=5",
+                "date": "2026-07-02T10:47:04.000Z"
+            },
+            "whatsNew": "The performance of publicly traded gambling companies varied throughout June, with some experiencing gains and others facing losses. This mixed trend reflects the current state of the iGaming industry. The market fluctuations are likely due to various factors, including regulatory changes and shifting consumer behaviors.",
+            "whyItMatters": "The mixed fortunes of publicly traded gambling companies can impact investor confidence and influence the overall direction of the iGaming industry. Understanding these trends is crucial for companies looking to navigate the complex and evolving landscape of online gambling.",
+            "howToUse": "Investors and industry stakeholders should closely monitor market trends and regulatory updates to make informed decisions. Companies can also use this information to adjust their strategies and stay competitive in the market.",
+            "beneficiaries": [
+                "Investors",
+                "iGaming Companies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
