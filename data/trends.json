@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-16T13:42:59.528Z",
+        "scanDate": "2026-07-16T15:36:47.003Z",
         "version": "2.5.0",
         "totalTrends": 69,
         "categories": [
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ko7lpryxt",
+            "title": "EGBA Board Update",
+            "subtitle": "Super Technologies joins the European Gaming and Betting Association's Board",
+            "category": "iGaming",
+            "tags": [
+                "EGBA",
+                "Super Technologies",
+                "Gaming Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGBA",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yR01FOXJyTGc3YjAzOFZmRWJpLTVkWVYyc0lKei14YnNXaDYzb18xU0ZzYV9SRThEbTgtRHM0VEtVLVd3UFBSamZldmFvMHpfN0F5UC1rejFMNUtYay1QaE00bUdjMnIwOXdaR05vZDZfYnhqaVE?oc=5",
+                "date": "2026-07-16T12:16:00.000Z"
+            },
+            "whatsNew": "Super Technologies has become the latest member to join the European Gaming and Betting Association's Board. This move reflects the growing importance of collaborative regulation in the iGaming industry. The addition is expected to bring new insights and expertise to the association.",
+            "whyItMatters": "This membership can influence regulatory policies and standards in the European iGaming market, impacting how companies operate within the region. It also signifies the association's ongoing efforts to include diverse perspectives from its members.",
+            "howToUse": "Companies in the iGaming sector should monitor EGBA's updates and consider membership for regulatory insights and industry networking. They should also be prepared to adapt to potential changes in regulatory standards.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Super Technologies"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-1uiysf7uz",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases One obsession - v23, an Illustrious Checkpoint",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdFZmT1Zkc2p3WjVlblZ2TmFwQWhvaHo3Q0xvU1B0R1Q4VzdtUHdlRERfR2swVjFyTE90ekFJQWwxcTJYY2JKZkx6a3FjbkVVTHVwVDRRN19RZW13?oc=5",
+                "date": "2026-07-13T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released One obsession - v23, a new checkpoint in their illustrious series, showcasing advancements in AI art generation. This update highlights the continuous improvement in AI-powered art tools. The release is part of Civitai's efforts to push the boundaries of what is possible with AI in creative work.",
+            "whyItMatters": "This update matters because it demonstrates the rapid evolution of AI art generation capabilities, which can significantly impact the gaming and visual design industries. It shows how AI can be harnessed for more sophisticated and detailed art creation, potentially changing the way games and other visual media are developed.",
+            "howToUse": "Developers and artists can utilize this update by integrating the new checkpoint into their projects, allowing for more complex and realistic art generation. This can be particularly useful for creating immersive game environments or detailed character designs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-13jf6mvsc",
             "title": "Stable Diffusion XL",
@@ -49,7 +111,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ylrfpsjxq",
@@ -2058,37 +2120,6 @@
             "isNew": false
         },
         {
-            "id": "t-559bbzanr",
-            "title": "RedCraft Update",
-            "subtitle": "RedCraft releases RedMix Edition with INT8 Convrot and 2x speed on Civitai",
-            "category": "AI",
-            "tags": [
-                "AI Models",
-                "Civitai",
-                "RedCraft"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWkwZWlZWkY1NDdRLVZXT1paWjltMDZmbHpWRmZLdDJxcmh6MTVXZ2NMZFQyeUFUSlBNYVM0bWNyUjFyYU4tdnlhN2toWDEyY0JVSmxuT3NaWktnWXRjR0Zya18yMnlBem05Z2VGSE9hUjNwemtKd28zWk93eGVQekdB?oc=5",
-                "date": "2026-07-02T14:02:16.000Z"
-            },
-            "whatsNew": "RedCraft has released its RedMix Edition, featuring INT8 Convrot for improved performance and 2x speed. This update is available on Civitai.",
-            "whyItMatters": "The update enhances the capabilities of RedCraft, potentially impacting AI art generation and related creative workflows. It signifies ongoing development in AI tools.",
-            "howToUse": "Access the RedMix Edition through Civitai to leverage its enhanced features for AI art generation and exploration.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-2lmjkse0v",
             "title": "Krea 2 Workflow",
             "subtitle": "A simple generation workflow for high-quality realism with tips and information on Civitai",
@@ -2119,37 +2150,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-3iit7r9iw",
-            "title": "Interactive Video",
-            "subtitle": "Synthesia introduces three levels of interactive video agents",
-            "category": "AI",
-            "tags": [
-                "Synthesia",
-                "Interactive Video",
-                "AI Agents"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Synthesia",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41cW81dXZubGNNcTQ3eTlCbERUNWtXVDEycl9VV19abjdnZ2d1OTRXcWVrTThlNEI1T19yMXpuaVZDZjNfNGxTejhhNko2SlFfbEJwWmk4SG9wMDJKc1V5YzFXdGRab0lvRUcyTVFFazBFbWZtbVg3dXRR?oc=5",
-                "date": "2026-07-02T14:07:22.000Z"
-            },
-            "whatsNew": "Synthesia has introduced three levels of interactive video agents, enhancing user interaction. These levels include talking, listening, and seeing, which can be applied to various AI applications. The technology has the potential to revolutionize video engagement.",
-            "whyItMatters": "The introduction of interactive video agents can significantly impact the iGaming industry by providing more immersive experiences and the game development sector by offering new tools for creating interactive content.",
-            "howToUse": "Developers can utilize Synthesia's interactive video agents to create more engaging and personalized experiences for users, such as in-game characters or virtual assistants.",
-            "beneficiaries": [
-                "Game Developers",
-                "iGaming Operators"
-            ],
-            "companies": [
-                "Synthesia"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
             "isNew": false
         }
     ],
@@ -2307,7 +2307,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": null
         },
         {
@@ -2326,7 +2326,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2335,7 +2335,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2344,7 +2344,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": "Regulatory updates"
         },
         {
@@ -2362,7 +2362,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2371,7 +2371,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2391,7 +2391,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2449,7 +2449,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2596,7 +2596,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T13:42:59.528Z",
+            "lastScan": "2026-07-16T15:36:47.003Z",
             "note": null
         },
         {
@@ -37401,6 +37401,68 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-559bbzanr",
+            "title": "RedCraft Update",
+            "subtitle": "RedCraft releases RedMix Edition with INT8 Convrot and 2x speed on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Models",
+                "Civitai",
+                "RedCraft"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWkwZWlZWkY1NDdRLVZXT1paWjltMDZmbHpWRmZLdDJxcmh6MTVXZ2NMZFQyeUFUSlBNYVM0bWNyUjFyYU4tdnlhN2toWDEyY0JVSmxuT3NaWktnWXRjR0Zya18yMnlBem05Z2VGSE9hUjNwemtKd28zWk93eGVQekdB?oc=5",
+                "date": "2026-07-02T14:02:16.000Z"
+            },
+            "whatsNew": "RedCraft has released its RedMix Edition, featuring INT8 Convrot for improved performance and 2x speed. This update is available on Civitai.",
+            "whyItMatters": "The update enhances the capabilities of RedCraft, potentially impacting AI art generation and related creative workflows. It signifies ongoing development in AI tools.",
+            "howToUse": "Access the RedMix Edition through Civitai to leverage its enhanced features for AI art generation and exploration.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-3iit7r9iw",
+            "title": "Interactive Video",
+            "subtitle": "Synthesia introduces three levels of interactive video agents",
+            "category": "AI",
+            "tags": [
+                "Synthesia",
+                "Interactive Video",
+                "AI Agents"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41cW81dXZubGNNcTQ3eTlCbERUNWtXVDEycl9VV19abjdnZ2d1OTRXcWVrTThlNEI1T19yMXpuaVZDZjNfNGxTejhhNko2SlFfbEJwWmk4SG9wMDJKc1V5YzFXdGRab0lvRUcyTVFFazBFbWZtbVg3dXRR?oc=5",
+                "date": "2026-07-02T14:07:22.000Z"
+            },
+            "whatsNew": "Synthesia has introduced three levels of interactive video agents, enhancing user interaction. These levels include talking, listening, and seeing, which can be applied to various AI applications. The technology has the potential to revolutionize video engagement.",
+            "whyItMatters": "The introduction of interactive video agents can significantly impact the iGaming industry by providing more immersive experiences and the game development sector by offering new tools for creating interactive content.",
+            "howToUse": "Developers can utilize Synthesia's interactive video agents to create more engaging and personalized experiences for users, such as in-game characters or virtual assistants.",
+            "beneficiaries": [
+                "Game Developers",
+                "iGaming Operators"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
