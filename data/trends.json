@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-17T10:43:38.542Z",
+        "scanDate": "2026-07-17T12:06:15.681Z",
         "version": "2.5.0",
-        "totalTrends": 63,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -1931,37 +1931,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-5j1l0uk56",
-            "title": "AI Video Generation",
-            "subtitle": "OpenArt's MCP allows AI video generation straight from Claude",
-            "category": "AI",
-            "tags": [
-                "AI Video",
-                "OpenArt",
-                "MCP"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44XzFhbEtBTUJPbkhwcTkwYTNSZ0NWUU1Hb25sQzA5LXdMRlVkazVsWWxPWVdDTXc2Zkc5T1dIODdFMkpyT05lamtnXzRGaUY2aVZFUXNLSG9McWFTMGZDbkNJZEtBRmVzLUFyUTJsdWFfXzh2THFVWXJwUkg?oc=5",
-                "date": "2026-07-03T11:11:54.000Z"
-            },
-            "whatsNew": "OpenArt's MCP enables direct AI video generation from Claude, streamlining the process. This integration simplifies content creation. MCP's capabilities are expanding the possibilities for AI-generated video content.",
-            "whyItMatters": "This development impacts content creators by providing them with more efficient tools for generating high-quality AI videos. It also opens up new avenues for AI application in video production.",
-            "howToUse": "Content creators can utilize OpenArt's MCP to generate AI videos directly from Claude, simplifying their workflow and enhancing productivity. By following OpenArt's guidelines, users can leverage this technology for their projects.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2118,7 +2087,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-17T10:43:38.542Z",
+            "lastScan": "2026-07-17T12:06:15.681Z",
             "note": null
         },
         {
@@ -37489,6 +37458,37 @@
                 "Content creators",
                 "Video producers",
                 "Marketers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-5j1l0uk56",
+            "title": "AI Video Generation",
+            "subtitle": "OpenArt's MCP allows AI video generation straight from Claude",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "OpenArt",
+                "MCP"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44XzFhbEtBTUJPbkhwcTkwYTNSZ0NWUU1Hb25sQzA5LXdMRlVkazVsWWxPWVdDTXc2Zkc5T1dIODdFMkpyT05lamtnXzRGaUY2aVZFUXNLSG9McWFTMGZDbkNJZEtBRmVzLUFyUTJsdWFfXzh2THFVWXJwUkg?oc=5",
+                "date": "2026-07-03T11:11:54.000Z"
+            },
+            "whatsNew": "OpenArt's MCP enables direct AI video generation from Claude, streamlining the process. This integration simplifies content creation. MCP's capabilities are expanding the possibilities for AI-generated video content.",
+            "whyItMatters": "This development impacts content creators by providing them with more efficient tools for generating high-quality AI videos. It also opens up new avenues for AI application in video production.",
+            "howToUse": "Content creators can utilize OpenArt's MCP to generate AI videos directly from Claude, simplifying their workflow and enhancing productivity. By following OpenArt's guidelines, users can leverage this technology for their projects.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
             ],
             "companies": [
                 "OpenArt"
