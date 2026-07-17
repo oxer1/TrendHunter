@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-17T05:39:07.011Z",
+        "scanDate": "2026-07-17T08:04:02.889Z",
         "version": "2.5.0",
-        "totalTrends": 66,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -511,36 +511,6 @@
             "isNew": false
         },
         {
-            "id": "t-iwrmgo4pw",
-            "title": "AI Art Copyright",
-            "subtitle": "Supreme Court's non-ruling impacts AI art and copyright laws",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Copyright Law",
-                "Supreme Court"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wN0QxZEdab281X19pTDNnMm1tN2lHY2VjRS1wVzFNN2tLOGF4RmZBNE90X0N6LW1KLW1hUWYxMk80T0hKTlR6TFJtTDNDVFB2RUx4VUR1c2IxQzZLYXhPYU5IWmJvVzdQWXRLMHBscWVrQQ?oc=5",
-                "date": "2026-07-03T07:00:00.000Z"
-            },
-            "whatsNew": "The Supreme Court's recent non-ruling has significant implications for AI-generated art and copyright laws. This change may affect how AI art is created, used, and protected. The non-ruling leaves room for interpretation and potential legal challenges.",
-            "whyItMatters": "The Supreme Court's decision impacts the future of AI art, influencing how artists, creators, and companies approach copyright and ownership. This change can have far-reaching consequences for the art and technology industries.",
-            "howToUse": "Artists and creators should stay informed about the evolving copyright laws and consider seeking legal counsel to protect their AI-generated work. Companies should review their AI art policies and ensure compliance with changing regulations.",
-            "beneficiaries": [
-                "Artists",
-                "Creators",
-                "Lawyers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-f7y20d5gh",
             "title": "Dieselpunk Art",
             "subtitle": "Dieselpunk propaganda art style explored with Anima",
@@ -1030,38 +1000,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-qs1kgxisc",
-            "title": "Anima Detail Tweaker",
-            "subtitle": "Civitai releases Anima Detail Tweaker, a tool for enhancing details in AI-generated images",
-            "category": "AI",
-            "tags": [
-                "Anima",
-                "LoRA",
-                "Civitai",
-                "AI Art"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QVXN5clB4UmhkeTFOU2lRMXlORFBDakV2UFl1SEd5bDdjdXBvMC02eDl2R0ZFS1E1VkpCMHg3TWRQNnY3YzJ6djhhMUE4WjNtN1ZHc2FPMTVRTWw2T0YtQjFQSjA4dw?oc=5",
-                "date": "2026-07-03T07:00:00.000Z"
-            },
-            "whatsNew": "The Anima Detail Tweaker is a new tool from Civitai that allows for finer control over details in AI-generated images. This tool utilizes the LoRA technique to enhance image quality. The release of such tools indicates growing interest in refining AI art generation capabilities.",
-            "whyItMatters": "This tool matters because it contributes to the advancement of AI art generation, allowing for more detailed and realistic images. It can be particularly useful for artists and designers looking to leverage AI in their work.",
-            "howToUse": "Artists can use the Anima Detail Tweaker by integrating it into their workflow to enhance the details of AI-generated images, potentially saving time and improving the quality of their work.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1932,38 +1870,6 @@
             "isNew": false
         },
         {
-            "id": "t-3px3167t6",
-            "title": "AI Video Generators",
-            "subtitle": "OpenArt compares the top 15 AI video generators of 2026",
-            "category": "AI",
-            "tags": [
-                "AI video tools",
-                "Video generation",
-                "AI comparison"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43YUctMkx5ekcwcnZLZ0JFMFpOVTZIRHpMeDZETGJLa1JqeXlCaU4tRWJZM09keDZjZFByVGxpOHYyRENuYXowMk5WdF9IZ2VnQk1oVDhxak5ZY0VvMVE?oc=5",
-                "date": "2026-07-03T07:00:00.000Z"
-            },
-            "whatsNew": "OpenArt has tested and compared the top 15 AI video generators of 2026, providing insights into their capabilities and performance. The comparison highlights the latest advancements in AI video generation technology. The top generators are ranked based on their features and user experience.",
-            "whyItMatters": "The comparison helps content creators and businesses choose the best AI video generator for their needs, enabling them to produce high-quality video content efficiently. This can significantly impact the video production industry, making it more accessible and affordable.",
-            "howToUse": "Content creators can use the comparison to select the most suitable AI video generator for their projects, considering factors such as video quality, customization options, and user interface. They can also explore the latest features and advancements in AI video generation technology.",
-            "beneficiaries": [
-                "Content creators",
-                "Video producers",
-                "Marketers"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
-        },
-        {
             "id": "t-dv3qx2qkx",
             "title": "UK Tote Losses",
             "subtitle": "UK Tote Group reports widening losses but expects EBITDA growth in 2026",
@@ -2212,7 +2118,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-17T05:39:07.011Z",
+            "lastScan": "2026-07-17T08:04:02.889Z",
             "note": null
         },
         {
@@ -37495,6 +37401,100 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-iwrmgo4pw",
+            "title": "AI Art Copyright",
+            "subtitle": "Supreme Court's non-ruling impacts AI art and copyright laws",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Copyright Law",
+                "Supreme Court"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wN0QxZEdab281X19pTDNnMm1tN2lHY2VjRS1wVzFNN2tLOGF4RmZBNE90X0N6LW1KLW1hUWYxMk80T0hKTlR6TFJtTDNDVFB2RUx4VUR1c2IxQzZLYXhPYU5IWmJvVzdQWXRLMHBscWVrQQ?oc=5",
+                "date": "2026-07-03T07:00:00.000Z"
+            },
+            "whatsNew": "The Supreme Court's recent non-ruling has significant implications for AI-generated art and copyright laws. This change may affect how AI art is created, used, and protected. The non-ruling leaves room for interpretation and potential legal challenges.",
+            "whyItMatters": "The Supreme Court's decision impacts the future of AI art, influencing how artists, creators, and companies approach copyright and ownership. This change can have far-reaching consequences for the art and technology industries.",
+            "howToUse": "Artists and creators should stay informed about the evolving copyright laws and consider seeking legal counsel to protect their AI-generated work. Companies should review their AI art policies and ensure compliance with changing regulations.",
+            "beneficiaries": [
+                "Artists",
+                "Creators",
+                "Lawyers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-qs1kgxisc",
+            "title": "Anima Detail Tweaker",
+            "subtitle": "Civitai releases Anima Detail Tweaker, a tool for enhancing details in AI-generated images",
+            "category": "AI",
+            "tags": [
+                "Anima",
+                "LoRA",
+                "Civitai",
+                "AI Art"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QVXN5clB4UmhkeTFOU2lRMXlORFBDakV2UFl1SEd5bDdjdXBvMC02eDl2R0ZFS1E1VkpCMHg3TWRQNnY3YzJ6djhhMUE4WjNtN1ZHc2FPMTVRTWw2T0YtQjFQSjA4dw?oc=5",
+                "date": "2026-07-03T07:00:00.000Z"
+            },
+            "whatsNew": "The Anima Detail Tweaker is a new tool from Civitai that allows for finer control over details in AI-generated images. This tool utilizes the LoRA technique to enhance image quality. The release of such tools indicates growing interest in refining AI art generation capabilities.",
+            "whyItMatters": "This tool matters because it contributes to the advancement of AI art generation, allowing for more detailed and realistic images. It can be particularly useful for artists and designers looking to leverage AI in their work.",
+            "howToUse": "Artists can use the Anima Detail Tweaker by integrating it into their workflow to enhance the details of AI-generated images, potentially saving time and improving the quality of their work.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-3px3167t6",
+            "title": "AI Video Generators",
+            "subtitle": "OpenArt compares the top 15 AI video generators of 2026",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "AI comparison"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43YUctMkx5ekcwcnZLZ0JFMFpOVTZIRHpMeDZETGJLa1JqeXlCaU4tRWJZM09keDZjZFByVGxpOHYyRENuYXowMk5WdF9IZ2VnQk1oVDhxak5ZY0VvMVE?oc=5",
+                "date": "2026-07-03T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt has tested and compared the top 15 AI video generators of 2026, providing insights into their capabilities and performance. The comparison highlights the latest advancements in AI video generation technology. The top generators are ranked based on their features and user experience.",
+            "whyItMatters": "The comparison helps content creators and businesses choose the best AI video generator for their needs, enabling them to produce high-quality video content efficiently. This can significantly impact the video production industry, making it more accessible and affordable.",
+            "howToUse": "Content creators can use the comparison to select the most suitable AI video generator for their projects, considering factors such as video quality, customization options, and user interface. They can also explore the latest features and advancements in AI video generation technology.",
+            "beneficiaries": [
+                "Content creators",
+                "Video producers",
+                "Marketers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
