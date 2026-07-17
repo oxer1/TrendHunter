@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-16T23:05:30.371Z",
+        "scanDate": "2026-07-17T02:22:57.321Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 66,
         "categories": [
             "iGaming",
             "AI",
@@ -2056,70 +2056,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-qiyxytiir",
-            "title": "Unity Games",
-            "subtitle": "June 2026 saw numerous game releases made with Unity, including 33 Immortals and Zenless Zone Zero.",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Game Development",
-                "June 2026"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
-                "date": "2026-07-03T00:00:00.000Z"
-            },
-            "whatsNew": "Several games were released in June 2026 using Unity, such as 33 Immortals and Zenless Zone Zero, showcasing the engine's versatility. The Unity community also participated in events like Day of the Devs at Summer Games Fest and Wholesome Direct. The Made with Unity Steam Curator page was updated with new releases.",
-            "whyItMatters": "The numerous releases demonstrate Unity's continued popularity among game developers, and the community's active participation in events highlights the engine's importance in the gaming industry. This trend is likely to continue, with more games and projects being developed using Unity.",
-            "howToUse": "Developers can leverage Unity's features and community support to create their own games and projects, and stay updated with the latest releases and trends by following Unity's social media channels and Steam Curator page.",
-            "beneficiaries": [
-                "Game Developers",
-                "Unity Community"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "studio-releases",
-            "isNew": false
-        },
-        {
-            "id": "t-2lmjkse0v",
-            "title": "Krea 2 Workflow",
-            "subtitle": "A simple generation workflow for high-quality realism with tips and information on Civitai",
-            "category": "AI",
-            "tags": [
-                "Krea 2",
-                "Gen Workflow",
-                "Realism",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmJOVll1dkNzcFREeHRmTXEzQ2xEdUNIUC1MQTByMkFXWDIwQWhFWVVabW90SWxJZ3E4c014bnZOY0FQTTBxRmhJTG9pRE1oRXNRT2FXNDRkVWNtRGE4d2ZjRUNicE5HM1ZRMjhtczI0cHR0a0lhclRqNXk5cnhZMnl0dWFGclljaFhLTDlEMmZWcV90Vi1LSzQzNHkxMHhvWlZKSVNDNS1DQUhr?oc=5",
-                "date": "2026-07-02T23:30:53.000Z"
-            },
-            "whatsNew": "Krea 2 introduces a simplified workflow for achieving high-quality realism in generated content, offering a wealth of information and tips for users. This workflow is designed to make high-end generation more accessible. Civitai hosts this workflow, providing a platform for users to explore and apply these techniques.",
-            "whyItMatters": "The Krea 2 workflow matters because it democratizes access to high-quality generation capabilities, potentially lowering the barrier for creators to produce realistic content. This could significantly impact the visual design and AI art generation landscapes.",
-            "howToUse": "To utilize Krea 2, users can follow the provided workflow on Civitai, which includes detailed tips and information to guide them through the process of generating high-quality, realistic content.",
-            "beneficiaries": [
-                "Content Creators",
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2276,7 +2212,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T23:05:30.371Z",
+            "lastScan": "2026-07-17T02:22:57.321Z",
             "note": null
         },
         {
@@ -37495,6 +37431,70 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qiyxytiir",
+            "title": "Unity Games",
+            "subtitle": "June 2026 saw numerous game releases made with Unity, including 33 Immortals and Zenless Zone Zero.",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "June 2026"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
+                "date": "2026-07-03T00:00:00.000Z"
+            },
+            "whatsNew": "Several games were released in June 2026 using Unity, such as 33 Immortals and Zenless Zone Zero, showcasing the engine's versatility. The Unity community also participated in events like Day of the Devs at Summer Games Fest and Wholesome Direct. The Made with Unity Steam Curator page was updated with new releases.",
+            "whyItMatters": "The numerous releases demonstrate Unity's continued popularity among game developers, and the community's active participation in events highlights the engine's importance in the gaming industry. This trend is likely to continue, with more games and projects being developed using Unity.",
+            "howToUse": "Developers can leverage Unity's features and community support to create their own games and projects, and stay updated with the latest releases and trends by following Unity's social media channels and Steam Curator page.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Community"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-2lmjkse0v",
+            "title": "Krea 2 Workflow",
+            "subtitle": "A simple generation workflow for high-quality realism with tips and information on Civitai",
+            "category": "AI",
+            "tags": [
+                "Krea 2",
+                "Gen Workflow",
+                "Realism",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmJOVll1dkNzcFREeHRmTXEzQ2xEdUNIUC1MQTByMkFXWDIwQWhFWVVabW90SWxJZ3E4c014bnZOY0FQTTBxRmhJTG9pRE1oRXNRT2FXNDRkVWNtRGE4d2ZjRUNicE5HM1ZRMjhtczI0cHR0a0lhclRqNXk5cnhZMnl0dWFGclljaFhLTDlEMmZWcV90Vi1LSzQzNHkxMHhvWlZKSVNDNS1DQUhr?oc=5",
+                "date": "2026-07-02T23:30:53.000Z"
+            },
+            "whatsNew": "Krea 2 introduces a simplified workflow for achieving high-quality realism in generated content, offering a wealth of information and tips for users. This workflow is designed to make high-end generation more accessible. Civitai hosts this workflow, providing a platform for users to explore and apply these techniques.",
+            "whyItMatters": "The Krea 2 workflow matters because it democratizes access to high-quality generation capabilities, potentially lowering the barrier for creators to produce realistic content. This could significantly impact the visual design and AI art generation landscapes.",
+            "howToUse": "To utilize Krea 2, users can follow the provided workflow on Civitai, which includes detailed tips and information to guide them through the process of generating high-quality, realistic content.",
+            "beneficiaries": [
+                "Content Creators",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
