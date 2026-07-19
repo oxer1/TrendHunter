@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-19T05:48:23.155Z",
+        "scanDate": "2026-07-19T08:10:58.272Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -1185,38 +1185,6 @@
             "isNew": false
         },
         {
-            "id": "t-txnyv70lv",
-            "title": "Krea2 Update",
-            "subtitle": "Krea2 Turbo+NSFW patches+upscale released as v1.9 on Civitai",
-            "category": "AI",
-            "tags": [
-                "Krea2",
-                "AI Art",
-                "NSFW Patches",
-                "Upscale"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OM0V6UWtKNW9ZY3RwSWtYVDR1S0RDeWVVamJaTkFqeW5zRmRDOUpnbGZhSGRaQ2lCdWhZQllNVHNzOVZ2N3o2YWphS2NqREpUZThucl9KUVh1TmlDNk5EZktVaHdpSjJjUzZqdDhEdGZXQmM?oc=5",
-                "date": "2026-07-05T07:00:00.000Z"
-            },
-            "whatsNew": "The latest version of Krea2, v1.9, includes Turbo+NSFW patches and upscale features. This update is available on Civitai, a platform known for AI models and workflows.",
-            "whyItMatters": "This update is significant for AI art generation, offering improved capabilities and features for users. It reflects the ongoing development and refinement of AI tools for creative work.",
-            "howToUse": "Users can access the updated Krea2 version on Civitai and explore its new features for enhanced AI art generation and manipulation.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-gqj22orvm",
             "title": "Sportsbook Casino Convergence",
             "subtitle": "The lines between sportsbook and casino products continue to blur, driven by technological advancements and changing consumer preferences.",
@@ -1993,7 +1961,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-19T05:48:23.155Z",
+            "lastScan": "2026-07-19T08:10:58.272Z",
             "note": null
         },
         {
@@ -37495,6 +37463,38 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-txnyv70lv",
+            "title": "Krea2 Update",
+            "subtitle": "Krea2 Turbo+NSFW patches+upscale released as v1.9 on Civitai",
+            "category": "AI",
+            "tags": [
+                "Krea2",
+                "AI Art",
+                "NSFW Patches",
+                "Upscale"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OM0V6UWtKNW9ZY3RwSWtYVDR1S0RDeWVVamJaTkFqeW5zRmRDOUpnbGZhSGRaQ2lCdWhZQllNVHNzOVZ2N3o2YWphS2NqREpUZThucl9KUVh1TmlDNk5EZktVaHdpSjJjUzZqdDhEdGZXQmM?oc=5",
+                "date": "2026-07-05T07:00:00.000Z"
+            },
+            "whatsNew": "The latest version of Krea2, v1.9, includes Turbo+NSFW patches and upscale features. This update is available on Civitai, a platform known for AI models and workflows.",
+            "whyItMatters": "This update is significant for AI art generation, offering improved capabilities and features for users. It reflects the ongoing development and refinement of AI tools for creative work.",
+            "howToUse": "Users can access the updated Krea2 version on Civitai and explore its new features for enhanced AI art generation and manipulation.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
