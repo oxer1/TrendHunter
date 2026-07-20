@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-20T19:47:27.056Z",
+        "scanDate": "2026-07-20T21:08:42.072Z",
         "version": "2.5.0",
-        "totalTrends": 52,
+        "totalTrends": 51,
         "categories": [
             "iGaming",
             "AI",
@@ -1586,38 +1586,6 @@
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
             "isNew": false
-        },
-        {
-            "id": "t-x2etlvtrh",
-            "title": "Comfy Cloud Launch",
-            "subtitle": "Civitai introduces Comfy Cloud, allowing full ComfyUI access in browsers without GPU requirements",
-            "category": "AI",
-            "tags": [
-                "ComfyUI",
-                "Cloud Computing",
-                "GPU-Free"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmpzM1NhVmMzdlA4bzlHSS1FSW9IR3ZDY012RDlrNFBZS0JIYWF2azFCQkdpT2dVZmxtdjRjdjhZZG9hU1JhZlBKbXpVd09ZUDBNUUY2WkREUjk0SDc2dEdhYmVGRGxYS2dNd0w5eG50WWlBUzY5M1NlbVYyUkNSTDJRRUd6V19qNFo2V251SDVKZm5yX1E?oc=5",
-                "date": "2026-07-06T20:58:29.000Z"
-            },
-            "whatsNew": "Comfy Cloud enables users to access ComfyUI directly in their browsers, eliminating the need for a dedicated GPU. This innovation expands accessibility and usability for a broader range of users. It simplifies the process of utilizing ComfyUI's features for creative and development tasks.",
-            "whyItMatters": "The launch of Comfy Cloud matters because it democratizes access to powerful UI tools, making it possible for more individuals and smaller organizations to leverage advanced technologies without significant hardware investments. This can lead to increased creativity and productivity across various sectors.",
-            "howToUse": "To utilize Comfy Cloud, users simply need to access the Civitai platform through their web browser, where they can engage with the full suite of ComfyUI tools and features without any additional hardware requirements.",
-            "beneficiaries": [
-                "Developers",
-                "Designers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-in-igaming",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1774,7 +1742,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-20T19:47:27.056Z",
+            "lastScan": "2026-07-20T21:08:42.072Z",
             "note": null
         },
         {
@@ -37495,6 +37463,38 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-x2etlvtrh",
+            "title": "Comfy Cloud Launch",
+            "subtitle": "Civitai introduces Comfy Cloud, allowing full ComfyUI access in browsers without GPU requirements",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Cloud Computing",
+                "GPU-Free"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmpzM1NhVmMzdlA4bzlHSS1FSW9IR3ZDY012RDlrNFBZS0JIYWF2azFCQkdpT2dVZmxtdjRjdjhZZG9hU1JhZlBKbXpVd09ZUDBNUUY2WkREUjk0SDc2dEdhYmVGRGxYS2dNd0w5eG50WWlBUzY5M1NlbVYyUkNSTDJRRUd6V19qNFo2V251SDVKZm5yX1E?oc=5",
+                "date": "2026-07-06T20:58:29.000Z"
+            },
+            "whatsNew": "Comfy Cloud enables users to access ComfyUI directly in their browsers, eliminating the need for a dedicated GPU. This innovation expands accessibility and usability for a broader range of users. It simplifies the process of utilizing ComfyUI's features for creative and development tasks.",
+            "whyItMatters": "The launch of Comfy Cloud matters because it democratizes access to powerful UI tools, making it possible for more individuals and smaller organizations to leverage advanced technologies without significant hardware investments. This can lead to increased creativity and productivity across various sectors.",
+            "howToUse": "To utilize Comfy Cloud, users simply need to access the Civitai platform through their web browser, where they can engage with the full suite of ComfyUI tools and features without any additional hardware requirements.",
+            "beneficiaries": [
+                "Developers",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
             "isNew": false
         }
     ]
