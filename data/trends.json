@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-21T05:47:15.653Z",
+        "scanDate": "2026-07-21T08:22:23.334Z",
         "version": "2.5.0",
-        "totalTrends": 50,
+        "totalTrends": 48,
         "categories": [
             "iGaming",
             "AI",
@@ -1275,37 +1275,6 @@
             "isNew": false
         },
         {
-            "id": "t-p3vofzxxq",
-            "title": "ComfyUI Update",
-            "subtitle": "Civitai releases ComfyUI Image Workflows - V37, enhancing image processing capabilities",
-            "category": "AI",
-            "tags": [
-                "ComfyUI",
-                "Image Workflows",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
-                "date": "2026-07-07T07:00:00.000Z"
-            },
-            "whatsNew": "ComfyUI Image Workflows - V37 introduces improved image processing features, enhancing user experience and efficiency. This update focuses on streamlining workflows for better productivity. Civitai's continuous updates to ComfyUI demonstrate its commitment to AI-powered image generation and editing.",
-            "whyItMatters": "The update matters as it reflects the growing importance of efficient image workflows in AI-driven creative processes, impacting both professionals and hobbyists. Improved workflows can significantly enhance the quality and speed of image generation and editing tasks.",
-            "howToUse": "To leverage ComfyUI Image Workflows - V37, users should explore the updated features and tutorials provided by Civitai, focusing on how the new version can integrate into their existing workflows and projects.",
-            "beneficiaries": [
-                "Graphic Designers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-uh8jyp1t2",
             "title": "Backface Culling",
             "subtitle": "Using backface culling in Unity and Godot with Spine 2D",
@@ -1463,35 +1432,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-5xkt4zn7i",
-            "title": "Gambling War",
-            "subtitle": "The gambling sector is fighting the wrong war according to Patrick Jay",
-            "category": "iGaming",
-            "tags": [
-                "Gambling",
-                "Regulation",
-                "Industry Trends"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3Jya004T0lMbG5ncWdmQmR3QjZoQ2oyclZPRzdXRGRnYmJVc1JWaUExVm8xYW5pRzFWdHh1NEl3cXNveWRyNDRCcWk3enByWDhnQzhfV1hZMUpxZm1DangtWmQzdFhuT3cxd052cmZLSC1oRGtxeFBsVzB4X1ZJVTNudmo2M0pxVHVQeFZ1S1BJSTJ1MEFSY3V3Yw?oc=5",
-                "date": "2026-07-07T08:08:04.000Z"
-            },
-            "whatsNew": "Patrick Jay discusses the current state of the gambling sector, suggesting it's focusing on the wrong issues. The sector is experiencing significant changes due to regulatory updates and shifting consumer behaviors.",
-            "whyItMatters": "Understanding the challenges faced by the gambling sector is crucial for its future development and sustainability. The sector's ability to adapt to changing regulations and consumer preferences will determine its success.",
-            "howToUse": "Industry stakeholders should reassess their priorities and focus on addressing the actual challenges impacting the sector's growth and reputation.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1711,7 +1651,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-21T05:47:15.653Z",
+            "lastScan": "2026-07-21T08:22:23.334Z",
             "note": null
         },
         {
@@ -37495,6 +37435,66 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-p3vofzxxq",
+            "title": "ComfyUI Update",
+            "subtitle": "Civitai releases ComfyUI Image Workflows - V37, enhancing image processing capabilities",
+            "category": "AI",
+            "tags": [
+                "ComfyUI",
+                "Image Workflows",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xWkpRS2pKMUxMQzdlS1drVFFRQ2hKcnRXUEx4TWFmVlBqTGtCQWg4VW5pa0poWjhGZzBCc1pZNDl4eWhBRllEVUdDRW1qMVQzcXlXZ0ZNRVR2SEg5b3JYb183R2lDQVZkQ3c?oc=5",
+                "date": "2026-07-07T07:00:00.000Z"
+            },
+            "whatsNew": "ComfyUI Image Workflows - V37 introduces improved image processing features, enhancing user experience and efficiency. This update focuses on streamlining workflows for better productivity. Civitai's continuous updates to ComfyUI demonstrate its commitment to AI-powered image generation and editing.",
+            "whyItMatters": "The update matters as it reflects the growing importance of efficient image workflows in AI-driven creative processes, impacting both professionals and hobbyists. Improved workflows can significantly enhance the quality and speed of image generation and editing tasks.",
+            "howToUse": "To leverage ComfyUI Image Workflows - V37, users should explore the updated features and tutorials provided by Civitai, focusing on how the new version can integrate into their existing workflows and projects.",
+            "beneficiaries": [
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-5xkt4zn7i",
+            "title": "Gambling War",
+            "subtitle": "The gambling sector is fighting the wrong war according to Patrick Jay",
+            "category": "iGaming",
+            "tags": [
+                "Gambling",
+                "Regulation",
+                "Industry Trends"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3Jya004T0lMbG5ncWdmQmR3QjZoQ2oyclZPRzdXRGRnYmJVc1JWaUExVm8xYW5pRzFWdHh1NEl3cXNveWRyNDRCcWk3enByWDhnQzhfV1hZMUpxZm1DangtWmQzdFhuT3cxd052cmZLSC1oRGtxeFBsVzB4X1ZJVTNudmo2M0pxVHVQeFZ1S1BJSTJ1MEFSY3V3Yw?oc=5",
+                "date": "2026-07-07T08:08:04.000Z"
+            },
+            "whatsNew": "Patrick Jay discusses the current state of the gambling sector, suggesting it's focusing on the wrong issues. The sector is experiencing significant changes due to regulatory updates and shifting consumer behaviors.",
+            "whyItMatters": "Understanding the challenges faced by the gambling sector is crucial for its future development and sustainability. The sector's ability to adapt to changing regulations and consumer preferences will determine its success.",
+            "howToUse": "Industry stakeholders should reassess their priorities and focus on addressing the actual challenges impacting the sector's growth and reputation.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
