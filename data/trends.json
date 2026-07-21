@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-21T11:05:19.303Z",
+        "scanDate": "2026-07-21T13:40:44.324Z",
         "version": "2.5.0",
-        "totalTrends": 46,
+        "totalTrends": 44,
         "categories": [
             "iGaming",
             "AI",
@@ -1155,35 +1155,6 @@
             "isNew": false
         },
         {
-            "id": "t-utu93edht",
-            "title": "Gambling Risk Update",
-            "subtitle": "UK Gambling Commission updates financial risk assessments for July 2026",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Financial Risk",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcy11RlROUFNFYWN1TmhQb25HeDFaeE1iUUNsdkFPQXc5TEFUbWxoM01pQ3dlR3BXR0gyNDNLRVJfc1ZhOFdUbTcwRWRIbG1teTVVQ2Z4T2NtbnlkV0ltbU56R19xTG9XN0RaaTRtREkwQ3YydHpGNXhVR3F0UWZScWhOVzlEdnB5QkJ3d0o3TzJEU2xxLXc?oc=5",
-                "date": "2026-07-07T11:33:22.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has updated its financial risk assessments for July 2026, aiming to enhance regulatory oversight in the gambling industry. This update reflects the commission's ongoing efforts to manage and mitigate financial risks associated with gambling. The new assessments are designed to provide clearer guidelines for operators.",
-            "whyItMatters": "This update is crucial for gambling operators as it may impact their licensing and compliance requirements. It also reflects the commission's commitment to protecting consumers and maintaining the integrity of the gambling industry.",
-            "howToUse": "Operators should review the updated financial risk assessments and ensure their practices align with the new guidelines to avoid potential compliance issues.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-cg64qvjk2",
             "title": "Avatar Appearance",
             "subtitle": "HeyGen Community shares tips on perfecting avatar looks for videos",
@@ -1368,37 +1339,6 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-dvn1f5brc",
-            "title": "Spine 4.3 Examples",
-            "subtitle": "Request for more example projects for Spine 2D version 4.3",
-            "category": "Tech",
-            "tags": [
-                "Spine 2D",
-                "Game Development",
-                "Animation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhScFc2aGdiTldtSmoxYTZJS1l0S05SU3VNNklXVXVweWJwMHJRT05CWGlZYTlOaWtTclZJem9Td3ViTk44Sk5URllDRkxLNFpBQzFyUlBhRnl1X3RaYnkyYXBTZS1fcHJUSVpqU1NPLXdBTGRZU053LVBNdzZyRVdJc19RM0llc29YXzU4TDM?oc=5",
-                "date": "2026-07-07T11:39:02.000Z"
-            },
-            "whatsNew": "Users are seeking additional example projects for Spine 4.3 to enhance their learning and implementation experience. The current lack of examples may hinder the adoption and mastery of the tool. More projects could showcase the capabilities and best practices of Spine 2D.",
-            "whyItMatters": "Having more example projects can significantly improve the onboarding process for new users and help experienced developers explore advanced features of Spine 2D. This can lead to more efficient game development and higher quality animations.",
-            "howToUse": "Developers can utilize these example projects to learn specific techniques, understand how to integrate Spine 2D into their game development workflow, and explore the full potential of the software.",
-            "beneficiaries": [
-                "Game Developers",
-                "Animators"
-            ],
-            "companies": [
-                "Esoteric Software"
-            ],
-            "visualStyle": null,
-            "cluster": "animation-pipeline",
             "isNew": false
         },
         {
@@ -1589,7 +1529,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-21T11:05:19.303Z",
+            "lastScan": "2026-07-21T13:40:44.324Z",
             "note": null
         },
         {
@@ -37495,6 +37435,66 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-utu93edht",
+            "title": "Gambling Risk Update",
+            "subtitle": "UK Gambling Commission updates financial risk assessments for July 2026",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcy11RlROUFNFYWN1TmhQb25HeDFaeE1iUUNsdkFPQXc5TEFUbWxoM01pQ3dlR3BXR0gyNDNLRVJfc1ZhOFdUbTcwRWRIbG1teTVVQ2Z4T2NtbnlkV0ltbU56R19xTG9XN0RaaTRtREkwQ3YydHpGNXhVR3F0UWZScWhOVzlEdnB5QkJ3d0o3TzJEU2xxLXc?oc=5",
+                "date": "2026-07-07T11:33:22.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated its financial risk assessments for July 2026, aiming to enhance regulatory oversight in the gambling industry. This update reflects the commission's ongoing efforts to manage and mitigate financial risks associated with gambling. The new assessments are designed to provide clearer guidelines for operators.",
+            "whyItMatters": "This update is crucial for gambling operators as it may impact their licensing and compliance requirements. It also reflects the commission's commitment to protecting consumers and maintaining the integrity of the gambling industry.",
+            "howToUse": "Operators should review the updated financial risk assessments and ensure their practices align with the new guidelines to avoid potential compliance issues.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-dvn1f5brc",
+            "title": "Spine 4.3 Examples",
+            "subtitle": "Request for more example projects for Spine 2D version 4.3",
+            "category": "Tech",
+            "tags": [
+                "Spine 2D",
+                "Game Development",
+                "Animation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhScFc2aGdiTldtSmoxYTZJS1l0S05SU3VNNklXVXVweWJwMHJRT05CWGlZYTlOaWtTclZJem9Td3ViTk44Sk5URllDRkxLNFpBQzFyUlBhRnl1X3RaYnkyYXBTZS1fcHJUSVpqU1NPLXdBTGRZU053LVBNdzZyRVdJc19RM0llc29YXzU4TDM?oc=5",
+                "date": "2026-07-07T11:39:02.000Z"
+            },
+            "whatsNew": "Users are seeking additional example projects for Spine 4.3 to enhance their learning and implementation experience. The current lack of examples may hinder the adoption and mastery of the tool. More projects could showcase the capabilities and best practices of Spine 2D.",
+            "whyItMatters": "Having more example projects can significantly improve the onboarding process for new users and help experienced developers explore advanced features of Spine 2D. This can lead to more efficient game development and higher quality animations.",
+            "howToUse": "Developers can utilize these example projects to learn specific techniques, understand how to integrate Spine 2D into their game development workflow, and explore the full potential of the software.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators"
+            ],
+            "companies": [
+                "Esoteric Software"
+            ],
+            "visualStyle": null,
+            "cluster": "animation-pipeline",
             "isNew": false
         }
     ]
