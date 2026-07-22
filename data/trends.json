@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-22T11:05:59.887Z",
+        "scanDate": "2026-07-22T13:43:47.447Z",
         "version": "2.5.0",
-        "totalTrends": 39,
+        "totalTrends": 38,
         "categories": [
             "iGaming",
             "AI",
@@ -970,35 +970,6 @@
             "isNew": false
         },
         {
-            "id": "t-n7pybyu21",
-            "title": "Regulation Update",
-            "subtitle": "Recent regulatory changes in Ohio, North Carolina, New Jersey, and more in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "iGaming",
-                "Licensing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFBBY0FVR0dIb2FWVzVfYV9NQVJoOWlnc2tabmlSUnNENW5rTXZSeENzUUZ4OXVvVlU3Wlh3bGtvS0MzQnFFbmRtSEZBOENBZzFndjVHeXMwY1NlWllkTzRkenE0TDE4QnUyQXltSS1XazVlaUY2NjIwZktwbkd1MlRUOTJLUURyLVpsajBuUzFhVlVtYV9TaTlfbndZc3BNSWc?oc=5",
-                "date": "2026-07-08T11:16:26.000Z"
-            },
-            "whatsNew": "Recent updates in Ohio, North Carolina, and New Jersey are shaping the iGaming landscape. These changes impact licensing and operation of online gaming platforms.",
-            "whyItMatters": "The regulatory updates have significant implications for iGaming operators, affecting their ability to enter or expand in these markets. Compliance with new regulations is crucial for operators.",
-            "howToUse": "Operators should closely monitor regulatory changes and adjust their strategies to ensure compliance and capitalize on new opportunities.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-xcal9htew",
             "title": "AI Photo Prompts",
             "subtitle": "OpenArt shares best Nano Banana prompts for viral AI photos",
@@ -1373,7 +1344,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-22T11:05:59.887Z",
+            "lastScan": "2026-07-22T13:43:47.447Z",
             "note": null
         },
         {
@@ -37495,6 +37466,35 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-n7pybyu21",
+            "title": "Regulation Update",
+            "subtitle": "Recent regulatory changes in Ohio, North Carolina, New Jersey, and more in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "iGaming",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFBBY0FVR0dIb2FWVzVfYV9NQVJoOWlnc2tabmlSUnNENW5rTXZSeENzUUZ4OXVvVlU3Wlh3bGtvS0MzQnFFbmRtSEZBOENBZzFndjVHeXMwY1NlWllkTzRkenE0TDE4QnUyQXltSS1XazVlaUY2NjIwZktwbkd1MlRUOTJLUURyLVpsajBuUzFhVlVtYV9TaTlfbndZc3BNSWc?oc=5",
+                "date": "2026-07-08T11:16:26.000Z"
+            },
+            "whatsNew": "Recent updates in Ohio, North Carolina, and New Jersey are shaping the iGaming landscape. These changes impact licensing and operation of online gaming platforms.",
+            "whyItMatters": "The regulatory updates have significant implications for iGaming operators, affecting their ability to enter or expand in these markets. Compliance with new regulations is crucial for operators.",
+            "howToUse": "Operators should closely monitor regulatory changes and adjust their strategies to ensure compliance and capitalize on new opportunities.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
