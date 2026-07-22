@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-21T23:53:34.038Z",
+        "scanDate": "2026-07-22T02:21:53.365Z",
         "version": "2.5.0",
-        "totalTrends": 43,
+        "totalTrends": 42,
         "categories": [
             "iGaming",
             "AI",
@@ -848,39 +848,6 @@
             "isNew": false
         },
         {
-            "id": "t-rel0spox5",
-            "title": "AI Art Release",
-            "subtitle": "Serena by IkariRH, an AI-generated art piece using Anima V1, is featured on PromptHero",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Anima V1",
-                "PromptHero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnFTaUJXbXY2YTE4MUJSczcySTA4OTE5Zm1WZ19RZWRObDVNcTA3M2pKOVRqQm1pWGFrZExMSFN6QXpoZHd3NzJScHlJZXgteDc3M3A4NmR2Q2RHWEZuRjBiT3BMNnQyS0VnalVSeE9xM09RZFN3Ukg5QVM3SEFHamNkZG9KUmY1Yi12QzBmRnQ4QnowbFNQVg?oc=5",
-                "date": "2026-07-08T02:13:21.000Z"
-            },
-            "whatsNew": "The release of Serena by IkariRH showcases the capabilities of Anima V1 in generating high-quality AI art. This piece demonstrates the potential of AI in creative fields. The use of Anima V1 highlights the growing interest in AI art generation tools.",
-            "whyItMatters": "The development and showcase of AI-generated art like Serena impact the future of creative industries, offering new possibilities for artists and designers. This trend also raises questions about the role of human creators in an AI-driven art world.",
-            "howToUse": "Artists and designers can explore Anima V1 and similar tools to generate unique art pieces, and developers can consider integrating AI art generation into their projects.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Developers"
-            ],
-            "companies": [
-                "IkariRH",
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-2ng87wb1x",
             "title": "AI Art Models",
             "subtitle": "Gemlight Dream Midjourney Style Krea 2 Models are discussed on PromptHero",
@@ -1500,7 +1467,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-21T23:53:34.038Z",
+            "lastScan": "2026-07-22T02:21:53.365Z",
             "note": null
         },
         {
@@ -37495,6 +37462,39 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-rel0spox5",
+            "title": "AI Art Release",
+            "subtitle": "Serena by IkariRH, an AI-generated art piece using Anima V1, is featured on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Anima V1",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnFTaUJXbXY2YTE4MUJSczcySTA4OTE5Zm1WZ19RZWRObDVNcTA3M2pKOVRqQm1pWGFrZExMSFN6QXpoZHd3NzJScHlJZXgteDc3M3A4NmR2Q2RHWEZuRjBiT3BMNnQyS0VnalVSeE9xM09RZFN3Ukg5QVM3SEFHamNkZG9KUmY1Yi12QzBmRnQ4QnowbFNQVg?oc=5",
+                "date": "2026-07-08T02:13:21.000Z"
+            },
+            "whatsNew": "The release of Serena by IkariRH showcases the capabilities of Anima V1 in generating high-quality AI art. This piece demonstrates the potential of AI in creative fields. The use of Anima V1 highlights the growing interest in AI art generation tools.",
+            "whyItMatters": "The development and showcase of AI-generated art like Serena impact the future of creative industries, offering new possibilities for artists and designers. This trend also raises questions about the role of human creators in an AI-driven art world.",
+            "howToUse": "Artists and designers can explore Anima V1 and similar tools to generate unique art pieces, and developers can consider integrating AI art generation into their projects.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Developers"
+            ],
+            "companies": [
+                "IkariRH",
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
