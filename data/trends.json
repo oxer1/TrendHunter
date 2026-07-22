@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-22T02:21:53.365Z",
+        "scanDate": "2026-07-22T05:46:16.766Z",
         "version": "2.5.0",
-        "totalTrends": 42,
+        "totalTrends": 41,
         "categories": [
             "iGaming",
             "AI",
@@ -1184,38 +1184,6 @@
             "isNew": false
         },
         {
-            "id": "t-uh8jyp1t2",
-            "title": "Backface Culling",
-            "subtitle": "Using backface culling in Unity and Godot with Spine 2D",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "Godot",
-                "Spine 2D",
-                "Backface Culling"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "Esoteric (Spine)",
-                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck5GeGppNHNwMGtkRnZRVlk4VEFyNzlST0ZmQVVUNGIzNUdsb2d2WG82T2VFUExWRTY4Rkc3Ynh0NHFNWVQyQzgxQkhTZjAyd3ZObm90R2pNaWctOWxrZWdZN2lqbGZEbWdZSFBzeUstUWZ0QUlTR0V1R2Z3aHdTdVZIVFpmVUJtb0RfSHlMZDFYakdocnNvMGJKYUNIbk1MVzZ6eWFwdjU3REhUX2pGbnVod1Z3b1NSMWcyd2RZbXB2bXp2NEFVcW1Wai01dVNTaFE?oc=5",
-                "date": "2026-07-08T02:34:03.000Z"
-            },
-            "whatsNew": "The article discusses the implementation of backface culling in Unity and Godot using Spine 2D, a technique to improve rendering efficiency. It highlights the benefits of backface culling in 2D animation. The technique helps reduce unnecessary rendering, thus enhancing performance.",
-            "whyItMatters": "Backface culling is crucial for optimizing the performance of 2D games and animations, especially those with complex scenes. It helps developers achieve smoother gameplay and better visuals.",
-            "howToUse": "Developers can apply backface culling in their Unity or Godot projects by utilizing Spine 2D and following the techniques outlined in the article to improve their game's performance.",
-            "beneficiaries": [
-                "Game Developers",
-                "2D Animators"
-            ],
-            "companies": [
-                "Esoteric"
-            ],
-            "visualStyle": null,
-            "cluster": "pixi-slot-tech",
-            "isNew": false
-        },
-        {
             "id": "t-5g1ppwdmm",
             "title": "IGT Leads Slots",
             "subtitle": "IGT and Pragmatic Play are leading the pack in slot games according to Slots Tracker",
@@ -1467,7 +1435,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-22T02:21:53.365Z",
+            "lastScan": "2026-07-22T05:46:16.766Z",
             "note": null
         },
         {
@@ -37495,6 +37463,38 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-uh8jyp1t2",
+            "title": "Backface Culling",
+            "subtitle": "Using backface culling in Unity and Godot with Spine 2D",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Godot",
+                "Spine 2D",
+                "Backface Culling"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Esoteric (Spine)",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck5GeGppNHNwMGtkRnZRVlk4VEFyNzlST0ZmQVVUNGIzNUdsb2d2WG82T2VFUExWRTY4Rkc3Ynh0NHFNWVQyQzgxQkhTZjAyd3ZObm90R2pNaWctOWxrZWdZN2lqbGZEbWdZSFBzeUstUWZ0QUlTR0V1R2Z3aHdTdVZIVFpmVUJtb0RfSHlMZDFYakdocnNvMGJKYUNIbk1MVzZ6eWFwdjU3REhUX2pGbnVod1Z3b1NSMWcyd2RZbXB2bXp2NEFVcW1Wai01dVNTaFE?oc=5",
+                "date": "2026-07-08T02:34:03.000Z"
+            },
+            "whatsNew": "The article discusses the implementation of backface culling in Unity and Godot using Spine 2D, a technique to improve rendering efficiency. It highlights the benefits of backface culling in 2D animation. The technique helps reduce unnecessary rendering, thus enhancing performance.",
+            "whyItMatters": "Backface culling is crucial for optimizing the performance of 2D games and animations, especially those with complex scenes. It helps developers achieve smoother gameplay and better visuals.",
+            "howToUse": "Developers can apply backface culling in their Unity or Godot projects by utilizing Spine 2D and following the techniques outlined in the article to improve their game's performance.",
+            "beneficiaries": [
+                "Game Developers",
+                "2D Animators"
+            ],
+            "companies": [
+                "Esoteric"
+            ],
+            "visualStyle": null,
+            "cluster": "pixi-slot-tech",
             "isNew": false
         }
     ]
