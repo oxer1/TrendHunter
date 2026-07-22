@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-22T05:46:16.766Z",
+        "scanDate": "2026-07-22T08:22:54.219Z",
         "version": "2.5.0",
-        "totalTrends": 41,
+        "totalTrends": 39,
         "categories": [
             "iGaming",
             "AI",
@@ -202,35 +202,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-r560deb7b",
-            "title": "NJ Casino Update",
-            "subtitle": "New Jersey Casino Control Commission public meeting announcement",
-            "category": "iGaming",
-            "tags": [
-                "Casino Control Commission",
-                "New Jersey",
-                "Regulation"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05OGU3NEVMWF9DaV9RWFNWRloxdTI3ZnVlU1c4RWdRTDlYdWxZX1l4LTFwRThFdHlMa21RZGVkWjRDelZlY18tRi1hOUY2QnJKN2ZGcUw1MmxPa1JiUUFfYnZLc0d2LXliN2FBX1hqdEpTZGJjc3JLeTVRbzZTYzg?oc=5",
-                "date": "2026-07-08T07:00:00.000Z"
-            },
-            "whatsNew": "The New Jersey Casino Control Commission has announced a public meeting. The meeting may discuss recent developments in the state's casino industry, including potential regulation changes.",
-            "whyItMatters": "This meeting could impact the future of the iGaming industry in New Jersey, affecting both operators and players. Regulatory changes may influence the overall gaming landscape in the state.",
-            "howToUse": "Industry stakeholders should monitor the meeting's outcome for potential regulatory updates and adjust their strategies accordingly.",
-            "beneficiaries": [
-                "Casino Operators",
-                "Gamers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1246,39 +1217,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-im02mugnz",
-            "title": "RubyPlay Acquires Splash",
-            "subtitle": "RubyPlay acquires Splash Tech for strategic expansion in the iGaming industry",
-            "category": "iGaming",
-            "tags": [
-                "RubyPlay",
-                "Splash Tech",
-                "iGaming",
-                "Acquisition"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVVGcjBOQjlPcG1XdVFtbkhVdnc0aHJwQzVKU0xETEJnSDJXd3hwSmJuZlVkREpkVDhYMUlsZVl3S0ltQlRwdnROX1VhajUyanZJS3Jxd0tBVzFkNjhmc2xqYVM2QXo1SGFYVm9PMFZ1QUpycDVmcVMwamI3QlpXWUhZR2s5U1N6dWlUXzFyQnQwWjhPbU14TTNfNFJrUGNjeG5mUER3cW8?oc=5",
-                "date": "2026-07-08T07:01:12.000Z"
-            },
-            "whatsNew": "RubyPlay has acquired Splash Tech as part of its strategic expansion in the iGaming industry. This move is expected to enhance RubyPlay's offerings and presence in the market.",
-            "whyItMatters": "The acquisition is significant as it indicates a growing trend of consolidation in the iGaming industry, with companies seeking to expand their capabilities and market share.",
-            "howToUse": "Companies in the iGaming industry can consider strategic acquisitions to enhance their offerings and stay competitive.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Game developers"
-            ],
-            "companies": [
-                "RubyPlay",
-                "Splash Tech"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1435,7 +1373,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-22T05:46:16.766Z",
+            "lastScan": "2026-07-22T08:22:54.219Z",
             "note": null
         },
         {
@@ -37495,6 +37433,68 @@
             ],
             "visualStyle": null,
             "cluster": "pixi-slot-tech",
+            "isNew": false
+        },
+        {
+            "id": "t-r560deb7b",
+            "title": "NJ Casino Update",
+            "subtitle": "New Jersey Casino Control Commission public meeting announcement",
+            "category": "iGaming",
+            "tags": [
+                "Casino Control Commission",
+                "New Jersey",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05OGU3NEVMWF9DaV9RWFNWRloxdTI3ZnVlU1c4RWdRTDlYdWxZX1l4LTFwRThFdHlMa21RZGVkWjRDelZlY18tRi1hOUY2QnJKN2ZGcUw1MmxPa1JiUUFfYnZLc0d2LXliN2FBX1hqdEpTZGJjc3JLeTVRbzZTYzg?oc=5",
+                "date": "2026-07-08T07:00:00.000Z"
+            },
+            "whatsNew": "The New Jersey Casino Control Commission has announced a public meeting. The meeting may discuss recent developments in the state's casino industry, including potential regulation changes.",
+            "whyItMatters": "This meeting could impact the future of the iGaming industry in New Jersey, affecting both operators and players. Regulatory changes may influence the overall gaming landscape in the state.",
+            "howToUse": "Industry stakeholders should monitor the meeting's outcome for potential regulatory updates and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "Casino Operators",
+                "Gamers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-im02mugnz",
+            "title": "RubyPlay Acquires Splash",
+            "subtitle": "RubyPlay acquires Splash Tech for strategic expansion in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "RubyPlay",
+                "Splash Tech",
+                "iGaming",
+                "Acquisition"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVVGcjBOQjlPcG1XdVFtbkhVdnc0aHJwQzVKU0xETEJnSDJXd3hwSmJuZlVkREpkVDhYMUlsZVl3S0ltQlRwdnROX1VhajUyanZJS3Jxd0tBVzFkNjhmc2xqYVM2QXo1SGFYVm9PMFZ1QUpycDVmcVMwamI3QlpXWUhZR2s5U1N6dWlUXzFyQnQwWjhPbU14TTNfNFJrUGNjeG5mUER3cW8?oc=5",
+                "date": "2026-07-08T07:01:12.000Z"
+            },
+            "whatsNew": "RubyPlay has acquired Splash Tech as part of its strategic expansion in the iGaming industry. This move is expected to enhance RubyPlay's offerings and presence in the market.",
+            "whyItMatters": "The acquisition is significant as it indicates a growing trend of consolidation in the iGaming industry, with companies seeking to expand their capabilities and market share.",
+            "howToUse": "Companies in the iGaming industry can consider strategic acquisitions to enhance their offerings and stay competitive.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Game developers"
+            ],
+            "companies": [
+                "RubyPlay",
+                "Splash Tech"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
             "isNew": false
         }
     ]
