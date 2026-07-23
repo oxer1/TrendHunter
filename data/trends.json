@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-23T15:05:46.784Z",
+        "scanDate": "2026-07-23T17:18:23.696Z",
         "version": "2.5.0",
-        "totalTrends": 31,
+        "totalTrends": 41,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,314 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-zprdailem",
+            "title": "Unity CLI",
+            "subtitle": "Manage Unity from the terminal with the new CLI and com.unity.pipeline package",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "CLI",
+                "Automation",
+                "AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/meet-the-unity-cli",
+                "date": "2026-07-20T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity CLI allows for managing Unity from the terminal, including installing editors and automating CI. The com.unity.pipeline package provides a structured way for scripts and AI agents to operate Unity.",
+            "whyItMatters": "This new feature enables faster and more efficient workflow automation, and opens up new possibilities for AI integration in Unity development.",
+            "howToUse": "Developers can use the Unity CLI to automate repetitive tasks and integrate Unity with other tools and services, and use the com.unity.pipeline package to create custom scripts and AI agents.",
+            "beneficiaries": [
+                "Game Developers",
+                "Automation Engineers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
+        {
+            "id": "t-o53y6ik0y",
+            "title": "Suspicious Betting Rises",
+            "subtitle": "IBIA reports a 10% YoY increase in suspicious betting alerts during Q2",
+            "category": "iGaming",
+            "tags": [
+                "IBIA",
+                "Suspicious Betting",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1NCR0xEcVV5NUhpZ2o3R3VsOUZHcW1jYjY4WXdkTFVYZ29HUkR2WkZYdFBwVW1MQldBampkRWlRUzJMVFhmbUQwTFVMc1NJMkRvSERXNlNRNDVnU1FyTnVIZVNHNlpsT1BsU3lRbFNJV0ROeFd2SHZjOW1sR0wtbHlGQjVBbnl6cmFCUkNDSENJbERIeml3cTdMVTV3RVY1V3dWUg?oc=5",
+                "date": "2026-07-23T09:37:51.000Z"
+            },
+            "whatsNew": "The International Betting Integrity Association (IBIA) has reported a 10% year-over-year increase in suspicious betting alerts during the second quarter. This indicates a growing concern for betting integrity in the industry.",
+            "whyItMatters": "The increase in suspicious betting alerts highlights the need for continued vigilance and cooperation between betting operators, regulatory bodies, and integrity monitors to prevent match-fixing and maintain the integrity of sports and betting markets.",
+            "howToUse": "Operators should enhance their monitoring and reporting systems to quickly identify and flag suspicious activity, collaborating closely with IBIA and other integrity bodies.",
+            "beneficiaries": [
+                "Betting Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "IBIA"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-6glrwgn4q",
+            "title": "Evolution Licence Issue",
+            "subtitle": "UKGC considered suspending Evolution's licence with a £4.75m settlement",
+            "category": "iGaming",
+            "tags": [
+                "Evolution",
+                "UKGC",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnJsTjF3OHRJLUtfbW1tdnRSS19YRnRtS1FWYjFzbU1kOHlkQWhTZDRfeF8yVkVKVkNzNEd6UDNrWGVTc01uNHQ2VXZudTZ5VlJyTjlSN2hsMDlzVXF5NV9BekFwQ2lLV2NGZ0JJaHpkekIxak83NXZjVUJ6TC1xOVlLb01qeFUyMGE2enhDbHBLQXJwWnloWmxwbzYzU2hMMzVoR1A2amxOTktX?oc=5",
+                "date": "2026-07-23T07:47:51.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission (UKGC) considered suspending Evolution's licence due to regulatory issues, resulting in a £4.75m settlement. This move highlights the UKGC's strict stance on regulatory compliance. The settlement amount indicates the severity of the issues found.",
+            "whyItMatters": "This development impacts the iGaming industry as it shows the UKGC's commitment to enforcing regulations and the potential consequences for non-compliance. It also affects Evolution's operations and reputation in the UK market.",
+            "howToUse": "Operators should ensure strict adherence to UKGC regulations to avoid similar issues, and consider reviewing their compliance procedures to mitigate potential risks.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Evolution"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-bodzgkpzj",
+            "title": "Grandstand Rebrand",
+            "subtitle": "Gambling.com Group announces rebranding to Grandstand",
+            "category": "iGaming",
+            "tags": [
+                "Rebranding",
+                "iGaming",
+                "Gambling.com"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnlTclA3Y3dWZHcxV3Q2TUgtWTVCUVFEZkpSMktLYkh5bVVBV2M4bmFTQU9oclVIdjBhMW84WTJiOVNON0hCb01oUmdPcmJ4TTMyb09KRTA3TkxTajg1WHRfQXNLREdiQTcxQU5wcUpmRWN6LVdaczRzLUU0SE9iaXM1WDI?oc=5",
+                "date": "2026-07-22T15:46:38.000Z"
+            },
+            "whatsNew": "Gambling.com Group is rebranding as Grandstand, marking a significant shift in the company's identity. This change may reflect a broader strategy to expand or diversify its services within the iGaming sector. The rebranding could also indicate a renewed focus on specific markets or customer segments.",
+            "whyItMatters": "The rebranding of Gambling.com Group to Grandstand could signal a new era for the company, potentially leading to expanded offerings or a stronger market presence. This move may influence how competitors and partners perceive the company, affecting its position within the iGaming industry.",
+            "howToUse": "Operators and affiliates should monitor Grandstand's developments closely, as the rebranding might introduce new opportunities for collaboration or signal changes in the company's strategic direction. Understanding the reasoning behind the rebrand can help in anticipating future moves and potential shifts in the market.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Affiliates"
+            ],
+            "companies": [
+                "Gambling.com Group",
+                "Grandstand"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-u1dxttgsr",
+            "title": "Regulators Tighten",
+            "subtitle": "French and Irish regulators are imposing stricter rules on prediction markets",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Prediction Markets",
+                "France",
+                "Ireland"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFRYcG51RFZpeXBneWJtMXZMaHh2UDk1eDVCQUZMN1d4SVdfQ21KSXRpNnVNdVIyVlFNbFF4ZHJDS2k1N3RjZ2ZPb0tESHktNFdyVExOWGlGZ09nd3dpWnozLUx3NGNWVXFwY2lUXzltUWVadFVySjMxWTN5SGtVM3ZfUm80R1V3R01ycXFzdUNDc3ZXMU1JN0dDY3Z2eExiUjRnTGp3?oc=5",
+                "date": "2026-07-20T09:01:17.000Z"
+            },
+            "whatsNew": "French and Irish regulators are introducing stricter regulations on prediction markets, aiming to increase oversight and protect consumers. This move is part of a broader effort to regulate the industry more effectively. The new rules will have significant implications for operators and consumers alike.",
+            "whyItMatters": "The stricter regulations will impact the operations of prediction market operators, potentially leading to increased compliance costs and changes in the market landscape. This development highlights the evolving nature of regulatory oversight in the iGaming sector.",
+            "howToUse": "Operators should review and adapt their compliance procedures to meet the new regulatory requirements, while consumers should be aware of the changes and their implications for the market.",
+            "beneficiaries": [
+                "Regulators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-o0dn4dtak",
+            "title": "LCKY Group Growth",
+            "subtitle": "Richard Brown discusses LCKY Group's growth ambitions in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "LCKY Group",
+                "Growth Ambitions",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPem04MVNDSlprUWlZTnFYNE5NRVZXTWVuSllnWWVESGtaVm55N1E0UmEtSjZBSFBmY0FFS3oxSVNCaXZiY1MwUl9pdlZrdUhRalRJTlJuVkZDSTlIQTdNSWwxUko5eDBUODloZkx3MmlQS1lKVXdYRTIwTWhkSEVJRWFseF93UWltZVpSdDg0QXVrNFFfSmdzSk8tdk4?oc=5",
+                "date": "2026-07-23T07:52:51.000Z"
+            },
+            "whatsNew": "LCKY Group is expanding its presence in the iGaming market with ambitious growth plans. Richard Brown shares insights into the company's strategy.",
+            "whyItMatters": "The growth of LCKY Group can impact the iGaming industry's competitive landscape and potentially create new opportunities for operators and players.",
+            "howToUse": "Industry professionals can learn from LCKY Group's growth strategy and apply similar approaches to their own businesses.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Professionals"
+            ],
+            "companies": [
+                "LCKY Group"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-toek928m4",
+            "title": "Entain Cuts Jobs",
+            "subtitle": "Entain to cut 500 roles across online operations",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "Job Cuts",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVBRS2RsVlVUT24zME1sNl92aFl4dk9mc2NHNnlHenI5WncxNm94bjEwaUdtNE1LS3NBdV9jMnctb1RlcVliMmg1ektxbVhzZHluckZvOGRKSUJuS0lYWEFfYnliTjVycTZxM2RyYW5MWmtBbVRJU3pnOXE4VEREN1pzeExCT0RVQXU4?oc=5",
+                "date": "2026-07-17T09:07:59.000Z"
+            },
+            "whatsNew": "Entain is reducing its workforce by 500 roles across its online operations. This move is likely a response to changing market conditions and regulatory pressures. The company aims to optimize its operations and improve efficiency.",
+            "whyItMatters": "The job cuts reflect the challenges faced by the iGaming industry, including increased competition and regulatory hurdles. This move may have a significant impact on the industry's workforce and overall landscape.",
+            "howToUse": "Companies in the iGaming sector should monitor the market and adjust their strategies to stay competitive. They should also focus on optimizing their operations and improving efficiency to mitigate the impact of job cuts.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Entain"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-wu9o9nxcb",
+            "title": "DAZN Enters Prediction",
+            "subtitle": "DAZN partners with ADI Predictstreet to enter prediction markets space",
+            "category": "iGaming",
+            "tags": [
+                "DAZN",
+                "ADI Predictstreet",
+                "Prediction Markets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9KSU0xRWRPdEZtY25kMWYwU3JfcldhNnY4ZnNVdmc0YUlvYVViUGdNMFJaNElGYmhUUC13a1VxY0dWU0puZlJkemp3N0hDbmtUVWNBMG9FaGtQV2J3LS1NSThfVWxIQXh0Y040aG1DWk83MGFIeXR4NE1ldC1KWmR4UTRobXJEMGREbFBBZElKOTdVejN1YTVUcWFfZERuQS1qU3QwczU?oc=5",
+                "date": "2026-07-16T10:08:01.000Z"
+            },
+            "whatsNew": "DAZN has partnered with ADI Predictstreet to enter the prediction markets space, expanding its offerings beyond traditional sports streaming. This move marks a significant development in the intersection of sports and gaming. The partnership aims to provide users with a new form of engagement.",
+            "whyItMatters": "This partnership signifies a growing trend of sports and media companies venturing into the gaming and prediction markets sector, potentially changing the landscape of sports engagement and revenue streams. It could pave the way for more innovative and interactive experiences for fans.",
+            "howToUse": "Operators and platforms can explore similar partnerships to diversify their offerings and attract a broader audience. By integrating prediction markets, they can enhance user engagement and create new revenue streams.",
+            "beneficiaries": [
+                "Sports Platforms",
+                "Gaming Operators"
+            ],
+            "companies": [
+                "DAZN",
+                "ADI Predictstreet"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-tkyjv3kmn",
+            "title": "IAGR Update",
+            "subtitle": "Audrey Robinson represents the International Association of Gaming Regulators",
+            "category": "iGaming",
+            "tags": [
+                "IAGR",
+                "Gaming Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "IAGR",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Ynd3R2VRLVBVYjdaV2VGZ2FjLThtTUJCcjBMRXRpT3JJSWUyUnZGTnBxQUhLNGk3M25VTFdhenFoRlhvTDFsZ04tV0NvTUx0Y1oyUg?oc=5",
+                "date": "2026-07-16T05:09:17.000Z"
+            },
+            "whatsNew": "Audrey Robinson is associated with the International Association of Gaming Regulators, indicating ongoing efforts in gaming regulation. The IAGR continues to play a crucial role in shaping the global gaming regulatory landscape. This association highlights the importance of regulatory bodies in the iGaming industry.",
+            "whyItMatters": "The involvement of figures like Audrey Robinson with IAGR underscores the significance of regulatory compliance and standards in the iGaming sector. It impacts how gaming operators and developers must adhere to various regulatory requirements.",
+            "howToUse": "Operators and developers should stay informed about IAGR's guidelines and updates to ensure compliance with international gaming regulations.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-7gpxt33z6",
+            "title": "Gambling Harm Metric",
+            "subtitle": "UK Gambling Commission validates a summary metric for potential adverse consequences of gambling",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Regulation",
+                "Responsible Gambling",
+                "Harm Reduction"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVTJYUU1TdzRFUUVuMlFaNTgyREZIMGZLZURrQ0J0WDY1LTZjVnhGNTF2ZU52UUwxd3lhU1lNeEg1cV9VXzVkWTdEcU95T0FsUUFTbE1NZ05iel81c0pNU1hYTE83bGczQThacWF1U2lLVGZvekJkNGg1cXp0Z3JTQUFMUXJJWmhuQzZkMHJNMTZERTFOdVBXSk81SDFfVUVzMmxJQWo0S2tpX1VjS2NHM2VxREF5Q3hHbVhMZHpjYUVlUVZvb3RRRUIxc1pPOGZpOGVYNg?oc=5",
+                "date": "2026-07-16T17:23:09.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has introduced a new metric to measure gambling-related harm, focusing on potential adverse consequences. This metric aims to provide a comprehensive summary of the risks associated with gambling.",
+            "whyItMatters": "The introduction of this metric is significant as it highlights the commission's efforts to address and mitigate gambling-related harm, potentially influencing regulatory changes in the iGaming industry.",
+            "howToUse": "Operators can use this metric to assess their own practices and implement more effective responsible gambling measures, reducing the risk of harm to their customers.",
+            "beneficiaries": [
+                "Regulators",
+                "iGaming Operators",
+                "Problem Gamblers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-wvhq1a6kz",
             "title": "AI Context Gap",
@@ -1127,7 +1435,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T15:05:46.784Z",
+            "lastScan": "2026-07-23T17:18:23.696Z",
             "note": null
         },
         {
@@ -1146,7 +1454,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T17:18:23.696Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1155,7 +1463,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T17:18:23.696Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1164,7 +1472,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T17:18:23.696Z",
             "note": "Regulatory updates"
         },
         {
@@ -1416,7 +1724,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T17:18:23.696Z",
             "note": null
         },
         {
