@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-23T20:59:42.694Z",
+        "scanDate": "2026-07-23T22:09:56.424Z",
         "version": "2.5.0",
-        "totalTrends": 48,
+        "totalTrends": 49,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9hg1ih0sq",
+            "title": "Krea 2 Workflow",
+            "subtitle": "Civitai introduces Krea 2, a simple generation workflow for high-quality realism with tips and information.",
+            "category": "AI",
+            "tags": [
+                "Krea 2",
+                "AI Generation",
+                "Realism"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmJOVll1dkNzcFREeHRmTXEzQ2xEdUNIUC1MQTByMkFXWDIwQWhFWVVabW90SWxJZ3E4c014bnZOY0FQTTBxRmhJTG9pRE1oRXNRT2FXNDRkVWNtRGE4d2ZjRUNicE5HM1ZRMjhtczI0cHR0a0lhclRqNXk5cnhZMnl0dWFGclljaFhLTDlEMmZWcV90Vi1LSzQzNHkxMHhvWlZKSVNDNS1DQUhr?oc=5",
+                "date": "2026-07-10T07:00:00.000Z"
+            },
+            "whatsNew": "Krea 2 offers a simplified workflow for achieving high-quality realism in AI-generated content, providing users with extensive information and tips.",
+            "whyItMatters": "This development matters because it makes high-quality AI generation more accessible to a broader range of users, potentially democratizing the creation of realistic digital content.",
+            "howToUse": "Users can leverage Krea 2 by following the provided workflow and tips on the Civitai platform to generate high-quality, realistic content.",
+            "beneficiaries": [
+                "Content Creators",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-14typ9wdy",
             "title": "Evolution Acquisition",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-c20oab5n6",
@@ -82,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-brseobkdw",
@@ -114,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-qwlfkgb5g",
@@ -145,7 +176,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-uh2z8nype",
@@ -1654,7 +1685,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": null
         },
         {
@@ -1673,7 +1704,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1682,7 +1713,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1691,7 +1722,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": "Regulatory updates"
         },
         {
@@ -1709,7 +1740,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1718,7 +1749,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1738,7 +1769,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1796,7 +1827,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -1943,7 +1974,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T20:59:42.694Z",
+            "lastScan": "2026-07-23T22:09:56.424Z",
             "note": null
         },
         {
