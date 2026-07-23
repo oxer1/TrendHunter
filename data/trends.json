@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-23T10:18:30.250Z",
+        "scanDate": "2026-07-23T12:21:58.204Z",
         "version": "2.5.0",
-        "totalTrends": 32,
+        "totalTrends": 31,
         "categories": [
             "iGaming",
             "AI",
@@ -971,37 +971,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-1kpyikkja",
-            "title": "Betway Naming Rights",
-            "subtitle": "Betway acquires naming rights for Towcester Racecourse as racing returns.",
-            "category": "iGaming",
-            "tags": [
-                "Betway",
-                "Towcester Racecourse",
-                "Racing"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXIteXhLVDBXVVp5dExfal9BUDhSNndicDhqdkJtbUlZQjUwRlBhLXNlckQwVDdkQVZDRUxhZzZORmpsMDVhd3VQZTA5WlpxVnNYOEtkNkJBc2RjUVJXb2dZNWhaaC1kTnhyNXVaZXdUeWdnOTZIWFJKeDRxU09PRmw3Qm1LX1laUVhUbXg1OGdIS19RUzV0STB1dkptNWhnMTcyVDY1dTY5WTNZMkJBZkw2Z3pPZw?oc=5",
-                "date": "2026-07-09T11:23:03.000Z"
-            },
-            "whatsNew": "Betway has secured the naming rights for Towcester Racecourse, marking a significant partnership in the racing industry. This deal is announced ahead of racing's return to the venue. The partnership reflects the growing intersection of sports betting and racing.",
-            "whyItMatters": "This partnership highlights the increasing importance of sponsorship deals in the sports betting sector, particularly in racing. It also underscores Betway's commitment to expanding its presence in the UK market.",
-            "howToUse": "Operators can leverage such partnerships to enhance brand visibility and engage with a broader audience, while racecourses can benefit from the financial and promotional support.",
-            "beneficiaries": [
-                "Sports Betting Operators",
-                "Racecourses"
-            ],
-            "companies": [
-                "Betway"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1158,7 +1127,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T10:18:30.250Z",
+            "lastScan": "2026-07-23T12:21:58.204Z",
             "note": null
         },
         {
@@ -37495,6 +37464,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-1kpyikkja",
+            "title": "Betway Naming Rights",
+            "subtitle": "Betway acquires naming rights for Towcester Racecourse as racing returns.",
+            "category": "iGaming",
+            "tags": [
+                "Betway",
+                "Towcester Racecourse",
+                "Racing"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXIteXhLVDBXVVp5dExfal9BUDhSNndicDhqdkJtbUlZQjUwRlBhLXNlckQwVDdkQVZDRUxhZzZORmpsMDVhd3VQZTA5WlpxVnNYOEtkNkJBc2RjUVJXb2dZNWhaaC1kTnhyNXVaZXdUeWdnOTZIWFJKeDRxU09PRmw3Qm1LX1laUVhUbXg1OGdIS19RUzV0STB1dkptNWhnMTcyVDY1dTY5WTNZMkJBZkw2Z3pPZw?oc=5",
+                "date": "2026-07-09T11:23:03.000Z"
+            },
+            "whatsNew": "Betway has secured the naming rights for Towcester Racecourse, marking a significant partnership in the racing industry. This deal is announced ahead of racing's return to the venue. The partnership reflects the growing intersection of sports betting and racing.",
+            "whyItMatters": "This partnership highlights the increasing importance of sponsorship deals in the sports betting sector, particularly in racing. It also underscores Betway's commitment to expanding its presence in the UK market.",
+            "howToUse": "Operators can leverage such partnerships to enhance brand visibility and engage with a broader audience, while racecourses can benefit from the financial and promotional support.",
+            "beneficiaries": [
+                "Sports Betting Operators",
+                "Racecourses"
+            ],
+            "companies": [
+                "Betway"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
