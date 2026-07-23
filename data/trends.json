@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-23T00:04:10.958Z",
+        "scanDate": "2026-07-23T04:12:42.710Z",
         "version": "2.5.0",
-        "totalTrends": 36,
+        "totalTrends": 35,
         "categories": [
             "iGaming",
             "AI",
@@ -295,38 +295,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-d14oqdamt",
-            "title": "Alien Art Generation",
-            "subtitle": "Civitai introduces a new AI tool for generating alien-themed art",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Alien Imagination",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUVdkeXd5QzI3eVplWXlVVTFQMlBmZ3R4cnF6YWtCMzA4a2VnSUJoeUpuZG9XMzllQ2JhYmUwZndLaFJ0ZkU0ZGJyc3VkUkJyWDlGeExpTVlLa18ydGpPbDlOSUlIQ1ZHUmZtSzFILUJJT3c?oc=5",
-                "date": "2026-07-09T00:05:58.000Z"
-            },
-            "whatsNew": "Civitai's new tool allows users to generate unique alien-themed art using AI. This tool can be used to create new and exciting visuals for various applications, including gaming and entertainment.",
-            "whyItMatters": "The ability to generate alien-themed art using AI can inspire new ideas and creativity in the gaming and entertainment industries. It can also provide a new way for artists to express themselves and explore new themes.",
-            "howToUse": "Users can access Civitai's tool and start generating their own alien-themed art by providing prompts and adjusting parameters to achieve the desired outcome.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -1280,7 +1248,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T00:04:10.958Z",
+            "lastScan": "2026-07-23T04:12:42.710Z",
             "note": null
         },
         {
@@ -37495,6 +37463,38 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-d14oqdamt",
+            "title": "Alien Art Generation",
+            "subtitle": "Civitai introduces a new AI tool for generating alien-themed art",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Alien Imagination",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUVdkeXd5QzI3eVplWXlVVTFQMlBmZ3R4cnF6YWtCMzA4a2VnSUJoeUpuZG9XMzllQ2JhYmUwZndLaFJ0ZkU0ZGJyc3VkUkJyWDlGeExpTVlLa18ydGpPbDlOSUlIQ1ZHUmZtSzFILUJJT3c?oc=5",
+                "date": "2026-07-09T00:05:58.000Z"
+            },
+            "whatsNew": "Civitai's new tool allows users to generate unique alien-themed art using AI. This tool can be used to create new and exciting visuals for various applications, including gaming and entertainment.",
+            "whyItMatters": "The ability to generate alien-themed art using AI can inspire new ideas and creativity in the gaming and entertainment industries. It can also provide a new way for artists to express themselves and explore new themes.",
+            "howToUse": "Users can access Civitai's tool and start generating their own alien-themed art by providing prompts and adjusting parameters to achieve the desired outcome.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
