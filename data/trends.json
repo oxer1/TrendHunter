@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-23T17:18:23.696Z",
+        "scanDate": "2026-07-23T19:10:19.274Z",
         "version": "2.5.0",
-        "totalTrends": 41,
+        "totalTrends": 44,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,129 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-uh2z8nype",
+            "title": "Gambling License",
+            "subtitle": "Wooden Spoon Society trading names updated by Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDk3UWFQUVJ2YlNDajJwaDdMZ3drOVZGRDY3eTExRjF1b0Y0Szg2VWdHMnBHbmlkVVN1TGhnQ1lrN2YtUjJLVUpHWHJPWHJ0S0t2UkcxZ29mbUZMeUZxTnFMTkpsdWdLVG0waUNRa1hwbk93eWxnUTNqUS1wVHhJNHJyckVEOVJOZjI2YUtZcThBejQy?oc=5",
+                "date": "2026-07-17T16:37:06.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated the trading names for Wooden Spoon Society. This change reflects the commission's ongoing efforts to ensure transparency and compliance within the iGaming industry.",
+            "whyItMatters": "This update is significant for operators and players alike, as it underscores the importance of regulatory compliance in the iGaming sector. It also highlights the commission's role in maintaining industry standards.",
+            "howToUse": "Operators should ensure their trading names are up-to-date and compliant with Gambling Commission regulations to avoid potential penalties.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Wooden Spoon Society"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-w2fv16h7r",
+            "title": "MGA Warns",
+            "subtitle": "Malta Gaming Authority publishes notice on impersonating websites",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Licensed Operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGtvcjZ1OGR4WW9tQndWTmtkRzBsNzU1SHdwekFJeWtlX3M3cVh2bEZ3RzVESktxdU5Ub2dGOVlNRGpkYVBXZHI3RFpWbUZ5TTY2N1VFeEdNZWN1Z2Z0NTF3WXVXTjZMV01GbFRvbHZHamNIa3NwUjJ1c1lSaWhhR21GUXp4ZjdzTUNjdnN3V29PQ3pHN2ZHMg?oc=5",
+                "date": "2026-07-16T14:29:45.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice warning about websites impersonating licensed operators, aiming to protect consumers and maintain the integrity of the gaming industry.",
+            "whyItMatters": "This move by the MGA highlights the increasing need for regulatory bodies to combat fraudulent activities in the iGaming sector, ensuring a safer environment for players.",
+            "howToUse": "Operators should verify the authenticity of websites and report any suspicious activities to the MGA to prevent impersonation and protect their brand.",
+            "beneficiaries": [
+                "Licensed Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-boe8zpd1n",
+            "title": "Krea 2 Update",
+            "subtitle": "Civitai releases Krea 2 Identity Edit version 1.2 with LoRA support",
+            "category": "AI",
+            "tags": [
+                "Krea 2",
+                "LoRA",
+                "Civitai",
+                "AI Updates"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZeGtNTGI3RFczR2NMQTVSWTNSNWtibG9SZWNta1dDckljbXh1Ukdrb0hLMHc1SjdSSy1ZanBUTDRqX1djX1NEQ0lFY1hiYkh6a1pfQl9VS1drTjdDTkppRUg0V1VUdw?oc=5",
+                "date": "2026-07-17T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update for Krea 2, introducing version 1.2 of the Identity Edit feature, which includes support for LoRA. This update aims to enhance the capabilities of Krea 2's editing features.",
+            "whyItMatters": "The update signifies the ongoing development and improvement of AI tools for creative work, specifically in image generation and editing. This can impact the efficiency and quality of work for artists and designers using AI-assisted tools.",
+            "howToUse": "Artists and designers can utilize the updated Krea 2 Identity Edit feature to refine their work with more precise control over image editing, leveraging LoRA for more detailed adjustments.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-t3gfe3ve0",
+            "title": "Anima Aesthetic",
+            "subtitle": "Civitai releases Anima aesthetic-v1.1, a checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWS1DcVpVY21lQlZTNkZZMDdaMktqSWNFWThHb1FOcDVNb2VXQ1VFUEZRTlhlR2ZEcUx4V2Q5MHRkelk2NGxoUjNxSS02Wl9BeWc?oc=5",
+                "date": "2026-07-16T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Anima aesthetic-v1.1, an updated checkpoint for AI art generation. This update aims to improve the quality and diversity of generated art. The checkpoint is available on the Civitai platform.",
+            "whyItMatters": "The release of Anima aesthetic-v1.1 demonstrates the ongoing development of AI art generation tools, which can impact the visual design trends in the gaming and art industries. It provides artists and developers with new possibilities for creating unique and engaging visuals.",
+            "howToUse": "Artists and developers can utilize the Anima aesthetic-v1.1 checkpoint to generate high-quality art for various applications, including game development and visual design projects. They can experiment with different prompts and settings to achieve the desired aesthetic.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-zprdailem",
             "title": "Unity CLI",
@@ -50,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o53y6ik0y",
@@ -81,7 +204,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6glrwgn4q",
@@ -112,7 +235,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-bodzgkpzj",
@@ -144,7 +267,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-u1dxttgsr",
@@ -174,7 +297,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-o0dn4dtak",
@@ -205,7 +328,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-toek928m4",
@@ -236,7 +359,7 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wu9o9nxcb",
@@ -268,7 +391,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-tkyjv3kmn",
@@ -296,7 +419,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-7gpxt33z6",
@@ -326,7 +449,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wvhq1a6kz",
@@ -1248,37 +1371,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-cg64qvjk2",
-            "title": "Avatar Appearance",
-            "subtitle": "HeyGen Community shares tips on perfecting avatar looks for videos",
-            "category": "AI",
-            "tags": [
-                "Avatar Creation",
-                "Video Production",
-                "AI Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "HeyGen",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzFJczBlSHQ4YTdlbC11TG9yVW1zWm5Ja3hIREVwbnkwZHVLZjQxN1dXSVR0bHFRU0cyNnUyNzl0aFJvRFZjWVJrVTFCNEg2TnBMOF9VOUlsR0pJdVhwZkZ1ckhmNFAxYjg5empvWVIyQzM2S0hBaW9SOTJxTU9lY05VckE1RTFON2VBeXdSWlE3a0pEY2tMRHpXbkMyRFRWcWlWdnFn?oc=5",
-                "date": "2026-07-09T17:55:27.000Z"
-            },
-            "whatsNew": "The HeyGen Community provides guidance on customizing avatars for video content, focusing on appearance and consistency. This involves selecting appropriate attire, accessories, and facial features. The community aims to enhance video production quality through detailed avatar design.",
-            "whyItMatters": "Perfecting avatar appearance can significantly enhance the engagement and realism of video content, making it crucial for creators to get it right. This expertise can elevate the overall quality of videos, contributing to a more immersive experience for viewers.",
-            "howToUse": "To nail your avatar's appearance, consider the context of your video, the message you want to convey, and the audience you're targeting. Experiment with different customization options to find the look that best fits your narrative.",
-            "beneficiaries": [
-                "Content Creators",
-                "Video Producers"
-            ],
-            "companies": [
-                "HeyGen"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-video",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1435,7 +1527,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T17:18:23.696Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "note": null
         },
         {
@@ -1454,7 +1546,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-23T17:18:23.696Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1463,7 +1555,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T17:18:23.696Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1472,7 +1564,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T17:18:23.696Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "note": "Regulatory updates"
         },
         {
@@ -1490,7 +1582,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1499,7 +1591,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1519,7 +1611,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-16T15:36:47.003Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -1724,7 +1816,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-23T17:18:23.696Z",
+            "lastScan": "2026-07-23T19:10:19.274Z",
             "note": null
         },
         {
@@ -37803,6 +37895,37 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-cg64qvjk2",
+            "title": "Avatar Appearance",
+            "subtitle": "HeyGen Community shares tips on perfecting avatar looks for videos",
+            "category": "AI",
+            "tags": [
+                "Avatar Creation",
+                "Video Production",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "HeyGen",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzFJczBlSHQ4YTdlbC11TG9yVW1zWm5Ja3hIREVwbnkwZHVLZjQxN1dXSVR0bHFRU0cyNnUyNzl0aFJvRFZjWVJrVTFCNEg2TnBMOF9VOUlsR0pJdVhwZkZ1ckhmNFAxYjg5empvWVIyQzM2S0hBaW9SOTJxTU9lY05VckE1RTFON2VBeXdSWlE3a0pEY2tMRHpXbkMyRFRWcWlWdnFn?oc=5",
+                "date": "2026-07-09T17:55:27.000Z"
+            },
+            "whatsNew": "The HeyGen Community provides guidance on customizing avatars for video content, focusing on appearance and consistency. This involves selecting appropriate attire, accessories, and facial features. The community aims to enhance video production quality through detailed avatar design.",
+            "whyItMatters": "Perfecting avatar appearance can significantly enhance the engagement and realism of video content, making it crucial for creators to get it right. This expertise can elevate the overall quality of videos, contributing to a more immersive experience for viewers.",
+            "howToUse": "To nail your avatar's appearance, consider the context of your video, the message you want to convey, and the audience you're targeting. Experiment with different customization options to find the look that best fits your narrative.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "HeyGen"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
             "isNew": false
         }
     ]
