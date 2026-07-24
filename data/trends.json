@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-24T08:22:06.994Z",
+        "scanDate": "2026-07-24T11:04:53.133Z",
         "version": "2.5.0",
-        "totalTrends": 55,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,99 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rgixcjib9",
+            "title": "Lottery Regulation",
+            "subtitle": "Lottery trade body seeks clarity on prediction markets regulation",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Lottery",
+                "Prediction Markets"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1JUYXhtNS11bjBQTkNRQk54WW5LU24wUWVHY0xDeUpOWFdIbGhwTzhueVlZQjFaenh0Y0JyT0traWFzVkI5dThscVpzRjBrU1o1YnU0MEZEdkd1dHlMUEx4MmVLOXJOOVlDazRVeVVDTjQ0SWZLeDNnTWFlaDFxWUs3ZjIxTnhyekpSREdsM0ljbE8yNzlJRks4bnM1Q2REdEJlbGg0WThSajZVejE2WWxKc1pYUQ?oc=5",
+                "date": "2026-07-22T14:57:07.000Z"
+            },
+            "whatsNew": "The lottery trade body is calling for clearer regulations around prediction markets, which could impact the iGaming industry. This move seeks to address the current ambiguity and ensure a level playing field. Regulatory clarity is essential for the growth and development of the sector.",
+            "whyItMatters": "Clear regulations will help prevent illegal activities and protect consumers. It will also provide a framework for operators to innovate and expand their offerings.",
+            "howToUse": "Operators should monitor regulatory developments and adjust their strategies accordingly. They should also engage with trade bodies and regulators to contribute to the development of clear and effective regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-abvw2ooaf",
+            "title": "Krea2 Workflow",
+            "subtitle": "Civitai releases Moody Krea2 Minimal Workflow v3.0",
+            "category": "AI",
+            "tags": [
+                "Krea2",
+                "Workflow",
+                "Civitai",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YVlRINVljRi1fQ2IyT2UtTXJGVVRXQkd0R0thSVN6VE5CV0xLRVRuN29MNHoyOWRNTHhXcFBPcnY5NzBDYnlFQ1BPNm5lNjQ1YTUtTzBsejktUngzRno1djhzRlpfSzVsUkdjcGdjcDg?oc=5",
+                "date": "2026-07-21T07:00:00.000Z"
+            },
+            "whatsNew": "The Moody Krea2 Minimal Workflow - v3.0 is released on Civitai, offering enhanced features for AI workflow management. This update focuses on minimalism and efficiency. The new version is part of the Krea2 Workflows series.",
+            "whyItMatters": "This update matters because it reflects the growing importance of streamlined workflows in AI creative work, impacting productivity and output quality for artists and developers. It also indicates Civitai's commitment to evolving its tools to meet user needs.",
+            "howToUse": "Artists and developers can utilize this workflow by integrating it into their existing Krea2 projects, leveraging its minimalistic approach to enhance their creative process and project management.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
+        {
+            "id": "t-0z7xzqyu8",
+            "title": "AI Video Effects",
+            "subtitle": "A guide to VFX and AI video effects by OpenArt",
+            "category": "AI",
+            "tags": [
+                "VFX",
+                "AI Video",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GNWpoUDYzaEJoMm4wRDk2Y0lJSUd6VWZ2R19UM0cxanNwRnhSU2JaSnIySTJpUHZpWjUyVEZrQmx2X0h0ekpUVlp0bE8?oc=5",
+                "date": "2026-07-15T09:45:18.000Z"
+            },
+            "whatsNew": "OpenArt provides a comprehensive guide to VFX, focusing on the integration of AI in video effects. The guide covers the basics of VFX and how AI enhances video production. It highlights the potential of AI in creating realistic and immersive video experiences.",
+            "whyItMatters": "The use of AI in VFX has the potential to revolutionize the video production industry, enabling creators to produce high-quality effects more efficiently. This trend is significant for professionals in the field of video production and those interested in AI applications in creative work.",
+            "howToUse": "To leverage AI in VFX, creators can explore OpenArt's guide and utilize AI-powered video editing tools to enhance their projects. By understanding the capabilities and limitations of AI in VFX, professionals can harness its potential to innovate their workflows.",
+            "beneficiaries": [
+                "Video Editors",
+                "VFX Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-3y89amd0u",
             "title": "Online Poker Shift",
@@ -49,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-6qj0x9v6p",
@@ -81,7 +174,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-wyyfz7ybx",
@@ -112,7 +205,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-37rhts7ti",
@@ -1871,7 +1964,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": null
         },
         {
@@ -1890,7 +1983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1899,7 +1992,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1908,7 +2001,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": "Regulatory updates"
         },
         {
@@ -1926,7 +2019,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1935,7 +2028,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -1955,7 +2048,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2013,7 +2106,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2022,7 +2115,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2160,7 +2253,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T08:22:06.994Z",
+            "lastScan": "2026-07-24T11:04:53.133Z",
             "note": null
         },
         {
