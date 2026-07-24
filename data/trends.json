@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-24T11:04:53.133Z",
+        "scanDate": "2026-07-24T13:36:59.600Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 57,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-zi6un7zgf",
+            "title": "Prediction Market Boom",
+            "subtitle": "Macquarie predicts $1.5 trillion prediction market volume by 2030",
+            "category": "iGaming",
+            "tags": [
+                "Prediction Markets",
+                "iGaming",
+                "Market Forecast"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd3c4b2EwRlo0OUQzWXdtTTNVR2xveFRMMmw4bndtLWtmR0FiR3B0RktRSVpMZmpoSWVXSkVtRzVYR0ZoMXlDNjBOUW9vRzY1N081NVpWWnVLaTU0ckRUMTl2b09tU2h6RDlxUnZvdWF6VUsxQW9QcHJOcnZnaFZsemJhWV9IMkhtelFlSkdxSWV5aUMteXJNWlJPazNwS3Q3OTZaVA?oc=5",
+                "date": "2026-07-24T11:09:33.000Z"
+            },
+            "whatsNew": "Macquarie's forecast indicates a significant growth in prediction market volume, reaching $1.5 trillion by 2030. This growth is expected to be driven by increasing adoption and regulatory changes. The prediction market is a subset of the broader online gaming industry.",
+            "whyItMatters": "The predicted growth in prediction market volume could lead to increased revenue opportunities for operators and a more diverse range of betting options for consumers. This, in turn, could drive innovation and investment in the iGaming sector.",
+            "howToUse": "Operators can capitalize on this trend by expanding their prediction market offerings and investing in technology to support these markets. Investors can also consider the potential for growth in this sector.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Macquarie"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-rgixcjib9",
             "title": "Lottery Regulation",
@@ -47,7 +78,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-abvw2ooaf",
@@ -79,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0z7xzqyu8",
@@ -111,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-3y89amd0u",
@@ -1744,70 +1775,6 @@
             "visualStyle": null,
             "cluster": "ai-video",
             "isNew": false
-        },
-        {
-            "id": "t-xcal9htew",
-            "title": "AI Photo Prompts",
-            "subtitle": "OpenArt shares best Nano Banana prompts for viral AI photos",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Nano Banana",
-                "OpenArt"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPNng1ZG1GSUNzMUhMdjc1SkpBalRSenh0OS1RNi1vemtxclBzQ3NRbmgxUGpxUS05MmhXVUJla3JEZmtfM0lHbFZNT2NvRzlYMDJpcFlQUXNKQXNuRTFqRlBGc3NOSUtYLUJ0aG1fVUtzX0hK?oc=5",
-                "date": "2026-07-10T11:20:25.000Z"
-            },
-            "whatsNew": "OpenArt provides copy-and-paste prompts for creating viral AI photos with Nano Banana, a new trend in AI-generated art. These prompts enable users to generate unique and engaging images. The use of specific prompts can lead to more consistent and high-quality AI art.",
-            "whyItMatters": "The availability of these prompts can democratize access to AI art generation, allowing more users to create viral content. This can also inspire new forms of creative expression and community engagement around AI art.",
-            "howToUse": "Users can copy and paste the provided prompts into their AI art generation tool to create unique images. Experimenting with different prompts and parameters can help achieve the desired outcome.",
-            "beneficiaries": [
-                "AI Artists",
-                "Content Creators"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-pxc4llcru",
-            "title": "EGBA vs Lithuania",
-            "subtitle": "EGBA files complaint against Lithuanian payment provider to stop illegal gambling operators",
-            "category": "iGaming",
-            "tags": [
-                "EGBA",
-                "Lithuania",
-                "Regulation",
-                "Illegal Gambling"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGBA",
-                "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYmZDdzFYa2hqQVQ1Mm9HSFkxUlIwTFk3ZjBXRXdyTEllU0k1T3YtSlZNSk5FZ3g3QjhpRHB6QkduYjVBMndHS3R2NlNQS21mM3VqRzUySmhEZEtjN3lhWEMydFJtdmtkc3dkcGY2WllGdjFPdk1jYWJqS3AwZ3NTMXlyVF9Xd3NNaVZ4dWpLalBEZlV6ZGRkU21weVRCNkl4NFdmT2dES2NBUk1Qckl6NWloZG8ybkU5TEhYUEpZczJwMm5XdlBNX0hiT1BjbW5jdTJHd1UyQkJod0l2bTNuVkc2Rjc?oc=5",
-                "date": "2026-07-10T12:32:45.000Z"
-            },
-            "whatsNew": "The EGBA has filed a complaint against a Lithuanian payment provider for facilitating transactions with illegal gambling operators. This move aims to curb illegal gambling activities in the region.",
-            "whyItMatters": "The complaint highlights the need for stricter regulations and enforcement to prevent illegal gambling operators from accessing the market. It also underscores the importance of cooperation between regulatory bodies and payment providers to combat illegal activities.",
-            "howToUse": "Regulatory bodies and payment providers can work together to identify and block transactions with illegal operators, while operators can ensure compliance with local regulations to avoid reputational damage.",
-            "beneficiaries": [
-                "Regulatory Bodies",
-                "Payment Providers",
-                "Licensed Operators"
-            ],
-            "companies": [
-                "EGBA"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1964,7 +1931,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": null
         },
         {
@@ -1983,7 +1950,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1992,7 +1959,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2001,7 +1968,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "Regulatory updates"
         },
         {
@@ -2019,7 +1986,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2028,7 +1995,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2048,7 +2015,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2106,7 +2073,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2115,7 +2082,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2124,7 +2091,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T05:27:45.001Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": "Style browsing signal"
         },
         {
@@ -2161,7 +2128,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-15T05:27:45.001Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": null
         },
         {
@@ -2253,7 +2220,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T11:04:53.133Z",
+            "lastScan": "2026-07-24T13:36:59.600Z",
             "note": null
         },
         {
@@ -38456,6 +38423,70 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-xcal9htew",
+            "title": "AI Photo Prompts",
+            "subtitle": "OpenArt shares best Nano Banana prompts for viral AI photos",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Nano Banana",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPNng1ZG1GSUNzMUhMdjc1SkpBalRSenh0OS1RNi1vemtxclBzQ3NRbmgxUGpxUS05MmhXVUJla3JEZmtfM0lHbFZNT2NvRzlYMDJpcFlQUXNKQXNuRTFqRlBGc3NOSUtYLUJ0aG1fVUtzX0hK?oc=5",
+                "date": "2026-07-10T11:20:25.000Z"
+            },
+            "whatsNew": "OpenArt provides copy-and-paste prompts for creating viral AI photos with Nano Banana, a new trend in AI-generated art. These prompts enable users to generate unique and engaging images. The use of specific prompts can lead to more consistent and high-quality AI art.",
+            "whyItMatters": "The availability of these prompts can democratize access to AI art generation, allowing more users to create viral content. This can also inspire new forms of creative expression and community engagement around AI art.",
+            "howToUse": "Users can copy and paste the provided prompts into their AI art generation tool to create unique images. Experimenting with different prompts and parameters can help achieve the desired outcome.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-pxc4llcru",
+            "title": "EGBA vs Lithuania",
+            "subtitle": "EGBA files complaint against Lithuanian payment provider to stop illegal gambling operators",
+            "category": "iGaming",
+            "tags": [
+                "EGBA",
+                "Lithuania",
+                "Regulation",
+                "Illegal Gambling"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGBA",
+                "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYmZDdzFYa2hqQVQ1Mm9HSFkxUlIwTFk3ZjBXRXdyTEllU0k1T3YtSlZNSk5FZ3g3QjhpRHB6QkduYjVBMndHS3R2NlNQS21mM3VqRzUySmhEZEtjN3lhWEMydFJtdmtkc3dkcGY2WllGdjFPdk1jYWJqS3AwZ3NTMXlyVF9Xd3NNaVZ4dWpLalBEZlV6ZGRkU21weVRCNkl4NFdmT2dES2NBUk1Qckl6NWloZG8ybkU5TEhYUEpZczJwMm5XdlBNX0hiT1BjbW5jdTJHd1UyQkJod0l2bTNuVkc2Rjc?oc=5",
+                "date": "2026-07-10T12:32:45.000Z"
+            },
+            "whatsNew": "The EGBA has filed a complaint against a Lithuanian payment provider for facilitating transactions with illegal gambling operators. This move aims to curb illegal gambling activities in the region.",
+            "whyItMatters": "The complaint highlights the need for stricter regulations and enforcement to prevent illegal gambling operators from accessing the market. It also underscores the importance of cooperation between regulatory bodies and payment providers to combat illegal activities.",
+            "howToUse": "Regulatory bodies and payment providers can work together to identify and block transactions with illegal operators, while operators can ensure compliance with local regulations to avoid reputational damage.",
+            "beneficiaries": [
+                "Regulatory Bodies",
+                "Payment Providers",
+                "Licensed Operators"
+            ],
+            "companies": [
+                "EGBA"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
