@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-24T15:23:06.198Z",
+        "scanDate": "2026-07-24T17:26:44.688Z",
         "version": "2.5.0",
-        "totalTrends": 57,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-o5ibisbv6",
+            "title": "AI Video Generators",
+            "subtitle": "Review of AI video generators for music videos in 2026 by OpenArt",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Music Videos",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xWTBodUtVM0o0SEJyUGJUaXNIb2k0cmtXQ3ozWDlQZGxMSzVWSFlqMkhiU09EVl8zZ3VsdXRndTFUaWplcW13WHpIdXdFZVZtRWd6QWltN3ZFcTA4NGZwYzhKQ3dYQQ?oc=5",
+                "date": "2026-07-24T14:54:22.000Z"
+            },
+            "whatsNew": "OpenArt reviews the best AI video generators for creating music videos in 2026, highlighting their features and capabilities. These generators use advanced algorithms to produce high-quality videos. The review aims to help users choose the most suitable tool for their music video production needs.",
+            "whyItMatters": "The use of AI video generators can revolutionize music video production by making it more accessible and efficient. This technology has the potential to democratize video creation, allowing more artists to produce high-quality music videos.",
+            "howToUse": "To get started with AI video generators, users can explore the reviewed tools, considering factors such as ease of use, customization options, and output quality. They can then choose the most suitable generator for their specific needs and creative vision.",
+            "beneficiaries": [
+                "Music Artists",
+                "Video Producers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-zi6un7zgf",
             "title": "Prediction Market Boom",
@@ -1931,7 +1962,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": null
         },
         {
@@ -1950,7 +1981,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1959,7 +1990,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1968,7 +1999,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": "Regulatory updates"
         },
         {
@@ -1986,7 +2017,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": "EU regulatory insights"
         },
         {
@@ -1995,7 +2026,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2015,7 +2046,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2073,7 +2104,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2082,7 +2113,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2220,7 +2251,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T15:23:06.198Z",
+            "lastScan": "2026-07-24T17:26:44.688Z",
             "note": null
         },
         {
