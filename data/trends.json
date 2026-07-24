@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-24T17:26:44.688Z",
+        "scanDate": "2026-07-24T19:20:09.891Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-qvmyxs2lt",
+            "title": "PaymentIQ Independence",
+            "subtitle": "PaymentIQ's independence and its implications for igaming operators",
+            "category": "iGaming",
+            "tags": [
+                "PaymentIQ",
+                "iGaming",
+                "Operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWE5RLTRlX3dZUldUUzc3MktnWG1wWjlvN21Dc2VHX0xtQ3pWQzFsRHVCT1RBMHhMdDZrdDJtWEJCUHpDZ0l6Ykc5S2lDVWxnbjhTYV92VWs1WTBCN21ZWmlnYnhsaXpKV2xRcS1QVjkzTjZrYkVPd3JQSnhpTy1BOTVxdnFwbnJrTEZnaVZ3dnpCNmdRemFTYTRTMEhJbGZJUHljOEZOQlZYRHFt?oc=5",
+                "date": "2026-07-15T06:05:30.000Z"
+            },
+            "whatsNew": "PaymentIQ has gained independence, which could lead to more flexible and innovative payment solutions for igaming operators. This move may also increase competition in the payment processing sector. Operators can expect more tailored services and potentially better transaction rates.",
+            "whyItMatters": "PaymentIQ's independence matters because it can lead to more efficient and cost-effective payment processing for igaming operators, ultimately enhancing the player experience. It also reflects the evolving landscape of igaming, where operators seek more control and flexibility over their payment systems.",
+            "howToUse": "iGaming operators should monitor PaymentIQ's developments and consider how their newfound independence could benefit their business, potentially leading to more streamlined payment processes and improved customer satisfaction.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Payment Processors"
+            ],
+            "companies": [
+                "PaymentIQ"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-o5ibisbv6",
             "title": "AI Video Generators",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-zi6un7zgf",
@@ -1962,7 +1993,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": null
         },
         {
@@ -1981,7 +2012,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1990,7 +2021,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -1999,7 +2030,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": "Regulatory updates"
         },
         {
@@ -2017,7 +2048,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2026,7 +2057,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2046,7 +2077,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2104,7 +2135,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2113,7 +2144,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2251,7 +2282,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T17:26:44.688Z",
+            "lastScan": "2026-07-24T19:20:09.891Z",
             "note": null
         },
         {
