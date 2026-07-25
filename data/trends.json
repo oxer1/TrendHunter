@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-25T17:56:19.102Z",
+        "scanDate": "2026-07-25T19:04:12.851Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -1841,35 +1841,6 @@
             "visualStyle": null,
             "cluster": "iGaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-0rj25dqol",
-            "title": "Polish Tax Impact",
-            "subtitle": "Polish tax rate may deter gaming operators",
-            "category": "iGaming",
-            "tags": [
-                "Polish Gaming",
-                "Taxation",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iMDhwdFU5cVc3Tkcwd05ycVhCdHcwdVNLWTUxVmlKaVA0Y2xkOXJzRVdsNTdrLXppbDdWeXFmMjhnZkw2NUVPRHFIR3JyaHR1R29kc0NmQ3RfVGFDaDg4a1Z5T3NUNWhPUWNVZm1Xc0FZUmxsb2V0WXY2X2tBUQ?oc=5",
-                "date": "2026-07-11T19:00:18.000Z"
-            },
-            "whatsNew": "The Polish tax rate is expected to keep gaming operators out of the market. High tax rates can significantly impact the profitability of gaming operations.",
-            "whyItMatters": "This development may lead to a reduction in the number of gaming operators in Poland, affecting the gaming industry as a whole. It could also influence regulatory decisions in other jurisdictions.",
-            "howToUse": "Gaming operators should carefully consider the tax implications before entering the Polish market. Regulatory bodies should assess the impact of tax rates on the industry.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2026,7 +1997,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": null
         },
         {
@@ -2045,7 +2016,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2054,7 +2025,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2063,7 +2034,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": "Regulatory updates"
         },
         {
@@ -2081,7 +2052,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2090,7 +2061,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2110,7 +2081,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2168,7 +2139,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2315,7 +2286,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-25T19:04:12.851Z",
             "note": null
         },
         {
@@ -38734,6 +38705,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
+            "isNew": false
+        },
+        {
+            "id": "t-0rj25dqol",
+            "title": "Polish Tax Impact",
+            "subtitle": "Polish tax rate may deter gaming operators",
+            "category": "iGaming",
+            "tags": [
+                "Polish Gaming",
+                "Taxation",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iMDhwdFU5cVc3Tkcwd05ycVhCdHcwdVNLWTUxVmlKaVA0Y2xkOXJzRVdsNTdrLXppbDdWeXFmMjhnZkw2NUVPRHFIR3JyaHR1R29kc0NmQ3RfVGFDaDg4a1Z5T3NUNWhPUWNVZm1Xc0FZUmxsb2V0WXY2X2tBUQ?oc=5",
+                "date": "2026-07-11T19:00:18.000Z"
+            },
+            "whatsNew": "The Polish tax rate is expected to keep gaming operators out of the market. High tax rates can significantly impact the profitability of gaming operations.",
+            "whyItMatters": "This development may lead to a reduction in the number of gaming operators in Poland, affecting the gaming industry as a whole. It could also influence regulatory decisions in other jurisdictions.",
+            "howToUse": "Gaming operators should carefully consider the tax implications before entering the Polish market. Regulatory bodies should assess the impact of tax rates on the industry.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
