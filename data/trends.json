@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-25T00:00:18.338Z",
+        "scanDate": "2026-07-25T03:31:14.609Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-pkojjbeop",
+            "title": "AI Art Concept",
+            "subtitle": "Civitai releases Add Micro Details concept using Anima LoRA and NoobAI",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima LoRA",
+                "NoobAI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01xS1hpWllmZ1hSTFkxdE9NS1BOUDc2aUdwcWRVaEpicUtZbDk1TnlFenR4TVpoYzVmQURBQlZ5Zkg1Z1JvTWxveHR3RFI3SWhsTGdqN3lkS3cxS3pKeUstb0NTLXk4N0NZd3Rla0RFZGl4Y2VBVUUxZ2d0aW5NdWpPRHNWSVVQLWJnTW4xV1ZpWnhR?oc=5",
+                "date": "2026-07-14T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai introduces a new concept called Add Micro Details, utilizing Anima LoRA and NoobAI. This concept focuses on adding micro details to AI-generated art. The concept is available in version 1.0_Anima.",
+            "whyItMatters": "This concept showcases the potential of AI in generating detailed art, which could impact the gaming and art industries. It demonstrates the capabilities of Anima LoRA and NoobAI in creating intricate designs.",
+            "howToUse": "Artists and designers can utilize this concept to generate detailed art by leveraging the capabilities of Anima LoRA and NoobAI. They can experiment with different versions and models to achieve desired outcomes.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-qe0e568lp",
+            "title": "Gemini AI Prompts",
+            "subtitle": "Article about 41 best Gemini AI photo prompts for copying and pasting, related to AI art generation.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Gemini AI",
+                "Photo Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUE51T3p3LWVCemo0bjRtSWRpOHNzRUZ6YW1uM0RTSnQwanBrUzZWMmtDZFhwaU9yQV9tbVI1YUFieWVGNXY2YkFnRXY2SWY2Z3JIdFRILTZzcUEtZGR3bWl3?oc=5",
+                "date": "2026-07-22T10:45:49.000Z"
+            },
+            "whatsNew": "The article provides a list of 41 Gemini AI photo prompts that can be copied and pasted, facilitating the creation of AI-generated art. These prompts are designed to work with AI models, allowing users to produce a wide range of images. The ease of use of these prompts makes AI art generation more accessible.",
+            "whyItMatters": "This resource is valuable for individuals interested in AI art generation, as it simplifies the process of creating high-quality images using AI tools. It also highlights the growing importance of AI in creative work, particularly in the visual arts.",
+            "howToUse": "To utilize these prompts, users can simply copy and paste them into their AI art generation tool, adjusting parameters as needed to achieve the desired outcome. This straightforward approach makes it easier for both beginners and experienced artists to explore AI-generated art.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-6f6km5ti2",
             "title": "Sports Betting Ban",
@@ -47,7 +111,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-etg4uij4q",
@@ -1775,37 +1839,6 @@
             "isNew": false
         },
         {
-            "id": "t-2ng87wb1x",
-            "title": "AI Art Models",
-            "subtitle": "Gemlight Dream Midjourney Style Krea 2 Models are discussed on PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Midjourney",
-                "Krea 2"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDNXSGEwMUpVazFjS3pSUFg0NVRmV2IzMmpLSzNtTnZwOUNUbjZ6OEZ3T0dOdWVzQzQ4UWFiWWNRbGVvVDFmajg0QmVvX1RNdFZvRFVkd1gzVzJEYXotSE9Ec3B1NFlVLW1aamlsOXhMamJaSndkS1pUTUdGOWZwM3hyQmJIZVZUbWM5R3R1S0lpUQ?oc=5",
-                "date": "2026-07-11T02:13:17.000Z"
-            },
-            "whatsNew": "The article highlights the best Gemlight Dream Midjourney Style Krea 2 Models, showcasing advancements in AI art generation. These models are capable of producing high-quality, dreamlike images. The discussion on PromptHero indicates a growing interest in AI art tools.",
-            "whyItMatters": "The development and sharing of such models impact the creative industry, offering new tools for artists and designers. This trend also reflects the increasing accessibility of AI technology for artistic purposes.",
-            "howToUse": "Artists and designers can utilize these models to generate unique, high-quality images for various projects, from concept art to advertising. Experimenting with different prompts and models can help achieve desired outcomes.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-0rj25dqol",
             "title": "Polish Tax Impact",
             "subtitle": "Polish tax rate may deter gaming operators",
@@ -2020,7 +2053,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": null
         },
         {
@@ -2039,7 +2072,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2048,7 +2081,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2057,7 +2090,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "Regulatory updates"
         },
         {
@@ -2075,7 +2108,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2084,7 +2117,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2104,7 +2137,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2162,7 +2195,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2171,7 +2204,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2180,7 +2213,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T13:36:59.600Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": "Style browsing signal"
         },
         {
@@ -2217,7 +2250,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-24T13:36:59.600Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": null
         },
         {
@@ -2226,7 +2259,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-15T05:27:45.001Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": null
         },
         {
@@ -2309,7 +2342,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T00:00:18.338Z",
+            "lastScan": "2026-07-25T03:31:14.609Z",
             "note": null
         },
         {
@@ -38607,6 +38640,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-2ng87wb1x",
+            "title": "AI Art Models",
+            "subtitle": "Gemlight Dream Midjourney Style Krea 2 Models are discussed on PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Midjourney",
+                "Krea 2"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDNXSGEwMUpVazFjS3pSUFg0NVRmV2IzMmpLSzNtTnZwOUNUbjZ6OEZ3T0dOdWVzQzQ4UWFiWWNRbGVvVDFmajg0QmVvX1RNdFZvRFVkd1gzVzJEYXotSE9Ec3B1NFlVLW1aamlsOXhMamJaSndkS1pUTUdGOWZwM3hyQmJIZVZUbWM5R3R1S0lpUQ?oc=5",
+                "date": "2026-07-11T02:13:17.000Z"
+            },
+            "whatsNew": "The article highlights the best Gemlight Dream Midjourney Style Krea 2 Models, showcasing advancements in AI art generation. These models are capable of producing high-quality, dreamlike images. The discussion on PromptHero indicates a growing interest in AI art tools.",
+            "whyItMatters": "The development and sharing of such models impact the creative industry, offering new tools for artists and designers. This trend also reflects the increasing accessibility of AI technology for artistic purposes.",
+            "howToUse": "Artists and designers can utilize these models to generate unique, high-quality images for various projects, from concept art to advertising. Experimenting with different prompts and models can help achieve desired outcomes.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
