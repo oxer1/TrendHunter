@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-25T12:02:21.508Z",
+        "scanDate": "2026-07-25T14:28:43.125Z",
         "version": "2.5.0",
-        "totalTrends": 58,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ralnh2hdo",
+            "title": "AI Art Studio",
+            "subtitle": "OpenArt introduces AI Creator Studio for video and image creation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Video Generation",
+                "Image Creation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1waUFtdEwxUURsSlVTREpOdXFWejMwajVFdDZ5VFZyR2RqSXZhbTlLeHhWdm1sZ24yT2lBNkF5cVMzQzM5bldyNHFxcVQ3Vk9JM3U2WEdULWFRdw?oc=5",
+                "date": "2026-07-24T16:36:47.000Z"
+            },
+            "whatsNew": "OpenArt's AI Creator Studio allows users to generate high-quality videos and images using AI. This tool opens up new possibilities for creative professionals. The studio provides an intuitive interface for users to create custom content.",
+            "whyItMatters": "The AI Creator Studio has the potential to revolutionize the way we create visual content, making it more accessible and efficient. This technology can benefit various industries, including gaming, advertising, and entertainment.",
+            "howToUse": "Users can access the AI Creator Studio through OpenArt's platform, where they can experiment with different AI models and templates to generate unique content. By leveraging this tool, creators can streamline their workflow and focus on high-level creative decisions.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-pkojjbeop",
             "title": "AI Art Concept",
@@ -1963,7 +1995,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": null
         },
         {
@@ -1982,7 +2014,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -1991,7 +2023,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2000,7 +2032,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": "Regulatory updates"
         },
         {
@@ -2018,7 +2050,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2027,7 +2059,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2047,7 +2079,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2105,7 +2137,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2114,7 +2146,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T10:38:15.259Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2252,7 +2284,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T12:02:21.508Z",
+            "lastScan": "2026-07-25T14:28:43.126Z",
             "note": null
         },
         {
