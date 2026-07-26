@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-26T14:27:28.838Z",
+        "scanDate": "2026-07-26T15:59:13.366Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 61,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-yl17vqest",
+            "title": "AI Art Style",
+            "subtitle": "Article about AI-generated art styles, including Anima, Illustrious, NoobAI, and Pony, on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Art Style",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaHBqT2FmbjF5Vndpa1g4b0VuaS13MGtlNDFYRFFvNGZwSUV3WFVkNnhiVWFBdzJvWnFTREdSYW9VZF92cmJ1bTlsblFqX1huRU9PdzNHRElmUUJ4STZIQk9OcWZfUDVNT3FXYUtSRDRwX21mR2Z5cTFtRWRoUjgta2daQVk3cWJWRm1LbHdpTTU0TzI5SDNqZjV0SG9EaUJuZzRvRl9xTW1vRC1DQ0t1dDBfZGJwcXN4eWk1eDdxNVc0NzNuQTExc1A2ZnJia2FNTXA3MlJOaWxzUjVjTi15Rnh2NS1sbG5rZThHNmozQm5FUmpkdE9BN0lDU1dqVno1aHBpNTctYVNHdw?oc=5",
+                "date": "2026-07-18T02:12:23.000Z"
+            },
+            "whatsNew": "The article discusses various AI-generated art styles, such as Anima, Illustrious, NoobAI, and Pony, and their applications. It highlights the growing trend of using AI in art generation. The article also mentions the use of these styles in creating many characters.",
+            "whyItMatters": "The use of AI in art generation is becoming increasingly popular, and understanding these styles can help artists and designers create new and innovative content. This trend has the potential to revolutionize the art and design industries.",
+            "howToUse": "Artists and designers can use AI-generated art styles to create unique and innovative content, such as character designs and illustrations. They can experiment with different styles and tools to find the one that best suits their needs.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-rlmwxibhd",
             "title": "National Lottery",
@@ -2026,7 +2057,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": null
         },
         {
@@ -2045,7 +2076,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2054,7 +2085,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2063,7 +2094,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": "Regulatory updates"
         },
         {
@@ -2081,7 +2112,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2090,7 +2121,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2110,7 +2141,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2168,7 +2199,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2315,7 +2346,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-26T14:27:28.838Z",
+            "lastScan": "2026-07-26T15:59:13.366Z",
             "note": null
         },
         {
