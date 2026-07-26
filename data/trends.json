@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-25T23:57:35.602Z",
+        "scanDate": "2026-07-26T02:56:29.529Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,64 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-rlmwxibhd",
+            "title": "National Lottery",
+            "subtitle": "The UK Gambling Commission discusses the current National Lottery licence",
+            "category": "iGaming",
+            "tags": [
+                "National Lottery",
+                "Gambling Commission",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUldaRG81UTNaVWZ2QmdVTVRUUmZnTmVXM3h0bnVhTFpBZVpoM3lRZGlWWVNYVkc1UGFFTW5LTUtkRllNdFJvR0s3dnQ3ci04Q3QyQTZrSmpKV1FxNEw3NEZTLXBEZGgxUjJsWUdfekhubU01eHU5QmFXanY2YmxRRjRHLXJ5a2tqWkVHT3NtT1ZDUFRHOTcxVlBjN1VjVDg?oc=5",
+                "date": "2026-07-20T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has provided information on the current National Lottery licence, highlighting regulatory oversight in the iGaming sector. This indicates ongoing efforts to ensure compliance and fairness in lottery operations. The commission's involvement underscores the importance of licensing in the industry.",
+            "whyItMatters": "The National Lottery licence is crucial for the UK's gambling industry, as it ensures that lottery operations are conducted fairly and in accordance with regulations. This has significant implications for both operators and consumers.",
+            "howToUse": "Operators should ensure they are aware of and comply with all licensing requirements to avoid regulatory issues, while consumers can benefit from the transparency and fairness that such licensing provides.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-s8d23nluh",
+            "title": "Gambling Trust Data",
+            "subtitle": "UK Gambling Commission releases initial findings on consumer trust in advertising and promotion",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Consumer Trust",
+                "Advertising"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0lyeFEwXzZXYlF0MU9odThZVWF2RFlBMnp6WVFPaDFZT3hFM0wwNlFteHFPZS1BdlI3S181S0M0a3l5WDQ0WDRUQWE0cHpxaFZlSTZQSWhiVURHZ0FKRW90S3B0MWU2N2tBa0phd2czX3pqakk2a3dxUGU0YWhXamV5QW12ZjdpU01CUnZaX2hnQ241SE5TcXZxSlIyRjhfTXprWF9IdjY2b3FHejBaTHdCN0dhVWdtY1pDMDQtdVRSZw?oc=5",
+                "date": "2026-07-23T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released new data on consumer trust in the gambling industry, focusing on advertising and promotion. The findings aim to improve transparency and accountability in the sector. This data will likely influence future regulation changes.",
+            "whyItMatters": "The findings on consumer trust can significantly impact how gambling companies advertise and promote their services, affecting their marketing strategies and compliance with regulations.",
+            "howToUse": "Companies should review the findings to adjust their advertising and promotional materials to better align with consumer expectations and regulatory requirements.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-a4ua3z28i",
             "title": "Art Universe v1.0",
@@ -1537,35 +1595,6 @@
             "isNew": false
         },
         {
-            "id": "t-f7y20d5gh",
-            "title": "Dieselpunk Art",
-            "subtitle": "Dieselpunk propaganda art style explored with Anima",
-            "category": "Art",
-            "tags": [
-                "Dieselpunk",
-                "Propaganda Art",
-                "Anima"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlA1enFjSVprcENrMlNsVkgyR2h5dENqcGNPQVhEMzBFaFlHVDB0VlN5eC1tMWR1TENuZEV6U3docHZmaVFvR0pXNUFsTHNFcW5VRHpYaWJOQnhPY0J0VWFEb1ZUUXZMU3RZem1GeDFWNlhackVjeVRRM3hmaFZUSXl5VmpnYWFLcHpOaHVucTdjX0RzTGNtODBWWXk2RUtzVjVmM3AtbUdXdDg?oc=5",
-                "date": "2026-07-12T02:12:44.000Z"
-            },
-            "whatsNew": "The article discusses the dieselpunk propaganda art style and its implementation using Anima. This style combines futuristic and vintage elements, creating a unique visual aesthetic. The use of Anima suggests a focus on digital art generation.",
-            "whyItMatters": "The exploration of dieselpunk propaganda art can inspire new visual design trends in the gaming and art industries. The use of digital tools like Anima can streamline the art creation process, making it more accessible to artists and designers.",
-            "howToUse": "Artists and designers can use Anima to experiment with dieselpunk propaganda art styles, creating unique and captivating visuals for their projects. They can also explore combining dieselpunk elements with other styles to create innovative designs.",
-            "beneficiaries": [
-                "Game Artists",
-                "Graphic Designers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "visual-style-trends",
-            "isNew": false
-        },
-        {
             "id": "t-zt5rux7r8",
             "title": "AI Fruit Generator",
             "subtitle": "OpenArt introduces an AI tool to generate cute fruit character images",
@@ -1997,7 +2026,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": null
         },
         {
@@ -2016,7 +2045,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2025,7 +2054,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2034,7 +2063,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": "Regulatory updates"
         },
         {
@@ -2052,7 +2081,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2061,7 +2090,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2081,7 +2110,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2139,7 +2168,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2148,7 +2177,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T17:56:19.102Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2286,7 +2315,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-25T23:57:35.602Z",
+            "lastScan": "2026-07-26T02:56:29.529Z",
             "note": null
         },
         {
@@ -38734,6 +38763,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-f7y20d5gh",
+            "title": "Dieselpunk Art",
+            "subtitle": "Dieselpunk propaganda art style explored with Anima",
+            "category": "Art",
+            "tags": [
+                "Dieselpunk",
+                "Propaganda Art",
+                "Anima"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlA1enFjSVprcENrMlNsVkgyR2h5dENqcGNPQVhEMzBFaFlHVDB0VlN5eC1tMWR1TENuZEV6U3docHZmaVFvR0pXNUFsTHNFcW5VRHpYaWJOQnhPY0J0VWFEb1ZUUXZMU3RZem1GeDFWNlhackVjeVRRM3hmaFZUSXl5VmpnYWFLcHpOaHVucTdjX0RzTGNtODBWWXk2RUtzVjVmM3AtbUdXdDg?oc=5",
+                "date": "2026-07-12T02:12:44.000Z"
+            },
+            "whatsNew": "The article discusses the dieselpunk propaganda art style and its implementation using Anima. This style combines futuristic and vintage elements, creating a unique visual aesthetic. The use of Anima suggests a focus on digital art generation.",
+            "whyItMatters": "The exploration of dieselpunk propaganda art can inspire new visual design trends in the gaming and art industries. The use of digital tools like Anima can streamline the art creation process, making it more accessible to artists and designers.",
+            "howToUse": "Artists and designers can use Anima to experiment with dieselpunk propaganda art styles, creating unique and captivating visuals for their projects. They can also explore combining dieselpunk elements with other styles to create innovative designs.",
+            "beneficiaries": [
+                "Game Artists",
+                "Graphic Designers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
             "isNew": false
         }
     ]
