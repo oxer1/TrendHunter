@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-27T15:40:05.535Z",
+        "scanDate": "2026-07-27T17:39:37.598Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0wvglhwu1",
@@ -80,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-z5308k0su",
@@ -1841,35 +1841,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-nvepa64c4",
-            "title": "GC Risk Assessments",
-            "subtitle": "MPs seek clarity on financial risk assessments from Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Financial Risk",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM01zMExwdzJLWjRhcVUtOThKNFFCbGM2STE4dWVWZTNPZmhlNkR4cVoyT2dKRnZ5U21kdm9COWR0ZmdWRXlINU03VFVYR1Z0bEtYVTlZWGY3cGtXZExKMy0wcEJmamJNMkRGcGhiMWNJa0RmOC1aU0JaMGhtbVpGTXA3U3k3VDJfUXpLUTVCRUQ4SWpDeGxCNkdHTnZ0YkdjSVdmVURpNE9FM2h0SmhldUFjYnA?oc=5",
-                "date": "2026-07-13T17:26:15.000Z"
-            },
-            "whatsNew": "MPs are calling for greater clarity from the Gambling Commission regarding financial risk assessments. This move aims to improve transparency and accountability within the iGaming industry.",
-            "whyItMatters": "The call for clarity on financial risk assessments could lead to stricter regulations and improved player protection in the iGaming sector.",
-            "howToUse": "Operators should review their financial risk assessment processes to ensure compliance with potential new regulations.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2026,7 +1997,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": null
         },
         {
@@ -2045,7 +2016,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2054,7 +2025,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2063,7 +2034,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": "Regulatory updates"
         },
         {
@@ -2081,7 +2052,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2090,7 +2061,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2110,7 +2081,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2168,7 +2139,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.535Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2177,7 +2148,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.536Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2314,7 +2285,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.536Z",
+            "lastScan": "2026-07-27T17:39:37.598Z",
             "note": null
         },
         {
@@ -38979,6 +38950,35 @@
             ],
             "visualStyle": null,
             "cluster": "iGaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-nvepa64c4",
+            "title": "GC Risk Assessments",
+            "subtitle": "MPs seek clarity on financial risk assessments from Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Financial Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM01zMExwdzJLWjRhcVUtOThKNFFCbGM2STE4dWVWZTNPZmhlNkR4cVoyT2dKRnZ5U21kdm9COWR0ZmdWRXlINU03VFVYR1Z0bEtYVTlZWGY3cGtXZExKMy0wcEJmamJNMkRGcGhiMWNJa0RmOC1aU0JaMGhtbVpGTXA3U3k3VDJfUXpLUTVCRUQ4SWpDeGxCNkdHTnZ0YkdjSVdmVURpNE9FM2h0SmhldUFjYnA?oc=5",
+                "date": "2026-07-13T17:26:15.000Z"
+            },
+            "whatsNew": "MPs are calling for greater clarity from the Gambling Commission regarding financial risk assessments. This move aims to improve transparency and accountability within the iGaming industry.",
+            "whyItMatters": "The call for clarity on financial risk assessments could lead to stricter regulations and improved player protection in the iGaming sector.",
+            "howToUse": "Operators should review their financial risk assessment processes to ensure compliance with potential new regulations.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
