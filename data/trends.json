@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-27T08:27:51.727Z",
+        "scanDate": "2026-07-27T12:18:54.403Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 58,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-z5308k0su",
+            "title": "GTA Render Style",
+            "subtitle": "Krea2 introduces RenderWare graphics style inspired by GTA:SA",
+            "category": "Art",
+            "tags": [
+                "RenderWare",
+                "GTA:SA",
+                "Krea2",
+                "Graphics Style"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QeHk4S1JrRWxtMXUtT0ZWU3RYc3pGZnBMcHIwVjByM1lRR3FDZUU0NjJIRlozNEYtVGNpSzdEMTRCenl1OEdpR0U2Y3JzX1pHVEVrZ0ZxXzZ3eXI2NWdJTTNmRnZENXlkR05iLUFSMkFEbWVf?oc=5",
+                "date": "2026-07-27T02:29:40.000Z"
+            },
+            "whatsNew": "Krea2 has released a new graphics style inspired by GTA:SA's RenderWare engine. This style is available as part of the Krea 2 LoRA package on Civitai.",
+            "whyItMatters": "This release allows artists and developers to create content with a nostalgic feel, reminiscent of classic GTA games. It also demonstrates the versatility of Krea2's tools.",
+            "howToUse": "Developers can utilize this style to create games or animations with a retro aesthetic, while artists can experiment with the unique visual effects and textures it offers.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "visual-style-trends",
+            "isNew": true
+        },
         {
             "id": "t-e9o9qg7ml",
             "title": "AI Trading Rise",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-gd2c7s3dp",
@@ -81,7 +113,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-yl17vqest",
@@ -1776,70 +1808,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-v4d55cmhv",
-            "title": "Lustify Workflows",
-            "subtitle": "Civitai introduces Lustify Workflows with Krea 2 and SDXL integration",
-            "category": "AI",
-            "tags": [
-                "AI Workflows",
-                "Krea 2",
-                "SDXL",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SVmNCakhmZ0MtdTZBelNiN2VmbFlmcWlLMmo2alZVUW5POEhhdUc5M2I5R2JoSGZRUGw2b0ktUmNHQ2p0c3VVLXdBWUN3aURGTzk0UnhzOEJodHZYV25IUVZ6Qm5CcENPVTNHNlFuNWVTdw?oc=5",
-                "date": "2026-07-13T10:32:44.000Z"
-            },
-            "whatsNew": "Civitai has introduced Lustify Workflows, integrating Krea 2 and SDXL for enhanced AI capabilities. This development aims to streamline AI workflows, improving efficiency and output quality. The integration is expected to have a significant impact on AI art generation and related applications.",
-            "whyItMatters": "The introduction of Lustify Workflows by Civitai marks a significant step in AI workflow optimization, potentially benefiting various stakeholders in the AI and art generation sectors. This could lead to more sophisticated and accessible AI tools for creative work.",
-            "howToUse": "Developers and artists can leverage Lustify Workflows by integrating Krea 2 and SDXL into their projects, potentially enhancing their AI art generation capabilities and workflow efficiency. Civitai's documentation and community resources can provide guidance on implementation and best practices.",
-            "beneficiaries": [
-                "AI Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-j0l6e6sfa",
-            "title": "CIRSA Acquires Slots",
-            "subtitle": "CIRSA acquires majority stake in Paraguay's Slots del Sol",
-            "category": "iGaming",
-            "tags": [
-                "CIRSA",
-                "Slots del Sol",
-                "Acquisition"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtwd0t6cnVIUUx0cVhHZHFNRVhybV8xZ0RzWVhaRkp4dWZZNEI0ckZYVk54RUdWRHBZZ0ZWREw2dlFqRlNBcnN5QzNkQkhET3J5M2Y1Y1YyX2N6blprM3RQZlk4RlFvWEpzckFUdFJrNlFVM3ZCZnphOUlWYW9uTElRekVaU3E1NlIybjVaN0NoWnR2V3c?oc=5",
-                "date": "2026-07-13T11:33:23.000Z"
-            },
-            "whatsNew": "CIRSA has acquired a majority stake in Paraguay's Slots del Sol, expanding its presence in the region. This move is expected to increase CIRSA's market share and revenue. The acquisition is part of CIRSA's growth strategy in Latin America.",
-            "whyItMatters": "The acquisition is significant for the iGaming industry as it shows the growing interest of major players in expanding their presence in Latin America. It may lead to increased competition and innovation in the region.",
-            "howToUse": "Companies looking to expand in Latin America can consider similar strategic acquisitions to increase their market share and revenue.",
-            "beneficiaries": [
-                "iGaming operators",
-                "Investors"
-            ],
-            "companies": [
-                "CIRSA",
-                "Slots del Sol"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -1996,7 +1964,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": null
         },
         {
@@ -2015,7 +1983,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2024,7 +1992,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2033,7 +2001,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "Regulatory updates"
         },
         {
@@ -2051,7 +2019,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2060,7 +2028,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2080,7 +2048,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2138,7 +2106,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2147,7 +2115,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2156,7 +2124,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": "Style browsing signal"
         },
         {
@@ -2193,7 +2161,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": null
         },
         {
@@ -2202,7 +2170,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": null
         },
         {
@@ -2284,7 +2252,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T08:27:51.727Z",
+            "lastScan": "2026-07-27T12:18:54.403Z",
             "note": null
         },
         {
@@ -38885,6 +38853,70 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-v4d55cmhv",
+            "title": "Lustify Workflows",
+            "subtitle": "Civitai introduces Lustify Workflows with Krea 2 and SDXL integration",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Krea 2",
+                "SDXL",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SVmNCakhmZ0MtdTZBelNiN2VmbFlmcWlLMmo2alZVUW5POEhhdUc5M2I5R2JoSGZRUGw2b0ktUmNHQ2p0c3VVLXdBWUN3aURGTzk0UnhzOEJodHZYV25IUVZ6Qm5CcENPVTNHNlFuNWVTdw?oc=5",
+                "date": "2026-07-13T10:32:44.000Z"
+            },
+            "whatsNew": "Civitai has introduced Lustify Workflows, integrating Krea 2 and SDXL for enhanced AI capabilities. This development aims to streamline AI workflows, improving efficiency and output quality. The integration is expected to have a significant impact on AI art generation and related applications.",
+            "whyItMatters": "The introduction of Lustify Workflows by Civitai marks a significant step in AI workflow optimization, potentially benefiting various stakeholders in the AI and art generation sectors. This could lead to more sophisticated and accessible AI tools for creative work.",
+            "howToUse": "Developers and artists can leverage Lustify Workflows by integrating Krea 2 and SDXL into their projects, potentially enhancing their AI art generation capabilities and workflow efficiency. Civitai's documentation and community resources can provide guidance on implementation and best practices.",
+            "beneficiaries": [
+                "AI Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-j0l6e6sfa",
+            "title": "CIRSA Acquires Slots",
+            "subtitle": "CIRSA acquires majority stake in Paraguay's Slots del Sol",
+            "category": "iGaming",
+            "tags": [
+                "CIRSA",
+                "Slots del Sol",
+                "Acquisition"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtwd0t6cnVIUUx0cVhHZHFNRVhybV8xZ0RzWVhaRkp4dWZZNEI0ckZYVk54RUdWRHBZZ0ZWREw2dlFqRlNBcnN5QzNkQkhET3J5M2Y1Y1YyX2N6blprM3RQZlk4RlFvWEpzckFUdFJrNlFVM3ZCZnphOUlWYW9uTElRekVaU3E1NlIybjVaN0NoWnR2V3c?oc=5",
+                "date": "2026-07-13T11:33:23.000Z"
+            },
+            "whatsNew": "CIRSA has acquired a majority stake in Paraguay's Slots del Sol, expanding its presence in the region. This move is expected to increase CIRSA's market share and revenue. The acquisition is part of CIRSA's growth strategy in Latin America.",
+            "whyItMatters": "The acquisition is significant for the iGaming industry as it shows the growing interest of major players in expanding their presence in Latin America. It may lead to increased competition and innovation in the region.",
+            "howToUse": "Companies looking to expand in Latin America can consider similar strategic acquisitions to increase their market share and revenue.",
+            "beneficiaries": [
+                "iGaming operators",
+                "Investors"
+            ],
+            "companies": [
+                "CIRSA",
+                "Slots del Sol"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
