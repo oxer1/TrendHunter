@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-27T04:34:20.222Z",
+        "scanDate": "2026-07-27T08:27:51.727Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 59,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-e9o9qg7ml",
+            "title": "AI Trading Rise",
+            "subtitle": "Kambi CEO discusses the end of human trading in the iGaming industry",
+            "category": "iGaming",
+            "tags": [
+                "iGaming",
+                "AI",
+                "Trading"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEZ2akxCRFQwY2lhMXNUU0E1VDZhMkk4TDYxbW5xVmhiZVZOWmF3UWdWX2R2QkFYQzRtcGgtTjJFZnJrREFHdktYbVh4RWhhR2RuZUI2SzZsb2RRLWhfV1RpQ01GeE9GLUh1bnE5dExCQnZQU2JSUHVIa24tU0pHSGtrZGNXM1Q4T3ZNUXJyT2JsbVF3akVRbjFIVENvSTJzbmNXcWln?oc=5",
+                "date": "2026-07-27T08:20:39.000Z"
+            },
+            "whatsNew": "Kambi CEO states that human trading is no longer viable, indicating a shift towards AI-powered trading solutions. This change is expected to increase efficiency and reduce costs in the iGaming industry. The use of AI in trading is becoming more prevalent, with many companies adopting automated systems.",
+            "whyItMatters": "The move towards AI-powered trading will significantly impact the iGaming industry, enabling operators to offer more competitive odds and improve customer experiences. This shift will also lead to job displacement for human traders, requiring companies to retrain staff.",
+            "howToUse": "Operators can leverage AI trading solutions to streamline their operations, reduce manual errors, and enhance their overall trading capabilities. By adopting AI-powered trading, companies can stay competitive in the market and improve their bottom line.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Trading Teams"
+            ],
+            "companies": [
+                "Kambi"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
+        {
+            "id": "t-gd2c7s3dp",
+            "title": "AI Character Creator",
+            "subtitle": "Krea2 ID Edit Character Dataset Creator released with tagger and RTX50xx attention fix on Civitai",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Character Creation",
+                "RTX50xx"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHJRYmZkX0R2LUI0Ny1pWnJELXF3ZWJaX0Vqa3VGSkxaMXhnLTBYRExGMkpLX0thNnRlUlVkTmVZbXdreWhSalY1TU5mcDdwbWlESzRtMlAteTlEZ1B0WEsyNk53N21jdWVCYnBfeHBYMGtsVE04c3YtODB4UUE5bXVtZF9rbzhYdEpGazI5Rk5KNGNPM0dTT1pUZlY0dEdVNTVIOWhDS1hqZFN2bjdyeFExTmV2NWpzdlE?oc=5",
+                "date": "2026-07-26T20:19:14.000Z"
+            },
+            "whatsNew": "The Krea2 ID Edit Character Dataset Creator is a new tool that allows users to create and edit character datasets with advanced tagging features and optional support for RTX50xx attention fix.",
+            "whyItMatters": "This tool has the potential to revolutionize character creation in various industries such as gaming, animation, and film, by providing a more efficient and customizable solution.",
+            "howToUse": "Users can utilize the Krea2 ID Edit Character Dataset Creator by accessing it on Civitai and following the provided documentation to create and edit their own character datasets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animators",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-yl17vqest",
             "title": "AI Art Style",
@@ -1350,37 +1413,6 @@
             "isNew": false
         },
         {
-            "id": "t-1uiysf7uz",
-            "title": "AI Art Update",
-            "subtitle": "Civitai releases One obsession - v23, an Illustrious Checkpoint",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Civitai",
-                "Checkpoint"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdFZmT1Zkc2p3WjVlblZ2TmFwQWhvaHo3Q0xvU1B0R1Q4VzdtUHdlRERfR2swVjFyTE90ekFJQWwxcTJYY2JKZkx6a3FjbkVVTHVwVDRRN19RZW13?oc=5",
-                "date": "2026-07-13T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released One obsession - v23, a new checkpoint in their illustrious series, showcasing advancements in AI art generation. This update highlights the continuous improvement in AI-powered art tools. The release is part of Civitai's efforts to push the boundaries of what is possible with AI in creative work.",
-            "whyItMatters": "This update matters because it demonstrates the rapid evolution of AI art generation capabilities, which can significantly impact the gaming and visual design industries. It shows how AI can be harnessed for more sophisticated and detailed art creation, potentially changing the way games and other visual media are developed.",
-            "howToUse": "Developers and artists can utilize this update by integrating the new checkpoint into their projects, allowing for more complex and realistic art generation. This can be particularly useful for creating immersive game environments or detailed character designs.",
-            "beneficiaries": [
-                "Game Developers",
-                "Visual Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-13jf6mvsc",
             "title": "Stable Diffusion XL",
             "subtitle": "Civitai releases Juggernaut XL - Ragnarok Stable Diffusion XL Checkpoint",
@@ -1438,67 +1470,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-6qw74z484",
-            "title": "Atlantic City Jackpots",
-            "subtitle": "NJ Division of Gaming Enforcement releases list of jackpots over $40,000",
-            "category": "iGaming",
-            "tags": [
-                "NJ DGE",
-                "Atlantic City",
-                "Jackpots"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "NJ DGE",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
-                "date": "2026-07-13T07:00:00.000Z"
-            },
-            "whatsNew": "The NJ Division of Gaming Enforcement has published a list of jackpots won in Atlantic City, with wins exceeding $40,000. The list is 98 pages long, indicating a significant number of large wins. The publication of this list provides transparency into the gaming industry in New Jersey.",
-            "whyItMatters": "This list matters as it shows the scale of winnings in Atlantic City, which can impact the attractiveness of the city as a gaming destination. It also demonstrates regulatory transparency, which is crucial for the integrity of the gaming industry.",
-            "howToUse": "Gaming operators and regulators can use this information to understand player behavior and preferences, while players can use it to inform their gaming decisions.",
-            "beneficiaries": [
-                "Gaming Operators",
-                "Regulators",
-                "Players"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
-            "isNew": false
-        },
-        {
-            "id": "t-9qsfw6ib8",
-            "title": "Krea2 TextFusion",
-            "subtitle": "Civitai releases Krea2 TextFusion Refusal-Reduction LoRA - v1.0",
-            "category": "AI",
-            "tags": [
-                "LoRA",
-                "TextFusion",
-                "Krea2"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNXNONU03NUtKRFJFVEtpcjBKaC11a1NnRHkwc3JuM1NJZm1fa1hfcGhsMmlmRktkeFdyUGhpWU9sZmNpcXFJUEViajA5bV80WnRqdUZNSW43SHlqRUM3czEtcVpSSUljSTVaYzBlazFOLWlUQlRacm9ra3Axc3c?oc=5",
-                "date": "2026-07-13T06:52:04.000Z"
-            },
-            "whatsNew": "Civitai has introduced Krea2 TextFusion Refusal-Reduction LoRA, a new tool for AI text generation. This version, v1.0, marks the initial release of the technology. The tool aims to improve text generation capabilities.",
-            "whyItMatters": "This technology has the potential to significantly impact AI text generation, offering improved refusal-reduction capabilities. It could be particularly useful in applications requiring nuanced and contextually appropriate text outputs.",
-            "howToUse": "Developers can integrate Krea2 TextFusion into their projects to enhance text generation tasks, potentially leading to more realistic and engaging outputs. Civitai provides resources and documentation for effective implementation.",
-            "beneficiaries": [
-                "AI Developers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2025,7 +1996,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": null
         },
         {
@@ -2044,7 +2015,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2053,7 +2024,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2062,7 +2033,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "Regulatory updates"
         },
         {
@@ -2080,7 +2051,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2089,7 +2060,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2109,7 +2080,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2167,7 +2138,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2176,7 +2147,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2185,7 +2156,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": "Style browsing signal"
         },
         {
@@ -2222,7 +2193,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": null
         },
         {
@@ -2231,7 +2202,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": null
         },
         {
@@ -2313,7 +2284,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T04:34:20.222Z",
+            "lastScan": "2026-07-27T08:27:51.727Z",
             "note": null
         },
         {
@@ -38822,6 +38793,98 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
+            "isNew": false
+        },
+        {
+            "id": "t-1uiysf7uz",
+            "title": "AI Art Update",
+            "subtitle": "Civitai releases One obsession - v23, an Illustrious Checkpoint",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Civitai",
+                "Checkpoint"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdFZmT1Zkc2p3WjVlblZ2TmFwQWhvaHo3Q0xvU1B0R1Q4VzdtUHdlRERfR2swVjFyTE90ekFJQWwxcTJYY2JKZkx6a3FjbkVVTHVwVDRRN19RZW13?oc=5",
+                "date": "2026-07-13T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released One obsession - v23, a new checkpoint in their illustrious series, showcasing advancements in AI art generation. This update highlights the continuous improvement in AI-powered art tools. The release is part of Civitai's efforts to push the boundaries of what is possible with AI in creative work.",
+            "whyItMatters": "This update matters because it demonstrates the rapid evolution of AI art generation capabilities, which can significantly impact the gaming and visual design industries. It shows how AI can be harnessed for more sophisticated and detailed art creation, potentially changing the way games and other visual media are developed.",
+            "howToUse": "Developers and artists can utilize this update by integrating the new checkpoint into their projects, allowing for more complex and realistic art generation. This can be particularly useful for creating immersive game environments or detailed character designs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Visual Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-6qw74z484",
+            "title": "Atlantic City Jackpots",
+            "subtitle": "NJ Division of Gaming Enforcement releases list of jackpots over $40,000",
+            "category": "iGaming",
+            "tags": [
+                "NJ DGE",
+                "Atlantic City",
+                "Jackpots"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "NJ DGE",
+                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaHNUQ3laSEJveU9ORnJkcDJqYTk3c184b205d0ROcldsenVkMzJSREo2QjNyVVoxZzVVbmdadWJRSi1Ndms0cEU0cm0wSFhGR19DREtBU1U5dVBRc09rMHg4TV81OVJ4TkRYS2hBdGZFeVl1dC1LZFV2R25NZw?oc=5",
+                "date": "2026-07-13T07:00:00.000Z"
+            },
+            "whatsNew": "The NJ Division of Gaming Enforcement has published a list of jackpots won in Atlantic City, with wins exceeding $40,000. The list is 98 pages long, indicating a significant number of large wins. The publication of this list provides transparency into the gaming industry in New Jersey.",
+            "whyItMatters": "This list matters as it shows the scale of winnings in Atlantic City, which can impact the attractiveness of the city as a gaming destination. It also demonstrates regulatory transparency, which is crucial for the integrity of the gaming industry.",
+            "howToUse": "Gaming operators and regulators can use this information to understand player behavior and preferences, while players can use it to inform their gaming decisions.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Regulators",
+                "Players"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-9qsfw6ib8",
+            "title": "Krea2 TextFusion",
+            "subtitle": "Civitai releases Krea2 TextFusion Refusal-Reduction LoRA - v1.0",
+            "category": "AI",
+            "tags": [
+                "LoRA",
+                "TextFusion",
+                "Krea2"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNXNONU03NUtKRFJFVEtpcjBKaC11a1NnRHkwc3JuM1NJZm1fa1hfcGhsMmlmRktkeFdyUGhpWU9sZmNpcXFJUEViajA5bV80WnRqdUZNSW43SHlqRUM3czEtcVpSSUljSTVaYzBlazFOLWlUQlRacm9ra3Axc3c?oc=5",
+                "date": "2026-07-13T06:52:04.000Z"
+            },
+            "whatsNew": "Civitai has introduced Krea2 TextFusion Refusal-Reduction LoRA, a new tool for AI text generation. This version, v1.0, marks the initial release of the technology. The tool aims to improve text generation capabilities.",
+            "whyItMatters": "This technology has the potential to significantly impact AI text generation, offering improved refusal-reduction capabilities. It could be particularly useful in applications requiring nuanced and contextually appropriate text outputs.",
+            "howToUse": "Developers can integrate Krea2 TextFusion into their projects to enhance text generation tasks, potentially leading to more realistic and engaging outputs. Civitai provides resources and documentation for effective implementation.",
+            "beneficiaries": [
+                "AI Developers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
