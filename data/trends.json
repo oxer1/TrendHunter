@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-28T00:04:06.297Z",
+        "scanDate": "2026-07-28T03:58:46.994Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,101 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-jbddijnpw",
+            "title": "AI Video Community",
+            "subtitle": "OpenArt launches a platform for discovering and sharing creative AI video content",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Creative Content",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RSFgzUDdUYmRYaXMwMm5GQmIwVjJEZjlJSHZOb2pWOFNLS2ZuOEx5Q0JaZ1o3U1d1UmEtS1UtT2JBYTVnVDdGQ2g3WUowWVdKREpLMVZxNVlMRU5lSW9ESUVkRThXZw?oc=5",
+                "date": "2026-07-28T00:25:03.000Z"
+            },
+            "whatsNew": "OpenArt introduces an AI video story community where users can discover and share innovative content. This platform aims to foster creativity and collaboration among artists and creators. The community is designed to showcase unique AI-generated videos and stories.",
+            "whyItMatters": "The AI video story community has the potential to revolutionize the way we create and consume video content, enabling new forms of artistic expression and interaction. This platform can also provide valuable insights into the applications and limitations of AI in video production.",
+            "howToUse": "Creators can join the community to share their AI-generated videos, get feedback, and learn from others. Users can explore the platform to discover new and innovative content, and engage with like-minded individuals.",
+            "beneficiaries": [
+                "Artists",
+                "Content Creators",
+                "Designers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-8395pw52g",
+            "title": "AI Photo Restoration",
+            "subtitle": "Using AI to restore old photos in minutes with OpenArt's AI Image Upscaler",
+            "category": "AI",
+            "tags": [
+                "AI Image Upscaler",
+                "Photo Restoration",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44T2FQY0JEQVk1bGpRMXI4RU9mcm9FUUs5UUhzcDNET3JwNkRWaFNFdVB4SUVNRVRsM3hsaDBYYUtWNWp2dEJ2T3hNbEpZbElwaWI2ODhhSUVnU0pGcVBv?oc=5",
+                "date": "2026-07-27T14:47:19.000Z"
+            },
+            "whatsNew": "OpenArt introduces an AI-powered image upscaler that can restore old photos in minutes, enhancing image quality and preserving memories. This technology leverages AI algorithms to improve photo clarity and remove noise. The process is straightforward and accessible to users.",
+            "whyItMatters": "The ability to restore old photos quickly and efficiently can have a significant impact on preserving personal and historical memories. This technology also opens up new possibilities for professional photographers and archivists looking to enhance and restore old images.",
+            "howToUse": "Users can upload their old photos to OpenArt's platform and utilize the AI Image Upscaler tool to enhance and restore their images in a matter of minutes. The tool is designed to be user-friendly, requiring minimal technical expertise.",
+            "beneficiaries": [
+                "Photographers",
+                "Archivists",
+                "Individuals with old family photos"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-k0lj616jw",
+            "title": "AI Video Tools",
+            "subtitle": "OpenArt introduces Kling 3.0 Motion Control for creating motion-controlled AI videos",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Motion Control",
+                "Kling 3.0"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMEVBTmswX3Nrc2laUVBjQ2w2WnE3QURnOXVCaS1Cb3EtczdENW43NENIMjA0T2tudllXMzZ3c2ZLaWc5UV9uaHo3MDdkU1FBTWVOVjFERllweGEwc3U4b3JwS2M4QnZV?oc=5",
+                "date": "2026-07-27T16:52:08.000Z"
+            },
+            "whatsNew": "Kling 3.0 Motion Control allows users to create motion-controlled AI videos, a new feature in AI video generation. This tool enables more precise control over video creation. The introduction of Kling 3.0 is expected to enhance AI video production capabilities.",
+            "whyItMatters": "The ability to create motion-controlled AI videos can significantly impact the quality and realism of AI-generated content, making it more appealing for various applications. This development can influence the future of AI video generation and related industries.",
+            "howToUse": "Content creators can utilize Kling 3.0 Motion Control by integrating it into their AI video production workflow, allowing for more detailed and controlled video generation. This can be particularly useful in fields like advertising, entertainment, and education.",
+            "beneficiaries": [
+                "Content Creators",
+                "Video Producers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-fla8yd0fi",
             "title": "Kalshi Nevada Fix",
@@ -50,7 +145,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-q546m7o5g",
@@ -1844,35 +1939,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-e8l2kmjcp",
-            "title": "UK Gambling Sanctions",
-            "subtitle": "The UK Gambling Commission imposes regulatory sanctions on Wood Jennifer Bethany",
-            "category": "iGaming",
-            "tags": [
-                "Regulatory Sanctions",
-                "Gambling Commission",
-                "UK"
-            ],
-            "trendStrength": 3,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTIxMXYwb3dFcHhlVXBXV2dhb3loUXF4REZiY3I2MUJIY0xCU0NoLTlqaGdKdWJ4RTU0UFNoNE80QjdDZFRSb21oaTV2ZDlwTERmZUVUNWxJa2UtWngtblFhTnJTWFpOOTVfLWpiNHl1Y2xWMUpRc1BNOXpTWUZRNzRQWlcxNmZCMDhxcA?oc=5",
-                "date": "2026-07-14T01:52:13.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has taken regulatory action against Wood Jennifer Bethany. The details of the sanctions are not specified in the provided content.",
-            "whyItMatters": "This action demonstrates the Commission's commitment to enforcing regulations in the gambling industry, ensuring compliance and protecting consumers.",
-            "howToUse": "Operators should review and ensure compliance with all relevant regulations to avoid similar sanctions.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2029,7 +2095,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": null
         },
         {
@@ -2048,7 +2114,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2057,7 +2123,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2066,7 +2132,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "Regulatory updates"
         },
         {
@@ -2084,7 +2150,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2093,7 +2159,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2113,7 +2179,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2171,7 +2237,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2180,7 +2246,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T21:06:47.344Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2189,7 +2255,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.536Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": "Style browsing signal"
         },
         {
@@ -2226,7 +2292,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-27T15:40:05.536Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": null
         },
         {
@@ -2235,7 +2301,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-27T15:40:05.536Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": null
         },
         {
@@ -2317,7 +2383,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T00:04:06.297Z",
+            "lastScan": "2026-07-28T03:58:46.994Z",
             "note": null
         },
         {
@@ -39043,6 +39109,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-e8l2kmjcp",
+            "title": "UK Gambling Sanctions",
+            "subtitle": "The UK Gambling Commission imposes regulatory sanctions on Wood Jennifer Bethany",
+            "category": "iGaming",
+            "tags": [
+                "Regulatory Sanctions",
+                "Gambling Commission",
+                "UK"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTIxMXYwb3dFcHhlVXBXV2dhb3loUXF4REZiY3I2MUJIY0xCU0NoLTlqaGdKdWJ4RTU0UFNoNE80QjdDZFRSb21oaTV2ZDlwTERmZUVUNWxJa2UtWngtblFhTnJTWFpOOTVfLWpiNHl1Y2xWMUpRc1BNOXpTWUZRNzRQWlcxNmZCMDhxcA?oc=5",
+                "date": "2026-07-14T01:52:13.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has taken regulatory action against Wood Jennifer Bethany. The details of the sanctions are not specified in the provided content.",
+            "whyItMatters": "This action demonstrates the Commission's commitment to enforcing regulations in the gambling industry, ensuring compliance and protecting consumers.",
+            "howToUse": "Operators should review and ensure compliance with all relevant regulations to avoid similar sanctions.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
