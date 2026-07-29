@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-29T11:23:16.789Z",
+        "scanDate": "2026-07-29T14:02:47.259Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hym6flnl5",
+            "title": "Caesars Digital Grows",
+            "subtitle": "Caesars Digital's Q2 revenue increases slightly before the Fertitta takeover.",
+            "category": "iGaming",
+            "tags": [
+                "Caesars Digital",
+                "Fertitta",
+                "Q2 Revenue"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTl6Sk8yWDNmalFmSXg3ck1ENmJWV0pRTlU5cnB6ckVIZnV6S2sxcmkyUTFqTW1ILXJPeVBUTXZmOWJsd3otZUdqaV9EZkMxMjVhalZ5ejJ5cnJka3l0SHBEazVKZ212bmdqTzR0OEZpelFXTmltSmJGR2JWQUVzanZuTHdNbm1DYW9Bcnh0TUNlY0E5MkRxbGtmOWdBRjBjaVpLc001bw?oc=5",
+                "date": "2026-07-29T13:07:36.000Z"
+            },
+            "whatsNew": "Caesars Digital has reported a slight increase in Q2 revenue. This comes ahead of the anticipated Fertitta takeover, indicating a period of transition for the company. The increase in revenue suggests stability in the face of significant corporate changes.",
+            "whyItMatters": "The slight revenue increase is a positive sign for Caesars Digital's resilience during corporate transitions. It may also reflect on the potential impact of the Fertitta takeover on the company's financials and operations.",
+            "howToUse": "Operators and investors should monitor the post-takeover performance of Caesars Digital to understand the implications of such corporate moves on revenue and market share.",
+            "beneficiaries": [
+                "Investors",
+                "Gaming Operators"
+            ],
+            "companies": [
+                "Caesars Digital",
+                "Fertitta"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-01tulhbq5",
+            "title": "Evolution Fined",
+            "subtitle": "Evolution Malta Holding Limited to pay £4.75m due to regulatory issues",
+            "category": "iGaming",
+            "tags": [
+                "Evolution Malta",
+                "Gambling Commission",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmJUeng0emd3bVFKV2ozbzNRVEttdTczN3FFTUVVYmMyRU5za3V1NHU3RjVzbEVxdldCZ1BweDBaOEZSSG45c2ItQWNaUEEtdk5nanRtZGUtUlNtb19HMmNrVGVMME5ON00zTWFDLVhld0lOMk5DemdOaE9lOEg2dHN1QU9iX3EyMnFrZW5LaWNrdXpmYnRKYl9OWlZ0WDQ?oc=5",
+                "date": "2026-07-23T06:06:02.000Z"
+            },
+            "whatsNew": "Evolution Malta Holding Limited has been fined £4.75m by the UK Gambling Commission. The fine is a result of regulatory issues. This penalty reflects the Commission's ongoing efforts to enforce strict regulations within the iGaming industry.",
+            "whyItMatters": "The fine highlights the importance of compliance with regulatory requirements in the iGaming sector. It also demonstrates the Commission's commitment to protecting consumers and maintaining the integrity of the industry.",
+            "howToUse": "Operators should ensure they are fully compliant with all relevant regulations to avoid similar penalties. Regular audits and adherence to best practices are essential.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Evolution Malta Holding Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-vv0vk75p9",
+            "title": "Cinematic AI",
+            "subtitle": "IntoRealism ZIT Labs introduces cinematic capabilities with AI technology",
+            "category": "AI",
+            "tags": [
+                "AI",
+                "Cinematic",
+                "IntoRealism"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazBIeHNKMWd3bnRVN3hnazAxZm5oWkl4b1hqZ2E2WlhEUTIwTFJkdUhkM05GSnE4dXhTckJmT2tUX1h2aUJuSy1lekkxWXBvajNVb2RLNm9FeWs5UVN0VE5vcTlJTGVJS2VEMXhNMENwUUZzdWZQY0sxYnV3alBoSGIzYTdxdEpEMU5CZHNtRUhNd3hNLWtPUE5vX0EtR2FqRkFz?oc=5",
+                "date": "2026-07-24T02:13:40.000Z"
+            },
+            "whatsNew": "IntoRealism ZIT Labs has introduced cinematic capabilities using AI technology, enhancing visual experiences. This innovation could revolutionize the way we interact with digital content. The use of AI for cinematic purposes opens new creative avenues.",
+            "whyItMatters": "The integration of AI in cinematic experiences can significantly impact the entertainment and gaming industries, offering more immersive and engaging content. This could lead to new business opportunities and revenue streams for companies adopting this technology.",
+            "howToUse": "Developers and content creators can leverage this technology to produce high-quality, engaging cinematic experiences. By integrating AI into their workflows, they can automate certain tasks and focus on creative aspects.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "IntoRealism ZIT Labs"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-in-igaming",
+            "isNew": true
+        },
         {
             "id": "t-wks2b5im2",
             "title": "Minnesota Ban Blocked",
@@ -47,7 +141,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-9c9of3530",
@@ -2026,7 +2120,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": null
         },
         {
@@ -2045,7 +2139,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2054,7 +2148,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2063,7 +2157,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "Regulatory updates"
         },
         {
@@ -2081,7 +2175,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2090,7 +2184,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2110,7 +2204,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2168,7 +2262,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2177,7 +2271,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.789Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2186,7 +2280,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.790Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": "Style browsing signal"
         },
         {
@@ -2223,7 +2317,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.790Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": null
         },
         {
@@ -2232,7 +2326,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-29T11:23:16.790Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": null
         },
         {
@@ -2314,7 +2408,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T11:23:16.790Z",
+            "lastScan": "2026-07-29T14:02:47.259Z",
             "note": null
         },
         {
