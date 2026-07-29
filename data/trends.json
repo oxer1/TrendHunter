@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-29T18:04:12.359Z",
+        "scanDate": "2026-07-29T20:10:09.868Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 67,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,70 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7pn1eof0k",
+            "title": "Krea 2 LoRA",
+            "subtitle": "Civitai releases Krea2 depth model with LoRA support",
+            "category": "AI",
+            "tags": [
+                "Krea2",
+                "LoRA",
+                "Civitai",
+                "AI Models"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZY1AzZUxhVEYyYmtzVnpRb05vOWw1RE13cDdmWGdQc2dMUnNvNURHWE51QXpvVkthWTZFWGdBOFBfdEtNNzR4bG42SHBHeEdqMnY5YjNFRk5lZDlNcDVHY2ZfT1hWUXUwMDVrTHMtbWk1UQ?oc=5",
+                "date": "2026-07-28T21:55:27.000Z"
+            },
+            "whatsNew": "Civitai has introduced the Krea2 depth model with LoRA support, enhancing AI art generation capabilities. This model is designed to improve image generation quality and diversity. The integration of LoRA (Low-Rank Adaptation) technology allows for more efficient and flexible model fine-tuning.",
+            "whyItMatters": "The release of Krea2 with LoRA support is significant for AI art generation, as it can lead to more realistic and varied outputs, benefiting artists and designers. This advancement also underscores the growing importance of adaptable AI models in creative workflows.",
+            "howToUse": "Artists and designers can utilize the Krea2 model with LoRA support through the Civitai platform, experimenting with different prompts and fine-tuning settings to achieve desired outcomes. This requires familiarity with AI art generation tools and an understanding of how to leverage LoRA for model adaptation.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-7qapo01ds",
+            "title": "Moody Gal Dori",
+            "subtitle": "New AI-generated art piece on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdU10b1ZORk5pQ1dIYVR1UjF5Y0I5VHVvN2g2OHlSNmw2TU1HbUJ3ajFzaWo5RTdZQkhqZm1RQlBhRjh6WWxDci11Y3VrSUVtSngyY3FrWXJtU0NYdzBvQkphU0Vvd2FYZXlDd180YUI0aGxHQ2theEVqWGNYVlNKRjVZd05TNXIwZk9WeUdZT2xnOVFacjlaRWM1TGFaWFpoS3J2Nk85djl6eHR5c0tkRU5BTGg4dGV3?oc=5",
+                "date": "2026-07-18T07:00:00.000Z"
+            },
+            "whatsNew": "The article features Moody Gal - Dori, an AI-generated art piece created using Krea2 and Zimage. This showcases the capabilities of AI in art generation. The piece is available on prompthero.com.",
+            "whyItMatters": "This demonstrates the growing influence of AI in creative fields, particularly in art generation. It highlights the potential for AI to produce unique and captivating art pieces.",
+            "howToUse": "Artists and designers can utilize AI tools like Krea2 and Zimage to generate innovative art pieces, exploring new styles and themes.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-mxr2ipirm",
             "title": "MGA Governance Review",
@@ -47,7 +111,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-1qmbn4wix",
@@ -78,7 +142,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-21x66gmti",
@@ -109,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hym6flnl5",
@@ -2182,7 +2246,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": null
         },
         {
@@ -2201,7 +2265,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2210,7 +2274,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2219,7 +2283,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": "Regulatory updates"
         },
         {
@@ -2237,7 +2301,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2246,7 +2310,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2266,7 +2330,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2324,7 +2388,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2470,7 +2534,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T18:04:12.359Z",
+            "lastScan": "2026-07-29T20:10:09.868Z",
             "note": null
         },
         {
