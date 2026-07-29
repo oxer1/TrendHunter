@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-29T21:57:39.205Z",
+        "scanDate": "2026-07-29T23:00:09.724Z",
         "version": "2.5.0",
-        "totalTrends": 67,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,65 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ssj92hphn",
+            "title": "UK Gambling Survey",
+            "subtitle": "The UK Gambling Commission releases a timeline for the Gambling Survey in Great Britain",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Survey",
+                "UK Gambling Commission",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGJlQWV3SjdqS2VhSTBQX2RKUVdEbFZQbTlfMGF0N2I2b0JxZ3ZqbmhYdElDd3A1X19JRnpEc2k0aTJua2hsblRTdVpwdUVwUEM0ekhHRWlQX0J5Q3ZNcm1vOG5HQkl4TGttZEdvY1JJb3dpWDl5VWg2UlFPOXNFVHB6THRHUlBlTV8wMnYwMnlKU3pGbmt4UlBTVTkySjNmdTl0SEhxNA?oc=5",
+                "date": "2026-07-16T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has published a timeline for the Gambling Survey, outlining key milestones and deadlines. This survey aims to gather data on gambling habits and trends in Great Britain. The timeline provides insight into the commission's efforts to monitor and regulate the gambling industry.",
+            "whyItMatters": "The survey's findings will inform policy decisions and regulation changes in the UK's gambling industry, potentially impacting operators and players alike. This data will be crucial for understanding the industry's landscape and making informed decisions.",
+            "howToUse": "Operators and stakeholders can use this timeline to stay informed about upcoming survey deadlines and prepare for potential regulatory changes. They can also use the survey's findings to better understand their target audience and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies",
+                "Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-j0kbcre3q",
+            "title": "Unlicensed Den Raids",
+            "subtitle": "UK Gambling Commission conducts raids on unlicensed gambling dens in Doncaster",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Licensing",
+                "UK Gambling Commission"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFk1TTlLSjdYajBUdXVtUkZRWGxCRFFMTzBiTTZjWnRmd2lEd2JOM2pmLWJLUVpuOWlhdzIzczhDUmpxZ3ZCTkQyR0ZTVGR6aXRPTjlYZ3E2ZlFrZ0lsWXNzellJb2Y2dTh5REs1R3h5MlFybks5WUZDaWQyWlpiSFZPZW9nSm1xZXU3Z3lPNTFxOEJodjhHcg?oc=5",
+                "date": "2026-07-21T12:10:51.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has carried out raids on unlicensed gambling dens in Doncaster, highlighting the ongoing issue of illegal gambling operations. The commission's actions aim to protect consumers and ensure compliance with gambling regulations.",
+            "whyItMatters": "The raids demonstrate the commission's commitment to enforcing gambling laws and protecting vulnerable individuals from the risks associated with unlicensed gambling. This enforcement also maintains the integrity of the regulated gambling market.",
+            "howToUse": "Operators must ensure they hold the necessary licenses to operate legally, and consumers should only gamble with licensed providers to ensure their safety and protection.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-7pn1eof0k",
             "title": "Krea 2 LoRA",
@@ -2246,7 +2305,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": null
         },
         {
@@ -2265,7 +2324,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2274,7 +2333,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2283,7 +2342,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": "Regulatory updates"
         },
         {
@@ -2301,7 +2360,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2310,7 +2369,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2330,7 +2389,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2388,7 +2447,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2534,7 +2593,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T21:57:39.205Z",
+            "lastScan": "2026-07-29T23:00:09.724Z",
             "note": null
         },
         {
