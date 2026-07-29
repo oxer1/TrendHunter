@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-28T23:56:12.224Z",
+        "scanDate": "2026-07-29T02:26:00.936Z",
         "version": "2.5.0",
-        "totalTrends": 59,
+        "totalTrends": 60,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-5e2homfvv",
+            "title": "AI Video Generator",
+            "subtitle": "OpenArt introduces an AI script to video generator, turning scripts into film",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Script to video",
+                "OpenArt"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLVjY2YVhqbDJ0RGNtZUh2bjF3TDVyUkFtdTdMVFNIekFxY1oxejJ3YS1KNl9CYm1NUkRtWkMwWFI1VU4yX0FZQzlJcU5wS1lnN2JKQllIa2sxTDhndWZSMlctdlJOcWs?oc=5",
+                "date": "2026-07-28T12:10:36.000Z"
+            },
+            "whatsNew": "OpenArt's AI script to video generator can turn a script into a film, leveraging AI for creative video production. This tool automates the video creation process, making it easier for creators to produce high-quality videos. The generator uses advanced AI algorithms to interpret scripts and generate corresponding videos.",
+            "whyItMatters": "This AI-powered tool has the potential to revolutionize the video production industry, making it more accessible and efficient for creators. It can also be applied to various fields, including gaming, advertising, and education.",
+            "howToUse": "To use the AI script to video generator, simply input your script and let the AI algorithm work its magic, or fine-tune the output to fit your specific needs by adjusting parameters and styles.",
+            "beneficiaries": [
+                "Video creators",
+                "Game developers",
+                "Advertisers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-6y0vs0fxl",
             "title": "Moody Pro Mix",
@@ -2001,7 +2033,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": null
         },
         {
@@ -2020,7 +2052,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2029,7 +2061,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2038,7 +2070,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "Regulatory updates"
         },
         {
@@ -2056,7 +2088,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2065,7 +2097,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2085,7 +2117,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2143,7 +2175,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2152,7 +2184,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2161,7 +2193,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T11:54:58.192Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": "Style browsing signal"
         },
         {
@@ -2198,7 +2230,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T11:54:58.192Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": null
         },
         {
@@ -2207,7 +2239,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-28T11:54:58.192Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": null
         },
         {
@@ -2289,7 +2321,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-28T23:56:12.224Z",
+            "lastScan": "2026-07-29T02:26:00.936Z",
             "note": null
         },
         {
