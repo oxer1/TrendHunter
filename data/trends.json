@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-29T05:49:05.196Z",
+        "scanDate": "2026-07-29T08:34:48.880Z",
         "version": "2.5.0",
-        "totalTrends": 60,
+        "totalTrends": 62,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,97 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-9c9of3530",
+            "title": "D2C Mobile Games",
+            "subtitle": "Top mobile titles saw a 38% growth in D2C earnings in 2025, driven by platform policy shifts and tooling advancements",
+            "category": "Tech",
+            "tags": [
+                "D2C",
+                "Mobile Games",
+                "Game Development"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/mobile-game-webshop-business-case",
+                "date": "2026-07-27T00:00:00.000Z"
+            },
+            "whatsNew": "The shift towards D2C models in mobile gaming is gaining momentum, with top titles experiencing significant earnings growth. Platform policy changes and evolving fee structures are key drivers. Advances in tooling are also supporting this trend.",
+            "whyItMatters": "The growth of D2C in mobile gaming presents new opportunities for game developers to increase revenue and engage directly with their audience. Understanding the factors driving this trend is crucial for studios looking to capitalize on the shift.",
+            "howToUse": "Developers can leverage platforms like Unity to build and distribute their games directly to consumers, taking advantage of the growing D2C market. Utilizing the right tooling and staying informed about platform policies can help maximize earnings.",
+            "beneficiaries": [
+                "Game Developers",
+                "Mobile Game Studios"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
+        {
+            "id": "t-91jf6mbli",
+            "title": "Gambling Risk Report",
+            "subtitle": "UK Gambling Commission releases report on understanding product risk",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Product Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOS1RhSC1uRFZGUXRveDBLM3hESkJ4LVAtLUZuMlItbl9xUmtJR1lxcWkxb2trQmQ3NWhveFNHSlhEa3VIOG45dFpXSFFicms1eUNMcTZjVHhiSGpQcW1Qb2JIbF8zY05BcTgyVWFGOHQ1cWZmd3RDb1EtUDF5NkthdGctT1dmc2xhUk90a215eDNWSmk5YlZkTC1kQm9WclFOdWtsN0w4ZElyUFloQmt0YmQ3VDJMSi00Mnprb2g2MHViUWd6cjZzTVkzNHFsWlpkNjAzb1RSaHFLcWJJWG41SVppSkZROUl0R1pMLWpFWnM5eFN6VnNFTloxYzJHSE5kN0FkZGpCVVBSektMaUNF?oc=5",
+                "date": "2026-07-17T04:18:27.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released a report on understanding product risk, written by Professor Heather Wardle. The report aims to provide insights into product risk in the gambling industry.",
+            "whyItMatters": "The report's findings can inform regulatory decisions and industry practices to minimize harm and promote responsible gambling. It highlights the importance of understanding product risk in the gambling industry.",
+            "howToUse": "Operators can use the report's findings to review and improve their product offerings, while regulators can use the insights to inform policy decisions.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-6u3sdmpx0",
+            "title": "Talarius License",
+            "subtitle": "Talarius Limited receives premises license from UK Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Talarius Limited",
+                "Licensing"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2RHb19ZbmR3U21CdFYwUFBXYlQ5NVUweXEyOHdEeFFuSXlNWVRQTndaek5kWVdpZEI1WF9hV19rSTZDbEs3MWxSR0E4b2J4QjhmejBMVDFkcjUwRFpGVG1ZektGWDRHTnVwMGdSTVNyUlJMNkJ6d1ZFTmZIYnJYanVtWQ?oc=5",
+                "date": "2026-07-27T11:36:57.000Z"
+            },
+            "whatsNew": "Talarius Limited has been granted a premises license by the UK Gambling Commission. The license allows the company to operate in the specified premises.",
+            "whyItMatters": "This development is significant for Talarius Limited as it expands their operational capacity in the UK. It also reflects the company's compliance with UK gambling regulations.",
+            "howToUse": "Operators can use this information to understand the licensing process and requirements in the UK. They can also explore potential partnerships with Talarius Limited.",
+            "beneficiaries": [
+                "Operators",
+                "Regulators"
+            ],
+            "companies": [
+                "Talarius Limited"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-5e2homfvv",
             "title": "AI Video Generator",
@@ -668,37 +759,6 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-qvmyxs2lt",
-            "title": "PaymentIQ Independence",
-            "subtitle": "PaymentIQ's independence and its implications for igaming operators",
-            "category": "iGaming",
-            "tags": [
-                "PaymentIQ",
-                "iGaming",
-                "Operators"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWE5RLTRlX3dZUldUUzc3MktnWG1wWjlvN21Dc2VHX0xtQ3pWQzFsRHVCT1RBMHhMdDZrdDJtWEJCUHpDZ0l6Ykc5S2lDVWxnbjhTYV92VWs1WTBCN21ZWmlnYnhsaXpKV2xRcS1QVjkzTjZrYkVPd3JQSnhpTy1BOTVxdnFwbnJrTEZnaVZ3dnpCNmdRemFTYTRTMEhJbGZJUHljOEZOQlZYRHFt?oc=5",
-                "date": "2026-07-15T06:05:30.000Z"
-            },
-            "whatsNew": "PaymentIQ has gained independence, which could lead to more flexible and innovative payment solutions for igaming operators. This move may also increase competition in the payment processing sector. Operators can expect more tailored services and potentially better transaction rates.",
-            "whyItMatters": "PaymentIQ's independence matters because it can lead to more efficient and cost-effective payment processing for igaming operators, ultimately enhancing the player experience. It also reflects the evolving landscape of igaming, where operators seek more control and flexibility over their payment systems.",
-            "howToUse": "iGaming operators should monitor PaymentIQ's developments and consider how their newfound independence could benefit their business, potentially leading to more streamlined payment processes and improved customer satisfaction.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Payment Processors"
-            ],
-            "companies": [
-                "PaymentIQ"
-            ],
-            "visualStyle": null,
-            "cluster": "igaming-innovation",
             "isNew": false
         },
         {
@@ -2033,7 +2093,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": null
         },
         {
@@ -2052,7 +2112,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2061,7 +2121,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2070,7 +2130,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": "Regulatory updates"
         },
         {
@@ -2088,7 +2148,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2097,7 +2157,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2117,7 +2177,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2175,7 +2235,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2184,7 +2244,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2321,7 +2381,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T05:49:05.197Z",
+            "lastScan": "2026-07-29T08:34:48.880Z",
             "note": null
         },
         {
@@ -39228,6 +39288,37 @@
                 "Bettors"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-qvmyxs2lt",
+            "title": "PaymentIQ Independence",
+            "subtitle": "PaymentIQ's independence and its implications for igaming operators",
+            "category": "iGaming",
+            "tags": [
+                "PaymentIQ",
+                "iGaming",
+                "Operators"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWE5RLTRlX3dZUldUUzc3MktnWG1wWjlvN21Dc2VHX0xtQ3pWQzFsRHVCT1RBMHhMdDZrdDJtWEJCUHpDZ0l6Ykc5S2lDVWxnbjhTYV92VWs1WTBCN21ZWmlnYnhsaXpKV2xRcS1QVjkzTjZrYkVPd3JQSnhpTy1BOTVxdnFwbnJrTEZnaVZ3dnpCNmdRemFTYTRTMEhJbGZJUHljOEZOQlZYRHFt?oc=5",
+                "date": "2026-07-15T06:05:30.000Z"
+            },
+            "whatsNew": "PaymentIQ has gained independence, which could lead to more flexible and innovative payment solutions for igaming operators. This move may also increase competition in the payment processing sector. Operators can expect more tailored services and potentially better transaction rates.",
+            "whyItMatters": "PaymentIQ's independence matters because it can lead to more efficient and cost-effective payment processing for igaming operators, ultimately enhancing the player experience. It also reflects the evolving landscape of igaming, where operators seek more control and flexibility over their payment systems.",
+            "howToUse": "iGaming operators should monitor PaymentIQ's developments and consider how their newfound independence could benefit their business, potentially leading to more streamlined payment processes and improved customer satisfaction.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Payment Processors"
+            ],
+            "companies": [
+                "PaymentIQ"
+            ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
