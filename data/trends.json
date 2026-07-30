@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-30T06:24:45.510Z",
+        "scanDate": "2026-07-30T09:29:01.342Z",
         "version": "2.5.0",
-        "totalTrends": 70,
+        "totalTrends": 68,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,35 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-w4a93lt2n",
+            "title": "UK Gambling Update",
+            "subtitle": "Gambling Commission amends financial penalty principles",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "Financial Penalties"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbG55b0UxQjZ4bFF2eW51aHNIWGdnaVJBd3NUX1hoTXJOZW1mT2Rrc1haRnlfcXJFdlVNZ3dBNjQ3YWZaWHc1WnNpVWI2dGo1Qm9xSGJuVU03Sy1WdXZVTHRmOTdLZ0lNM0Z4WXNPbm1yMmtEQ25PWGNaaERCdUVyM1lodmozeDNaSUFXSUN4U3BsS1FPbHdFVi0wUVQxYU4zZm1falFKMHRyU2NVWmZNRUJRXzFtaTdSbzNSRVh3YzAtZmJjYS14RHA3QmJiOHRKTUFDeXBYTmktS0xnYmhMNmg3M2VHZW43Q21POGE4c1hnODFsSFZvb29CNm9tbXM?oc=5",
+                "date": "2026-07-22T10:02:11.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has amended section 2.39 of the Statement of principles for determining financial penalties. This change is a result of a consultation response. The amendment aims to improve the transparency and consistency of financial penalties in the gambling industry.",
+            "whyItMatters": "The amendment will impact the gambling industry by providing clearer guidelines for financial penalties, ensuring operators are held accountable for non-compliance. This change demonstrates the Commission's commitment to regulating the industry effectively.",
+            "howToUse": "Operators should review the amended principles to ensure compliance and understand the potential implications of non-compliance. The Commission's guidance should be consulted for specific details on the changes.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-fhtradmr6",
             "title": "Stable Yogi Krea2",
@@ -49,7 +78,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-sbroz92xa",
@@ -113,36 +142,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-ssj92hphn",
-            "title": "UK Gambling Survey",
-            "subtitle": "The UK Gambling Commission releases a timeline for the Gambling Survey in Great Britain",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Survey",
-                "UK Gambling Commission",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGJlQWV3SjdqS2VhSTBQX2RKUVdEbFZQbTlfMGF0N2I2b0JxZ3ZqbmhYdElDd3A1X19JRnpEc2k0aTJua2hsblRTdVpwdUVwUEM0ekhHRWlQX0J5Q3ZNcm1vOG5HQkl4TGttZEdvY1JJb3dpWDl5VWg2UlFPOXNFVHB6THRHUlBlTV8wMnYwMnlKU3pGbmt4UlBTVTkySjNmdTl0SEhxNA?oc=5",
-                "date": "2026-07-16T07:00:00.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has published a timeline for the Gambling Survey, outlining key milestones and deadlines. This survey aims to gather data on gambling habits and trends in Great Britain. The timeline provides insight into the commission's efforts to monitor and regulate the gambling industry.",
-            "whyItMatters": "The survey's findings will inform policy decisions and regulation changes in the UK's gambling industry, potentially impacting operators and players alike. This data will be crucial for understanding the industry's landscape and making informed decisions.",
-            "howToUse": "Operators and stakeholders can use this timeline to stay informed about upcoming survey deadlines and prepare for potential regulatory changes. They can also use the survey's findings to better understand their target audience and adjust their strategies accordingly.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies",
-                "Researchers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -1753,37 +1752,6 @@
             "isNew": false
         },
         {
-            "id": "t-t3gfe3ve0",
-            "title": "Anima Aesthetic",
-            "subtitle": "Civitai releases Anima aesthetic-v1.1, a checkpoint for AI art generation",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Anima",
-                "Civitai"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWS1DcVpVY21lQlZTNkZZMDdaMktqSWNFWThHb1FOcDVNb2VXQ1VFUEZRTlhlR2ZEcUx4V2Q5MHRkelk2NGxoUjNxSS02Wl9BeWc?oc=5",
-                "date": "2026-07-16T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released Anima aesthetic-v1.1, an updated checkpoint for AI art generation. This update aims to improve the quality and diversity of generated art. The checkpoint is available on the Civitai platform.",
-            "whyItMatters": "The release of Anima aesthetic-v1.1 demonstrates the ongoing development of AI art generation tools, which can impact the visual design trends in the gaming and art industries. It provides artists and developers with new possibilities for creating unique and engaging visuals.",
-            "howToUse": "Artists and developers can utilize the Anima aesthetic-v1.1 checkpoint to generate high-quality art for various applications, including game development and visual design projects. They can experiment with different prompts and settings to achieve the desired aesthetic.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-zprdailem",
             "title": "Unity CLI",
             "subtitle": "Manage Unity from the terminal with the new CLI and com.unity.pipeline package",
@@ -2154,37 +2122,6 @@
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
-        },
-        {
-            "id": "t-nrxw8qo0x",
-            "title": "MGA Seal Update",
-            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
-            "category": "iGaming",
-            "tags": [
-                "MGA",
-                "Regulation",
-                "Licensing"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Malta Gaming Authority",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV18yUUE1WEp0VmNleS1teXFNOXVRSkpESWM2WU5rajh4ZVB1bnZMX25CaHplcjFDVThaZ1ZsZ1ZwV0Fack9EbDVKVmgwYi1UUGN6QmlfY25zeTdCTEZvRnkwRDd0MHBiaERuOHhDUWdDUmJkdk10U1RnaHEyRm9NOERkNS1ua0NhRGVMbXRCeFdTS3JoVnNvNE5Vdk9UTU9ZbFpOX0VaOHQ1SFBXeUVBUnluMA?oc=5",
-                "date": "2026-07-16T07:12:55.000Z"
-            },
-            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This seal is expected to provide a more secure and reliable way to verify the legitimacy of licensed operators. The introduction of this seal reflects the authority's ongoing efforts to improve regulatory standards.",
-            "whyItMatters": "The Dynamic Seal Of Authorisation is crucial for maintaining the integrity of the iGaming industry, as it helps protect players by ensuring they are engaging with licensed and regulated operators. This move also underscores the authority's commitment to innovation and consumer protection.",
-            "howToUse": "Operators can use the Dynamic Seal to demonstrate their compliance with MGA regulations, and players can verify the seal to ensure they are playing with a licensed operator.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Players"
-            ],
-            "companies": [
-                "Malta Gaming Authority"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2341,7 +2278,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": null
         },
         {
@@ -2360,7 +2297,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2369,7 +2306,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2378,7 +2315,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "Regulatory updates"
         },
         {
@@ -2396,7 +2333,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2405,7 +2342,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2425,7 +2362,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2483,7 +2420,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2492,7 +2429,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2501,7 +2438,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": "Style browsing signal"
         },
         {
@@ -2538,7 +2475,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": null
         },
         {
@@ -2547,7 +2484,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": null
         },
         {
@@ -2629,7 +2566,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T06:24:45.510Z",
+            "lastScan": "2026-07-30T09:29:01.342Z",
             "note": null
         },
         {
@@ -39751,6 +39688,98 @@
                 "Regulatory Bodies"
             ],
             "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-ssj92hphn",
+            "title": "UK Gambling Survey",
+            "subtitle": "The UK Gambling Commission releases a timeline for the Gambling Survey in Great Britain",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Survey",
+                "UK Gambling Commission",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGJlQWV3SjdqS2VhSTBQX2RKUVdEbFZQbTlfMGF0N2I2b0JxZ3ZqbmhYdElDd3A1X19JRnpEc2k0aTJua2hsblRTdVpwdUVwUEM0ekhHRWlQX0J5Q3ZNcm1vOG5HQkl4TGttZEdvY1JJb3dpWDl5VWg2UlFPOXNFVHB6THRHUlBlTV8wMnYwMnlKU3pGbmt4UlBTVTkySjNmdTl0SEhxNA?oc=5",
+                "date": "2026-07-16T07:00:00.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has published a timeline for the Gambling Survey, outlining key milestones and deadlines. This survey aims to gather data on gambling habits and trends in Great Britain. The timeline provides insight into the commission's efforts to monitor and regulate the gambling industry.",
+            "whyItMatters": "The survey's findings will inform policy decisions and regulation changes in the UK's gambling industry, potentially impacting operators and players alike. This data will be crucial for understanding the industry's landscape and making informed decisions.",
+            "howToUse": "Operators and stakeholders can use this timeline to stay informed about upcoming survey deadlines and prepare for potential regulatory changes. They can also use the survey's findings to better understand their target audience and adjust their strategies accordingly.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies",
+                "Researchers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-t3gfe3ve0",
+            "title": "Anima Aesthetic",
+            "subtitle": "Civitai releases Anima aesthetic-v1.1, a checkpoint for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Anima",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aWS1DcVpVY21lQlZTNkZZMDdaMktqSWNFWThHb1FOcDVNb2VXQ1VFUEZRTlhlR2ZEcUx4V2Q5MHRkelk2NGxoUjNxSS02Wl9BeWc?oc=5",
+                "date": "2026-07-16T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released Anima aesthetic-v1.1, an updated checkpoint for AI art generation. This update aims to improve the quality and diversity of generated art. The checkpoint is available on the Civitai platform.",
+            "whyItMatters": "The release of Anima aesthetic-v1.1 demonstrates the ongoing development of AI art generation tools, which can impact the visual design trends in the gaming and art industries. It provides artists and developers with new possibilities for creating unique and engaging visuals.",
+            "howToUse": "Artists and developers can utilize the Anima aesthetic-v1.1 checkpoint to generate high-quality art for various applications, including game development and visual design projects. They can experiment with different prompts and settings to achieve the desired aesthetic.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-nrxw8qo0x",
+            "title": "MGA Seal Update",
+            "subtitle": "Malta Gaming Authority introduces Dynamic Seal Of Authorisation",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Regulation",
+                "Licensing"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV18yUUE1WEp0VmNleS1teXFNOXVRSkpESWM2WU5rajh4ZVB1bnZMX25CaHplcjFDVThaZ1ZsZ1ZwV0Fack9EbDVKVmgwYi1UUGN6QmlfY25zeTdCTEZvRnkwRDd0MHBiaERuOHhDUWdDUmJkdk10U1RnaHEyRm9NOERkNS1ua0NhRGVMbXRCeFdTS3JoVnNvNE5Vdk9UTU9ZbFpOX0VaOHQ1SFBXeUVBUnluMA?oc=5",
+                "date": "2026-07-16T07:12:55.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has introduced a Dynamic Seal Of Authorisation, available at authorisation.mga.org.mt, to enhance transparency and authenticity in the iGaming industry. This seal is expected to provide a more secure and reliable way to verify the legitimacy of licensed operators. The introduction of this seal reflects the authority's ongoing efforts to improve regulatory standards.",
+            "whyItMatters": "The Dynamic Seal Of Authorisation is crucial for maintaining the integrity of the iGaming industry, as it helps protect players by ensuring they are engaging with licensed and regulated operators. This move also underscores the authority's commitment to innovation and consumer protection.",
+            "howToUse": "Operators can use the Dynamic Seal to demonstrate their compliance with MGA regulations, and players can verify the seal to ensure they are playing with a licensed operator.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Players"
+            ],
+            "companies": [
+                "Malta Gaming Authority"
+            ],
             "visualStyle": null,
             "cluster": "regulation",
             "isNew": false
