@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-30T00:05:48.394Z",
+        "scanDate": "2026-07-30T03:54:45.590Z",
         "version": "2.5.0",
         "totalTrends": 70,
         "categories": [
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-sbroz92xa",
+            "title": "Lustify Workflows",
+            "subtitle": "Civitai introduces Lustify Workflows with Krea 2 and SDXL integration",
+            "category": "AI",
+            "tags": [
+                "AI Workflows",
+                "Krea 2",
+                "SDXL",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SVmNCakhmZ0MtdTZBelNiN2VmbFlmcWlLMmo2alZVUW5POEhhdUc5M2I5R2JoSGZRUGw2b0ktUmNHQ2p0c3VVLXdBWUN3aURGTzk0UnhzOEJodHZYV25IUVZ6Qm5CcENPVTNHNlFuNWVTdw?oc=5",
+                "date": "2026-07-24T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has introduced Lustify Workflows, integrating Krea 2 and SDXL for enhanced AI capabilities. This integration aims to streamline AI workflows, improving efficiency and productivity. The introduction of Lustify Workflows marks a significant step in AI pipeline development for creative tasks.",
+            "whyItMatters": "The integration of Krea 2 and SDXL into Lustify Workflows by Civitai is expected to significantly impact the AI creative tools landscape, offering users more powerful and streamlined workflows. This development has the potential to influence how AI is used in various creative industries.",
+            "howToUse": "To leverage Lustify Workflows, users can explore Civitai's platform, where they can find tutorials and documentation on integrating Krea 2 and SDXL into their AI workflows. By following these resources, users can optimize their use of Lustify Workflows for enhanced creativity and productivity.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-rugy2uwzh",
             "title": "Krea 2 Update",
@@ -50,7 +82,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-ssj92hphn",
@@ -1348,37 +1380,6 @@
             "isNew": false
         },
         {
-            "id": "t-xqg9oshmh",
-            "title": "AI Art Release",
-            "subtitle": "Krea2 AI Babe Pack by Sarcastic TOFU is released on PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Krea2",
-                "PromptHero"
-            ],
-            "trendStrength": 3,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbWdCWmd3S0FGWUYzeGQ4N1FXaDlfM0V1NFlTb1UwRkJyTlpCMXd3dDBGOGZqZmJVVFZkbElsUEVKbkJuM00wVFRSeXA0bEdUazFjanFKcnpNYUtkLVNGVzVMSkNBSk9tQ1JQX2ZJZ0IwSGw2cFhIQ0llOS1FdXNUQm92WVg1cWZ1NHpNX3hfUy1ZMURhVUdhZVJ0akNYTTVBTVY2ZXVKMF9qcU1NbnJXalVVS2I2M3E4eWZJRFJUTDlDdUdZYjhNQVNSX2IxV0dRUUlaVlN0d2d5d0lNM2pjX1RKaXViNXk3d1FJYnR4bkpMN19kUmxpdw?oc=5",
-                "date": "2026-07-16T02:13:13.000Z"
-            },
-            "whatsNew": "The Krea2 AI Babe Pack Part 04 has been released, featuring a new AI-generated character named Rafaela_v1.0. This pack is part of a series by Sarcastic TOFU and is available on prompthero.com.",
-            "whyItMatters": "This release showcases the ongoing development and creativity in AI art generation, potentially influencing visual design trends in gaming and beyond.",
-            "howToUse": "Artists and designers can explore using this pack for inspiration or as a tool for their own creative projects, integrating AI-generated characters into their work.",
-            "beneficiaries": [
-                "Game Developers",
-                "Digital Artists"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-6mfjhmmm0",
             "title": "AI Image Alternatives",
             "subtitle": "OpenArt discusses Higgsfield alternatives for AI image and video creation",
@@ -2337,7 +2338,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": null
         },
         {
@@ -2356,7 +2357,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2365,7 +2366,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2374,7 +2375,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "Regulatory updates"
         },
         {
@@ -2392,7 +2393,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2401,7 +2402,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2421,7 +2422,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2479,7 +2480,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2488,7 +2489,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T16:18:38.281Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2497,7 +2498,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T14:02:47.259Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": "Style browsing signal"
         },
         {
@@ -2534,7 +2535,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-29T14:02:47.259Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": null
         },
         {
@@ -2543,7 +2544,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-29T14:02:47.259Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": null
         },
         {
@@ -2625,7 +2626,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-30T00:05:48.394Z",
+            "lastScan": "2026-07-30T03:54:45.590Z",
             "note": null
         },
         {
@@ -39690,6 +39691,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-xqg9oshmh",
+            "title": "AI Art Release",
+            "subtitle": "Krea2 AI Babe Pack by Sarcastic TOFU is released on PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Krea2",
+                "PromptHero"
+            ],
+            "trendStrength": 3,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbWdCWmd3S0FGWUYzeGQ4N1FXaDlfM0V1NFlTb1UwRkJyTlpCMXd3dDBGOGZqZmJVVFZkbElsUEVKbkJuM00wVFRSeXA0bEdUazFjanFKcnpNYUtkLVNGVzVMSkNBSk9tQ1JQX2ZJZ0IwSGw2cFhIQ0llOS1FdXNUQm92WVg1cWZ1NHpNX3hfUy1ZMURhVUdhZVJ0akNYTTVBTVY2ZXVKMF9qcU1NbnJXalVVS2I2M3E4eWZJRFJUTDlDdUdZYjhNQVNSX2IxV0dRUUlaVlN0d2d5d0lNM2pjX1RKaXViNXk3d1FJYnR4bkpMN19kUmxpdw?oc=5",
+                "date": "2026-07-16T02:13:13.000Z"
+            },
+            "whatsNew": "The Krea2 AI Babe Pack Part 04 has been released, featuring a new AI-generated character named Rafaela_v1.0. This pack is part of a series by Sarcastic TOFU and is available on prompthero.com.",
+            "whyItMatters": "This release showcases the ongoing development and creativity in AI art generation, potentially influencing visual design trends in gaming and beyond.",
+            "howToUse": "Artists and designers can explore using this pack for inspiration or as a tool for their own creative projects, integrating AI-generated characters into their work.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
