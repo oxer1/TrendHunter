@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-31T02:30:24.482Z",
+        "scanDate": "2026-07-31T06:09:34.740Z",
         "version": "2.5.0",
         "totalTrends": 65,
         "categories": [
@@ -20,6 +20,40 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-lt7tai30m",
+            "title": "AI Art Generation",
+            "subtitle": "New concept art created using AI tools like Anima and NoobAI",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Netorare",
+                "Netorase",
+                "Anima",
+                "NoobAI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPSkcxeTNjNVZycUx6S0dabE5YWFcxRlY0Q1BEems5cDRRY1JVTGVFRjdwQmFIUzRxYkktdEdEMjRqQW5SekhoblpQUWQ2aUd1bEwtazl2dEhzNVl3N2JKVkY4cTJJRW1tcTFXbWt6dDBwOXRJYjdYWnJtcnV3VFhyYXplZE9qbGNSVjlRYjVkR3hsVEFoaUJBbnk4MlpnOG54dTlRQ3ZYTGt1TDFYQzd3cHVoVHUzUU5KcGxqX1lJUC1vcy1SdUJpOUNTVWhZQnFrYTUwd0haZDFRdHFlUENRSGp5Z2NLMVlFc29YcWFFS2g4QjB5X2hGZ084WkthYmZ3eDBiRWV0cXVuaUtTeVlzaExyTlQ1cl9xYU5lYTdPNGRnTVB4emc?oc=5",
+                "date": "2026-07-25T02:12:11.000Z"
+            },
+            "whatsNew": "The use of AI tools like Anima and NoobAI for generating concept art, specifically for Netorare/Netorase themes. The art style is unique and showcases the capabilities of AI in art generation.",
+            "whyItMatters": "This development showcases the growing influence of AI in the art world, particularly in the creation of unique and stylized concept art. It also highlights the potential for AI to be used in various creative fields.",
+            "howToUse": "Artists and designers can utilize AI tools like Anima and NoobAI to generate concept art and explore new styles, while also considering the ethical implications of AI-generated art.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-fin49c2fx",
             "title": "Civitai Creator",
@@ -49,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0lnqjqint",
@@ -638,35 +672,6 @@
             ],
             "visualStyle": null,
             "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
-            "id": "t-91jf6mbli",
-            "title": "Gambling Risk Report",
-            "subtitle": "UK Gambling Commission releases report on understanding product risk",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Product Risk",
-                "Regulation"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOS1RhSC1uRFZGUXRveDBLM3hESkJ4LVAtLUZuMlItbl9xUmtJR1lxcWkxb2trQmQ3NWhveFNHSlhEa3VIOG45dFpXSFFicms1eUNMcTZjVHhiSGpQcW1Qb2JIbF8zY05BcTgyVWFGOHQ1cWZmd3RDb1EtUDF5NkthdGctT1dmc2xhUk90a215eDNWSmk5YlZkTC1kQm9WclFOdWtsN0w4ZElyUFloQmt0YmQ3VDJMSi00Mnprb2g2MHViUWd6cjZzTVkzNHFsWlpkNjAzb1RSaHFLcWJJWG41SVppSkZROUl0R1pMLWpFWnM5eFN6VnNFTloxYzJHSE5kN0FkZGpCVVBSektMaUNF?oc=5",
-                "date": "2026-07-17T04:18:27.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has released a report on understanding product risk, written by Professor Heather Wardle. The report aims to provide insights into product risk in the gambling industry.",
-            "whyItMatters": "The report's findings can inform regulatory decisions and industry practices to minimize harm and promote responsible gambling. It highlights the importance of understanding product risk in the gambling industry.",
-            "howToUse": "Operators can use the report's findings to review and improve their product offerings, while regulators can use the insights to inform policy decisions.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulators"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -2193,7 +2198,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": null
         },
         {
@@ -2212,7 +2217,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2221,7 +2226,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2230,7 +2235,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "Regulatory updates"
         },
         {
@@ -2248,7 +2253,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2257,7 +2262,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2277,7 +2282,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2335,7 +2340,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2344,7 +2349,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2353,7 +2358,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": "Style browsing signal"
         },
         {
@@ -2390,7 +2395,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": null
         },
         {
@@ -2399,7 +2404,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": null
         },
         {
@@ -2482,7 +2487,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T02:30:24.482Z",
+            "lastScan": "2026-07-31T06:09:34.740Z",
             "note": null
         },
         {
@@ -39971,6 +39976,35 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-91jf6mbli",
+            "title": "Gambling Risk Report",
+            "subtitle": "UK Gambling Commission releases report on understanding product risk",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Product Risk",
+                "Regulation"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOS1RhSC1uRFZGUXRveDBLM3hESkJ4LVAtLUZuMlItbl9xUmtJR1lxcWkxb2trQmQ3NWhveFNHSlhEa3VIOG45dFpXSFFicms1eUNMcTZjVHhiSGpQcW1Qb2JIbF8zY05BcTgyVWFGOHQ1cWZmd3RDb1EtUDF5NkthdGctT1dmc2xhUk90a215eDNWSmk5YlZkTC1kQm9WclFOdWtsN0w4ZElyUFloQmt0YmQ3VDJMSi00Mnprb2g2MHViUWd6cjZzTVkzNHFsWlpkNjAzb1RSaHFLcWJJWG41SVppSkZROUl0R1pMLWpFWnM5eFN6VnNFTloxYzJHSE5kN0FkZGpCVVBSektMaUNF?oc=5",
+                "date": "2026-07-17T04:18:27.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released a report on understanding product risk, written by Professor Heather Wardle. The report aims to provide insights into product risk in the gambling industry.",
+            "whyItMatters": "The report's findings can inform regulatory decisions and industry practices to minimize harm and promote responsible gambling. It highlights the importance of understanding product risk in the gambling industry.",
+            "howToUse": "Operators can use the report's findings to review and improve their product offerings, while regulators can use the insights to inform policy decisions.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulators"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
