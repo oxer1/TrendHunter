@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-07-31T14:03:25.174Z",
+        "scanDate": "2026-07-31T16:42:49.687Z",
         "version": "2.5.0",
         "totalTrends": 62,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-t6x6ts1sn",
+            "title": "BetMGM Q2 Growth",
+            "subtitle": "BetMGM experiences modest growth in Q2 amidst increasing competition",
+            "category": "iGaming",
+            "tags": [
+                "BetMGM",
+                "Q2 Growth",
+                "iGaming"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVNUYzdGNUhnYl9XaWEwUVFoQm9WNVFiUUxTdnpwVWN5N1ktRmVaMjU3RHJoSTl1X2lUTzdaclRCeGZFWDR0czA0NzN3a3dHM0dGQUNGY1RWczl4MmZlWkt4TFZqXzVOLUVNZmRScWZSaGJ3dG1LZzJwNkZ2b21PMi1HTkk2UndyMTE2UjJzTkd3UGpMQmdyamdLRGVqeTBuZ0pyV2w4SXpLTEw3dUhOT1hXNmczU1Ja?oc=5",
+                "date": "2026-07-28T12:42:05.000Z"
+            },
+            "whatsNew": "BetMGM has posted modest topline growth for Q2, indicating a stable performance despite increasing competition. The company's growth is a notable trend in the iGaming industry. BetMGM's ability to maintain growth is a significant development.",
+            "whyItMatters": "The modest growth of BetMGM in Q2 is significant as it reflects the company's ability to adapt to an increasingly competitive environment. This trend matters as it indicates the company's resilience and potential for future growth.",
+            "howToUse": "iGaming operators can learn from BetMGM's strategy to maintain growth in a competitive market by focusing on innovative products and services. Companies can also analyze BetMGM's approach to identify opportunities for improvement.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "BetMGM"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-g1fm31w28",
             "title": "DreamShaper Update",
@@ -1730,37 +1761,6 @@
             "isNew": false
         },
         {
-            "id": "t-uh2z8nype",
-            "title": "Gambling License",
-            "subtitle": "Wooden Spoon Society trading names updated by Gambling Commission",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Licensing",
-                "Regulation"
-            ],
-            "trendStrength": 2,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDk3UWFQUVJ2YlNDajJwaDdMZ3drOVZGRDY3eTExRjF1b0Y0Szg2VWdHMnBHbmlkVVN1TGhnQ1lrN2YtUjJLVUpHWHJPWHJ0S0t2UkcxZ29mbUZMeUZxTnFMTkpsdWdLVG0waUNRa1hwbk93eWxnUTNqUS1wVHhJNHJyckVEOVJOZjI2YUtZcThBejQy?oc=5",
-                "date": "2026-07-17T16:37:06.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has updated the trading names for Wooden Spoon Society. This change reflects the commission's ongoing efforts to ensure transparency and compliance within the iGaming industry.",
-            "whyItMatters": "This update is significant for operators and players alike, as it underscores the importance of regulatory compliance in the iGaming sector. It also highlights the commission's role in maintaining industry standards.",
-            "howToUse": "Operators should ensure their trading names are up-to-date and compliant with Gambling Commission regulations to avoid potential penalties.",
-            "beneficiaries": [
-                "iGaming Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [
-                "Wooden Spoon Society"
-            ],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-zprdailem",
             "title": "Unity CLI",
             "subtitle": "Manage Unity from the terminal with the new CLI and com.unity.pipeline package",
@@ -2102,7 +2102,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": null
         },
         {
@@ -2121,7 +2121,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2130,7 +2130,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2139,7 +2139,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "Regulatory updates"
         },
         {
@@ -2157,7 +2157,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2166,7 +2166,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2186,7 +2186,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2244,7 +2244,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2253,7 +2253,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2262,7 +2262,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": "Style browsing signal"
         },
         {
@@ -2299,7 +2299,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": null
         },
         {
@@ -2308,7 +2308,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.687Z",
             "note": null
         },
         {
@@ -2391,7 +2391,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T14:03:25.174Z",
+            "lastScan": "2026-07-31T16:42:49.688Z",
             "note": null
         },
         {
@@ -40036,6 +40036,37 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
+            "isNew": false
+        },
+        {
+            "id": "t-uh2z8nype",
+            "title": "Gambling License",
+            "subtitle": "Wooden Spoon Society trading names updated by Gambling Commission",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Licensing",
+                "Regulation"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDk3UWFQUVJ2YlNDajJwaDdMZ3drOVZGRDY3eTExRjF1b0Y0Szg2VWdHMnBHbmlkVVN1TGhnQ1lrN2YtUjJLVUpHWHJPWHJ0S0t2UkcxZ29mbUZMeUZxTnFMTkpsdWdLVG0waUNRa1hwbk93eWxnUTNqUS1wVHhJNHJyckVEOVJOZjI2YUtZcThBejQy?oc=5",
+                "date": "2026-07-17T16:37:06.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has updated the trading names for Wooden Spoon Society. This change reflects the commission's ongoing efforts to ensure transparency and compliance within the iGaming industry.",
+            "whyItMatters": "This update is significant for operators and players alike, as it underscores the importance of regulatory compliance in the iGaming sector. It also highlights the commission's role in maintaining industry standards.",
+            "howToUse": "Operators should ensure their trading names are up-to-date and compliant with Gambling Commission regulations to avoid potential penalties.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [
+                "Wooden Spoon Society"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
