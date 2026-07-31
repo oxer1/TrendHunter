@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-31T16:42:49.687Z",
+        "scanDate": "2026-07-31T18:17:22.260Z",
         "version": "2.5.0",
-        "totalTrends": 62,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-viey4sq9i",
+            "title": "Lottery.com Shift",
+            "subtitle": "SEGG Media changes Lottery.com to affiliate-only model",
+            "category": "iGaming",
+            "tags": [
+                "Lottery.com",
+                "SEGG Media",
+                "Affiliate Model"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUdTS0g0LU9MSVpLVXBwTVdZOFFnV3h4NE5oY21RNmRTOWZYbzA0SC04eGtHYzFKeTF6VWliSWtuMTEwY0FpRU8tUUtwa3BRcTlyOFdhWWpIQjg3Qlphd0lIVW5mNGpOc3ZvUWFid0V4SUJNam8wQlJ0VXlGMFk5N1g2NTFkU3JWWkVzYXFxRzVaQQ?oc=5",
+                "date": "2026-07-28T10:01:57.000Z"
+            },
+            "whatsNew": "SEGG Media has announced a pivot of Lottery.com to an affiliate-only model, marking a significant shift in strategy. This change indicates a potential new direction for the company. The move could impact the online lottery sector.",
+            "whyItMatters": "The pivot to an affiliate-only model could signal a broader trend in the iGaming industry towards more specialized business models. It may also reflect changing regulatory environments or consumer preferences.",
+            "howToUse": "Operators and affiliates should monitor this development closely, as it may present new partnership opportunities or necessitate adjustments in their own strategies.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Affiliates"
+            ],
+            "companies": [
+                "SEGG Media",
+                "Lottery.com"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-t6x6ts1sn",
             "title": "BetMGM Q2 Growth",
@@ -49,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-g1fm31w28",
@@ -2102,7 +2134,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": null
         },
         {
@@ -2121,7 +2153,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2130,7 +2162,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2139,7 +2171,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "Regulatory updates"
         },
         {
@@ -2157,7 +2189,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2166,7 +2198,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2186,7 +2218,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2244,7 +2276,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2253,7 +2285,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2262,7 +2294,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": "Style browsing signal"
         },
         {
@@ -2299,7 +2331,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": null
         },
         {
@@ -2308,7 +2340,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-31T16:42:49.687Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": null
         },
         {
@@ -2391,7 +2423,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T16:42:49.688Z",
+            "lastScan": "2026-07-31T18:17:22.260Z",
             "note": null
         },
         {
