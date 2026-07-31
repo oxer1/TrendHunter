@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-31T06:09:34.740Z",
+        "scanDate": "2026-07-31T09:41:44.511Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 63,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-g1fm31w28",
+            "title": "DreamShaper Update",
+            "subtitle": "Stable Diffusion 1.x checkpoint released on Civitai",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "DreamShaper",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13bFZ0Y2NPMjNPVU1OU1oxdTB0Z1NwRGpBalpHMlFkZHI3b0t1bE0tblg4NDg4Mml4bW5WQ1ViNTgtVjlyMGtFZTVIWEs2Y3luNVNGa25R?oc=5",
+                "date": "2026-07-28T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released DreamShaper - 8, a Stable Diffusion 1.x checkpoint. This update is part of the ongoing development in AI art generation.",
+            "whyItMatters": "The release of DreamShaper - 8 indicates advancements in AI art generation capabilities, potentially impacting the gaming and visual design industries.",
+            "howToUse": "Developers and artists can utilize this checkpoint to enhance their AI-generated art, exploring new creative possibilities.",
+            "beneficiaries": [
+                "Game Developers",
+                "Digital Artists"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-lt7tai30m",
             "title": "AI Art Generation",
@@ -52,7 +83,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fin49c2fx",
@@ -1700,38 +1731,6 @@
             "isNew": false
         },
         {
-            "id": "t-brseobkdw",
-            "title": "AI Art Tool",
-            "subtitle": "Flux.2 Klein Ultimate AIO Pro released on civitai.com with various AI-powered editing features",
-            "category": "AI",
-            "tags": [
-                "AI Art Generation",
-                "Image Editing",
-                "AI Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanpkaE5RS1FwTlU5RHA2aGZzVFM4VzdGMG10UTdITHJ1YW5fS0kxRGxrZnFZYjNvNlRHTktDS3hoa2pzVVloZHNmbUNENHA1MGd3R2YyZnc4RWZJMkpBejRWNDJCTHhzVnFxWUpGblZiYXNvYWczUjg0WjJZZjRXUVMxbnpraFZZSDdBMV9XLU9jUUhodjBrRVMtS19CbjcxY2FuYnFJRUdCcC1uTlhfVzhhMmVHN2Jpc1RaTG94ZkdjSTAyTy1qbQ?oc=5",
-                "date": "2026-07-17T07:00:00.000Z"
-            },
-            "whatsNew": "The Flux.2 Klein Ultimate AIO Pro tool offers advanced features like t2i, i2i, Inpaint, replace, remove, swap, and edit. It also includes manual, auto, and none segment options. This tool is available on civitai.com.",
-            "whyItMatters": "This tool can significantly impact the creative workflow of artists and designers by providing them with powerful AI-driven editing capabilities. It can also influence the development of AI art generation and image editing technologies.",
-            "howToUse": "Artists and designers can utilize the Flux.2 Klein Ultimate AIO Pro tool to streamline their editing processes and explore new creative possibilities with AI-powered features.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "Content Creators"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-qwlfkgb5g",
             "title": "AI Art Release",
             "subtitle": "New Z Image Asian Utopian model version 4.0 released on Civitai",
@@ -1791,38 +1790,6 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": false
-        },
-        {
-            "id": "t-boe8zpd1n",
-            "title": "Krea 2 Update",
-            "subtitle": "Civitai releases Krea 2 Identity Edit version 1.2 with LoRA support",
-            "category": "AI",
-            "tags": [
-                "Krea 2",
-                "LoRA",
-                "Civitai",
-                "AI Updates"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZeGtNTGI3RFczR2NMQTVSWTNSNWtibG9SZWNta1dDckljbXh1Ukdrb0hLMHc1SjdSSy1ZanBUTDRqX1djX1NEQ0lFY1hiYkh6a1pfQl9VS1drTjdDTkppRUg0V1VUdw?oc=5",
-                "date": "2026-07-17T07:00:00.000Z"
-            },
-            "whatsNew": "Civitai has released an update for Krea 2, introducing version 1.2 of the Identity Edit feature, which includes support for LoRA. This update aims to enhance the capabilities of Krea 2's editing features.",
-            "whyItMatters": "The update signifies the ongoing development and improvement of AI tools for creative work, specifically in image generation and editing. This can impact the efficiency and quality of work for artists and designers using AI-assisted tools.",
-            "howToUse": "Artists and designers can utilize the updated Krea 2 Identity Edit feature to refine their work with more precise control over image editing, leveraging LoRA for more detailed adjustments.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
             "isNew": false
         },
         {
@@ -2011,37 +1978,6 @@
             "visualStyle": null,
             "cluster": "igaming-innovation",
             "isNew": false
-        },
-        {
-            "id": "t-toek928m4",
-            "title": "Entain Cuts Jobs",
-            "subtitle": "Entain to cut 500 roles across online operations",
-            "category": "iGaming",
-            "tags": [
-                "Entain",
-                "Job Cuts",
-                "iGaming"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "EGR Global",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVBRS2RsVlVUT24zME1sNl92aFl4dk9mc2NHNnlHenI5WncxNm94bjEwaUdtNE1LS3NBdV9jMnctb1RlcVliMmg1ektxbVhzZHluckZvOGRKSUJuS0lYWEFfYnliTjVycTZxM2RyYW5MWmtBbVRJU3pnOXE4VEREN1pzeExCT0RVQXU4?oc=5",
-                "date": "2026-07-17T09:07:59.000Z"
-            },
-            "whatsNew": "Entain is reducing its workforce by 500 roles across its online operations. This move is likely a response to changing market conditions and regulatory pressures. The company aims to optimize its operations and improve efficiency.",
-            "whyItMatters": "The job cuts reflect the challenges faced by the iGaming industry, including increased competition and regulatory hurdles. This move may have a significant impact on the industry's workforce and overall landscape.",
-            "howToUse": "Companies in the iGaming sector should monitor the market and adjust their strategies to stay competitive. They should also focus on optimizing their operations and improving efficiency to mitigate the impact of job cuts.",
-            "beneficiaries": [
-                "iGaming Companies",
-                "Industry Analysts"
-            ],
-            "companies": [
-                "Entain"
-            ],
-            "visualStyle": null,
-            "cluster": "iGaming-innovation",
-            "isNew": false
         }
     ],
     "clusters": [
@@ -2198,7 +2134,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": null
         },
         {
@@ -2217,7 +2153,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2226,7 +2162,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2235,7 +2171,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "Regulatory updates"
         },
         {
@@ -2253,7 +2189,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2262,7 +2198,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2282,7 +2218,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2340,7 +2276,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2349,7 +2285,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2358,7 +2294,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": "Style browsing signal"
         },
         {
@@ -2395,7 +2331,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": null
         },
         {
@@ -2404,7 +2340,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": null
         },
         {
@@ -2487,7 +2423,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T06:09:34.740Z",
+            "lastScan": "2026-07-31T09:41:44.511Z",
             "note": null
         },
         {
@@ -40005,6 +39941,101 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-brseobkdw",
+            "title": "AI Art Tool",
+            "subtitle": "Flux.2 Klein Ultimate AIO Pro released on civitai.com with various AI-powered editing features",
+            "category": "AI",
+            "tags": [
+                "AI Art Generation",
+                "Image Editing",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanpkaE5RS1FwTlU5RHA2aGZzVFM4VzdGMG10UTdITHJ1YW5fS0kxRGxrZnFZYjNvNlRHTktDS3hoa2pzVVloZHNmbUNENHA1MGd3R2YyZnc4RWZJMkpBejRWNDJCTHhzVnFxWUpGblZiYXNvYWczUjg0WjJZZjRXUVMxbnpraFZZSDdBMV9XLU9jUUhodjBrRVMtS19CbjcxY2FuYnFJRUdCcC1uTlhfVzhhMmVHN2Jpc1RaTG94ZkdjSTAyTy1qbQ?oc=5",
+                "date": "2026-07-17T07:00:00.000Z"
+            },
+            "whatsNew": "The Flux.2 Klein Ultimate AIO Pro tool offers advanced features like t2i, i2i, Inpaint, replace, remove, swap, and edit. It also includes manual, auto, and none segment options. This tool is available on civitai.com.",
+            "whyItMatters": "This tool can significantly impact the creative workflow of artists and designers by providing them with powerful AI-driven editing capabilities. It can also influence the development of AI art generation and image editing technologies.",
+            "howToUse": "Artists and designers can utilize the Flux.2 Klein Ultimate AIO Pro tool to streamline their editing processes and explore new creative possibilities with AI-powered features.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-boe8zpd1n",
+            "title": "Krea 2 Update",
+            "subtitle": "Civitai releases Krea 2 Identity Edit version 1.2 with LoRA support",
+            "category": "AI",
+            "tags": [
+                "Krea 2",
+                "LoRA",
+                "Civitai",
+                "AI Updates"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZeGtNTGI3RFczR2NMQTVSWTNSNWtibG9SZWNta1dDckljbXh1Ukdrb0hLMHc1SjdSSy1ZanBUTDRqX1djX1NEQ0lFY1hiYkh6a1pfQl9VS1drTjdDTkppRUg0V1VUdw?oc=5",
+                "date": "2026-07-17T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released an update for Krea 2, introducing version 1.2 of the Identity Edit feature, which includes support for LoRA. This update aims to enhance the capabilities of Krea 2's editing features.",
+            "whyItMatters": "The update signifies the ongoing development and improvement of AI tools for creative work, specifically in image generation and editing. This can impact the efficiency and quality of work for artists and designers using AI-assisted tools.",
+            "howToUse": "Artists and designers can utilize the updated Krea 2 Identity Edit feature to refine their work with more precise control over image editing, leveraging LoRA for more detailed adjustments.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-toek928m4",
+            "title": "Entain Cuts Jobs",
+            "subtitle": "Entain to cut 500 roles across online operations",
+            "category": "iGaming",
+            "tags": [
+                "Entain",
+                "Job Cuts",
+                "iGaming"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVBRS2RsVlVUT24zME1sNl92aFl4dk9mc2NHNnlHenI5WncxNm94bjEwaUdtNE1LS3NBdV9jMnctb1RlcVliMmg1ektxbVhzZHluckZvOGRKSUJuS0lYWEFfYnliTjVycTZxM2RyYW5MWmtBbVRJU3pnOXE4VEREN1pzeExCT0RVQXU4?oc=5",
+                "date": "2026-07-17T09:07:59.000Z"
+            },
+            "whatsNew": "Entain is reducing its workforce by 500 roles across its online operations. This move is likely a response to changing market conditions and regulatory pressures. The company aims to optimize its operations and improve efficiency.",
+            "whyItMatters": "The job cuts reflect the challenges faced by the iGaming industry, including increased competition and regulatory hurdles. This move may have a significant impact on the industry's workforce and overall landscape.",
+            "howToUse": "Companies in the iGaming sector should monitor the market and adjust their strategies to stay competitive. They should also focus on optimizing their operations and improving efficiency to mitigate the impact of job cuts.",
+            "beneficiaries": [
+                "iGaming Companies",
+                "Industry Analysts"
+            ],
+            "companies": [
+                "Entain"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
             "isNew": false
         }
     ]
