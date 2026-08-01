@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-07-31T23:58:49.211Z",
+        "scanDate": "2026-08-01T03:28:20.591Z",
         "version": "2.5.0",
-        "totalTrends": 65,
+        "totalTrends": 68,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,130 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-hd40od5ti",
+            "title": "Civitai Creator Shop",
+            "subtitle": "Civitai launches platform for creators to open their own shops",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Creator Platform",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GT0kxQkUwSFhraTZteUZyeGJTOTRaQXdwbVNweHNPMTRJUW4xMHBMWTN2d0RJYzRWamtjeXp0N0xQbHBvNjJldUp4bUdaX3Fkc01nWVF6UTI1cEJQR0xMSVVCaktVRF9DaHoyZzdB?oc=5",
+                "date": "2026-07-31T15:05:57.000Z"
+            },
+            "whatsNew": "Civitai introduces a new feature allowing creators to open their own shops, potentially democratizing access to AI-generated art. This move could significantly impact the AI art market. The platform may offer new revenue streams for creators.",
+            "whyItMatters": "This development matters because it could revolutionize how AI art is created, distributed, and monetized, giving more power to individual creators. It also highlights the growing importance of AI in the art world.",
+            "howToUse": "Creators can utilize this platform by setting up their own shops, uploading their AI-generated art, and connecting with potential buyers. To get started, they should explore civitai.com and follow the setup instructions.",
+            "beneficiaries": [
+                "AI Artists",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-w3psbt6ah",
+            "title": "MiniMax H3 Released",
+            "subtitle": "Civitai launches MiniMax H3 with open-weights video and live generation capabilities",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Open-Weights",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWhoRHMxNDFGMGFPM2RQcVFLQTVlbHI2cFY5cC1wZEpWMjBEWVZnYXh1RlgzYXlNa2R0dHBVeGNZQmJCTkNZMDNsRGRzRHdydTI0RVZyV0tjOVJYUXU4cmMxY2hBUGRnMGduVGliQUsxUFdSUzI0MldIS2FVb241bm9wemd4LTBIY3djOG9hYXA?oc=5",
+                "date": "2026-07-31T20:03:56.000Z"
+            },
+            "whatsNew": "MiniMax H3 introduces open-weights video and live generation, marking a significant advancement in AI video tools. This technology allows for more flexible and dynamic content creation. Civitai's launch of MiniMax H3 is expected to impact the AI community and content creators.",
+            "whyItMatters": "The release of MiniMax H3 with open-weights video and live generation capabilities has the potential to revolutionize AI-powered video content creation, offering unprecedented flexibility and creativity. This could significantly impact industries relying on video content, such as gaming and entertainment.",
+            "howToUse": "Content creators can utilize MiniMax H3 for generating high-quality, dynamic video content by accessing the open-weights video feature and leveraging the live generation capabilities. This can be particularly useful for applications in gaming, such as cutscenes or interactive elements.",
+            "beneficiaries": [
+                "Content Creators",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
+        {
+            "id": "t-72zngmvfo",
+            "title": "Cyberpunk Edgerunners",
+            "subtitle": "AI-generated character Rebecca from Cyberpunk Edgerunners using ANIMA V1",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Cyberpunk",
+                "ANIMA V1"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNDNvZjRuZHBsRVhvZmRiLV9UWlJBc1owYVFrYWQxZUNUaFYxRDVwRVRDT2thZFZqQ1BxUVJCdmJWYy1ZQVhsaWZmbnE3ckd6MWV3Q2xsRGk3RmowcGJQblNPVUZ0cUxkQ3ZiZzNhTnNoV0g0bHRDY0x2U2llNjRmRjU2Z29jdXFmOEMtNWYtVm5GVF9FNDJaalVUQ3QwVmpPaVd1X20xSE9HTnhfY2lnOFVSSzNVOF9Gd1JnOGtZSE9ZeGU2bHJRdnhaakxWVFJwZFU0bg?oc=5",
+                "date": "2026-07-27T02:12:31.000Z"
+            },
+            "whatsNew": "The use of ANIMA V1 for generating characters like Rebecca from Cyberpunk Edgerunners showcases advancements in AI art generation. This technology can create detailed, stylized characters with ease. The application of such tools in gaming and animation is becoming more prevalent.",
+            "whyItMatters": "The ability to generate high-quality characters with AI can significantly impact the gaming and animation industries by streamlining content creation and offering new creative possibilities. This technology can reduce production time and costs, making it more accessible for smaller studios to produce high-quality content.",
+            "howToUse": "Developers and artists can utilize AI art generation tools like ANIMA V1 to create characters, environments, and other visual elements for their games or animations, enhancing their projects with unique, detailed designs.",
+            "beneficiaries": [
+                "Game Developers",
+                "Animation Studios"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-q13ta4bdo",
+            "title": "Alibaba AI Update",
+            "subtitle": "Alibaba releases Qwen Image 3.0, an AI tool for text and layouts",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Alibaba",
+                "Qwen Image"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMDFSLXphRHdlTjE4WmlhODVURjZGMjVpYVNnMkMzVmpENzFKZG5fX3pKeGN2Mk8zVllUUXI1Vi1mRm1PUm56XzY2RUg2cnZkdk9F?oc=5",
+                "date": "2026-07-31T12:24:26.000Z"
+            },
+            "whatsNew": "Qwen Image 3.0 is an updated AI tool by Alibaba for generating images from text and layouts, indicating advancements in AI art generation. This tool can potentially be used in various creative fields, including gaming and visual design. The update suggests improved capabilities in handling complex text and layout inputs.",
+            "whyItMatters": "The release of Qwen Image 3.0 matters because it signifies the growing importance of AI in creative work, potentially transforming how visual content is generated in industries like gaming and advertising. It also highlights Alibaba's commitment to AI development and its applications.",
+            "howToUse": "Developers and designers can utilize Qwen Image 3.0 to automate the generation of visual content, such as game assets or advertisements, by inputting specific text and layout requirements. This can streamline content creation processes and reduce production times.",
+            "beneficiaries": [
+                "Game Developers",
+                "Graphic Designers"
+            ],
+            "companies": [
+                "Alibaba"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-lbngc8of8",
             "title": "CIRSA Revenue",
@@ -49,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-mfwh6wthw",
@@ -1270,37 +1394,6 @@
             "isNew": false
         },
         {
-            "id": "t-yl17vqest",
-            "title": "AI Art Style",
-            "subtitle": "Article about AI-generated art styles, including Anima, Illustrious, NoobAI, and Pony, on PromptHero",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Art Style",
-                "PromptHero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaHBqT2FmbjF5Vndpa1g4b0VuaS13MGtlNDFYRFFvNGZwSUV3WFVkNnhiVWFBdzJvWnFTREdSYW9VZF92cmJ1bTlsblFqX1huRU9PdzNHRElmUUJ4STZIQk9OcWZfUDVNT3FXYUtSRDRwX21mR2Z5cTFtRWRoUjgta2daQVk3cWJWRm1LbHdpTTU0TzI5SDNqZjV0SG9EaUJuZzRvRl9xTW1vRC1DQ0t1dDBfZGJwcXN4eWk1eDdxNVc0NzNuQTExc1A2ZnJia2FNTXA3MlJOaWxzUjVjTi15Rnh2NS1sbG5rZThHNmozQm5FUmpkdE9BN0lDU1dqVno1aHBpNTctYVNHdw?oc=5",
-                "date": "2026-07-18T02:12:23.000Z"
-            },
-            "whatsNew": "The article discusses various AI-generated art styles, such as Anima, Illustrious, NoobAI, and Pony, and their applications. It highlights the growing trend of using AI in art generation. The article also mentions the use of these styles in creating many characters.",
-            "whyItMatters": "The use of AI in art generation is becoming increasingly popular, and understanding these styles can help artists and designers create new and innovative content. This trend has the potential to revolutionize the art and design industries.",
-            "howToUse": "Artists and designers can use AI-generated art styles to create unique and innovative content, such as character designs and illustrations. They can experiment with different styles and tools to find the one that best suits their needs.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-rlmwxibhd",
             "title": "National Lottery",
             "subtitle": "The UK Gambling Commission discusses the current National Lottery licence",
@@ -2196,7 +2289,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.591Z",
             "note": null
         },
         {
@@ -2215,7 +2308,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.591Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2224,7 +2317,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.591Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2233,7 +2326,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.591Z",
             "note": "Regulatory updates"
         },
         {
@@ -2251,7 +2344,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.591Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2260,7 +2353,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.591Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2280,7 +2373,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2338,7 +2431,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2347,7 +2440,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2356,7 +2449,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": "Style browsing signal"
         },
         {
@@ -2393,7 +2486,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": null
         },
         {
@@ -2402,7 +2495,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": null
         },
         {
@@ -2485,7 +2578,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-07-31T23:58:49.211Z",
+            "lastScan": "2026-08-01T03:28:20.592Z",
             "note": null
         },
         {
@@ -40161,6 +40254,37 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-yl17vqest",
+            "title": "AI Art Style",
+            "subtitle": "Article about AI-generated art styles, including Anima, Illustrious, NoobAI, and Pony, on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Art Style",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaHBqT2FmbjF5Vndpa1g4b0VuaS13MGtlNDFYRFFvNGZwSUV3WFVkNnhiVWFBdzJvWnFTREdSYW9VZF92cmJ1bTlsblFqX1huRU9PdzNHRElmUUJ4STZIQk9OcWZfUDVNT3FXYUtSRDRwX21mR2Z5cTFtRWRoUjgta2daQVk3cWJWRm1LbHdpTTU0TzI5SDNqZjV0SG9EaUJuZzRvRl9xTW1vRC1DQ0t1dDBfZGJwcXN4eWk1eDdxNVc0NzNuQTExc1A2ZnJia2FNTXA3MlJOaWxzUjVjTi15Rnh2NS1sbG5rZThHNmozQm5FUmpkdE9BN0lDU1dqVno1aHBpNTctYVNHdw?oc=5",
+                "date": "2026-07-18T02:12:23.000Z"
+            },
+            "whatsNew": "The article discusses various AI-generated art styles, such as Anima, Illustrious, NoobAI, and Pony, and their applications. It highlights the growing trend of using AI in art generation. The article also mentions the use of these styles in creating many characters.",
+            "whyItMatters": "The use of AI in art generation is becoming increasingly popular, and understanding these styles can help artists and designers create new and innovative content. This trend has the potential to revolutionize the art and design industries.",
+            "howToUse": "Artists and designers can use AI-generated art styles to create unique and innovative content, such as character designs and illustrations. They can experiment with different styles and tools to find the one that best suits their needs.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
