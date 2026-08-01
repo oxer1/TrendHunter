@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-01T06:25:55.460Z",
+        "scanDate": "2026-08-01T09:03:39.102Z",
         "version": "2.5.0",
-        "totalTrends": 69,
+        "totalTrends": 68,
         "categories": [
             "iGaming",
             "AI",
@@ -49,7 +49,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-hd40od5ti",
@@ -704,37 +704,6 @@
             ],
             "companies": [
                 "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
-            "id": "t-7qapo01ds",
-            "title": "Moody Gal Dori",
-            "subtitle": "New AI-generated art piece on PromptHero",
-            "category": "Art",
-            "tags": [
-                "AI Art",
-                "Image Generation",
-                "PromptHero"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdU10b1ZORk5pQ1dIYVR1UjF5Y0I5VHVvN2g2OHlSNmw2TU1HbUJ3ajFzaWo5RTdZQkhqZm1RQlBhRjh6WWxDci11Y3VrSUVtSngyY3FrWXJtU0NYdzBvQkphU0Vvd2FYZXlDd180YUI0aGxHQ2theEVqWGNYVlNKRjVZd05TNXIwZk9WeUdZT2xnOVFacjlaRWM1TGFaWFpoS3J2Nk85djl6eHR5c0tkRU5BTGg4dGV3?oc=5",
-                "date": "2026-07-18T07:00:00.000Z"
-            },
-            "whatsNew": "The article features Moody Gal - Dori, an AI-generated art piece created using Krea2 and Zimage. This showcases the capabilities of AI in art generation. The piece is available on prompthero.com.",
-            "whyItMatters": "This demonstrates the growing influence of AI in creative fields, particularly in art generation. It highlights the potential for AI to produce unique and captivating art pieces.",
-            "howToUse": "Artists and designers can utilize AI tools like Krea2 and Zimage to generate innovative art pieces, exploring new styles and themes.",
-            "beneficiaries": [
-                "Artists",
-                "Designers"
-            ],
-            "companies": [
-                "PromptHero"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
@@ -2320,7 +2289,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.102Z",
             "note": null
         },
         {
@@ -2339,7 +2308,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.102Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2348,7 +2317,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.102Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2357,7 +2326,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.102Z",
             "note": "Regulatory updates"
         },
         {
@@ -2375,7 +2344,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2384,7 +2353,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2404,7 +2373,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2462,7 +2431,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2471,7 +2440,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2480,7 +2449,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": "Style browsing signal"
         },
         {
@@ -2517,7 +2486,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": null
         },
         {
@@ -2526,7 +2495,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": null
         },
         {
@@ -2609,7 +2578,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T06:25:55.460Z",
+            "lastScan": "2026-08-01T09:03:39.103Z",
             "note": null
         },
         {
@@ -40307,6 +40276,37 @@
             "whatsNew": "The article discusses various AI-generated art styles, such as Anima, Illustrious, NoobAI, and Pony, and their applications. It highlights the growing trend of using AI in art generation. The article also mentions the use of these styles in creating many characters.",
             "whyItMatters": "The use of AI in art generation is becoming increasingly popular, and understanding these styles can help artists and designers create new and innovative content. This trend has the potential to revolutionize the art and design industries.",
             "howToUse": "Artists and designers can use AI-generated art styles to create unique and innovative content, such as character designs and illustrations. They can experiment with different styles and tools to find the one that best suits their needs.",
+            "beneficiaries": [
+                "Artists",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-7qapo01ds",
+            "title": "Moody Gal Dori",
+            "subtitle": "New AI-generated art piece on PromptHero",
+            "category": "Art",
+            "tags": [
+                "AI Art",
+                "Image Generation",
+                "PromptHero"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdU10b1ZORk5pQ1dIYVR1UjF5Y0I5VHVvN2g2OHlSNmw2TU1HbUJ3ajFzaWo5RTdZQkhqZm1RQlBhRjh6WWxDci11Y3VrSUVtSngyY3FrWXJtU0NYdzBvQkphU0Vvd2FYZXlDd180YUI0aGxHQ2theEVqWGNYVlNKRjVZd05TNXIwZk9WeUdZT2xnOVFacjlaRWM1TGFaWFpoS3J2Nk85djl6eHR5c0tkRU5BTGg4dGV3?oc=5",
+                "date": "2026-07-18T07:00:00.000Z"
+            },
+            "whatsNew": "The article features Moody Gal - Dori, an AI-generated art piece created using Krea2 and Zimage. This showcases the capabilities of AI in art generation. The piece is available on prompthero.com.",
+            "whyItMatters": "This demonstrates the growing influence of AI in creative fields, particularly in art generation. It highlights the potential for AI to produce unique and captivating art pieces.",
+            "howToUse": "Artists and designers can utilize AI tools like Krea2 and Zimage to generate innovative art pieces, exploring new styles and themes.",
             "beneficiaries": [
                 "Artists",
                 "Designers"
