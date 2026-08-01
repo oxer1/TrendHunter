@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-01T09:03:39.102Z",
+        "scanDate": "2026-08-01T11:14:05.289Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 69,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-es26yfh6d",
+            "title": "Betty Canada Grows",
+            "subtitle": "Betty Canada's Q2 net revenue doubles as they target the top spot in Alberta's gaming market",
+            "category": "iGaming",
+            "tags": [
+                "Betty Canada",
+                "Alberta",
+                "iGaming Revenue"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0ZiV0RUYmc3aEl4RXhhS0NhTmdrbWdTRFZKcGhqeXNIRE5GSjlnbTVMMDZ5dlFKbmZ1ZXR4RlZEYWN1X3pneFNsUkxuR21EOXFxZkctc0V4UTFmM3ViRUcyazJxT3RNWXRqUVBPbi13WUY4VW9YWURVaDAwVHdVcjZkamZyTTd5ZlhiU0UtcDk5VFpqVW1wbVZNT1lOOC1aNE1ZcmR1MGlWRy0yNDM1elowSWtQZw?oc=5",
+                "date": "2026-07-28T15:01:54.000Z"
+            },
+            "whatsNew": "Betty Canada's Q2 net revenue has doubled, indicating significant growth in the company. They are now targeting the top spot in Alberta's gaming market.",
+            "whyItMatters": "This growth signifies a shift in the Alberta gaming market, with Betty Canada emerging as a major player. It may influence market trends and competition.",
+            "howToUse": "Operators can analyze Betty Canada's strategy to identify key factors contributing to their growth and apply similar approaches to their own businesses.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Investors"
+            ],
+            "companies": [
+                "Betty Canada"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-v5gvar6ki",
             "title": "AI Video Tools",
@@ -2289,7 +2320,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.102Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": null
         },
         {
@@ -2308,7 +2339,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-01T09:03:39.102Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2317,7 +2348,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.102Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2326,7 +2357,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.102Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": "Regulatory updates"
         },
         {
@@ -2344,7 +2375,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.103Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2353,7 +2384,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.103Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2373,7 +2404,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-01T09:03:39.103Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2431,7 +2462,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.103Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2578,7 +2609,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T09:03:39.103Z",
+            "lastScan": "2026-08-01T11:14:05.289Z",
             "note": null
         },
         {
