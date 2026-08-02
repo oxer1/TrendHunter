@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-02T13:43:55.638Z",
+        "scanDate": "2026-08-02T14:59:36.791Z",
         "version": "2.5.0",
-        "totalTrends": 71,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,38 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-p6y7qb8cu",
+            "title": "AI Art Tool",
+            "subtitle": "Civitai releases Flux.2 Klein, an AI-powered art editing tool with various features",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Image Editing",
+                "Civitai"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanpkaE5RS1FwTlU5RHA2aGZzVFM4VzdGMG10UTdITHJ1YW5fS0kxRGxrZnFZYjNvNlRHTktDS3hoa2pzVVloZHNmbUNENHA1MGd3R2YyZnc4RWZJMkpBejRWNDJCTHhzVnFxWUpGblZiYXNvYWczUjg0WjJZZjRXUVMxbnpraFZZSDdBMV9XLU9jUUhodjBrRVMtS19CbjcxY2FuYnFJRUdCcC1uTlhfVzhhMmVHN2Jpc1RaTG94ZkdjSTAyTy1qbQ?oc=5",
+                "date": "2026-08-01T19:25:22.000Z"
+            },
+            "whatsNew": "Flux.2 Klein offers advanced features like t2i, i2i, Inpaint, replace, remove, swap, and edit, with manual, auto, or no segmentation options. This tool expands the creative possibilities for artists and designers. It simplifies complex editing tasks and enables more precise control over the editing process.",
+            "whyItMatters": "The release of Flux.2 Klein indicates a growing trend towards AI-powered creative tools, making advanced editing capabilities more accessible to a broader audience. This can significantly impact the visual design and art industries by streamlining workflows and enhancing creativity.",
+            "howToUse": "Artists and designers can utilize Flux.2 Klein by exploring its various features and applying them to their projects, starting with simple edits and progressing to more complex tasks as they become more familiar with the tool.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-aybfb6kcu",
             "title": "Avatar Video Tips",
@@ -2378,7 +2410,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": null
         },
         {
@@ -2397,7 +2429,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2406,7 +2438,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2415,7 +2447,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": "Regulatory updates"
         },
         {
@@ -2433,7 +2465,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2442,7 +2474,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2462,7 +2494,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2520,7 +2552,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2666,7 +2698,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
+            "lastScan": "2026-08-02T14:59:36.791Z",
             "note": null
         },
         {
