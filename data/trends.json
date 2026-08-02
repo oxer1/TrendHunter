@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-08-02T22:52:52.324Z",
+        "scanDate": "2026-08-02T23:57:18.570Z",
         "version": "2.5.0",
         "totalTrends": 71,
         "categories": [
@@ -2381,7 +2381,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
+            "lastScan": "2026-08-02T23:57:18.570Z",
             "note": null
         },
         {
@@ -2398,28 +2398,31 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "metadata-only",
-            "lastScan": "2026-08-02T22:52:52.324Z",
-            "fallbackUsed": "metadata-only"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "fallbackUsed": "metadata-only",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
-            "fallbackUsed": "search-summary"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "fallbackUsed": "search-summary",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
-            "note": "Regulatory updates"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": "Regulatory updates",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -2434,20 +2437,22 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
-            "note": "EU regulatory insights"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": "EU regulatory insights",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
+            "lastScan": "2026-08-02T23:57:18.570Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop"
+            "fallbackUsed": "manual_link_drop",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "X / Twitter",
@@ -2463,10 +2468,11 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "api",
-            "lastScan": "2026-08-02T22:52:52.324Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "r/StableDiffusion",
@@ -2521,28 +2527,31 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
-            "note": "Prompt gallery signal — style/trend detection"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": "Prompt gallery signal — style/trend detection",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
-            "note": "Promptbook — style/prompt signal"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": "Promptbook — style/prompt signal",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
-            "note": "Style browsing signal"
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": "Style browsing signal",
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -2576,28 +2585,31 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-08-02T13:43:55.638Z",
-            "note": null
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": null,
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "search-summary",
-            "lastScan": "2026-08-02T13:43:55.638Z",
-            "note": null
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": null,
+            "errorReason": "HTTP 503"
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "healthy",
+            "status": "error",
             "method": "search-summary",
-            "lastScan": "2026-08-02T05:54:07.247Z",
-            "note": null
+            "lastScan": "2026-08-02T23:57:18.570Z",
+            "note": null,
+            "errorReason": "HTTP 503"
         },
         {
             "name": "Nano-banana",
@@ -2623,7 +2635,7 @@
             "category": "Tech",
             "status": "error",
             "method": "direct",
-            "lastScan": "2026-07-30T11:51:36.726Z",
+            "lastScan": "2026-08-02T23:57:18.570Z",
             "note": "Release notes, migrations",
             "errorReason": "HTTP 503"
         },
@@ -2669,7 +2681,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T22:52:52.324Z",
+            "lastScan": "2026-08-02T23:57:18.570Z",
             "note": null
         },
         {
