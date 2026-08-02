@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-01T23:54:27.064Z",
+        "scanDate": "2026-08-02T02:28:07.542Z",
         "version": "2.5.0",
-        "totalTrends": 71,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,36 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ie2n7ttw5",
+            "title": "Licensing Stats",
+            "subtitle": "UK Gambling Commission releases official licensing authority statistics for 2025 to 2026",
+            "category": "iGaming",
+            "tags": [
+                "Licensing",
+                "Regulation",
+                "Gambling Commission"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3RTS3dUMHhQc05JQjBiTnBrSGhfV2NoemVzV3AxTU8tODZBT3pYU3I3eVVGY3g5UWhmbE1CUXNVcldmelozTEh4ekJwTE4wenYzVHVER1V2UTlYWnNCRTNCUnNWdFpQUC1Wakw5X0g5ZS1MYU5SNDhwWEVhMkUzdDV1d3FlLTZuLTFkWF9RVm9ZeTR2Z01Wck13OVl5SG9iMjMzVGtjbGRPTFE3c1RJM09KVXFXR2lzOUQ3bVZYaEwxaVNHTTk0ZndKbnlVN3R5Q1Fj?oc=5",
+                "date": "2026-07-30T19:38:15.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has released its official licensing authority statistics for the period of 2025 to 2026, providing insights into the current state of the industry. These statistics cover various aspects of licensing and regulation. The release of these statistics is a regular occurrence, aiming to promote transparency within the gambling sector.",
+            "whyItMatters": "These statistics are crucial for understanding the regulatory landscape of the gambling industry in the UK, impacting operators, regulators, and consumers alike. They provide valuable data for assessing the effectiveness of current regulations and guiding future policy decisions.",
+            "howToUse": "Operators and stakeholders can use these statistics to better understand the regulatory environment and comply with existing and upcoming regulations. Analysts can leverage this data to forecast industry trends and regulatory shifts.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies",
+                "Industry Analysts"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
         {
             "id": "t-kh2ibc7hb",
             "title": "UK Gambling Risks",
@@ -2380,7 +2410,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": null
         },
         {
@@ -2399,7 +2429,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2408,7 +2438,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2417,7 +2447,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "Regulatory updates"
         },
         {
@@ -2435,7 +2465,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2444,7 +2474,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2464,7 +2494,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2522,7 +2552,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2531,7 +2561,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T20:46:58.661Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2540,7 +2570,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T20:46:58.661Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": "Style browsing signal"
         },
         {
@@ -2577,7 +2607,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T20:46:58.661Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": null
         },
         {
@@ -2586,7 +2616,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-01T20:46:58.661Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": null
         },
         {
@@ -2669,7 +2699,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-01T23:54:27.064Z",
+            "lastScan": "2026-08-02T02:28:07.542Z",
             "note": null
         },
         {
