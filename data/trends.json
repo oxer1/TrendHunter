@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-03T13:38:29.762Z",
+        "scanDate": "2026-08-03T16:21:08.794Z",
         "version": "2.5.0",
-        "totalTrends": 70,
+        "totalTrends": 72,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,67 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-0o1nuud6d",
+            "title": "MGA Notice",
+            "subtitle": "Malta Gaming Authority publishes notice on unauthorised URLs",
+            "category": "iGaming",
+            "tags": [
+                "MGA",
+                "Unauthorised URLs",
+                "Regulation"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "Malta Gaming Authority",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEpvVm80YjkycGtlb0pwZ1gzd2xXak1PaFNkQmJXV2o5OVZBeWl3T0Z3Ul9iU1N3NWthMDVVUktDQVJ5T3kxbWVyUEFuTHktUmxSeVRDcHBZbUlIUzMtN2hjSW1BaHFxNkVodVBVdDh0LUw2YnZpOTRXTjZYMFlNUmRuRl9zenJ0?oc=5",
+                "date": "2026-08-03T11:10:46.000Z"
+            },
+            "whatsNew": "The Malta Gaming Authority has published a notice regarding multiple unauthorised URLs. This move aims to protect consumers and maintain a safe gaming environment.",
+            "whyItMatters": "The notice highlights the MGA's ongoing efforts to regulate and monitor the gaming industry, ensuring compliance with existing laws and regulations.",
+            "howToUse": "Operators should ensure their URLs are authorized and compliant with MGA regulations to avoid potential penalties.",
+            "beneficiaries": [
+                "Gaming Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-t430he50m",
+            "title": "Stable Diffusion",
+            "subtitle": "Cinematic portrait generation using Stable Diffusion prompts",
+            "category": "AI",
+            "tags": [
+                "Stable Diffusion",
+                "AI Art",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM25wUk1EU3ItaW5vb09leldQU09LVzJXTHk3aVFkSGFyRWFBd2g3SW0wYjVDb3NiM0NJMnExNEtYcTltXzZsZm5XdXVQbnJWSjE0dzR1YUlIdTZxOE9NRWFEby1yWkxGLWIzME9hbXpzTmZrWXRfbW5NUzczYXpGbDNCNldoVWkyVWNWSW92NmpXN09BYTRjRnlUQ0p6Y3RjWV9wYk92ZEY3TVRSd1Zpb2tETzhHZTZMeVNUZ0JZT0lUdEZEcGVkamY3cjNmVnVRU1ctYkVaTmUwY1Z4bWZqa01NUlpybk5EOGlBS2dhWXNBbkZQVEkzTUtUeEE0eVlNZVp0b3pQaEt4cVk?oc=5",
+                "date": "2026-08-03T06:35:20.000Z"
+            },
+            "whatsNew": "Stable Diffusion is being used to generate cinematic portraits, including those with an Asian theme, showcasing the model's ability to create detailed and culturally sensitive images. The use of specific prompts allows for highly customized outputs. This technology has the potential to revolutionize the field of digital art and design.",
+            "whyItMatters": "The ability to generate high-quality, culturally sensitive images using AI has significant implications for the art, design, and entertainment industries. It could enable the creation of more diverse and inclusive visual content.",
+            "howToUse": "To leverage this technology, users can experiment with crafting detailed prompts for Stable Diffusion, focusing on specific cultural, thematic, or stylistic elements they wish to see in the generated images.",
+            "beneficiaries": [
+                "Digital Artists",
+                "Designers",
+                "Content Creators"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
         {
             "id": "t-ufswuf8wr",
             "title": "Unity Games",
@@ -49,7 +110,7 @@
             ],
             "visualStyle": null,
             "cluster": "studio-releases",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-4o5pdma97",
@@ -80,7 +141,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-m66neoxah",
@@ -112,7 +173,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-fv9emt3jq",
@@ -2352,7 +2413,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.762Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": null
         },
         {
@@ -2371,7 +2432,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-03T13:38:29.762Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2380,7 +2441,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.762Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2389,7 +2450,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "Regulatory updates"
         },
         {
@@ -2407,7 +2468,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2416,7 +2477,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2436,7 +2497,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2494,7 +2555,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2503,7 +2564,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2512,7 +2573,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": "Style browsing signal"
         },
         {
@@ -2549,7 +2610,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": null
         },
         {
@@ -2558,7 +2619,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": null
         },
         {
@@ -2640,7 +2701,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T13:38:29.763Z",
+            "lastScan": "2026-08-03T16:21:08.794Z",
             "note": null
         },
         {
