@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-03T10:40:02.681Z",
+        "scanDate": "2026-08-03T13:38:29.762Z",
         "version": "2.5.0",
-        "totalTrends": 68,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,100 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-ufswuf8wr",
+            "title": "Unity Games",
+            "subtitle": "Review of standout games made with Unity in July 2026",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "Community"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
+                "date": "2026-08-03T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity blog highlights notable games created with the Unity engine in July 2026, showcasing community talent and engine capabilities. These games demonstrate the versatility and power of Unity in game development. The list includes a variety of genres and styles, indicating the broad appeal and application of the Unity engine.",
+            "whyItMatters": "This review matters because it showcases the potential of Unity for game development, inspiring developers and highlighting the engine's capabilities. It also underscores the vibrant community around Unity, which is crucial for its growth and adoption.",
+            "howToUse": "Developers can use this review for inspiration and to learn about the latest trends and techniques in Unity game development, potentially applying these insights to their own projects.",
+            "beneficiaries": [
+                "Game Developers",
+                "Unity Community"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "studio-releases",
+            "isNew": true
+        },
+        {
+            "id": "t-4o5pdma97",
+            "title": "NY Sues Kalshi",
+            "subtitle": "New York launches legal action against Kalshi for breaching gambling laws",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Gambling Laws",
+                "Kalshi"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGlKSWIwN0NBRlJpc2FFYkFZcDJBQ2xEWHVTUU9vRmwwZW9tUWhxTG50MTJaUGJLOGxzLVI4NW5vZF91cmUwUnlXVm94V1Zwa2hyczRQMGhvRmV1UTI1NDBTRFVWemloTFBVMlJnRmFsd3FQYWhuTnB1NnZVbmEzSGU5RGhES3RfV1VwU09RbHpkZ0RndnhPWndGT0ZTY3QyNDdfT1ExcWVEajFLQUxFODJNSGZGQQ?oc=5",
+                "date": "2026-08-03T10:44:13.000Z"
+            },
+            "whatsNew": "New York has launched a legal action against Kalshi, accusing the company of breaching state gambling laws. This move is part of a broader crackdown on illegal gambling activities.",
+            "whyItMatters": "The lawsuit highlights the ongoing regulatory challenges faced by the iGaming industry, particularly in the US where laws vary by state. It also underscores the importance of compliance for operators.",
+            "howToUse": "Operators should ensure they are fully compliant with all relevant state and federal laws to avoid similar legal actions.",
+            "beneficiaries": [
+                "Regulators",
+                "Compliant Operators"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": true
+        },
+        {
+            "id": "t-m66neoxah",
+            "title": "BetWright Renews Sponsorship",
+            "subtitle": "BetWright renews Norwich City sponsorship for the 2026-27 season",
+            "category": "iGaming",
+            "tags": [
+                "Sponsorship",
+                "Norwich City",
+                "BetWright"
+            ],
+            "trendStrength": 2,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1J0RG90MjR5UENPeHBMcDFNUDByaTFYMzZKMmtiT3dyazk3bUREZjJYNmFBWE9RaGFlYi1EMHl2RDVjUXpfcVhZbnp2d3lkRUU2WGo2akttNzRuT2JXS0l3aGItdlFtZG9sSVRrcTNzLUx6OEY5X0l4UndvaUJKNjE3bkpyQ0w4N1dFRG9JdFplNHhOZWhmYllYTQ?oc=5",
+                "date": "2026-08-03T10:59:17.000Z"
+            },
+            "whatsNew": "BetWright has renewed its sponsorship with Norwich City for the upcoming season, indicating a continued investment in sports partnerships. This move reflects the ongoing importance of sports sponsorships in the iGaming industry. The renewal signifies a long-term commitment between the two entities.",
+            "whyItMatters": "The renewal of this sponsorship deal highlights the strategic importance of sports marketing in the iGaming sector, demonstrating how operators like BetWright leverage such partnerships to enhance brand visibility and reach new audiences.",
+            "howToUse": "Operators can use sports sponsorships to increase brand awareness and appeal to a broader audience, while teams can benefit from the financial and promotional support.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Sports Teams"
+            ],
+            "companies": [
+                "BetWright",
+                "Norwich City"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-fv9emt3jq",
             "title": "Betsson Acquires Rhino",
@@ -50,7 +144,7 @@
             ],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p051hjkng",
@@ -79,7 +173,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-8723hot1w",
@@ -110,7 +204,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-p6y7qb8cu",
@@ -1916,37 +2010,6 @@
             "isNew": false
         },
         {
-            "id": "t-wyyfz7ybx",
-            "title": "AI Image Prompt",
-            "subtitle": "ChatGPT image generation with PromptHero",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "ChatGPT",
-                "Image Generation"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "PromptHero",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12QVNIMXhaQWRiM2thdmJoLVdXVkJITFlvSDB6NnFjVkI0c3FLb2c3eUoxdzVKdjYtMnhoWnE3OWFZOEQxME05T2hXMF9FM1ZHeWJzYmtNZ3Z4ZXVwQWNQbVFxeVVrWXRfNXpLM3R1ck5fMGpGZVE?oc=5",
-                "date": "2026-07-20T12:55:46.000Z"
-            },
-            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
-            "whyItMatters": "The ability to generate images using AI has significant implications for the fields of art, design, and entertainment. It could also impact the iGaming industry by enabling the creation of unique and dynamic game visuals.",
-            "howToUse": "Developers and artists can utilize PromptHero's ChatGPT image prompt feature to generate images for various applications, including game development and visual design.",
-            "beneficiaries": [
-                "Game Developers",
-                "Artists"
-            ],
-            "companies": [
-                "PromptHero"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-6mfjhmmm0",
             "title": "AI Image Alternatives",
             "subtitle": "OpenArt discusses Higgsfield alternatives for AI image and video creation",
@@ -2289,7 +2352,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.762Z",
             "note": null
         },
         {
@@ -2308,7 +2371,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.762Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2317,7 +2380,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.762Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2326,7 +2389,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "Regulatory updates"
         },
         {
@@ -2344,7 +2407,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2353,7 +2416,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2373,7 +2436,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2431,7 +2494,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2440,7 +2503,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2449,7 +2512,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": "Style browsing signal"
         },
         {
@@ -2486,7 +2549,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": null
         },
         {
@@ -2495,7 +2558,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": null
         },
         {
@@ -2577,7 +2640,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T10:40:02.681Z",
+            "lastScan": "2026-08-03T13:38:29.763Z",
             "note": null
         },
         {
@@ -40591,6 +40654,37 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-wyyfz7ybx",
+            "title": "AI Image Prompt",
+            "subtitle": "ChatGPT image generation with PromptHero",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "ChatGPT",
+                "Image Generation"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12QVNIMXhaQWRiM2thdmJoLVdXVkJITFlvSDB6NnFjVkI0c3FLb2c3eUoxdzVKdjYtMnhoWnE3OWFZOEQxME05T2hXMF9FM1ZHeWJzYmtNZ3Z4ZXVwQWNQbVFxeVVrWXRfNXpLM3R1ck5fMGpGZVE?oc=5",
+                "date": "2026-07-20T12:55:46.000Z"
+            },
+            "whatsNew": "PromptHero is exploring the capabilities of ChatGPT for image generation, allowing users to create images based on text prompts. This technology has the potential to revolutionize the field of AI art. The integration of ChatGPT with image generation tools is a novel development.",
+            "whyItMatters": "The ability to generate images using AI has significant implications for the fields of art, design, and entertainment. It could also impact the iGaming industry by enabling the creation of unique and dynamic game visuals.",
+            "howToUse": "Developers and artists can utilize PromptHero's ChatGPT image prompt feature to generate images for various applications, including game development and visual design.",
+            "beneficiaries": [
+                "Game Developers",
+                "Artists"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
             "isNew": false
         }
     ]
