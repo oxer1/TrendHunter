@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-02T23:57:18.570Z",
+        "scanDate": "2026-08-03T02:30:44.604Z",
         "version": "2.5.0",
-        "totalTrends": 71,
+        "totalTrends": 70,
         "categories": [
             "iGaming",
             "AI",
@@ -2040,38 +2040,6 @@
             "isNew": false
         },
         {
-            "id": "t-zprdailem",
-            "title": "Unity CLI",
-            "subtitle": "Manage Unity from the terminal with the new CLI and com.unity.pipeline package",
-            "category": "Tech",
-            "tags": [
-                "Unity",
-                "CLI",
-                "Automation",
-                "AI"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Unity Blog",
-                "url": "https://unity.com/blog/meet-the-unity-cli",
-                "date": "2026-07-20T00:00:00.000Z"
-            },
-            "whatsNew": "The Unity CLI allows for managing Unity from the terminal, including installing editors and automating CI. The com.unity.pipeline package provides a structured way for scripts and AI agents to operate Unity.",
-            "whyItMatters": "This new feature enables faster and more efficient workflow automation, and opens up new possibilities for AI integration in Unity development.",
-            "howToUse": "Developers can use the Unity CLI to automate repetitive tasks and integrate Unity with other tools and services, and use the com.unity.pipeline package to create custom scripts and AI agents.",
-            "beneficiaries": [
-                "Game Developers",
-                "Automation Engineers"
-            ],
-            "companies": [
-                "Unity"
-            ],
-            "visualStyle": null,
-            "cluster": "frontend-tools",
-            "isNew": false
-        },
-        {
             "id": "t-o53y6ik0y",
             "title": "Suspicious Betting Rises",
             "subtitle": "IBIA reports a 10% YoY increase in suspicious betting alerts during Q2",
@@ -2381,7 +2349,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
+            "lastScan": "2026-08-03T02:30:44.605Z",
             "note": null
         },
         {
@@ -2398,31 +2366,28 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "fallbackUsed": "metadata-only",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "fallbackUsed": "search-summary",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -2437,22 +2402,20 @@
             "name": "EGBA",
             "url": "https://egba.eu",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": "EU regulatory insights",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": "EU regulatory insights"
         },
         {
             "name": "NJ DGE",
             "url": "https://nj.gov/oag/ge",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
+            "lastScan": "2026-08-03T02:30:44.605Z",
             "note": "PDF-based reports",
-            "fallbackUsed": "manual_link_drop",
-            "errorReason": "HTTP 503"
+            "fallbackUsed": "manual_link_drop"
         },
         {
             "name": "X / Twitter",
@@ -2468,11 +2431,10 @@
             "name": "Civitai",
             "url": "https://civitai.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
             "name": "r/StableDiffusion",
@@ -2527,31 +2489,28 @@
             "name": "PromptHero",
             "url": "https://prompthero.com",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": "Prompt gallery signal — style/trend detection",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": "Prompt gallery signal — style/trend detection"
         },
         {
             "name": "OpenArt",
             "url": "https://openart.ai",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": "Promptbook — style/prompt signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": "Promptbook — style/prompt signal"
         },
         {
             "name": "Lexica",
             "url": "https://lexica.art",
             "category": "Art",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": "Style browsing signal",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": "Style browsing signal"
         },
         {
             "name": "Adobe Photoshop + Firefly",
@@ -2585,31 +2544,28 @@
             "name": "Futurepedia",
             "url": "https://futurepedia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": null
         },
         {
             "name": "Synthesia",
             "url": "https://synthesia.io",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": null
         },
         {
             "name": "HeyGen",
             "url": "https://heygen.com",
             "category": "AI",
-            "status": "error",
+            "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-02T23:57:18.570Z",
-            "note": null,
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-08-03T02:30:44.605Z",
+            "note": null
         },
         {
             "name": "Nano-banana",
@@ -2681,7 +2637,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-02T23:57:18.570Z",
+            "lastScan": "2026-08-03T02:30:44.605Z",
             "note": null
         },
         {
@@ -40511,6 +40467,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-zprdailem",
+            "title": "Unity CLI",
+            "subtitle": "Manage Unity from the terminal with the new CLI and com.unity.pipeline package",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "CLI",
+                "Automation",
+                "AI"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/meet-the-unity-cli",
+                "date": "2026-07-20T00:00:00.000Z"
+            },
+            "whatsNew": "The Unity CLI allows for managing Unity from the terminal, including installing editors and automating CI. The com.unity.pipeline package provides a structured way for scripts and AI agents to operate Unity.",
+            "whyItMatters": "This new feature enables faster and more efficient workflow automation, and opens up new possibilities for AI integration in Unity development.",
+            "howToUse": "Developers can use the Unity CLI to automate repetitive tasks and integrate Unity with other tools and services, and use the com.unity.pipeline package to create custom scripts and AI agents.",
+            "beneficiaries": [
+                "Game Developers",
+                "Automation Engineers"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
             "isNew": false
         }
     ]
