@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-04T21:08:42.378Z",
+        "scanDate": "2026-08-04T22:59:49.629Z",
         "version": "2.5.0",
-        "totalTrends": 76,
+        "totalTrends": 78,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,68 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-so1374yvk",
+            "title": "Brightstar Revenue Drop",
+            "subtitle": "Brightstar experiences a 7% drop in revenue, but sees an increase in profits and iLottery",
+            "category": "iGaming",
+            "tags": [
+                "iLottery",
+                "Revenue",
+                "Profits"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcW5YNTk3bkROZTRob2w2bXhjN2p0OXhqZkVQSUs1ekk0dW4wSkJfUUdwVFU1V21GRHY5My14aGkxZmEyS3ktN1FZeUdUQVV5NjNZYVBrYTBlWExIc0hOaVppeGFMQ0hmaGRKd2VYVGgxOTNxWHROcUJmX01QZndtSXpzalZlTkp3N3drLUNWMGxhXzg3Y0dENnhtejR5M0JVT0FGY1NxVDJ0eVk?oc=5",
+                "date": "2026-08-04T16:10:20.000Z"
+            },
+            "whatsNew": "Brightstar's revenue has dropped by 7%, but the company has seen an increase in profits and iLottery. This indicates a shift in the company's focus towards more profitable ventures.",
+            "whyItMatters": "The increase in iLottery profits suggests a growing demand for online lottery services, which could be an opportunity for other companies in the iGaming industry.",
+            "howToUse": "Companies in the iGaming industry can consider shifting their focus towards more profitable ventures, such as iLottery, to offset revenue drops in other areas.",
+            "beneficiaries": [
+                "iGaming companies",
+                "Investors"
+            ],
+            "companies": [
+                "Brightstar"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
+        {
+            "id": "t-vtzaey9ee",
+            "title": "AI Model Update",
+            "subtitle": "Civitai releases MiniMax H3 INT4 ConvRot model with 12GB VRAM",
+            "category": "AI",
+            "tags": [
+                "AI Models",
+                "Civitai",
+                "INT4 ConvRot"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83T0szUlJLaVctOGhlZ093Vkt2MWVyTjllLXZJT3NwYTZTZ2ZGalJQX3F4dE80UHliTFFpRnZ0TEY5Y2tGR1VhZUxLSE5wZDU1cHlzQ1RHVDNrckNvX05VbTFIeFhqaUdTall5R3hfMWlpcnN2LTVMdVZpYw?oc=5",
+                "date": "2026-08-03T07:00:00.000Z"
+            },
+            "whatsNew": "Civitai has released the MiniMax H3 INT4 ConvRot model, which requires 12GB VRAM. The model is also available in a pruned version, fl2va_pruned_int4_convrot.",
+            "whyItMatters": "This update is significant for AI researchers and developers, as it provides a new tool for AI-related tasks. The release of this model can lead to advancements in AI for creative work.",
+            "howToUse": "Developers can utilize this model for various AI tasks, such as image and video generation, by integrating it into their existing pipelines.",
+            "beneficiaries": [
+                "AI Researchers",
+                "Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
+            "isNew": true
+        },
         {
             "id": "t-kb5e0trcq",
             "title": "Sportradar Defies Critics",
@@ -2541,7 +2603,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": null
         },
         {
@@ -2560,7 +2622,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2569,7 +2631,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2578,7 +2640,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": "Regulatory updates"
         },
         {
@@ -2596,7 +2658,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2605,7 +2667,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2625,7 +2687,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2683,7 +2745,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2829,7 +2891,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T21:08:42.378Z",
+            "lastScan": "2026-08-04T22:59:49.629Z",
             "note": null
         },
         {
