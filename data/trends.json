@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-04T04:10:51.558Z",
+        "scanDate": "2026-08-04T07:36:08.254Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,69 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7r04oqzql",
+            "title": "AI Art Conversation",
+            "subtitle": "OpenArt explores how prompts are evolving into conversations for AI art generation",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "OpenArt",
+                "Prompt Engineering"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QWmdZamhUbjQ0VDctSWFiVGVlU3ZIYmFFVmtxVS1ZTVNFa3Q5TlJuT2JyNnA5R2hWa0NEWl8tR0dFOWZnajdLQjNSYkxYYUJfWExDRzVVTDFGWklBaGs5dW9qa3ZDLXU0V1l1WjlMVQ?oc=5",
+                "date": "2026-07-22T07:00:00.000Z"
+            },
+            "whatsNew": "OpenArt is developing a new approach to AI art generation, where the prompt is becoming a conversation. This allows for more nuanced and detailed art pieces. The conversation-like prompt enables more complex and interactive art creation.",
+            "whyItMatters": "This development has the potential to revolutionize the field of AI-generated art, enabling more sophisticated and human-like creations. It also opens up new possibilities for artists and designers to collaborate with AI systems.",
+            "howToUse": "Artists and designers can utilize this technology by engaging in a conversation-like dialogue with the AI system, providing more detailed and nuanced prompts to generate unique art pieces.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Researchers"
+            ],
+            "companies": [
+                "OpenArt"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": true
+        },
+        {
+            "id": "t-8bgl6fpvh",
+            "title": "Video Generation",
+            "subtitle": "Synthesia addresses video generation delays in their knowledge base.",
+            "category": "AI",
+            "tags": [
+                "AI video tools",
+                "Video generation",
+                "Synthesia"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "Synthesia",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBFMHZwNU9OYk1LNjR1MWFkanh2R3hscHl3VEp4QW1IM0llRm15N1kzbklwaEhGYW9pZ212SFAzTVpRUldmeHQ5YlRwRjc5dGliZVE2OXdTUTRsZmoxTFcxYXNxUjJUeDR2OTQzSzIxUTMwcGNnNUxYdFBicTlrbHlNN2hSbFVkTW5qZGk0Wm14Zw?oc=5",
+                "date": "2026-07-22T19:41:26.000Z"
+            },
+            "whatsNew": "Synthesia's knowledge base provides insights into video generation delays. The base offers troubleshooting tips for faster video rendering. It highlights common issues that slow down video generation.",
+            "whyItMatters": "Understanding the causes of video generation delays can help users optimize their workflow and reduce production time. This is particularly important for creators relying on AI video tools for their content.",
+            "howToUse": "Users can visit Synthesia's knowledge base to find solutions for common video generation issues, thereby streamlining their content creation process.",
+            "beneficiaries": [
+                "Content creators",
+                "Video producers"
+            ],
+            "companies": [
+                "Synthesia"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-33hs4jww1",
             "title": "AI Video Prompt",
@@ -1977,38 +2040,6 @@
             "isNew": false
         },
         {
-            "id": "t-abvw2ooaf",
-            "title": "Krea2 Workflow",
-            "subtitle": "Civitai releases Moody Krea2 Minimal Workflow v3.0",
-            "category": "AI",
-            "tags": [
-                "Krea2",
-                "Workflow",
-                "Civitai",
-                "AI Tools"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "Civitai",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YVlRINVljRi1fQ2IyT2UtTXJGVVRXQkd0R0thSVN6VE5CV0xLRVRuN29MNHoyOWRNTHhXcFBPcnY5NzBDYnlFQ1BPNm5lNjQ1YTUtTzBsejktUngzRno1djhzRlpfSzVsUkdjcGdjcDg?oc=5",
-                "date": "2026-07-21T07:00:00.000Z"
-            },
-            "whatsNew": "The Moody Krea2 Minimal Workflow - v3.0 is released on Civitai, offering enhanced features for AI workflow management. This update focuses on minimalism and efficiency. The new version is part of the Krea2 Workflows series.",
-            "whyItMatters": "This update matters because it reflects the growing importance of streamlined workflows in AI creative work, impacting productivity and output quality for artists and developers. It also indicates Civitai's commitment to evolving its tools to meet user needs.",
-            "howToUse": "Artists and developers can utilize this workflow by integrating it into their existing Krea2 projects, leveraging its minimalistic approach to enhance their creative process and project management.",
-            "beneficiaries": [
-                "AI Artists",
-                "Game Developers"
-            ],
-            "companies": [
-                "Civitai"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-automation",
-            "isNew": false
-        },
-        {
             "id": "t-3y89amd0u",
             "title": "Online Poker Shift",
             "subtitle": "Market concentration and visibility changes impact online poker leaderboard",
@@ -2414,7 +2445,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": null
         },
         {
@@ -2433,7 +2464,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2442,7 +2473,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2451,7 +2482,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "Regulatory updates"
         },
         {
@@ -2469,7 +2500,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2478,7 +2509,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2498,7 +2529,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2556,7 +2587,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2565,7 +2596,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2574,7 +2605,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": "Style browsing signal"
         },
         {
@@ -2611,7 +2642,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": null
         },
         {
@@ -2620,7 +2651,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": null
         },
         {
@@ -2629,7 +2660,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "search-summary",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": null
         },
         {
@@ -2702,7 +2733,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T04:10:51.558Z",
+            "lastScan": "2026-08-04T07:36:08.254Z",
             "note": null
         },
         {
@@ -40807,6 +40838,38 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-abvw2ooaf",
+            "title": "Krea2 Workflow",
+            "subtitle": "Civitai releases Moody Krea2 Minimal Workflow v3.0",
+            "category": "AI",
+            "tags": [
+                "Krea2",
+                "Workflow",
+                "Civitai",
+                "AI Tools"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YVlRINVljRi1fQ2IyT2UtTXJGVVRXQkd0R0thSVN6VE5CV0xLRVRuN29MNHoyOWRNTHhXcFBPcnY5NzBDYnlFQ1BPNm5lNjQ1YTUtTzBsejktUngzRno1djhzRlpfSzVsUkdjcGdjcDg?oc=5",
+                "date": "2026-07-21T07:00:00.000Z"
+            },
+            "whatsNew": "The Moody Krea2 Minimal Workflow - v3.0 is released on Civitai, offering enhanced features for AI workflow management. This update focuses on minimalism and efficiency. The new version is part of the Krea2 Workflows series.",
+            "whyItMatters": "This update matters because it reflects the growing importance of streamlined workflows in AI creative work, impacting productivity and output quality for artists and developers. It also indicates Civitai's commitment to evolving its tools to meet user needs.",
+            "howToUse": "Artists and developers can utilize this workflow by integrating it into their existing Krea2 projects, leveraging its minimalistic approach to enhance their creative process and project management.",
+            "beneficiaries": [
+                "AI Artists",
+                "Game Developers"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-automation",
             "isNew": false
         }
     ]
