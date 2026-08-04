@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-03T22:05:42.474Z",
+        "scanDate": "2026-08-04T00:05:50.081Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-33hs4jww1",
+            "title": "AI Video Prompt",
+            "subtitle": "Grok Imagine Video prompt generates content based on text input",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "PromptHero",
+                "Grok Imagine"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "PromptHero",
+                "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWFqTFlyYXc2c1F6X0FNUGNibHF6VTJQSldYZ3JQT0M4QkxLT3RfNXhFVkd2Y2ZiNEVHNGZWQXdtd3pIWkdaVWNQeXdxRTFES1lGR3JWRnBBb0t3NXN6RjRYXzdvYWJ1Q0hJZ2hfZEpHMVE2c2xEaVlZUlgxTmFrXzZoNXJGb01OUm85aWFBSi1GMVd3UkR4WndDcC1DR3ZGR0lDU3JRMzh1V21vS1UtdzBUOUFpOFNybUNtVkRpbkpSLVllSVVyNkRIakZSaHM0TUtKVHJnRVpDX0lFTjZUWjljc2ZSb0tMSFluLV84WnpVQWMxTWc?oc=5",
+                "date": "2026-07-27T19:57:06.000Z"
+            },
+            "whatsNew": "Grok Imagine Video prompt allows users to generate video content using text prompts. This technology has the potential to revolutionize the way video content is created. The platform uses AI to interpret and visualize the prompt.",
+            "whyItMatters": "The ability to generate video content using text prompts can significantly impact the gaming and iGaming industries, enabling the creation of dynamic and interactive content. This technology can also be used in game development and visual design.",
+            "howToUse": "Game developers and designers can use this technology to create interactive and immersive experiences. They can experiment with different prompts to generate unique video content.",
+            "beneficiaries": [
+                "Game Developers",
+                "Designers"
+            ],
+            "companies": [
+                "PromptHero"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-87e17wpk4",
             "title": "AC Jackpot Report",
@@ -48,7 +79,7 @@
             "companies": [],
             "visualStyle": null,
             "cluster": "igaming-innovation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-0o1nuud6d",
@@ -2443,7 +2474,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": null
         },
         {
@@ -2462,7 +2493,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2471,7 +2502,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2480,7 +2511,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": "Regulatory updates"
         },
         {
@@ -2498,7 +2529,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2507,7 +2538,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2527,7 +2558,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2585,7 +2616,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2594,7 +2625,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T18:48:40.096Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2731,7 +2762,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-03T22:05:42.474Z",
+            "lastScan": "2026-08-04T00:05:50.081Z",
             "note": null
         },
         {
