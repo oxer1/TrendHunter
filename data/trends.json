@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-08-04T10:34:57.672Z",
+        "scanDate": "2026-08-04T12:58:57.680Z",
         "version": "2.5.0",
         "totalTrends": 75,
         "categories": [
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-c5ym3cxfb",
+            "title": "BETBY Wins Award",
+            "subtitle": "BETBY discusses their win at the EGR B2B Awards 2026",
+            "category": "iGaming",
+            "tags": [
+                "EGR B2B Awards",
+                "BETBY",
+                "iGaming Awards"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHl2T0NLMDJLMWlWWlBwWU9HRENsMjIzNDNyU2xOUGZEdzN1ejRkaFQzMndYNUx1NzZhNVJ5UXFoWkFXRlBBcHNqbEZubGhpa3V3bkd0OE9iNHpqWEdPUnh2Z240RDJZaFMzTkJTRWVsbXp0UEVTTm1Damx6b1ZYbmZhOUZPNjl3UGpIOVczQTRfUQ?oc=5",
+                "date": "2026-08-04T10:45:01.000Z"
+            },
+            "whatsNew": "BETBY won an award at the EGR B2B Awards 2026, a prestigious event in the iGaming industry. The award recognizes their excellence in the field. BETBY shared their insights and experiences in a winner's interview.",
+            "whyItMatters": "The win highlights BETBY's position as a leader in the iGaming industry and showcases their innovative approaches. It also underscores the importance of the EGR B2B Awards in recognizing excellence in the sector.",
+            "howToUse": "Companies in the iGaming industry can draw inspiration from BETBY's strategies and approaches that led to their award win. They can also consider participating in future EGR B2B Awards to gain recognition.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Betting Companies"
+            ],
+            "companies": [
+                "BETBY"
+            ],
+            "visualStyle": null,
+            "cluster": "igaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-5vzonwlkf",
             "title": "Mile 80 Expands",
@@ -50,7 +81,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-y0dxq6sl2",
@@ -81,7 +112,7 @@
             ],
             "visualStyle": null,
             "cluster": "ai-video",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-7r04oqzql",
@@ -1170,35 +1201,6 @@
             ],
             "visualStyle": null,
             "cluster": "ai-in-igaming",
-            "isNew": false
-        },
-        {
-            "id": "t-j0kbcre3q",
-            "title": "Unlicensed Den Raids",
-            "subtitle": "UK Gambling Commission conducts raids on unlicensed gambling dens in Doncaster",
-            "category": "iGaming",
-            "tags": [
-                "Regulation",
-                "Licensing",
-                "UK Gambling Commission"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFk1TTlLSjdYajBUdXVtUkZRWGxCRFFMTzBiTTZjWnRmd2lEd2JOM2pmLWJLUVpuOWlhdzIzczhDUmpxZ3ZCTkQyR0ZTVGR6aXRPTjlYZ3E2ZlFrZ0lsWXNzellJb2Y2dTh5REs1R3h5MlFybks5WUZDaWQyWlpiSFZPZW9nSm1xZXU3Z3lPNTFxOEJodjhHcg?oc=5",
-                "date": "2026-07-21T12:10:51.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has carried out raids on unlicensed gambling dens in Doncaster, highlighting the ongoing issue of illegal gambling operations. The commission's actions aim to protect consumers and ensure compliance with gambling regulations.",
-            "whyItMatters": "The raids demonstrate the commission's commitment to enforcing gambling laws and protecting vulnerable individuals from the risks associated with unlicensed gambling. This enforcement also maintains the integrity of the regulated gambling market.",
-            "howToUse": "Operators must ensure they hold the necessary licenses to operate legally, and consumers should only gamble with licensed providers to ensure their safety and protection.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Consumers"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
             "isNew": false
         },
         {
@@ -2508,7 +2510,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": null
         },
         {
@@ -2527,7 +2529,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2536,7 +2538,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2545,7 +2547,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": "Regulatory updates"
         },
         {
@@ -2563,7 +2565,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2572,7 +2574,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2592,7 +2594,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2650,7 +2652,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2796,7 +2798,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-04T10:34:57.672Z",
+            "lastScan": "2026-08-04T12:58:57.680Z",
             "note": null
         },
         {
@@ -40933,6 +40935,35 @@
             ],
             "visualStyle": null,
             "cluster": "ai-automation",
+            "isNew": false
+        },
+        {
+            "id": "t-j0kbcre3q",
+            "title": "Unlicensed Den Raids",
+            "subtitle": "UK Gambling Commission conducts raids on unlicensed gambling dens in Doncaster",
+            "category": "iGaming",
+            "tags": [
+                "Regulation",
+                "Licensing",
+                "UK Gambling Commission"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFk1TTlLSjdYajBUdXVtUkZRWGxCRFFMTzBiTTZjWnRmd2lEd2JOM2pmLWJLUVpuOWlhdzIzczhDUmpxZ3ZCTkQyR0ZTVGR6aXRPTjlYZ3E2ZlFrZ0lsWXNzellJb2Y2dTh5REs1R3h5MlFybks5WUZDaWQyWlpiSFZPZW9nSm1xZXU3Z3lPNTFxOEJodjhHcg?oc=5",
+                "date": "2026-07-21T12:10:51.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has carried out raids on unlicensed gambling dens in Doncaster, highlighting the ongoing issue of illegal gambling operations. The commission's actions aim to protect consumers and ensure compliance with gambling regulations.",
+            "whyItMatters": "The raids demonstrate the commission's commitment to enforcing gambling laws and protecting vulnerable individuals from the risks associated with unlicensed gambling. This enforcement also maintains the integrity of the regulated gambling market.",
+            "howToUse": "Operators must ensure they hold the necessary licenses to operate legally, and consumers should only gamble with licensed providers to ensure their safety and protection.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Consumers"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
             "isNew": false
         }
     ]
