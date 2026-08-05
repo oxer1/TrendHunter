@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-05T09:34:34.879Z",
+        "scanDate": "2026-08-05T11:57:09.667Z",
         "version": "2.5.0",
-        "totalTrends": 77,
+        "totalTrends": 76,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-7n0v9o0dn",
+            "title": "Flutter CEO Change",
+            "subtitle": "Dan Taylor replaces Peter Jackson as group CEO at Flutter",
+            "category": "iGaming",
+            "tags": [
+                "Flutter",
+                "CEO Change",
+                "iGaming Leadership"
+            ],
+            "trendStrength": 3,
+            "velocity": "stable",
+            "source": {
+                "name": "EGR Global",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT19lMUhkNE5xYlZ4R21BMU9ZV0ZKMkQzVURjdHFqUWNnWlZPNUVmT09BV2xMM1h0VFJla3ZNNnlVb2xZVTJSZkhqeEdvczUtRmt4SjAySTdBWDZLNjdtZ0piVlVYYXFmbExwdlJJbFktd3RPMUN4SmJ5MDloWndGWHBpdmRyNy12RHBmTmhQQkFEM1ZnTjFxYUhB?oc=5",
+                "date": "2026-08-05T11:55:43.000Z"
+            },
+            "whatsNew": "Dan Taylor is set to replace Peter Jackson as the group CEO at Flutter, marking a significant change in leadership for the company. This change may impact the company's strategy and direction. The transition is expected to be closely watched by the industry.",
+            "whyItMatters": "The change in leadership at Flutter could have significant implications for the company's operations and the broader iGaming industry. It may lead to changes in strategy, partnerships, and investments.",
+            "howToUse": "Industry stakeholders should monitor the transition and its potential impact on Flutter's operations and the iGaming market. Companies can prepare by assessing potential changes in Flutter's strategy and partnerships.",
+            "beneficiaries": [
+                "iGaming Operators",
+                "Industry Stakeholders"
+            ],
+            "companies": [
+                "Flutter"
+            ],
+            "visualStyle": null,
+            "cluster": "iGaming-innovation",
+            "isNew": true
+        },
         {
             "id": "t-2ql1ppxln",
             "title": "UK Gambling License",
@@ -49,7 +80,7 @@
             ],
             "visualStyle": null,
             "cluster": "regulation",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": "t-so1374yvk",
@@ -1140,35 +1171,6 @@
             "isNew": false
         },
         {
-            "id": "t-w4a93lt2n",
-            "title": "UK Gambling Update",
-            "subtitle": "Gambling Commission amends financial penalty principles",
-            "category": "iGaming",
-            "tags": [
-                "Gambling Commission",
-                "Regulation",
-                "Financial Penalties"
-            ],
-            "trendStrength": 4,
-            "velocity": "stable",
-            "source": {
-                "name": "UK Gambling Commission",
-                "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbG55b0UxQjZ4bFF2eW51aHNIWGdnaVJBd3NUX1hoTXJOZW1mT2Rrc1haRnlfcXJFdlVNZ3dBNjQ3YWZaWHc1WnNpVWI2dGo1Qm9xSGJuVU03Sy1WdXZVTHRmOTdLZ0lNM0Z4WXNPbm1yMmtEQ25PWGNaaERCdUVyM1lodmozeDNaSUFXSUN4U3BsS1FPbHdFVi0wUVQxYU4zZm1falFKMHRyU2NVWmZNRUJRXzFtaTdSbzNSRVh3YzAtZmJjYS14RHA3QmJiOHRKTUFDeXBYTmktS0xnYmhMNmg3M2VHZW43Q21POGE4c1hnODFsSFZvb29CNm9tbXM?oc=5",
-                "date": "2026-07-22T10:02:11.000Z"
-            },
-            "whatsNew": "The UK Gambling Commission has amended section 2.39 of the Statement of principles for determining financial penalties. This change is a result of a consultation response. The amendment aims to improve the transparency and consistency of financial penalties in the gambling industry.",
-            "whyItMatters": "The amendment will impact the gambling industry by providing clearer guidelines for financial penalties, ensuring operators are held accountable for non-compliance. This change demonstrates the Commission's commitment to regulating the industry effectively.",
-            "howToUse": "Operators should review the amended principles to ensure compliance and understand the potential implications of non-compliance. The Commission's guidance should be consulted for specific details on the changes.",
-            "beneficiaries": [
-                "Gambling Operators",
-                "Regulatory Bodies"
-            ],
-            "companies": [],
-            "visualStyle": null,
-            "cluster": "regulation",
-            "isNew": false
-        },
-        {
             "id": "t-fhtradmr6",
             "title": "Stable Yogi Krea2",
             "subtitle": "New version of realism model released on Civitai",
@@ -2013,38 +2015,6 @@
             "isNew": false
         },
         {
-            "id": "t-qe0e568lp",
-            "title": "Gemini AI Prompts",
-            "subtitle": "Article about 41 best Gemini AI photo prompts for copying and pasting, related to AI art generation.",
-            "category": "AI",
-            "tags": [
-                "AI Art",
-                "Gemini AI",
-                "Photo Prompts"
-            ],
-            "trendStrength": 4,
-            "velocity": "rising",
-            "source": {
-                "name": "OpenArt",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUE51T3p3LWVCemo0bjRtSWRpOHNzRUZ6YW1uM0RTSnQwanBrUzZWMmtDZFhwaU9yQV9tbVI1YUFieWVGNXY2YkFnRXY2SWY2Z3JIdFRILTZzcUEtZGR3bWl3?oc=5",
-                "date": "2026-07-22T10:45:49.000Z"
-            },
-            "whatsNew": "The article provides a list of 41 Gemini AI photo prompts that can be copied and pasted, facilitating the creation of AI-generated art. These prompts are designed to work with AI models, allowing users to produce a wide range of images. The ease of use of these prompts makes AI art generation more accessible.",
-            "whyItMatters": "This resource is valuable for individuals interested in AI art generation, as it simplifies the process of creating high-quality images using AI tools. It also highlights the growing importance of AI in creative work, particularly in the visual arts.",
-            "howToUse": "To utilize these prompts, users can simply copy and paste them into their AI art generation tool, adjusting parameters as needed to achieve the desired outcome. This straightforward approach makes it easier for both beginners and experienced artists to explore AI-generated art.",
-            "beneficiaries": [
-                "Artists",
-                "Designers",
-                "AI Enthusiasts"
-            ],
-            "companies": [
-                "OpenArt"
-            ],
-            "visualStyle": null,
-            "cluster": "ai-art-pipeline",
-            "isNew": false
-        },
-        {
             "id": "t-6f6km5ti2",
             "title": "Sports Betting Ban",
             "subtitle": "Nevada congressmen propose outlawing sports-based prediction markets in a bipartisan bid",
@@ -2570,7 +2540,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": null
         },
         {
@@ -2589,7 +2559,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2598,7 +2568,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2607,7 +2577,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": "Regulatory updates"
         },
         {
@@ -2625,7 +2595,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2634,7 +2604,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2654,7 +2624,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2712,7 +2682,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2721,7 +2691,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": "Promptbook — style/prompt signal"
         },
         {
@@ -2858,7 +2828,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T09:34:34.879Z",
+            "lastScan": "2026-08-05T11:57:09.667Z",
             "note": null
         },
         {
@@ -41085,6 +41055,67 @@
             ],
             "companies": [
                 "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-art-pipeline",
+            "isNew": false
+        },
+        {
+            "id": "t-w4a93lt2n",
+            "title": "UK Gambling Update",
+            "subtitle": "Gambling Commission amends financial penalty principles",
+            "category": "iGaming",
+            "tags": [
+                "Gambling Commission",
+                "Regulation",
+                "Financial Penalties"
+            ],
+            "trendStrength": 4,
+            "velocity": "stable",
+            "source": {
+                "name": "UK Gambling Commission",
+                "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbG55b0UxQjZ4bFF2eW51aHNIWGdnaVJBd3NUX1hoTXJOZW1mT2Rrc1haRnlfcXJFdlVNZ3dBNjQ3YWZaWHc1WnNpVWI2dGo1Qm9xSGJuVU03Sy1WdXZVTHRmOTdLZ0lNM0Z4WXNPbm1yMmtEQ25PWGNaaERCdUVyM1lodmozeDNaSUFXSUN4U3BsS1FPbHdFVi0wUVQxYU4zZm1falFKMHRyU2NVWmZNRUJRXzFtaTdSbzNSRVh3YzAtZmJjYS14RHA3QmJiOHRKTUFDeXBYTmktS0xnYmhMNmg3M2VHZW43Q21POGE4c1hnODFsSFZvb29CNm9tbXM?oc=5",
+                "date": "2026-07-22T10:02:11.000Z"
+            },
+            "whatsNew": "The UK Gambling Commission has amended section 2.39 of the Statement of principles for determining financial penalties. This change is a result of a consultation response. The amendment aims to improve the transparency and consistency of financial penalties in the gambling industry.",
+            "whyItMatters": "The amendment will impact the gambling industry by providing clearer guidelines for financial penalties, ensuring operators are held accountable for non-compliance. This change demonstrates the Commission's commitment to regulating the industry effectively.",
+            "howToUse": "Operators should review the amended principles to ensure compliance and understand the potential implications of non-compliance. The Commission's guidance should be consulted for specific details on the changes.",
+            "beneficiaries": [
+                "Gambling Operators",
+                "Regulatory Bodies"
+            ],
+            "companies": [],
+            "visualStyle": null,
+            "cluster": "regulation",
+            "isNew": false
+        },
+        {
+            "id": "t-qe0e568lp",
+            "title": "Gemini AI Prompts",
+            "subtitle": "Article about 41 best Gemini AI photo prompts for copying and pasting, related to AI art generation.",
+            "category": "AI",
+            "tags": [
+                "AI Art",
+                "Gemini AI",
+                "Photo Prompts"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "OpenArt",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUE51T3p3LWVCemo0bjRtSWRpOHNzRUZ6YW1uM0RTSnQwanBrUzZWMmtDZFhwaU9yQV9tbVI1YUFieWVGNXY2YkFnRXY2SWY2Z3JIdFRILTZzcUEtZGR3bWl3?oc=5",
+                "date": "2026-07-22T10:45:49.000Z"
+            },
+            "whatsNew": "The article provides a list of 41 Gemini AI photo prompts that can be copied and pasted, facilitating the creation of AI-generated art. These prompts are designed to work with AI models, allowing users to produce a wide range of images. The ease of use of these prompts makes AI art generation more accessible.",
+            "whyItMatters": "This resource is valuable for individuals interested in AI art generation, as it simplifies the process of creating high-quality images using AI tools. It also highlights the growing importance of AI in creative work, particularly in the visual arts.",
+            "howToUse": "To utilize these prompts, users can simply copy and paste them into their AI art generation tool, adjusting parameters as needed to achieve the desired outcome. This straightforward approach makes it easier for both beginners and experienced artists to explore AI-generated art.",
+            "beneficiaries": [
+                "Artists",
+                "Designers",
+                "AI Enthusiasts"
+            ],
+            "companies": [
+                "OpenArt"
             ],
             "visualStyle": null,
             "cluster": "ai-art-pipeline",
