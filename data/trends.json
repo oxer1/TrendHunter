@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-05T16:38:46.684Z",
+        "scanDate": "2026-08-05T18:18:05.298Z",
         "version": "2.5.0",
-        "totalTrends": 73,
+        "totalTrends": 74,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-xusqqrn97",
+            "title": "Bunny Blitz",
+            "subtitle": "Unity releases 3D as 2D sample project Bunny Blitz",
+            "category": "Tech",
+            "tags": [
+                "Unity",
+                "Game Development",
+                "3D as 2D"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Unity Blog",
+                "url": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
+                "date": "2026-08-05T00:00:00.000Z"
+            },
+            "whatsNew": "Unity has released a new sample project called Bunny Blitz, showcasing 3D as 2D game development. This project demonstrates how to create 2D-like games using 3D assets and techniques. The project is available for download now.",
+            "whyItMatters": "The release of Bunny Blitz provides game developers with a valuable resource for learning and experimenting with 3D as 2D game development, potentially leading to new and innovative game styles. This can help developers create more engaging and visually appealing games.",
+            "howToUse": "Developers can use Bunny Blitz as a starting point for their own projects, experimenting with the techniques and assets provided to create unique 2D-like games using 3D assets.",
+            "beneficiaries": [
+                "Game Developers",
+                "Indie Game Studios"
+            ],
+            "companies": [
+                "Unity"
+            ],
+            "visualStyle": null,
+            "cluster": "frontend-tools",
+            "isNew": true
+        },
         {
             "id": "t-7n0v9o0dn",
             "title": "Flutter CEO Change",
@@ -2447,7 +2478,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": null
         },
         {
@@ -2466,7 +2497,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2475,7 +2506,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2484,7 +2515,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": "Regulatory updates"
         },
         {
@@ -2502,7 +2533,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2511,7 +2542,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2531,7 +2562,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2589,7 +2620,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2735,7 +2766,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T16:38:46.684Z",
+            "lastScan": "2026-08-05T18:18:05.298Z",
             "note": null
         },
         {
