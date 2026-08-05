@@ -1,8 +1,8 @@
 {
     "meta": {
-        "scanDate": "2026-08-05T22:09:48.727Z",
+        "scanDate": "2026-08-05T23:57:17.650Z",
         "version": "2.5.0",
-        "totalTrends": 72,
+        "totalTrends": 73,
         "categories": [
             "iGaming",
             "AI",
@@ -20,6 +20,37 @@
         ]
     },
     "trends": [
+        {
+            "id": "t-3qagzfa0n",
+            "title": "AI Film Workflow",
+            "subtitle": "Civitai introduces advanced filmmaking workflow with speedups and quality of life features",
+            "category": "AI",
+            "tags": [
+                "AI Video",
+                "Filmmaking",
+                "Workflow"
+            ],
+            "trendStrength": 4,
+            "velocity": "rising",
+            "source": {
+                "name": "Civitai",
+                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTV3NnA4MEVhRHoxN0FFV0xQdmI2RTJwNVc1N1F3YXVaaWM5YnhiQVBUT1EzVU9vbGpxM3dYUXBIVU9uZjVQSnRKak56cWhkZHNlUG5nNGpFMC1acUlFRDJQZjdoTGtFTWxkUHEtV3RrTjV2QnRKaTBoNklaWlZ0UWVWRzNuOXZlaWItMmtXTWZmT0o5QmhZMEtGNGYwR0VMc1BfQldRRlVkMEVhS0pZT2xwTTdYS2t4?oc=5",
+                "date": "2026-08-05T01:54:55.000Z"
+            },
+            "whatsNew": "Civitai's Minimax H3 T2V / I2V / REF2V workflow offers advanced filmmaking capabilities with improved speed and quality of life features. This workflow is designed to streamline the filmmaking process. It includes all speedups and QoL features for efficient video production.",
+            "whyItMatters": "The introduction of this workflow can significantly impact the filmmaking industry by providing more efficient and advanced tools for video production. It can benefit filmmakers and content creators by reducing production time and improving overall quality.",
+            "howToUse": "Filmmakers can utilize Civitai's Minimax H3 T2V / I2V / REF2V workflow by integrating it into their existing production pipeline, leveraging its speedups and QoL features to enhance their workflow efficiency.",
+            "beneficiaries": [
+                "Filmmakers",
+                "Content Creators"
+            ],
+            "companies": [
+                "Civitai"
+            ],
+            "visualStyle": null,
+            "cluster": "ai-video",
+            "isNew": true
+        },
         {
             "id": "t-xusqqrn97",
             "title": "Bunny Blitz",
@@ -2416,7 +2447,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": null
         },
         {
@@ -2435,7 +2466,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -2444,7 +2475,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "fallbackUsed": "search-summary"
         },
         {
@@ -2453,7 +2484,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": "Regulatory updates"
         },
         {
@@ -2471,7 +2502,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": "EU regulatory insights"
         },
         {
@@ -2480,7 +2511,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": "PDF-based reports",
             "fallbackUsed": "manual_link_drop"
         },
@@ -2500,7 +2531,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "api",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": "REST API: /api/v1/images, /api/v1/models, /api/v1/tags"
         },
         {
@@ -2558,7 +2589,7 @@
             "category": "Art",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": "Prompt gallery signal — style/trend detection"
         },
         {
@@ -2704,7 +2735,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-08-05T22:09:48.727Z",
+            "lastScan": "2026-08-05T23:57:17.650Z",
             "note": null
         },
         {
