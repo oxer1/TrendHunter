@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-10-31T19:21:18.176Z",
+        "scanDate": "2026-10-31T23:14:34.017Z",
         "version": "2.5.0",
         "totalTrends": 0,
         "categories": [
@@ -174,7 +174,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-10-31T19:21:18.176Z",
+            "lastScan": "2026-10-31T23:14:34.017Z",
             "note": null
         },
         {
@@ -191,31 +191,28 @@
             "name": "EGR Global",
             "url": "https://egr.global",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-10-31T19:21:18.176Z",
-            "fallbackUsed": "metadata-only",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-10-31T23:14:34.017Z",
+            "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-10-31T19:21:18.176Z",
-            "fallbackUsed": "search-summary",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-10-31T23:14:34.017Z",
+            "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-10-31T19:21:18.176Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 503"
+            "lastScan": "2026-10-31T23:14:34.017Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -474,7 +471,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-10-31T19:21:18.176Z",
+            "lastScan": "2026-10-31T23:14:34.017Z",
             "note": null
         },
         {
