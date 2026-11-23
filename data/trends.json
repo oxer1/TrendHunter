@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-11-23T11:57:45.167Z",
+        "scanDate": "2026-11-23T23:33:34.658Z",
         "version": "2.5.0",
         "totalTrends": 0,
         "categories": [
@@ -174,7 +174,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-23T11:57:45.167Z",
+            "lastScan": "2026-11-23T23:33:34.658Z",
             "note": null
         },
         {
@@ -193,17 +193,18 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-11-23T11:57:45.167Z",
+            "lastScan": "2026-11-23T23:33:34.658Z",
             "fallbackUsed": "metadata-only"
         },
         {
             "name": "IAGR",
             "url": "https://iagr.org",
             "category": "iGaming",
-            "status": "healthy",
+            "status": "error",
             "method": "direct",
-            "lastScan": "2026-11-23T11:57:45.167Z",
-            "fallbackUsed": "search-summary"
+            "lastScan": "2026-11-23T23:33:34.658Z",
+            "fallbackUsed": "search-summary",
+            "errorReason": "HTTP 429"
         },
         {
             "name": "UK Gambling Commission",
@@ -211,7 +212,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-23T11:57:45.167Z",
+            "lastScan": "2026-11-23T23:33:34.658Z",
             "note": "Regulatory updates"
         },
         {
@@ -471,7 +472,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-23T11:57:45.167Z",
+            "lastScan": "2026-11-23T23:33:34.658Z",
             "note": null
         },
         {
