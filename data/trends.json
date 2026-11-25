@@ -1,6 +1,6 @@
 {
     "meta": {
-        "scanDate": "2026-11-25T03:33:52.847Z",
+        "scanDate": "2026-11-25T14:04:39.919Z",
         "version": "2.5.0",
         "totalTrends": 0,
         "categories": [
@@ -174,7 +174,7 @@
             "category": "AI",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-25T03:33:52.847Z",
+            "lastScan": "2026-11-25T14:04:39.919Z",
             "note": null
         },
         {
@@ -193,7 +193,7 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "metadata-only",
-            "lastScan": "2026-11-25T03:33:52.847Z",
+            "lastScan": "2026-11-25T14:04:39.919Z",
             "fallbackUsed": "metadata-only"
         },
         {
@@ -202,18 +202,17 @@
             "category": "iGaming",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-25T03:33:52.847Z",
+            "lastScan": "2026-11-25T14:04:39.919Z",
             "fallbackUsed": "search-summary"
         },
         {
             "name": "UK Gambling Commission",
             "url": "https://gamblingcommission.gov.uk",
             "category": "iGaming",
-            "status": "error",
+            "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-25T03:33:52.847Z",
-            "note": "Regulatory updates",
-            "errorReason": "HTTP 429"
+            "lastScan": "2026-11-25T14:04:39.919Z",
+            "note": "Regulatory updates"
         },
         {
             "name": "Malta Gaming Authority (MGA)",
@@ -471,7 +470,7 @@
             "category": "Tech",
             "status": "healthy",
             "method": "direct",
-            "lastScan": "2026-11-25T03:33:52.847Z",
+            "lastScan": "2026-11-25T14:04:39.919Z",
             "note": null
         },
         {
